@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Parcours - Théodore Trat</title>
+    <link rel="stylesheet" href="/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo"><a href="index.html">Théodore Trat</a></div>
+            <ul>
+                <li><a href="moi.html">Moi</a></li>
+                <li><a href="parcours.html">Mon Parcours</a></li>
+                <li><a href="projet-pro.html">Projet Professionnel</a></li>
+                <li><a href="projets.html">Mes Projets</a></li>
+                <li><a href="veille.html">Veille</a></li>
+                <li><a href="cv.html">Mon CV</a></li>
+                <li><a href="a-propos.html">Mes Compétences</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <button class="burger-menu" id="burger-menu"><span class="burger-bar"></span><span class="burger-bar"></span><span class="burger-bar"></span></button>
+        </nav>
+    </header>
+    <main>
+        <section id="parcours-page" class="alternate-bg">
+            <div class="container">
+                <h2>Mon Parcours</h2>
+                <div class="timeline">
+                    <div class="timeline-item"> <!-- BTS SIO - Le plus récent en premier -->
+                        <div class="timeline-icon"><i class="fas fa-graduation-cap"></i></div>
+                        <div class="timeline-content">
+                            <h3>2024 - 2026 (en cours)</h3>
+                            <h4>BTS SIO option SISR - 1ère année</h4>
+                            <p>Lycée René Descartes - Champs-sur-Marne</p>
+                            <p>Formation axée sur les solutions d'infrastructure, systèmes et réseaux, préparation aux métiers de l'administration et de la maintenance des infrastructures IT.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item"> <!-- Stage -->
+                        <div class="timeline-icon"><i class="fas fa-briefcase"></i></div>
+                        <div class="timeline-content">
+                            <h3>2 Juin 2025 - 4 Juillet 2025</h3>
+                            <h4>Stage Technicien Support / Administrateur Junior</h4>
+                            <p>Lapeyre - Siège Social, La Défense</p>
+                            <p><em>Entreprise : LAPEYRE (SAS)</em><br>
+                               <em>Secteur d'activité : Commerce de détail de quincaillerie, peintures et verres en grandes surfaces.</em></p>
+                            <p><em>Missions envisagées :</em></p>
+                            <ul class="missions-list">
+                                <li>Déploiement de postes de travail Windows</li>
+                                <li>Paramétrage de smartphones</li>
+                                <li>Support utilisateur (gestion des incidents et des demandes dans GLPI)</li>
+                                <li>Maintien en état de fonctionnement des matériels (PC, smartphones, imprimantes...)</li>
+                                <li>Mise à jour des DNS des imprimantes</li>
+                                <li>Projet : Mise en place d'un outil de gestion des imprimantes Lexmark</li>
+                                <li>Migration sous Windows 11 des PC du siège</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="timeline-item"> <!-- BUT Informatique -->
+                        <div class="timeline-icon"><i class="fas fa-university"></i></div>
+                        <div class="timeline-content">
+                            <h3>2023 - 2024</h3>
+                            <h4>1ère année de BUT Informatique (non poursuivie)</h4>
+                            <p>IUT Sénart Fontainebleau (Site de Sénart) - Lieusaint</p>
+                            <p>Initiation aux fondamentaux de l'informatique : algorithmique, programmation, bases de données, réseaux.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item"> <!-- Collège/Lycée - Le plus ancien en dernier -->
+                        <div class="timeline-icon"><i class="fas fa-school"></i></div>
+                        <div class="timeline-content">
+                            <h3>Jusqu'en 2023 (8 années)</h3>
+                            <h4>Scolarité Collège & Lycée</h4>
+                            <p>Lycée Sainte Thérèse - Ozoir-la-Ferrière</p>
+                            <p>Obtention du Baccalauréat STI2D spécialisation SIN (Systèmes d'Information et Numérique), mention Assez Bien.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer><div class="container"><p>&copy; <span id="year"></span> Théodore Trat. Tous droits réservés.</p></div></footer>
+    <script src="/script.js"></script>
+</body>
+</html>
