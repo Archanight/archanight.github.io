@@ -242,3 +242,53 @@ document.addEventListener('DOMContentLoaded', function () {
         setStatus("Impossible de charger le flux RSS (CORS / réseau). Vous pouvez remplacer l'URL du flux dans veille.html.");
     }
 })();
+
+async function loadRssNews() {
+  const grid = document.getElementById("rssGrid");
+  if (!grid) return;
+
+  try {
+    const res = await fetch("./data/news.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("news.json introuvable");
+    const data = await res.json();
+
+    const items = (data.items || []).slice(0, 12);
+    if (!items.length) {
+      grid.innerHTML = `<div class="rss-loading">Aucune actualité disponible pour le moment.</div>`;
+      return;
+    }
+
+    const formatDate = (iso) => {
+      if (!iso) return "";
+      const d = new Date(iso);
+      if (isNaN(d.getTime())) return "";
+      return d.toLocaleDateString("fr-FR");
+    };
+
+    grid.innerHTML = items
+      .map((it) => {
+        const date = formatDate(it.publishedAt);
+        const safeTitle = (it.title || "").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+        const safeDesc = (it.description || "").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+        return `
+          <article class="rss-card">
+            <a class="rss-link" href="${it.link}" target="_blank" rel="noopener noreferrer">
+              <h3 class="rss-card-title">${safeTitle}</h3>
+            </a>
+            <div class="rss-meta">
+              <span class="rss-date">${date}</span>
+              <span class="rss-source">${it.source || ""}</span>
+            </div>
+            <p class="rss-desc">${safeDesc}</p>
+          </article>
+        `;
+      })
+      .join("");
+  } catch (e) {
+    grid.innerHTML = `<div class="rss-loading">Erreur de chargement des actualités.</div>`;
+  }
+}
+
+// Lance au chargement
+document.addEventListener("DOMContentLoaded", loadRssNews);
+
