@@ -603,6 +603,24 @@ body:has(main > section.hero:first-child:last-child) section.hero {
     .skills-tiles-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 
+@media (max-width: 640px) {
+    #veille-page .veille-hero {
+        padding: 20px 18px;
+    }
+
+    #veille-page .veille-title {
+        font-size: 1.55rem;
+        line-height: 1.25;
+        overflow-wrap: anywhere;
+        word-break: break-word;
+        hyphens: auto;
+    }
+
+    #veille-page .veille-lead {
+        font-size: 0.98rem;
+    }
+}
+
 @media (max-width: 620px) {
     .skills-tiles-grid { grid-template-columns: 1fr; }
     .skill-tile { padding: 20px 18px 16px; }
@@ -1066,7 +1084,7 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
 #veille-page .section-intro strong { color: var(--text-primary); }
 
 #veille-page .subsection-title {
-    margin: 34px 0 16px;
+    margin: 42px 0 18px;
     font-size: 1.05rem;
     font-weight: 800;
     letter-spacing: 0.3px;
@@ -1087,6 +1105,40 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
     box-shadow: 0 18px 50px rgba(0,0,0,0.38);
     position: relative;
     overflow: hidden;
+    transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+    /* Compacte l'espace sous le thème (on met plus d'air entre les sections suivantes) */
+    margin-bottom: 18px;
+}
+
+#veille-page .veille-hero:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 22px 60px rgba(0,0,0,0.48);
+    border-color: rgba(0, 234, 255, 0.30);
+}
+
+/* Titres de sections (Impacts / Outils / FAQ) */
+#veille-page .veille-section-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 1.1rem;
+    font-weight: 800;
+    margin: 18px 0 12px; /* petit espace entre titre et blocs */
+    color: #eaf4ff;
+}
+
+#veille-page .veille-section-title .emoji {
+    font-size: 1.05rem;
+    line-height: 1;
+}
+
+/* Espace "fort" entre les catégories */
+#veille-page .veille-grid.impacts-grid {
+    margin-bottom: 34px;
+}
+
+#veille-page .veille-grid.sources-grid {
+    margin-bottom: 34px;
 }
 
 #veille-page .veille-hero::before {
@@ -1136,6 +1188,17 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
     margin: 0 0 12px;
     color: var(--text-secondary);
     line-height: 1.85;
+}
+
+/* Titres de sections (Impacts / Outils / FAQ) */
+#veille-page .veille-section-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 12px 0 14px;
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: var(--text-primary);
 }
 
 #veille-page .veille-hero-meta {
@@ -1337,10 +1400,12 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
 }
 
 #veille-page .faq-answer {
-    padding: 0 16px 16px;
-    color: var(--text-secondary);
-    line-height: 1.75;
+    padding: 14px 16px 16px;
+    color: rgba(235, 246, 255, 0.92);
+    line-height: 1.55;
     display: none;
+    background: rgba(7, 16, 34, 0.22);
+    border-top: 1px solid rgba(0, 234, 255, 0.10);
 }
 
 #veille-page .faq-item.open {
@@ -1436,3 +1501,6 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
 .project-bottom a { width: fit-content; }
 
 
+
+/* Veille page layout tweak */
+.page-veille .veille-hero{grid-template-columns:1fr;}

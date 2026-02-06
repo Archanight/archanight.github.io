@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 </head>
-<body>
+<body class="page-veille">
     <a class="skip-link" href="#main-content">Aller au contenu</a>
 
     <header>
@@ -49,60 +49,6 @@
                             et comment cela transforme les pratiques en <strong>support</strong>, <strong>administration systèmes/réseaux</strong> et <strong>cybersécurité</strong>.
                         </p>
                     </div>
-
-                    <div class="veille-hero-side">
-                        <div class="veille-kpi">
-                            <span class="kpi-label">Périmètre</span>
-                            <span class="kpi-value">Support • Systèmes • Réseau • Cyber</span>
-                        </div>
-                        <div class="veille-kpi">
-                            <span class="kpi-label">Ce que je surveille</span>
-                            <span class="kpi-value">Fonctionnalités • Risques • Bonnes pratiques</span>
-                        </div>
-                        <div class="veille-kpi">
-                            <span class="kpi-label">Objectif</span>
-                            <span class="kpi-value">Anticiper les impacts métiers</span>
-                        </div>
-                    </div>
-                </div>
-
-                <h3 class="veille-section-title"><i class="fas fa-sitemap"></i> Axes de la veille</h3>
-                <div class="veille-grid">
-                    <article class="veille-card">
-                        <div class="veille-card-head">
-                            <i class="fas fa-microchip"></i>
-                            <h4>Évolution des capacités</h4>
-                        </div>
-                        <ul class="veille-list">
-                            <li>Qualité des réponses, fiabilité et hallucinations</li>
-                            <li>Multimodalité (texte, images, fichiers) et assistants</li>
-                            <li>Automatisation (agents, workflows) et intégrations</li>
-                        </ul>
-                    </article>
-
-                    <article class="veille-card">
-                        <div class="veille-card-head">
-                            <i class="fas fa-briefcase"></i>
-                            <h4>Impacts métiers IT</h4>
-                        </div>
-                        <ul class="veille-list">
-                            <li>Support : triage, diagnostic, rédaction de procédures</li>
-                            <li>Admin : scripts, configuration, documentation, audits</li>
-                            <li>Cyber : analyse, détection, réponse et sensibilisation</li>
-                        </ul>
-                    </article>
-
-                    <article class="veille-card">
-                        <div class="veille-card-head">
-                            <i class="fas fa-shield-halved"></i>
-                            <h4>Risques & conformité</h4>
-                        </div>
-                        <ul class="veille-list">
-                            <li>Fuites de données, prompts sensibles, confidentialité</li>
-                            <li>Détection de phishing / deepfakes et ingénierie sociale</li>
-                            <li>Bonnes pratiques : validation, traçabilité, RGPD</li>
-                        </ul>
-                    </article>
                 </div>
 
                 <h3 class="veille-section-title"><i class="fas fa-chart-line"></i> Impacts concrets (exemples)</h3>
@@ -117,20 +63,18 @@
                             <li>Aide au diagnostic (questions, checklists, hypothèses)</li>
                             <li>Génération de procédures claires (pas-à-pas)</li>
                         </ul>
-                        <p class="veille-note"><strong>Point clé :</strong> validation humaine obligatoire avant envoi/production.</p>
                     </article>
 
                     <article class="veille-card">
                         <div class="veille-card-head">
                             <i class="fas fa-server"></i>
-                            <h4>Admin systèmes / réseau</h4>
+                            <h4>Admin système / réseau</h4>
                         </div>
                         <ul class="veille-list">
                             <li>Assistance scripts (PowerShell/Bash) et automatisation</li>
                             <li>Contrôles de configuration (ports, services, règles)</li>
-                            <li>Documentation : procédures de déploiement / rollback</li>
+                            <li>Documentation : procédures de déploiement et validation</li>
                         </ul>
-                        <p class="veille-note"><strong>Point clé :</strong> tracer les changements (Git, tickets, logs).</p>
                     </article>
 
                     <article class="veille-card">
@@ -140,24 +84,10 @@
                         </div>
                         <ul class="veille-list">
                             <li>Analyse de logs, IOC, hypothèses d’incident</li>
-                            <li>Amélioration de playbooks (réponse à incident)</li>
+                            <li>Triage & réponse à incident : étapes, collecte d’indices</li>
                             <li>Support à la sensibilisation (scénarios, quiz)</li>
                         </ul>
-                        <p class="veille-note"><strong>Point clé :</strong> attention aux contenus malveillants et aux faux positifs.</p>
                     </article>
-                </div>
-
-                <div class="veille-callout" role="region" aria-label="Bonnes pratiques">
-                    <div class="veille-callout-head">
-                        <i class="fas fa-circle-check"></i>
-                        <h3>Bonnes pratiques que j’applique</h3>
-                    </div>
-                    <ul class="veille-checks">
-                        <li><strong>Ne jamais</strong> coller de données sensibles (mots de passe, secrets, tickets nominaux).</li>
-                        <li>Garder une <strong>trace</strong> : contexte, sources, décision finale et justification.</li>
-                        <li>Tester en environnement de <strong>lab</strong> avant toute mise en production.</li>
-                        <li>Vérifier avec des <strong>sources fiables</strong> (éditeurs, CERT, docs officielles).</li>
-                    </ul>
                 </div>
 
                 <h3 class="veille-section-title"><i class="fas fa-rss"></i> Outils et sources de veille</h3>
@@ -168,9 +98,11 @@
                             <h4>Mes alertes</h4>
                         </div>
                         <ul class="veille-list">
-                            <li>Google Alerts : « ChatGPT model updates »</li>
-                            <li>Google Alerts : « AI security / prompt injection »</li>
-                            <li>Flux RSS CERT-FR / éditeurs sécurité</li>
+                            <li><a class="link" href="https://www.reuters.com/technology/microsoft-backed-openai-starts-release-powerful-ai-known-gpt-4-2023-03-14/" target="_blank" rel="noopener">GPT-4 : début du déploiement (Reuters, 14/03/2023)</a></li>
+                            <li><a class="link" href="https://www.journaldunet.com/intelligence-artificielle/1526641-chatgpt-a-1-an-comment-openai-a-fait-entrer-la-planete-entiere-dans-la-course-a-l-ia/" target="_blank" rel="noopener">ChatGPT : 1 an et accélération IA (JDN)</a></li>
+                            <li><a class="link" href="https://www.business-standard.com/technology/tech-news/openai-enables-advanced-voice-mode-for-chatgpt-web-on-desktop-what-is-it-124112000706_1.html" target="_blank" rel="noopener">Advanced Voice Mode sur ChatGPT Web (Business Standard)</a></li>
+                            <li><a class="link" href="https://www.euronews.com/next/2024/05/17/from-coding-to-video-gaming-10-best-uses-people-have-found-for-chatgpts-latest-model-gpt4o" target="_blank" rel="noopener">Usages de GPT-4o (Euronews)</a></li>
+                            <li><a class="link" href="https://www.reuters.com/technology/artificial-intelligence/openai-rolls-out-gpt-45-some-paying-users-expand-access-next-week-2025-02-27/" target="_blank" rel="noopener">GPT-4.5 : déploiement progressif (Reuters, 27/02/2025)</a></li>
                         </ul>
                     </article>
 
@@ -180,10 +112,11 @@
                             <h4>Mes sources</h4>
                         </div>
                         <ul class="veille-list">
-                            <li><a class="link" href="https://www.cert.ssi.gouv.fr/" target="_blank" rel="noopener">ANSSI / CERT-FR</a></li>
-                            <li><a class="link" href="https://thehackernews.com/" target="_blank" rel="noopener">The Hacker News</a></li>
-                            <li><a class="link" href="https://www.lemagit.fr/" target="_blank" rel="noopener">LeMagIT</a></li>
-                            <li><a class="link" href="https://www.malwarebytes.com/blog" target="_blank" rel="noopener">Malwarebytes Labs</a></li>
+                            <li><a class="link" href="https://www.reuters.com/technology/microsoft-backed-openai-starts-release-powerful-ai-known-gpt-4-2023-03-14/" target="_blank" rel="noopener">Reuters — GPT-4 (2023)</a></li>
+                            <li><a class="link" href="https://www.journaldunet.com/intelligence-artificielle/1526641-chatgpt-a-1-an-comment-openai-a-fait-entrer-la-planete-entiere-dans-la-course-a-l-ia/" target="_blank" rel="noopener">Journal du Net — ChatGPT (1 an)</a></li>
+                            <li><a class="link" href="https://www.business-standard.com/technology/tech-news/openai-enables-advanced-voice-mode-for-chatgpt-web-on-desktop-what-is-it-124112000706_1.html" target="_blank" rel="noopener">Business Standard — Advanced Voice Mode</a></li>
+                            <li><a class="link" href="https://www.euronews.com/next/2024/05/17/from-coding-to-video-gaming-10-best-uses-people-have-found-for-chatgpts-latest-model-gpt4o" target="_blank" rel="noopener">Euronews — Usages GPT-4o</a></li>
+                            <li><a class="link" href="https://www.reuters.com/technology/artificial-intelligence/openai-rolls-out-gpt-45-some-paying-users-expand-access-next-week-2025-02-27/" target="_blank" rel="noopener">Reuters — GPT-4.5 (2025)</a></li>
                         </ul>
                     </article>
 
@@ -196,11 +129,6 @@
                             J’utilise <strong>Inoreader</strong> comme agrégateur RSS pour centraliser toutes mes sources (CERT, blogs, alertes).
                             Cela me permet de classer, taguer et retrouver rapidement les informations.
                         </p>
-                        <div class="veille-tags" aria-label="Tags">
-                            <span class="tag">RSS</span>
-                            <span class="tag">Curation</span>
-                            <span class="tag">Dashboard</span>
-                        </div>
                     </article>
                 </div>
 
@@ -211,7 +139,7 @@
                             <span><i class="fas fa-circle-question"></i> Qu’est-ce que la veille technologique ?</span>
                             <i class="fas fa-chevron-down faq-chevron" aria-hidden="true"></i>
                         </button>
-                        <div class="faq-answer" hidden>
+                        <div class="faq-answer">
                             La veille technologique consiste à surveiller les évolutions, innovations et menaces d’un domaine afin d’anticiper leur impact
                             (technique, organisationnel, sécurité) sur une activité.
                         </div>
@@ -222,41 +150,9 @@
                             <span><i class="fas fa-circle-question"></i> Quel est le but de ma veille ?</span>
                             <i class="fas fa-chevron-down faq-chevron" aria-hidden="true"></i>
                         </button>
-                        <div class="faq-answer" hidden>
+                        <div class="faq-answer">
                             Identifier les changements liés à ChatGPT (capacités, usages, risques) et comprendre comment ils modifient les métiers IT,
                             notamment les méthodes de diagnostic, documentation, automatisation et sécurité.
-                        </div>
-                    </div>
-
-                    <div class="faq-item">
-                        <button class="faq-question" type="button" aria-expanded="false">
-                            <span><i class="fas fa-circle-question"></i> Quels outils j’utilise ?</span>
-                            <i class="fas fa-chevron-down faq-chevron" aria-hidden="true"></i>
-                        </button>
-                        <div class="faq-answer" hidden>
-                            Inoreader (RSS), Google Alerts et des sources de confiance (ANSSI/CERT-FR, blogs sécurité, presse IT).
-                        </div>
-                    </div>
-
-                    <div class="faq-item">
-                        <button class="faq-question" type="button" aria-expanded="false">
-                            <span><i class="fas fa-circle-question"></i> Quel a été le sujet exact ?</span>
-                            <i class="fas fa-chevron-down faq-chevron" aria-hidden="true"></i>
-                        </button>
-                        <div class="faq-answer" hidden>
-                            « Évolution des modèles ChatGPT et impacts sur les métiers IT » : ce qui change dans les modèles et ce que cela implique
-                            en support, admin systèmes/réseaux et cybersécurité.
-                        </div>
-                    </div>
-
-                    <div class="faq-item">
-                        <button class="faq-question" type="button" aria-expanded="false">
-                            <span><i class="fas fa-circle-question"></i> Quelles thématiques j’aborde ?</span>
-                            <i class="fas fa-chevron-down faq-chevron" aria-hidden="true"></i>
-                        </button>
-                        <div class="faq-answer" hidden>
-                            Automatisation (scripts, agents), fiabilité, bonnes pratiques, risques (prompt injection, fuite de données), détection et réponse
-                            à incident, et organisation du travail (procédures, qualité, traçabilité).
                         </div>
                     </div>
                 </div>

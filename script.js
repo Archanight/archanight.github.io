@@ -152,21 +152,39 @@ document.addEventListener('DOMContentLoaded', function () {
 
 // Veille FAQ accordion
 (function initVeilleFaq() {
-    const buttons = document.querySelectorAll('.faq-item');
+    const buttons = document.querySelectorAll('.faq-question');
     if (!buttons || buttons.length === 0) return;
+
+    // Ensure a known initial state (CSS also hides answers by default)
+    buttons.forEach((b) => {
+        const it = b.closest('.faq-item');
+        const ans = it ? it.querySelector('.faq-answer') : null;
+        if (ans) ans.style.display = 'none';
+        b.setAttribute('aria-expanded', 'false');
+        if (it) it.classList.remove('open');
+    });
 
     buttons.forEach((btn) => {
         btn.addEventListener('click', () => {
             const expanded = btn.getAttribute('aria-expanded') === 'true';
-            const answer = btn.nextElementSibling;
-            if (!answer || !answer.classList.contains('faq-answer')) return;
+            const item = btn.closest('.faq-item');
+            const answer = item ? item.querySelector('.faq-answer') : null;
+            if (!item || !answer) return;
 
-            btn.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-            answer.hidden = expanded;
-            btn.classList.toggle('open', !expanded);
+            // Close others (accordion behaviour)
+            buttons.forEach((b) => {
+                if (b === btn) return;
+                b.setAttribute('aria-expanded', 'false');
+                const otherItem = b.closest('.faq-item');
+                const otherAnswer = otherItem ? otherItem.querySelector('.faq-answer') : null;
+                if (otherAnswer) otherAnswer.style.display = 'none';
+                if (otherItem) otherItem.classList.remove('open');
+            });
 
-            const icon = btn.querySelector('i.faq-chevron');
-            if (icon) icon.style.transform = expanded ? 'rotate(0deg)' : 'rotate(180deg)';
+            const nextExpanded = !expanded;
+            btn.setAttribute('aria-expanded', nextExpanded ? 'true' : 'false');
+            answer.style.display = nextExpanded ? 'block' : 'none';
+            item.classList.toggle('open', nextExpanded);
         });
     });
 })();
