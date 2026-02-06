@@ -3,56 +3,271 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Veille Technologique - Théodore Trat</title>
-    <link rel="stylesheet" href="/style.css">
+    <title>Veille - Théodore Trat</title>
+    <meta name="description" content="Veille technologique : évolution des modèles ChatGPT et impacts sur les métiers IT (BTS SIO SISR).">
+
+    <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body>
+    <a class="skip-link" href="#main-content">Aller au contenu</a>
+
     <header>
         <nav>
             <div class="logo"><a href="index.html">Théodore Trat</a></div>
             <ul>
                 <li><a href="moi.html">Moi</a></li>
                 <li><a href="parcours.html">Mon Parcours</a></li>
+                <li><a href="stage.html">Stage</a></li>
                 <li><a href="projet-pro.html">Projet Professionnel</a></li>
                 <li><a href="projets.html">Mes Projets</a></li>
-                <li><a href="veille.html">Veille</a></li>
+                <li><a href="veille.html" class="active">Veille</a></li>
                 <li><a href="cv.html">Mon CV</a></li>
                 <li><a href="a-propos.html">Mes Compétences</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
-            <button class="burger-menu" id="burger-menu"><span class="burger-bar"></span><span class="burger-bar"></span><span class="burger-bar"></span></button>
+            <button class="burger-menu" id="burger-menu" aria-label="Ouvrir le menu" aria-expanded="false">
+                <span class="burger-bar"></span><span class="burger-bar"></span><span class="burger-bar"></span>
+            </button>
         </nav>
     </header>
-    <main>
-        <section id="veille-page"> <!-- Pas de classe alternate-bg pour cette section -->
+
+    <main id="main-content">
+        <section id="veille-page" class="alternate-bg">
             <div class="container">
                 <h2>Veille Technologique</h2>
-                <div class="veille-content">
-                    <h3>Sujet : Évolutions des modèles d'Intelligence Artificielle d'OpenAI</h3>
-                    <p>
-                        Dans le cadre de ma veille technologique, je m'intéresse particulièrement aux avancées rapides et aux implications des modèles de langage et d'IA générative développés par OpenAI.
-                        Cela inclut le suivi des nouvelles versions (comme GPT-4, GPT-4o et les modèles à venir), leurs capacités étendues, leurs domaines d'application, ainsi que les discussions éthiques et sociétales qu'elles soulèvent.
-                    </p>
-                    <p>
-                        Vous trouverez ci-dessous un document synthétisant mes recherches et analyses sur ce sujet :
-                    </p>
-                    <div class="veille-download">
-                        <!-- Remplace par le lien vers ton document de veille -->
-                        <a href="https://drive.google.com/file/d/1rnM0W0eWoj1erjREEsBwQAQGmf8eeHJC/view?usp=drive_link" target="_blank" class="cta-button">
-                            <i class="fas fa-file-pdf"></i> Consulter ma veille sur OpenAI (PDF)
-                        </a>
+                <p class="section-intro">Sujet : <strong>Évolution des modèles ChatGPT et impacts sur les métiers IT</strong></p>
+
+                <div class="veille-hero" role="region" aria-label="Présentation de la veille">
+                    <div class="veille-hero-main">
+                        <div class="veille-badge"><i class="fas fa-robot"></i> Thème de veille</div>
+                        <h3 class="veille-title">Évolution des modèles ChatGPT et impacts sur les métiers IT</h3>
+                        <p class="veille-lead">
+                            Cette veille vise à comprendre comment les modèles de type <strong>ChatGPT</strong> évoluent (capacités, usages, limites)
+                            et comment cela transforme les pratiques en <strong>support</strong>, <strong>administration systèmes/réseaux</strong> et <strong>cybersécurité</strong>.
+                        </p>
                     </div>
-                    <p>
-                        Je continue de suivre activement ce domaine en consultant des publications spécialisées, des blogs d'experts, et les annonces officielles d'OpenAI et d'autres acteurs majeurs de l'IA.
-                    </p>
+
+                    <div class="veille-hero-side">
+                        <div class="veille-kpi">
+                            <span class="kpi-label">Périmètre</span>
+                            <span class="kpi-value">Support • Systèmes • Réseau • Cyber</span>
+                        </div>
+                        <div class="veille-kpi">
+                            <span class="kpi-label">Ce que je surveille</span>
+                            <span class="kpi-value">Fonctionnalités • Risques • Bonnes pratiques</span>
+                        </div>
+                        <div class="veille-kpi">
+                            <span class="kpi-label">Objectif</span>
+                            <span class="kpi-value">Anticiper les impacts métiers</span>
+                        </div>
+                    </div>
+                </div>
+
+                <h3 class="veille-section-title"><i class="fas fa-sitemap"></i> Axes de la veille</h3>
+                <div class="veille-grid">
+                    <article class="veille-card">
+                        <div class="veille-card-head">
+                            <i class="fas fa-microchip"></i>
+                            <h4>Évolution des capacités</h4>
+                        </div>
+                        <ul class="veille-list">
+                            <li>Qualité des réponses, fiabilité et hallucinations</li>
+                            <li>Multimodalité (texte, images, fichiers) et assistants</li>
+                            <li>Automatisation (agents, workflows) et intégrations</li>
+                        </ul>
+                    </article>
+
+                    <article class="veille-card">
+                        <div class="veille-card-head">
+                            <i class="fas fa-briefcase"></i>
+                            <h4>Impacts métiers IT</h4>
+                        </div>
+                        <ul class="veille-list">
+                            <li>Support : triage, diagnostic, rédaction de procédures</li>
+                            <li>Admin : scripts, configuration, documentation, audits</li>
+                            <li>Cyber : analyse, détection, réponse et sensibilisation</li>
+                        </ul>
+                    </article>
+
+                    <article class="veille-card">
+                        <div class="veille-card-head">
+                            <i class="fas fa-shield-halved"></i>
+                            <h4>Risques & conformité</h4>
+                        </div>
+                        <ul class="veille-list">
+                            <li>Fuites de données, prompts sensibles, confidentialité</li>
+                            <li>Détection de phishing / deepfakes et ingénierie sociale</li>
+                            <li>Bonnes pratiques : validation, traçabilité, RGPD</li>
+                        </ul>
+                    </article>
+                </div>
+
+                <h3 class="veille-section-title"><i class="fas fa-chart-line"></i> Impacts concrets (exemples)</h3>
+                <div class="veille-grid veille-grid-impacts">
+                    <article class="veille-card">
+                        <div class="veille-card-head">
+                            <i class="fas fa-headset"></i>
+                            <h4>Support / Helpdesk</h4>
+                        </div>
+                        <ul class="veille-list">
+                            <li>Rédaction de réponses type et base de connaissance</li>
+                            <li>Aide au diagnostic (questions, checklists, hypothèses)</li>
+                            <li>Génération de procédures claires (pas-à-pas)</li>
+                        </ul>
+                        <p class="veille-note"><strong>Point clé :</strong> validation humaine obligatoire avant envoi/production.</p>
+                    </article>
+
+                    <article class="veille-card">
+                        <div class="veille-card-head">
+                            <i class="fas fa-server"></i>
+                            <h4>Admin systèmes / réseau</h4>
+                        </div>
+                        <ul class="veille-list">
+                            <li>Assistance scripts (PowerShell/Bash) et automatisation</li>
+                            <li>Contrôles de configuration (ports, services, règles)</li>
+                            <li>Documentation : procédures de déploiement / rollback</li>
+                        </ul>
+                        <p class="veille-note"><strong>Point clé :</strong> tracer les changements (Git, tickets, logs).</p>
+                    </article>
+
+                    <article class="veille-card">
+                        <div class="veille-card-head">
+                            <i class="fas fa-user-shield"></i>
+                            <h4>Cybersécurité</h4>
+                        </div>
+                        <ul class="veille-list">
+                            <li>Analyse de logs, IOC, hypothèses d’incident</li>
+                            <li>Amélioration de playbooks (réponse à incident)</li>
+                            <li>Support à la sensibilisation (scénarios, quiz)</li>
+                        </ul>
+                        <p class="veille-note"><strong>Point clé :</strong> attention aux contenus malveillants et aux faux positifs.</p>
+                    </article>
+                </div>
+
+                <div class="veille-callout" role="region" aria-label="Bonnes pratiques">
+                    <div class="veille-callout-head">
+                        <i class="fas fa-circle-check"></i>
+                        <h3>Bonnes pratiques que j’applique</h3>
+                    </div>
+                    <ul class="veille-checks">
+                        <li><strong>Ne jamais</strong> coller de données sensibles (mots de passe, secrets, tickets nominaux).</li>
+                        <li>Garder une <strong>trace</strong> : contexte, sources, décision finale et justification.</li>
+                        <li>Tester en environnement de <strong>lab</strong> avant toute mise en production.</li>
+                        <li>Vérifier avec des <strong>sources fiables</strong> (éditeurs, CERT, docs officielles).</li>
+                    </ul>
+                </div>
+
+                <h3 class="veille-section-title"><i class="fas fa-rss"></i> Outils et sources de veille</h3>
+                <div class="veille-grid veille-grid-tools">
+                    <article class="veille-card">
+                        <div class="veille-card-head">
+                            <i class="fas fa-bell"></i>
+                            <h4>Mes alertes</h4>
+                        </div>
+                        <ul class="veille-list">
+                            <li>Google Alerts : « ChatGPT model updates »</li>
+                            <li>Google Alerts : « AI security / prompt injection »</li>
+                            <li>Flux RSS CERT-FR / éditeurs sécurité</li>
+                        </ul>
+                    </article>
+
+                    <article class="veille-card">
+                        <div class="veille-card-head">
+                            <i class="fas fa-book"></i>
+                            <h4>Mes sources</h4>
+                        </div>
+                        <ul class="veille-list">
+                            <li><a class="link" href="https://www.cert.ssi.gouv.fr/" target="_blank" rel="noopener">ANSSI / CERT-FR</a></li>
+                            <li><a class="link" href="https://thehackernews.com/" target="_blank" rel="noopener">The Hacker News</a></li>
+                            <li><a class="link" href="https://www.lemagit.fr/" target="_blank" rel="noopener">LeMagIT</a></li>
+                            <li><a class="link" href="https://www.malwarebytes.com/blog" target="_blank" rel="noopener">Malwarebytes Labs</a></li>
+                        </ul>
+                    </article>
+
+                    <article class="veille-card">
+                        <div class="veille-card-head">
+                            <i class="fas fa-toolbox"></i>
+                            <h4>Outil : Inoreader</h4>
+                        </div>
+                        <p class="veille-text">
+                            J’utilise <strong>Inoreader</strong> comme agrégateur RSS pour centraliser toutes mes sources (CERT, blogs, alertes).
+                            Cela me permet de classer, taguer et retrouver rapidement les informations.
+                        </p>
+                        <div class="veille-tags" aria-label="Tags">
+                            <span class="tag">RSS</span>
+                            <span class="tag">Curation</span>
+                            <span class="tag">Dashboard</span>
+                        </div>
+                    </article>
+                </div>
+
+                <h3 class="veille-section-title"><i class="fas fa-circle-question"></i> FAQ</h3>
+                <div class="faq" id="veilleFaq">
+                    <div class="faq-item">
+                        <button class="faq-question" type="button" aria-expanded="false">
+                            <span><i class="fas fa-circle-question"></i> Qu’est-ce que la veille technologique ?</span>
+                            <i class="fas fa-chevron-down faq-chevron" aria-hidden="true"></i>
+                        </button>
+                        <div class="faq-answer" hidden>
+                            La veille technologique consiste à surveiller les évolutions, innovations et menaces d’un domaine afin d’anticiper leur impact
+                            (technique, organisationnel, sécurité) sur une activité.
+                        </div>
+                    </div>
+
+                    <div class="faq-item">
+                        <button class="faq-question" type="button" aria-expanded="false">
+                            <span><i class="fas fa-circle-question"></i> Quel est le but de ma veille ?</span>
+                            <i class="fas fa-chevron-down faq-chevron" aria-hidden="true"></i>
+                        </button>
+                        <div class="faq-answer" hidden>
+                            Identifier les changements liés à ChatGPT (capacités, usages, risques) et comprendre comment ils modifient les métiers IT,
+                            notamment les méthodes de diagnostic, documentation, automatisation et sécurité.
+                        </div>
+                    </div>
+
+                    <div class="faq-item">
+                        <button class="faq-question" type="button" aria-expanded="false">
+                            <span><i class="fas fa-circle-question"></i> Quels outils j’utilise ?</span>
+                            <i class="fas fa-chevron-down faq-chevron" aria-hidden="true"></i>
+                        </button>
+                        <div class="faq-answer" hidden>
+                            Inoreader (RSS), Google Alerts et des sources de confiance (ANSSI/CERT-FR, blogs sécurité, presse IT).
+                        </div>
+                    </div>
+
+                    <div class="faq-item">
+                        <button class="faq-question" type="button" aria-expanded="false">
+                            <span><i class="fas fa-circle-question"></i> Quel a été le sujet exact ?</span>
+                            <i class="fas fa-chevron-down faq-chevron" aria-hidden="true"></i>
+                        </button>
+                        <div class="faq-answer" hidden>
+                            « Évolution des modèles ChatGPT et impacts sur les métiers IT » : ce qui change dans les modèles et ce que cela implique
+                            en support, admin systèmes/réseaux et cybersécurité.
+                        </div>
+                    </div>
+
+                    <div class="faq-item">
+                        <button class="faq-question" type="button" aria-expanded="false">
+                            <span><i class="fas fa-circle-question"></i> Quelles thématiques j’aborde ?</span>
+                            <i class="fas fa-chevron-down faq-chevron" aria-hidden="true"></i>
+                        </button>
+                        <div class="faq-answer" hidden>
+                            Automatisation (scripts, agents), fiabilité, bonnes pratiques, risques (prompt injection, fuite de données), détection et réponse
+                            à incident, et organisation du travail (procédures, qualité, traçabilité).
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
     </main>
-    <footer><div class="container"><p>&copy; <span id="year"></span> Théodore Trat. Tous droits réservés.</p></div></footer>
-    <script src="/script.js"></script>
+
+    <footer>
+        <p>&copy; 2026 Théodore Trat. Tous droits réservés.</p>
+    </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>

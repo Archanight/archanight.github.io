@@ -1,31 +1,48 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     const navLinks = document.querySelectorAll('header nav ul li a');
     const burgerMenu = document.getElementById('burger-menu');
     const navUL = document.querySelector('header nav ul');
     const yearSpan = document.getElementById('year');
+    const header = document.querySelector('header');
+
+    const closeMenu = () => {
+        if (navUL && burgerMenu && navUL.classList.contains('active')) {
+            navUL.classList.remove('active');
+            burgerMenu.classList.remove('toggle');
+            burgerMenu.setAttribute('aria-expanded', 'false');
+        }
+    };
 
     // Burger menu toggle
     if (burgerMenu && navUL) {
-        burgerMenu.addEventListener('click', () => {
+        burgerMenu.addEventListener('click', (e) => {
+            e.stopPropagation();
             navUL.classList.toggle('active');
             burgerMenu.classList.toggle('toggle');
+
+            const expanded = navUL.classList.contains('active');
+            burgerMenu.setAttribute('aria-expanded', expanded ? 'true' : 'false');
         });
-        // Fermer le menu si on clique sur un lien (pour mobile)
+
+        // Fermer le menu si on clique sur un lien
         navLinks.forEach(link => {
-            link.addEventListener('click', (event) => {
-                // Ne pas fermer immédiatement si c'est un lien d'ancrage sur la même page
-                const href = link.getAttribute('href');
-                if (href && !href.startsWith('#')) { // Seulement si c'est un lien vers une autre page
-                    if (navUL.classList.contains('active')) {
-                        navUL.classList.remove('active');
-                        burgerMenu.classList.remove('toggle');
-                    }
-                } else if (href && href.startsWith('#') && navUL.classList.contains('active')) {
-                    // Pour les ancres sur la même page, fermer le menu
-                     navUL.classList.remove('active');
-                     burgerMenu.classList.remove('toggle');
-                }
+            link.addEventListener('click', () => {
+                closeMenu();
             });
+        });
+
+        // Fermer le menu si clic en dehors du header
+        document.addEventListener('click', (e) => {
+            if (navUL.classList.contains('active') && header && !header.contains(e.target)) {
+                closeMenu();
+            }
+        });
+
+        // Fermer au clavier (Escape)
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeMenu();
+            }
         });
     }
 
@@ -36,43 +53,174 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Mettre en évidence le lien de la page active dans la navigation
     const currentPagePath = window.location.pathname;
-    let currentPageName = currentPagePath.substring(currentPagePath.lastIndexOf("/") + 1);
-    if (currentPageName === "" || currentPageName === "index.html") {
-        currentPageName = "index.html"; // Normaliser pour l'accueil
+    let currentPageName = currentPagePath.substring(currentPagePath.lastIndexOf('/') + 1);
+    if (currentPageName === '' || currentPageName === 'index.html') {
+        currentPageName = 'index.html';
     }
-
 
     navLinks.forEach(link => {
         const linkHref = link.getAttribute('href');
-        if (linkHref === currentPageName || (currentPageName === "index.html" && (linkHref === "./" || linkHref === "index.html"))) {
+        if (
+            linkHref === currentPageName ||
+            (currentPageName === 'index.html' && (linkHref === './' || linkHref === 'index.html'))
+        ) {
             link.classList.add('active');
         } else {
             link.classList.remove('active');
         }
     });
 
-    // Optionnel: Défilement fluide pour les ancres INTERNES sur une page
+    // Défilement fluide pour les ancres internes
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
             const href = this.getAttribute('href');
+
             // Vérifie que l'ancre existe sur la page actuelle ET que ce n'est pas juste "#"
-            if (href.length > 1 && document.querySelector(href)) {
+            if (href && href.length > 1 && document.querySelector(href)) {
                 e.preventDefault();
+
                 const targetElement = document.querySelector(href);
-                let headerOffset = 70; // Hauteur par défaut
-                const header = document.querySelector('header');
-                if (header) {
-                    headerOffset = header.offsetHeight;
+                let headerOffset = 70;
+                const headerEl = document.querySelector('header');
+                if (headerEl) {
+                    headerOffset = headerEl.offsetHeight;
                 }
-                
+
                 const elementPosition = targetElement.getBoundingClientRect().top;
                 const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
 
                 window.scrollTo({
                     top: offsetPosition,
-                    behavior: "smooth"
+                    behavior: 'smooth'
                 });
             }
         });
     });
+
+    // Menu dynamique - filtres (Mes projets)
+    const filters = document.querySelectorAll('.projects-filters .filter-btn');
+    const projectCards = document.querySelectorAll('.project-card[data-category]');
+
+    if (filters.length > 0 && projectCards.length > 0) {
+        const hideCard = (card) => {
+            if (card.classList.contains('hidden')) return;
+            card.classList.add('fade-out');
+            window.setTimeout(() => {
+                card.classList.add('hidden');
+                card.classList.remove('fade-out');
+            }, 180);
+        };
+
+        const showCard = (card) => {
+            if (!card.classList.contains('hidden')) return;
+            card.classList.remove('hidden');
+            card.classList.add('fade-in');
+            window.setTimeout(() => {
+                card.classList.remove('fade-in');
+            }, 220);
+        };
+
+        const applyFilter = (value) => {
+            filters.forEach(btn => {
+                const isActive = btn.dataset.filter === value;
+                btn.classList.toggle('active', isActive);
+                btn.setAttribute('aria-selected', isActive ? 'true' : 'false');
+            });
+
+            projectCards.forEach(card => {
+                const cat = card.dataset.category || 'projet';
+                const shouldShow = (value === 'all') || (cat === value);
+
+                if (shouldShow) {
+                    showCard(card);
+                } else {
+                    hideCard(card);
+                }
+            });
+        };
+
+        filters.forEach(btn => {
+            btn.addEventListener('click', () => {
+                applyFilter(btn.dataset.filter);
+            });
+        });
+
+        // État par défaut
+        applyFilter('all');
+    }
 });
+
+// Veille FAQ accordion
+(function initVeilleFaq() {
+    const buttons = document.querySelectorAll('.faq-item');
+    if (!buttons || buttons.length === 0) return;
+
+    buttons.forEach((btn) => {
+        btn.addEventListener('click', () => {
+            const expanded = btn.getAttribute('aria-expanded') === 'true';
+            const answer = btn.nextElementSibling;
+            if (!answer || !answer.classList.contains('faq-answer')) return;
+
+            btn.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+            answer.hidden = expanded;
+            btn.classList.toggle('open', !expanded);
+
+            const icon = btn.querySelector('i.faq-chevron');
+            if (icon) icon.style.transform = expanded ? 'rotate(0deg)' : 'rotate(180deg)';
+        });
+    });
+})();
+
+
+// Veille - RSS feed loader (GitHub Pages-friendly)
+(async function initRssFeed() {
+    const container = document.getElementById('rssFeed');
+    if (!container) return;
+
+    const rssUrl = container.getAttribute('data-rss') || 'https://openai.com/blog/rss.xml';
+    const maxItems = parseInt(container.getAttribute('data-rss-items') || '6', 10);
+
+    const statusEl = document.getElementById('rssStatus');
+    const setStatus = (msg) => { if (statusEl) statusEl.textContent = msg; };
+
+    const renderItems = (items) => {
+        container.innerHTML = '';
+        items.slice(0, maxItems).forEach((it) => {
+            const card = document.createElement('a');
+            card.className = 'rss-card';
+            card.href = it.link;
+            card.target = '_blank';
+            card.rel = 'noopener noreferrer';
+
+            const title = document.createElement('div');
+            title.className = 'rss-title';
+            title.textContent = it.title || 'Article';
+
+            const meta = document.createElement('div');
+            meta.className = 'rss-meta';
+
+            const dateText = it.pubDate ? new Date(it.pubDate).toLocaleDateString('fr-FR') : '';
+            meta.textContent = dateText;
+
+            card.appendChild(title);
+            card.appendChild(meta);
+            container.appendChild(card);
+        });
+    };
+
+    try {
+        setStatus('Chargement du flux RSS…');
+        // rss2json sert de proxy CORS pour les sites statiques
+        const api = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(rssUrl);
+        const res = await fetch(api, { cache: 'no-store' });
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const data = await res.json();
+        if (!data || !Array.isArray(data.items)) throw new Error('Réponse RSS invalide');
+
+        renderItems(data.items);
+        setStatus('');
+    } catch (e) {
+        console.error(e);
+        setStatus("Impossible de charger le flux RSS (CORS / réseau). Vous pouvez remplacer l'URL du flux dans veille.html.");
+    }
+})();

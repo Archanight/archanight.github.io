@@ -4,18 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mon Projet Professionnel - Théodore Trat</title>
-    <link rel="stylesheet" href="/style.css">
+    <meta name="description" content="Projet professionnel : objectifs, poursuite d'études et orientation (SISR / cybersécurité).">
+
+    <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body>
+    <a class="skip-link" href="#main-content">Aller au contenu</a>
+
     <header>
         <nav>
             <div class="logo"><a href="index.html">Théodore Trat</a></div>
             <ul>
                 <li><a href="moi.html">Moi</a></li>
                 <li><a href="parcours.html">Mon Parcours</a></li>
+                <li><a href="stage.html">Stage</a></li>
                 <li><a href="projet-pro.html">Projet Professionnel</a></li>
                 <li><a href="projets.html">Mes Projets</a></li>
                 <li><a href="veille.html">Veille</a></li>
@@ -23,28 +28,67 @@
                 <li><a href="a-propos.html">Mes Compétences</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
-            <button class="burger-menu" id="burger-menu"><span class="burger-bar"></span><span class="burger-bar"></span><span class="burger-bar"></span></button>
+            <button class="burger-menu" id="burger-menu" aria-label="Ouvrir le menu" aria-expanded="false">
+                <span class="burger-bar"></span><span class="burger-bar"></span><span class="burger-bar"></span>
+            </button>
         </nav>
     </header>
-    <main>
-        <section id="projet-pro-page"> <!-- Pas de classe alternate-bg pour cette section -->
+
+    <main id="main-content">
+        <section id="projet-pro-page">
             <div class="container">
                 <h2>Mon Projet Professionnel</h2>
+
                 <article class="project-showcase">
-                    <h3>Objectifs de Carrière</h3>
+                    <h3>Mon objectif</h3>
+
                     <p class="project-description">
-                        À l'issue de mon BTS SIO, mon ambition est de me spécialiser davantage dans les domaines qui me passionnent. Deux voies principales s'offrent à moi et retiennent mon attention :
+                        À l'issue de mon BTS SIO (option SISR), je souhaite poursuivre dans les domaines <strong>systèmes</strong>, <strong>réseaux</strong> et <strong>cybersécurité</strong>.
+                        Mon objectif est de consolider des bases solides (services, supervision, sauvegardes, gestion des incidents) et d'évoluer vers des missions orientées sécurité.
                     </p>
+
+                    <div class="mini-grid">
+                        <div class="mini-card">
+                            <h4><i class="fas fa-stopwatch"></i> Court terme</h4>
+                            <p>Intégrer une <strong>licence</strong> (réseaux/cybersécurité) ou une <strong>école d'ingénieur</strong> pour monter en compétences rapidement.</p>
+                        </div>
+                        <div class="mini-card">
+                            <h4><i class="fas fa-flag-checkered"></i> Long terme</h4>
+                            <p>Travailler sur la <strong>sécurisation d'infrastructures</strong> (durcissement, segmentation, supervision, réponse à incident).</p>
+                        </div>
+                    </div>
+
+                    <h3>Deux voies possibles</h3>
                     <ol class="professional-goals-list">
-                        <li>Poursuivre avec une <strong>Licence</strong> dans le domaine des réseaux ou de la cybersécurité, suivie d'un <strong>Master spécialisé en Cybersécurité</strong>. Cet itinéraire me permettrait d'acquérir une expertise pointue pour concevoir et mettre en œuvre des stratégies de défense robustes face aux menaces numériques.</li>
-                        <li>Intégrer une <strong>école d'ingénieur</strong>, telle que l'<strong>ESIEE Paris</strong> ou une autre institution reconnue, pour obtenir un diplôme d'ingénieur en informatique avec une spécialisation en systèmes d'information, réseaux ou cybersécurité. Cette voie m'offrirait une formation complète, alliant compétences techniques approfondies et gestion de projet.</li>
+                        <li>
+                            <strong>Licence → Master cybersécurité</strong><br>
+                            Approfondir les réseaux et la sécurité avec une spécialisation progressive jusqu'à un niveau expert.
+                        </li>
+                        <li>
+                            <strong>École d'ingénieur</strong> (ex : ESIEE Paris / équivalent)<br>
+                            Obtenir une formation complète (technique + gestion de projet) et une spécialisation SI / réseaux / cybersécurité.
+                        </li>
                     </ol>
-                    <p>Mon objectif à long terme est de travailler dans les réseaux informatiques et plus particulièrement en cybersécurité.</p>
+
+                    <p>
+                        <strong>Ce portfolio</strong> illustre cette progression via mes projets (GLPI, Nextcloud, Bacula…) et mon expérience en support.
+                    </p>
+
+                    <div class="section-actions">
+                        <a href="projets.html" class="cta-button"><i class="fas fa-folder-open"></i> Voir mes projets</a>
+                        <a href="veille.html" class="cta-button-secondary"><i class="fas fa-rss"></i> Voir ma veille</a>
+                    </div>
                 </article>
             </div>
         </section>
     </main>
-    <footer><div class="container"><p>&copy; <span id="year"></span> Théodore Trat. Tous droits réservés.</p></div></footer>
-    <script src="/script.js"></script>
+
+    <footer>
+        <div class="container">
+            <p>&copy; <span id="year"></span> Théodore Trat. Tous droits réservés.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>

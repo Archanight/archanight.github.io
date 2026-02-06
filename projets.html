@@ -1,60 +1,965 @@
 <!DOCTYPE html>
+
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mes Projets - Théodore Trat</title>
-    <link rel="stylesheet" href="/style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Mes Projets - Théodore Trat</title>
+<meta content="Projets &amp; TP BTS SIO SISR : systèmes, réseau, sécurité, virtualisation, supervision, sauvegarde." name="description"/>
+<link href="style.css" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&amp;family=Open+Sans:wght@300;400;600&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"/>
+<link href="favicon.ico" rel="icon" type="image/x-icon"/>
 </head>
 <body>
-    <header>
-        <nav>
-            <div class="logo"><a href="index.html">Théodore Trat</a></div>
-            <ul>
-                <li><a href="moi.html">Moi</a></li>
-                <li><a href="parcours.html">Mon Parcours</a></li>
-                <li><a href="projet-pro.html">Projet Professionnel</a></li>
-                <li><a href="projets.html">Mes Projets</a></li>
-                <li><a href="veille.html">Veille</a></li>
-                <li><a href="cv.html">Mon CV</a></li>
-                <li><a href="a-propos.html">Mes Compétences</a></li>
-                <li><a href="contact.html">Contact</a></li>
-            </ul>
-            <button class="burger-menu" id="burger-menu"><span class="burger-bar"></span><span class="burger-bar"></span><span class="burger-bar"></span></button>
-        </nav>
-    </header>
-    <main>
-        <section id="projets-page" class="alternate-bg">
-            <div class="container">
-                <h2>Mes Projets Réalisés</h2>
-                <div class="projects-grid">
-                    <article class="project-card">
-                        <img src="https://www.sparks-formation.com/wp-content/uploads/2020/07/logo-glpi.png" alt="Logo GLPI">
-                        <h3>Mise en place GLPI</h3>
-                        <p>Installation et configuration d'une solution de gestion de parc informatique (GLPI) avec inventaire automatique.</p>
-                        <a href="https://drive.google.com/file/d/1WHmUimFwpoHVmhK3kAV98rYHLdEp1L3x/view?usp=drive_link" target="_blank">Détails &rarr;</a>
-                    </article>
-                    <article class="project-card">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/1200px-Nextcloud_Logo.svg.png" alt="Logo Nextcloud">
-                        <h3>Déploiement Nextcloud</h3>
-                        <p>Installation d'un serveur de stockage et de partage de fichiers Nextcloud pour un usage personnel/collaboratif sécurisé.</p>
-                        <a href="https://drive.google.com/file/d/1uz0ghN59WqhXrhcn5hK4LCBB65MQs99s/view?usp=drive_link" target="_blank">Détails &rarr;</a>
-                    </article>
-                    <article class="project-card">
-                        <img src="https://all-it-network.com/wp-content/uploads/2017/05/BACULA8MINI-240x136_v2.png" alt="Logo Bacula">
-                        <h3>Solution de Sauvegarde Bacula</h3>
-                        <p>Configuration d'un système de sauvegarde centralisé avec Bacula pour sécuriser les données de plusieurs clients.</p>
-                        <a href="https://drive.google.com/file/d/1BbbA7RFgwkJhCcothWtAhcRF95jYBICZ/view?usp=drive_link" target="_blank">Détails &rarr;</a>
-                    </article>
-                    <!-- Ajoute d'autres projets si besoin -->
-                </div>
-            </div>
-        </section>
-    </main>
-    <footer><div class="container"><p>&copy; <span id="year"></span> Théodore Trat. Tous droits réservés.</p></div></footer>
-    <script src="/script.js"></script>
+<a class="skip-link" href="#main-content">Aller au contenu</a>
+<header>
+<nav>
+<div class="logo"><a href="index.html">Théodore Trat</a></div>
+<ul>
+<li><a href="moi.html">Moi</a></li>
+<li><a href="parcours.html">Mon Parcours</a></li>
+<li><a href="stage.html">Stage</a></li>
+<li><a href="projet-pro.html">Projet Professionnel</a></li>
+<li><a href="projets.html">Mes Projets</a></li>
+<li><a href="veille.html">Veille</a></li>
+<li><a href="cv.html">Mon CV</a></li>
+<li><a href="a-propos.html">Mes Compétences</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+<button aria-expanded="false" aria-label="Ouvrir le menu" class="burger-menu" id="burger-menu">
+<span class="burger-bar"></span><span class="burger-bar"></span><span class="burger-bar"></span>
+</button>
+</nav>
+</header>
+<main id="main-content">
+<section class="alternate-bg" id="projets-page">
+<div class="container">
+<h2>Mes Projets et TP</h2>
+<p class="section-intro">
+                    Retrouvez ici mes <strong>projets</strong> et une sélection de <strong>TP</strong> réalisés en BTS SIO option SISR.
+                    Chaque élément met en avant des compétences en <strong>réseau</strong>, <strong>systèmes</strong>, <strong>sécurité</strong>,
+                    <strong>virtualisation</strong>, <strong>supervision</strong> et <strong>sauvegarde</strong>.
+                </p>
+<div aria-label="Filtrer les projets et TP" class="projects-toolbar">
+<div class="projects-filters" id="projectsFilters" role="tablist">
+<button aria-selected="true" class="filter-btn active" data-filter="all" type="button">
+<i class="fas fa-layer-group"></i> Tous
+                        </button>
+<button aria-selected="false" class="filter-btn" data-filter="projet" type="button">
+<i class="fas fa-diagram-project"></i> Projets
+                        </button>
+<button aria-selected="false" class="filter-btn" data-filter="tp-reseau" type="button">
+<i class="fas fa-network-wired"></i> Réseau
+                        </button>
+<button aria-selected="false" class="filter-btn" data-filter="tp-systeme" type="button">
+<i class="fas fa-server"></i> Systèmes
+                        </button>
+<button aria-selected="false" class="filter-btn" data-filter="tp-services" type="button">
+<i class="fas fa-cloud"></i> Services
+                        </button>
+<button aria-selected="false" class="filter-btn" data-filter="tp-securite" type="button">
+<i class="fas fa-lock"></i> Sécurité
+                        </button>
+<button aria-selected="false" class="filter-btn" data-filter="tp-virt" type="button">
+<i class="fas fa-cubes"></i> Virtualisation / Docker
+                        </button>
+<button aria-selected="false" class="filter-btn" data-filter="tp-supervision" type="button">
+<i class="fas fa-chart-line"></i> Supervision / Sauvegarde
+                        </button>
+</div>
+</div>
+<div class="projects-grid" id="projectsGrid">
+<!-- PROJETS MAJEURS -->
+<article class="project-card" data-category="projet">
+<img alt="Logo GLPI" loading="lazy" src="https://www.sparks-formation.com/wp-content/uploads/2020/07/logo-glpi.png"/>
+<h3>Mise en place GLPI</h3>
+<p>Installation et configuration d'une solution ITSM pour le support (tickets) et la gestion de parc.</p>
+<div aria-label="Résumé du projet" class="project-meta">
+<ul>
+<li><strong>Objectif :</strong> centraliser la gestion des incidents et demandes.</li>
+<li><strong>Environnement :</strong> serveur Linux + base de données + accès web.</li>
+<li><strong>Résultat :</strong> création de tickets, profils utilisateurs, suivi des actions.</li>
+</ul>
+</div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Gestion de parc</span>
+<span class="tag">Support</span>
+</div>
+<a href="https://drive.google.com/file/d/1WHmUimFwpoHVmhK3kAV98rYHLdEp1L3x/view?usp=drive_link" rel="noopener noreferrer" target="_blank">Détails →</a>
+
+</div>
+</article>
+<article class="project-card" data-category="projet">
+<img alt="Logo Nextcloud" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/1200px-Nextcloud_Logo.svg.png"/>
+<h3>Déploiement Nextcloud</h3>
+<p>Mise en place d'un cloud privé pour le stockage et le partage de fichiers, avec une approche sécurité.</p>
+<div aria-label="Résumé du projet" class="project-meta">
+<ul>
+<li><strong>Objectif :</strong> proposer un espace de stockage collaboratif interne.</li>
+<li><strong>Environnement :</strong> Ubuntu / Debian + service web + base de données.</li>
+<li><strong>Résultat :</strong> partage de fichiers, comptes, droits, accès sécurisé.</li>
+</ul>
+</div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Cloud privé</span>
+<span class="tag">Partage</span>
+<span class="tag">Sécurité</span>
+</div>
+<a href="https://drive.google.com/file/d/1uz0ghN59WqhXrhcn5hK4LCBB65MQs99s/view?usp=drive_link" rel="noopener noreferrer" target="_blank">Détails →</a>
+
+</div>
+</article>
+<article class="project-card" data-category="projet">
+<img alt="Logo Bacula" loading="lazy" src="https://all-it-network.com/wp-content/uploads/2017/05/BACULA8MINI-240x136_v2.png"/>
+<h3>Solution de Sauvegarde Bacula</h3>
+<p>Configuration d'une stratégie de sauvegarde centralisée pour sécuriser les données de plusieurs machines.</p>
+<div aria-label="Résumé du projet" class="project-meta">
+<ul>
+<li><strong>Objectif :</strong> automatiser les sauvegardes et préparer la restauration.</li>
+<li><strong>Environnement :</strong> serveur Bacula + clients + stockage.</li>
+<li><strong>Résultat :</strong> jobs planifiés, tests de restauration, suivi des sauvegardes.</li>
+</ul>
+</div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Sauvegarde</span>
+<span class="tag">Restauration</span>
+</div>
+<a href="https://drive.google.com/file/d/1BbbA7RFgwkJhCcothWtAhcRF95jYBICZ/view?usp=drive_link" rel="noopener noreferrer" target="_blank">Détails →</a>
+
+</div>
+</article>
+<article class="project-card" data-category="projet">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-folder-tree"></i>
+</div>
+<h3>Serveur NFS (GSB)</h3>
+<p>Mise en place d'un serveur NFS pour le partage de fichiers en environnement entreprise.</p><div class="project-meta"><p><strong>Objectif :</strong> Mise en place d'un serveur NFS pour le partage de fichiers en environnement entreprise.</p><p><strong>Environnement :</strong> Ubuntu + NFS + Linux.</p><p><strong>Résultat :</strong> Partages NFS opérationnels, montages clients et tests d’accès réalisés.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Linux</span>
+<span class="tag">Partage</span>
+<span class="tag">Réseau</span>
+</div>
+<a href="https://drive.google.com/file/d/1fWYdwXMPbCPG8ridl4HszbPxxQnn9On8/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="projet">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-users-gear"></i>
+</div>
+<h3>Active Directory (Windows Server 2022)</h3>
+<p>Installation et configuration d'un annuaire (AD DS) pour centraliser l'authentification et les ressources.</p><div class="project-meta"><p><strong>Objectif :</strong> Installation et configuration d'un annuaire (AD DS) pour centraliser l'authentification et les ressources.</p><p><strong>Environnement :</strong> VM Windows Server 2022 + AD DS / DNS / GPO.</p><p><strong>Résultat :</strong> Domaine créé, postes/ utilisateurs gérés et tests d’authentification validés.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">AD DS</span>
+<span class="tag">GPO</span>
+<span class="tag">Domaine</span>
+</div>
+<a href="https://drive.google.com/file/d/12G9N56hw35CoIJKEO6m-GnNoS5cl0C_x/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="projet">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-hard-drive"></i>
+</div>
+<h3>Serveur NAS (OpenMediaVault)</h3>
+<p>Installation et configuration d'un serveur NAS (stockage réseau) avec gestion des partages et droits.</p><div class="project-meta"><p><strong>Objectif :</strong> Installation et configuration d'un serveur NAS (stockage réseau) avec gestion des partages et droits.</p><p><strong>Environnement :</strong> OpenMediaVault (Debian).</p><p><strong>Résultat :</strong> NAS configuré avec partages, droits et accès réseau fonctionnels.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">NAS</span>
+<span class="tag">Stockage</span>
+<span class="tag">Réseau</span>
+</div>
+<a href="https://drive.google.com/file/d/11Kr2fj0MFsSRRcYrs_Teun0t6BwB6Pc_/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<!-- TP RESEAU -->
+<article class="project-card" data-category="tp-reseau">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-network-wired"></i>
+</div>
+<h3>Adressage IPv4</h3>
+<p>Comprendre et appliquer l'adressage IPv4 (masque, réseau, broadcast, hôtes).</p><div class="project-meta"><p><strong>Objectif :</strong> Comprendre et appliquer l'adressage IPv4 (masque, réseau, broadcast, hôtes).</p><p><strong>Environnement :</strong> Environnement de lab.</p><p><strong>Résultat :</strong> Plan d’adressage appliqué et tests de connectivité réalisés.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">IPv4</span>
+<span class="tag">Subnetting</span>
+</div>
+<a href="https://drive.google.com/file/d/1VmgzC5uD53rxH2A1sDEK7pa4UuXgI2PY/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-reseau">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-sitemap"></i>
+</div>
+<h3>Segmentation IPv4</h3>
+<p>Segmentation d'un réseau (VLSM, sous-réseaux) pour optimiser l'adressage.</p><div class="project-meta"><p><strong>Objectif :</strong> Segmentation d'un réseau (VLSM, sous-réseaux) pour optimiser l'adressage.</p><p><strong>Environnement :</strong> Cisco Packet Tracer.</p><p><strong>Résultat :</strong> Sous-réseaux définis, VLSM appliqué et routage/communication vérifiés.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">VLSM</span>
+<span class="tag">Plan d'adressage</span>
+</div>
+<a href="https://drive.google.com/file/d/1Smocam-fyqMbdC4L56YtiCwBgz-hZl_Z/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-reseau">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-ethernet"></i>
+</div>
+<h3>Configuration de base (Switch)</h3>
+<p>Configuration initiale d'un commutateur : VLAN, ports, tests de connectivité.</p><div class="project-meta"><p><strong>Objectif :</strong> Configuration initiale d'un commutateur : VLAN, ports, tests de connectivité.</p><p><strong>Environnement :</strong> Cisco Packet Tracer + SSH + Cisco.</p><p><strong>Résultat :</strong> Configuration de base appliquée (interfaces, VLAN/accès) et vérifications effectuées.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Cisco</span>
+<span class="tag">Switch</span>
+<span class="tag">VLAN</span>
+</div>
+<a href="https://drive.google.com/file/d/1jYeyC9jRxF5R0-KuLYDjjTsBqb8hVz7S/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-reseau">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-route"></i>
+</div>
+<h3>Configuration de base (Routeur)</h3>
+<p>Mise en place de la configuration réseau d'un routeur et validation par tests.</p><div class="project-meta"><p><strong>Objectif :</strong> Mise en place de la configuration réseau d'un routeur et validation par tests.</p><p><strong>Environnement :</strong> Cisco Packet Tracer + Cisco.</p><p><strong>Résultat :</strong> Configuration de base appliquée (interfaces, routage) et tests de connectivité effectués.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Cisco</span>
+<span class="tag">Routage</span>
+</div>
+<a href="https://drive.google.com/file/d/1OQTbK1FO3HcRu8SWwiGRbU7oYaYXbSv5/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-reseau">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-diagram-project"></i>
+</div>
+<h3>Routage inter-VLAN</h3>
+<p>Configuration d'un routage inter-VLAN (router-on-a-stick) et tests de communication.</p><div class="project-meta"><p><strong>Objectif :</strong> Configuration d'un routage inter-VLAN (router-on-a-stick) et tests de communication.</p><p><strong>Environnement :</strong> Cisco Packet Tracer.</p><p><strong>Résultat :</strong> Communication inter-VLAN opérationnelle, tests (ping) validés.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Inter-VLAN</span>
+<span class="tag">Trunk</span>
+<span class="tag">Routage</span>
+</div>
+<a href="https://drive.google.com/file/d/1QOijiDEgxuQzSz8RsB86j0YkLNeGCyBA/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-reseau">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-arrows-rotate"></i>
+</div>
+<h3>STP (prévention des boucles)</h3>
+<p>Investigation et prévention des boucles réseau avec STP (ports, états, sécurité).</p><div class="project-meta"><p><strong>Objectif :</strong> Investigation et prévention des boucles réseau avec STP (ports, états, sécurité).</p><p><strong>Environnement :</strong> Cisco Packet Tracer + STP.</p><p><strong>Résultat :</strong> STP configuré, root bridge contrôlé et boucle simulée sans impact.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">STP</span>
+<span class="tag">Boucles</span>
+</div>
+<a href="https://drive.google.com/file/d/13M1AB8r-9BvX-uMw6L5U3txVcyfERyjj/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-reseau">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-link"></i>
+</div>
+<h3>EtherChannel</h3>
+<p>Agrégation de liens (EtherChannel) pour augmenter la bande passante et la résilience.</p><div class="project-meta"><p><strong>Objectif :</strong> Agrégation de liens (EtherChannel) pour augmenter la bande passante et la résilience.</p><p><strong>Environnement :</strong> Cisco Packet Tracer + EtherChannel.</p><p><strong>Résultat :</strong> LACP/EtherChannel opérationnel et agrégation de liens vérifiée.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">EtherChannel</span>
+<span class="tag">Redondance</span>
+</div>
+<a href="https://drive.google.com/file/d/1g5Qu2N160gUVa2Utdg0hcL-g8obJH_8h/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-reseau">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-people-arrows"></i>
+</div>
+<h3>DHCP (Cisco)</h3>
+<p>Implémentation d'un serveur DHCP sur Cisco IOS et tests de distribution d'adresses.</p><div class="project-meta"><p><strong>Objectif :</strong> Implémentation d'un serveur DHCP sur Cisco IOS et tests de distribution d'adresses.</p><p><strong>Environnement :</strong> Cisco Packet Tracer + DHCP + DNS.</p><p><strong>Résultat :</strong> Attribution d’adresses automatique fonctionnelle et tests clients validés.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">DHCP</span>
+<span class="tag">IOS</span>
+</div>
+<a href="https://drive.google.com/file/d/1iy5r5Q8q0hp_0YWSZmCcp3QXJ9jwtGf0/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-reseau">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-wifi"></i>
+</div>
+<h3>Réseau Wi‑Fi (Packet Tracer)</h3>
+<p>Installation et configuration d'un réseau Wi‑Fi et validation de la connectivité.</p><div class="project-meta"><p><strong>Objectif :</strong> Installation et configuration d'un réseau Wi‑Fi et validation de la connectivité.</p><p><strong>Environnement :</strong> Cisco Packet Tracer + DHCP + Cisco.</p><p><strong>Résultat :</strong> Réseau Wi‑Fi configuré (SSID/sécurité) et clients connectés avec succès.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Wi‑Fi</span>
+<span class="tag">Cisco</span>
+</div>
+<a href="https://drive.google.com/file/d/1XUcNJT2ZAfVxt15JKbN6c7UG9b4KoxkK/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-reseau">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-laptop-code"></i>
+</div>
+<h3>Exploration réseau (Packet Tracer)</h3>
+<p>Découverte d'un réseau, tests de connectivité et compréhension des flux.</p><div class="project-meta"><p><strong>Objectif :</strong> Découverte d'un réseau, tests de connectivité et compréhension des flux.</p><p><strong>Environnement :</strong> Cisco Packet Tracer + Packet Tracer.</p><p><strong>Résultat :</strong> Topologie comprise, tests de connectivité et commandes de diagnostic réalisées.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Packet Tracer</span>
+<span class="tag">Diagnostic</span>
+</div>
+<a href="https://drive.google.com/file/d/14wC9d4md_Qmc1GCwdi1Y22elKKUBTD8b/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-reseau">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-code-branch"></i>
+</div>
+<h3>FHRP / HSRP</h3>
+<p>Haute disponibilité : passerelle virtuelle et bascule automatique entre routeurs.</p><div class="project-meta"><p><strong>Objectif :</strong> Haute disponibilité : passerelle virtuelle et bascule automatique entre routeurs.</p><p><strong>Environnement :</strong> Cisco Packet Tracer + HSRP/FHRP.</p><p><strong>Résultat :</strong> Redondance configurée, bascule automatique testée et validée.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">HSRP</span>
+<span class="tag">Redondance</span>
+</div>
+<a href="https://drive.google.com/file/d/1j00Q6OBLWESzjtGxYUSauhIAlHmB2QY8/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-reseau">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-wifi"></i>
+</div>
+<h3>WLAN avec WLC (Cisco)</h3>
+<p>Configuration centralisée du Wi‑Fi via WLC : SSID, sécurité et gestion des AP.</p><div class="project-meta"><p><strong>Objectif :</strong> Configuration centralisée du Wi‑Fi via WLC : SSID, sécurité et gestion des AP.</p><p><strong>Environnement :</strong> WLC Cisco + DHCP.</p><p><strong>Résultat :</strong> WLAN centralisé configuré, AP/SSID gérés et tests d’association validés.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">WLC</span>
+<span class="tag">WLAN</span>
+</div>
+<a href="https://drive.google.com/file/d/19oiCEg2vMuKXOVg46ZZClKY6DseBRHfZ/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-reseau">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-globe"></i>
+</div>
+<h3>Trafic DNS</h3>
+<p>Exploration du trafic DNS pour comprendre la résolution de noms et détecter des anomalies.</p><div class="project-meta"><p><strong>Objectif :</strong> Exploration du trafic DNS pour comprendre la résolution de noms et détecter des anomalies.</p><p><strong>Environnement :</strong> Wireshark + DNS.</p><p><strong>Résultat :</strong> Requêtes DNS analysées, résolution vérifiée et anomalies repérées.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">DNS</span>
+<span class="tag">Wireshark</span>
+</div>
+<a href="https://drive.google.com/file/d/1baSqDd2bocuvtvT0f7zDUNf16cMXyUB-/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<!-- TP SYSTEME -->
+<article class="project-card" data-category="tp-systeme">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-terminal"></i>
+</div>
+<h3>Commandes Linux (système)</h3>
+<p>Identification et utilisation des commandes essentielles (fichiers, droits, processus).</p><div class="project-meta"><p><strong>Objectif :</strong> Identification et utilisation des commandes essentielles (fichiers, droits, processus).</p><p><strong>Environnement :</strong> Debian + Ubuntu + SSH + Linux.</p><p><strong>Résultat :</strong> Commandes système identifiées et appliquées pour diagnostiquer/administrer l’OS.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Linux</span>
+<span class="tag">Shell</span>
+</div>
+<a href="https://drive.google.com/file/d/1ZrJA3C-9qWCLTOlBZy82VlblzED71e6Q/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-systeme">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-box"></i>
+</div>
+<h3>Installation de logiciels (Linux)</h3>
+<p>Installation via paquets (apt), dépôts, mises à jour et vérification du service.</p><div class="project-meta"><p><strong>Objectif :</strong> Installation via paquets (apt), dépôts, mises à jour et vérification du service.</p><p><strong>Environnement :</strong> Ubuntu.</p><p><strong>Résultat :</strong> Paquets installés/administrés via gestionnaire et vérifications réalisées.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">APT</span>
+<span class="tag">Services</span>
+</div>
+<a href="https://drive.google.com/file/d/1O1HnOytAFoQ99JlnAEL88IiQsdgPjdEf/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-systeme">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-windows"></i>
+</div>
+<h3>Installation système Windows</h3>
+<p>Installation et configuration de base (comptes, réseau, mises à jour, pilotes).</p><div class="project-meta"><p><strong>Objectif :</strong> Installation et configuration de base (comptes, réseau, mises à jour, pilotes).</p><p><strong>Environnement :</strong> Windows.</p><p><strong>Résultat :</strong> Installation effectuée, premiers réglages et tests de fonctionnement réalisés.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Windows</span>
+<span class="tag">Déploiement</span>
+</div>
+<a href="https://drive.google.com/file/d/1z1JXxvMZr5ogel0SkvcXIhPZzs-SNjAO/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-systeme">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-user-gear"></i>
+</div>
+<h3>Assistance aux utilisateurs (Windows)</h3>
+<p>Support utilisateur : diagnostic, résolution de problèmes et bonnes pratiques.</p><div class="project-meta"><p><strong>Objectif :</strong> Support utilisateur : diagnostic, résolution de problèmes et bonnes pratiques.</p><p><strong>Environnement :</strong> Poste/VM Windows.</p><p><strong>Résultat :</strong> Procédures de support appliquées et incidents typiques résolus.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Support</span>
+<span class="tag">Diagnostic</span>
+</div>
+<a href="https://drive.google.com/file/d/142cxYtMCjkyCWGY3_dD1XUWddQf_XOov/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<!-- TP SERVICES -->
+<article class="project-card" data-category="tp-services">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-folder-open"></i>
+</div>
+<h3>SAMBA4</h3>
+<p>Mise en place de partages et gestion des accès via Samba (interop Windows/Linux).</p><div class="project-meta"><p><strong>Objectif :</strong> Mise en place de partages et gestion des accès via Samba (interop Windows/Linux).</p><p><strong>Environnement :</strong> Debian + Ubuntu + Samba 4 + DNS.</p><p><strong>Résultat :</strong> Partage Samba fonctionnel, droits appliqués et accès clients validés.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Samba</span>
+<span class="tag">Partage</span>
+<span class="tag">Droits</span>
+</div>
+<a href="https://drive.google.com/file/d/1eVc2ES76KZ5dNSeVbhvNeCIhd7vWNVFI/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-services">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-globe"></i>
+</div>
+<h3>Apache2</h3>
+<p>Installation et configuration d'un serveur web (services, ports, pages, tests).</p><div class="project-meta"><p><strong>Objectif :</strong> Installation et configuration d'un serveur web (services, ports, pages, tests).</p><p><strong>Environnement :</strong> Debian + Apache2 + DNS + Linux.</p><p><strong>Résultat :</strong> Serveur web opérationnel, site accessible et tests HTTP validés.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Web</span>
+<span class="tag">Linux</span>
+</div>
+<a href="https://drive.google.com/file/d/1srONIhMehzBhluPf6tSMIx6D43cW6-bC/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+
+<article class="project-card" data-category="tp-services">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-exchange-alt"></i>
+</div>
+<h3>Failover &amp; Load Balancing (Heartbeat + LVS)</h3>
+<p>Haute disponibilité d'un service web : bascule automatique (IP flottante) et répartition de charge.</p><div class="project-meta"><p><strong>Objectif :</strong> Assurer la disponibilité d'un service web via un mécanisme de failover et un load balancer (LVS).</p><p><strong>Environnement :</strong> Machines virtuelles Debian, 2 serveurs web (Apache), Heartbeat, LVS/ipvsadm, réseaux DMZ/cluster.</p><p><strong>Résultat :</strong> IP virtuelle opérationnelle avec bascule en cas de panne et répartition des requêtes web validée.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">HA</span>
+<span class="tag">Heartbeat</span>
+<span class="tag">LVS</span>
+</div>
+<a href="pdfs/doc_failover.pdf" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+
+<article class="project-card" data-category="tp-services">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-phone"></i>
+</div>
+<h3>ToIP avec ASTLinux</h3>
+<p>Mise en place d'une solution de téléphonie IP : comptes, appels et tests.</p><div class="project-meta"><p><strong>Objectif :</strong> Mise en place d'une solution de téléphonie IP : comptes, appels et tests.</p><p><strong>Environnement :</strong> AD DS / DNS / GPO + ASTLinux.</p><p><strong>Résultat :</strong> Services ToIP configurés et appels de test réalisés.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">ToIP</span>
+<span class="tag">Asterisk</span>
+</div>
+<a href="https://drive.google.com/file/d/1_h2DvfA3BAoPy0yPVhidLdGYcWLoV_4N/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<!-- TP SECURITE -->
+<article class="project-card" data-category="tp-securite">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-fire"></i>
+</div>
+<h3>Pare-feu UFW (Ubuntu)</h3>
+<p>Mise en place d'un pare-feu avec règles entrantes/sortantes et tests de ports.</p><div class="project-meta"><p><strong>Objectif :</strong> Mise en place d'un pare-feu avec règles entrantes/sortantes et tests de ports.</p><p><strong>Environnement :</strong> Ubuntu + UFW + SSH.</p><p><strong>Résultat :</strong> Règles UFW appliquées, ports contrôlés et tests de filtrage validés.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Firewall</span>
+<span class="tag">UFW</span>
+</div>
+<a href="https://drive.google.com/file/d/1Whmw-Y2jSJOFuswnotqXcdgCI4N39_2a/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-securite">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-key"></i>
+</div>
+<h3>Signature &amp; chiffrement (PGP)</h3>
+<p>Utilisation de PGP pour signer et chiffrer des messages/fichiers et valider l'intégrité.</p><div class="project-meta"><p><strong>Objectif :</strong> Utilisation de PGP pour signer et chiffrer des messages/fichiers et valider l'intégrité.</p><p><strong>Environnement :</strong> Ubuntu.</p><p><strong>Résultat :</strong> Clés générées, signature/chiffrement effectués et vérifications réalisées.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Cryptographie</span>
+<span class="tag">PGP</span>
+</div>
+<a href="https://drive.google.com/file/d/16itI9TC2y23VeSVbA5KGWnDFKkwlewXn/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+
+<article class="project-card" data-category="tp-securite">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-search"></i>
+</div>
+<h3>Network Security : analyse DNS / WHOIS</h3>
+<p>Reconnaissance réseau : collecte d'informations DNS (NS/MX) et WHOIS, et tests de résolution (forward/reverse).</p>
+<div class="project-meta">
+<p><strong>Objectif :</strong> Collecter et vérifier des informations sur un domaine (WHOIS, serveurs DNS, enregistrements) et maîtriser les commandes de diagnostic DNS.</p>
+<p><strong>Environnement :</strong> Linux (Debian/Ubuntu) + outils <em>whois</em>, <em>nslookup</em>/<em>dig</em> + accès Internet.</p>
+<p><strong>Résultat :</strong> Enregistrements DNS identifiés (NS/MX/A), résolution directe et inverse validées, et premières bases d'analyse de surface d'exposition.</p>
+</div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">DNS</span>
+<span class="tag">WHOIS</span>
+<span class="tag">Recon</span>
+</div>
+<a href="pdfs/doc_networksecurity_dignan.pdf" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+
+<article class="project-card" data-category="tp-securite">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-shield-alt"></i>
+</div>
+<h3>Lab Firewall (pfSense)</h3>
+<p>Déploiement d'un pare-feu pfSense : DNS, NAT, alias et règles pour isoler LAN / DMZ et contrôler les flux.</p>
+<div class="project-meta">
+<p><strong>Objectif :</strong> Mettre en place une politique de filtrage (règles, alias), autoriser/contrôler l'accès Internet et valider le comportement via tests.</p>
+<p><strong>Environnement :</strong> pfSense + clients Lubuntu + serveurs Debian (Bind9/DNS, serveur web DMZ) sur environnement virtualisé.</p>
+<p><strong>Résultat :</strong> Filtrage opérationnel (règles/alias), résolution DNS contrôlée, accès autorisés selon la politique et validation par tests (ping/DNS/HTTP).</p>
+</div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">pfSense</span>
+<span class="tag">Firewall</span>
+<span class="tag">NAT</span>
+</div>
+<a href="pdfs/doc_labofirewall.pdf" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+
+<article class="project-card" data-category="tp-securite">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-route"></i>
+</div>
+          <h3>pfSense (routage, règles, sauvegarde)</h3>
+<p>Configuration d'un environnement réseau multi-segments : routes statiques, règles firewall, logs et sauvegarde/restauration pfSense.</p>
+<div class="project-meta">
+<p><strong>Objectif :</strong> Configurer le routage entre sous-réseaux, sécuriser l'administration (HTTPS), appliquer des règles de filtrage et gérer la sauvegarde de configuration.</p>
+<p><strong>Environnement :</strong> pfSense (VM) + réseaux virtuels (DMZ/Training/Client) + machines Lubuntu/Debian (serveurs/clients) sous VirtualBox.</p>
+<p><strong>Résultat :</strong> Connectivité inter-réseaux validée (routes), règles fonctionnelles avec tests de trafic, logs filtrés/analysés et configuration exportée/restaurée.</p>
+</div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">pfSense</span>
+<span class="tag">Routage</span>
+<span class="tag">Firewall</span>
+</div>
+<a href="pdfs/doc_reseau2_dignan.pdf" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-securite">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-fingerprint"></i>
+</div>
+<h3>Sécurité : MD5</h3>
+<p>Analyse des limites de MD5 et explication des risques (collisions, intégrité).</p><div class="project-meta"><p><strong>Objectif :</strong> Analyse des limites de MD5 et explication des risques (collisions, intégrité).</p><p><strong>Environnement :</strong> Environnement de lab.</p><p><strong>Résultat :</strong> Hash MD5 calculé/analysé et démonstration de ses limites réalisée.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Hash</span>
+<span class="tag">Intégrité</span>
+</div>
+<a href="https://drive.google.com/file/d/1iSIBblxA4K7xJxrf6utcC-vFpAXzy-Br/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-securite">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-user-secret"></i>
+</div>
+<h3>John the Ripper</h3>
+<p>Audit de robustesse des mots de passe et compréhension des attaques par bruteforce/dictionnaire.</p><div class="project-meta"><p><strong>Objectif :</strong> Audit de robustesse des mots de passe et compréhension des attaques par bruteforce/dictionnaire.</p><p><strong>Environnement :</strong> John the Ripper.</p><p><strong>Résultat :</strong> Attaque par dictionnaire/force brute menée et mots de passe récupérés (selon conditions).</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Pentest</span>
+<span class="tag">Passwords</span>
+</div>
+<a href="https://drive.google.com/file/d/1yQVTOQaE6iftxkqNJUAQ8C1fGUwhjlpa/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-securite">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-bug"></i>
+</div>
+<h3>Metasploit</h3>
+<p>Découverte de l'outil Metasploit : exploitation contrôlée et compréhension des risques.</p><div class="project-meta"><p><strong>Objectif :</strong> Découverte de l'outil Metasploit : exploitation contrôlée et compréhension des risques.</p><p><strong>Environnement :</strong> Metasploit Framework + Apache2.</p><p><strong>Résultat :</strong> Modules Metasploit utilisés en environnement contrôlé et exploitation démontrée.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Metasploit</span>
+<span class="tag">Vulnérabilités</span>
+</div>
+<a href="https://drive.google.com/file/d/1juP_I1JXWkx4b8PFy26-Jy04N6JEC7kY/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-securite">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-mask"></i>
+</div>
+<h3>DNS Spoofing</h3>
+<p>Comprendre l'usurpation DNS et les mesures de mitigation (DNSSEC, filtrage, supervision).</p><div class="project-meta"><p><strong>Objectif :</strong> Comprendre l'usurpation DNS et les mesures de mitigation (DNSSEC, filtrage, supervision).</p><p><strong>Environnement :</strong> Ubuntu + Apache2 + DNS.</p><p><strong>Résultat :</strong> Spoofing démontré en labo et mesures de protection identifiées.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">DNS</span>
+<span class="tag">Attaque</span>
+</div>
+<a href="https://drive.google.com/file/d/184Ut5lyG5kuu4rSAQyaKn_h5cZRnrFDS/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-securite">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-shield"></i>
+</div>
+<h3>VPN</h3>
+<p>Mise en place d'un VPN pour sécuriser l'accès distant et chiffrer les échanges.</p><div class="project-meta"><p><strong>Objectif :</strong> Mise en place d'un VPN pour sécuriser l'accès distant et chiffrer les échanges.</p><p><strong>Environnement :</strong> VPN (tunnel).</p><p><strong>Résultat :</strong> Tunnel VPN établi et communication sécurisée vérifiée.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">VPN</span>
+<span class="tag">Accès distant</span>
+</div>
+<a href="https://drive.google.com/file/d/1sIfZUtLCfksOoDERniB9ZsErmQ7x_b97/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-securite">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-user-shield"></i>
+</div>
+<h3>Sécurisation des réseaux</h3>
+<p>Bonnes pratiques : segmentation, filtrage, durcissement et réduction de la surface d'attaque.</p><div class="project-meta"><p><strong>Objectif :</strong> Bonnes pratiques : segmentation, filtrage, durcissement et réduction de la surface d'attaque.</p><p><strong>Environnement :</strong> Cisco Packet Tracer + DNS.</p><p><strong>Résultat :</strong> TP réalisé et vérifications fonctionnelles effectuées.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Durcissement</span>
+<span class="tag">Bonnes pratiques</span>
+</div>
+<a href="https://drive.google.com/file/d/134NgK66DFb_QqniWUqAIgXy7rTmPClDm/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-securite">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-filter"></i>
+</div>
+<h3>UTM Squid (Proxy)</h3>
+<p>Mise en place d'un proxy (Squid) pour filtrer, contrôler et journaliser la navigation.</p><div class="project-meta"><p><strong>Objectif :</strong> Mise en place d'un proxy (Squid) pour filtrer, contrôler et journaliser la navigation.</p><p><strong>Environnement :</strong> Debian + Proxy Squid + DNS.</p><p><strong>Résultat :</strong> Proxy configuré, règles appliquées et navigation filtrée testée.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Proxy</span>
+<span class="tag">Filtrage</span>
+</div>
+<a href="https://drive.google.com/file/d/1EWFalnISX6Ew3kWMjbgzbaNELqDngZBo/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-securite">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-lock"></i>
+</div>
+<h3>SSH (accès distant)</h3>
+<p>Sécurisation de l'accès SSH : clés, durcissement, ports, et restrictions utilisateurs.</p><div class="project-meta"><p><strong>Objectif :</strong> Sécurisation de l'accès SSH : clés, durcissement, ports, et restrictions utilisateurs.</p><p><strong>Environnement :</strong> Debian + Ubuntu + SSH.</p><p><strong>Résultat :</strong> Accès distant sécurisé configuré et connexion/échanges validés.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">SSH</span>
+<span class="tag">Accès distant</span>
+</div>
+<a href="https://drive.google.com/file/d/1CSc98IW8kFFX9Q6qhip1APVFhptSB1i_/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<!-- TP VIRTUALISATION / DOCKER -->
+<article class="project-card" data-category="tp-virt">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-desktop"></i>
+</div>
+<h3>Installation d'un système virtualisé</h3>
+<p>Création de VM, ressources, réseau virtuel et bonnes pratiques (snapshots).</p><div class="project-meta"><p><strong>Objectif :</strong> Création de VM, ressources, réseau virtuel et bonnes pratiques (snapshots).</p><p><strong>Environnement :</strong> Ubuntu.</p><p><strong>Résultat :</strong> TP réalisé et vérifications fonctionnelles effectuées.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Virtualisation</span>
+<span class="tag">VM</span>
+</div>
+<a href="https://drive.google.com/file/d/1VSdHAXmS8Hoio5i8xuTWLCHzl4iNRXsB/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-virt">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-boxes-stacked"></i>
+</div>
+<h3>Docker</h3>
+<p>Conteneurisation : images, conteneurs, réseaux, volumes et déploiement d'applications.</p><div class="project-meta"><p><strong>Objectif :</strong> Conteneurisation : images, conteneurs, réseaux, volumes et déploiement d'applications.</p><p><strong>Environnement :</strong> Debian + Ubuntu + Docker + SSH.</p><p><strong>Résultat :</strong> Docker installé, images/containers manipulés et tests de déploiement réalisés.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Docker</span>
+<span class="tag">Containers</span>
+</div>
+<a href="https://drive.google.com/file/d/16pYinibXySfDEPJkEYKJKmvrSyb5ylnj/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<!-- TP SUPERVISION / SAUVEGARDE -->
+<article class="project-card" data-category="tp-supervision">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-chart-line"></i>
+</div>
+<h3>Zabbix</h3>
+<p>Mise en place d'une supervision : agents, hôtes, alertes et suivi des métriques.</p><div class="project-meta"><p><strong>Objectif :</strong> Mise en place d'une supervision : agents, hôtes, alertes et suivi des métriques.</p><p><strong>Environnement :</strong> Ubuntu + UFW + Zabbix + Apache2.</p><p><strong>Résultat :</strong> Supervision en place, hôtes ajoutés et alertes/graphes vérifiés.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Supervision</span>
+<span class="tag">Alerting</span>
+</div>
+<a href="https://drive.google.com/file/d/1q6bzppFRRwPS8fvuGyt2zhNhgxwbdPxv/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-supervision">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-eye"></i>
+</div>
+<h3>Observium</h3>
+<p>Supervision réseau : découverte, SNMP, tableaux de bord et suivi des équipements.</p><div class="project-meta"><p><strong>Objectif :</strong> Supervision réseau : découverte, SNMP, tableaux de bord et suivi des équipements.</p><p><strong>Environnement :</strong> OpenMediaVault (Debian) + Debian + Observium + SNMP.</p><p><strong>Résultat :</strong> Supervision SNMP opérationnelle, équipements découverts et métriques visibles.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">SNMP</span>
+<span class="tag">Monitoring</span>
+</div>
+<a href="https://drive.google.com/file/d/1T8Qs5G33vhlFOMLdzlHMD49b6XzP7nsT/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-supervision">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-file-waveform"></i>
+</div>
+<h3>Analyse de logs</h3>
+<p>Analyse de journaux pour diagnostiquer un incident et identifier des anomalies.</p><div class="project-meta"><p><strong>Objectif :</strong> Analyse de journaux pour diagnostiquer un incident et identifier des anomalies.</p><p><strong>Environnement :</strong> Environnement de lab.</p><p><strong>Résultat :</strong> Logs collectés/analysés, événements repérés et interprétation réalisée.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Logs</span>
+<span class="tag">Diagnostic</span>
+</div>
+<a href="https://drive.google.com/file/d/1vAH1E3e40iCneEl6OP6Tpe5clDVqndkO/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+<article class="project-card" data-category="tp-supervision">
+<div aria-hidden="true" class="project-icon">
+<i class="fas fa-rotate"></i>
+</div>
+<h3>Windows Backup</h3>
+<p>Mise en place de sauvegardes Windows et validation par restauration de fichiers.</p><div class="project-meta"><p><strong>Objectif :</strong> Mise en place de sauvegardes Windows et validation par restauration de fichiers.</p><p><strong>Environnement :</strong> Poste/VM Windows.</p><p><strong>Résultat :</strong> Sauvegarde planifiée et test de restauration réalisé.</p></div>
+<div class="project-bottom">
+
+  <div class="skills-label">Compétences :</div>
+
+  <div class="tag-list">
+<span class="tag">Backup</span>
+<span class="tag">Restauration</span>
+</div>
+<a href="https://drive.google.com/file/d/1Ef6AzSiyQV_rMxTlEd2c5jnW1KgMU8Sz/view?usp=sharing" rel="noopener" target="_blank"><i class="fas fa-file-alt"></i> Voir le document</a>
+
+</div>
+</article>
+</div>
+</div>
+</section>
+</main>
+<footer>
+<div class="container">
+<p>© <span id="year"></span> Théodore Trat. Tous droits réservés.</p>
+</div>
+</footer>
+<script src="script.js"></script>
 </body>
 </html>
