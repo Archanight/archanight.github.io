@@ -1,0 +1,11 @@
+{
+  "name": "archanight-portfolio-rss",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:rss": "node scripts/build-rss.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
