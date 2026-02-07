@@ -1,14 +1,11 @@
 name: Build RSS news.json
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 */6 * * *" # toutes les 6h
   push:
-    paths:
-      - "scripts/build-rss.js"
-      - "package.json"
-      - ".github/workflows/build-rss.yml"
+    branches: [ "main" ]
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -24,11 +21,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: "npm"
+          # IMPORTANT: on enlève le cache car tu n'as pas de lockfile
 
       - name: Install deps
-        run: npm install
-
+        run: npm install --no-audit --no-fund
 
       - name: Build news.json
         run: npm run build:rss
@@ -42,5 +38,5 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "chore(rss): update data/news.json"
+          git commit -m "Update news.json (RSS)"
           git push
