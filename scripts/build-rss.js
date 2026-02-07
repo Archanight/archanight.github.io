@@ -12,14 +12,30 @@ const OUT_DIR = "data";
 const OUT_FILE = path.join(OUT_DIR, "news.json");
 const MAX_ITEMS = 12;
 
-function stripHtml(s = "") {
+function stripHtml(input) {
+  if (input == null) return "";
+  let s = input;
+
+  // Certains feeds donnent { "#text": "..." } ou { _: "..." } ou des tableaux
+  if (Array.isArray(s)) s = s.join(" ");
+  if (typeof s === "object") {
+    s =
+      s["#text"] ??
+      s._ ??
+      s.text ??
+      s.value ??
+      s.content ??
+      s.summary ??
+      JSON.stringify(s);
+  }
+
+  s = String(s);
   return s
-    .replace(/<script[\s\S]*?<\/script>/gi, "")
-    .replace(/<style[\s\S]*?<\/style>/gi, "")
     .replace(/<[^>]*>/g, " ")
     .replace(/\s+/g, " ")
     .trim();
 }
+
 
 function decodeGoogleAlertUrl(u) {
   if (!u) return "";
