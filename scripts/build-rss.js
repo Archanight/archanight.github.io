@@ -1,127 +1,142 @@
-import fs from "fs";
-import path from "path";
-import Parser from "rss-parser";
-
-const parser = new Parser({
-  timeout: 20000,
-  headers: {
-    "User-Agent": "Mozilla/5.0 (GitHubActions RSS fetcher)"
-  }
-});
+import fs from "node:fs";
+import path from "node:path";
+import { XMLParser } from "fast-xml-parser";
 
 const FEEDS = [
-  {
-    name: "Google Alerts — ChatGPT model updates",
-    url: "https://www.google.fr/alerts/feeds/08396268160163584311/18237269061384757812",
-  },
-  {
-    name: "Google Alerts — AI security / prompt injection",
-    url: "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
-  },
-  {
-    name: "Google Alerts — CERT/éditeurs sécurité",
-    url: "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
-  },
+  "https://www.google.fr/alerts/feeds/08396268160163584311/18237269061384757812",
+  "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
+  "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690"
 ];
 
 const OUT_DIR = "data";
-const OUT_FILE = "news.json";
+const OUT_FILE = path.join(OUT_DIR, "news.json");
 
-// Limites (pour éviter une page trop lourde)
-const MAX_ITEMS_TOTAL = 12;
-const MAX_PER_FEED = 6;
+// réglages : combien d’articles max au total
+const MAX_ITEMS = 12;
 
-// util
-function toISODate(d) {
-  try {
-    const date = new Date(d);
-    if (isNaN(date.getTime())) return null;
-    return date.toISOString();
-  } catch {
-    return null;
-  }
+function safeText(v) {
+  if (v == null) return "";
+  if (typeof v === "string") return v;
+  return String(v);
 }
 
-function cleanText(str, maxLen = 220) {
-  if (!str) return "";
-  // retire HTML basique
-  const noHtml = str.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
-  if (noHtml.length <= maxLen) return noHtml;
-  return noHtml.slice(0, maxLen - 1).trimEnd() + "…";
+function stripHtml(html) {
+  return safeText(html)
+    .replace(/<script[\s\S]*?>[\s\S]*?<\/script>/gi, "")
+    .replace(/<style[\s\S]*?>[\s\S]*?<\/style>/gi, "")
+    .replace(/<\/?[^>]+>/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
-function ensureDir(dir) {
-  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+function asArray(x) {
+  if (!x) return [];
+  return Array.isArray(x) ? x : [x];
 }
 
-async function fetchFeed(feed) {
-  const parsed = await parser.parseURL(feed.url);
+async function fetchText(url) {
+  const res = await fetch(url, {
+    headers: {
+      "User-Agent": "Mozilla/5.0 (GitHub Actions RSS builder)"
+    }
+  });
+  if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}`);
+  return await res.text();
+}
 
-  const items = (parsed.items || [])
-    .slice(0, MAX_PER_FEED)
-    .map((it) => {
-      const pub = toISODate(it.isoDate || it.pubDate || it.published || it.date);
-      const title = (it.title || "").trim();
-      const link = (it.link || it.guid || "").trim();
+function parseAtomOrRss(xml) {
+  const parser = new XMLParser({
+    ignoreAttributes: false,
+    attributeNamePrefix: "@_"
+  });
 
-      // Certaines entrées Google Alerts ont un "contentSnippet" ou "content"
-      const description = cleanText(it.contentSnippet || it.content || it.summary || "");
+  const doc = parser.parse(xml);
+
+  // ATOM
+  if (doc.feed) {
+    const entries = asArray(doc.feed.entry);
+    return entries.map((e) => {
+      const links = asArray(e.link);
+      const href =
+        links.find((l) => l?.["@_rel"] === "alternate")?.["@_href"] ||
+        links[0]?.["@_href"] ||
+        "";
+
+      const published = e.published || e.updated || "";
+      const summary = stripHtml(e.summary?.["#text"] ?? e.summary ?? "");
 
       return {
-        source: feed.name,
-        title,
-        link,
-        publishedAt: pub,
-        description
+        title: safeText(e.title?.["#text"] ?? e.title),
+        url: safeText(href),
+        date: safeText(published),
+        excerpt: summary
       };
-    })
-    .filter((it) => it.title && it.link);
+    });
+  }
 
-  return items;
+  // RSS 2.0
+  if (doc.rss?.channel) {
+    const items = asArray(doc.rss.channel.item);
+    return items.map((it) => ({
+      title: safeText(it.title),
+      url: safeText(it.link),
+      date: safeText(it.pubDate),
+      excerpt: stripHtml(it.description)
+    }));
+  }
+
+  return [];
 }
 
-(async () => {
-  const startedAt = new Date().toISOString();
+function toTimestamp(dateStr) {
+  const t = Date.parse(dateStr);
+  return Number.isFinite(t) ? t : 0;
+}
 
-  let all = [];
+async function main() {
+  const all = [];
+
   for (const feed of FEEDS) {
     try {
-      const items = await fetchFeed(feed);
-      all.push(...items);
-    } catch (e) {
-      // on log et on continue (ne pas casser tout le build si 1 flux bloque)
-      console.error(`[RSS] Failed: ${feed.name} -> ${feed.url}`);
-      console.error(e?.message || e);
+      const xml = await fetchText(feed);
+      const items = parseAtomOrRss(xml);
+      for (const it of items) {
+        if (!it.url || !it.title) continue;
+        all.push(it);
+      }
+    } catch (err) {
+      console.error(`Feed error: ${feed}`, err);
     }
   }
 
-  // tri : plus récent d’abord
-  all.sort((a, b) => {
-    const da = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
-    const db = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
-    return db - da;
-  });
-
-  // dédoublonnage par lien
-  const seen = new Set();
-  const dedup = [];
+  // dédoublonnage par url
+  const uniq = new Map();
   for (const it of all) {
-    if (seen.has(it.link)) continue;
-    seen.add(it.link);
-    dedup.push(it);
+    if (!uniq.has(it.url)) uniq.set(it.url, it);
   }
 
-  const finalItems = dedup.slice(0, MAX_ITEMS_TOTAL);
+  const merged = Array.from(uniq.values())
+    .sort((a, b) => toTimestamp(b.date) - toTimestamp(a.date))
+    .slice(0, MAX_ITEMS)
+    .map((it) => ({
+      ...it,
+      // format de date lisible si possible
+      date: it.date
+    }));
 
-  const output = {
-    generatedAt: startedAt,
-    total: finalItems.length,
-    items: finalItems
+  fs.mkdirSync(OUT_DIR, { recursive: true });
+
+  const payload = {
+    generatedAt: new Date().toISOString(),
+    sources: FEEDS,
+    items: merged
   };
 
-  ensureDir(OUT_DIR);
-  const outPath = path.join(OUT_DIR, OUT_FILE);
-  fs.writeFileSync(outPath, JSON.stringify(output, null, 2), "utf-8");
+  fs.writeFileSync(OUT_FILE, JSON.stringify(payload, null, 2), "utf8");
+  console.log(`Wrote ${OUT_FILE} with ${merged.length} items`);
+}
 
-  console.log(`[RSS] OK -> ${outPath} (${finalItems.length} items)`);
-})();
+main().catch((e) => {
+  console.error(e);
+  process.exit(1);
+});
