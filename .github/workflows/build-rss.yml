@@ -27,7 +27,8 @@ jobs:
           cache: "npm"
 
       - name: Install deps
-        run: npm ci
+        run: npm install
+
 
       - name: Build news.json
         run: npm run build:rss
