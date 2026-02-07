@@ -1,0 +1,45 @@
+name: Build RSS news.json
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *" # toutes les 6h
+  push:
+    paths:
+      - "scripts/build-rss.js"
+      - "package.json"
+      - ".github/workflows/build-rss.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Build news.json
+        run: npm run build:rss
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore(rss): update data/news.json"
+          git push
