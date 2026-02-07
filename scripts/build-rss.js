@@ -3,9 +3,9 @@ import path from "node:path";
 import { XMLParser } from "fast-xml-parser";
 
 const FEEDS = [
-  "https://www.google.fr/alerts/feeds/08396268160163584311/18237269061384757812",
-  "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
   "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
+  "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
+  "https://www.google.fr/alerts/feeds/08396268160163584311/18237269061384757812",
 ];
 
 const OUT_DIR = "data";
