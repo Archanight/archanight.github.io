@@ -1,55 +1,22 @@
 {
-  "generatedAt": "2026-02-07T12:57:13.839Z",
-  "total": 7,
+  "generatedAt": "2026-02-07T15:23:11.346Z",
+  "sources": [
+    "https://www.google.fr/alerts/feeds/08396268160163584311/18237269061384757812",
+    "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
+    "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690"
+  ],
   "items": [
     {
-      "source": "Google Alerts — AI security / prompt injection",
-      "title": "Google menace <b>ChatGPT</b> avec Gemini, voici combien d&#39;utilisateurs l&#39;IA a conquis",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.phonandroid.com/google-menace-chatgpt-avec-gemini-voici-combien-dutilisateurs-lia-a-conquis.html&ct=ga&cd=CAIyGWY1MDJjNWUxMzI4YzM3MzY6ZnI6ZnI6RlI&usg=AOvVaw0hHGF-0VWXppKDNzabeKpf",
-      "publishedAt": "2026-02-06T14:51:41.000Z",
-      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être ... Google menace ChatGPT avec Gemini, voici combien d'utilisateurs l'IA a ..."
-    },
-    {
-      "source": "Google Alerts — AI security / prompt injection",
-      "title": "OpenAI change de cible : pourquoi GPT-5.3 Codex vous concerne même si vous n&#39;êtes pas ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.clubic.com/actualite-599266-openai-change-de-cible-pourquoi-gpt-5-3-codex-vous-concerne-meme-si-vous-n-etes-pas-developpeur.html&ct=ga&cd=CAIyGWY1MDJjNWUxMzI4YzM3MzY6ZnI6ZnI6RlI&usg=AOvVaw0q6kz4dN5q6uCB-DGOw-8h",
-      "publishedAt": "2026-02-06T14:48:09.000Z",
-      "description": "GPT-5.3 Codex combine les capacités de codage de GPT-5.2 Codex avec le raisonnement général de GPT-5.2, le tout 25% plus rapide. ... ChatGPT va-t ..."
-    },
-    {
-      "source": "Google Alerts — CERT/éditeurs sécurité",
       "title": "Claude Opus 4.6 et GPT-5.3 Codex sortent le même jour : la guerre des IA s&#39;emballe",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lesnumeriques.com/intelligence-artificielle/claude-opus-4-6-et-gpt-5-3-codex-sortent-le-meme-jour-la-guerre-des-ia-s-emballe-n251110.html&ct=ga&cd=CAIyGWM0MGIxYzBkMjU0ZmZhODQ6ZnI6ZnI6RlI&usg=AOvVaw1yluIOH0TMFWnq7Oed1dM7",
-      "publishedAt": "2026-02-06T14:28:32.000Z",
-      "description": "Sur Terminal-Bench 2.0, qui évalue les capacités de codage autonome, Opus 4.6 atteint 65,4 %, surpassant GPT-5.2 (et Gemini 3 Pro). ... ChatGPT / GPT-4."
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.lesnumeriques.com/intelligence-artificielle/claude-opus-4-6-et-gpt-5-3-codex-sortent-le-meme-jour-la-guerre-des-ia-s-emballe-n251110.html&ct=ga&cd=CAIyGWM0MGIxYzBkMjU0ZmZhODQ6ZnI6ZnI6RlI&usg=AOvVaw1yluIOH0TMFWnq7Oed1dM7",
+      "date": "2026-02-06T14:28:32Z",
+      "excerpt": ""
     },
     {
-      "source": "Google Alerts — AI security / prompt injection",
-      "title": "OpenAI dévoile GPT-5.3-Codex, son modèle agentique le plus rapide - BDM",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.blogdumoderateur.com/openai-devoile-gpt-5-3-codex/&ct=ga&cd=CAIyGWY1MDJjNWUxMzI4YzM3MzY6ZnI6ZnI6RlI&usg=AOvVaw1k6YfJD9THFaoYeuowrtZ_",
-      "publishedAt": "2026-02-06T14:13:45.000Z",
-      "description": "... GPT-5.2, donnant naissance à un modèle 25 % plus rapide. Concrètement ... cybersécurité. C'est pourquoi l'entreprise a déployé un dispositif ..."
-    },
-    {
-      "source": "Google Alerts — CERT/éditeurs sécurité",
       "title": "Canva intègre des créations conformes à l&#39;identité de marque directement dans les assistants d&#39;IA",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesswire.com/news/home/20260205422261/fr&ct=ga&cd=CAIyGWM0MGIxYzBkMjU0ZmZhODQ6ZnI6ZnI6RlI&usg=AOvVaw3jLOQKIViWMWN-FFdkRA6c",
-      "publishedAt": "2026-02-06T13:28:33.000Z",
-      "description": "Que vous soyez dans ChatGPT ou Claude, Canva agit comme un lien central qui transforme rapidement une conversation textuelle en visuels élégants et ..."
-    },
-    {
-      "source": "Google Alerts — AI security / prompt injection",
-      "title": "Claude Opus 4.6 vs GPT-5.3-Codex : la guerre des titans, qui gagne ? - JustGeek",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.justgeek.fr/claude-opus-4-6-vs-gpt-5-3-codex-comparaison-146327/&ct=ga&cd=CAIyGWY1MDJjNWUxMzI4YzM3MzY6ZnI6ZnI6RlI&usg=AOvVaw1fsIfVutHAlDKZ8onPWygA",
-      "publishedAt": "2026-02-06T09:44:22.000Z",
-      "description": "... GPT-5.2 ... Malwarebytes, le célèbre éditeur spécialisé dans la cybersécurité, propose désormais une application directement intégrée à ChatGPT."
-    },
-    {
-      "source": "Google Alerts — AI security / prompt injection",
-      "title": "Panne de <b>ChatGPT</b> : que se passe-t-il, et quelles sont les meilleures alternatives ?",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lebigdata.fr/panne-de-chatgpt-que-se-passe-t-il-et-quelles-sont-les-meilleures-alternatives&ct=ga&cd=CAIyGWY1MDJjNWUxMzI4YzM3MzY6ZnI6ZnI6RlI&usg=AOvVaw3MNoOQVt0fBPjfww3kuOhj",
-      "publishedAt": "2026-02-06T05:58:56.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud ... ChatGPT a eu une panne et des milliers d'utilisateurs étaient face à ..."
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesswire.com/news/home/20260205422261/fr&ct=ga&cd=CAIyGWM0MGIxYzBkMjU0ZmZhODQ6ZnI6ZnI6RlI&usg=AOvVaw3jLOQKIViWMWN-FFdkRA6c",
+      "date": "2026-02-06T13:28:33Z",
+      "excerpt": ""
     }
   ]
 }
