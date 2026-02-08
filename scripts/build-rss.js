@@ -214,9 +214,48 @@ function dedupeByLink(items) {
   return out;
 }
 
+function normalizeStoredItem(item) {
+  if (!item || typeof item !== "object") return null;
+
+  const link = decodeGoogleAlertUrl(String(item.link || item.url || "").trim());
+  const title = stripHtml(item.title || "");
+  const publishedAt = normalizeIsoDate(item.publishedAt || item.date || item.pubDate || item.updated || "");
+  const description = stripHtml(item.description || item.excerpt || item.summary || "").slice(0, 220);
+  const source = stripHtml(item.source || item.feedTitle || "Google Alerts");
+
+  if (!title || !link) return null;
+
+  return {
+    title,
+    link,
+    url: link,
+    publishedAt,
+    date: publishedAt,
+    description,
+    excerpt: description,
+    source,
+  };
+}
+
+function loadExistingItems() {
+  if (!fs.existsSync(OUT_FILE)) return [];
+
+  try {
+    const raw = fs.readFileSync(OUT_FILE, "utf-8").replace(/^\uFEFF/, "");
+    const parsed = JSON.parse(raw);
+    if (!Array.isArray(parsed.items)) return [];
+    return parsed.items.map(normalizeStoredItem).filter(Boolean);
+  } catch (error) {
+    const message = error?.message || String(error);
+    console.warn(`[WARN] Impossible de lire ${OUT_FILE}: ${message}`);
+    return [];
+  }
+}
+
 async function main() {
   const allItems = [];
   const failedSources = [];
+  const existingItems = loadExistingItems();
 
   for (const feedUrl of FEEDS) {
     try {
@@ -230,11 +269,11 @@ async function main() {
     }
   }
 
-  if (!allItems.length) {
+  if (!allItems.length && !existingItems.length) {
     throw new Error("Aucune entree RSS recuperable depuis les flux configures.");
   }
 
-  const items = dedupeByLink(allItems)
+  const items = dedupeByLink([...allItems, ...existingItems])
     .sort((a, b) => (b.publishedAt || "").localeCompare(a.publishedAt || ""))
     .slice(0, MAX_ITEMS);
 

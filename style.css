@@ -1575,11 +1575,13 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
 
 #veille-page .veille-card ul.rss-sources-list {
   margin: 0 auto;
-  padding-left: 0;
+  padding-left: 0 !important;
+  padding-inline-start: 0 !important;
   width: min(100%, 320px);
   list-style: none;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
   gap: 10px;
 }
