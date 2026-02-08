@@ -1577,24 +1577,29 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
   margin: 0;
   padding: 0;
   list-style: none;
-  display: grid;
+  display: flex;
+  flex-direction: column;
   gap: 10px;
 }
 
 #veille-page .rss-source-item {
   margin: 0;
+  min-width: 0;
 }
 
 #veille-page .rss-source-link {
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: auto auto auto;
+  column-gap: 10px;
+  row-gap: 2px;
   text-decoration: none;
   border: 1px solid rgba(255, 255, 255, 0.1);
   background: rgba(8, 16, 32, 0.44);
   border-radius: 12px;
-  padding: 10px 12px;
+  padding: 10px 12px 9px;
   transition: border-color 160ms ease, background 160ms ease, transform 160ms ease;
+  min-width: 0;
 }
 
 #veille-page .rss-source-link:hover {
@@ -1603,18 +1608,58 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
   transform: translateY(-1px);
 }
 
+#veille-page .rss-source-index {
+  grid-column: 1 / 2;
+  grid-row: 1 / 2;
+  width: fit-content;
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 9px;
+  border-radius: 999px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.25px;
+  color: #d4f8ff;
+  background: rgba(0, 224, 198, 0.16);
+  border: 1px solid rgba(0, 224, 198, 0.28);
+}
+
 #veille-page .rss-source-name {
-  font-size: 0.9rem;
+  grid-column: 1 / 2;
+  grid-row: 2 / 3;
+  font-size: 0.95rem;
   font-weight: 700;
   color: #d9ebff;
+  text-transform: lowercase;
 }
 
 #veille-page .rss-source-url {
-  font-size: 0.78rem;
+  grid-column: 1 / 2;
+  grid-row: 3 / 4;
+  font-size: 0.76rem;
   color: rgba(210, 226, 248, 0.72);
-  white-space: nowrap;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: break-word;
   overflow: hidden;
-  text-overflow: ellipsis;
+  text-overflow: clip;
+}
+
+#veille-page .rss-source-open {
+  grid-column: 2 / 3;
+  grid-row: 1 / 4;
+  align-self: center;
+  justify-self: end;
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(210, 234, 255, 0.86);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  background: rgba(255, 255, 255, 0.05);
+  flex-shrink: 0;
 }
 
 #veille-page .alerts-ticker {

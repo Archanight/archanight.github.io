@@ -364,23 +364,41 @@ function renderNewsGrid(items) {
 }
 
 function sourceLabel(sourceUrl, index) {
+    if (!sourceUrl) return `Flux RSS ${index + 1}`;
+    return `Flux RSS ${index + 1}`;
+}
+
+function sourceHost(sourceUrl) {
     try {
         const u = new URL(sourceUrl);
-        const host = u.hostname.replace(/^www\./, "");
-        return `Flux RSS ${index + 1} (${host})`;
+        return u.hostname.replace(/^www\./, "");
     } catch (e) {
-        return `Flux RSS ${index + 1}`;
+        return "source-rss";
     }
 }
 
-function sourcePathPreview(sourceUrl) {
+function sourceFeedHint(sourceUrl) {
     try {
         const u = new URL(sourceUrl);
-        const path = `${u.pathname}${u.search}`;
-        if (path.length <= 48) return path;
-        return `${path.slice(0, 45)}...`;
+        const parts = u.pathname.split("/").filter(Boolean);
+        const short = (value) => {
+            const text = String(value || "");
+            if (!text) return "";
+            if (text.length <= 12) return text;
+            return `${text.slice(0, 6)}...${text.slice(-4)}`;
+        };
+
+        if (parts.length >= 2) {
+            const beforeLast = short(parts[parts.length - 2]);
+            const last = short(parts[parts.length - 1]);
+            return `${beforeLast} / ${last}`;
+        }
+
+        const fallback = `${u.pathname}${u.search}`;
+        if (fallback.length <= 36) return fallback;
+        return `${fallback.slice(0, 33)}...`;
     } catch (e) {
-        return sourceUrl;
+        return "Flux Google Alerts";
     }
 }
 
@@ -394,7 +412,7 @@ function renderSources(sources) {
         .slice(0, 3);
 
     if (!safeSources.length) {
-        list.innerHTML = "<li>Aucune source RSS configuree.</li>";
+        list.innerHTML = "<li>Aucune source RSS configurée.</li>";
         return;
     }
 
@@ -403,8 +421,10 @@ function renderSources(sources) {
             (url, index) => `
       <li class="rss-source-item">
         <a class="rss-source-link" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">
-          <span class="rss-source-name">${escapeHtml(sourceLabel(url, index))}</span>
-          <span class="rss-source-url">${escapeHtml(sourcePathPreview(url))}</span>
+          <span class="rss-source-index">${escapeHtml(sourceLabel(url, index))}</span>
+          <span class="rss-source-name">${escapeHtml(sourceHost(url))}</span>
+          <span class="rss-source-url">${escapeHtml(sourceFeedHint(url))}</span>
+          <span class="rss-source-open" aria-hidden="true"><i class="fas fa-arrow-up-right-from-square"></i></span>
         </a>
       </li>
     `
