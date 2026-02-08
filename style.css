@@ -1564,3 +1564,159 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
   padding: 14px 10px;
 }
 
+
+/* ===== Veille - Sources + Alertes dynamiques ===== */
+#veille-page .veille-note {
+  margin: 0 0 12px 0;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: rgba(234, 244, 255, 0.82);
+}
+
+#veille-page .rss-sources-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: 10px;
+}
+
+#veille-page .rss-source-item {
+  margin: 0;
+}
+
+#veille-page .rss-source-link {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  text-decoration: none;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(8, 16, 32, 0.44);
+  border-radius: 12px;
+  padding: 10px 12px;
+  transition: border-color 160ms ease, background 160ms ease, transform 160ms ease;
+}
+
+#veille-page .rss-source-link:hover {
+  border-color: rgba(0, 234, 255, 0.38);
+  background: rgba(8, 16, 32, 0.62);
+  transform: translateY(-1px);
+}
+
+#veille-page .rss-source-name {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #d9ebff;
+}
+
+#veille-page .rss-source-url {
+  font-size: 0.78rem;
+  color: rgba(210, 226, 248, 0.72);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#veille-page .alerts-ticker {
+  position: relative;
+  max-height: 270px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  background: rgba(8, 16, 32, 0.46);
+  padding: 12px 12px;
+}
+
+#veille-page .alerts-ticker::before,
+#veille-page .alerts-ticker::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 22px;
+  pointer-events: none;
+  z-index: 1;
+}
+
+#veille-page .alerts-ticker::before {
+  top: 0;
+  background: linear-gradient(180deg, rgba(8, 16, 32, 0.92), rgba(8, 16, 32, 0));
+}
+
+#veille-page .alerts-ticker::after {
+  bottom: 0;
+  background: linear-gradient(0deg, rgba(8, 16, 32, 0.92), rgba(8, 16, 32, 0));
+}
+
+#veille-page .alerts-ticker-track {
+  position: relative;
+  z-index: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  will-change: transform;
+}
+
+#veille-page .alerts-ticker.is-animated .alerts-ticker-track {
+  animation: alertsTickerScroll 28s linear infinite;
+}
+
+#veille-page .alerts-ticker:hover .alerts-ticker-track {
+  animation-play-state: paused;
+}
+
+#veille-page .alerts-list {
+  margin: 0;
+  padding-left: 18px;
+  list-style: disc;
+  display: grid;
+  gap: 12px;
+}
+
+#veille-page .alerts-list li {
+  color: #e8f3ff;
+  line-height: 1.4;
+}
+
+#veille-page .alerts-link {
+  display: block;
+  color: #d9ebff;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+#veille-page a.alerts-link:hover {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+#veille-page .alerts-meta {
+  display: block;
+  margin-top: 5px;
+  font-size: 0.77rem;
+  color: rgba(210, 226, 248, 0.72);
+}
+
+#veille-page .alerts-empty {
+  margin: 0;
+  font-size: 0.9rem;
+  color: rgba(234, 244, 255, 0.78);
+}
+
+#veille-page .rss-link {
+  color: inherit;
+}
+
+#veille-page .rss-link:hover .rss-card-title {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+@keyframes alertsTickerScroll {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(calc(-1 * var(--alerts-scroll-distance, 220px)));
+  }
+}

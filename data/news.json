@@ -1,93 +1,130 @@
 {
-  "generatedAt": "2026-02-08T12:29:12.461Z",
+  "generatedAt": "2026-02-08T14:15:47.160Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
     "https://www.google.fr/alerts/feeds/08396268160163584311/18237269061384757812"
   ],
+  "failedSources": [],
   "items": [
     {
-      "title": "L&#39;IA générative atteint un plateau : pourquoi l&#39;après GPT-5 oblige les entreprises à revoir ...",
+      "title": "L'IA générative atteint un plateau : pourquoi l'après GPT-5 oblige les entreprises à revoir ...",
+      "link": "https://www.economiematin.fr/lia-generative-plateau-apres-gpt-5-strategie-dilmi",
       "url": "https://www.economiematin.fr/lia-generative-plateau-apres-gpt-5-strategie-dilmi",
+      "publishedAt": "2026-02-08T08:11:37.000Z",
       "date": "2026-02-08T08:11:37.000Z",
-      "excerpt": "Quand la puissance ne suffit plus. GPT-5 met en lumière un déplacement profond des enjeux. Le débat ne porte plus sur la performance intrinsèque des&nbsp;...",
+      "description": "Quand la puissance ne suffit plus. GPT-5 met en lumière un déplacement profond des enjeux. Le débat ne porte plus sur la performance intrinsèque des ...",
+      "excerpt": "Quand la puissance ne suffit plus. GPT-5 met en lumière un déplacement profond des enjeux. Le débat ne porte plus sur la performance intrinsèque des ...",
       "source": "Alerte Google : (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Le comble ! OpenAI va devoir reporter une partie de ses projets hardware à cause de la ... - Clubic",
+      "link": "https://www.clubic.com/actualite-599500-le-comble-openai-va-devoir-reporter-une-partie-de-ses-projets-hardware-a-cause-de-la-penurie-de-ram-qu-elle-a-cree.html",
       "url": "https://www.clubic.com/actualite-599500-le-comble-openai-va-devoir-reporter-une-partie-de-ses-projets-hardware-a-cause-de-la-penurie-de-ram-qu-elle-a-cree.html",
+      "publishedAt": "2026-02-07T15:55:50.000Z",
       "date": "2026-02-07T15:55:50.000Z",
+      "description": "Le BOM (Bill Of Material), ce fameux coût des composants, est devenu injustifiable pour un appareil grand public. ChatGPT ( GPT-5.2 ).",
       "excerpt": "Le BOM (Bill Of Material), ce fameux coût des composants, est devenu injustifiable pour un appareil grand public. ChatGPT ( GPT-5.2 ).",
       "source": "Alerte Google : (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "Siri plus tout seul à bord de CarPlay ? On pourrait bientôt discuter avec ChatGPT ou Gemini",
+      "link": "https://www.01net.com/actualites/siri-plus-tout-seul-a-bord-de-carplay-on-pourrait-bientot-discuter-avec-chatgpt-ou-gemini.html",
       "url": "https://www.01net.com/actualites/siri-plus-tout-seul-a-bord-de-carplay-on-pourrait-bientot-discuter-avec-chatgpt-ou-gemini.html",
+      "publishedAt": "2026-02-07T15:30:27.000Z",
       "date": "2026-02-07T15:30:27.000Z",
-      "excerpt": "... Siri. Depuis l&#39;explosion des chatbots IA, de nombreux automobilistes équipés de CarPlay réclament la possibilité de troquer Siri pour ChatGPT &nbsp;...",
+      "description": "... Siri. Depuis l'explosion des chatbots IA, de nombreux automobilistes équipés de CarPlay réclament la possibilité de troquer Siri pour ChatGPT ...",
+      "excerpt": "... Siri. Depuis l'explosion des chatbots IA, de nombreux automobilistes équipés de CarPlay réclament la possibilité de troquer Siri pour ChatGPT ...",
       "source": "Alerte Google : (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "On a visité RentAHuman.ai, le site où les IA louent des êtres humains - 01net.com",
+      "link": "https://www.01net.com/actualites/visite-rentahuman-ai-site-ia-louent-etres-humains.html",
       "url": "https://www.01net.com/actualites/visite-rentahuman-ai-site-ia-louent-etres-humains.html",
+      "publishedAt": "2026-02-07T15:14:57.000Z",
       "date": "2026-02-07T15:14:57.000Z",
-      "excerpt": "Contrairement à ChatGPT ou Gemini, OpenClaw n&#39;a pas de limite. Une fois ... Openclaw Cybersécurité Failles Agent Ia. La « recette d&#39;un&nbsp;...",
+      "description": "Contrairement à ChatGPT ou Gemini, OpenClaw n'a pas de limite. Une fois ... Openclaw Cybersécurité Failles Agent Ia. La « recette d'un ...",
+      "excerpt": "Contrairement à ChatGPT ou Gemini, OpenClaw n'a pas de limite. Une fois ... Openclaw Cybersécurité Failles Agent Ia. La « recette d'un ...",
       "source": "Alerte Google : (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Apple CarPlay : ChatGPT , Gemini et Claude s&#39;invitent à bord - Clubic",
+      "title": "Apple CarPlay : ChatGPT , Gemini et Claude s'invitent à bord - Clubic",
+      "link": "https://www.clubic.com/actualite-599497-apple-carplay-chatgpt-gemini-et-claude-s-invitent-a-bord.html",
       "url": "https://www.clubic.com/actualite-599497-apple-carplay-chatgpt-gemini-et-claude-s-invitent-a-bord.html",
+      "publishedAt": "2026-02-07T15:11:20.000Z",
       "date": "2026-02-07T15:11:20.000Z",
+      "description": "Une évolution qui accompagnera la refonte de Siri ; ChatGPT ( GPT-5.2 ).",
       "excerpt": "Une évolution qui accompagnera la refonte de Siri ; ChatGPT ( GPT-5.2 ).",
       "source": "Alerte Google : (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "Vous souhaitez vous passer de Microsoft, Google, ChatGPT ou WhatsApp ? Voici des ...",
+      "link": "https://www.ouest-france.fr/high-tech/numerique/vous-souhaitez-vous-passer-de-microsoft-google-chatgpt-ou-whatsapp-voici-des-alternatives-europeennes-ae384294-fb81-11f0-b421-129bd2858122",
       "url": "https://www.ouest-france.fr/high-tech/numerique/vous-souhaitez-vous-passer-de-microsoft-google-chatgpt-ou-whatsapp-voici-des-alternatives-europeennes-ae384294-fb81-11f0-b421-129bd2858122",
+      "publishedAt": "2026-02-07T15:02:04.000Z",
       "date": "2026-02-07T15:02:04.000Z",
-      "excerpt": "IA : Mistral AI à la place de ChatGPT . Si vous avez pris l&#39;habitude de ... Cybersécurité : Bye bye Microsoft… Les données de santé françaises&nbsp;...",
+      "description": "IA : Mistral AI à la place de ChatGPT . Si vous avez pris l'habitude de ... Cybersécurité : Bye bye Microsoft… Les données de santé françaises ...",
+      "excerpt": "IA : Mistral AI à la place de ChatGPT . Si vous avez pris l'habitude de ... Cybersécurité : Bye bye Microsoft… Les données de santé françaises ...",
       "source": "Alerte Google : (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "GPT-5.3-Codex : l&#39;IA d&#39;OpenAI qui a participé à sa propre création (et ce n&#39;est pas de la ...",
+      "title": "GPT-5.3-Codex : l'IA d'OpenAI qui a participé à sa propre création (et ce n'est pas de la ...",
+      "link": "https://geekslands.fr/gpt-5-3-codex-openai-ia-participe-propre-creation/",
       "url": "https://geekslands.fr/gpt-5-3-codex-openai-ia-participe-propre-creation/",
+      "publishedAt": "2026-02-07T14:00:37.000Z",
       "date": "2026-02-07T14:00:37.000Z",
-      "excerpt": "... GPT-5.2 -Codex avec le raisonnement de GPT-5.2 . Le résultat ne se ... Comme nous l&#39;analysions fin janvier, ChatGPT n&#39;est plus seul en haut de l&#39;affiche.",
+      "description": "... GPT-5.2 -Codex avec le raisonnement de GPT-5.2 . Le résultat ne se ... Comme nous l'analysions fin janvier, ChatGPT n'est plus seul en haut de l'affiche.",
+      "excerpt": "... GPT-5.2 -Codex avec le raisonnement de GPT-5.2 . Le résultat ne se ... Comme nous l'analysions fin janvier, ChatGPT n'est plus seul en haut de l'affiche.",
       "source": "Alerte Google : (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Anthropique : Des publicités humoristiques s&#39;attaquent à la publicité dans le ChatGPT",
+      "title": "Anthropique : Des publicités humoristiques s'attaquent à la publicité dans le ChatGPT",
+      "link": "https://www.notebookcheck.biz/Anthropique-Des-publicites-humoristiques-s-attaquent-a-la-publicite-dans-le-ChatGPT.1221598.0.html",
       "url": "https://www.notebookcheck.biz/Anthropique-Des-publicites-humoristiques-s-attaquent-a-la-publicite-dans-le-ChatGPT.1221598.0.html",
+      "publishedAt": "2026-02-07T13:18:18.000Z",
       "date": "2026-02-07T13:18:18.000Z",
-      "excerpt": "Suite à l&#39;annonce d&#39;OpenAI d&#39;introduire des publicités dans ChatGPT , Anthropic se positionne comme une alternative claire avec une campagne&nbsp;...",
+      "description": "Suite à l'annonce d'OpenAI d'introduire des publicités dans ChatGPT , Anthropic se positionne comme une alternative claire avec une campagne ...",
+      "excerpt": "Suite à l'annonce d'OpenAI d'introduire des publicités dans ChatGPT , Anthropic se positionne comme une alternative claire avec une campagne ...",
       "source": "Alerte Google : (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "OpenAI travaille sur une version spécifique aux Émirats arabes unis de ChatGPT",
+      "link": "https://www.zonebourse.com/actualite-bourse/openai-travaille-sur-une-version-specifique-aux-emirats-arabes-unis-de-chatgpt-ce7e5ad9de89f527",
       "url": "https://www.zonebourse.com/actualite-bourse/openai-travaille-sur-une-version-specifique-aux-emirats-arabes-unis-de-chatgpt-ce7e5ad9de89f527",
+      "publishedAt": "2026-02-07T08:01:46.000Z",
       "date": "2026-02-07T08:01:46.000Z",
-      "excerpt": "... ChatGPT ... -Le 06 février 2026 à 20:55 - Zonebourse. ... Cybersécurité &middot; Hydrogène &middot; REITs &middot; Hydraulique &middot; Notations Techniques &middot; Actions&nbsp;...",
+      "description": "... ChatGPT ... -Le 06 février 2026 à 20:55 - Zonebourse. ... Cybersécurité &middot; Hydrogène &middot; REITs &middot; Hydraulique &middot; Notations Techniques &middot; Actions ...",
+      "excerpt": "... ChatGPT ... -Le 06 février 2026 à 20:55 - Zonebourse. ... Cybersécurité &middot; Hydrogène &middot; REITs &middot; Hydraulique &middot; Notations Techniques &middot; Actions ...",
       "source": "Alerte Google : (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "OpenAI en discussion avec G42 d&#39;Abou Dhabi pour développer une version spécialisée de ...",
+      "title": "OpenAI en discussion avec G42 d'Abou Dhabi pour développer une version spécialisée de ...",
+      "link": "https://www.zonebourse.com/actualite-bourse/openai-en-discussion-avec-g42-d-abou-dhabi-pour-developper-une-version-specialisee-de-chatgpt-pour-l-ce7e5ad9df88ff24",
       "url": "https://www.zonebourse.com/actualite-bourse/openai-en-discussion-avec-g42-d-abou-dhabi-pour-developper-une-version-specialisee-de-chatgpt-pour-l-ce7e5ad9df88ff24",
+      "publishedAt": "2026-02-07T04:57:56.000Z",
       "date": "2026-02-07T04:57:56.000Z",
-      "excerpt": "Cybersécurité ... OpenAI en discussion avec G42 d&#39;Abou Dhabi pour développer une version spécialisée de ChatGPT pour les Émirats arabes unis - Semafor.",
+      "description": "Cybersécurité ... OpenAI en discussion avec G42 d'Abou Dhabi pour développer une version spécialisée de ChatGPT pour les Émirats arabes unis - Semafor.",
+      "excerpt": "Cybersécurité ... OpenAI en discussion avec G42 d'Abou Dhabi pour développer une version spécialisée de ChatGPT pour les Émirats arabes unis - Semafor.",
       "source": "Alerte Google : (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "ChatGPT 5.2 est arrivé, utilisateurs mécontents : revenez en arrière",
+      "link": "https://telegrafi.com/fr/Chatgpt-5-est-arriv%C3%A9--2-utilisateurs-insatisfaits-se-retirent/",
       "url": "https://telegrafi.com/fr/Chatgpt-5-est-arriv%C3%A9--2-utilisateurs-insatisfaits-se-retirent/",
+      "publishedAt": "2026-02-06T17:59:13.000Z",
       "date": "2026-02-06T17:59:13.000Z",
-      "excerpt": "OpenAI a lancé le nouveau modèle ChatGPT 5.2 en réponse au nouveau modèle Google Gemini, mais les premières réactions des utilisateurs sont&nbsp;...",
+      "description": "OpenAI a lancé le nouveau modèle ChatGPT 5.2 en réponse au nouveau modèle Google Gemini, mais les premières réactions des utilisateurs sont ...",
+      "excerpt": "OpenAI a lancé le nouveau modèle ChatGPT 5.2 en réponse au nouveau modèle Google Gemini, mais les premières réactions des utilisateurs sont ...",
       "source": "Alerte Google : (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "OpenAI lance GPT-5.3 Codex : l&#39;IA qui s&#39;est codée seule et gère des projets entiers",
+      "title": "OpenAI lance GPT-5.3 Codex : l'IA qui s'est codée seule et gère des projets entiers",
+      "link": "https://www.lebigdata.fr/openai-lance-gpt-5-3-codex-lia-qui-sest-codee-seule-et-gere-des-projets-entiers",
       "url": "https://www.lebigdata.fr/openai-lance-gpt-5-3-codex-lia-qui-sest-codee-seule-et-gere-des-projets-entiers",
+      "publishedAt": "2026-02-06T17:07:26.000Z",
       "date": "2026-02-06T17:07:26.000Z",
-      "excerpt": "OpenAI revendique une amélioration d&#39;environ 25 % de la vitesse d&#39;exécution par rapport à GPT-5.2 Codex. ... ChatGPT GPT IA OpenAI. Notre blog est&nbsp;...",
+      "description": "OpenAI revendique une amélioration d'environ 25 % de la vitesse d'exécution par rapport à GPT-5.2 Codex. ... ChatGPT GPT IA OpenAI. Notre blog est ...",
+      "excerpt": "OpenAI revendique une amélioration d'environ 25 % de la vitesse d'exécution par rapport à GPT-5.2 Codex. ... ChatGPT GPT IA OpenAI. Notre blog est ...",
       "source": "Alerte Google : (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]

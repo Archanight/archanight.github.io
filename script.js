@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function () {
+﻿document.addEventListener('DOMContentLoaded', function () {
     const navLinks = document.querySelectorAll('header nav ul li a');
     const burgerMenu = document.getElementById('burger-menu');
     const navUL = document.querySelector('header nav ul');
@@ -46,12 +46,12 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 
-    // Mise à jour automatique de l'année dans le footer
+    // Mise Ã  jour automatique de l'annÃ©e dans le footer
     if (yearSpan) {
         yearSpan.textContent = new Date().getFullYear();
     }
 
-    // Mettre en évidence le lien de la page active dans la navigation
+    // Mettre en Ã©vidence le lien de la page active dans la navigation
     const currentPagePath = window.location.pathname;
     let currentPageName = currentPagePath.substring(currentPagePath.lastIndexOf('/') + 1);
     if (currentPageName === '' || currentPageName === 'index.html') {
@@ -70,12 +70,12 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 
-    // Défilement fluide pour les ancres internes
+    // DÃ©filement fluide pour les ancres internes
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
             const href = this.getAttribute('href');
 
-            // Vérifie que l'ancre existe sur la page actuelle ET que ce n'est pas juste "#"
+            // VÃ©rifie que l'ancre existe sur la page actuelle ET que ce n'est pas juste "#"
             if (href && href.length > 1 && document.querySelector(href)) {
                 e.preventDefault();
 
@@ -145,7 +145,7 @@ document.addEventListener('DOMContentLoaded', function () {
             });
         });
 
-        // État par défaut
+        // Ã‰tat par dÃ©faut
         applyFilter('all');
     }
 });
@@ -190,105 +190,253 @@ document.addEventListener('DOMContentLoaded', function () {
 })();
 
 
-// Veille - RSS feed loader (GitHub Pages-friendly)
-(async function initRssFeed() {
-    const container = document.getElementById('rssFeed');
-    if (!container) return;
+// Veille - Actualites RSS (data/news.json)
+const NEWS_PATH = "./data/news.json";
+const DEFAULT_MAX_NEWS_ITEMS = 12;
+const DEFAULT_MAX_ALERT_AGE_DAYS = 45;
 
-    const rssUrl = container.getAttribute('data-rss') || 'https://openai.com/blog/rss.xml';
-    const maxItems = parseInt(container.getAttribute('data-rss-items') || '6', 10);
-
-    const statusEl = document.getElementById('rssStatus');
-    const setStatus = (msg) => { if (statusEl) statusEl.textContent = msg; };
-
-    const renderItems = (items) => {
-        container.innerHTML = '';
-        items.slice(0, maxItems).forEach((it) => {
-            const card = document.createElement('a');
-            card.className = 'rss-card';
-            card.href = it.link;
-            card.target = '_blank';
-            card.rel = 'noopener noreferrer';
-
-            const title = document.createElement('div');
-            title.className = 'rss-title';
-            title.textContent = it.title || 'Article';
-
-            const meta = document.createElement('div');
-            meta.className = 'rss-meta';
-
-            const dateText = it.pubDate ? new Date(it.pubDate).toLocaleDateString('fr-FR') : '';
-            meta.textContent = dateText;
-
-            card.appendChild(title);
-            card.appendChild(meta);
-            container.appendChild(card);
-        });
-    };
-
-    try {
-        setStatus('Chargement du flux RSS…');
-        // rss2json sert de proxy CORS pour les sites statiques
-        const api = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(rssUrl);
-        const res = await fetch(api, { cache: 'no-store' });
-        if (!res.ok) throw new Error('HTTP ' + res.status);
-        const data = await res.json();
-        if (!data || !Array.isArray(data.items)) throw new Error('Réponse RSS invalide');
-
-        renderItems(data.items);
-        setStatus('');
-    } catch (e) {
-        console.error(e);
-        setStatus("Impossible de charger le flux RSS (CORS / réseau). Vous pouvez remplacer l'URL du flux dans veille.html.");
-    }
-})();
-
-async function loadRssNews() {
-  const grid = document.getElementById("rssGrid");
-  if (!grid) return;
-
-  try {
-    const res = await fetch("./data/news.json", { cache: "no-store" });
-    if (!res.ok) throw new Error("news.json introuvable");
-    const data = await res.json();
-
-    const items = (data.items || []).slice(0, 12);
-    if (!items.length) {
-      grid.innerHTML = `<div class="rss-loading">Aucune actualité disponible pour le moment.</div>`;
-      return;
-    }
-
-    const formatDate = (iso) => {
-      if (!iso) return "";
-      const d = new Date(iso);
-      if (isNaN(d.getTime())) return "";
-      return d.toLocaleDateString("fr-FR");
-    };
-
-    grid.innerHTML = items
-      .map((it) => {
-        const date = formatDate(it.publishedAt);
-        const safeTitle = (it.title || "").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-        const safeDesc = (it.description || "").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-        return `
-          <article class="rss-card">
-            <a class="rss-link" href="${it.link}" target="_blank" rel="noopener noreferrer">
-              <h3 class="rss-card-title">${safeTitle}</h3>
-            </a>
-            <div class="rss-meta">
-              <span class="rss-date">${date}</span>
-              <span class="rss-source">${it.source || ""}</span>
-            </div>
-            <p class="rss-desc">${safeDesc}</p>
-          </article>
-        `;
-      })
-      .join("");
-  } catch (e) {
-    grid.innerHTML = `<div class="rss-loading">Erreur de chargement des actualités.</div>`;
-  }
+function escapeHtml(value) {
+    return String(value ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
 }
 
-// Lance au chargement
-document.addEventListener("DOMContentLoaded", loadRssNews);
+function decodeHtmlEntities(value) {
+    const textarea = document.createElement("textarea");
+    textarea.innerHTML = String(value ?? "");
+    return textarea.value;
+}
 
+function normalizeArticleLink(value) {
+    const raw = String(value ?? "").trim();
+    if (!raw) return "";
+
+    if (/^\/\//.test(raw)) return `https:${raw}`;
+
+    if (/^[a-z]+:\/\//i.test(raw)) {
+        try {
+            const u = new URL(raw);
+            if (u.protocol === "http:" || u.protocol === "https:") return u.href;
+        } catch (e) {
+            return "";
+        }
+        return "";
+    }
+
+    if (/^[\w.-]+\.[a-z]{2,}(?:\/|$)/i.test(raw)) {
+        return `https://${raw.replace(/^\/+/, "")}`;
+    }
+
+    return "";
+}
+
+function formatFrDate(value) {
+    if (!value) return "";
+    const d = new Date(value);
+    if (Number.isNaN(d.getTime())) return "";
+    return d.toLocaleDateString("fr-FR");
+}
+
+function isRecentDate(value, maxAgeDays) {
+    if (!value) return false;
+    const d = new Date(value);
+    if (Number.isNaN(d.getTime())) return false;
+
+    const ageMs = Date.now() - d.getTime();
+    return ageMs >= 0 && ageMs <= maxAgeDays * 24 * 60 * 60 * 1000;
+}
+
+function normalizeNewsItem(item) {
+    const title = decodeHtmlEntities(item?.title || "Article");
+    const link = normalizeArticleLink(item?.link || item?.url || item?.guid || "");
+    const publishedAt = item?.publishedAt || item?.date || item?.pubDate || item?.updated || "";
+    const description = decodeHtmlEntities(item?.description || item?.excerpt || item?.summary || "");
+    const source = decodeHtmlEntities(item?.source || item?.feedTitle || "");
+
+    return { title, link, publishedAt, description, source };
+}
+
+function parseNewsPayload(data) {
+    const rawItems = Array.isArray(data?.items) ? data.items : [];
+
+    const items = rawItems
+        .map(normalizeNewsItem)
+        .filter((it) => it.title && (it.link || it.description));
+
+    items.sort((a, b) => (b.publishedAt || "").localeCompare(a.publishedAt || ""));
+
+    return {
+        items,
+        sources: Array.isArray(data?.sources) ? data.sources : [],
+    };
+}
+
+function renderNewsGrid(items) {
+    const grid = document.getElementById("rssGrid");
+    if (!grid) return;
+
+    if (!items.length) {
+        grid.innerHTML = `<div class="rss-loading">Aucune actualite disponible pour le moment.</div>`;
+        return;
+    }
+
+    grid.innerHTML = items
+        .map((it) => {
+            const title = escapeHtml(it.title || "Article");
+            const source = escapeHtml(it.source || "Source inconnue");
+            const date = escapeHtml(formatFrDate(it.publishedAt) || "Date indisponible");
+            const description = escapeHtml(it.description || "Description indisponible.");
+            const href = escapeHtml(it.link || "");
+
+            const titleMarkup = href
+                ? `<a class="rss-link" href="${href}" target="_blank" rel="noopener noreferrer"><h3 class="rss-card-title">${title}</h3></a>`
+                : `<h3 class="rss-card-title">${title}</h3>`;
+
+            return `
+          <article class="rss-card">
+            ${titleMarkup}
+            <div class="rss-meta">
+              <span class="rss-date">${date}</span>
+              <span class="rss-source">${source}</span>
+            </div>
+            <p class="rss-desc">${description}</p>
+          </article>
+        `;
+        })
+        .join("");
+}
+
+function sourceLabel(sourceUrl, index) {
+    try {
+        const u = new URL(sourceUrl);
+        const host = u.hostname.replace(/^www\./, "");
+        return `Flux RSS ${index + 1} (${host})`;
+    } catch (e) {
+        return `Flux RSS ${index + 1}`;
+    }
+}
+
+function sourcePathPreview(sourceUrl) {
+    try {
+        const u = new URL(sourceUrl);
+        const path = `${u.pathname}${u.search}`;
+        if (path.length <= 48) return path;
+        return `${path.slice(0, 45)}...`;
+    } catch (e) {
+        return sourceUrl;
+    }
+}
+
+function renderSources(sources) {
+    const list = document.getElementById("rssSourcesList");
+    if (!list) return;
+
+    const safeSources = sources
+        .map((url) => normalizeArticleLink(url))
+        .filter(Boolean)
+        .slice(0, 3);
+
+    if (!safeSources.length) {
+        list.innerHTML = "<li>Aucune source RSS configuree.</li>";
+        return;
+    }
+
+    list.innerHTML = safeSources
+        .map(
+            (url, index) => `
+      <li class="rss-source-item">
+        <a class="rss-source-link" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">
+          <span class="rss-source-name">${escapeHtml(sourceLabel(url, index))}</span>
+          <span class="rss-source-url">${escapeHtml(sourcePathPreview(url))}</span>
+        </a>
+      </li>
+    `
+        )
+        .join("");
+}
+
+function alertItemMarkup(item) {
+    const title = escapeHtml(item.title || "Article");
+    const source = escapeHtml(item.source || "Source");
+    const date = escapeHtml(formatFrDate(item.publishedAt) || "Date indisponible");
+    const href = escapeHtml(item.link || "");
+
+    if (!href) {
+        return `<li><span class="alerts-link">${title}</span><span class="alerts-meta">${source} - ${date}</span></li>`;
+    }
+
+    return `
+      <li>
+        <a class="alerts-link" href="${href}" target="_blank" rel="noopener noreferrer">${title}</a>
+        <span class="alerts-meta">${source} - ${date}</span>
+      </li>
+    `;
+}
+
+function renderAlertsTicker(items) {
+    const ticker = document.getElementById("alertsTicker");
+    if (!ticker) return;
+
+    ticker.style.removeProperty("--alerts-scroll-distance");
+
+    const maxItems = parseInt(ticker.getAttribute("data-max-items") || "12", 10) || 12;
+    const maxAgeDays =
+        parseInt(ticker.getAttribute("data-max-age-days") || String(DEFAULT_MAX_ALERT_AGE_DAYS), 10) ||
+        DEFAULT_MAX_ALERT_AGE_DAYS;
+
+    const recent = items.filter((it) => isRecentDate(it.publishedAt, maxAgeDays)).slice(0, maxItems);
+
+    if (!recent.length) {
+        ticker.classList.remove("is-animated");
+        ticker.innerHTML = `<p class="alerts-empty">Aucune alerte recente: les articles trop anciens ont ete retires.</p>`;
+        return;
+    }
+
+    const rows = recent.map(alertItemMarkup).join("");
+    const animate = recent.length > 4;
+
+    ticker.classList.toggle("is-animated", animate);
+
+    if (!animate) {
+        ticker.innerHTML = `<ul id="alertsTickerList" class="alerts-list">${rows}</ul>`;
+        return;
+    }
+
+    ticker.innerHTML = `
+      <div class="alerts-ticker-track">
+        <ul id="alertsTickerList" class="alerts-list">${rows}</ul>
+        <ul class="alerts-list alerts-list-clone" aria-hidden="true">${rows}</ul>
+      </div>
+    `;
+
+    const firstList = ticker.querySelector("#alertsTickerList");
+    if (firstList) {
+        ticker.style.setProperty("--alerts-scroll-distance", `${firstList.scrollHeight + 16}px`);
+    }
+}
+
+async function loadRssNews() {
+    const grid = document.getElementById("rssGrid");
+    if (!grid) return;
+
+    try {
+        const res = await fetch(NEWS_PATH, { cache: "no-store" });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+
+        const data = await res.json();
+        const parsed = parseNewsPayload(data);
+        const topItems = parsed.items.slice(0, DEFAULT_MAX_NEWS_ITEMS);
+
+        renderNewsGrid(topItems);
+        renderSources(parsed.sources);
+        renderAlertsTicker(parsed.items);
+    } catch (e) {
+        console.error(e);
+        grid.innerHTML = `<div class="rss-loading">Erreur de chargement des actualites.</div>`;
+    }
+}
+
+document.addEventListener("DOMContentLoaded", loadRssNews);
