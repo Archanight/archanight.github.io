@@ -192,7 +192,7 @@
 
 // Veille - Actualites RSS (data/news.json)
 const NEWS_PATH = "./data/news.json";
-const DEFAULT_MAX_NEWS_ITEMS = 12;
+const DEFAULT_MAX_NEWS_ITEMS = 9;
 const DEFAULT_MAX_ALERT_AGE_DAYS = 45;
 
 function escapeHtml(value) {
@@ -497,12 +497,16 @@ async function loadRssNews() {
     if (!grid) return;
 
     try {
+        const maxNewsItems =
+            parseInt(grid.getAttribute("data-max-items") || String(DEFAULT_MAX_NEWS_ITEMS), 10) ||
+            DEFAULT_MAX_NEWS_ITEMS;
+
         const res = await fetch(NEWS_PATH, { cache: "no-store" });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
         const data = await res.json();
         const parsed = parseNewsPayload(data);
-        const topItems = parsed.items.slice(0, DEFAULT_MAX_NEWS_ITEMS);
+        const topItems = parsed.items.slice(0, maxNewsItems);
 
         renderNewsGrid(topItems);
         renderSources(parsed.sources);

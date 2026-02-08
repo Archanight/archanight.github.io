@@ -1573,9 +1573,9 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
   color: rgba(234, 244, 255, 0.82);
 }
 
-#veille-page .rss-sources-list {
+#veille-page .veille-card ul.rss-sources-list {
   margin: 0 auto;
-  padding: 0;
+  padding-left: 0;
   width: min(100%, 320px);
   list-style: none;
   display: flex;
