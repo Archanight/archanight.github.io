@@ -1720,3 +1720,175 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
     transform: translateY(calc(-1 * var(--alerts-scroll-distance, 220px)));
   }
 }
+
+/* ===== Veille - Actualités récentes (UI refresh) ===== */
+#veille-page .rss-section {
+  margin-top: 46px;
+}
+
+#veille-page .rss-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 18px;
+  font-size: clamp(1.6rem, 2.3vw, 2rem);
+}
+
+#veille-page .rss-title i {
+  color: rgba(0, 234, 255, 0.9);
+}
+
+#veille-page .rss-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(275px, 1fr));
+  gap: 22px;
+  align-items: stretch;
+}
+
+@media (max-width: 620px) {
+  #veille-page .rss-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+}
+
+#veille-page .rss-card.rss-card-enhanced {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 255px;
+  border-radius: 16px;
+  padding: 16px;
+  border: 1px solid rgba(96, 146, 255, 0.25);
+  background:
+    radial-gradient(120% 120% at 100% 0%, rgba(0, 174, 255, 0.12), transparent 52%),
+    linear-gradient(165deg, rgba(14, 30, 58, 0.92), rgba(10, 22, 43, 0.9));
+  box-shadow: 0 14px 36px rgba(0, 0, 0, 0.28);
+  transition: transform 220ms ease, border-color 220ms ease, box-shadow 220ms ease;
+  animation: rssCardIn 420ms ease both;
+  animation-delay: calc(var(--rss-stagger, 0) * 45ms);
+}
+
+#veille-page .rss-card.rss-card-enhanced::before {
+  content: "";
+  position: absolute;
+  inset: auto -25% -35% -25%;
+  height: 90px;
+  background: radial-gradient(ellipse at center, rgba(0, 234, 255, 0.1), transparent 65%);
+  pointer-events: none;
+}
+
+#veille-page .rss-card.rss-card-enhanced:hover {
+  transform: translateY(-6px);
+  border-color: rgba(0, 234, 255, 0.5);
+  box-shadow: 0 20px 42px rgba(0, 0, 0, 0.34);
+}
+
+#veille-page .rss-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+#veille-page .rss-source-chip,
+#veille-page .rss-date-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 10px;
+  border-radius: 999px;
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+#veille-page .rss-source-chip {
+  max-width: 58%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: #dbf7ff;
+  background: rgba(0, 224, 198, 0.16);
+  border: 1px solid rgba(0, 224, 198, 0.3);
+}
+
+#veille-page .rss-date-chip {
+  color: #c7d8ee;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  white-space: nowrap;
+}
+
+#veille-page .rss-card-title {
+  margin: 0;
+  font-size: 1.22rem;
+  line-height: 1.32;
+  font-weight: 800;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+#veille-page .rss-card-title .rss-link {
+  color: #f2f9ff;
+  text-decoration: none;
+}
+
+#veille-page .rss-card-title .rss-link:hover {
+  color: #82f0ff;
+}
+
+#veille-page .rss-card.rss-card-enhanced .rss-desc {
+  margin: 0;
+  color: rgba(219, 232, 248, 0.9);
+  line-height: 1.55;
+  font-size: 0.95rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+#veille-page .rss-read-more {
+  margin-top: auto;
+  width: fit-content;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.86rem;
+  font-weight: 700;
+  color: #9ff7ff;
+  text-decoration: none;
+  border: 1px solid rgba(0, 234, 255, 0.32);
+  background: rgba(0, 174, 255, 0.12);
+  border-radius: 999px;
+  padding: 8px 12px;
+  transition: transform 160ms ease, background 160ms ease, border-color 160ms ease, color 160ms ease;
+}
+
+#veille-page .rss-read-more:hover {
+  transform: translateY(-1px);
+  background: rgba(0, 234, 255, 0.2);
+  border-color: rgba(0, 234, 255, 0.52);
+  color: #dfffff;
+}
+
+#veille-page .rss-read-more-disabled {
+  opacity: 0.75;
+  pointer-events: none;
+}
+
+@keyframes rssCardIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
