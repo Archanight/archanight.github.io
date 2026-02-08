@@ -1,11 +1,18 @@
 {
-  "generatedAt": "2026-02-08T06:39:01.770Z",
+  "generatedAt": "2026-02-08T12:29:12.461Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
     "https://www.google.fr/alerts/feeds/08396268160163584311/18237269061384757812"
   ],
   "items": [
+    {
+      "title": "L&#39;IA générative atteint un plateau : pourquoi l&#39;après GPT-5 oblige les entreprises à revoir ...",
+      "url": "https://www.economiematin.fr/lia-generative-plateau-apres-gpt-5-strategie-dilmi",
+      "date": "2026-02-08T08:11:37.000Z",
+      "excerpt": "Quand la puissance ne suffit plus. GPT-5 met en lumière un déplacement profond des enjeux. Le débat ne porte plus sur la performance intrinsèque des&nbsp;...",
+      "source": "Alerte Google : (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Le comble ! OpenAI va devoir reporter une partie de ses projets hardware à cause de la ... - Clubic",
       "url": "https://www.clubic.com/actualite-599500-le-comble-openai-va-devoir-reporter-une-partie-de-ses-projets-hardware-a-cause-de-la-penurie-de-ram-qu-elle-a-cree.html",
