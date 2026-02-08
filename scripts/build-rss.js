@@ -17,10 +17,52 @@ const parser = new XMLParser({
   attributeNamePrefix: "@_",
 });
 
+const NAMED_ENTITIES = {
+  amp: "&",
+  quot: '"',
+  apos: "'",
+  nbsp: " ",
+  middot: "·",
+  hellip: "...",
+  rsquo: "'",
+  lsquo: "'",
+  rdquo: '"',
+  ldquo: '"',
+  laquo: '"',
+  raquo: '"',
+  ndash: "-",
+  mdash: "-",
+};
+
+function mojibakeScore(input) {
+  const text = String(input ?? "");
+  const bad =
+    (text.match(/Ã./g) || []).length +
+    (text.match(/Â./g) || []).length +
+    (text.match(/â./g) || []).length +
+    (text.match(/�/g) || []).length;
+  const good = (text.match(/[àâäçéèêëîïôöùûüÿœæÀÂÄÇÉÈÊËÎÏÔÖÙÛÜŸŒÆ]/g) || []).length;
+  return bad * 3 - good;
+}
+
+function repairMojibake(input) {
+  const original = String(input ?? "");
+  const suspicious = /Ã.|Â.|â.|�/.test(original);
+  if (!suspicious) return original;
+
+  const firstPass = Buffer.from(original, "latin1").toString("utf8");
+  const secondPass = Buffer.from(firstPass, "latin1").toString("utf8");
+
+  const candidates = [original, firstPass, secondPass];
+  candidates.sort((a, b) => mojibakeScore(a) - mojibakeScore(b));
+  return candidates[0];
+}
+
 function decodeEntities(input) {
   return String(input ?? "")
     .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
     .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(parseInt(d, 10)))
+    .replace(/&([a-zA-Z][a-zA-Z0-9]+);/g, (_, name) => NAMED_ENTITIES[name] ?? `&${name};`)
     .replace(/&amp;/g, "&")
     .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'")
@@ -46,10 +88,13 @@ function stripHtml(input) {
       JSON.stringify(value);
   }
 
-  return decodeEntities(String(value))
+  return repairMojibake(
+    decodeEntities(String(value))
     .replace(/<[^>]*>/g, " ")
     .replace(/\s+/g, " ")
-    .trim();
+    .trim()
+    .replace(/\s([,;:.!?])/g, "$1")
+  );
 }
 
 function normalizeIsoDate(rawDate) {
