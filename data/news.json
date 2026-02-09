@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-09T12:45:24.602Z",
+  "generatedAt": "2026-02-09T18:45:16.449Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -36,6 +36,16 @@
       "description": "Il existe une solution simple pour accéder aux derniers moteurs d'IA, dont Claude Opus 4.6 et GPT-5.2, sans abonnement mensuel.",
       "excerpt": "Il existe une solution simple pour accéder aux derniers moteurs d'IA, dont Claude Opus 4.6 et GPT-5.2, sans abonnement mensuel.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "UPDATE: Cette IA française rivalise avec ChatGPT (mais garde ta souveraineté) - YouTube",
+      "link": "https://www.youtube.com/watch?v=nUwMA_yHF00",
+      "url": "https://www.youtube.com/watch?v=nUwMA_yHF00",
+      "publishedAt": "2026-02-09T00:15:37.000Z",
+      "date": "2026-02-09T00:15:37.000Z",
+      "description": "UPDATE: Cette IA française rivalise avec ChatGPT (mais garde ta souveraineté). 28 views · 7 hours ago. Business il IA...more. Vincent Felisat. 1.73K.",
+      "excerpt": "UPDATE: Cette IA française rivalise avec ChatGPT (mais garde ta souveraineté). 28 views · 7 hours ago. Business il IA...more. Vincent Felisat. 1.73K.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Pig Butchering: Un infiltré brise le secret des usines à fraude - DCOD | Cybersécurité",
@@ -115,16 +125,6 @@
       "date": "2026-02-07T15:02:04.000Z",
       "description": "IA: Mistral AI à la place de ChatGPT. Si vous avez pris l'habitude de... Cybersécurité: Bye bye Microsoft… Les données de santé françaises...",
       "excerpt": "IA: Mistral AI à la place de ChatGPT. Si vous avez pris l'habitude de... Cybersécurité: Bye bye Microsoft… Les données de santé françaises...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.3-Codex: l'IA d'OpenAI qui a participé à sa propre création (et ce n'est pas de la...",
-      "link": "https://geekslands.fr/gpt-5-3-codex-openai-ia-participe-propre-creation/",
-      "url": "https://geekslands.fr/gpt-5-3-codex-openai-ia-participe-propre-creation/",
-      "publishedAt": "2026-02-07T14:00:37.000Z",
-      "date": "2026-02-07T14:00:37.000Z",
-      "description": "... GPT-5.2 -Codex avec le raisonnement de GPT-5.2. Le résultat ne se... Comme nous l'analysions fin janvier, ChatGPT n'est plus seul en haut de l'affiche.",
-      "excerpt": "... GPT-5.2 -Codex avec le raisonnement de GPT-5.2. Le résultat ne se... Comme nous l'analysions fin janvier, ChatGPT n'est plus seul en haut de l'affiche.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
