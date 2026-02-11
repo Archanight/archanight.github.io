@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-11T06:52:20.597Z",
+  "generatedAt": "2026-02-11T12:45:44.392Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -8,123 +8,123 @@
   "failedSources": [],
   "items": [
     {
-      "title": "Windows: Microsoft programme la fin des pilotes d'impression tiers - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/windows-microsoft-programme-la-fin-des-pilotes-dimpression-tiers-489791.htm",
-      "url": "https://www.zdnet.fr/actualites/windows-microsoft-programme-la-fin-des-pilotes-dimpression-tiers-489791.htm",
-      "publishedAt": "2026-02-10T12:02:43.000Z",
-      "date": "2026-02-10T12:02:43.000Z",
-      "description": "Pour Windows 11+ et Windows Server 2025+, aucun nouveau pilote d'imprimante ne sera publié sur Windows Update.... ChatGPT repart à la hausse, Vertiv au...",
-      "excerpt": "Pour Windows 11+ et Windows Server 2025+, aucun nouveau pilote d'imprimante ne sera publié sur Windows Update.... ChatGPT repart à la hausse, Vertiv au...",
+      "title": "ChatGPT réussit les examens de médecine, mais échoue à aider les vrais malades",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-reussit-les-examens-de-medecine-mais-echoue-a-aider-les-vrais-malades-n251298.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-reussit-les-examens-de-medecine-mais-echoue-a-aider-les-vrais-malades-n251298.html",
+      "publishedAt": "2026-02-11T10:45:43.000Z",
+      "date": "2026-02-11T10:45:43.000Z",
+      "description": "Les grands modèles de langage, GPT-4o en tête, obtiennent des scores... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Aymeric Geoffre...",
+      "excerpt": "Les grands modèles de langage, GPT-4o en tête, obtiennent des scores... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Aymeric Geoffre...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "Leboncoin: ne cherchez plus l'annonce parfaite vous-même, laissez faire ChatGPT",
-      "link": "https://www.lesnumeriques.com/societe-numerique/leboncoin-ne-cherchez-plus-l-annonce-parfaite-vous-meme-laissez-faire-chatgpt-n251291.html",
-      "url": "https://www.lesnumeriques.com/societe-numerique/leboncoin-ne-cherchez-plus-l-annonce-parfaite-vous-meme-laissez-faire-chatgpt-n251291.html",
-      "publishedAt": "2026-02-10T12:01:45.000Z",
-      "date": "2026-02-10T12:01:45.000Z",
-      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Antoine Roche... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
-      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Antoine Roche... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
+      "title": "IA fantôme: Microsoft met en garde contre les failles de sécurité liées aux agents d'IA",
+      "link": "https://www.zdnet.fr/actualites/securite-des-agents-ia-microsoft-alerte-et-demande-un-virage-securitaire-489902.htm",
+      "url": "https://www.zdnet.fr/actualites/securite-des-agents-ia-microsoft-alerte-et-demande-un-virage-securitaire-489902.htm",
+      "publishedAt": "2026-02-11T08:53:22.000Z",
+      "date": "2026-02-11T08:53:22.000Z",
+      "description": "... cybersécurité... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
+      "excerpt": "... cybersécurité... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Pub sur ChatGPT: la version gratuite a-t-elle perdu tout intérêt? - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/pub-sur-chatgpt-la-version-gratuite-a-t-elle-perdu-tout-interet",
+      "url": "https://www.lebigdata.fr/pub-sur-chatgpt-la-version-gratuite-a-t-elle-perdu-tout-interet",
+      "publishedAt": "2026-02-11T08:27:34.000Z",
+      "date": "2026-02-11T08:27:34.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Pub sur ChatGPT: la version gratuite a-t-elle perdu tout intérêt?",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Pub sur ChatGPT: la version gratuite a-t-elle perdu tout intérêt?",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Leboncoin intègre ChatGPT: vers la fin des filtres de recherche traditionnels? - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/leboncoin-integre-chatgpt-vers-la-fin-des-filtres-de-recherche-traditionnels-489911.htm",
+      "url": "https://www.zdnet.fr/actualites/leboncoin-integre-chatgpt-vers-la-fin-des-filtres-de-recherche-traditionnels-489911.htm",
+      "publishedAt": "2026-02-11T08:08:43.000Z",
+      "date": "2026-02-11T08:08:43.000Z",
+      "description": "En ouvrant l'intégralité de son catalogue de 89 millions d'annonces à ChatGPT, leboncoin marque une étape décisive dans le commerce...",
+      "excerpt": "En ouvrant l'intégralité de son catalogue de 89 millions d'annonces à ChatGPT, leboncoin marque une étape décisive dans le commerce...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "leboncoin lance son application dans ChatGPT - La Revue du Digital",
+      "link": "https://www.larevuedudigital.com/leboncoin-lance-son-application-dans-chatgpt/",
+      "url": "https://www.larevuedudigital.com/leboncoin-lance-son-application-dans-chatgpt/",
+      "publishedAt": "2026-02-11T08:06:58.000Z",
+      "date": "2026-02-11T08:06:58.000Z",
+      "description": "... Devops · Web Design. Digital. DMP · CRM onboarding · Mobile · Publicité · RGPD... leboncoin lance son application dans ChatGPT. Publié le 11 février...",
+      "excerpt": "... Devops · Web Design. Digital. DMP · CRM onboarding · Mobile · Publicité · RGPD... leboncoin lance son application dans ChatGPT. Publié le 11 février...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "01net morning: test de l'enceinte Echo Dot Max, la mauvaise surprise de la Twingo à 16...",
+      "link": "https://www.01net.com/actualites/01net-morning-test-de-lenceinte-echo-dot-max-la-mauvaise-surprise-de-la-twingo-a-16-000-e-chatgpt-dans-leboncoin.html",
+      "url": "https://www.01net.com/actualites/01net-morning-test-de-lenceinte-echo-dot-max-la-mauvaise-surprise-de-la-twingo-a-16-000-e-chatgpt-dans-leboncoin.html",
+      "publishedAt": "2026-02-11T08:01:35.000Z",
+      "date": "2026-02-11T08:01:35.000Z",
+      "description": "Leboncoin débarque dans ChatGPT. On peut maintenant demander à l'IA de... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
+      "excerpt": "Leboncoin débarque dans ChatGPT. On peut maintenant demander à l'IA de... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA pratique: quels chatbots d'intelligence artificielle sont sans publicité? - ZDNET",
+      "link": "https://www.zdnet.fr/pratique/ia-pratique-quels-chatbots-dintelligence-artificielle-sont-sans-publicite-489836.htm",
+      "url": "https://www.zdnet.fr/pratique/ia-pratique-quels-chatbots-dintelligence-artificielle-sont-sans-publicite-489836.htm",
+      "publishedAt": "2026-02-11T07:11:28.000Z",
+      "date": "2026-02-11T07:11:28.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Avec l'IA, on ne travaille pas moins… on travaille plus, selon une nouvelle étude",
+      "link": "https://www.01net.com/actualites/avec-lia-on-ne-travaille-pas-moins-on-travaille-plus.html",
+      "url": "https://www.01net.com/actualites/avec-lia-on-ne-travaille-pas-moins-on-travaille-plus.html",
+      "publishedAt": "2026-02-11T06:13:42.000Z",
+      "date": "2026-02-11T06:13:42.000Z",
+      "description": "Le « premier hardware ChatGPT »: une pub OpenAI complètement bidon enflamme Internet... Cybersécurité · Société · Télécoms · Auto · Médias · Politique...",
+      "excerpt": "Le « premier hardware ChatGPT »: une pub OpenAI complètement bidon enflamme Internet... Cybersécurité · Société · Télécoms · Auto · Médias · Politique...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT ne remplacera pas votre docteur de sitôt: une étude avertit sur les risques liés à l...",
+      "link": "https://www.challenges.fr/entreprise/tech-numerique/chatgpt-ne-remplacera-pas-votre-docteur-de-sitot-une-etude-avertit-sur-les-risques-lies-a-lusage-de-chatbots-dia-pour-des-conseils-medicaux_639498",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/chatgpt-ne-remplacera-pas-votre-docteur-de-sitot-une-etude-avertit-sur-les-risques-lies-a-lusage-de-chatbots-dia-pour-des-conseils-medicaux_639498",
+      "publishedAt": "2026-02-11T05:32:25.000Z",
+      "date": "2026-02-11T05:32:25.000Z",
+      "description": "ChatGPT ne remplacera pas votre docteur de sitôt: une étude avertit... Les Assises de la cybersécurité · PRNewswire · Speak & Act · Meilleurtaux...",
+      "excerpt": "ChatGPT ne remplacera pas votre docteur de sitôt: une étude avertit... Les Assises de la cybersécurité · PRNewswire · Speak & Act · Meilleurtaux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Proton VPN débloque enfin le combo sécurité ultime sur Windows - TechRadar",
+      "link": "https://global.techradar.com/fr-fr/vpn/vpn-services/proton-vpn-debloque-enfin-le-combo-securite-ultime-sur-windows",
+      "url": "https://global.techradar.com/fr-fr/vpn/vpn-services/proton-vpn-debloque-enfin-le-combo-securite-ultime-sur-windows",
+      "publishedAt": "2026-02-11T03:43:56.000Z",
+      "date": "2026-02-11T03:43:56.000Z",
+      "description": "... update on Windows lets you benefit from all three at once, so you can feel relieved while you browse the internet securely. pic.twitter.com...",
+      "excerpt": "... update on Windows lets you benefit from all three at once, so you can feel relieved while you browse the internet securely. pic.twitter.com...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "Duck.ai, le chatbot IA de DuckDuckGo, gagne un chat vocal gratuit et réellement privé",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/duck-ai-le-chatbot-ia-de-duckduckgo-gagne-un-chat-vocal-gratuit-et-reellement-prive-n251286.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/duck-ai-le-chatbot-ia-de-duckduckgo-gagne-un-chat-vocal-gratuit-et-reellement-prive-n251286.html",
-      "publishedAt": "2026-02-10T11:10:30.000Z",
-      "date": "2026-02-10T11:10:30.000Z",
-      "description": "... GPT-5 et GPT-4o. L'abonnement facultatif DuckDuckGo gagne aujourd'hui en... ChatGPT ne fonctionne plus? Voici comment résoudre rapidement le...",
-      "excerpt": "... GPT-5 et GPT-4o. L'abonnement facultatif DuckDuckGo gagne aujourd'hui en... ChatGPT ne fonctionne plus? Voici comment résoudre rapidement le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT affiche dès aujourd'hui des publicités, d'abord dans un pays - KultureGeek",
-      "link": "https://kulturegeek.fr/news-346906/chatgpt-affiche-aujourdhui-publicites-etats-unis",
-      "url": "https://kulturegeek.fr/news-346906/chatgpt-affiche-aujourdhui-publicites-etats-unis",
-      "publishedAt": "2026-02-10T08:02:53.000Z",
-      "date": "2026-02-10T08:02:53.000Z",
-      "description": "Des publicités apparaissent dès aujourd'hui sur ChatGPT pour les utilisateurs gratuits et Go. Cela... ChatGPT GPT-5 Internet · ChatGPT envisage d'...",
-      "excerpt": "Des publicités apparaissent dès aujourd'hui sur ChatGPT pour les utilisateurs gratuits et Go. Cela... ChatGPT GPT-5 Internet · ChatGPT envisage d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI va tester des publicités dans ChatGPT aux États-Unis | Zonebourse Suisse",
-      "link": "https://ch.zonebourse.com/actualite-bourse/openai-va-tester-des-publicites-dans-chatgpt-aux-etats-unis-ce7e5adfd88ff524",
-      "url": "https://ch.zonebourse.com/actualite-bourse/openai-va-tester-des-publicites-dans-chatgpt-aux-etats-unis-ce7e5adfd88ff524",
-      "publishedAt": "2026-02-10T07:55:49.000Z",
-      "date": "2026-02-10T07:55:49.000Z",
-      "description": "OpenAI, soutenue par Microsoft, a annoncé lundi qu'elle allait expérimenter l'intégration de publicités dans ChatGPT aux États-Unis afin de...",
-      "excerpt": "OpenAI, soutenue par Microsoft, a annoncé lundi qu'elle allait expérimenter l'intégration de publicités dans ChatGPT aux États-Unis afin de...",
+      "title": "Leboncoin révolutionne la recherche d'annonces avec ChatGPT - infoDSI",
+      "link": "https://infodsi.com/articles/208781/leboncoin-revolutionne-la-recherche-dannonces-avec-chatgpt.html",
+      "url": "https://infodsi.com/articles/208781/leboncoin-revolutionne-la-recherche-dannonces-avec-chatgpt.html",
+      "publishedAt": "2026-02-11T03:26:05.000Z",
+      "date": "2026-02-11T03:26:05.000Z",
+      "description": "L'utilisateur peut décrire son besoin en langage naturel, à l'écrit ou à la voix, directement dans l'interface de ChatGPT.... Cybersécurité 2026-2030:...",
+      "excerpt": "L'utilisateur peut décrire son besoin en langage naturel, à l'écrit ou à la voix, directement dans l'interface de ChatGPT.... Cybersécurité 2026-2030:...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "\"Des millions de visites supplémentaires\": Leboncoin débarque dans ChatGPT",
-      "link": "https://www.phonandroid.com/des-millions-de-visites-supplementaires-leboncoin-debarque-dans-chatgpt.html",
-      "url": "https://www.phonandroid.com/des-millions-de-visites-supplementaires-leboncoin-debarque-dans-chatgpt.html",
-      "publishedAt": "2026-02-10T07:51:26.000Z",
-      "date": "2026-02-10T07:51:26.000Z",
-      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT est compatible avec les plateformes de commerce en ligne depuis...",
-      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT est compatible avec les plateformes de commerce en ligne depuis...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ça y est, ChatGPT commence à afficher de la publicité",
-      "link": "https://www.phonandroid.com/ca-y-est-chatgpt-commence-a-afficher-de-la-publicite.html",
-      "url": "https://www.phonandroid.com/ca-y-est-chatgpt-commence-a-afficher-de-la-publicite.html",
-      "publishedAt": "2026-02-10T07:51:25.000Z",
-      "date": "2026-02-10T07:51:25.000Z",
-      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... Il va falloir payer au moins 23 euros par mois pour supprimer la...",
-      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... Il va falloir payer au moins 23 euros par mois pour supprimer la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Premières pubs dans ChatGPT: pour les arrêter, il faut payer - 01net.com",
-      "link": "https://www.01net.com/actualites/les-premieres-publicites-apparaissent-dans-chatgpt.html",
-      "url": "https://www.01net.com/actualites/les-premieres-publicites-apparaissent-dans-chatgpt.html",
-      "publishedAt": "2026-02-10T07:22:46.000Z",
-      "date": "2026-02-10T07:22:46.000Z",
-      "description": "OpenAI promet aussi que « les publicités n'influencent pas les réponses données par ChatGPT... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "excerpt": "OpenAI promet aussi que « les publicités n'influencent pas les réponses données par ChatGPT... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "« Plus rapide qu'internet et le smartphone »: en trois ans, la moitié des Français ont déjà...",
-      "link": "https://www.01net.com/actualites/plus-rapide-quinternet-et-le-smartphone-en-trois-ans-la-moitie-des-francais-ont-deja-adopte-lia-generative.html",
-      "url": "https://www.01net.com/actualites/plus-rapide-quinternet-et-le-smartphone-en-trois-ans-la-moitie-des-francais-ont-deja-adopte-lia-generative.html",
-      "publishedAt": "2026-02-10T07:20:47.000Z",
-      "date": "2026-02-10T07:20:47.000Z",
-      "description": "... ChatGPT ou Le Chat, d'autres données ont retenu notre attention... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "excerpt": "... ChatGPT ou Le Chat, d'autres données ont retenu notre attention... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI annonce le déploiement d'un test publicitaire sur ChatGPT pour certains utilisateurs...",
-      "link": "https://www.zonebourse.com/actualite-bourse/openai-annonce-le-deploiement-d-un-test-publicitaire-sur-chatgpt-pour-certains-utilisateurs-americai-ce7e5adfd88dff26",
-      "url": "https://www.zonebourse.com/actualite-bourse/openai-annonce-le-deploiement-d-un-test-publicitaire-sur-chatgpt-pour-certains-utilisateurs-americai-ce7e5adfd88dff26",
-      "publishedAt": "2026-02-10T07:12:21.000Z",
-      "date": "2026-02-10T07:12:21.000Z",
-      "description": "OpenAI: Nous commençons aujourd'hui à déployer un test publicitaire sur ChatGPT auprès d'un sous-ensemble d'utilisateurs gratuits et Go aux...",
-      "excerpt": "OpenAI: Nous commençons aujourd'hui à déployer un test publicitaire sur ChatGPT auprès d'un sous-ensemble d'utilisateurs gratuits et Go aux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Près de la moitié des Français utilise des IA génératives comme ChatGPT - KultureGeek",
-      "link": "https://kulturegeek.fr/news-346890/pres-moitie-francais-utilise-ia-generatives-chatgpt",
-      "url": "https://kulturegeek.fr/news-346890/pres-moitie-francais-utilise-ia-generatives-chatgpt",
-      "publishedAt": "2026-02-10T07:09:08.000Z",
-      "date": "2026-02-10T07:09:08.000Z",
-      "description": "ChatGPT Logo Icone Application iPhone Internet · GPT-5.2 arrive bientôt: OpenAI va contrer Gemini 3 avec ChatGPT. Sam Altman Internet · OpenAI (...",
-      "excerpt": "ChatGPT Logo Icone Application iPhone Internet · GPT-5.2 arrive bientôt: OpenAI va contrer Gemini 3 avec ChatGPT. Sam Altman Internet · OpenAI (...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT retrouve une croissance à deux chiffres portée par GPT-5.3-Codex - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/chatgpt-retrouve-une-croissance-a-deux-chiffres-portee-par-gpt-5-3-codex-489844.htm",
-      "url": "https://www.zdnet.fr/actualites/chatgpt-retrouve-une-croissance-a-deux-chiffres-portee-par-gpt-5-3-codex-489844.htm",
-      "publishedAt": "2026-02-10T07:02:21.000Z",
-      "date": "2026-02-10T07:02:21.000Z",
-      "description": "openai-introduces- gpt-5 -3-codex-and-raises-... Cette stratégie d'accélération s'était déjà traduite par l'avancement du calendrier de sortie de GPT-5.2...",
-      "excerpt": "openai-introduces- gpt-5 -3-codex-and-raises-... Cette stratégie d'accélération s'était déjà traduite par l'avancement du calendrier de sortie de GPT-5.2...",
+      "title": "REA Group annonce le lancement de l'application immobilière ChatGPT par realestate.com.au",
+      "link": "https://www.zonebourse.com/actualite-bourse/rea-group-annonce-le-lancement-de-l-application-immobiliere-chatgpt-par-realestate-com-au-ce7e5adcd189f520",
+      "url": "https://www.zonebourse.com/actualite-bourse/rea-group-annonce-le-lancement-de-l-application-immobiliere-chatgpt-par-realestate-com-au-ce7e5adcd189f520",
+      "publishedAt": "2026-02-11T02:59:22.000Z",
+      "date": "2026-02-11T02:59:22.000Z",
+      "description": "REA Group a annoncé que realestate.com.au a lancé une application pour ChatGPT... Cybersécurité · Maison connectée · Les Métaux Stratégiques.",
+      "excerpt": "REA Group a annoncé que realestate.com.au a lancé une application pour ChatGPT... Cybersécurité · Maison connectée · Les Métaux Stratégiques.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
