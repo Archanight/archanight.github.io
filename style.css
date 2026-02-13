@@ -280,6 +280,13 @@ body:has(main > section.hero:first-child:last-child) section.hero {
     scrollbar-width: none;
 }
 
+/* Tuiles avec beaucoup de tags: eviter la coupe laterale des pills */
+.project-card--wrap-tags .tag-list {
+    flex-wrap: wrap;
+    overflow: visible;
+    row-gap: 8px;
+}
+
 .project-card .tag-list::-webkit-scrollbar {
     display: none;
 }
