@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-08T21:25:18.920Z",
+  "generatedAt": "2026-02-13T18:34:22.278Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -8,123 +8,123 @@
   "failedSources": [],
   "items": [
     {
-      "title": "L'IA générative atteint un plateau: pourquoi l'après GPT-5 oblige les entreprises à revoir...",
-      "link": "https://www.economiematin.fr/lia-generative-plateau-apres-gpt-5-strategie-dilmi",
-      "url": "https://www.economiematin.fr/lia-generative-plateau-apres-gpt-5-strategie-dilmi",
-      "publishedAt": "2026-02-08T08:11:37.000Z",
-      "date": "2026-02-08T08:11:37.000Z",
-      "description": "Quand la puissance ne suffit plus. GPT-5 met en lumière un déplacement profond des enjeux. Le débat ne porte plus sur la performance intrinsèque des...",
-      "excerpt": "Quand la puissance ne suffit plus. GPT-5 met en lumière un déplacement profond des enjeux. Le débat ne porte plus sur la performance intrinsèque des...",
+      "title": "Claude: ses meilleures fonctionnalités deviennent gratuites pour tous, de quoi détrôner...",
+      "link": "https://www.phonandroid.com/claude-ses-meilleures-fonctionnalites-deviennent-gratuites-pour-tous-de-quoi-detroner-chatgpt-et-gemini.html",
+      "url": "https://www.phonandroid.com/claude-ses-meilleures-fonctionnalites-deviennent-gratuites-pour-tous-de-quoi-detroner-chatgpt-et-gemini.html",
+      "publishedAt": "2026-02-13T08:58:10.000Z",
+      "date": "2026-02-13T08:58:10.000Z",
+      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... Si ChatGPT d'OpenAI et Gemini de Google captent majoritairement la...",
+      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... Si ChatGPT d'OpenAI et Gemini de Google captent majoritairement la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Microsoft lâche OpenAI: le divorce tech qui risque de tout faire basculer pour ChatGPT",
+      "link": "https://www.clubic.com/actualite-600379-microsoft-lache-openai-le-divorce-tech-qui-risque-de-tout-faire-basculer-pour-chatgpt.html",
+      "url": "https://www.clubic.com/actualite-600379-microsoft-lache-openai-le-divorce-tech-qui-risque-de-tout-faire-basculer-pour-chatgpt.html",
+      "publishedAt": "2026-02-13T08:47:26.000Z",
+      "date": "2026-02-13T08:47:26.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Chacun prépare son après. ChatGPT ( GPT-5.2 ). Chat dans...",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Chacun prépare son après. ChatGPT ( GPT-5.2 ). Chat dans...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT pour se soigner? Une étude révèle pourquoi l'interaction humaine fait échouer l'IA",
+      "link": "https://www.zdnet.fr/actualites/chatgpt-pour-se-soigner-une-etude-revele-pourquoi-linteraction-humaine-fait-echouer-lia-490017.htm",
+      "url": "https://www.zdnet.fr/actualites/chatgpt-pour-se-soigner-une-etude-revele-pourquoi-linteraction-humaine-fait-echouer-lia-490017.htm",
+      "publishedAt": "2026-02-13T08:31:26.000Z",
+      "date": "2026-02-13T08:31:26.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas...",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Et si le mois de février 2026 venait de marquer un tournant DÉTERMINANT dans l'histoire de l'IA",
+      "link": "https://atlantico.fr/article/decryptage/et-si-le-mois-de-fevrier-2026-venait-de-marquer-un-tournant-determinant-dans-lhistoire-de-lia",
+      "url": "https://atlantico.fr/article/decryptage/et-si-le-mois-de-fevrier-2026-venait-de-marquer-un-tournant-determinant-dans-lhistoire-de-lia",
+      "publishedAt": "2026-02-13T07:05:50.000Z",
+      "date": "2026-02-13T07:05:50.000Z",
+      "description": "Atlantico: Le 5 février dernier, Open AI dévoilait la nouvelle version de ChatGPT, intitulée GPT-5.3-Codex.... GPT-5.2 -Codex avec les capacités...",
+      "excerpt": "Atlantico: Le 5 février dernier, Open AI dévoilait la nouvelle version de ChatGPT, intitulée GPT-5.3-Codex.... GPT-5.2 -Codex avec les capacités...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "\"Un scénario à la Facebook\": après le déploiement de la pub, un premier départ chez OpenAI",
+      "link": "https://www.clubic.com/actualite-600187-un-scenario-a-la-facebook-apres-le-deploiement-de-la-pub-un-premier-depart-chez-openai.html",
+      "url": "https://www.clubic.com/actualite-600187-un-scenario-a-la-facebook-apres-le-deploiement-de-la-pub-un-premier-depart-chez-openai.html",
+      "publishedAt": "2026-02-13T06:20:51.000Z",
+      "date": "2026-02-13T06:20:51.000Z",
+      "description": "Zoë Hitzig claque la porte d'OpenAI le 9 février, exactement au moment où les premières publicités s'affichent dans ChatGPT... ChatGPT...",
+      "excerpt": "Zoë Hitzig claque la porte d'OpenAI le 9 février, exactement au moment où les premières publicités s'affichent dans ChatGPT... ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Leboncoin vient-il de ruiner des années d'efforts avec son appli ChatGPT? On leur a posé...",
+      "link": "https://www.numerama.com/cyberguerre/2177379-leboncoin-vient-il-de-ruiner-des-annees-defforts-avec-son-appli-chatgpt-on-leur-a-pose-la-question.html",
+      "url": "https://www.numerama.com/cyberguerre/2177379-leboncoin-vient-il-de-ruiner-des-annees-defforts-avec-son-appli-chatgpt-on-leur-a-pose-la-question.html",
+      "publishedAt": "2026-02-13T06:02:46.000Z",
+      "date": "2026-02-13T06:02:46.000Z",
+      "description": "Dernier jour pour GPT-4o et GPT-5: ChatGPT va faire le grand ménage... Les lunettes de Macron cachent une incroyable leçon de cybersécurité.",
+      "excerpt": "Dernier jour pour GPT-4o et GPT-5: ChatGPT va faire le grand ménage... Les lunettes de Macron cachent une incroyable leçon de cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Hot bots: quand les robots jouent les entremetteurs pour les humains - TradingView",
+      "link": "https://fr.tradingview.com/news/afp:b3a3bb28a671e:0/",
+      "url": "https://fr.tradingview.com/news/afp:b3a3bb28a671e:0/",
+      "publishedAt": "2026-02-13T04:16:47.000Z",
+      "date": "2026-02-13T04:16:47.000Z",
+      "description": "... ChatGPT. Les utilisateurs communiquent avec leur \"agent IA\" via... cybersécurité. -\"Partenaire idéal\"-. Un pseudo-réseau social d'agents...",
+      "excerpt": "... ChatGPT. Les utilisateurs communiquent avec leur \"agent IA\" via... cybersécurité. -\"Partenaire idéal\"-. Un pseudo-réseau social d'agents...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Ce que l'IA peut changer en 2026 entre gains de productivité, risques financiers et casse sociale",
+      "link": "https://www.challenges.fr/entreprise/tech-numerique/ce-que-lia-peut-changer-en-2026-entre-gains-de-productivite-risques-financiers-et-casse-sociale_639449",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/ce-que-lia-peut-changer-en-2026-entre-gains-de-productivite-risques-financiers-et-casse-sociale_639449",
+      "publishedAt": "2026-02-13T02:32:00.000Z",
+      "date": "2026-02-13T02:32:00.000Z",
+      "description": "Pendant trois ans, le monde s'est émerveillé devant l'intelligence de ChatGPT... Les Assises de la cybersécurité · PRNewswire · Speak & Act.",
+      "excerpt": "Pendant trois ans, le monde s'est émerveillé devant l'intelligence de ChatGPT... Les Assises de la cybersécurité · PRNewswire · Speak & Act.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT intègre l'application de PC Express - Les Affaires",
+      "link": "https://www.lesaffaires.com/bourse/chatgpt-integre-lapplication-de-pc-express/",
+      "url": "https://www.lesaffaires.com/bourse/chatgpt-integre-lapplication-de-pc-express/",
+      "publishedAt": "2026-02-13T01:25:40.000Z",
+      "date": "2026-02-13T01:25:40.000Z",
+      "description": "ChatGPT intègre l'application de PC Express... Pour tout connaitre sur vos droits et obligations… Cybersécurité proactive: pilotage stratégique pour l...",
+      "excerpt": "ChatGPT intègre l'application de PC Express... Pour tout connaitre sur vos droits et obligations… Cybersécurité proactive: pilotage stratégique pour l...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Face à ChatGPT, Anthropic ouvre davantage de fonctionnalités gratuites pour Claude",
+      "link": "https://www.mac4ever.com/ia/194631-face-a-chatgpt-anthropic-ouvre-davantage-de-fonctionnalites-gratuites-pour-claude",
+      "url": "https://www.mac4ever.com/ia/194631-face-a-chatgpt-anthropic-ouvre-davantage-de-fonctionnalites-gratuites-pour-claude",
+      "publishedAt": "2026-02-13T01:04:19.000Z",
+      "date": "2026-02-13T01:04:19.000Z",
+      "description": "Alors que son rival vient de commencer à afficher de la publicité dans ChatGPT pour certains utilisateurs, la start-up derrière Claude prend la...",
+      "excerpt": "Alors que son rival vient de commencer à afficher de la publicité dans ChatGPT pour certains utilisateurs, la start-up derrière Claude prend la...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "Le comble! OpenAI va devoir reporter une partie de ses projets hardware à cause de la... - Clubic",
-      "link": "https://www.clubic.com/actualite-599500-le-comble-openai-va-devoir-reporter-une-partie-de-ses-projets-hardware-a-cause-de-la-penurie-de-ram-qu-elle-a-cree.html",
-      "url": "https://www.clubic.com/actualite-599500-le-comble-openai-va-devoir-reporter-une-partie-de-ses-projets-hardware-a-cause-de-la-penurie-de-ram-qu-elle-a-cree.html",
-      "publishedAt": "2026-02-07T15:55:50.000Z",
-      "date": "2026-02-07T15:55:50.000Z",
-      "description": "Le BOM (Bill Of Material), ce fameux coût des composants, est devenu injustifiable pour un appareil grand public. ChatGPT ( GPT-5.2 ).",
-      "excerpt": "Le BOM (Bill Of Material), ce fameux coût des composants, est devenu injustifiable pour un appareil grand public. ChatGPT ( GPT-5.2 ).",
+      "title": "Les premières marques qui testent la publicité dans ChatGPT enfin dévoilées",
+      "link": "https://siecledigital.fr/2026/02/12/publicites-dans-chatgpt-les-premieres-marques-devoilees/",
+      "url": "https://siecledigital.fr/2026/02/12/publicites-dans-chatgpt-les-premieres-marques-devoilees/",
+      "publishedAt": "2026-02-13T00:38:08.000Z",
+      "date": "2026-02-13T00:38:08.000Z",
+      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS. Publicité. Marketing... ChatGPT cite Grokipedia:...",
+      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS. Publicité. Marketing... ChatGPT cite Grokipedia:...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Siri plus tout seul à bord de CarPlay? On pourrait bientôt discuter avec ChatGPT ou Gemini",
-      "link": "https://www.01net.com/actualites/siri-plus-tout-seul-a-bord-de-carplay-on-pourrait-bientot-discuter-avec-chatgpt-ou-gemini.html",
-      "url": "https://www.01net.com/actualites/siri-plus-tout-seul-a-bord-de-carplay-on-pourrait-bientot-discuter-avec-chatgpt-ou-gemini.html",
-      "publishedAt": "2026-02-07T15:30:27.000Z",
-      "date": "2026-02-07T15:30:27.000Z",
-      "description": "... Siri. Depuis l'explosion des chatbots IA, de nombreux automobilistes équipés de CarPlay réclament la possibilité de troquer Siri pour ChatGPT...",
-      "excerpt": "... Siri. Depuis l'explosion des chatbots IA, de nombreux automobilistes équipés de CarPlay réclament la possibilité de troquer Siri pour ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "On a visité RentAHuman.ai, le site où les IA louent des êtres humains - 01net.com",
-      "link": "https://www.01net.com/actualites/visite-rentahuman-ai-site-ia-louent-etres-humains.html",
-      "url": "https://www.01net.com/actualites/visite-rentahuman-ai-site-ia-louent-etres-humains.html",
-      "publishedAt": "2026-02-07T15:14:57.000Z",
-      "date": "2026-02-07T15:14:57.000Z",
-      "description": "Contrairement à ChatGPT ou Gemini, OpenClaw n'a pas de limite. Une fois... Openclaw Cybersécurité Failles Agent Ia. La « recette d'un...",
-      "excerpt": "Contrairement à ChatGPT ou Gemini, OpenClaw n'a pas de limite. Une fois... Openclaw Cybersécurité Failles Agent Ia. La « recette d'un...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Apple CarPlay: ChatGPT, Gemini et Claude s'invitent à bord - Clubic",
-      "link": "https://www.clubic.com/actualite-599497-apple-carplay-chatgpt-gemini-et-claude-s-invitent-a-bord.html",
-      "url": "https://www.clubic.com/actualite-599497-apple-carplay-chatgpt-gemini-et-claude-s-invitent-a-bord.html",
-      "publishedAt": "2026-02-07T15:11:20.000Z",
-      "date": "2026-02-07T15:11:20.000Z",
-      "description": "Une évolution qui accompagnera la refonte de Siri; ChatGPT ( GPT-5.2 ).",
-      "excerpt": "Une évolution qui accompagnera la refonte de Siri; ChatGPT ( GPT-5.2 ).",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Vous souhaitez vous passer de Microsoft, Google, ChatGPT ou WhatsApp? Voici des...",
-      "link": "https://www.ouest-france.fr/high-tech/numerique/vous-souhaitez-vous-passer-de-microsoft-google-chatgpt-ou-whatsapp-voici-des-alternatives-europeennes-ae384294-fb81-11f0-b421-129bd2858122",
-      "url": "https://www.ouest-france.fr/high-tech/numerique/vous-souhaitez-vous-passer-de-microsoft-google-chatgpt-ou-whatsapp-voici-des-alternatives-europeennes-ae384294-fb81-11f0-b421-129bd2858122",
-      "publishedAt": "2026-02-07T15:02:04.000Z",
-      "date": "2026-02-07T15:02:04.000Z",
-      "description": "IA: Mistral AI à la place de ChatGPT. Si vous avez pris l'habitude de... Cybersécurité: Bye bye Microsoft… Les données de santé françaises...",
-      "excerpt": "IA: Mistral AI à la place de ChatGPT. Si vous avez pris l'habitude de... Cybersécurité: Bye bye Microsoft… Les données de santé françaises...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.3-Codex: l'IA d'OpenAI qui a participé à sa propre création (et ce n'est pas de la...",
-      "link": "https://geekslands.fr/gpt-5-3-codex-openai-ia-participe-propre-creation/",
-      "url": "https://geekslands.fr/gpt-5-3-codex-openai-ia-participe-propre-creation/",
-      "publishedAt": "2026-02-07T14:00:37.000Z",
-      "date": "2026-02-07T14:00:37.000Z",
-      "description": "... GPT-5.2 -Codex avec le raisonnement de GPT-5.2. Le résultat ne se... Comme nous l'analysions fin janvier, ChatGPT n'est plus seul en haut de l'affiche.",
-      "excerpt": "... GPT-5.2 -Codex avec le raisonnement de GPT-5.2. Le résultat ne se... Comme nous l'analysions fin janvier, ChatGPT n'est plus seul en haut de l'affiche.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropique: Des publicités humoristiques s'attaquent à la publicité dans le ChatGPT",
-      "link": "https://www.notebookcheck.biz/Anthropique-Des-publicites-humoristiques-s-attaquent-a-la-publicite-dans-le-ChatGPT.1221598.0.html",
-      "url": "https://www.notebookcheck.biz/Anthropique-Des-publicites-humoristiques-s-attaquent-a-la-publicite-dans-le-ChatGPT.1221598.0.html",
-      "publishedAt": "2026-02-07T13:18:18.000Z",
-      "date": "2026-02-07T13:18:18.000Z",
-      "description": "Suite à l'annonce d'OpenAI d'introduire des publicités dans ChatGPT, Anthropic se positionne comme une alternative claire avec une campagne...",
-      "excerpt": "Suite à l'annonce d'OpenAI d'introduire des publicités dans ChatGPT, Anthropic se positionne comme une alternative claire avec une campagne...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI travaille sur une version spécifique aux Émirats arabes unis de ChatGPT",
-      "link": "https://www.zonebourse.com/actualite-bourse/openai-travaille-sur-une-version-specifique-aux-emirats-arabes-unis-de-chatgpt-ce7e5ad9de89f527",
-      "url": "https://www.zonebourse.com/actualite-bourse/openai-travaille-sur-une-version-specifique-aux-emirats-arabes-unis-de-chatgpt-ce7e5ad9de89f527",
-      "publishedAt": "2026-02-07T08:01:46.000Z",
-      "date": "2026-02-07T08:01:46.000Z",
-      "description": "... ChatGPT... -Le 06 février 2026 à 20:55 - Zonebourse.... Cybersécurité · Hydrogène · REITs · Hydraulique · Notations Techniques · Actions...",
-      "excerpt": "... ChatGPT... -Le 06 février 2026 à 20:55 - Zonebourse.... Cybersécurité · Hydrogène · REITs · Hydraulique · Notations Techniques · Actions...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI en discussion avec G42 d'Abou Dhabi pour développer une version spécialisée de...",
-      "link": "https://www.zonebourse.com/actualite-bourse/openai-en-discussion-avec-g42-d-abou-dhabi-pour-developper-une-version-specialisee-de-chatgpt-pour-l-ce7e5ad9df88ff24",
-      "url": "https://www.zonebourse.com/actualite-bourse/openai-en-discussion-avec-g42-d-abou-dhabi-pour-developper-une-version-specialisee-de-chatgpt-pour-l-ce7e5ad9df88ff24",
-      "publishedAt": "2026-02-07T04:57:56.000Z",
-      "date": "2026-02-07T04:57:56.000Z",
-      "description": "Cybersécurité... OpenAI en discussion avec G42 d'Abou Dhabi pour développer une version spécialisée de ChatGPT pour les Émirats arabes unis - Semafor.",
-      "excerpt": "Cybersécurité... OpenAI en discussion avec G42 d'Abou Dhabi pour développer une version spécialisée de ChatGPT pour les Émirats arabes unis - Semafor.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT 5.2 est arrivé, utilisateurs mécontents: revenez en arrière",
-      "link": "https://telegrafi.com/fr/Chatgpt-5-est-arriv%C3%A9--2-utilisateurs-insatisfaits-se-retirent/",
-      "url": "https://telegrafi.com/fr/Chatgpt-5-est-arriv%C3%A9--2-utilisateurs-insatisfaits-se-retirent/",
-      "publishedAt": "2026-02-06T17:59:13.000Z",
-      "date": "2026-02-06T17:59:13.000Z",
-      "description": "OpenAI a lancé le nouveau modèle ChatGPT 5.2 en réponse au nouveau modèle Google Gemini, mais les premières réactions des utilisateurs sont...",
-      "excerpt": "OpenAI a lancé le nouveau modèle ChatGPT 5.2 en réponse au nouveau modèle Google Gemini, mais les premières réactions des utilisateurs sont...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI lance GPT-5.3 Codex: l'IA qui s'est codée seule et gère des projets entiers",
-      "link": "https://www.lebigdata.fr/openai-lance-gpt-5-3-codex-lia-qui-sest-codee-seule-et-gere-des-projets-entiers",
-      "url": "https://www.lebigdata.fr/openai-lance-gpt-5-3-codex-lia-qui-sest-codee-seule-et-gere-des-projets-entiers",
-      "publishedAt": "2026-02-06T17:07:26.000Z",
-      "date": "2026-02-06T17:07:26.000Z",
-      "description": "OpenAI revendique une amélioration d'environ 25 % de la vitesse d'exécution par rapport à GPT-5.2 Codex.... ChatGPT GPT IA OpenAI. Notre blog est...",
-      "excerpt": "OpenAI revendique une amélioration d'environ 25 % de la vitesse d'exécution par rapport à GPT-5.2 Codex.... ChatGPT GPT IA OpenAI. Notre blog est...",
+      "title": "ChatGPT dévoile son Top 3 altcoins: les pépites explosives à ne pas rater en 2026",
+      "link": "https://cryptonaute.fr/chatgpt-top-3-altcoins-pepites-explosives-2026/",
+      "url": "https://cryptonaute.fr/chatgpt-top-3-altcoins-pepites-explosives-2026/",
+      "publishedAt": "2026-02-12T21:00:36.000Z",
+      "date": "2026-02-12T21:00:36.000Z",
+      "description": "Expertise. Bitcoin; Cybersécurité; Régulation cryptos. Accomplissements. Révélé un cas rare de cyberfraude; Rencontre avec de nombreux innovateurs de...",
+      "excerpt": "Expertise. Bitcoin; Cybersécurité; Régulation cryptos. Accomplissements. Révélé un cas rare de cyberfraude; Rencontre avec de nombreux innovateurs de...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
