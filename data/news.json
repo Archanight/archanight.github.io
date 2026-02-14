@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-14T06:33:55.134Z",
+  "generatedAt": "2026-02-14T12:27:55.670Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "La mode des caricatures IA de ChatGPT, une aubaine pour les fraudeurs, alertent des experts",
+      "link": "https://fr.euronews.com/next/2026/02/14/la-mode-des-caricatures-ia-de-chatgpt-une-aubaine-pour-les-fraudeurs-alertent-des-experts",
+      "url": "https://fr.euronews.com/next/2026/02/14/la-mode-des-caricatures-ia-de-chatgpt-une-aubaine-pour-les-fraudeurs-alertent-des-experts",
+      "publishedAt": "2026-02-14T07:02:02.000Z",
+      "date": "2026-02-14T07:02:02.000Z",
+      "description": "La mode des caricatures IA de ChatGPT, une aubaine pour les fraudeurs, alertent des experts... cybersécurité Jake Moore. Ces informations peuvent...",
+      "excerpt": "La mode des caricatures IA de ChatGPT, une aubaine pour les fraudeurs, alertent des experts... cybersécurité Jake Moore. Ces informations peuvent...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "QuitGPT, le boycott de ChatGPT prend de l'ampleur sur fond de scandale - PhonAndroid",
+      "link": "https://www.phonandroid.com/quitgpt-le-boycott-de-chatgpt-prend-de-lampleur-sur-fond-de-scandale.html",
+      "url": "https://www.phonandroid.com/quitgpt-le-boycott-de-chatgpt-prend-de-lampleur-sur-fond-de-scandale.html",
+      "publishedAt": "2026-02-14T04:31:11.000Z",
+      "date": "2026-02-14T04:31:11.000Z",
+      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT fait face à un boycott inédit lancé par un mouvement baptisé...",
+      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT fait face à un boycott inédit lancé par un mouvement baptisé...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT déjà en danger de mort? Microsoft veut retirer son soutien à OpenAI",
+      "link": "https://www.phonandroid.com/chatgpt-deja-en-danger-de-mort-microsoft-veut-retirer-son-soutien-a-openai.html",
+      "url": "https://www.phonandroid.com/chatgpt-deja-en-danger-de-mort-microsoft-veut-retirer-son-soutien-a-openai.html",
+      "publishedAt": "2026-02-14T03:26:22.000Z",
+      "date": "2026-02-14T03:26:22.000Z",
+      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT déjà en danger de mort? Microsoft veut retirer son soutien à...",
+      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT déjà en danger de mort? Microsoft veut retirer son soutien à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Avec Bouygues Telecom Pro Intégration, l'opérateur démocratise le SOC et le service managé",
+      "link": "https://www.itforbusiness.fr/avec-bouygues-telecom-pro-integration-loperateur-democratise-le-soc-et-le-service-manage-100349",
+      "url": "https://www.itforbusiness.fr/avec-bouygues-telecom-pro-integration-loperateur-democratise-le-soc-et-le-service-manage-100349",
+      "publishedAt": "2026-02-13T11:31:01.000Z",
+      "date": "2026-02-13T11:31:01.000Z",
+      "description": "ChatGPT passe en mode enquête avec un Deep Research piloté par les sources · Deep Research de ChatGPT passe à GPT-5.2 et devient bien plus gouvernable.",
+      "excerpt": "ChatGPT passe en mode enquête avec un Deep Research piloté par les sources · Deep Research de ChatGPT passe à GPT-5.2 et devient bien plus gouvernable.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Claude: ses meilleures fonctionnalités deviennent gratuites pour tous, de quoi détrôner...",
       "link": "https://www.phonandroid.com/claude-ses-meilleures-fonctionnalites-deviennent-gratuites-pour-tous-de-quoi-detroner-chatgpt-et-gemini.html",
@@ -85,46 +125,6 @@
       "date": "2026-02-13T02:32:00.000Z",
       "description": "Pendant trois ans, le monde s'est émerveillé devant l'intelligence de ChatGPT... Les Assises de la cybersécurité · PRNewswire · Speak & Act.",
       "excerpt": "Pendant trois ans, le monde s'est émerveillé devant l'intelligence de ChatGPT... Les Assises de la cybersécurité · PRNewswire · Speak & Act.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT intègre l'application de PC Express - Les Affaires",
-      "link": "https://www.lesaffaires.com/bourse/chatgpt-integre-lapplication-de-pc-express/",
-      "url": "https://www.lesaffaires.com/bourse/chatgpt-integre-lapplication-de-pc-express/",
-      "publishedAt": "2026-02-13T01:25:40.000Z",
-      "date": "2026-02-13T01:25:40.000Z",
-      "description": "ChatGPT intègre l'application de PC Express... Pour tout connaitre sur vos droits et obligations… Cybersécurité proactive: pilotage stratégique pour l...",
-      "excerpt": "ChatGPT intègre l'application de PC Express... Pour tout connaitre sur vos droits et obligations… Cybersécurité proactive: pilotage stratégique pour l...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Face à ChatGPT, Anthropic ouvre davantage de fonctionnalités gratuites pour Claude",
-      "link": "https://www.mac4ever.com/ia/194631-face-a-chatgpt-anthropic-ouvre-davantage-de-fonctionnalites-gratuites-pour-claude",
-      "url": "https://www.mac4ever.com/ia/194631-face-a-chatgpt-anthropic-ouvre-davantage-de-fonctionnalites-gratuites-pour-claude",
-      "publishedAt": "2026-02-13T01:04:19.000Z",
-      "date": "2026-02-13T01:04:19.000Z",
-      "description": "Alors que son rival vient de commencer à afficher de la publicité dans ChatGPT pour certains utilisateurs, la start-up derrière Claude prend la...",
-      "excerpt": "Alors que son rival vient de commencer à afficher de la publicité dans ChatGPT pour certains utilisateurs, la start-up derrière Claude prend la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Les premières marques qui testent la publicité dans ChatGPT enfin dévoilées",
-      "link": "https://siecledigital.fr/2026/02/12/publicites-dans-chatgpt-les-premieres-marques-devoilees/",
-      "url": "https://siecledigital.fr/2026/02/12/publicites-dans-chatgpt-les-premieres-marques-devoilees/",
-      "publishedAt": "2026-02-13T00:38:08.000Z",
-      "date": "2026-02-13T00:38:08.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS. Publicité. Marketing... ChatGPT cite Grokipedia:...",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS. Publicité. Marketing... ChatGPT cite Grokipedia:...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT dévoile son Top 3 altcoins: les pépites explosives à ne pas rater en 2026",
-      "link": "https://cryptonaute.fr/chatgpt-top-3-altcoins-pepites-explosives-2026/",
-      "url": "https://cryptonaute.fr/chatgpt-top-3-altcoins-pepites-explosives-2026/",
-      "publishedAt": "2026-02-12T21:00:36.000Z",
-      "date": "2026-02-12T21:00:36.000Z",
-      "description": "Expertise. Bitcoin; Cybersécurité; Régulation cryptos. Accomplissements. Révélé un cas rare de cyberfraude; Rencontre avec de nombreux innovateurs de...",
-      "excerpt": "Expertise. Bitcoin; Cybersécurité; Régulation cryptos. Accomplissements. Révélé un cas rare de cyberfraude; Rencontre avec de nombreux innovateurs de...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
