@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-14T12:27:55.670Z",
+  "generatedAt": "2026-02-14T18:21:20.502Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Boire du lait entier, savourer de la viande rouge et profiter de ChatGPT! | LesNews",
+      "link": "https://lesnews.ca/intelligence-artificielle/boire-du-lait-entier-savourer-de-la-viande-rouge-et-profiter-de-chatgpt/",
+      "url": "https://lesnews.ca/intelligence-artificielle/boire-du-lait-entier-savourer-de-la-viande-rouge-et-profiter-de-chatgpt/",
+      "publishedAt": "2026-02-14T16:06:30.000Z",
+      "date": "2026-02-14T16:06:30.000Z",
+      "description": "Cybersécurité · Informatique · Mobiles · Jeux Vidéos · Digital · Cryptos · Facebook... Un employé des CDC a récemment partagé un e-mail encourageant...",
+      "excerpt": "Cybersécurité · Informatique · Mobiles · Jeux Vidéos · Digital · Cryptos · Facebook... Un employé des CDC a récemment partagé un e-mail encourageant...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cessez d'utiliser ChatGPT avec ses paramètres par défaut - ZDNET",
+      "link": "https://www.zdnet.fr/pratique/cessez-dutiliser-chatgpt-avec-ses-parametres-par-defaut-7-reglages-que-jutilise-pour-en-faire-un-outil-professionnel-490096.htm",
+      "url": "https://www.zdnet.fr/pratique/cessez-dutiliser-chatgpt-avec-ses-parametres-par-defaut-7-reglages-que-jutilise-pour-en-faire-un-outil-professionnel-490096.htm",
+      "publishedAt": "2026-02-14T16:02:05.000Z",
+      "date": "2026-02-14T16:02:05.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... D'un autre côté, ma femme, qui possède son propre compte ChatGPT...",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... D'un autre côté, ma femme, qui possède son propre compte ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le chef IA de Microsoft pense que votre job de bureau n'a plus que 18 mois devant lui",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/microsoft-ne-veut-plus-dependre-de-chatgpt-et-promet-d-automatiser-vos-metiers-sous-18-mois-n251486.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/microsoft-ne-veut-plus-dependre-de-chatgpt-et-promet-d-automatiser-vos-metiers-sous-18-mois-n251486.html",
+      "publishedAt": "2026-02-14T12:14:16.000Z",
+      "date": "2026-02-14T12:14:16.000Z",
+      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (1). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (1). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "La mode des caricatures IA de ChatGPT, une aubaine pour les fraudeurs, alertent des experts",
       "link": "https://fr.euronews.com/next/2026/02/14/la-mode-des-caricatures-ia-de-chatgpt-une-aubaine-pour-les-fraudeurs-alertent-des-experts",
@@ -36,6 +66,16 @@
       "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT déjà en danger de mort? Microsoft veut retirer son soutien à...",
       "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT déjà en danger de mort? Microsoft veut retirer son soutien à...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le GPT-5.2 d'OpenAI découvre une nouvelle formule physique pour les interactions de...",
+      "link": "https://fr.investing.com/news/stock-market-news/le-gpt52-dopenai-decouvre-une-nouvelle-formule-physique-pour-les-interactions-de-gluons-93CH-3272235",
+      "url": "https://fr.investing.com/news/stock-market-news/le-gpt52-dopenai-decouvre-une-nouvelle-formule-physique-pour-les-interactions-de-gluons-93CH-3272235",
+      "publishedAt": "2026-02-13T20:48:11.000Z",
+      "date": "2026-02-13T20:48:11.000Z",
+      "description": "Les chercheurs ont déjà étendu ces découvertes des gluons aux gravitons (particules qui médient la force gravitationnelle) avec l'aide de GPT-5.2,...",
+      "excerpt": "Les chercheurs ont déjà étendu ces découvertes des gluons aux gravitons (particules qui médient la force gravitationnelle) avec l'aide de GPT-5.2,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Avec Bouygues Telecom Pro Intégration, l'opérateur démocratise le SOC et le service managé",
@@ -85,46 +125,6 @@
       "date": "2026-02-13T07:05:50.000Z",
       "description": "Atlantico: Le 5 février dernier, Open AI dévoilait la nouvelle version de ChatGPT, intitulée GPT-5.3-Codex.... GPT-5.2 -Codex avec les capacités...",
       "excerpt": "Atlantico: Le 5 février dernier, Open AI dévoilait la nouvelle version de ChatGPT, intitulée GPT-5.3-Codex.... GPT-5.2 -Codex avec les capacités...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "\"Un scénario à la Facebook\": après le déploiement de la pub, un premier départ chez OpenAI",
-      "link": "https://www.clubic.com/actualite-600187-un-scenario-a-la-facebook-apres-le-deploiement-de-la-pub-un-premier-depart-chez-openai.html",
-      "url": "https://www.clubic.com/actualite-600187-un-scenario-a-la-facebook-apres-le-deploiement-de-la-pub-un-premier-depart-chez-openai.html",
-      "publishedAt": "2026-02-13T06:20:51.000Z",
-      "date": "2026-02-13T06:20:51.000Z",
-      "description": "Zoë Hitzig claque la porte d'OpenAI le 9 février, exactement au moment où les premières publicités s'affichent dans ChatGPT... ChatGPT...",
-      "excerpt": "Zoë Hitzig claque la porte d'OpenAI le 9 février, exactement au moment où les premières publicités s'affichent dans ChatGPT... ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Leboncoin vient-il de ruiner des années d'efforts avec son appli ChatGPT? On leur a posé...",
-      "link": "https://www.numerama.com/cyberguerre/2177379-leboncoin-vient-il-de-ruiner-des-annees-defforts-avec-son-appli-chatgpt-on-leur-a-pose-la-question.html",
-      "url": "https://www.numerama.com/cyberguerre/2177379-leboncoin-vient-il-de-ruiner-des-annees-defforts-avec-son-appli-chatgpt-on-leur-a-pose-la-question.html",
-      "publishedAt": "2026-02-13T06:02:46.000Z",
-      "date": "2026-02-13T06:02:46.000Z",
-      "description": "Dernier jour pour GPT-4o et GPT-5: ChatGPT va faire le grand ménage... Les lunettes de Macron cachent une incroyable leçon de cybersécurité.",
-      "excerpt": "Dernier jour pour GPT-4o et GPT-5: ChatGPT va faire le grand ménage... Les lunettes de Macron cachent une incroyable leçon de cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Hot bots: quand les robots jouent les entremetteurs pour les humains - TradingView",
-      "link": "https://fr.tradingview.com/news/afp:b3a3bb28a671e:0/",
-      "url": "https://fr.tradingview.com/news/afp:b3a3bb28a671e:0/",
-      "publishedAt": "2026-02-13T04:16:47.000Z",
-      "date": "2026-02-13T04:16:47.000Z",
-      "description": "... ChatGPT. Les utilisateurs communiquent avec leur \"agent IA\" via... cybersécurité. -\"Partenaire idéal\"-. Un pseudo-réseau social d'agents...",
-      "excerpt": "... ChatGPT. Les utilisateurs communiquent avec leur \"agent IA\" via... cybersécurité. -\"Partenaire idéal\"-. Un pseudo-réseau social d'agents...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ce que l'IA peut changer en 2026 entre gains de productivité, risques financiers et casse sociale",
-      "link": "https://www.challenges.fr/entreprise/tech-numerique/ce-que-lia-peut-changer-en-2026-entre-gains-de-productivite-risques-financiers-et-casse-sociale_639449",
-      "url": "https://www.challenges.fr/entreprise/tech-numerique/ce-que-lia-peut-changer-en-2026-entre-gains-de-productivite-risques-financiers-et-casse-sociale_639449",
-      "publishedAt": "2026-02-13T02:32:00.000Z",
-      "date": "2026-02-13T02:32:00.000Z",
-      "description": "Pendant trois ans, le monde s'est émerveillé devant l'intelligence de ChatGPT... Les Assises de la cybersécurité · PRNewswire · Speak & Act.",
-      "excerpt": "Pendant trois ans, le monde s'est émerveillé devant l'intelligence de ChatGPT... Les Assises de la cybersécurité · PRNewswire · Speak & Act.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
