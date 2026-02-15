@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-15T12:29:35.404Z",
+  "generatedAt": "2026-02-15T18:23:22.582Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Pourquoi l'abandon de ChatGPT -4o par OpenAI crée un tollé sur les réseaux sociaux",
+      "link": "https://www.clubic.com/actualite-600559-pourquoi-l-abandon-de-chatgpt-4o-par-openai-cree-un-tolle-sur-les-reseaux-sociaux.html",
+      "url": "https://www.clubic.com/actualite-600559-pourquoi-l-abandon-de-chatgpt-4o-par-openai-cree-un-tolle-sur-les-reseaux-sociaux.html",
+      "publishedAt": "2026-02-15T16:16:12.000Z",
+      "date": "2026-02-15T16:16:12.000Z",
+      "description": "OpenAI n'a pas proposé GPT-5 en alternative. L'entreprise a... L'entreprise dit avoir intégré ces retours dans GPT-5.1 et GPT-5.2. Les...",
+      "excerpt": "OpenAI n'a pas proposé GPT-5 en alternative. L'entreprise a... L'entreprise dit avoir intégré ces retours dans GPT-5.1 et GPT-5.2. Les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le revers de la médaille des dessins animés ChatGPT et de la tendance TikTok - KoSSev",
+      "link": "https://kossev.info/fr/tamna-strana-chatgpt-karikatura-i-tiktok-trenda-podeljeni-podaci-ostaju-zauvek-a-kradja-identiteta-sve-cesca/",
+      "url": "https://kossev.info/fr/tamna-strana-chatgpt-karikatura-i-tiktok-trenda-podeljeni-podaci-ostaju-zauvek-a-kradja-identiteta-sve-cesca/",
+      "publishedAt": "2026-02-15T15:24:34.000Z",
+      "date": "2026-02-15T15:24:34.000Z",
+      "description": "Le revers de la médaille des dessins animés ChatGPT et de la tendance TikTok: les... cybersécurité · Intelligence artificielle. Le téléchargement et...",
+      "excerpt": "Le revers de la médaille des dessins animés ChatGPT et de la tendance TikTok: les... cybersécurité · Intelligence artificielle. Le téléchargement et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Nouveautés, incontournables et trésors cachés à découvrir! | LesNews",
+      "link": "https://lesnews.ca/tech/nouveautes-incontournables-et-tresors-caches-a-decouvrir/",
+      "url": "https://lesnews.ca/tech/nouveautes-incontournables-et-tresors-caches-a-decouvrir/",
+      "publishedAt": "2026-02-15T14:32:31.000Z",
+      "date": "2026-02-15T14:32:31.000Z",
+      "description": "Cybersécurité · Informatique · Mobiles · Jeux Vidéos · Digital · Cryptos · Facebook · iA... ChatGPT est l'assistant d'intelligence artificielle qui a...",
+      "excerpt": "Cybersécurité · Informatique · Mobiles · Jeux Vidéos · Digital · Cryptos · Facebook · iA... ChatGPT est l'assistant d'intelligence artificielle qui a...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI a officiellement retiré le modèle controversé GPT-4o.: r/actutech - Reddit",
+      "link": "https://www.reddit.com/r/actutech/comments/1r5bnol/openai_a_officiellement_retir%C3%A9_le_mod%C3%A8le/",
+      "url": "https://www.reddit.com/r/actutech/comments/1r5bnol/openai_a_officiellement_retir%C3%A9_le_mod%C3%A8le/",
+      "publishedAt": "2026-02-15T11:41:51.000Z",
+      "date": "2026-02-15T11:41:51.000Z",
+      "description": "Ce modèle a été abandonné en même temps que GPT-5, GPT-4.1, GPT-4.1 mini et OpenAI o4-mini. Réactions des utilisateurs et restaurations antérieures:...",
+      "excerpt": "Ce modèle a été abandonné en même temps que GPT-5, GPT-4.1, GPT-4.1 mini et OpenAI o4-mini. Réactions des utilisateurs et restaurations antérieures:...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Prédiction d'âge sur ChatGPT, la sécurité passe au crible - ZATAZ",
       "link": "https://www.zataz.com/prediction-dage-sur-chatgpt-la-securite-passe-au-crible/",
@@ -85,46 +125,6 @@
       "date": "2026-02-14T03:26:22.000Z",
       "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT déjà en danger de mort? Microsoft veut retirer son soutien à...",
       "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT déjà en danger de mort? Microsoft veut retirer son soutien à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le GPT-5.2 d'OpenAI découvre une nouvelle formule physique pour les interactions de...",
-      "link": "https://fr.investing.com/news/stock-market-news/le-gpt52-dopenai-decouvre-une-nouvelle-formule-physique-pour-les-interactions-de-gluons-93CH-3272235",
-      "url": "https://fr.investing.com/news/stock-market-news/le-gpt52-dopenai-decouvre-une-nouvelle-formule-physique-pour-les-interactions-de-gluons-93CH-3272235",
-      "publishedAt": "2026-02-13T20:48:11.000Z",
-      "date": "2026-02-13T20:48:11.000Z",
-      "description": "Les chercheurs ont déjà étendu ces découvertes des gluons aux gravitons (particules qui médient la force gravitationnelle) avec l'aide de GPT-5.2,...",
-      "excerpt": "Les chercheurs ont déjà étendu ces découvertes des gluons aux gravitons (particules qui médient la force gravitationnelle) avec l'aide de GPT-5.2,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Avec Bouygues Telecom Pro Intégration, l'opérateur démocratise le SOC et le service managé",
-      "link": "https://www.itforbusiness.fr/avec-bouygues-telecom-pro-integration-loperateur-democratise-le-soc-et-le-service-manage-100349",
-      "url": "https://www.itforbusiness.fr/avec-bouygues-telecom-pro-integration-loperateur-democratise-le-soc-et-le-service-manage-100349",
-      "publishedAt": "2026-02-13T11:31:01.000Z",
-      "date": "2026-02-13T11:31:01.000Z",
-      "description": "ChatGPT passe en mode enquête avec un Deep Research piloté par les sources · Deep Research de ChatGPT passe à GPT-5.2 et devient bien plus gouvernable.",
-      "excerpt": "ChatGPT passe en mode enquête avec un Deep Research piloté par les sources · Deep Research de ChatGPT passe à GPT-5.2 et devient bien plus gouvernable.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude: ses meilleures fonctionnalités deviennent gratuites pour tous, de quoi détrôner...",
-      "link": "https://www.phonandroid.com/claude-ses-meilleures-fonctionnalites-deviennent-gratuites-pour-tous-de-quoi-detroner-chatgpt-et-gemini.html",
-      "url": "https://www.phonandroid.com/claude-ses-meilleures-fonctionnalites-deviennent-gratuites-pour-tous-de-quoi-detroner-chatgpt-et-gemini.html",
-      "publishedAt": "2026-02-13T08:58:10.000Z",
-      "date": "2026-02-13T08:58:10.000Z",
-      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... Si ChatGPT d'OpenAI et Gemini de Google captent majoritairement la...",
-      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... Si ChatGPT d'OpenAI et Gemini de Google captent majoritairement la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Microsoft lâche OpenAI: le divorce tech qui risque de tout faire basculer pour ChatGPT",
-      "link": "https://www.clubic.com/actualite-600379-microsoft-lache-openai-le-divorce-tech-qui-risque-de-tout-faire-basculer-pour-chatgpt.html",
-      "url": "https://www.clubic.com/actualite-600379-microsoft-lache-openai-le-divorce-tech-qui-risque-de-tout-faire-basculer-pour-chatgpt.html",
-      "publishedAt": "2026-02-13T08:47:26.000Z",
-      "date": "2026-02-13T08:47:26.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Chacun prépare son après. ChatGPT ( GPT-5.2 ). Chat dans...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Chacun prépare son après. ChatGPT ( GPT-5.2 ). Chat dans...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
