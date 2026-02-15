@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-14T18:21:20.502Z",
+  "generatedAt": "2026-02-15T01:20:47.617Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "This Valentine's Day, try writing a handwritten love letter. And no, you shouldn't use... - Facebook",
+      "link": "https://www.facebook.com/washingtonpost/photos/this-valentines-day-try-writing-a-handwritten-love-letter-and-no-you-shouldnt-us/1278933317431874/",
+      "url": "https://www.facebook.com/washingtonpost/photos/this-valentines-day-try-writing-a-handwritten-love-letter-and-no-you-shouldnt-us/1278933317431874/",
+      "publishedAt": "2026-02-14T20:00:44.000Z",
+      "date": "2026-02-14T20:00:44.000Z",
+      "description": "This Valentine's Day, try writing a handwritten love letter. And no, you shouldn't use ChatGPT. We have tips to help: https://wapo.st/4qyh7bx.",
+      "excerpt": "This Valentine's Day, try writing a handwritten love letter. And no, you shouldn't use ChatGPT. We have tips to help: https://wapo.st/4qyh7bx.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Boire du lait entier, savourer de la viande rouge et profiter de ChatGPT! | LesNews",
       "link": "https://lesnews.ca/intelligence-artificielle/boire-du-lait-entier-savourer-de-la-viande-rouge-et-profiter-de-chatgpt/",
@@ -115,16 +125,6 @@
       "date": "2026-02-13T08:31:26.000Z",
       "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas...",
       "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Et si le mois de février 2026 venait de marquer un tournant DÉTERMINANT dans l'histoire de l'IA",
-      "link": "https://atlantico.fr/article/decryptage/et-si-le-mois-de-fevrier-2026-venait-de-marquer-un-tournant-determinant-dans-lhistoire-de-lia",
-      "url": "https://atlantico.fr/article/decryptage/et-si-le-mois-de-fevrier-2026-venait-de-marquer-un-tournant-determinant-dans-lhistoire-de-lia",
-      "publishedAt": "2026-02-13T07:05:50.000Z",
-      "date": "2026-02-13T07:05:50.000Z",
-      "description": "Atlantico: Le 5 février dernier, Open AI dévoilait la nouvelle version de ChatGPT, intitulée GPT-5.3-Codex.... GPT-5.2 -Codex avec les capacités...",
-      "excerpt": "Atlantico: Le 5 février dernier, Open AI dévoilait la nouvelle version de ChatGPT, intitulée GPT-5.3-Codex.... GPT-5.2 -Codex avec les capacités...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
