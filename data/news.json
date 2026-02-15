@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-15T06:39:41.811Z",
+  "generatedAt": "2026-02-15T12:29:35.404Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Prédiction d'âge sur ChatGPT, la sécurité passe au crible - ZATAZ",
+      "link": "https://www.zataz.com/prediction-dage-sur-chatgpt-la-securite-passe-au-crible/",
+      "url": "https://www.zataz.com/prediction-dage-sur-chatgpt-la-securite-passe-au-crible/",
+      "publishedAt": "2026-02-15T01:31:22.000Z",
+      "date": "2026-02-15T01:31:22.000Z",
+      "description": "ChatGPT cherche désormais à estimer si un compte pourrait... Enfin, il figure parmi les personnalités les plus influentes dans la cybersécurité...",
+      "excerpt": "ChatGPT cherche désormais à estimer si un compte pourrait... Enfin, il figure parmi les personnalités les plus influentes dans la cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "This Valentine's Day, try writing a handwritten love letter. And no, you shouldn't use... - Facebook",
       "link": "https://www.facebook.com/washingtonpost/photos/this-valentines-day-try-writing-a-handwritten-love-letter-and-no-you-shouldnt-us/1278933317431874/",
@@ -115,16 +125,6 @@
       "date": "2026-02-13T08:47:26.000Z",
       "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Chacun prépare son après. ChatGPT ( GPT-5.2 ). Chat dans...",
       "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Chacun prépare son après. ChatGPT ( GPT-5.2 ). Chat dans...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT pour se soigner? Une étude révèle pourquoi l'interaction humaine fait échouer l'IA",
-      "link": "https://www.zdnet.fr/actualites/chatgpt-pour-se-soigner-une-etude-revele-pourquoi-linteraction-humaine-fait-echouer-lia-490017.htm",
-      "url": "https://www.zdnet.fr/actualites/chatgpt-pour-se-soigner-une-etude-revele-pourquoi-linteraction-humaine-fait-echouer-lia-490017.htm",
-      "publishedAt": "2026-02-13T08:31:26.000Z",
-      "date": "2026-02-13T08:31:26.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas...",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
