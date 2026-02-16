@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-15T18:23:22.582Z",
+  "generatedAt": "2026-02-16T01:17:31.038Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "13 km, 3 heures, 2 700 pilotes: l'Enduropale du Touquet 2026 passe en mode Coupe du monde FIM",
+      "link": "https://larevuetech.fr/13-km-3-heures-2-700-pilotes-lenduropale-du-touquet-2026-passe-en-mode-coupe-du-monde-fim/",
+      "url": "https://larevuetech.fr/13-km-3-heures-2-700-pilotes-lenduropale-du-touquet-2026-passe-en-mode-coupe-du-monde-fim/",
+      "publishedAt": "2026-02-15T20:10:30.000Z",
+      "date": "2026-02-15T20:10:30.000Z",
+      "description": "Cybersécurité · Entreprises · Guide · High-Tech · Marketing · Bien-être... Lire aussi: ChatGPT met Siri au tapis: comment profiter du meilleur...",
+      "excerpt": "Cybersécurité · Entreprises · Guide · High-Tech · Marketing · Bien-être... Lire aussi: ChatGPT met Siri au tapis: comment profiter du meilleur...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Alerte à la fraude: un achat de voiture sous l'emprise de l'IA! | LesNews",
+      "link": "https://lesnews.ca/intelligence-artificielle/alerte-a-la-fraude-un-achat-de-voiture-sous-lemprise-de-lia/",
+      "url": "https://lesnews.ca/intelligence-artificielle/alerte-a-la-fraude-un-achat-de-voiture-sous-lemprise-de-lia/",
+      "publishedAt": "2026-02-15T16:56:03.000Z",
+      "date": "2026-02-15T16:56:03.000Z",
+      "description": "Cybersécurité... Mise à jour du 13 février: Attention: des courriels prétendant provenir d'OpenAI ou de son service ChatGPT circulent actuellement.",
+      "excerpt": "Cybersécurité... Mise à jour du 13 février: Attention: des courriels prétendant provenir d'OpenAI ou de son service ChatGPT circulent actuellement.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Pourquoi l'abandon de ChatGPT -4o par OpenAI crée un tollé sur les réseaux sociaux",
       "link": "https://www.clubic.com/actualite-600559-pourquoi-l-abandon-de-chatgpt-4o-par-openai-cree-un-tolle-sur-les-reseaux-sociaux.html",
@@ -16,6 +36,16 @@
       "description": "OpenAI n'a pas proposé GPT-5 en alternative. L'entreprise a... L'entreprise dit avoir intégré ces retours dans GPT-5.1 et GPT-5.2. Les...",
       "excerpt": "OpenAI n'a pas proposé GPT-5 en alternative. L'entreprise a... L'entreprise dit avoir intégré ces retours dans GPT-5.1 et GPT-5.2. Les...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-4o est de retour mais vous êtes prévenus, l'IA est capable du pire - Les Numériques",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/manipulation-psychologique-gpt-4o-est-de-retour-mais-vous-etes-prevenus-l-ia-est-capable-du-pire-n251528.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/manipulation-psychologique-gpt-4o-est-de-retour-mais-vous-etes-prevenus-l-ia-est-capable-du-pire-n251528.html",
+      "publishedAt": "2026-02-15T16:15:26.000Z",
+      "date": "2026-02-15T16:15:26.000Z",
+      "description": "En août 2025, OpenAI avait déjà tenté de retirer GPT-4o lors du lancement de GPT-5.... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Nassim...",
+      "excerpt": "En août 2025, OpenAI avait déjà tenté de retirer GPT-4o lors du lancement de GPT-5.... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Nassim...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Le revers de la médaille des dessins animés ChatGPT et de la tendance TikTok - KoSSev",
@@ -45,6 +75,16 @@
       "date": "2026-02-15T11:41:51.000Z",
       "description": "Ce modèle a été abandonné en même temps que GPT-5, GPT-4.1, GPT-4.1 mini et OpenAI o4-mini. Réactions des utilisateurs et restaurations antérieures:...",
       "excerpt": "Ce modèle a été abandonné en même temps que GPT-5, GPT-4.1, GPT-4.1 mini et OpenAI o4-mini. Réactions des utilisateurs et restaurations antérieures:...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "En ouvrant ChatGPT à la publicité, OpenAI expose l'IA à des dérives dangereuses",
+      "link": "https://www.tolerance.ca/ArticleExt.aspx?ID=597360&L=en",
+      "url": "https://www.tolerance.ca/ArticleExt.aspx?ID=597360&L=en",
+      "publishedAt": "2026-02-15T04:08:08.000Z",
+      "date": "2026-02-15T04:08:08.000Z",
+      "description": "En ouvrant ChatGPT à la publicité, OpenAI expose l'IA à des dérives dangereuses. (French version only). By Raffaele F Ciriello, Senior Lecturer in...",
+      "excerpt": "En ouvrant ChatGPT à la publicité, OpenAI expose l'IA à des dérives dangereuses. (French version only). By Raffaele F Ciriello, Senior Lecturer in...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
@@ -85,46 +125,6 @@
       "date": "2026-02-14T16:02:05.000Z",
       "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... D'un autre côté, ma femme, qui possède son propre compte ChatGPT...",
       "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... D'un autre côté, ma femme, qui possède son propre compte ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le chef IA de Microsoft pense que votre job de bureau n'a plus que 18 mois devant lui",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/microsoft-ne-veut-plus-dependre-de-chatgpt-et-promet-d-automatiser-vos-metiers-sous-18-mois-n251486.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/microsoft-ne-veut-plus-dependre-de-chatgpt-et-promet-d-automatiser-vos-metiers-sous-18-mois-n251486.html",
-      "publishedAt": "2026-02-14T12:14:16.000Z",
-      "date": "2026-02-14T12:14:16.000Z",
-      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (1). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (1). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "La mode des caricatures IA de ChatGPT, une aubaine pour les fraudeurs, alertent des experts",
-      "link": "https://fr.euronews.com/next/2026/02/14/la-mode-des-caricatures-ia-de-chatgpt-une-aubaine-pour-les-fraudeurs-alertent-des-experts",
-      "url": "https://fr.euronews.com/next/2026/02/14/la-mode-des-caricatures-ia-de-chatgpt-une-aubaine-pour-les-fraudeurs-alertent-des-experts",
-      "publishedAt": "2026-02-14T07:02:02.000Z",
-      "date": "2026-02-14T07:02:02.000Z",
-      "description": "La mode des caricatures IA de ChatGPT, une aubaine pour les fraudeurs, alertent des experts... cybersécurité Jake Moore. Ces informations peuvent...",
-      "excerpt": "La mode des caricatures IA de ChatGPT, une aubaine pour les fraudeurs, alertent des experts... cybersécurité Jake Moore. Ces informations peuvent...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "QuitGPT, le boycott de ChatGPT prend de l'ampleur sur fond de scandale - PhonAndroid",
-      "link": "https://www.phonandroid.com/quitgpt-le-boycott-de-chatgpt-prend-de-lampleur-sur-fond-de-scandale.html",
-      "url": "https://www.phonandroid.com/quitgpt-le-boycott-de-chatgpt-prend-de-lampleur-sur-fond-de-scandale.html",
-      "publishedAt": "2026-02-14T04:31:11.000Z",
-      "date": "2026-02-14T04:31:11.000Z",
-      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT fait face à un boycott inédit lancé par un mouvement baptisé...",
-      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT fait face à un boycott inédit lancé par un mouvement baptisé...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT déjà en danger de mort? Microsoft veut retirer son soutien à OpenAI",
-      "link": "https://www.phonandroid.com/chatgpt-deja-en-danger-de-mort-microsoft-veut-retirer-son-soutien-a-openai.html",
-      "url": "https://www.phonandroid.com/chatgpt-deja-en-danger-de-mort-microsoft-veut-retirer-son-soutien-a-openai.html",
-      "publishedAt": "2026-02-14T03:26:22.000Z",
-      "date": "2026-02-14T03:26:22.000Z",
-      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT déjà en danger de mort? Microsoft veut retirer son soutien à...",
-      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT déjà en danger de mort? Microsoft veut retirer son soutien à...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
