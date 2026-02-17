@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-16T18:31:54.103Z",
+  "generatedAt": "2026-02-17T01:17:01.045Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "La révolution du vibe coding pour les éditeurs de logiciels: “Mes collègues s'appellent...",
+      "link": "https://trends.levif.be/a-la-une/tech/la-revolution-du-vibe-coding-pour-les-editeurs-de-logiciels-mes-collegues-sappellent-claude-chatgpt-et-gemini/",
+      "url": "https://trends.levif.be/a-la-une/tech/la-revolution-du-vibe-coding-pour-les-editeurs-de-logiciels-mes-collegues-sappellent-claude-chatgpt-et-gemini/",
+      "publishedAt": "2026-02-16T18:49:25.000Z",
+      "date": "2026-02-16T18:49:25.000Z",
+      "description": "Le processus s'apparente à l'usage d'un chatbot comme ChatGPT: l'utilisateur formule une requête et reçoit une réponse textuelle.... cybersécurité.",
+      "excerpt": "Le processus s'apparente à l'usage d'un chatbot comme ChatGPT: l'utilisateur formule une requête et reçoit une réponse textuelle.... cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT va passer sous contrôle renforcé de Bruxelles - 01net.com",
       "link": "https://www.01net.com/actualites/chatgpt-va-passer-sous-controle-renforce-de-bruxelles.html",
@@ -35,6 +45,16 @@
       "date": "2026-02-16T12:11:31.000Z",
       "description": "... Devops · Web Design. Digital. DMP · CRM onboarding · Mobile · Publicité · RGPD... ChatGPT d'OpenAI, le Social Search, etc. Les moteurs de recherche...",
       "excerpt": "... Devops · Web Design. Digital. DMP · CRM onboarding · Mobile · Publicité · RGPD... ChatGPT d'OpenAI, le Social Search, etc. Les moteurs de recherche...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'Inde, deuxième marché mondial de ChatGPT, atteint 100 millions d'utilisateurs - Telegrafi",
+      "link": "https://telegrafi.com/fr/india-tregu-i-dyte-me-i-madh-i-chatgpt-ne-bote-arrin-100-milione-perdorues/",
+      "url": "https://telegrafi.com/fr/india-tregu-i-dyte-me-i-madh-i-chatgpt-ne-bote-arrin-100-milione-perdorues/",
+      "publishedAt": "2026-02-16T11:59:29.000Z",
+      "date": "2026-02-16T11:59:29.000Z",
+      "description": "Altman a décrit la croissance fulgurante de ChatGPT en Inde dans un article publié dans le quotidien... Cybersécurité · Vie intelligente · Sport.",
+      "excerpt": "Altman a décrit la croissance fulgurante de ChatGPT en Inde dans un article publié dans le quotidien... Cybersécurité · Vie intelligente · Sport.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -105,26 +125,6 @@
       "date": "2026-02-16T06:42:44.000Z",
       "description": "ChatGPT a commencé la semaine dernière à tester l'intégration de... Cybersécurité: un impératif stratégique dans les marchés privés. Articles...",
       "excerpt": "ChatGPT a commencé la semaine dernière à tester l'intégration de... Cybersécurité: un impératif stratégique dans les marchés privés. Articles...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "13 km, 3 heures, 2 700 pilotes: l'Enduropale du Touquet 2026 passe en mode Coupe du monde FIM",
-      "link": "https://larevuetech.fr/13-km-3-heures-2-700-pilotes-lenduropale-du-touquet-2026-passe-en-mode-coupe-du-monde-fim/",
-      "url": "https://larevuetech.fr/13-km-3-heures-2-700-pilotes-lenduropale-du-touquet-2026-passe-en-mode-coupe-du-monde-fim/",
-      "publishedAt": "2026-02-15T20:10:30.000Z",
-      "date": "2026-02-15T20:10:30.000Z",
-      "description": "Cybersécurité · Entreprises · Guide · High-Tech · Marketing · Bien-être... Lire aussi: ChatGPT met Siri au tapis: comment profiter du meilleur...",
-      "excerpt": "Cybersécurité · Entreprises · Guide · High-Tech · Marketing · Bien-être... Lire aussi: ChatGPT met Siri au tapis: comment profiter du meilleur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Alerte à la fraude: un achat de voiture sous l'emprise de l'IA! | LesNews",
-      "link": "https://lesnews.ca/intelligence-artificielle/alerte-a-la-fraude-un-achat-de-voiture-sous-lemprise-de-lia/",
-      "url": "https://lesnews.ca/intelligence-artificielle/alerte-a-la-fraude-un-achat-de-voiture-sous-lemprise-de-lia/",
-      "publishedAt": "2026-02-15T16:56:03.000Z",
-      "date": "2026-02-15T16:56:03.000Z",
-      "description": "Cybersécurité... Mise à jour du 13 février: Attention: des courriels prétendant provenir d'OpenAI ou de son service ChatGPT circulent actuellement.",
-      "excerpt": "Cybersécurité... Mise à jour du 13 février: Attention: des courriels prétendant provenir d'OpenAI ou de son service ChatGPT circulent actuellement.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
