@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-18T12:39:46.729Z",
+  "generatedAt": "2026-02-18T18:40:01.532Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le système de recommandations des IA fait n'importe quoi et c'est énorme problème pour... - Clubic",
+      "link": "https://www.clubic.com/actualite-601030-le-systeme-de-recommandations-des-ia-fait-n-importe-quoi-et-c-est-enorme-probleme-pour-les-marques.html",
+      "url": "https://www.clubic.com/actualite-601030-le-systeme-de-recommandations-des-ia-fait-n-importe-quoi-et-c-est-enorme-probleme-pour-les-marques.html",
+      "publishedAt": "2026-02-18T16:47:11.000Z",
+      "date": "2026-02-18T16:47:11.000Z",
+      "description": "Une étude publiée tout récemment par Rand Fishkin et Gumshoe.ai le documente après 3 000 réponses collectées sur ChatGPT, Claude et Google AI.",
+      "excerpt": "Une étude publiée tout récemment par Rand Fishkin et Gumshoe.ai le documente après 3 000 réponses collectées sur ChatGPT, Claude et Google AI.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Il n'y aura finalement pas de pub dans Perplexity - 01net.com",
+      "link": "https://www.01net.com/actualites/il-ny-aura-finalement-pas-de-pub-dans-perplexity.html",
+      "url": "https://www.01net.com/actualites/il-ny-aura-finalement-pas-de-pub-dans-perplexity.html",
+      "publishedAt": "2026-02-18T16:24:09.000Z",
+      "date": "2026-02-18T16:24:09.000Z",
+      "description": "... ChatGPT... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences · Tests · Smartphone & mobile · Tablette et liseuse...",
+      "excerpt": "... ChatGPT... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences · Tests · Smartphone & mobile · Tablette et liseuse...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Anthropic lance Claude 4.6 Sonnet: va-t-il réussir à rattraper ChatGPT et Google",
+      "link": "https://www.numerama.com/tech/2182103-anthropic-lance-claude-4-6-sonnet-va-t-il-reussir-a-rattraper-chatgpt-et-google.html",
+      "url": "https://www.numerama.com/tech/2182103-anthropic-lance-claude-4-6-sonnet-va-t-il-reussir-a-rattraper-chatgpt-et-google.html",
+      "publishedAt": "2026-02-18T15:49:32.000Z",
+      "date": "2026-02-18T15:49:32.000Z",
+      "description": "Sur les benchmarks publiés par Anthropic, Claude Sonnet 4.6 fait mieux que GPT-5.2... Dernier jour pour GPT-4o et GPT-5: ChatGPT va faire le grand...",
+      "excerpt": "Sur les benchmarks publiés par Anthropic, Claude Sonnet 4.6 fait mieux que GPT-5.2... Dernier jour pour GPT-4o et GPT-5: ChatGPT va faire le grand...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Espagne: cinq jeunes Marocains périssent dans un incendie en Catalogne - Lematin.ma",
+      "link": "https://lematin.ma/societe/espagne-cinq-jeunes-marocains-perissent-dans-un-incendie-en-catalogne/330474/amp",
+      "url": "https://lematin.ma/societe/espagne-cinq-jeunes-marocains-perissent-dans-un-incendie-en-catalogne/330474/amp",
+      "publishedAt": "2026-02-18T10:05:51.000Z",
+      "date": "2026-02-18T10:05:51.000Z",
+      "description": "Santé et IA: « ChatGPT Health» face au défi de la confiance médicale.",
+      "excerpt": "Santé et IA: « ChatGPT Health» face au défi de la confiance médicale.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Comment le nouveau mode de verrouillage de ChatGPT peut empêcher l'injection de prompts",
       "link": "https://www.zdnet.fr/actualites/comment-le-nouveau-mode-de-verrouillage-de-chatgpt-peut-empecher-linjection-de-prompts-490341.htm",
@@ -85,46 +125,6 @@
       "date": "2026-02-17T14:42:56.000Z",
       "description": "La mode des caricatures IA de ChatGPT, une aubaine pour les fraudeurs, alertent des experts... cybersécurité. Les personnes qui dorment sur le côté ont...",
       "excerpt": "La mode des caricatures IA de ChatGPT, une aubaine pour les fraudeurs, alertent des experts... cybersécurité. Les personnes qui dorment sur le côté ont...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ca y est, OpenAI a tué GPT-4o... et des milliers d'utilisateurs se révoltent - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/ca-y-est-openai-a-tue-gpt-4o-et-des-milliers-dutilisateurs-se-revoltent",
-      "url": "https://www.lebigdata.fr/ca-y-est-openai-a-tue-gpt-4o-et-des-milliers-dutilisateurs-se-revoltent",
-      "publishedAt": "2026-02-17T13:29:19.000Z",
-      "date": "2026-02-17T13:29:19.000Z",
-      "description": "... ChatGPT. Officiellement, OpenAI assure que 99,9 % des utilisateurs sont déjà passés à GPT-5.2.... GPT-5. À l'époque, une vague de protestations...",
-      "excerpt": "... ChatGPT. Officiellement, OpenAI assure que 99,9 % des utilisateurs sont déjà passés à GPT-5.2.... GPT-5. À l'époque, une vague de protestations...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "01net morning: le jailbreak d'un F-35 aussi facile qu'un iPhone, une keynote Apple début...",
-      "link": "https://www.01net.com/actualites/01net-morning-le-jailbreak-dun-f-35-aussi-facile-quun-iphone-une-keynote-apple-debut-mars-bruxelles-surveille-chatgpt.html",
-      "url": "https://www.01net.com/actualites/01net-morning-le-jailbreak-dun-f-35-aussi-facile-quun-iphone-une-keynote-apple-debut-mars-bruxelles-surveille-chatgpt.html",
-      "publishedAt": "2026-02-17T12:30:42.000Z",
-      "date": "2026-02-17T12:30:42.000Z",
-      "description": "01net morning: le jailbreak d'un F-35 aussi facile qu'un iPhone, une keynote Apple début mars, Bruxelles surveille ChatGPT... Cybersécurité...",
-      "excerpt": "01net morning: le jailbreak d'un F-35 aussi facile qu'un iPhone, une keynote Apple début mars, Bruxelles surveille ChatGPT... Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "' ChatGPT et Gemini respectent mieux la loi que les juges': mais sont-ils pour autant équitables?",
-      "link": "https://datanews.levif.be/actualite/innovation/ai-robotique/chatgpt-et-gemini-respectent-mieux-la-loi-que-les-juges-mais-sont-ils-pour-autant-equitables/",
-      "url": "https://datanews.levif.be/actualite/innovation/ai-robotique/chatgpt-et-gemini-respectent-mieux-la-loi-que-les-juges-mais-sont-ils-pour-autant-equitables/",
-      "publishedAt": "2026-02-17T11:50:51.000Z",
-      "date": "2026-02-17T11:50:51.000Z",
-      "description": "' ChatGPT et Gemini respectent mieux la loi que les juges': mais sont... La firme de cybersécurité Stoïk prend de l'ampleur en Belgique. 11:19.",
-      "excerpt": "' ChatGPT et Gemini respectent mieux la loi que les juges': mais sont... La firme de cybersécurité Stoïk prend de l'ampleur en Belgique. 11:19.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Open AI engage le créateur d'OpenClaw, Peter Steinberger - Datanews Vif",
-      "link": "https://datanews.levif.be/carriere/c-level/open-ai-engage-le-createur-dopenclaw-peter-steinberger/",
-      "url": "https://datanews.levif.be/carriere/c-level/open-ai-engage-le-createur-dopenclaw-peter-steinberger/",
-      "publishedAt": "2026-02-17T11:49:28.000Z",
-      "date": "2026-02-17T11:49:28.000Z",
-      "description": "Sa particularité réside dans son intégration fluide avec la quasi-totalité des principaux chatbots d'IA, tels que ChatGPT... La firme de cybersécurité...",
-      "excerpt": "Sa particularité réside dans son intégration fluide avec la quasi-totalité des principaux chatbots d'IA, tels que ChatGPT... La firme de cybersécurité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
