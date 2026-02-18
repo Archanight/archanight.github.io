@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-18T06:51:41.293Z",
+  "generatedAt": "2026-02-18T12:39:46.729Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Comment le nouveau mode de verrouillage de ChatGPT peut empêcher l'injection de prompts",
+      "link": "https://www.zdnet.fr/actualites/comment-le-nouveau-mode-de-verrouillage-de-chatgpt-peut-empecher-linjection-de-prompts-490341.htm",
+      "url": "https://www.zdnet.fr/actualites/comment-le-nouveau-mode-de-verrouillage-de-chatgpt-peut-empecher-linjection-de-prompts-490341.htm",
+      "publishedAt": "2026-02-18T08:31:27.000Z",
+      "date": "2026-02-18T08:31:27.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... C'est pourquoi il est disponible pour ChatGPT Enterprise, ChatGPT...",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... C'est pourquoi il est disponible pour ChatGPT Enterprise, ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "« On repère tout de suite les lettres générées avec ChatGPT »: comment sortir du lot et...",
+      "link": "https://www.challenges.fr/grandes-ecoles/on-repere-tout-de-suite-les-lettres-generees-avec-chatgpt-comment-sortir-du-lot-et-seduire-les-masters-eco-gestion-les-plus-en-vue_639884",
+      "url": "https://www.challenges.fr/grandes-ecoles/on-repere-tout-de-suite-les-lettres-generees-avec-chatgpt-comment-sortir-du-lot-et-seduire-les-masters-eco-gestion-les-plus-en-vue_639884",
+      "publishedAt": "2026-02-18T08:01:43.000Z",
+      "date": "2026-02-18T08:01:43.000Z",
+      "description": "Il faut aussi garder en tête que l'on repère tout de suite les lettres générées avec ChatGPT.... Les Assises de la cybersécurité · PRNewswire · Speak &...",
+      "excerpt": "Il faut aussi garder en tête que l'on repère tout de suite les lettres générées avec ChatGPT.... Les Assises de la cybersécurité · PRNewswire · Speak &...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Urgence cybersécurité: l'Europe coupe l'accès à l'IA! - Génération NT",
       "link": "https://www.generation-nt.com/actualites/parlement-europeen-ia-securite-donnees-cybersecurite-cloud-2070930/amp",
@@ -58,6 +78,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "La mode des caricatures IA de ChatGPT, une aubaine pour les fraudeurs, alertent des experts - MSN",
+      "link": "https://www.msn.com/fr-be/actualite/other/la-mode-des-caricatures-ia-de-chatgpt-une-aubaine-pour-les-fraudeurs-alertent-des-experts/ar-AA1Wkvny?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "url": "https://www.msn.com/fr-be/actualite/other/la-mode-des-caricatures-ia-de-chatgpt-une-aubaine-pour-les-fraudeurs-alertent-des-experts/ar-AA1Wkvny?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "publishedAt": "2026-02-17T14:42:56.000Z",
+      "date": "2026-02-17T14:42:56.000Z",
+      "description": "La mode des caricatures IA de ChatGPT, une aubaine pour les fraudeurs, alertent des experts... cybersécurité. Les personnes qui dorment sur le côté ont...",
+      "excerpt": "La mode des caricatures IA de ChatGPT, une aubaine pour les fraudeurs, alertent des experts... cybersécurité. Les personnes qui dorment sur le côté ont...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Ca y est, OpenAI a tué GPT-4o... et des milliers d'utilisateurs se révoltent - lebigdata.fr",
       "link": "https://www.lebigdata.fr/ca-y-est-openai-a-tue-gpt-4o-et-des-milliers-dutilisateurs-se-revoltent",
       "url": "https://www.lebigdata.fr/ca-y-est-openai-a-tue-gpt-4o-et-des-milliers-dutilisateurs-se-revoltent",
@@ -95,36 +125,6 @@
       "date": "2026-02-17T11:49:28.000Z",
       "description": "Sa particularité réside dans son intégration fluide avec la quasi-totalité des principaux chatbots d'IA, tels que ChatGPT... La firme de cybersécurité...",
       "excerpt": "Sa particularité réside dans son intégration fluide avec la quasi-totalité des principaux chatbots d'IA, tels que ChatGPT... La firme de cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic: des tensions avec le Pentagone - Fortuneo Bourse",
-      "link": "https://bourse.fortuneo.fr/actualites-amp/anthropic-des-tensions-avec-le-pentagone-8458985",
-      "url": "https://bourse.fortuneo.fr/actualites-amp/anthropic-des-tensions-avec-le-pentagone-8458985",
-      "publishedAt": "2026-02-17T10:08:39.000Z",
-      "date": "2026-02-17T10:08:39.000Z",
-      "description": "... cybersécurité. \"Anthropic s'engage à utiliser l'IA de pointe au service de la sécurité nationale américaine\", a déclaré un porte-parole cité par...",
-      "excerpt": "... cybersécurité. \"Anthropic s'engage à utiliser l'IA de pointe au service de la sécurité nationale américaine\", a déclaré un porte-parole cité par...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI a officiellement retiré ChatGPT -4o: pourquoi la décision fait polémique",
-      "link": "https://idealogeek.fr/openai-a-officiellement-retire-chatgpt-4o-pourquoi-la-decision-fait-polemique/",
-      "url": "https://idealogeek.fr/openai-a-officiellement-retire-chatgpt-4o-pourquoi-la-decision-fait-polemique/",
-      "publishedAt": "2026-02-17T07:47:52.000Z",
-      "date": "2026-02-17T07:47:52.000Z",
-      "description": "OpenAI met fin à ChatGPT -4o pour se concentrer sur GPT-5. On analyse... GPT-5.2. OpenAI avance également un argument chiffré: seuls 0,1...",
-      "excerpt": "OpenAI met fin à ChatGPT -4o pour se concentrer sur GPT-5. On analyse... GPT-5.2. OpenAI avance également un argument chiffré: seuls 0,1...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La révolution du vibe coding pour les éditeurs de logiciels: “Mes collègues s'appellent...",
-      "link": "https://trends.levif.be/a-la-une/tech/la-revolution-du-vibe-coding-pour-les-editeurs-de-logiciels-mes-collegues-sappellent-claude-chatgpt-et-gemini/",
-      "url": "https://trends.levif.be/a-la-une/tech/la-revolution-du-vibe-coding-pour-les-editeurs-de-logiciels-mes-collegues-sappellent-claude-chatgpt-et-gemini/",
-      "publishedAt": "2026-02-16T18:49:25.000Z",
-      "date": "2026-02-16T18:49:25.000Z",
-      "description": "Le processus s'apparente à l'usage d'un chatbot comme ChatGPT: l'utilisateur formule une requête et reçoit une réponse textuelle.... cybersécurité.",
-      "excerpt": "Le processus s'apparente à l'usage d'un chatbot comme ChatGPT: l'utilisateur formule une requête et reçoit une réponse textuelle.... cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
