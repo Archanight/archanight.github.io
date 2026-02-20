@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-20T06:43:10.469Z",
+  "generatedAt": "2026-02-20T12:36:59.656Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -68,6 +68,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Les Digiteurs - ia # cybersécurité # chatgpt - LinkedIn",
+      "link": "https://fr.linkedin.com/posts/les-digiteurs_ia-cybers%C3%A9curit%C3%A9-chatgpt-activity-7430212083625005056-wi21",
+      "url": "https://fr.linkedin.com/posts/les-digiteurs_ia-cybers%C3%A9curit%C3%A9-chatgpt-activity-7430212083625005056-wi21",
+      "publishedAt": "2026-02-19T14:33:31.000Z",
+      "date": "2026-02-19T14:33:31.000Z",
+      "description": "... Cybersécurité organisé avec la CCI Paris à Wacano. Introduction avec... ChatGPT: Matthieu Fouchard & Martin Signoux – OpenAI ➡️ État...",
+      "excerpt": "... Cybersécurité organisé avec la CCI Paris à Wacano. Introduction avec... ChatGPT: Matthieu Fouchard & Martin Signoux – OpenAI ➡️ État...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "\"Je ne savais pas ce qu'on était censé faire\": au sommet mondial de l'IA, Altman et Amodei...",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/je-ne-savais-pas-ce-qu-on-etait-cense-faire-au-sommet-mondial-de-l-ia-altman-et-amodei-refusent-de-se-tenir-la-main-devant-modi-n251716.html",
       "url": "https://www.lesnumeriques.com/intelligence-artificielle/je-ne-savais-pas-ce-qu-on-etait-cense-faire-au-sommet-mondial-de-l-ia-altman-et-amodei-refusent-de-se-tenir-la-main-devant-modi-n251716.html",
@@ -116,16 +126,6 @@
       "description": "JioHotstar has joined forces with OpenAI to bring a ChatGPT... Secret Stories: Roslin: Release Date, Plot, Cast, Everything We Know So...",
       "excerpt": "JioHotstar has joined forces with OpenAI to bring a ChatGPT... Secret Stories: Roslin: Release Date, Plot, Cast, Everything We Know So...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Le groupe Tata va déployer ChatGPT Enterprise dans l'ensemble de l'entreprise, selon OpenAI",
-      "link": "https://www.zonebourse.com/actualite-bourse/le-groupe-tata-va-deployer-chatgpt-enterprise-dans-l-ensemble-de-l-entreprise-selon-openai-ce7e5ddfdd8cf525",
-      "url": "https://www.zonebourse.com/actualite-bourse/le-groupe-tata-va-deployer-chatgpt-enterprise-dans-l-ensemble-de-l-entreprise-selon-openai-ce7e5ddfdd8cf525",
-      "publishedAt": "2026-02-19T09:08:30.000Z",
-      "date": "2026-02-19T09:08:30.000Z",
-      "description": "Cybersécurité · Animaux de compagnie · Semi-conducteurs · Faites vos jeux... Le groupe Tata va déployer ChatGPT Enterprise dans l'ensemble de l'...",
-      "excerpt": "Cybersécurité · Animaux de compagnie · Semi-conducteurs · Faites vos jeux... Le groupe Tata va déployer ChatGPT Enterprise dans l'ensemble de l'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
