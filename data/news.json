@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-20T18:50:07.445Z",
+  "generatedAt": "2026-02-20T19:12:35.332Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "« Une superintelligence ferait mieux que moi »: le constat choc du créateur de ChatGPT sur...",
+      "link": "https://www.01net.com/actualites/une-superintelligence-ferait-mieux-que-moi-le-constat-choc-de-sam-altman-sur-nos-emplois.html",
+      "url": "https://www.01net.com/actualites/une-superintelligence-ferait-mieux-que-moi-le-constat-choc-de-sam-altman-sur-nos-emplois.html",
+      "publishedAt": "2026-02-20T19:03:08.000Z",
+      "date": "2026-02-20T19:03:08.000Z",
+      "description": "« Une superintelligence ferait mieux que moi »: le constat choc du créateur de ChatGPT sur nos emplois... Cybersécurité · Société · Télécoms · Auto...",
+      "excerpt": "« Une superintelligence ferait mieux que moi »: le constat choc du créateur de ChatGPT sur nos emplois... Cybersécurité · Société · Télécoms · Auto...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Derrière ChatGPT, une mécanique très anglophone qui pénalise les entreprises européennes",
       "link": "https://siecledigital.fr/2026/02/19/chatgpt-privilegie-langlais-meme-pour-vos-recherches-locales/",
@@ -115,16 +125,6 @@
       "date": "2026-02-19T15:07:51.000Z",
       "description": "En parallèle, le mouvement QuitGPT incite à boycotter ChatGPT, OpenAI étant jugé à la solde de Washington.... cybersécurité, intelligence artificielle...",
       "excerpt": "En parallèle, le mouvement QuitGPT incite à boycotter ChatGPT, OpenAI étant jugé à la solde de Washington.... cybersécurité, intelligence artificielle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Énième fuite de données en France: le syndicat CFDT a été piraté, les informations des...",
-      "link": "https://www.01net.com/actualites/enieme-fuite-donnees-france-syndicat-cfdt-pirate-informations-adherents-volees.html",
-      "url": "https://www.01net.com/actualites/enieme-fuite-donnees-france-syndicat-cfdt-pirate-informations-adherents-volees.html",
-      "publishedAt": "2026-02-19T15:04:12.000Z",
-      "date": "2026-02-19T15:04:12.000Z",
-      "description": "Cybersécurité · Enedis Linky Attention. Arnaque Enedis: attention à ce... Fuite Données Identifiants Mots Passe © 01net avec ChatGPT. La CFDT...",
-      "excerpt": "Cybersécurité · Enedis Linky Attention. Arnaque Enedis: attention à ce... Fuite Données Identifiants Mots Passe © 01net avec ChatGPT. La CFDT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
