@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-21T06:31:05.586Z",
+  "generatedAt": "2026-02-21T12:27:48.384Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Apple iOS 26.4: ChatGPT, Claude et Gemini débarquent sur CarPlay au printemps",
+      "link": "https://www.carnetdebord.info/apple-ios-26-4-chatgpt-claude-et-gemini-debarquent-sur-carplay-au-printemps/",
+      "url": "https://www.carnetdebord.info/apple-ios-26-4-chatgpt-claude-et-gemini-debarquent-sur-carplay-au-printemps/",
+      "publishedAt": "2026-02-21T06:54:54.000Z",
+      "date": "2026-02-21T06:54:54.000Z",
+      "description": "Contrairement à Siri, ces nouveaux chatbots sont capables de conversations plus nuancées et contextuelles. Par exemple, si tu demandes à ChatGPT de te...",
+      "excerpt": "Contrairement à Siri, ces nouveaux chatbots sont capables de conversations plus nuancées et contextuelles. Par exemple, si tu demandes à ChatGPT de te...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Une enceinte connectée sous ChatGPT et designée par Jony Ive: voici le premier appareil...",
+      "link": "https://www.phonandroid.com/une-enceinte-connectee-sous-chatgpt-et-designee-par-jony-ive-voici-le-premier-appareil-developpe-par-openai.html",
+      "url": "https://www.phonandroid.com/une-enceinte-connectee-sous-chatgpt-et-designee-par-jony-ive-voici-le-premier-appareil-developpe-par-openai.html",
+      "publishedAt": "2026-02-21T06:32:53.000Z",
+      "date": "2026-02-21T06:32:53.000Z",
+      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... Une enceinte connectée sous ChatGPT et designée par Jony Ive: voici le...",
+      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... Une enceinte connectée sous ChatGPT et designée par Jony Ive: voici le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI: et si le premier appareil IA avec Jony Ive était… une enceinte connectée?",
       "link": "https://www.01net.com/actualites/openai-et-si-le-premier-appareil-ia-avec-jony-ive-etait-une-enceinte-connectee.html",
@@ -105,26 +125,6 @@
       "date": "2026-02-20T14:01:10.000Z",
       "description": "Ces nouveaux capitaux serviront principalement au créateur de ChatGPT pour acheter des puces à Nvidia, selon Reuters. L'action Blue Owl Capital chute...",
       "excerpt": "Ces nouveaux capitaux serviront principalement au créateur de ChatGPT pour acheter des puces à Nvidia, selon Reuters. L'action Blue Owl Capital chute...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google déploie Gemini 3.1 Pro sur Vertex AI avec une fenêtre de contexte d'un million de jetons",
-      "link": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/google-deploie-gemini-3-1-pro-sur-vertex-ai-avec-une-fenetre-de-contexte-dun-million-de-jetons/",
-      "url": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/google-deploie-gemini-3-1-pro-sur-vertex-ai-avec-une-fenetre-de-contexte-dun-million-de-jetons/",
-      "publishedAt": "2026-02-20T13:15:18.000Z",
-      "date": "2026-02-20T13:15:18.000Z",
-      "description": "... GPT-5.2 (OpenAI). L'écart de 8,3 points sur... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "excerpt": "... GPT-5.2 (OpenAI). L'écart de 8,3 points sur... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT, Grok, Gemini... cette simple question ridiculise les meilleures IA - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/chatgpt-grok-gemini-cette-simple-question-ridiculise-les-meilleures-ia",
-      "url": "https://www.lebigdata.fr/chatgpt-grok-gemini-cette-simple-question-ridiculise-les-meilleures-ia",
-      "publishedAt": "2026-02-20T09:37:43.000Z",
-      "date": "2026-02-20T09:37:43.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data... GPT-5.2 Thinking et Claude Sonnet 4.6 tombent tête la première dans le...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data... GPT-5.2 Thinking et Claude Sonnet 4.6 tombent tête la première dans le...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
