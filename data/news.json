@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-21T01:11:49.039Z",
+  "generatedAt": "2026-02-21T06:31:05.586Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI: et si le premier appareil IA avec Jony Ive était… une enceinte connectée?",
+      "link": "https://www.01net.com/actualites/openai-et-si-le-premier-appareil-ia-avec-jony-ive-etait-une-enceinte-connectee.html",
+      "url": "https://www.01net.com/actualites/openai-et-si-le-premier-appareil-ia-avec-jony-ive-etait-une-enceinte-connectee.html",
+      "publishedAt": "2026-02-21T01:10:44.000Z",
+      "date": "2026-02-21T01:10:44.000Z",
+      "description": "OpenAI compte bien suivre cette maxime: le créateur de ChatGPT planche... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
+      "excerpt": "OpenAI compte bien suivre cette maxime: le créateur de ChatGPT planche... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "« Une superintelligence ferait mieux que moi »: le constat choc du créateur de ChatGPT sur...",
       "link": "https://www.01net.com/actualites/une-superintelligence-ferait-mieux-que-moi-le-constat-choc-de-sam-altman-sur-nos-emplois.html",
@@ -115,16 +125,6 @@
       "date": "2026-02-20T09:37:43.000Z",
       "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data... GPT-5.2 Thinking et Claude Sonnet 4.6 tombent tête la première dans le...",
       "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data... GPT-5.2 Thinking et Claude Sonnet 4.6 tombent tête la première dans le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT se dote d'une fonction « lockdown » pour la protection des profils à risque",
-      "link": "https://itdaily.fr/nouvelles/securite/chatgpt-lockdown-protection/",
-      "url": "https://itdaily.fr/nouvelles/securite/chatgpt-lockdown-protection/",
-      "publishedAt": "2026-02-19T15:56:08.000Z",
-      "date": "2026-02-19T15:56:08.000Z",
-      "description": "ChatGPT se dote d'une... Cloudflare et Mastercard unissent leurs forces pour la cybersécurité des PME et des infrastructures critiques.",
-      "excerpt": "ChatGPT se dote d'une... Cloudflare et Mastercard unissent leurs forces pour la cybersécurité des PME et des infrastructures critiques.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
