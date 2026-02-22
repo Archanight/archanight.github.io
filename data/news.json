@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-21T18:22:03.517Z",
+  "generatedAt": "2026-02-22T01:17:09.804Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -8,14 +8,34 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Tuerie de Tumbler Ridge: OpenAI n'a pas fait part de ses inquiétudes - Les Affaires",
+      "link": "https://www.lesaffaires.com/bourse/tumbler-ridge-openai-aurait-eu-des-signaux-dalarme-sans-informer-la-grc/",
+      "url": "https://www.lesaffaires.com/bourse/tumbler-ridge-openai-aurait-eu-des-signaux-dalarme-sans-informer-la-grc/",
+      "publishedAt": "2026-02-21T22:45:08.000Z",
+      "date": "2026-02-21T22:45:08.000Z",
+      "description": "Or, l'entreprise n'a fait aucune mention de ses inquiétudes concernant les interactions en ligne de la tireuse avec son agent conversationnel ChatGPT.",
+      "excerpt": "Or, l'entreprise n'a fait aucune mention de ses inquiétudes concernant les interactions en ligne de la tireuse avec son agent conversationnel ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Pourquoi ChatGPT, Gemini et Claude racontent n'importe quoi quand la discussion dure...",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/pourquoi-chatgpt-gemini-et-claude-racontent-n-importe-quoi-quand-la-discussion-dure-trop-longtemps-n251817.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/pourquoi-chatgpt-gemini-et-claude-racontent-n-importe-quoi-quand-la-discussion-dure-trop-longtemps-n251817.html",
+      "publishedAt": "2026-02-21T18:07:55.000Z",
+      "date": "2026-02-21T18:07:55.000Z",
+      "description": "Vous connaissez tous et toutes ça. On lance une session sur ChatGPT, Gemini ou Claude. La discussion s'étire et puis l'IA se met à ne plus suivre...",
+      "excerpt": "Vous connaissez tous et toutes ça. On lance une session sur ChatGPT, Gemini ou Claude. La discussion s'étire et puis l'IA se met à ne plus suivre...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Une onzième plainte contre ChatGPT pour \"psychose liée à l'IA\" fait les choux gras d'un...",
       "link": "https://www.clubic.com/actualite-601576-une-onzieme-plainte-contre-chatgpt-pour-psychose-liee-a-l-ia-fait-les-choux-gras-d-un-cabinet-d-avocats.html",
       "url": "https://www.clubic.com/actualite-601576-une-onzieme-plainte-contre-chatgpt-pour-psychose-liee-a-l-ia-fait-les-choux-gras-d-un-cabinet-d-avocats.html",
       "publishedAt": "2026-02-21T17:32:39.000Z",
       "date": "2026-02-21T17:32:39.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Il y a un an encore, Darian DeCruise, 21 ans, étudiant en pré-médecine,...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Il y a un an encore, Darian DeCruise, 21 ans, étudiant en pré-médecine,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "description": "... ChatGPT comme tout le monde, pour les devoirs, du coaching sportif... OpenAI a d'ailleurs reconnu, dans ses propres publications, que GPT-4o...",
+      "excerpt": "... ChatGPT comme tout le monde, pour les devoirs, du coaching sportif... OpenAI a d'ailleurs reconnu, dans ses propres publications, que GPT-4o...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Vous utilisez l'IA pour générer vos mots de passe? C'est une très mauvaise idée - Clubic",
@@ -106,26 +126,6 @@
       "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS. Publicité. Intelligence artificielle... ChatGPT...",
       "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS. Publicité. Intelligence artificielle... ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Chrome: 300 000 utilisateurs piégés par de fausses extensions IA qui volent leurs données",
-      "link": "https://mcetv.ouest-france.fr/2026/chrome-300-000-utilisateurs-pieges-par-de-fausses-extensions-ia-qui-volent-leurs-donnees-2026/",
-      "url": "https://mcetv.ouest-france.fr/2026/chrome-300-000-utilisateurs-pieges-par-de-fausses-extensions-ia-qui-volent-leurs-donnees-2026/",
-      "publishedAt": "2026-02-20T16:54:10.000Z",
-      "date": "2026-02-20T16:54:10.000Z",
-      "description": "Les cybercriminels usurpaient simplement les noms de services reconnus comme Gemini, ChatGPT ou Grok. Par conséquent, la confiance des internautes...",
-      "excerpt": "Les cybercriminels usurpaient simplement les noms de services reconnus comme Gemini, ChatGPT ou Grok. Par conséquent, la confiance des internautes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google Gemini 3.1 Pro: qu'est-ce que le nouveau modèle apporte? - IGN France",
-      "link": "https://fr.ign.com/google-gemini/85677/news/google-gemini-31-pro-quest-ce-que-le-nouveau-modele-apporte",
-      "url": "https://fr.ign.com/google-gemini/85677/news/google-gemini-31-pro-quest-ce-que-le-nouveau-modele-apporte",
-      "publishedAt": "2026-02-20T16:38:20.000Z",
-      "date": "2026-02-20T16:38:20.000Z",
-      "description": "Par Andy R. Mis à jour le: 20 février 2026 16:20. Articles reliés: ChatGPT Lockdown un bouclier pour l'IA d'OpenAI... Selon les notes de version, le...",
-      "excerpt": "Par Andy R. Mis à jour le: 20 février 2026 16:20. Articles reliés: ChatGPT Lockdown un bouclier pour l'IA d'OpenAI... Selon les notes de version, le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
