@@ -5,12 +5,18 @@
     const yearSpan = document.getElementById('year');
     const header = document.querySelector('header');
 
+    const syncHeaderHeightVar = () => {
+        if (!header) return;
+        document.documentElement.style.setProperty('--header-height', `${header.offsetHeight}px`);
+    };
+
     const closeMenu = () => {
         if (navUL && burgerMenu && navUL.classList.contains('active')) {
             navUL.classList.remove('active');
             burgerMenu.classList.remove('toggle');
             burgerMenu.setAttribute('aria-expanded', 'false');
         }
+        document.body.classList.remove('menu-open');
     };
 
     // Burger menu toggle
@@ -22,6 +28,7 @@
 
             const expanded = navUL.classList.contains('active');
             burgerMenu.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+            document.body.classList.toggle('menu-open', expanded);
         });
 
         // Fermer le menu si on clique sur un lien
@@ -45,6 +52,14 @@
             }
         });
     }
+
+    syncHeaderHeightVar();
+    window.addEventListener('resize', () => {
+        syncHeaderHeightVar();
+        if (window.innerWidth > 768) {
+            closeMenu();
+        }
+    }, { passive: true });
 
     // Mise Ã  jour automatique de l'annÃ©e dans le footer
     if (yearSpan) {
