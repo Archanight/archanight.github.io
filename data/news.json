@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-22T12:29:00.413Z",
+  "generatedAt": "2026-02-22T18:22:23.402Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Retard à l'allumage pour l'e‑commerce dans ChatGPT … et Google en profite - Challenges",
+      "link": "https://www.challenges.fr/entreprise/tech-numerique/retard-a-lallumage-pour-le-commerce-dans-chatgpt-et-google-en-profite_640460",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/retard-a-lallumage-pour-le-commerce-dans-chatgpt-et-google-en-profite_640460",
+      "publishedAt": "2026-02-22T15:09:25.000Z",
+      "date": "2026-02-22T15:09:25.000Z",
+      "description": "CHRONIQUE - OpenAI veut faire de ChatGPT un assistant d'achat, mais le projet patine.... Les Assises de la cybersécurité · PRNewswire · Speak & Act.",
+      "excerpt": "CHRONIQUE - OpenAI veut faire de ChatGPT un assistant d'achat, mais le projet patine.... Les Assises de la cybersécurité · PRNewswire · Speak & Act.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "« Est-ce que je suis fou? »: quand l'IA mène à la psychose… | Radio-Canada",
+      "link": "https://ici.radio-canada.ca/info/long-format/2230600/ia-intelligence-artificielle-chatgpt-psychose-delire",
+      "url": "https://ici.radio-canada.ca/info/long-format/2230600/ia-intelligence-artificielle-chatgpt-psychose-delire",
+      "publishedAt": "2026-02-22T15:01:26.000Z",
+      "date": "2026-02-22T15:01:26.000Z",
+      "description": "La descente aux enfers d'Allan Brooks a commencé par une simple question au sujet du nombre Pi. Puis, ChatGPT l'a persuadé qu'il allait sauver le...",
+      "excerpt": "La descente aux enfers d'Allan Brooks a commencé par une simple question au sujet du nombre Pi. Puis, ChatGPT l'a persuadé qu'il allait sauver le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Mon inquiétude: L'utilisation de l'IA par mon petit ami nuit à son autonomie de pensée",
+      "link": "https://lesnews.ca/intelligence-artificielle/mon-inquietude-lutilisation-de-lia-par-mon-petit-ami-nuit-a-son-autonomie-de-pensee/",
+      "url": "https://lesnews.ca/intelligence-artificielle/mon-inquietude-lutilisation-de-lia-par-mon-petit-ami-nuit-a-son-autonomie-de-pensee/",
+      "publishedAt": "2026-02-22T14:27:59.000Z",
+      "date": "2026-02-22T14:27:59.000Z",
+      "description": "Cybersécurité · Informatique · Mobiles · Jeux... Il utilise intensivement ChatGPT, même lorsque des alternatives non-IA seraient plus appropriées.",
+      "excerpt": "Cybersécurité · Informatique · Mobiles · Jeux... Il utilise intensivement ChatGPT, même lorsque des alternatives non-IA seraient plus appropriées.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Des nuées de bots dotés d'intelligence artificielle influencent les croyances des citoyens...",
+      "link": "https://atlantico.fr/article/decryptage/nuees-de-bots-dotes-intelligence-artificielle-influencent-les-croyances-des-citoyens-menacant-ainsi-la-democratie-fake-news-reseaux-sociaux-guerre-hybride",
+      "url": "https://atlantico.fr/article/decryptage/nuees-de-bots-dotes-intelligence-artificielle-influencent-les-croyances-des-citoyens-menacant-ainsi-la-democratie-fake-news-reseaux-sociaux-guerre-hybride",
+      "publishedAt": "2026-02-22T11:41:41.000Z",
+      "date": "2026-02-22T11:41:41.000Z",
+      "description": "... ChatGPT, notamment lorsque le modèle d'IA refusait de se conformer à... 6A fronts renversés: Juan Branco en soc -dem, Villepin en antifa. 7...",
+      "excerpt": "... ChatGPT, notamment lorsque le modèle d'IA refusait de se conformer à... 6A fronts renversés: Juan Branco en soc -dem, Villepin en antifa. 7...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les nouvelles capacités de l'IA affolent la tech, les investisseurs et au-delà - TradingView",
+      "link": "https://fr.tradingview.com/news/afp:9485e5ebcd67e:0/",
+      "url": "https://fr.tradingview.com/news/afp:9485e5ebcd67e:0/",
+      "publishedAt": "2026-02-22T04:17:12.000Z",
+      "date": "2026-02-22T04:17:12.000Z",
+      "description": "Oublié ChatGPT qui se contentait de répondre à une question donnée, et... cybersécurité est une fiction\". La frénésie a encore été accentuée...",
+      "excerpt": "Oublié ChatGPT qui se contentait de répondre à une question donnée, et... cybersécurité est une fiction\". La frénésie a encore été accentuée...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Tuerie de Tumbler Ridge: OpenAI n'a pas fait part de ses inquiétudes - Les Affaires",
       "link": "https://www.lesaffaires.com/bourse/tumbler-ridge-openai-aurait-eu-des-signaux-dalarme-sans-informer-la-grc/",
@@ -76,56 +126,6 @@
       "description": "ChatGPT Ignoring Thinking Mode and Forcing Instant on GPT-5.2? 17. 8... Chatgpt update and its story writing · r/ChatGPTcomplaints - Chatgpt...",
       "excerpt": "ChatGPT Ignoring Thinking Mode and Forcing Instant on GPT-5.2? 17. 8... Chatgpt update and its story writing · r/ChatGPTcomplaints - Chatgpt...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Une enceinte connectée sous ChatGPT et designée par Jony Ive: voici le premier appareil...",
-      "link": "https://www.phonandroid.com/une-enceinte-connectee-sous-chatgpt-et-designee-par-jony-ive-voici-le-premier-appareil-developpe-par-openai.html",
-      "url": "https://www.phonandroid.com/une-enceinte-connectee-sous-chatgpt-et-designee-par-jony-ive-voici-le-premier-appareil-developpe-par-openai.html",
-      "publishedAt": "2026-02-21T06:32:53.000Z",
-      "date": "2026-02-21T06:32:53.000Z",
-      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... Une enceinte connectée sous ChatGPT et designée par Jony Ive: voici le...",
-      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... Une enceinte connectée sous ChatGPT et designée par Jony Ive: voici le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI: et si le premier appareil IA avec Jony Ive était… une enceinte connectée?",
-      "link": "https://www.01net.com/actualites/openai-et-si-le-premier-appareil-ia-avec-jony-ive-etait-une-enceinte-connectee.html",
-      "url": "https://www.01net.com/actualites/openai-et-si-le-premier-appareil-ia-avec-jony-ive-etait-une-enceinte-connectee.html",
-      "publishedAt": "2026-02-21T01:10:44.000Z",
-      "date": "2026-02-21T01:10:44.000Z",
-      "description": "OpenAI compte bien suivre cette maxime: le créateur de ChatGPT planche... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "excerpt": "OpenAI compte bien suivre cette maxime: le créateur de ChatGPT planche... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI Notes de mise à jour. Vérifiez-les.: r/ ChatGPT - Reddit",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1ra9teh/openai_release_notes_check_them/?tl=fr",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1ra9teh/openai_release_notes_check_them/?tl=fr",
-      "publishedAt": "2026-02-20T23:38:02.000Z",
-      "date": "2026-02-20T23:38:02.000Z",
-      "description": "... chatgpt - release-notes. C'est pourquoi beaucoup d'entre vous rencontrent... OpenAI vient de lâcher la bombe, GPT-5 lancements dans quelques heures. r/...",
-      "excerpt": "... chatgpt - release-notes. C'est pourquoi beaucoup d'entre vous rencontrent... OpenAI vient de lâcher la bombe, GPT-5 lancements dans quelques heures. r/...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "« Une superintelligence ferait mieux que moi »: le constat choc du créateur de ChatGPT sur...",
-      "link": "https://www.01net.com/actualites/une-superintelligence-ferait-mieux-que-moi-le-constat-choc-de-sam-altman-sur-nos-emplois.html",
-      "url": "https://www.01net.com/actualites/une-superintelligence-ferait-mieux-que-moi-le-constat-choc-de-sam-altman-sur-nos-emplois.html",
-      "publishedAt": "2026-02-20T19:03:08.000Z",
-      "date": "2026-02-20T19:03:08.000Z",
-      "description": "« Une superintelligence ferait mieux que moi »: le constat choc du créateur de ChatGPT sur nos emplois... Cybersécurité · Société · Télécoms · Auto...",
-      "excerpt": "« Une superintelligence ferait mieux que moi »: le constat choc du créateur de ChatGPT sur nos emplois... Cybersécurité · Société · Télécoms · Auto...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Derrière ChatGPT, une mécanique très anglophone qui pénalise les entreprises européennes",
-      "link": "https://siecledigital.fr/2026/02/19/chatgpt-privilegie-langlais-meme-pour-vos-recherches-locales/",
-      "url": "https://siecledigital.fr/2026/02/19/chatgpt-privilegie-langlais-meme-pour-vos-recherches-locales/",
-      "publishedAt": "2026-02-20T17:05:55.000Z",
-      "date": "2026-02-20T17:05:55.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS. Publicité. Intelligence artificielle... ChatGPT...",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS. Publicité. Intelligence artificielle... ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
