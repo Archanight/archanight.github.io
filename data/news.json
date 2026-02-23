@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-23T18:51:21.107Z",
+  "generatedAt": "2026-02-23T21:01:24.330Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Tumbler Ridge: la ministre de l'IA convoque les responsables d'OpenAI - Les Affaires",
+      "link": "https://www.lesaffaires.com/secteurs/politique/tumbler-ridge-la-ministre-de-lia-convoque-les-responsables-dopenai/",
+      "url": "https://www.lesaffaires.com/secteurs/politique/tumbler-ridge-la-ministre-de-lia-convoque-les-responsables-dopenai/",
+      "publishedAt": "2026-02-23T19:56:30.000Z",
+      "date": "2026-02-23T19:56:30.000Z",
+      "description": "ChatGPT affirme que le compte a été suspendu en raison des publications de la suspecte, tout en disant ne pas avoir alerté les forces de l'ordre...",
+      "excerpt": "ChatGPT affirme que le compte a été suspendu en raison des publications de la suspecte, tout en disant ne pas avoir alerté les forces de l'ordre...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Demander, Produire ou S'exprimer: Comment nous utilisons vraiment ChatGPT en 2026",
+      "link": "https://www.blog-nouvelles-technologies.fr/359107/openai-signals-chatgpt-usage-personnel-expressing-2026/",
+      "url": "https://www.blog-nouvelles-technologies.fr/359107/openai-signals-chatgpt-usage-personnel-expressing-2026/",
+      "publishedAt": "2026-02-23T19:22:01.000Z",
+      "date": "2026-02-23T19:22:01.000Z",
+      "description": "OpenAI vient de publier une nouvelle salve de données sur l'usage « grand public » de ChatGPT via sa page Signals, basée sur une analyse de...",
+      "excerpt": "OpenAI vient de publier une nouvelle salve de données sur l'usage « grand public » de ChatGPT via sa page Signals, basée sur une analyse de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Étude: ChatGPT pénalise les sites non anglophones - Abondance",
+      "link": "https://www.abondance.com/20260223-1945051-etude-chatgpt-penalise-les-sites-non-anglophones.html",
+      "url": "https://www.abondance.com/20260223-1945051-etude-chatgpt-penalise-les-sites-non-anglophones.html",
+      "publishedAt": "2026-02-23T18:31:59.000Z",
+      "date": "2026-02-23T18:31:59.000Z",
+      "description": "Une analyse portant sur plus de 10 millions de requêtes montre que ChatGPT bascule massivement ses recherches internes (query fan-out) vers...",
+      "excerpt": "Une analyse portant sur plus de 10 millions de requêtes montre que ChatGPT bascule massivement ses recherches internes (query fan-out) vers...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "2e bêta pour iOS 26.4, iPadOS 26.4, macOS 26.4, watchOS 26.4, tvOS 26.4 et visionOS 26.4",
+      "link": "https://www.mac4ever.com/divers/194838-2e-beta-pour-ios-26-4-ipados-26-4-macos-26-4-watchos-26-4-tvos-26-4-et-visionos-26-4",
+      "url": "https://www.mac4ever.com/divers/194838-2e-beta-pour-ios-26-4-ipados-26-4-macos-26-4-watchos-26-4-tvos-26-4-et-visionos-26-4",
+      "publishedAt": "2026-02-23T18:30:05.000Z",
+      "date": "2026-02-23T18:30:05.000Z",
+      "description": "Après avoir bouleversé le monde avec ChatGPT, OpenAI semble prête à franchir une nouvelle étape stratégique. Selon The Information, le tout premier...",
+      "excerpt": "Après avoir bouleversé le monde avec ChatGPT, OpenAI semble prête à franchir une nouvelle étape stratégique. Selon The Information, le tout premier...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Cette annonce immobilière retouchée par IA va vous donner des cauchemars",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/cette-annonce-immobiliere-retouchee-par-ia-va-vous-donner-des-cauchemars-n251865.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/cette-annonce-immobiliere-retouchee-par-ia-va-vous-donner-des-cauchemars-n251865.html",
+      "publishedAt": "2026-02-23T17:30:26.000Z",
+      "date": "2026-02-23T17:30:26.000Z",
+      "description": "Pourquoi ChatGPT, Gemini et Claude racontent n'importe quoi quand la... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "excerpt": "Pourquoi ChatGPT, Gemini et Claude racontent n'importe quoi quand la... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Claude Code Security: quel est ce nouvel outil annoncé par Anthropic? - IGN",
       "link": "https://fr.ign.com/anthropic-claude/85730/news/claude-code-security-quel-est-ce-nouvel-outil-annonce-par-anthropic",
@@ -48,6 +98,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "« ChatGPT Pro Lite » à 100 dollars/mois: la fuite qui comble le trou béant entre Plus et Pro?",
+      "link": "https://www.blog-nouvelles-technologies.fr/359105/chatgpt-pro-lite-abonnement-100-dollars-openai-2026/",
+      "url": "https://www.blog-nouvelles-technologies.fr/359105/chatgpt-pro-lite-abonnement-100-dollars-openai-2026/",
+      "publishedAt": "2026-02-23T14:21:49.000Z",
+      "date": "2026-02-23T14:21:49.000Z",
+      "description": "Le départ de GPT-4o de l'interface ChatGPT a déclenché une réaction notable, jusqu'à une pétition largement relayée. Ça a rappelé à OpenAI que les...",
+      "excerpt": "Le départ de GPT-4o de l'interface ChatGPT a déclenché une réaction notable, jusqu'à une pétition largement relayée. Ça a rappelé à OpenAI que les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "On sait désormais à quoi va ressembler le premier appareil d'OpenAI - Siècle Digital",
       "link": "https://siecledigital.fr/2026/02/23/openai-preparerait-sa-premiere-enceinte-connectee-a-lia/",
       "url": "https://siecledigital.fr/2026/02/23/openai-preparerait-sa-premiere-enceinte-connectee-a-lia/",
@@ -66,66 +126,6 @@
       "description": "Notez d'ailleurs qu'une seule requête adressée à ChatGPT consomme 0,34 Wh.... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
       "excerpt": "Notez d'ailleurs qu'une seule requête adressée à ChatGPT consomme 0,34 Wh.... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "\"L'humain consomme aurant d'énergie que l'IA\": les propos édifiants de Sam Altman pour...",
-      "link": "https://www.clubic.com/actualite-601684-l-humain-consomme-aurant-d-energie-que-l-ia-les-propos-edifiants-de-sam-altman-pour-defendre-chatgpt.html",
-      "url": "https://www.clubic.com/actualite-601684-l-humain-consomme-aurant-d-energie-que-l-ia-les-propos-edifiants-de-sam-altman-pour-defendre-chatgpt.html",
-      "publishedAt": "2026-02-23T12:23:39.000Z",
-      "date": "2026-02-23T12:23:39.000Z",
-      "description": "Depuis quelques semaines, une importante campagne appelle à ne plus utiliser ChatGPT, mais plutôt à se tourner vers d'autres chatbots ou réduire ses...",
-      "excerpt": "Depuis quelques semaines, une importante campagne appelle à ne plus utiliser ChatGPT, mais plutôt à se tourner vers d'autres chatbots ou réduire ses...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pourquoi les mots de passe générés par IA deviennent un vrai problème - Silicon.fr",
-      "link": "https://www.silicon.fr/cybersecurite-1371/mots-de-passe-ia-225859",
-      "url": "https://www.silicon.fr/cybersecurite-1371/mots-de-passe-ia-225859",
-      "publishedAt": "2026-02-23T11:28:18.000Z",
-      "date": "2026-02-23T11:28:18.000Z",
-      "description": "ChatGPT faisait exception, mais se montrait lui auss prévisible en... GPT-5.2 -Codex a montré le même comportement, avec toutefois un...",
-      "excerpt": "ChatGPT faisait exception, mais se montrait lui auss prévisible en... GPT-5.2 -Codex a montré le même comportement, avec toutefois un...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ces 3 gestionnaires de mots de passe ne sont pas aussi sécurisés que prévu, 25 failles ont...",
-      "link": "https://www.01net.com/actualites/ces-3-gestionnaires-de-mots-de-passe-ne-sont-pas-aussi-securises-que-prevu-25-failles-ont-ete-decouvertes.html",
-      "url": "https://www.01net.com/actualites/ces-3-gestionnaires-de-mots-de-passe-ne-sont-pas-aussi-securises-que-prevu-25-failles-ont-ete-decouvertes.html",
-      "publishedAt": "2026-02-23T10:32:49.000Z",
-      "date": "2026-02-23T10:32:49.000Z",
-      "description": "Ce modèle de cybersécurité garantit qu'un acteur malveillant qui... Chatgpt Mots Passe. Ces 3 gestionnaires de mots de passe ne sont pas...",
-      "excerpt": "Ce modèle de cybersécurité garantit qu'un acteur malveillant qui... Chatgpt Mots Passe. Ces 3 gestionnaires de mots de passe ne sont pas...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ZD Tech: OpenAI dévoile GPT-5.3-Codex-Spark, son modèle ultra-rapide qui privilégie la...",
-      "link": "https://www.zdnet.fr/actualites/zd-tech-openai-devoile-gpt-5-3-codex-spark-son-modele-ultra-rapide-qui-privilegie-la-vitesse-sur-la-precision-490201.htm",
-      "url": "https://www.zdnet.fr/actualites/zd-tech-openai-devoile-gpt-5-3-codex-spark-son-modele-ultra-rapide-qui-privilegie-la-vitesse-sur-la-precision-490201.htm",
-      "publishedAt": "2026-02-23T07:02:37.000Z",
-      "date": "2026-02-23T07:02:37.000Z",
-      "description": "... cybersécurité définis par OpenAI. En clair, Spark fait les choses... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
-      "excerpt": "... cybersécurité définis par OpenAI. En clair, Spark fait les choses... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Nvidia investit 30 milliards dans ChatGPT et devinez quoi? OpenAI va lui acheter ses puces...",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/nvidia-investit-30-milliards-dans-chatgpt-et-devinez-quoi-openai-va-lui-acheter-ses-puces-avec-cet-argent-n251827.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/nvidia-investit-30-milliards-dans-chatgpt-et-devinez-quoi-openai-va-lui-acheter-ses-puces-avec-cet-argent-n251827.html",
-      "publishedAt": "2026-02-22T21:53:44.000Z",
-      "date": "2026-02-22T21:53:44.000Z",
-      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Nassim Chentouf... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Nassim Chentouf... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT: voici 6 prompts professionnels qui vous changeront la vie au travail",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-voici-6-prompts-professionnels-qui-vous-changeront-la-vie-au-travail-n251739.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-voici-6-prompts-professionnels-qui-vous-changeront-la-vie-au-travail-n251739.html",
-      "publishedAt": "2026-02-22T21:23:33.000Z",
-      "date": "2026-02-22T21:23:33.000Z",
-      "description": "Utiliser ChatGPT pour accélérer certaines tâches clés au travail... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
-      "excerpt": "Utiliser ChatGPT pour accélérer certaines tâches clés au travail... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
