@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-23T06:54:31.831Z",
+  "generatedAt": "2026-02-23T12:41:14.282Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Ces 3 gestionnaires de mots de passe ne sont pas aussi sécurisés que prévu, 25 failles ont...",
+      "link": "https://www.01net.com/actualites/ces-3-gestionnaires-de-mots-de-passe-ne-sont-pas-aussi-securises-que-prevu-25-failles-ont-ete-decouvertes.html",
+      "url": "https://www.01net.com/actualites/ces-3-gestionnaires-de-mots-de-passe-ne-sont-pas-aussi-securises-que-prevu-25-failles-ont-ete-decouvertes.html",
+      "publishedAt": "2026-02-23T10:32:49.000Z",
+      "date": "2026-02-23T10:32:49.000Z",
+      "description": "Ce modèle de cybersécurité garantit qu'un acteur malveillant qui... Chatgpt Mots Passe. Ces 3 gestionnaires de mots de passe ne sont pas...",
+      "excerpt": "Ce modèle de cybersécurité garantit qu'un acteur malveillant qui... Chatgpt Mots Passe. Ces 3 gestionnaires de mots de passe ne sont pas...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ZD Tech: OpenAI dévoile GPT-5.3-Codex-Spark, son modèle ultra-rapide qui privilégie la...",
+      "link": "https://www.zdnet.fr/actualites/zd-tech-openai-devoile-gpt-5-3-codex-spark-son-modele-ultra-rapide-qui-privilegie-la-vitesse-sur-la-precision-490201.htm",
+      "url": "https://www.zdnet.fr/actualites/zd-tech-openai-devoile-gpt-5-3-codex-spark-son-modele-ultra-rapide-qui-privilegie-la-vitesse-sur-la-precision-490201.htm",
+      "publishedAt": "2026-02-23T07:02:37.000Z",
+      "date": "2026-02-23T07:02:37.000Z",
+      "description": "... cybersécurité définis par OpenAI. En clair, Spark fait les choses... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
+      "excerpt": "... cybersécurité définis par OpenAI. En clair, Spark fait les choses... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Nvidia investit 30 milliards dans ChatGPT et devinez quoi? OpenAI va lui acheter ses puces...",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/nvidia-investit-30-milliards-dans-chatgpt-et-devinez-quoi-openai-va-lui-acheter-ses-puces-avec-cet-argent-n251827.html",
@@ -106,26 +126,6 @@
       "description": "Vous connaissez tous et toutes ça. On lance une session sur ChatGPT, Gemini ou Claude. La discussion s'étire et puis l'IA se met à ne plus suivre...",
       "excerpt": "Vous connaissez tous et toutes ça. On lance une session sur ChatGPT, Gemini ou Claude. La discussion s'étire et puis l'IA se met à ne plus suivre...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Une onzième plainte contre ChatGPT pour \"psychose liée à l'IA\" fait les choux gras d'un...",
-      "link": "https://www.clubic.com/actualite-601576-une-onzieme-plainte-contre-chatgpt-pour-psychose-liee-a-l-ia-fait-les-choux-gras-d-un-cabinet-d-avocats.html",
-      "url": "https://www.clubic.com/actualite-601576-une-onzieme-plainte-contre-chatgpt-pour-psychose-liee-a-l-ia-fait-les-choux-gras-d-un-cabinet-d-avocats.html",
-      "publishedAt": "2026-02-21T17:32:39.000Z",
-      "date": "2026-02-21T17:32:39.000Z",
-      "description": "... ChatGPT comme tout le monde, pour les devoirs, du coaching sportif... OpenAI a d'ailleurs reconnu, dans ses propres publications, que GPT-4o...",
-      "excerpt": "... ChatGPT comme tout le monde, pour les devoirs, du coaching sportif... OpenAI a d'ailleurs reconnu, dans ses propres publications, que GPT-4o...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Vous utilisez l'IA pour générer vos mots de passe? C'est une très mauvaise idée - Clubic",
-      "link": "https://www.clubic.com/actualite-601570-vous-utilisez-l-ia-pour-generer-vos-mots-de-passe-c-est-une-tres-mauvaise-idee.html",
-      "url": "https://www.clubic.com/actualite-601570-vous-utilisez-l-ia-pour-generer-vos-mots-de-passe-c-est-une-tres-mauvaise-idee.html",
-      "publishedAt": "2026-02-21T14:04:48.000Z",
-      "date": "2026-02-21T14:04:48.000Z",
-      "description": "La société de cybersécurité Irregular a publié ses résultats la... ChatGPT et Gemini ne font guère mieux, leurs mots de passe affichent...",
-      "excerpt": "La société de cybersécurité Irregular a publié ses résultats la... ChatGPT et Gemini ne font guère mieux, leurs mots de passe affichent...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
