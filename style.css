@@ -1000,6 +1000,11 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
     overflow: hidden;
 }
 
+.stage-cards {
+    display: grid;
+    gap: 24px;
+}
+
 .stage-card-header {
     display: flex;
     align-items: flex-start;
@@ -1008,7 +1013,7 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
     margin-bottom: 18px;
 }
 
-.stage-card-title { min-width: 0; padding-right: 220px; }
+.stage-card-title { min-width: 0; padding-right: 250px; }
 .stage-card-title h3 { margin: 0; font-size: 1.5rem; color: var(--primary-color); }
 
 .stage-card .stage-location {
@@ -1064,6 +1069,10 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
 }
 
 @media (max-width: 700px) {
+    .stage-cards {
+        gap: 16px;
+    }
+
     .stage-card-header {
         flex-direction: column;
         align-items: flex-start;
@@ -1837,14 +1846,26 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
   gap: 10px;
-  margin-bottom: 18px;
+  margin-bottom: 22px;
+  padding-bottom: 16px;
   font-size: clamp(1.6rem, 2.3vw, 2rem);
+  text-align: center;
+  position: relative;
 }
 
 #veille-page .rss-title::after {
-  content: none;
-  display: none;
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  width: 110px;
+  height: 4px;
+  border-radius: 999px;
+  background: var(--secondary-color);
+  box-shadow: 0 0 10px rgba(0, 224, 198, 0.22);
 }
 
 #veille-page .rss-title i {
@@ -1859,6 +1880,17 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
 }
 
 @media (max-width: 620px) {
+  #veille-page .rss-title {
+    margin-bottom: 18px;
+    padding-bottom: 14px;
+    font-size: clamp(1.45rem, 7vw, 1.75rem);
+  }
+
+  #veille-page .rss-title::after {
+    width: 84px;
+    height: 3px;
+  }
+
   #veille-page .rss-grid {
     grid-template-columns: 1fr;
     gap: 16px;
