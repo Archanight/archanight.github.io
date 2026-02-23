@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-22T18:22:23.402Z",
+  "generatedAt": "2026-02-23T01:16:48.694Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Nvidia investit 30 milliards dans ChatGPT et devinez quoi? OpenAI va lui acheter ses puces...",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/nvidia-investit-30-milliards-dans-chatgpt-et-devinez-quoi-openai-va-lui-acheter-ses-puces-avec-cet-argent-n251827.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/nvidia-investit-30-milliards-dans-chatgpt-et-devinez-quoi-openai-va-lui-acheter-ses-puces-avec-cet-argent-n251827.html",
+      "publishedAt": "2026-02-22T21:53:44.000Z",
+      "date": "2026-02-22T21:53:44.000Z",
+      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Nassim Chentouf... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Nassim Chentouf... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT: voici 6 prompts professionnels qui vous changeront la vie au travail",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-voici-6-prompts-professionnels-qui-vous-changeront-la-vie-au-travail-n251739.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-voici-6-prompts-professionnels-qui-vous-changeront-la-vie-au-travail-n251739.html",
+      "publishedAt": "2026-02-22T21:23:33.000Z",
+      "date": "2026-02-22T21:23:33.000Z",
+      "description": "Utiliser ChatGPT pour accélérer certaines tâches clés au travail... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
+      "excerpt": "Utiliser ChatGPT pour accélérer certaines tâches clés au travail... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Apple Pin, Apple Experience, de toutes les couleurs: la semaine Apple - MacGeneration",
+      "link": "https://www.macg.co/aapl/2026/02/apple-pin-apple-experience-de-toutes-les-couleurs-la-semaine-apple-306937?amp",
+      "url": "https://www.macg.co/aapl/2026/02/apple-pin-apple-experience-de-toutes-les-couleurs-la-semaine-apple-306937?amp",
+      "publishedAt": "2026-02-22T19:32:37.000Z",
+      "date": "2026-02-22T19:32:37.000Z",
+      "description": "Découverte de Visual Intelligence, bien aidé par ChatGPT dans la première bêta d'iOS 18.2... un nouvel iPad d'entrée de gamme, équipé du SoC A18.",
+      "excerpt": "Découverte de Visual Intelligence, bien aidé par ChatGPT dans la première bêta d'iOS 18.2... un nouvel iPad d'entrée de gamme, équipé du SoC A18.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Retard à l'allumage pour l'e‑commerce dans ChatGPT … et Google en profite - Challenges",
       "link": "https://www.challenges.fr/entreprise/tech-numerique/retard-a-lallumage-pour-le-commerce-dans-chatgpt-et-google-en-profite_640460",
@@ -96,36 +126,6 @@
       "description": "La société de cybersécurité Irregular a publié ses résultats la... ChatGPT et Gemini ne font guère mieux, leurs mots de passe affichent...",
       "excerpt": "La société de cybersécurité Irregular a publié ses résultats la... ChatGPT et Gemini ne font guère mieux, leurs mots de passe affichent...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI se lance dans le hardware: un haut-parleur intelligent avec caméra et vision par...",
-      "link": "https://www.carnetdebord.info/openai-se-lance-dans-le-hardware-un-haut-parleur-intelligent-avec-camera-et-vision-par-ordinateur-attendu-en-2027/",
-      "url": "https://www.carnetdebord.info/openai-se-lance-dans-le-hardware-un-haut-parleur-intelligent-avec-camera-et-vision-par-ordinateur-attendu-en-2027/",
-      "publishedAt": "2026-02-21T12:39:55.000Z",
-      "date": "2026-02-21T12:39:55.000Z",
-      "description": "Cybersécurité · Marketing · Formations · Technologies · Annonceurs... Apple iOS 26.4: ChatGPT, Claude et Gemini débarquent sur CarPlay au printemps...",
-      "excerpt": "Cybersécurité · Marketing · Formations · Technologies · Annonceurs... Apple iOS 26.4: ChatGPT, Claude et Gemini débarquent sur CarPlay au printemps...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Apple iOS 26.4: ChatGPT, Claude et Gemini débarquent sur CarPlay au printemps",
-      "link": "https://www.carnetdebord.info/apple-ios-26-4-chatgpt-claude-et-gemini-debarquent-sur-carplay-au-printemps/",
-      "url": "https://www.carnetdebord.info/apple-ios-26-4-chatgpt-claude-et-gemini-debarquent-sur-carplay-au-printemps/",
-      "publishedAt": "2026-02-21T06:54:54.000Z",
-      "date": "2026-02-21T06:54:54.000Z",
-      "description": "Contrairement à Siri, ces nouveaux chatbots sont capables de conversations plus nuancées et contextuelles. Par exemple, si tu demandes à ChatGPT de te...",
-      "excerpt": "Contrairement à Siri, ces nouveaux chatbots sont capables de conversations plus nuancées et contextuelles. Par exemple, si tu demandes à ChatGPT de te...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Hearing chatters about ChatGPT Adult Mode stealth launched, How is your experience so... - Reddit",
-      "link": "https://www.reddit.com/r/LovingAI/comments/1ra0y07/hearing_chatters_about_chatgpt_adult_mode_stealth/",
-      "url": "https://www.reddit.com/r/LovingAI/comments/1ra0y07/hearing_chatters_about_chatgpt_adult_mode_stealth/",
-      "publishedAt": "2026-02-21T06:45:39.000Z",
-      "date": "2026-02-21T06:45:39.000Z",
-      "description": "ChatGPT Ignoring Thinking Mode and Forcing Instant on GPT-5.2? 17. 8... Chatgpt update and its story writing · r/ChatGPTcomplaints - Chatgpt...",
-      "excerpt": "ChatGPT Ignoring Thinking Mode and Forcing Instant on GPT-5.2? 17. 8... Chatgpt update and its story writing · r/ChatGPTcomplaints - Chatgpt...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
