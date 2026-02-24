@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-24T06:49:42.703Z",
+  "generatedAt": "2026-02-24T12:41:53.454Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "De la fraude aux malwares intelligents: la nouvelle stratégie IA des cybercriminels pour...",
+      "link": "https://www.bfmtv.com/tech/actualites/cybersecurite/de-la-fraude-aux-malwares-intelligents-la-nouvelle-strategie-ia-des-cybercriminels-pour-passer-a-la-vitesse-superieure_AN-202602240038.html",
+      "url": "https://www.bfmtv.com/tech/actualites/cybersecurite/de-la-fraude-aux-malwares-intelligents-la-nouvelle-strategie-ia-des-cybercriminels-pour-passer-a-la-vitesse-superieure_AN-202602240038.html",
+      "publishedAt": "2026-02-24T08:01:11.000Z",
+      "date": "2026-02-24T08:01:11.000Z",
+      "description": "Dans son rapport annuel sur les menaces mondiales, l'entreprise de cybersécurité Crowdstrike alerte sur la montée en puissance de l'IA par les...",
+      "excerpt": "Dans son rapport annuel sur les menaces mondiales, l'entreprise de cybersécurité Crowdstrike alerte sur la montée en puissance de l'IA par les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "L'IA va-t-elle détruire vos emplois et épuiser les ressources? La réponse de Sam Altman!",
       "link": "https://www.mac4ever.com/ia/194828-l-ia-va-t-elle-detruire-des-emplois-et-epuiser-les-ressources-la-reponse-de-sam-altman",
@@ -116,16 +126,6 @@
       "description": "Le départ de GPT-4o de l'interface ChatGPT a déclenché une réaction notable, jusqu'à une pétition largement relayée. Ça a rappelé à OpenAI que les...",
       "excerpt": "Le départ de GPT-4o de l'interface ChatGPT a déclenché une réaction notable, jusqu'à une pétition largement relayée. Ça a rappelé à OpenAI que les...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "On sait désormais à quoi va ressembler le premier appareil d'OpenAI - Siècle Digital",
-      "link": "https://siecledigital.fr/2026/02/23/openai-preparerait-sa-premiere-enceinte-connectee-a-lia/",
-      "url": "https://siecledigital.fr/2026/02/23/openai-preparerait-sa-premiere-enceinte-connectee-a-lia/",
-      "publishedAt": "2026-02-23T13:35:50.000Z",
-      "date": "2026-02-23T13:35:50.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils... Derrière ChatGPT, une mécanique très anglophone qui pénalise les entreprises européennes.",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils... Derrière ChatGPT, une mécanique très anglophone qui pénalise les entreprises européennes.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
