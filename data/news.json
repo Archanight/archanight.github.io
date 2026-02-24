@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-24T12:41:53.454Z",
+  "generatedAt": "2026-02-24T18:49:23.907Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Ce que cachent vraiment les outils de vérification d'âge déployés sur Discord, Roblox et ChatGPT",
+      "link": "https://securite.developpez.com/actu/380529/Ce-que-cachent-vraiment-les-outils-de-verification-d-age-deployes-sur-Discord-Roblox-et-ChatGPT-des-chercheurs-decouvrent-une-machine-de-surveillance-biometrique-a-269-controles-integres-dans-Persona/",
+      "url": "https://securite.developpez.com/actu/380529/Ce-que-cachent-vraiment-les-outils-de-verification-d-age-deployes-sur-Discord-Roblox-et-ChatGPT-des-chercheurs-decouvrent-une-machine-de-surveillance-biometrique-a-269-controles-integres-dans-Persona/",
+      "publishedAt": "2026-02-24T15:59:05.000Z",
+      "date": "2026-02-24T15:59:05.000Z",
+      "description": "... cybersécurité. Leur conclusion est cinglante: ils ont trouvé 2 456... ChatGPT ou encore Lime, et une version gouvernementale accessible via...",
+      "excerpt": "... cybersécurité. Leur conclusion est cinglante: ils ont trouvé 2 456... ChatGPT ou encore Lime, et une version gouvernementale accessible via...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cybersécurité: Pourquoi l'IA d'Anthropic fait chuter les géants du secteur en Bourse",
+      "link": "https://www.zdnet.fr/actualites/cybersecurite-pourquoi-lia-danthropic-fait-chuter-les-geants-du-secteur-en-bourse-490801.htm",
+      "url": "https://www.zdnet.fr/actualites/cybersecurite-pourquoi-lia-danthropic-fait-chuter-les-geants-du-secteur-en-bourse-490801.htm",
+      "publishedAt": "2026-02-24T15:50:19.000Z",
+      "date": "2026-02-24T15:50:19.000Z",
+      "description": "Cybersécurité: Pourquoi l'IA d'Anthropic fait chuter les géants... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
+      "excerpt": "Cybersécurité: Pourquoi l'IA d'Anthropic fait chuter les géants... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Mysti - Quand Claude et ChatGPT débattent de votre code dans VS Code - Korben",
+      "link": "https://korben.info/mysti-extension-vs-code-brainstorming-ia.html",
+      "url": "https://korben.info/mysti-extension-vs-code-brainstorming-ia.html",
+      "publishedAt": "2026-02-24T15:46:29.000Z",
+      "date": "2026-02-24T15:46:29.000Z",
+      "description": "Mysti est une extension VS Code qui fait débattre Claude et ChatGPT sur votre code en temps réel, les deux IA critiquant les propositions de...",
+      "excerpt": "Mysti est une extension VS Code qui fait débattre Claude et ChatGPT sur votre code en temps réel, les deux IA critiquant les propositions de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GEO négatif: l'IA peut-elle salir une réputation? - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/geo-negatif-lia-peut-elle-salir-une-reputation",
+      "url": "https://www.lebigdata.fr/geo-negatif-lia-peut-elle-salir-une-reputation",
+      "publishedAt": "2026-02-24T14:39:29.000Z",
+      "date": "2026-02-24T14:39:29.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Sur les onze modèles analysés, deux ont mentionné les sites de test: Perplexity AI et OpenAI via ChatGPT.",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Sur les onze modèles analysés, deux ont mentionné les sites de test: Perplexity AI et OpenAI via ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Ce serial killer a planifié ses meurtres via ChatGPT: le rapport de police est terrifiant",
+      "link": "https://www.lebigdata.fr/ce-serial-killer-a-planifie-ses-meurtres-via-chatgpt-le-rapport-de-police-est-terrifiant",
+      "url": "https://www.lebigdata.fr/ce-serial-killer-a-planifie-ses-meurtres-via-chatgpt-le-rapport-de-police-est-terrifiant",
+      "publishedAt": "2026-02-24T09:43:54.000Z",
+      "date": "2026-02-24T09:43:54.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Ce serial killer a planifié ses meurtres via ChatGPT: le rapport de police est...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Ce serial killer a planifié ses meurtres via ChatGPT: le rapport de police est...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "De la fraude aux malwares intelligents: la nouvelle stratégie IA des cybercriminels pour...",
       "link": "https://www.bfmtv.com/tech/actualites/cybersecurite/de-la-fraude-aux-malwares-intelligents-la-nouvelle-strategie-ia-des-cybercriminels-pour-passer-a-la-vitesse-superieure_AN-202602240038.html",
@@ -16,6 +66,16 @@
       "description": "Dans son rapport annuel sur les menaces mondiales, l'entreprise de cybersécurité Crowdstrike alerte sur la montée en puissance de l'IA par les...",
       "excerpt": "Dans son rapport annuel sur les menaces mondiales, l'entreprise de cybersécurité Crowdstrike alerte sur la montée en puissance de l'IA par les...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA: trois télévisions sud-coréennes poursuivent OpenAI en justice - KBS WORLD",
+      "link": "https://world.kbs.co.kr/service/news_view.htm?lang=f&Seq_Code=93942",
+      "url": "https://world.kbs.co.kr/service/news_view.htm?lang=f&Seq_Code=93942",
+      "publishedAt": "2026-02-24T04:07:12.000Z",
+      "date": "2026-02-24T04:07:12.000Z",
+      "description": "... Update: 2026-02-24 13:01:28... A ce propos, l'association des diffuseurs hertziens sud-coréens (KBA) a rappelé que si la maison mère de ChatGPT...",
+      "excerpt": "... Update: 2026-02-24 13:01:28... A ce propos, l'association des diffuseurs hertziens sud-coréens (KBA) a rappelé que si la maison mère de ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "L'IA va-t-elle détruire vos emplois et épuiser les ressources? La réponse de Sam Altman!",
@@ -65,66 +125,6 @@
       "date": "2026-02-23T18:30:05.000Z",
       "description": "Après avoir bouleversé le monde avec ChatGPT, OpenAI semble prête à franchir une nouvelle étape stratégique. Selon The Information, le tout premier...",
       "excerpt": "Après avoir bouleversé le monde avec ChatGPT, OpenAI semble prête à franchir une nouvelle étape stratégique. Selon The Information, le tout premier...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Cette annonce immobilière retouchée par IA va vous donner des cauchemars",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/cette-annonce-immobiliere-retouchee-par-ia-va-vous-donner-des-cauchemars-n251865.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/cette-annonce-immobiliere-retouchee-par-ia-va-vous-donner-des-cauchemars-n251865.html",
-      "publishedAt": "2026-02-23T17:30:26.000Z",
-      "date": "2026-02-23T17:30:26.000Z",
-      "description": "Pourquoi ChatGPT, Gemini et Claude racontent n'importe quoi quand la... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "excerpt": "Pourquoi ChatGPT, Gemini et Claude racontent n'importe quoi quand la... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Claude Code Security: quel est ce nouvel outil annoncé par Anthropic? - IGN",
-      "link": "https://fr.ign.com/anthropic-claude/85730/news/claude-code-security-quel-est-ce-nouvel-outil-annonce-par-anthropic",
-      "url": "https://fr.ign.com/anthropic-claude/85730/news/claude-code-security-quel-est-ce-nouvel-outil-annonce-par-anthropic",
-      "publishedAt": "2026-02-23T16:33:05.000Z",
-      "date": "2026-02-23T16:33:05.000Z",
-      "description": "... ChatGPT Lockdown un bouclier pour l'IA d'OpenAI... Dans le contexte actuel de la cybersécurité, les pirates utilisent l'intelligence artificielle pour...",
-      "excerpt": "... ChatGPT Lockdown un bouclier pour l'IA d'OpenAI... Dans le contexte actuel de la cybersécurité, les pirates utilisent l'intelligence artificielle pour...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI noue un partenariat avec 4 géants du conseil, pour amener des agents IA en entreprise",
-      "link": "https://www.europe1.fr/technologies/openai-noue-un-partenariat-avec-4-geants-du-conseil-pour-amener-des-agents-ia-en-entreprise-902379",
-      "url": "https://www.europe1.fr/technologies/openai-noue-un-partenariat-avec-4-geants-du-conseil-pour-amener-des-agents-ia-en-entreprise-902379",
-      "publishedAt": "2026-02-23T16:30:42.000Z",
-      "date": "2026-02-23T16:30:42.000Z",
-      "description": "... cybersécurité. À lire aussi: OpenAI surveille vos conversations avec... ChatGPT étant désormais régulièrement utilisés pour de la réflexion...",
-      "excerpt": "... cybersécurité. À lire aussi: OpenAI surveille vos conversations avec... ChatGPT étant désormais régulièrement utilisés pour de la réflexion...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pizzi (Anitec-Assinform): « Ingénierie rapide » en hausse dans les recherches en ligne, « ChatGPT »",
-      "link": "https://lamilano.it/fr/par-les-m%C3%A9dias/Pizzi-Anitec-Assinform-Prompt-Engineering-en-hausse-dans-les-recherches-en-ligne--ChatGPT-en-baisse/",
-      "url": "https://lamilano.it/fr/par-les-m%C3%A9dias/Pizzi-Anitec-Assinform-Prompt-Engineering-en-hausse-dans-les-recherches-en-ligne--ChatGPT-en-baisse/",
-      "publishedAt": "2026-02-23T16:03:57.000Z",
-      "date": "2026-02-23T16:03:57.000Z",
-      "description": "Pizzi (Anitec-Assinform): « Ingénierie rapide » en hausse dans les recherches en ligne, « ChatGPT » en baisse... Soc. Coop): « L'introduction de l'...",
-      "excerpt": "Pizzi (Anitec-Assinform): « Ingénierie rapide » en hausse dans les recherches en ligne, « ChatGPT » en baisse... Soc. Coop): « L'introduction de l'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Partenariat entre OpenAI et 4 géants du conseil, pour amener des agents IA en entreprise",
-      "link": "https://www.boursorama.com/actualite-economique/actualites-amp/partenariat-entre-openai-et-4-geants-du-conseil-pour-amener-des-agents-ia-en-entreprise-979cc7075633fb326b4a94843eebe042",
-      "url": "https://www.boursorama.com/actualite-economique/actualites-amp/partenariat-entre-openai-et-4-geants-du-conseil-pour-amener-des-agents-ia-en-entreprise-979cc7075633fb326b4a94843eebe042",
-      "publishedAt": "2026-02-23T15:59:16.000Z",
-      "date": "2026-02-23T15:59:16.000Z",
-      "description": "... cybersécurité. Le déploiement de l'IA est un enjeu majeur pour les... ChatGPT étant désormais régulièrement utilisés pour de la réflexion...",
-      "excerpt": "... cybersécurité. Le déploiement de l'IA est un enjeu majeur pour les... ChatGPT étant désormais régulièrement utilisés pour de la réflexion...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "« ChatGPT Pro Lite » à 100 dollars/mois: la fuite qui comble le trou béant entre Plus et Pro?",
-      "link": "https://www.blog-nouvelles-technologies.fr/359105/chatgpt-pro-lite-abonnement-100-dollars-openai-2026/",
-      "url": "https://www.blog-nouvelles-technologies.fr/359105/chatgpt-pro-lite-abonnement-100-dollars-openai-2026/",
-      "publishedAt": "2026-02-23T14:21:49.000Z",
-      "date": "2026-02-23T14:21:49.000Z",
-      "description": "Le départ de GPT-4o de l'interface ChatGPT a déclenché une réaction notable, jusqu'à une pétition largement relayée. Ça a rappelé à OpenAI que les...",
-      "excerpt": "Le départ de GPT-4o de l'interface ChatGPT a déclenché une réaction notable, jusqu'à une pétition largement relayée. Ça a rappelé à OpenAI que les...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
