@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-24T01:15:18.099Z",
+  "generatedAt": "2026-02-24T06:49:42.703Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "L'IA va-t-elle détruire vos emplois et épuiser les ressources? La réponse de Sam Altman!",
+      "link": "https://www.mac4ever.com/ia/194828-l-ia-va-t-elle-detruire-des-emplois-et-epuiser-les-ressources-la-reponse-de-sam-altman",
+      "url": "https://www.mac4ever.com/ia/194828-l-ia-va-t-elle-detruire-des-emplois-et-epuiser-les-ressources-la-reponse-de-sam-altman",
+      "publishedAt": "2026-02-23T21:10:14.000Z",
+      "date": "2026-02-23T21:10:14.000Z",
+      "description": "Sam Altman s'est d'abord attaqué à l'idée selon laquelle chaque requête adressée à ChatGPT consommerait des litres d'eau. C'est complètement faux...",
+      "excerpt": "Sam Altman s'est d'abord attaqué à l'idée selon laquelle chaque requête adressée à ChatGPT consommerait des litres d'eau. C'est complètement faux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Tumbler Ridge: la ministre de l'IA convoque les responsables d'OpenAI - Les Affaires",
       "link": "https://www.lesaffaires.com/secteurs/politique/tumbler-ridge-la-ministre-de-lia-convoque-les-responsables-dopenai/",
@@ -115,16 +125,6 @@
       "date": "2026-02-23T13:35:50.000Z",
       "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils... Derrière ChatGPT, une mécanique très anglophone qui pénalise les entreprises européennes.",
       "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils... Derrière ChatGPT, une mécanique très anglophone qui pénalise les entreprises européennes.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le créateur de ChatGPT relativise la consommation de l'IA avec un argument surprenant",
-      "link": "https://www.01net.com/actualites/createur-chatgpt-minimise-cout-energetique-ia-argument-surprenant.html",
-      "url": "https://www.01net.com/actualites/createur-chatgpt-minimise-cout-energetique-ia-argument-surprenant.html",
-      "publishedAt": "2026-02-23T13:01:26.000Z",
-      "date": "2026-02-23T13:01:26.000Z",
-      "description": "Notez d'ailleurs qu'une seule requête adressée à ChatGPT consomme 0,34 Wh.... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "excerpt": "Notez d'ailleurs qu'une seule requête adressée à ChatGPT consomme 0,34 Wh.... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
