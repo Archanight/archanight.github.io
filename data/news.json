@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T12:41:53.007Z",
+  "generatedAt": "2026-02-25T18:53:43.892Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Cette décision le prouve: OpenAI a définitivement choisi le profit au détriment de l'éthique",
+      "link": "https://www.clubic.com/actualite-602143-cette-decision-le-prouve-openai-a-definitivement-choisi-le-profit-au-detriment-de-l-ethique.html",
+      "url": "https://www.clubic.com/actualite-602143-cette-decision-le-prouve-openai-a-definitivement-choisi-le-profit-au-detriment-de-l-ethique.html",
+      "publishedAt": "2026-02-25T14:51:36.000Z",
+      "date": "2026-02-25T14:51:36.000Z",
+      "description": "Si ce changement peut paraître anodin, il a de quoi poser de sérieuses questions. ChatGPT ( GPT-5.2 ). Chat dans différentes...",
+      "excerpt": "Si ce changement peut paraître anodin, il a de quoi poser de sérieuses questions. ChatGPT ( GPT-5.2 ). Chat dans différentes...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Vous voulez que ChatGPT cite votre marque? Voici exactement ce que les IA regardent en premier",
+      "link": "https://www.futura-sciences.com/tech/questions-reponses/intelligence-artificielle-vous-voulez-chatgpt-cite-votre-marque-voici-exactement-ce-ia-regardent-premier-24496/",
+      "url": "https://www.futura-sciences.com/tech/questions-reponses/intelligence-artificielle-vous-voulez-chatgpt-cite-votre-marque-voici-exactement-ce-ia-regardent-premier-24496/",
+      "publishedAt": "2026-02-25T14:29:17.000Z",
+      "date": "2026-02-25T14:29:17.000Z",
+      "description": "Cybersécurité · Nutrition. Se connecter avec Patreon. Vous n'avez pas... ChatGPT que les sites à faible confiance (DT < 43). Les estimations de...",
+      "excerpt": "Cybersécurité · Nutrition. Se connecter avec Patreon. Vous n'avez pas... ChatGPT que les sites à faible confiance (DT < 43). Les estimations de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "\"Il est envisageable qu'il remplace certains rituels religieux\": au Japon, un robot-moine...",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/il-est-envisageable-qu-il-remplace-certains-rituels-religieux-au-japon-un-robot-moine-alimente-par-l-ia-va-apaiser-les-esprits_AD-202602250567.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/il-est-envisageable-qu-il-remplace-certains-rituels-religieux-au-japon-un-robot-moine-alimente-par-l-ia-va-apaiser-les-esprits_AD-202602250567.html",
+      "publishedAt": "2026-02-25T14:13:08.000Z",
+      "date": "2026-02-25T14:13:08.000Z",
+      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons plans · BFM... Grâce à ChatGPT, il peut prodiguer des conseils et...",
+      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons plans · BFM... Grâce à ChatGPT, il peut prodiguer des conseils et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "le boycott de ChatGPT prend de l'ampleur, plus d'un million de personnes ont déjà rejoint QuitGPT",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/ne-soutenez-pas-ce-regime-fasciste-le-boycott-de-chatgpt-prend-de-l-ampleur-plus-d-un-million-de-personnes-ont-deja-rejoint-quitgpt-n251968.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/ne-soutenez-pas-ce-regime-fasciste-le-boycott-de-chatgpt-prend-de-l-ampleur-plus-d-un-million-de-personnes-ont-deja-rejoint-quitgpt-n251968.html",
+      "publishedAt": "2026-02-25T13:23:42.000Z",
+      "date": "2026-02-25T13:23:42.000Z",
+      "description": "De nombreux abonnés payants ont exprimé leur frustration face aux performances jugées décevantes de GPT-5.2... ChatGPT / GPT-4. Nos réseaux: Suivez-...",
+      "excerpt": "De nombreux abonnés payants ont exprimé leur frustration face aux performances jugées décevantes de GPT-5.2... ChatGPT / GPT-4. Nos réseaux: Suivez-...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "IA & automatisation - RelationclientMag.fr",
+      "link": "https://www.relationclientmag.fr/techno-ux-1256/veille-tribune-2162/ia-automatisation-de-lexperimentation-a-lindustrialisation-raisonnee-34196/amp",
+      "url": "https://www.relationclientmag.fr/techno-ux-1256/veille-tribune-2162/ia-automatisation-de-lexperimentation-a-lindustrialisation-raisonnee-34196/amp",
+      "publishedAt": "2026-02-25T13:08:32.000Z",
+      "date": "2026-02-25T13:08:32.000Z",
+      "description": "... ChatGPT ou autre pour notre productivité personnelle qu'on utilise une Alexa ou un Siri dans notre quotidien. C'est un peu le même paradigme dans...",
+      "excerpt": "... ChatGPT ou autre pour notre productivité personnelle qu'on utilise une Alexa ou un Siri dans notre quotidien. C'est un peu le même paradigme dans...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA: mais au fait, pour qui voteraient les chats-bots que vous utilisez au quotidien - Atlantico.fr",
+      "link": "https://atlantico.fr/article/decryptage/ia-mais-au-fait-pour-qui-voteraient-les-chats-bots-que-vous-utilisez-au-quotidien",
+      "url": "https://atlantico.fr/article/decryptage/ia-mais-au-fait-pour-qui-voteraient-les-chats-bots-que-vous-utilisez-au-quotidien",
+      "publishedAt": "2026-02-25T12:58:11.000Z",
+      "date": "2026-02-25T12:58:11.000Z",
+      "description": "Cette photographie d'illustration montre le logo de ChatGPT, un chatbot basé sur un. See image caption. See copyright. BIAIS EN SERIE. 25 février 2026...",
+      "excerpt": "Cette photographie d'illustration montre le logo de ChatGPT, un chatbot basé sur un. See image caption. See copyright. BIAIS EN SERIE. 25 février 2026...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Obliger les entreprises d'IA à signaler les menaces en ligne n'est pas si simple",
       "link": "https://www.leprogres.net/nouvelles-nationales/obliger-les-entreprises-dia-a-signaler-les-menaces-en-ligne-nest-pas-si-simple/",
@@ -66,66 +126,6 @@
       "description": "ChatGPT Enterprise. ChatGPT Enterprise. Tout sur ChatGPT Enterprise. ChatGPT Enterprise & Edu - Release Notes · ChatGPT Enterprise and Edu - Models...",
       "excerpt": "ChatGPT Enterprise. ChatGPT Enterprise. Tout sur ChatGPT Enterprise. ChatGPT Enterprise & Edu - Release Notes · ChatGPT Enterprise and Edu - Models...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Ce que cachent vraiment les outils de vérification d'âge déployés sur Discord, Roblox et ChatGPT",
-      "link": "https://securite.developpez.com/actu/380529/Ce-que-cachent-vraiment-les-outils-de-verification-d-age-deployes-sur-Discord-Roblox-et-ChatGPT-des-chercheurs-decouvrent-une-machine-de-surveillance-biometrique-a-269-controles-integres-dans-Persona/",
-      "url": "https://securite.developpez.com/actu/380529/Ce-que-cachent-vraiment-les-outils-de-verification-d-age-deployes-sur-Discord-Roblox-et-ChatGPT-des-chercheurs-decouvrent-une-machine-de-surveillance-biometrique-a-269-controles-integres-dans-Persona/",
-      "publishedAt": "2026-02-24T15:59:05.000Z",
-      "date": "2026-02-24T15:59:05.000Z",
-      "description": "... cybersécurité. Leur conclusion est cinglante: ils ont trouvé 2 456... ChatGPT ou encore Lime, et une version gouvernementale accessible via...",
-      "excerpt": "... cybersécurité. Leur conclusion est cinglante: ils ont trouvé 2 456... ChatGPT ou encore Lime, et une version gouvernementale accessible via...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité: Pourquoi l'IA d'Anthropic fait chuter les géants du secteur en Bourse",
-      "link": "https://www.zdnet.fr/actualites/cybersecurite-pourquoi-lia-danthropic-fait-chuter-les-geants-du-secteur-en-bourse-490801.htm",
-      "url": "https://www.zdnet.fr/actualites/cybersecurite-pourquoi-lia-danthropic-fait-chuter-les-geants-du-secteur-en-bourse-490801.htm",
-      "publishedAt": "2026-02-24T15:50:19.000Z",
-      "date": "2026-02-24T15:50:19.000Z",
-      "description": "Cybersécurité: Pourquoi l'IA d'Anthropic fait chuter les géants... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
-      "excerpt": "Cybersécurité: Pourquoi l'IA d'Anthropic fait chuter les géants... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Mysti - Quand Claude et ChatGPT débattent de votre code dans VS Code - Korben",
-      "link": "https://korben.info/mysti-extension-vs-code-brainstorming-ia.html",
-      "url": "https://korben.info/mysti-extension-vs-code-brainstorming-ia.html",
-      "publishedAt": "2026-02-24T15:46:29.000Z",
-      "date": "2026-02-24T15:46:29.000Z",
-      "description": "Mysti est une extension VS Code qui fait débattre Claude et ChatGPT sur votre code en temps réel, les deux IA critiquant les propositions de...",
-      "excerpt": "Mysti est une extension VS Code qui fait débattre Claude et ChatGPT sur votre code en temps réel, les deux IA critiquant les propositions de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GEO négatif: l'IA peut-elle salir une réputation? - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/geo-negatif-lia-peut-elle-salir-une-reputation",
-      "url": "https://www.lebigdata.fr/geo-negatif-lia-peut-elle-salir-une-reputation",
-      "publishedAt": "2026-02-24T14:39:29.000Z",
-      "date": "2026-02-24T14:39:29.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Sur les onze modèles analysés, deux ont mentionné les sites de test: Perplexity AI et OpenAI via ChatGPT.",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Sur les onze modèles analysés, deux ont mentionné les sites de test: Perplexity AI et OpenAI via ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Enterprise - OpenAI Help Center",
-      "link": "https://help.openai.com/fr-fr/collections/5688074-chatgpt-enterprise-and-edu",
-      "url": "https://help.openai.com/fr-fr/collections/5688074-chatgpt-enterprise-and-edu",
-      "publishedAt": "2026-02-24T10:13:02.000Z",
-      "date": "2026-02-24T10:13:02.000Z",
-      "description": "ChatGPT Enterprise & Edu - Notes de version · ChatGPT Enterprise et Edu - Modèles et limitesComprendre quels modèles sont les mieux adaptés à vos...",
-      "excerpt": "ChatGPT Enterprise & Edu - Notes de version · ChatGPT Enterprise et Edu - Modèles et limitesComprendre quels modèles sont les mieux adaptés à vos...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Ce serial killer a planifié ses meurtres via ChatGPT: le rapport de police est terrifiant",
-      "link": "https://www.lebigdata.fr/ce-serial-killer-a-planifie-ses-meurtres-via-chatgpt-le-rapport-de-police-est-terrifiant",
-      "url": "https://www.lebigdata.fr/ce-serial-killer-a-planifie-ses-meurtres-via-chatgpt-le-rapport-de-police-est-terrifiant",
-      "publishedAt": "2026-02-24T09:43:54.000Z",
-      "date": "2026-02-24T09:43:54.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Ce serial killer a planifié ses meurtres via ChatGPT: le rapport de police est...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Ce serial killer a planifié ses meurtres via ChatGPT: le rapport de police est...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
