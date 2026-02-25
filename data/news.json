@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T18:53:43.892Z",
+  "generatedAt": "2026-02-25T21:38:27.454Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Aramisauto transforme la recherche en ligne dans l'automobile d'occasion avec ChatGPT",
+      "link": "https://www.larevuedudigital.com/aramisauto-transforme-la-recherche-en-ligne-dans-lautomobile-doccasion-avec-chatgpt/",
+      "url": "https://www.larevuedudigital.com/aramisauto-transforme-la-recherche-en-ligne-dans-lautomobile-doccasion-avec-chatgpt/",
+      "publishedAt": "2026-02-25T20:52:51.000Z",
+      "date": "2026-02-25T20:52:51.000Z",
+      "description": "... Devops · Web Design. Digital. DMP · CRM onboarding · Mobile · Publicité · RGPD... ChatGPT est connecté au catalogue d'Aramisauto. Les sites e-commerce...",
+      "excerpt": "... Devops · Web Design. Digital. DMP · CRM onboarding · Mobile · Publicité · RGPD... ChatGPT est connecté au catalogue d'Aramisauto. Les sites e-commerce...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Bisatel Telecom: Arnaque au deepvoice: l'appel qui vide votre compte en 30 secondes",
+      "link": "https://www.news-eco.com/communique/arnaque-au-deepvoice-lappel-qui-vide-votre-compte-en-30-secondes/",
+      "url": "https://www.news-eco.com/communique/arnaque-au-deepvoice-lappel-qui-vide-votre-compte-en-30-secondes/",
+      "publishedAt": "2026-02-25T20:26:15.000Z",
+      "date": "2026-02-25T20:26:15.000Z",
+      "description": "L'autorité de marque sur ChatGPT. Date Communiqué de Presse... MÉTHODOLOGIE Analyse croisée fondée sur les rapports sectoriels de cybersécurité...",
+      "excerpt": "L'autorité de marque sur ChatGPT. Date Communiqué de Presse... MÉTHODOLOGIE Analyse croisée fondée sur les rapports sectoriels de cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Cette décision le prouve: OpenAI a définitivement choisi le profit au détriment de l'éthique",
       "link": "https://www.clubic.com/actualite-602143-cette-decision-le-prouve-openai-a-definitivement-choisi-le-profit-au-detriment-de-l-ethique.html",
@@ -106,26 +126,6 @@
       "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT consommerait environ 0,34 Wh. Rapporté au milliard de requêtes...",
       "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT consommerait environ 0,34 Wh. Rapporté au milliard de requêtes...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OM. Victime d'une cyberattaque, l'OM communique officiellement - Sportune",
-      "link": "https://sportune.20minutes.fr/om-victime-dune-cyberattaque-lom-communique-officiellement-395602",
-      "url": "https://sportune.20minutes.fr/om-victime-dune-cyberattaque-lom-communique-officiellement-395602",
-      "publishedAt": "2026-02-24T21:12:18.000Z",
-      "date": "2026-02-24T21:12:18.000Z",
-      "description": "... cybersécurité Clément « SaxX » Domingo. Lundi soir, sur son compte X... La réponse de ChatGPT à Luis Enrique. L'OM indique avoir engagé une...",
-      "excerpt": "... cybersécurité Clément « SaxX » Domingo. Lundi soir, sur son compte X... La réponse de ChatGPT à Luis Enrique. L'OM indique avoir engagé une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Enterprise | OpenAI Help Center",
-      "link": "https://help.openai.com/fr-ca/collections/5688074-chatgpt-enterprise-and-edu",
-      "url": "https://help.openai.com/fr-ca/collections/5688074-chatgpt-enterprise-and-edu",
-      "publishedAt": "2026-02-24T18:05:51.000Z",
-      "date": "2026-02-24T18:05:51.000Z",
-      "description": "ChatGPT Enterprise. ChatGPT Enterprise. Tout sur ChatGPT Enterprise. ChatGPT Enterprise & Edu - Release Notes · ChatGPT Enterprise and Edu - Models...",
-      "excerpt": "ChatGPT Enterprise. ChatGPT Enterprise. Tout sur ChatGPT Enterprise. ChatGPT Enterprise & Edu - Release Notes · ChatGPT Enterprise and Edu - Models...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
