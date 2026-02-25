@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-24T18:49:23.907Z",
+  "generatedAt": "2026-02-25T01:20:17.836Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OM. Victime d'une cyberattaque, l'OM communique officiellement - Sportune",
+      "link": "https://sportune.20minutes.fr/om-victime-dune-cyberattaque-lom-communique-officiellement-395602",
+      "url": "https://sportune.20minutes.fr/om-victime-dune-cyberattaque-lom-communique-officiellement-395602",
+      "publishedAt": "2026-02-24T21:12:18.000Z",
+      "date": "2026-02-24T21:12:18.000Z",
+      "description": "... cybersécurité Clément « SaxX » Domingo. Lundi soir, sur son compte X... La réponse de ChatGPT à Luis Enrique. L'OM indique avoir engagé une...",
+      "excerpt": "... cybersécurité Clément « SaxX » Domingo. Lundi soir, sur son compte X... La réponse de ChatGPT à Luis Enrique. L'OM indique avoir engagé une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Enterprise | OpenAI Help Center",
+      "link": "https://help.openai.com/fr-ca/collections/5688074-chatgpt-enterprise-and-edu",
+      "url": "https://help.openai.com/fr-ca/collections/5688074-chatgpt-enterprise-and-edu",
+      "publishedAt": "2026-02-24T18:05:51.000Z",
+      "date": "2026-02-24T18:05:51.000Z",
+      "description": "ChatGPT Enterprise. ChatGPT Enterprise. Tout sur ChatGPT Enterprise. ChatGPT Enterprise & Edu - Release Notes · ChatGPT Enterprise and Edu - Models...",
+      "excerpt": "ChatGPT Enterprise. ChatGPT Enterprise. Tout sur ChatGPT Enterprise. ChatGPT Enterprise & Edu - Release Notes · ChatGPT Enterprise and Edu - Models...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Ce que cachent vraiment les outils de vérification d'âge déployés sur Discord, Roblox et ChatGPT",
       "link": "https://securite.developpez.com/actu/380529/Ce-que-cachent-vraiment-les-outils-de-verification-d-age-deployes-sur-Discord-Roblox-et-ChatGPT-des-chercheurs-decouvrent-une-machine-de-surveillance-biometrique-a-269-controles-integres-dans-Persona/",
@@ -46,6 +66,16 @@
       "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Sur les onze modèles analysés, deux ont mentionné les sites de test: Perplexity AI et OpenAI via ChatGPT.",
       "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Sur les onze modèles analysés, deux ont mentionné les sites de test: Perplexity AI et OpenAI via ChatGPT.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Enterprise - OpenAI Help Center",
+      "link": "https://help.openai.com/fr-fr/collections/5688074-chatgpt-enterprise-and-edu",
+      "url": "https://help.openai.com/fr-fr/collections/5688074-chatgpt-enterprise-and-edu",
+      "publishedAt": "2026-02-24T10:13:02.000Z",
+      "date": "2026-02-24T10:13:02.000Z",
+      "description": "ChatGPT Enterprise & Edu - Notes de version · ChatGPT Enterprise et Edu - Modèles et limitesComprendre quels modèles sont les mieux adaptés à vos...",
+      "excerpt": "ChatGPT Enterprise & Edu - Notes de version · ChatGPT Enterprise et Edu - Modèles et limitesComprendre quels modèles sont les mieux adaptés à vos...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Ce serial killer a planifié ses meurtres via ChatGPT: le rapport de police est terrifiant",
@@ -96,36 +126,6 @@
       "description": "ChatGPT affirme que le compte a été suspendu en raison des publications de la suspecte, tout en disant ne pas avoir alerté les forces de l'ordre...",
       "excerpt": "ChatGPT affirme que le compte a été suspendu en raison des publications de la suspecte, tout en disant ne pas avoir alerté les forces de l'ordre...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Demander, Produire ou S'exprimer: Comment nous utilisons vraiment ChatGPT en 2026",
-      "link": "https://www.blog-nouvelles-technologies.fr/359107/openai-signals-chatgpt-usage-personnel-expressing-2026/",
-      "url": "https://www.blog-nouvelles-technologies.fr/359107/openai-signals-chatgpt-usage-personnel-expressing-2026/",
-      "publishedAt": "2026-02-23T19:22:01.000Z",
-      "date": "2026-02-23T19:22:01.000Z",
-      "description": "OpenAI vient de publier une nouvelle salve de données sur l'usage « grand public » de ChatGPT via sa page Signals, basée sur une analyse de...",
-      "excerpt": "OpenAI vient de publier une nouvelle salve de données sur l'usage « grand public » de ChatGPT via sa page Signals, basée sur une analyse de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Étude: ChatGPT pénalise les sites non anglophones - Abondance",
-      "link": "https://www.abondance.com/20260223-1945051-etude-chatgpt-penalise-les-sites-non-anglophones.html",
-      "url": "https://www.abondance.com/20260223-1945051-etude-chatgpt-penalise-les-sites-non-anglophones.html",
-      "publishedAt": "2026-02-23T18:31:59.000Z",
-      "date": "2026-02-23T18:31:59.000Z",
-      "description": "Une analyse portant sur plus de 10 millions de requêtes montre que ChatGPT bascule massivement ses recherches internes (query fan-out) vers...",
-      "excerpt": "Une analyse portant sur plus de 10 millions de requêtes montre que ChatGPT bascule massivement ses recherches internes (query fan-out) vers...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "2e bêta pour iOS 26.4, iPadOS 26.4, macOS 26.4, watchOS 26.4, tvOS 26.4 et visionOS 26.4",
-      "link": "https://www.mac4ever.com/divers/194838-2e-beta-pour-ios-26-4-ipados-26-4-macos-26-4-watchos-26-4-tvos-26-4-et-visionos-26-4",
-      "url": "https://www.mac4ever.com/divers/194838-2e-beta-pour-ios-26-4-ipados-26-4-macos-26-4-watchos-26-4-tvos-26-4-et-visionos-26-4",
-      "publishedAt": "2026-02-23T18:30:05.000Z",
-      "date": "2026-02-23T18:30:05.000Z",
-      "description": "Après avoir bouleversé le monde avec ChatGPT, OpenAI semble prête à franchir une nouvelle étape stratégique. Selon The Information, le tout premier...",
-      "excerpt": "Après avoir bouleversé le monde avec ChatGPT, OpenAI semble prête à franchir une nouvelle étape stratégique. Selon The Information, le tout premier...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
