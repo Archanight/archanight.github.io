@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T06:52:31.462Z",
+  "generatedAt": "2026-02-25T12:41:53.007Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Obliger les entreprises d'IA à signaler les menaces en ligne n'est pas si simple",
+      "link": "https://www.leprogres.net/nouvelles-nationales/obliger-les-entreprises-dia-a-signaler-les-menaces-en-ligne-nest-pas-si-simple/",
+      "url": "https://www.leprogres.net/nouvelles-nationales/obliger-les-entreprises-dia-a-signaler-les-menaces-en-ligne-nest-pas-si-simple/",
+      "publishedAt": "2026-02-25T04:23:44.000Z",
+      "date": "2026-02-25T04:23:44.000Z",
+      "description": "... cybersécurité. Emily Laidlaw, titulaire d'une chaire de recherche du... ChatGPT d'OpenAI il y a au moins sept mois. OpenAI n'a informé la...",
+      "excerpt": "... cybersécurité. Emily Laidlaw, titulaire d'une chaire de recherche du... ChatGPT d'OpenAI il y a au moins sept mois. OpenAI n'a informé la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI rolls out “Lockdown” and “Elevated Risk” safety modes - ZATAZ",
+      "link": "https://www.zataz.com/openai-rolls-out-lockdown-and-elevated-risk-safety-modes/",
+      "url": "https://www.zataz.com/openai-rolls-out-lockdown-and-elevated-risk-safety-modes/",
+      "publishedAt": "2026-02-25T03:51:01.000Z",
+      "date": "2026-02-25T03:51:01.000Z",
+      "description": "OpenAI says the standardized labeling appears across ChatGPT, ChatGPT Atlas, and Codex when users enable connectivity that introduces security gaps...",
+      "excerpt": "OpenAI says the standardized labeling appears across ChatGPT, ChatGPT Atlas, and Codex when users enable connectivity that introduces security gaps...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "L'IA générative au service des cybercriminels: un exemple bien concret | LeMagIT",
       "link": "https://www.lemagit.fr/actualites/366639287/LIA-generative-au-service-des-cybercriminels-un-exemple-bien-concret",
@@ -16,6 +36,16 @@
       "description": "« Un pipeline logiciel intégrant directement des modèles linguistiques de grande taille ( LLM ) dans le processus d'intrusion ».... CVE -2025-64446 et CVE...",
       "excerpt": "« Un pipeline logiciel intégrant directement des modèles linguistiques de grande taille ( LLM ) dans le processus d'intrusion ».... CVE -2025-64446 et CVE...",
       "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
+      "title": "L'IA peut-elle épuiser nos ressources? La réponse très contestée de Sam Altman",
+      "link": "https://siecledigital.fr/2026/02/24/sam-altman-compare-lia-a-lhumain-pour-defendre-sa-consommation-energetique/",
+      "url": "https://siecledigital.fr/2026/02/24/sam-altman-compare-lia-a-lhumain-pour-defendre-sa-consommation-energetique/",
+      "publishedAt": "2026-02-25T01:52:39.000Z",
+      "date": "2026-02-25T01:52:39.000Z",
+      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT consommerait environ 0,34 Wh. Rapporté au milliard de requêtes...",
+      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT consommerait environ 0,34 Wh. Rapporté au milliard de requêtes...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "OM. Victime d'une cyberattaque, l'OM communique officiellement - Sportune",
@@ -96,36 +126,6 @@
       "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Ce serial killer a planifié ses meurtres via ChatGPT: le rapport de police est...",
       "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Ce serial killer a planifié ses meurtres via ChatGPT: le rapport de police est...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "De la fraude aux malwares intelligents: la nouvelle stratégie IA des cybercriminels pour...",
-      "link": "https://www.bfmtv.com/tech/actualites/cybersecurite/de-la-fraude-aux-malwares-intelligents-la-nouvelle-strategie-ia-des-cybercriminels-pour-passer-a-la-vitesse-superieure_AN-202602240038.html",
-      "url": "https://www.bfmtv.com/tech/actualites/cybersecurite/de-la-fraude-aux-malwares-intelligents-la-nouvelle-strategie-ia-des-cybercriminels-pour-passer-a-la-vitesse-superieure_AN-202602240038.html",
-      "publishedAt": "2026-02-24T08:01:11.000Z",
-      "date": "2026-02-24T08:01:11.000Z",
-      "description": "Dans son rapport annuel sur les menaces mondiales, l'entreprise de cybersécurité Crowdstrike alerte sur la montée en puissance de l'IA par les...",
-      "excerpt": "Dans son rapport annuel sur les menaces mondiales, l'entreprise de cybersécurité Crowdstrike alerte sur la montée en puissance de l'IA par les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA: trois télévisions sud-coréennes poursuivent OpenAI en justice - KBS WORLD",
-      "link": "https://world.kbs.co.kr/service/news_view.htm?lang=f&Seq_Code=93942",
-      "url": "https://world.kbs.co.kr/service/news_view.htm?lang=f&Seq_Code=93942",
-      "publishedAt": "2026-02-24T04:07:12.000Z",
-      "date": "2026-02-24T04:07:12.000Z",
-      "description": "... Update: 2026-02-24 13:01:28... A ce propos, l'association des diffuseurs hertziens sud-coréens (KBA) a rappelé que si la maison mère de ChatGPT...",
-      "excerpt": "... Update: 2026-02-24 13:01:28... A ce propos, l'association des diffuseurs hertziens sud-coréens (KBA) a rappelé que si la maison mère de ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "L'IA va-t-elle détruire vos emplois et épuiser les ressources? La réponse de Sam Altman!",
-      "link": "https://www.mac4ever.com/ia/194828-l-ia-va-t-elle-detruire-des-emplois-et-epuiser-les-ressources-la-reponse-de-sam-altman",
-      "url": "https://www.mac4ever.com/ia/194828-l-ia-va-t-elle-detruire-des-emplois-et-epuiser-les-ressources-la-reponse-de-sam-altman",
-      "publishedAt": "2026-02-23T21:10:14.000Z",
-      "date": "2026-02-23T21:10:14.000Z",
-      "description": "Sam Altman s'est d'abord attaqué à l'idée selon laquelle chaque requête adressée à ChatGPT consommerait des litres d'eau. C'est complètement faux...",
-      "excerpt": "Sam Altman s'est d'abord attaqué à l'idée selon laquelle chaque requête adressée à ChatGPT consommerait des litres d'eau. C'est complètement faux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
