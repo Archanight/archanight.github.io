@@ -163,6 +163,104 @@
         // Ã‰tat par dÃ©faut
         applyFilter('all');
     }
+
+    // Parcours - Modale projets de stage + bloc phishing dÃ©pliable
+    const stageModalTriggers = document.querySelectorAll('[data-stage-modal-open]');
+    const stageModals = document.querySelectorAll('.stage-projects-modal[data-stage-modal]');
+    const stageSplitToggles = document.querySelectorAll('[data-stage-split-toggle]');
+
+    const collapseSplitToggle = (toggleBtn) => {
+        const controlsId = toggleBtn.getAttribute('aria-controls');
+        const splitGrid = controlsId ? document.getElementById(controlsId) : null;
+        if (!splitGrid) return;
+        splitGrid.hidden = true;
+        toggleBtn.setAttribute('aria-expanded', 'false');
+        toggleBtn.classList.remove('is-open');
+    };
+
+    if (stageSplitToggles.length > 0) {
+        stageSplitToggles.forEach((toggleBtn) => {
+            const controlsId = toggleBtn.getAttribute('aria-controls');
+            const splitGrid = controlsId ? document.getElementById(controlsId) : null;
+            if (!splitGrid) return;
+
+            collapseSplitToggle(toggleBtn);
+
+            toggleBtn.addEventListener('click', () => {
+                const isExpanded = toggleBtn.getAttribute('aria-expanded') === 'true';
+                const nextExpanded = !isExpanded;
+
+                toggleBtn.setAttribute('aria-expanded', nextExpanded ? 'true' : 'false');
+                toggleBtn.classList.toggle('is-open', nextExpanded);
+                splitGrid.hidden = !nextExpanded;
+            });
+        });
+    }
+
+    if (stageModalTriggers.length > 0 && stageModals.length > 0) {
+        const modalMap = new Map();
+        let activeModal = null;
+
+        stageModals.forEach((modal) => {
+            const modalKey = modal.getAttribute('data-stage-modal');
+            if (modalKey) modalMap.set(modalKey, modal);
+        });
+
+        const resetModalSplits = (modal) => {
+            const localToggles = modal.querySelectorAll('[data-stage-split-toggle]');
+            localToggles.forEach((toggleBtn) => {
+                collapseSplitToggle(toggleBtn);
+            });
+        };
+
+        const openStageModal = (modal) => {
+            if (!modal) return;
+            modal.classList.add('is-open');
+            modal.setAttribute('aria-hidden', 'false');
+            document.body.classList.add('modal-open');
+            activeModal = modal;
+
+            const dialog = modal.querySelector('.stage-projects-modal-dialog');
+            if (dialog) dialog.focus();
+        };
+
+        const closeStageModal = (modal) => {
+            if (!modal) return;
+            modal.classList.remove('is-open');
+            modal.setAttribute('aria-hidden', 'true');
+            resetModalSplits(modal);
+
+            if (activeModal === modal) {
+                activeModal = null;
+            }
+            if (!document.querySelector('.stage-projects-modal.is-open')) {
+                document.body.classList.remove('modal-open');
+            }
+        };
+
+        stageModalTriggers.forEach((trigger) => {
+            trigger.addEventListener('click', () => {
+                const targetKey = trigger.getAttribute('data-stage-modal-open');
+                const modal = modalMap.get(targetKey || '');
+                openStageModal(modal);
+            });
+        });
+
+        stageModals.forEach((modal) => {
+            modal.addEventListener('click', (e) => {
+                const closeTarget = e.target.closest('[data-stage-modal-close]');
+                if (closeTarget) {
+                    closeStageModal(modal);
+                }
+            });
+        });
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && activeModal) {
+                closeStageModal(activeModal);
+            }
+        });
+    }
 });
 
 // Veille FAQ accordion

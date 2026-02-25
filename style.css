@@ -1068,6 +1068,305 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
     filter: brightness(1.03);
 }
 
+/* Parcours - Projets de stage */
+.timeline-project-inline {
+    margin-top: 16px;
+    padding: 14px 14px 12px;
+    border-radius: 14px;
+    border: 1px solid rgba(0, 174, 255, 0.28);
+    background: linear-gradient(165deg, rgba(10, 23, 44, 0.62), rgba(10, 20, 38, 0.42));
+}
+
+.timeline-project-inline--support {
+    border-color: rgba(0, 224, 198, 0.26);
+    background: linear-gradient(165deg, rgba(7, 26, 44, 0.64), rgba(7, 20, 36, 0.46));
+}
+
+.timeline-project-line {
+    margin: 0 0 10px;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 9px;
+    color: var(--text-primary);
+    font-weight: 700;
+    font-size: 0.92rem;
+    line-height: 1.5;
+}
+
+.timeline-project-line i {
+    color: var(--secondary-color);
+    margin-top: 3px;
+}
+
+.timeline-project-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 16px;
+    border-radius: 999px;
+    border: 1px solid rgba(0, 174, 255, 0.36);
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 800;
+    font-family: var(--font-primary);
+    color: #d7f4ff;
+    background: rgba(0, 174, 255, 0.12);
+    box-shadow: 0 12px 26px rgba(0, 174, 255, 0.18);
+    transition: transform 0.2s ease, box-shadow 0.25s ease, filter 0.25s ease, background-color 0.25s ease;
+}
+
+.timeline-project-btn:hover {
+    transform: translateY(-1px);
+    filter: brightness(1.03);
+    box-shadow: 0 16px 30px rgba(0, 174, 255, 0.2);
+}
+
+.timeline-project-btn--primary {
+    border: 0;
+    color: #081222;
+    background: linear-gradient(135deg, #00b6ff, #00e0c6);
+}
+
+.timeline-project-btn--primary:hover {
+    box-shadow: 0 16px 34px rgba(0, 224, 198, 0.25);
+}
+
+/* Modale projets de stage */
+.stage-projects-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 2200;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition: opacity 0.22s ease, visibility 0.22s ease;
+}
+
+.stage-projects-modal.is-open {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+}
+
+.stage-projects-modal-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(7, 12, 22, 0.76);
+    backdrop-filter: blur(2px);
+}
+
+.stage-projects-modal-dialog {
+    position: relative;
+    width: min(980px, calc(100% - 34px));
+    max-height: min(88vh, 820px);
+    overflow: auto;
+    border-radius: 18px;
+    border: 1px solid rgba(95, 135, 205, 0.34);
+    background: linear-gradient(180deg, rgba(15, 28, 52, 0.96), rgba(10, 18, 33, 0.98));
+    box-shadow: 0 30px 60px rgba(0, 0, 0, 0.45);
+    transform: translateY(14px) scale(0.98);
+    transition: transform 0.24s ease;
+}
+
+.stage-projects-modal.is-open .stage-projects-modal-dialog {
+    transform: translateY(0) scale(1);
+}
+
+.stage-projects-modal-close {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    width: 38px;
+    height: 38px;
+    border: 0;
+    border-radius: 999px;
+    cursor: pointer;
+    color: #f2f8ff;
+    background: rgba(255, 255, 255, 0.14);
+    transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.stage-projects-modal-close:hover {
+    transform: scale(1.05);
+    background: rgba(255, 255, 255, 0.26);
+}
+
+.stage-projects-modal-header {
+    padding: 26px 28px 24px;
+    border-bottom: 1px solid rgba(94, 144, 226, 0.35);
+    background: linear-gradient(105deg, rgba(115, 59, 245, 0.88), rgba(28, 108, 255, 0.88));
+}
+
+.stage-projects-modal-subtitle {
+    margin: 0;
+    color: rgba(232, 242, 255, 0.9);
+    font-size: 0.95rem;
+}
+
+.stage-projects-modal-header h3 {
+    margin: 6px 0 0;
+    color: #ffffff;
+    font-size: clamp(1.32rem, 2.1vw, 2rem);
+    line-height: 1.25;
+    font-family: var(--font-primary);
+}
+
+.stage-projects-modal-body {
+    padding: 22px;
+    display: grid;
+    gap: 14px;
+}
+
+.stage-project-entry {
+    border-radius: 14px;
+    border: 1px solid rgba(122, 165, 232, 0.25);
+    background: rgba(15, 28, 50, 0.6);
+    padding: 16px 17px;
+}
+
+.stage-project-entry-head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 14px;
+    margin-bottom: 8px;
+}
+
+.stage-project-entry-head h4 {
+    margin: 0;
+    color: var(--text-primary);
+    font-size: 1.15rem;
+    line-height: 1.35;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.stage-project-entry-head h4 i {
+    color: rgba(138, 230, 255, 0.95);
+}
+
+.stage-project-entry p {
+    margin: 0 0 11px;
+    color: #bbcee4;
+    line-height: 1.5;
+}
+
+.stage-project-chip {
+    flex-shrink: 0;
+    padding: 5px 10px;
+    border-radius: 999px;
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+}
+
+.stage-project-chip--active {
+    color: #f8eccc;
+    border: 1px solid rgba(250, 213, 120, 0.48);
+    background: rgba(246, 199, 90, 0.16);
+}
+
+.stage-project-chip--group {
+    color: #eadcff;
+    border: 1px solid rgba(201, 144, 255, 0.46);
+    background: rgba(166, 87, 255, 0.2);
+}
+
+.stage-project-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 10px 15px;
+    border-radius: 999px;
+    border: 1px solid rgba(0, 174, 255, 0.35);
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 800;
+    font-family: var(--font-primary);
+    color: #d7f6ff;
+    background: rgba(0, 174, 255, 0.13);
+    transition: transform 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.stage-project-link:hover {
+    transform: translateY(-1px);
+    border-color: rgba(0, 224, 198, 0.5);
+    background: rgba(0, 224, 198, 0.16);
+}
+
+.stage-project-link--toggle {
+    border: 0;
+    color: #071624;
+    background: linear-gradient(135deg, #00b2ff, #00e0c6);
+}
+
+.stage-project-link--toggle:hover {
+    background: linear-gradient(135deg, #24c3ff, #2cefd3);
+}
+
+.stage-project-split-grid {
+    margin-top: 12px;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 12px;
+}
+
+.stage-project-split-card {
+    text-decoration: none;
+    border-radius: 14px;
+    border: 1px solid rgba(120, 165, 238, 0.28);
+    background: rgba(13, 23, 44, 0.75);
+    padding: 16px 12px;
+    display: grid;
+    justify-items: center;
+    text-align: center;
+    gap: 8px;
+    transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.stage-project-split-card:hover {
+    transform: translateY(-2px);
+    border-color: rgba(0, 224, 198, 0.52);
+    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.28);
+}
+
+.stage-project-split-icon {
+    width: 58px;
+    height: 58px;
+    border-radius: 999px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: #dff7ff;
+    border: 1px solid rgba(0, 224, 198, 0.25);
+    background: rgba(0, 174, 255, 0.14);
+    font-size: 1.35rem;
+}
+
+.stage-project-split-title {
+    color: var(--text-primary);
+    font-size: 1.08rem;
+    font-family: var(--font-primary);
+    font-weight: 700;
+}
+
+.stage-project-split-desc {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    line-height: 1.45;
+}
+
+body.modal-open {
+    overflow: hidden;
+}
+
 @media (max-width: 700px) {
     .stage-cards {
         gap: 16px;
@@ -1102,6 +1401,34 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
         margin: 0;
         padding: 8px 12px;
         font-size: 0.8rem;
+    }
+
+    .stage-project-entry-head {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .stage-project-split-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 860px) {
+    .stage-projects-modal-dialog {
+        width: calc(100% - 20px);
+    }
+
+    .stage-projects-modal-header {
+        padding: 20px 22px 18px;
+    }
+
+    .stage-projects-modal-body {
+        padding: 15px;
+    }
+
+    .stage-project-link,
+    .timeline-project-btn {
+        width: 100%;
     }
 }
 
