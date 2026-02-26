@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T18:19:38.205Z",
+  "generatedAt": "2026-02-26T18:39:33.555Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -26,6 +26,16 @@
       "description": "ChatGPT au bureau, à la fac… et chez le médecin: l... Adoption rapide, avance européenne, mais aussi inquiétudes sur l'emploi, la cybersécurité...",
       "excerpt": "ChatGPT au bureau, à la fac… et chez le médecin: l... Adoption rapide, avance européenne, mais aussi inquiétudes sur l'emploi, la cybersécurité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Qui fixe vraiment les règles du jeu en 2026? - Etourisme.info",
+      "link": "https://www.etourisme.info/qui-fixe-vraiment-les-regles-du-jeu-en-2026/",
+      "url": "https://www.etourisme.info/qui-fixe-vraiment-les-regles-du-jeu-en-2026/",
+      "publishedAt": "2026-02-26T12:49:37.000Z",
+      "date": "2026-02-26T12:49:37.000Z",
+      "description": "99,8% des utilisateurs de ChatGPT utilisent aussi Google. Le vrai danger, ce ne sont pas les chatbots mais les AI Overviews. Ces synthèses IA que...",
+      "excerpt": "99,8% des utilisateurs de ChatGPT utilisent aussi Google. Le vrai danger, ce ne sont pas les chatbots mais les AI Overviews. Ces synthèses IA que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Ne demandez pas à ChatGPT de générer vos mots de passe - PhonAndroid",
@@ -115,16 +125,6 @@
       "date": "2026-02-25T14:29:17.000Z",
       "description": "Cybersécurité · Nutrition. Se connecter avec Patreon. Vous n'avez pas... ChatGPT que les sites à faible confiance (DT < 43). Les estimations de...",
       "excerpt": "Cybersécurité · Nutrition. Se connecter avec Patreon. Vous n'avez pas... ChatGPT que les sites à faible confiance (DT < 43). Les estimations de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "\"Il est envisageable qu'il remplace certains rituels religieux\": au Japon, un robot-moine...",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/il-est-envisageable-qu-il-remplace-certains-rituels-religieux-au-japon-un-robot-moine-alimente-par-l-ia-va-apaiser-les-esprits_AD-202602250567.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/il-est-envisageable-qu-il-remplace-certains-rituels-religieux-au-japon-un-robot-moine-alimente-par-l-ia-va-apaiser-les-esprits_AD-202602250567.html",
-      "publishedAt": "2026-02-25T14:13:08.000Z",
-      "date": "2026-02-25T14:13:08.000Z",
-      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons plans · BFM... Grâce à ChatGPT, il peut prodiguer des conseils et...",
-      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons plans · BFM... Grâce à ChatGPT, il peut prodiguer des conseils et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
