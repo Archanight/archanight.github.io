@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T21:38:27.454Z",
+  "generatedAt": "2026-02-26T12:41:44.770Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "IA et cyberdéfense - l'ANSSI pose une question simple et personne n'a de réponse - Clubic",
+      "link": "https://www.clubic.com/actualite-602311-ia-et-cyberdefense---l-anssi-pose-une-question-et-personne-n-a-de-reponse.html",
+      "url": "https://www.clubic.com/actualite-602311-ia-et-cyberdefense---l-anssi-pose-une-question-et-personne-n-a-de-reponse.html",
+      "publishedAt": "2026-02-26T10:46:01.000Z",
+      "date": "2026-02-26T10:46:01.000Z",
+      "description": "Les SOC (Security Operations Centers) accumulent les difficultés. D'un côté, le volume des alertes est en hausse et les périmètres à surveiller sont...",
+      "excerpt": "Les SOC (Security Operations Centers) accumulent les difficultés. D'un côté, le volume des alertes est en hausse et les périmètres à surveiller sont...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT va proposer une offre à 100 dollars par mois, pour ceux qui sont limités par la version Plus",
+      "link": "https://www.phonandroid.com/chatgpt-va-proposer-une-offre-a-100-dollars-par-mois-pour-ceux-qui-sont-limites-par-la-version-plus.html",
+      "url": "https://www.phonandroid.com/chatgpt-va-proposer-une-offre-a-100-dollars-par-mois-pour-ceux-qui-sont-limites-par-la-version-plus.html",
+      "publishedAt": "2026-02-26T09:53:01.000Z",
+      "date": "2026-02-26T09:53:01.000Z",
+      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT va proposer une offre à 100 dollars par mois, pour ceux qui sont...",
+      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT va proposer une offre à 100 dollars par mois, pour ceux qui sont...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Pierre Fabre: l'IA pour 10 000 salariés, depuis Castres - Lejourguinee",
+      "link": "https://www.lejourguinee.com/pierre-fabre-comment-le-geant-pharma-de-castres-a-mis-lia-entre-les-mains-de-ses-10-000-salaries/",
+      "url": "https://www.lejourguinee.com/pierre-fabre-comment-le-geant-pharma-de-castres-a-mis-lia-entre-les-mains-de-ses-10-000-salaries/",
+      "publishedAt": "2026-02-26T07:03:06.000Z",
+      "date": "2026-02-26T07:03:06.000Z",
+      "description": "Pierre Fabre déploie un ChatGPT privé pour 10 000 salariés, conçoit des molécules anti-cancer par IA et investit 250 M€. Tout ça depuis Castres,...",
+      "excerpt": "Pierre Fabre déploie un ChatGPT privé pour 10 000 salariés, conçoit des molécules anti-cancer par IA et investit 250 M€. Tout ça depuis Castres,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un rapport révèle comment un responsable chinois a documenté les opérations mondiales...",
+      "link": "https://www.mixvale.com.br/2026/02/25/un-rapport-revele-comment-un-responsable-chinois-a-documente-les-operations-mondiales-de-harcelement-avec-chatgpt-fr/amp/",
+      "url": "https://www.mixvale.com.br/2026/02/25/un-rapport-revele-comment-un-responsable-chinois-a-documente-les-operations-mondiales-de-harcelement-avec-chatgpt-fr/amp/",
+      "publishedAt": "2026-02-26T03:08:31.000Z",
+      "date": "2026-02-26T03:08:31.000Z",
+      "description": "Les experts en cybersécurité notent que de telles opérations... ChatGPT Rapport de répression OpenAIUn responsable chinois utilise ChatGPT...",
+      "excerpt": "Les experts en cybersécurité notent que de telles opérations... ChatGPT Rapport de répression OpenAIUn responsable chinois utilise ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Aramisauto transforme la recherche en ligne dans l'automobile d'occasion avec ChatGPT",
       "link": "https://www.larevuedudigital.com/aramisauto-transforme-la-recherche-en-ligne-dans-lautomobile-doccasion-avec-chatgpt/",
@@ -85,46 +125,6 @@
       "date": "2026-02-25T12:58:11.000Z",
       "description": "Cette photographie d'illustration montre le logo de ChatGPT, un chatbot basé sur un. See image caption. See copyright. BIAIS EN SERIE. 25 février 2026...",
       "excerpt": "Cette photographie d'illustration montre le logo de ChatGPT, un chatbot basé sur un. See image caption. See copyright. BIAIS EN SERIE. 25 février 2026...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Obliger les entreprises d'IA à signaler les menaces en ligne n'est pas si simple",
-      "link": "https://www.leprogres.net/nouvelles-nationales/obliger-les-entreprises-dia-a-signaler-les-menaces-en-ligne-nest-pas-si-simple/",
-      "url": "https://www.leprogres.net/nouvelles-nationales/obliger-les-entreprises-dia-a-signaler-les-menaces-en-ligne-nest-pas-si-simple/",
-      "publishedAt": "2026-02-25T04:23:44.000Z",
-      "date": "2026-02-25T04:23:44.000Z",
-      "description": "... cybersécurité. Emily Laidlaw, titulaire d'une chaire de recherche du... ChatGPT d'OpenAI il y a au moins sept mois. OpenAI n'a informé la...",
-      "excerpt": "... cybersécurité. Emily Laidlaw, titulaire d'une chaire de recherche du... ChatGPT d'OpenAI il y a au moins sept mois. OpenAI n'a informé la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI rolls out “Lockdown” and “Elevated Risk” safety modes - ZATAZ",
-      "link": "https://www.zataz.com/openai-rolls-out-lockdown-and-elevated-risk-safety-modes/",
-      "url": "https://www.zataz.com/openai-rolls-out-lockdown-and-elevated-risk-safety-modes/",
-      "publishedAt": "2026-02-25T03:51:01.000Z",
-      "date": "2026-02-25T03:51:01.000Z",
-      "description": "OpenAI says the standardized labeling appears across ChatGPT, ChatGPT Atlas, and Codex when users enable connectivity that introduces security gaps...",
-      "excerpt": "OpenAI says the standardized labeling appears across ChatGPT, ChatGPT Atlas, and Codex when users enable connectivity that introduces security gaps...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'IA générative au service des cybercriminels: un exemple bien concret | LeMagIT",
-      "link": "https://www.lemagit.fr/actualites/366639287/LIA-generative-au-service-des-cybercriminels-un-exemple-bien-concret",
-      "url": "https://www.lemagit.fr/actualites/366639287/LIA-generative-au-service-des-cybercriminels-un-exemple-bien-concret",
-      "publishedAt": "2026-02-25T03:15:58.000Z",
-      "date": "2026-02-25T03:15:58.000Z",
-      "description": "« Un pipeline logiciel intégrant directement des modèles linguistiques de grande taille ( LLM ) dans le processus d'intrusion ».... CVE -2025-64446 et CVE...",
-      "excerpt": "« Un pipeline logiciel intégrant directement des modèles linguistiques de grande taille ( LLM ) dans le processus d'intrusion ».... CVE -2025-64446 et CVE...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "L'IA peut-elle épuiser nos ressources? La réponse très contestée de Sam Altman",
-      "link": "https://siecledigital.fr/2026/02/24/sam-altman-compare-lia-a-lhumain-pour-defendre-sa-consommation-energetique/",
-      "url": "https://siecledigital.fr/2026/02/24/sam-altman-compare-lia-a-lhumain-pour-defendre-sa-consommation-energetique/",
-      "publishedAt": "2026-02-25T01:52:39.000Z",
-      "date": "2026-02-25T01:52:39.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT consommerait environ 0,34 Wh. Rapporté au milliard de requêtes...",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT consommerait environ 0,34 Wh. Rapporté au milliard de requêtes...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
