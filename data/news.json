@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T18:29:59.749Z",
+  "generatedAt": "2026-02-27T19:51:19.537Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Nick Turley d'OpenAI annonce que ChatGPT vient de franchir le cap des 900 millions... - Zonebourse",
+      "link": "https://www.zonebourse.com/actualite-bourse/nick-turley-d-openai-annonce-que-chatgpt-vient-de-franchir-le-cap-des-900-millions-d-utilisateurs-h-ce7e5cdfdd88f225",
+      "url": "https://www.zonebourse.com/actualite-bourse/nick-turley-d-openai-annonce-que-chatgpt-vient-de-franchir-le-cap-des-900-millions-d-utilisateurs-h-ce7e5cdfdd88f225",
+      "publishedAt": "2026-02-27T16:57:18.000Z",
+      "date": "2026-02-27T16:57:18.000Z",
+      "description": "Nick Turley d'OpenAI: ChatGPT vient de dépasser les 900 millions d... Cybersécurité · Blockchain. Notations Techniques. Actions survendues...",
+      "excerpt": "Nick Turley d'OpenAI: ChatGPT vient de dépasser les 900 millions d... Cybersécurité · Blockchain. Notations Techniques. Actions survendues...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI lève 110 milliards de dollars, un record - Tech - Economie - Ahraminfo",
       "link": "https://french.ahram.org.eg/News/81862.aspx",
@@ -117,16 +127,6 @@
       "date": "2026-02-27T09:46:09.000Z",
       "description": "Hallow dépasse WhatsApp et ChatGPT sur l'App Store - Le mercredi des Cendres, l'application de prière devient numéro un aux États-Unis.",
       "excerpt": "Hallow dépasse WhatsApp et ChatGPT sur l'App Store - Le mercredi des Cendres, l'application de prière devient numéro un aux États-Unis.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Claude crushes ChatGPT? Anthropic's INCREDIBLE update! - YouTube",
-      "link": "https://www.youtube.com/shorts/IKbqjNZ8DE8",
-      "url": "https://www.youtube.com/shorts/IKbqjNZ8DE8",
-      "publishedAt": "2026-02-26T21:11:07.000Z",
-      "date": "2026-02-26T21:11:07.000Z",
-      "description": "... ChatGPT! N'oublie pas de t'abonner et d'activer la cloche pour ne... Anthropic's INCREDIBLE update!. 5. Dislike.",
-      "excerpt": "... ChatGPT! N'oublie pas de t'abonner et d'activer la cloche pour ne... Anthropic's INCREDIBLE update!. 5. Dislike.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
