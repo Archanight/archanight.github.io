@@ -521,8 +521,7 @@ function renderSources(sources) {
 
     const safeSources = sources
         .map((url) => normalizeArticleLink(url))
-        .filter(Boolean)
-        .slice(0, 3);
+        .filter(Boolean);
 
     if (!safeSources.length) {
         list.innerHTML = "<li>Aucune source RSS configurée.</li>";

@@ -1971,12 +1971,32 @@ body.modal-open {
   padding-left: 0 !important;
   padding-inline-start: 0 !important;
   width: min(100%, 320px);
+  max-height: 430px;
+  overflow-y: auto;
+  padding-right: 4px;
   list-style: none;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   gap: 10px;
+}
+
+#veille-page .veille-summary-card {
+  margin-top: 4px;
+}
+
+#veille-page .veille-summary-actions {
+  margin-top: 14px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+@media (max-width: 700px) {
+  #veille-page .veille-summary-actions .stage-download {
+    width: 100%;
+    justify-content: center;
+  }
 }
 
 #veille-page .rss-source-item {
