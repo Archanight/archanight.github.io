@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T18:39:33.555Z",
+  "generatedAt": "2026-02-27T01:12:38.992Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,6 +7,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Une opération mondiale d'intimidation chinoise révélée suite à une utilisation abusive de ChatGPT",
+      "link": "https://www.mixvale.com.br/2026/02/26/une-operation-mondiale-dintimidation-chinoise-revelee-suite-a-une-utilisation-abusive-de-chatgpt-fr/",
+      "url": "https://www.mixvale.com.br/2026/02/26/une-operation-mondiale-dintimidation-chinoise-revelee-suite-a-une-utilisation-abusive-de-chatgpt-fr/",
+      "publishedAt": "2026-02-26T19:44:15.000Z",
+      "date": "2026-02-26T19:44:15.000Z",
+      "description": "ChatGPT. En outre, l'opération comprenait la production de... cybersécurité. La divulgation publique de ces opérations sensibilise et...",
+      "excerpt": "ChatGPT. En outre, l'opération comprenait la production de... cybersécurité. La divulgation publique de ces opérations sensibilise et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Plus fort que ChatGPT? Perplexity lance « Computer », l'agent IA capable de piloter votre PC",
       "link": "https://www.clubic.com/actualite-602380-wip-plus-fort-que-chatgpt-perplexity-lance-computer-l-agent-ia-capable-de-piloter-un-navigateur.html",
@@ -115,16 +125,6 @@
       "date": "2026-02-25T14:51:36.000Z",
       "description": "Si ce changement peut paraître anodin, il a de quoi poser de sérieuses questions. ChatGPT ( GPT-5.2 ). Chat dans différentes...",
       "excerpt": "Si ce changement peut paraître anodin, il a de quoi poser de sérieuses questions. ChatGPT ( GPT-5.2 ). Chat dans différentes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Vous voulez que ChatGPT cite votre marque? Voici exactement ce que les IA regardent en premier",
-      "link": "https://www.futura-sciences.com/tech/questions-reponses/intelligence-artificielle-vous-voulez-chatgpt-cite-votre-marque-voici-exactement-ce-ia-regardent-premier-24496/",
-      "url": "https://www.futura-sciences.com/tech/questions-reponses/intelligence-artificielle-vous-voulez-chatgpt-cite-votre-marque-voici-exactement-ce-ia-regardent-premier-24496/",
-      "publishedAt": "2026-02-25T14:29:17.000Z",
-      "date": "2026-02-25T14:29:17.000Z",
-      "description": "Cybersécurité · Nutrition. Se connecter avec Patreon. Vous n'avez pas... ChatGPT que les sites à faible confiance (DT < 43). Les estimations de...",
-      "excerpt": "Cybersécurité · Nutrition. Se connecter avec Patreon. Vous n'avez pas... ChatGPT que les sites à faible confiance (DT < 43). Les estimations de...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
