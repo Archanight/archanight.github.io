@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T19:55:30.945Z",
+  "generatedAt": "2026-02-28T01:07:23.435Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Claude vient de tripler ses inscriptions en un temps record - Clubic",
+      "link": "https://www.clubic.com/actualite-602473-claude-vient-de-tripler-ses-inscriptions-en-un-temps-record.html",
+      "url": "https://www.clubic.com/actualite-602473-claude-vient-de-tripler-ses-inscriptions-en-un-temps-record.html",
+      "publishedAt": "2026-02-27T21:13:12.000Z",
+      "date": "2026-02-27T21:13:12.000Z",
+      "description": "... ChatGPT ( GPT-5.2 )Télécharger · VLC media playerTélécharger · Adobe Acrobat Reader DC...",
+      "excerpt": "... ChatGPT ( GPT-5.2 )Télécharger · VLC media playerTélécharger · Adobe Acrobat Reader DC...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Où OpenAI doit-il fixer le seuil de signalement de ChatGPT? | OHdio - Radio-Canada",
+      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2310785/entrevue-avec-alan-davoust",
+      "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2310785/entrevue-avec-alan-davoust",
+      "publishedAt": "2026-02-27T20:39:38.000Z",
+      "date": "2026-02-27T20:39:38.000Z",
+      "description": "Écoutez l'extrait de l'émission Phare Ouest: Où OpenAI doit-il fixer le seuil de signalement de ChatGPT... cybersécurité et confiance numérique,...",
+      "excerpt": "Écoutez l'extrait de l'émission Phare Ouest: Où OpenAI doit-il fixer le seuil de signalement de ChatGPT... cybersécurité et confiance numérique,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Scaling AI for everyone | OpenAI",
+      "link": "https://openai.com/fr-FR/index/scaling-ai-for-everyone/",
+      "url": "https://openai.com/fr-FR/index/scaling-ai-for-everyone/",
+      "publishedAt": "2026-02-27T20:17:21.000Z",
+      "date": "2026-02-27T20:17:21.000Z",
+      "description": "ChatGPT is where people start with AI, with more than 900M weekly... GPT-4o mini · Sora. Sécurité. Notre approche de la sécurité · Sécurité et...",
+      "excerpt": "ChatGPT is where people start with AI, with more than 900M weekly... GPT-4o mini · Sora. Sécurité. Notre approche de la sécurité · Sécurité et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Nick Turley d'OpenAI annonce que ChatGPT vient de franchir le cap des 900 millions... - Zonebourse",
       "link": "https://www.zonebourse.com/actualite-bourse/nick-turley-d-openai-annonce-que-chatgpt-vient-de-franchir-le-cap-des-900-millions-d-utilisateurs-h-ce7e5cdfdd88f225",
@@ -27,6 +57,16 @@
       "date": "2026-02-27T16:48:43.000Z",
       "description": "Le géant américain Amazon va investir 50 milliards de dollars dans le créateur de ChatGPT, tandis que le spécialiste américain des puces Nvidia et le...",
       "excerpt": "Le géant américain Amazon va investir 50 milliards de dollars dans le créateur de ChatGPT, tandis que le spécialiste américain des puces Nvidia et le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lève 110G$US, un record - Les Affaires",
+      "link": "https://www.lesaffaires.com/secteurs/intelligence-artificielle/openai-leve-110gus-un-record/",
+      "url": "https://www.lesaffaires.com/secteurs/intelligence-artificielle/openai-leve-110gus-un-record/",
+      "publishedAt": "2026-02-27T16:40:55.000Z",
+      "date": "2026-02-27T16:40:55.000Z",
+      "description": "Le groupe de San Francisco revendique plus de 900 millions d'utilisateurs hebdomadaires de ChatGPT... Cybersécurité proactive: pilotage stratégique...",
+      "excerpt": "Le groupe de San Francisco revendique plus de 900 millions d'utilisateurs hebdomadaires de ChatGPT... Cybersécurité proactive: pilotage stratégique...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -88,46 +128,6 @@
       "description": "... Cybersécurité, États Unis... Un rapport révèle l'utilisation de ChatGPT pour coordonner des campagnes contre des dissidents à l'étranger.",
       "excerpt": "... Cybersécurité, États Unis... Un rapport révèle l'utilisation de ChatGPT pour coordonner des campagnes contre des dissidents à l'étranger.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La pub débarque sur ChatGPT, et avec elle son lot de questions",
-      "link": "https://www.journaldunet.com/adtech/1548345-la-pub-debarque-sur-chatgpt-et-avec-elle-son-lot-de-questions/",
-      "url": "https://www.journaldunet.com/adtech/1548345-la-pub-debarque-sur-chatgpt-et-avec-elle-son-lot-de-questions/",
-      "publishedAt": "2026-02-27T13:09:39.000Z",
-      "date": "2026-02-27T13:09:39.000Z",
-      "description": "Cybersécurité · Fintech · Cloud · Economie · IA News · Tech · Media / Adtech · Start... ChatGPT lui, semble vouloir limiter volontairement l'...",
-      "excerpt": "Cybersécurité · Fintech · Cloud · Economie · IA News · Tech · Media / Adtech · Start... ChatGPT lui, semble vouloir limiter volontairement l'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Nano Banana 2 est là: le modèle d'image que Google réservait aux pros est désormais...",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/nano-banana-2-est-la-le-modele-d-image-que-google-reservait-aux-pros-est-desormais-accessible-a-tous-n252040.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/nano-banana-2-est-la-le-modele-d-image-que-google-reservait-aux-pros-est-desormais-accessible-a-tous-n252040.html",
-      "publishedAt": "2026-02-27T12:31:53.000Z",
-      "date": "2026-02-27T12:31:53.000Z",
-      "description": "ChatGPT ne fonctionne plus? Voici comment résoudre rapidement le... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
-      "excerpt": "ChatGPT ne fonctionne plus? Voici comment résoudre rapidement le... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Fusillade mortelle au Canada: ChatGPT pointé du doigt - L'Observateur du Maroc",
-      "link": "https://lobservateur.info/ampArticle/117382",
-      "url": "https://lobservateur.info/ampArticle/117382",
-      "publishedAt": "2026-02-27T10:00:36.000Z",
-      "date": "2026-02-27T10:00:36.000Z",
-      "description": "Les enquêteurs canadiens se sont tournés vers ChatGPT dans le... Digital...",
-      "excerpt": "Les enquêteurs canadiens se sont tournés vers ChatGPT dans le... Digital...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Hallow dépasse WhatsApp et ChatGPT sur l'App Store - ZENIT - Français",
-      "link": "https://fr.zenit.org/2026/02/27/hallow-depasse-whatsapp-et-chatgpt-sur-lapp-store/",
-      "url": "https://fr.zenit.org/2026/02/27/hallow-depasse-whatsapp-et-chatgpt-sur-lapp-store/",
-      "publishedAt": "2026-02-27T09:46:09.000Z",
-      "date": "2026-02-27T09:46:09.000Z",
-      "description": "Hallow dépasse WhatsApp et ChatGPT sur l'App Store - Le mercredi des Cendres, l'application de prière devient numéro un aux États-Unis.",
-      "excerpt": "Hallow dépasse WhatsApp et ChatGPT sur l'App Store - Le mercredi des Cendres, l'application de prière devient numéro un aux États-Unis.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
