@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-01T06:34:57.866Z",
+  "generatedAt": "2026-03-01T12:28:45.616Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Navigateur: la nouvelle porte d'entrée des hackers à l'ère de l'IA générative - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/navigateur-la-nouvelle-porte-dentree-des-hackers-a-lere-de-lia-generative",
+      "url": "https://www.lebigdata.fr/navigateur-la-nouvelle-porte-dentree-des-hackers-a-lere-de-lia-generative",
+      "publishedAt": "2026-03-01T08:02:53.000Z",
+      "date": "2026-03-01T08:02:53.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Antoine illustre: « Un directeur financier upload un tableau Excel confidentiel sur ChatGPT pour générer...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Antoine illustre: « Un directeur financier upload un tableau Excel confidentiel sur ChatGPT pour générer...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "MISTRAL vs CHATGPT - LE FAUX DÉBAT DE LA SOUVERAINETÉ NUMÉRIQUE - dpo partage",
+      "link": "https://www.dpo-partage.fr/mistral-vs-chatgpt-le-faux-debat-de-la-souverainete-numerique/",
+      "url": "https://www.dpo-partage.fr/mistral-vs-chatgpt-le-faux-debat-de-la-souverainete-numerique/",
+      "publishedAt": "2026-02-28T22:45:15.000Z",
+      "date": "2026-02-28T22:45:15.000Z",
+      "description": "phishing ou hameçonnage · Sécurité · SIIV · CEGEDIM fuite de données · Cegedim... Le Chat de Mistral n'est pas plus sûr que ChatGPT en version grand...",
+      "excerpt": "phishing ou hameçonnage · Sécurité · SIIV · CEGEDIM fuite de données · Cegedim... Le Chat de Mistral n'est pas plus sûr que ChatGPT en version grand...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
     {
       "title": "ChatGPT et Grok savent-ils battre le marché? | Zonebourse",
       "link": "https://www.zonebourse.com/actualite-bourse/chatgpt-et-grok-savent-ils-battre-le-marche--ce7e5cdfd188f325",
@@ -47,16 +67,6 @@
       "date": "2026-02-28T15:14:42.000Z",
       "description": "Fusillade... Digital...",
       "excerpt": "Fusillade... Digital...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "MISTRAL vs CHATGPT - LE FAUX DÉBAT DE LA SOUVERAINETÉ NUMÉRIQUE - dpo partage",
-      "link": "https://www.dpo-partage.fr/mistral-vs-chatgpt-le-faux-debat-de-la-souverainete-numerique/",
-      "url": "https://www.dpo-partage.fr/mistral-vs-chatgpt-le-faux-debat-de-la-souverainete-numerique/",
-      "publishedAt": "2026-02-28T10:54:11.000Z",
-      "date": "2026-02-28T10:54:11.000Z",
-      "description": "Critère, ChatGPT (OpenAI), Mistral AI; Siège social, États-Unis (San Francisco), France (Paris); Juridiction applicable, Droit américain + Cloud Act...",
-      "excerpt": "Critère, ChatGPT (OpenAI), Mistral AI; Siège social, États-Unis (San Francisco), France (Paris); Juridiction applicable, Droit américain + Cloud Act...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -117,16 +127,6 @@
       "date": "2026-02-28T03:06:33.000Z",
       "description": "Cybersécurité · Éthique · Santé · Informatique... Lancée en janvier 2025, cette fonctionnalité a été intégrée à ChatGPT en tant qu'agent ChatGPT...",
       "excerpt": "Cybersécurité · Éthique · Santé · Informatique... Lancée en janvier 2025, cette fonctionnalité a été intégrée à ChatGPT en tant qu'agent ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Amazon annonce un investissement de 50 milliards de dollars dans OpenAI, l'éditeur de ChatGPT",
-      "link": "https://www.zonebourse.com/actualite-bourse/amazon-annonce-un-investissement-de-50-milliards-de-dollars-dans-openai-l-editeur-de-chatgpt-ce7e5cdfdb88f126",
-      "url": "https://www.zonebourse.com/actualite-bourse/amazon-annonce-un-investissement-de-50-milliards-de-dollars-dans-openai-l-editeur-de-chatgpt-ce7e5cdfdb88f126",
-      "publishedAt": "2026-02-28T01:42:27.000Z",
-      "date": "2026-02-28T01:42:27.000Z",
-      "description": "Cybersécurité · Blockchain. Notations Techniques. Actions survendues... Amazon annonce un investissement de 50 milliards de dollars dans OpenAI, l'...",
-      "excerpt": "Cybersécurité · Blockchain. Notations Techniques. Actions survendues... Amazon annonce un investissement de 50 milliards de dollars dans OpenAI, l'...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
