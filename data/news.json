@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-28T18:20:22.922Z",
+  "generatedAt": "2026-03-01T01:22:57.122Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,26 @@
   "failedSources": [],
   "items": [
     {
+      "title": "ChatGPT et Grok savent-ils battre le marché? | Zonebourse",
+      "link": "https://www.zonebourse.com/actualite-bourse/chatgpt-et-grok-savent-ils-battre-le-marche--ce7e5cdfd188f325",
+      "url": "https://www.zonebourse.com/actualite-bourse/chatgpt-et-grok-savent-ils-battre-le-marche--ce7e5cdfd188f325",
+      "publishedAt": "2026-02-28T20:25:17.000Z",
+      "date": "2026-02-28T20:25:17.000Z",
+      "description": "Cybersécurité · Blockchain. Notations Techniques. Actions survendues... ChatGPT et Grok savent-ils battre le marché? La gestion active perd de...",
+      "excerpt": "Cybersécurité · Blockchain. Notations Techniques. Actions survendues... ChatGPT et Grok savent-ils battre le marché? La gestion active perd de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "NBA - « LeBron James, c'est le ChatGPT de la ligue » - Parlons Basket",
+      "link": "https://www.parlons-basket.com/2026/02/28/nba-lebron-james-cest-le-chatgpt-de-la-ligue/",
+      "url": "https://www.parlons-basket.com/2026/02/28/nba-lebron-james-cest-le-chatgpt-de-la-ligue/",
+      "publishedAt": "2026-02-28T17:25:26.000Z",
+      "date": "2026-02-28T17:25:26.000Z",
+      "description": "Invité sur le podcast Club Shay Shay, Shumpert a utilisé une comparaison inattendue: « C'est le ChatGPT de la NBA, mec. C'est la meilleure façon dont...",
+      "excerpt": "Invité sur le podcast Club Shay Shay, Shumpert a utilisé une comparaison inattendue: « C'est le ChatGPT de la NBA, mec. C'est la meilleure façon dont...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "ChatGPT peut vous aider à identifier les arnaques en ligne: voici comment ça fonctionne",
       "link": "https://www.presse-citron.net/chatgpt-peut-vous-aider-a-identifier-les-arnaques-en-ligne-voici-comment-ca-fonctionne/",
       "url": "https://www.presse-citron.net/chatgpt-peut-vous-aider-a-identifier-les-arnaques-en-ligne-voici-comment-ca-fonctionne/",
@@ -17,6 +37,16 @@
       "date": "2026-02-28T17:07:56.000Z",
       "description": "... ChatGPT, ce qui permet, en quelque sorte, de transformer le chatbot en expert en cybersécurité, qui répond à vos questions. L'idée est que...",
       "excerpt": "... ChatGPT, ce qui permet, en quelque sorte, de transformer le chatbot en expert en cybersécurité, qui répond à vos questions. L'idée est que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Communiqué. Le Maroc condamne l'attaque abjecte de missiles iraniens ciblant des États...",
+      "link": "https://lobservateur.info/ampArticle/117394",
+      "url": "https://lobservateur.info/ampArticle/117394",
+      "publishedAt": "2026-02-28T15:14:42.000Z",
+      "date": "2026-02-28T15:14:42.000Z",
+      "description": "Fusillade... Digital...",
+      "excerpt": "Fusillade... Digital...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -50,6 +80,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "OpenAI annonce avoir bouclé une levée de 110 milliards de dollars, dont 50 milliards...",
+      "link": "https://www.capital.fr/entreprises-marches/openai-annonce-avoir-boucle-une-levee-de-110-milliards-de-dollars-dont-50-milliards-investis-par-amazon-1524232",
+      "url": "https://www.capital.fr/entreprises-marches/openai-annonce-avoir-boucle-une-levee-de-110-milliards-de-dollars-dont-50-milliards-investis-par-amazon-1524232",
+      "publishedAt": "2026-02-28T08:39:55.000Z",
+      "date": "2026-02-28T08:39:55.000Z",
+      "description": "Le développeur de ChatGPT frappe fort avec une levée de fonds record de plus d'une centaine de milliards de dollars. Amazon en apporte près de la...",
+      "excerpt": "Le développeur de ChatGPT frappe fort avec une levée de fonds record de plus d'une centaine de milliards de dollars. Amazon en apporte près de la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "ChatGPT et Grok savent-ils battre le marché? | Zonebourse Suisse",
       "link": "https://ch.zonebourse.com/actualite-bourse/chatgpt-et-grok-savent-ils-battre-le-marche--ce7e5cdfd188f325",
       "url": "https://ch.zonebourse.com/actualite-bourse/chatgpt-et-grok-savent-ils-battre-le-marche--ce7e5cdfd188f325",
@@ -58,6 +98,16 @@
       "description": "Cybersécurité · La beauté · Santé Digitale et Télémédecine · Basket-ball... ChatGPT et Grok savent-ils battre le marché? La gestion active perd...",
       "excerpt": "Cybersécurité · La beauté · Santé Digitale et Télémédecine · Basket-ball... ChatGPT et Grok savent-ils battre le marché? La gestion active perd...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Gpt 5.3 Garlic Release Date February 2026 - Instagram",
+      "link": "https://www.instagram.com/popular/gpt-5.3-garlic-release-date-february-2026/",
+      "url": "https://www.instagram.com/popular/gpt-5.3-garlic-release-date-february-2026/",
+      "publishedAt": "2026-02-28T04:09:27.000Z",
+      "date": "2026-02-28T04:09:27.000Z",
+      "description": "Chat GPT 5.2 now lets you connect your favorite apps directly inside Chat GPT # chatgpt 10.2K · ChatGPT GPT-5 Premium FREE! Yes, you can access GPT-5...",
+      "excerpt": "Chat GPT 5.2 now lets you connect your favorite apps directly inside Chat GPT # chatgpt 10.2K · ChatGPT GPT-5 Premium FREE! Yes, you can access GPT-5...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Les navigateurs Agentic sont déjà présents sur votre site web. Êtes-vous prêt - Unite.AI",
@@ -77,56 +127,6 @@
       "date": "2026-02-28T01:42:27.000Z",
       "description": "Cybersécurité · Blockchain. Notations Techniques. Actions survendues... Amazon annonce un investissement de 50 milliards de dollars dans OpenAI, l'...",
       "excerpt": "Cybersécurité · Blockchain. Notations Techniques. Actions survendues... Amazon annonce un investissement de 50 milliards de dollars dans OpenAI, l'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude vient de tripler ses inscriptions en un temps record - Clubic",
-      "link": "https://www.clubic.com/actualite-602473-claude-vient-de-tripler-ses-inscriptions-en-un-temps-record.html",
-      "url": "https://www.clubic.com/actualite-602473-claude-vient-de-tripler-ses-inscriptions-en-un-temps-record.html",
-      "publishedAt": "2026-02-27T21:13:12.000Z",
-      "date": "2026-02-27T21:13:12.000Z",
-      "description": "... ChatGPT ( GPT-5.2 )Télécharger · VLC media playerTélécharger · Adobe Acrobat Reader DC...",
-      "excerpt": "... ChatGPT ( GPT-5.2 )Télécharger · VLC media playerTélécharger · Adobe Acrobat Reader DC...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Où OpenAI doit-il fixer le seuil de signalement de ChatGPT? | OHdio - Radio-Canada",
-      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2310785/entrevue-avec-alan-davoust",
-      "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2310785/entrevue-avec-alan-davoust",
-      "publishedAt": "2026-02-27T20:39:38.000Z",
-      "date": "2026-02-27T20:39:38.000Z",
-      "description": "Écoutez l'extrait de l'émission Phare Ouest: Où OpenAI doit-il fixer le seuil de signalement de ChatGPT... cybersécurité et confiance numérique,...",
-      "excerpt": "Écoutez l'extrait de l'émission Phare Ouest: Où OpenAI doit-il fixer le seuil de signalement de ChatGPT... cybersécurité et confiance numérique,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Scaling AI for everyone | OpenAI",
-      "link": "https://openai.com/fr-FR/index/scaling-ai-for-everyone/",
-      "url": "https://openai.com/fr-FR/index/scaling-ai-for-everyone/",
-      "publishedAt": "2026-02-27T20:17:21.000Z",
-      "date": "2026-02-27T20:17:21.000Z",
-      "description": "ChatGPT is where people start with AI, with more than 900M weekly... GPT-4o mini · Sora. Sécurité. Notre approche de la sécurité · Sécurité et...",
-      "excerpt": "ChatGPT is where people start with AI, with more than 900M weekly... GPT-4o mini · Sora. Sécurité. Notre approche de la sécurité · Sécurité et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Nick Turley d'OpenAI annonce que ChatGPT vient de franchir le cap des 900 millions... - Zonebourse",
-      "link": "https://www.zonebourse.com/actualite-bourse/nick-turley-d-openai-annonce-que-chatgpt-vient-de-franchir-le-cap-des-900-millions-d-utilisateurs-h-ce7e5cdfdd88f225",
-      "url": "https://www.zonebourse.com/actualite-bourse/nick-turley-d-openai-annonce-que-chatgpt-vient-de-franchir-le-cap-des-900-millions-d-utilisateurs-h-ce7e5cdfdd88f225",
-      "publishedAt": "2026-02-27T16:57:18.000Z",
-      "date": "2026-02-27T16:57:18.000Z",
-      "description": "Nick Turley d'OpenAI: ChatGPT vient de dépasser les 900 millions d... Cybersécurité · Blockchain. Notations Techniques. Actions survendues...",
-      "excerpt": "Nick Turley d'OpenAI: ChatGPT vient de dépasser les 900 millions d... Cybersécurité · Blockchain. Notations Techniques. Actions survendues...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lève 110 milliards de dollars, un record - Tech - Economie - Ahraminfo",
-      "link": "https://french.ahram.org.eg/News/81862.aspx",
-      "url": "https://french.ahram.org.eg/News/81862.aspx",
-      "publishedAt": "2026-02-27T16:48:43.000Z",
-      "date": "2026-02-27T16:48:43.000Z",
-      "description": "Le géant américain Amazon va investir 50 milliards de dollars dans le créateur de ChatGPT, tandis que le spécialiste américain des puces Nvidia et le...",
-      "excerpt": "Le géant américain Amazon va investir 50 milliards de dollars dans le créateur de ChatGPT, tandis que le spécialiste américain des puces Nvidia et le...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
