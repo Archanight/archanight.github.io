@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-01T18:21:03.961Z",
+  "generatedAt": "2026-03-02T01:15:11.574Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT: à quoi pourrait ressembler la future enceinte intelligente d'OpenAI",
+      "link": "https://www.lesnumeriques.com/enceintes-sans-fil/chatgpt-a-quoi-pourrait-ressembler-la-future-enceinte-intelligente-d-openai-n252108.html",
+      "url": "https://www.lesnumeriques.com/enceintes-sans-fil/chatgpt-a-quoi-pourrait-ressembler-la-future-enceinte-intelligente-d-openai-n252108.html",
+      "publishedAt": "2026-03-01T18:11:41.000Z",
+      "date": "2026-03-01T18:11:41.000Z",
+      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Arthur Letang... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
+      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Arthur Letang... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Navigateur: la nouvelle porte d'entrée des hackers à l'ère de l'IA générative - lebigdata.fr",
       "link": "https://www.lebigdata.fr/navigateur-la-nouvelle-porte-dentree-des-hackers-a-lere-de-lia-generative",
@@ -118,16 +128,6 @@
       "description": "Chat GPT 5.2 now lets you connect your favorite apps directly inside Chat GPT # chatgpt 10.2K · ChatGPT GPT-5 Premium FREE! Yes, you can access GPT-5...",
       "excerpt": "Chat GPT 5.2 now lets you connect your favorite apps directly inside Chat GPT # chatgpt 10.2K · ChatGPT GPT-5 Premium FREE! Yes, you can access GPT-5...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Les navigateurs Agentic sont déjà présents sur votre site web. Êtes-vous prêt - Unite.AI",
-      "link": "https://www.unite.ai/fr/agentic-browsers-are-already-on-your-website-are-you-ready/",
-      "url": "https://www.unite.ai/fr/agentic-browsers-are-already-on-your-website-are-you-ready/",
-      "publishedAt": "2026-02-28T03:06:33.000Z",
-      "date": "2026-02-28T03:06:33.000Z",
-      "description": "Cybersécurité · Éthique · Santé · Informatique... Lancée en janvier 2025, cette fonctionnalité a été intégrée à ChatGPT en tant qu'agent ChatGPT...",
-      "excerpt": "Cybersécurité · Éthique · Santé · Informatique... Lancée en janvier 2025, cette fonctionnalité a été intégrée à ChatGPT en tant qu'agent ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
