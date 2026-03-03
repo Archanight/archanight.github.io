@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T06:39:02.753Z",
+  "generatedAt": "2026-03-03T12:35:28.515Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Meta teste un outil d'achat alimenté par l'IA pour concurrencer ChatGPT et Gemini",
+      "link": "https://www.zonebourse.com/actualite-bourse/meta-teste-un-outil-d-achat-alimente-par-l-ia-pour-concurrencer-chatgpt-et-gemini-ce7e5cddd18ff027",
+      "url": "https://www.zonebourse.com/actualite-bourse/meta-teste-un-outil-d-achat-alimente-par-l-ia-pour-concurrencer-chatgpt-et-gemini-ce7e5cddd18ff027",
+      "publishedAt": "2026-03-03T10:00:16.000Z",
+      "date": "2026-03-03T10:00:16.000Z",
+      "description": "... ChatGPT d'OpenAI... -Le 03 mars 2026 à 10:54 - Zonebourse.... Cybersécurité · Palmarès · Palmarès Cotations · Variations Court Terme.",
+      "excerpt": "... ChatGPT d'OpenAI... -Le 03 mars 2026 à 10:54 - Zonebourse.... Cybersécurité · Palmarès · Palmarès Cotations · Variations Court Terme.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "01net morning: premier coup d'œil sur la supercar de Xiaomi, l'armée US en pince pour...",
+      "link": "https://www.01net.com/actualites/01net-morning-premier-coup-doeil-sur-la-supercar-de-xiaomi-larmee-us-en-pince-pour-chatgpt-nouvel-iphone-17e-chez-apple.html",
+      "url": "https://www.01net.com/actualites/01net-morning-premier-coup-doeil-sur-la-supercar-de-xiaomi-larmee-us-en-pince-pour-chatgpt-nouvel-iphone-17e-chez-apple.html",
+      "publishedAt": "2026-03-03T09:31:57.000Z",
+      "date": "2026-03-03T09:31:57.000Z",
+      "description": "Pour remplacer Claude, le ministère de la Défense a négocié un accord avec OpenAI, le créateur de ChatGPT.... Cybersécurité · Société · Télécoms...",
+      "excerpt": "Pour remplacer Claude, le ministère de la Défense a négocié un accord avec OpenAI, le créateur de ChatGPT.... Cybersécurité · Société · Télécoms...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Claude en panne, des milliers d'utilisateurs touchés - Les Numériques",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/claude-en-panne-des-milliers-d-utilisateurs-touches-n252243.html",
@@ -108,26 +128,6 @@
       "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT atteint 900...",
       "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT atteint 900...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La rébellion contre l'IA vient de commencer! - Les Affaires",
-      "link": "https://www.lesaffaires.com/opinions/la-rebellion-contre-l-ia-vient-de-commencer/",
-      "url": "https://www.lesaffaires.com/opinions/la-rebellion-contre-l-ia-vient-de-commencer/",
-      "publishedAt": "2026-03-02T12:59:22.000Z",
-      "date": "2026-03-02T12:59:22.000Z",
-      "description": "« ChatGPT ne m'a jamais donné une bonne idée!» Ce cri du cœur vient de... Cybersécurité proactive: pilotage stratégique pour l'entreprise moderne.",
-      "excerpt": "« ChatGPT ne m'a jamais donné une bonne idée!» Ce cri du cœur vient de... Cybersécurité proactive: pilotage stratégique pour l'entreprise moderne.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Santé rate une urgence vitale sur deux, des chercheurs sonnent l'alarme",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/incroyablement-dangereux-chatgpt-sante-rate-une-urgence-vitale-sur-deux-des-chercheurs-sonnent-l-alarme-n252196.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/incroyablement-dangereux-chatgpt-sante-rate-une-urgence-vitale-sur-deux-des-chercheurs-sonnent-l-alarme-n252196.html",
-      "publishedAt": "2026-03-02T11:56:49.000Z",
-      "date": "2026-03-02T11:56:49.000Z",
-      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (3). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (3). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
