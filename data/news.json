@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T18:33:55.488Z",
+  "generatedAt": "2026-03-03T01:17:29.020Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Claude en panne, des milliers d'utilisateurs touchés - Les Numériques",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/claude-en-panne-des-milliers-d-utilisateurs-touches-n252243.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/claude-en-panne-des-milliers-d-utilisateurs-touches-n252243.html",
+      "publishedAt": "2026-03-02T19:28:48.000Z",
+      "date": "2026-03-02T19:28:48.000Z",
+      "description": "ChatGPT s'approche du milliard d'utilisateurs mais rien à faire, l'IA... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "excerpt": "ChatGPT s'approche du milliard d'utilisateurs mais rien à faire, l'IA... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "ChatGPT devient le nouvel allié du Pentagone après le refus d'Anthropic",
       "link": "https://www.infomagazine.ma/intelligence-artificielle-ia/chatgpt-devient-le-nouvel-allie-du-pentagone-apres-le-refus-danthropic-14015-2026/",
@@ -118,16 +128,6 @@
       "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (3). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
       "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (3). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Nvidia prévoit apparemment de développer une nouvelle puce pour OpenAI... - Developpez.com",
-      "link": "https://intelligence-artificielle.developpez.com/actu/380715/Apres-avoir-investi-30-milliards-de-Nvidia-prevoit-apparemment-de-developper-une-nouvelle-puce-pour-OpenAI-qui-sera-concue-pour-le-calcul-d-inference-plutot-que-pour-la-formation-de-l-IA/?amp",
-      "url": "https://intelligence-artificielle.developpez.com/actu/380715/Apres-avoir-investi-30-milliards-de-Nvidia-prevoit-apparemment-de-developper-une-nouvelle-puce-pour-OpenAI-qui-sera-concue-pour-le-calcul-d-inference-plutot-que-pour-la-formation-de-l-IA/?amp",
-      "publishedAt": "2026-03-02T11:24:31.000Z",
-      "date": "2026-03-02T11:24:31.000Z",
-      "description": "... ChatGPT. Ce processeur, qui devrait être dévoilé lors de la prochaine... ( SoC ) et des interfaces de programmation d'applications (API) pour...",
-      "excerpt": "... ChatGPT. Ce processeur, qui devrait être dévoilé lors de la prochaine... ( SoC ) et des interfaces de programmation d'applications (API) pour...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
