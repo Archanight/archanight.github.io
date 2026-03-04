@@ -1068,12 +1068,6 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
     filter: brightness(1.03);
 }
 
-.stage-download-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-}
-
 /* Parcours - Projets de stage */
 .timeline-project-inline {
     margin-top: 16px;
