@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T06:35:41.640Z",
+  "generatedAt": "2026-03-04T12:35:49.344Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,106 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Après un énorme bad buzz, OpenAI revoit son accord avec le Pentagone - KultureGeek",
+      "link": "https://kulturegeek.fr/news-348204/apres-enorme-bad-buzz-openai-revoit-accord-pentagone",
+      "url": "https://kulturegeek.fr/news-348204/apres-enorme-bad-buzz-openai-revoit-accord-pentagone",
+      "publishedAt": "2026-03-04T12:12:54.000Z",
+      "date": "2026-03-04T12:12:54.000Z",
+      "description": "La firme d'IA a ensuite été écartée de nombre de projets fédéraux. ChatGPT OpenAI Logos. Malgré ces fortes tensions, Claude resterait impliqué dans...",
+      "excerpt": "La firme d'IA a ensuite été écartée de nombre de projets fédéraux. ChatGPT OpenAI Logos. Malgré ces fortes tensions, Claude resterait impliqué dans...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Microsoft vous espionne-t-il vraiment avec la télémétrie Windows? - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/microsoft-vous-espionne-t-il-vraiment-avec-la-telemetrie-windows-491145.htm",
+      "url": "https://www.zdnet.fr/actualites/microsoft-vous-espionne-t-il-vraiment-avec-la-telemetrie-windows-491145.htm",
+      "publishedAt": "2026-03-04T11:57:01.000Z",
+      "date": "2026-03-04T11:57:01.000Z",
+      "description": "Mise à jour ( Update )... ZDNET Morning 04/03/2026: Motorola propose GrapheneOS, Passer de ChatGPT à Claude, Robotaxis Tesla: un gros problème,...",
+      "excerpt": "Mise à jour ( Update )... ZDNET Morning 04/03/2026: Motorola propose GrapheneOS, Passer de ChatGPT à Claude, Robotaxis Tesla: un gros problème,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI veut bâtir son propre GitHub, et ce n'est pas anodin - Les Numériques",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/openai-veut-batir-son-propre-github-et-ce-n-est-pas-anodin-n252323.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/openai-veut-batir-son-propre-github-et-ce-n-est-pas-anodin-n252323.html",
+      "publishedAt": "2026-03-04T11:35:57.000Z",
+      "date": "2026-03-04T11:35:57.000Z",
+      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT -5.3 Instant corrige cette manie qui vous a sans doute déjà agacé plusieurs fois",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-5-3-instant-corrige-cette-manie-qui-vous-a-sans-doute-deja-agace-plusieurs-fois-n252311.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-5-3-instant-corrige-cette-manie-qui-vous-a-sans-doute-deja-agace-plusieurs-fois-n252311.html",
+      "publishedAt": "2026-03-04T10:50:09.000Z",
+      "date": "2026-03-04T10:50:09.000Z",
+      "description": "Et puis n'oublions pas que la qualité de ChatGPT était déjà critiquée depuis le lancement de GPT-5.... ChatGPT / GPT-4. Nos réseaux: Suivez-nous.",
+      "excerpt": "Et puis n'oublions pas que la qualité de ChatGPT était déjà critiquée depuis le lancement de GPT-5.... ChatGPT / GPT-4. Nos réseaux: Suivez-nous.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Google publie Gemini 3.1 Flash-Lite, son modèle d'inférence le moins coûteux pour...",
+      "link": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/google-publie-gemini-3-1-flash-lite-son-modele-dinference-le-moins-couteux-pour-les-pipelines-a-gros-volume/",
+      "url": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/google-publie-gemini-3-1-flash-lite-son-modele-dinference-le-moins-couteux-pour-les-pipelines-a-gros-volume/",
+      "publishedAt": "2026-03-04T09:04:03.000Z",
+      "date": "2026-03-04T09:04:03.000Z",
+      "description": "... GPT-5 mini d'OpenAI et Claude 4.5 Haiku d... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
+      "excerpt": "... GPT-5 mini d'OpenAI et Claude 4.5 Haiku d... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude rend cette fonctionnalité gratuite, et c'est un gros atout contre ChatGPT - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/claude-rend-cette-fonctionnalite-gratuite-et-cest-un-gros-atout-contre-chatgpt",
+      "url": "https://www.lebigdata.fr/claude-rend-cette-fonctionnalite-gratuite-et-cest-un-gros-atout-contre-chatgpt",
+      "publishedAt": "2026-03-04T08:52:22.000Z",
+      "date": "2026-03-04T08:52:22.000Z",
+      "description": "Mémoire gratuite, import d'historique, conversations continues: Claude muscle son offre et s'impose comme un rival sérieux de ChatGPT.",
+      "excerpt": "Mémoire gratuite, import d'historique, conversations continues: Claude muscle son offre et s'impose comme un rival sérieux de ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Avec son nouveau modèle, OpenAI promet un ChatGPT moins moralisateur et plus pertinent",
+      "link": "https://www.01net.com/actualites/avec-son-nouveau-modele-openai-promet-un-chatgpt-moins-moralisateur-et-plus-pertinent.html",
+      "url": "https://www.01net.com/actualites/avec-son-nouveau-modele-openai-promet-un-chatgpt-moins-moralisateur-et-plus-pertinent.html",
+      "publishedAt": "2026-03-04T08:30:51.000Z",
+      "date": "2026-03-04T08:30:51.000Z",
+      "description": "Instant est le modèle le plus utilisé, et OpenAI vient de le rafraîchir: exit GPT-5.2, place à GPT-5.3! OpenAI revoit la copie de ChatGPT. Ce...",
+      "excerpt": "Instant est le modèle le plus utilisé, et OpenAI vient de le rafraîchir: exit GPT-5.2, place à GPT-5.3! OpenAI revoit la copie de ChatGPT. Ce...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.3 Instant: ChatGPT devient plus précis et moins gênant - KultureGeek",
+      "link": "https://kulturegeek.fr/news-348141/gpt-5-3-instant-chatgpt-devient-plus-precis-genant",
+      "url": "https://kulturegeek.fr/news-348141/gpt-5-3-instant-chatgpt-devient-plus-precis-genant",
+      "publishedAt": "2026-03-04T06:41:25.000Z",
+      "date": "2026-03-04T06:41:25.000Z",
+      "description": "GPT-5.2 Instant restera disponible trois mois dans le sélecteur de modèles pour les utilisateurs payants avant d'être retiré le 3 juin 2026. ChatGPT...",
+      "excerpt": "GPT-5.2 Instant restera disponible trois mois dans le sélecteur de modèles pour les utilisateurs payants avant d'être retiré le 3 juin 2026. ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Meta déploie son assistant shopping IA, qui recommande des articles à partir de nos...",
+      "link": "https://www.phonandroid.com/meta-deploie-son-assistant-shopping-ia-qui-recommande-des-articles-a-partir-de-nos-donnees-personnelles.html",
+      "url": "https://www.phonandroid.com/meta-deploie-son-assistant-shopping-ia-qui-recommande-des-articles-a-partir-de-nos-donnees-personnelles.html",
+      "publishedAt": "2026-03-04T06:08:06.000Z",
+      "date": "2026-03-04T06:08:06.000Z",
+      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT peut désormais acheter des articles en ligne à votre place et...",
+      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT peut désormais acheter des articles en ligne à votre place et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude peut maintenant importer la mémoire de ChatGPT et d'autres IA - KultureGeek",
+      "link": "https://kulturegeek.fr/news-348096/claude-importer-memoire-chatgpt-dautres-ia",
+      "url": "https://kulturegeek.fr/news-348096/claude-importer-memoire-chatgpt-dautres-ia",
+      "publishedAt": "2026-03-04T01:49:36.000Z",
+      "date": "2026-03-04T01:49:36.000Z",
+      "description": "Anthropic lance un outil d'import de mémoire pour Claude, gratuit dès aujourd'hui. Les utilisateurs de ChatGPT et Gemini peuvent migrer leurs...",
+      "excerpt": "Anthropic lance un outil d'import de mémoire pour Claude, gratuit dès aujourd'hui. Les utilisateurs de ChatGPT et Gemini peuvent migrer leurs...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Claude d'Anthropic défie ChatGPT d'OpenAI: Dario Amodei séduira les utilisateurs de Sam...",
       "link": "https://lesnews.ca/intelligence-artificielle/claude-danthropic-defie-chatgpt-dopenai-dario-amodei-seduira-les-utilisateurs-de-sam-altman-avec-le-transfert-facile-de-vos-donnees-depuis-dautres-chatbots/",
@@ -28,106 +128,6 @@
       "description": "ChatGPT: l'accord avec le Pentagone déclenche une vague de... Guide Cybersécurité. Découvrez la version numérique · Achetez le guide.",
       "excerpt": "ChatGPT: l'accord avec le Pentagone déclenche une vague de... Guide Cybersécurité. Découvrez la version numérique · Achetez le guide.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: les désinstallations bondissent de 295 % après l'accord avec le Pentagone",
-      "link": "https://kulturegeek.fr/news-348078/chatgpt-desinstallations-bondissent-295-apres-laccord-pentagone",
-      "url": "https://kulturegeek.fr/news-348078/chatgpt-desinstallations-bondissent-295-apres-laccord-pentagone",
-      "publishedAt": "2026-03-03T20:15:34.000Z",
-      "date": "2026-03-03T20:15:34.000Z",
-      "description": "Google annonce Gemini 3.1 Flash-Lite, son modèle d'intelligence artificielle le plus rapide et le plus économique de la gamme Gemini... ChatGPT OpenAI...",
-      "excerpt": "Google annonce Gemini 3.1 Flash-Lite, son modèle d'intelligence artificielle le plus rapide et le plus économique de la gamme Gemini... ChatGPT OpenAI...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Claude rend sa fonctionnalité de mémoire IA gratuite pour tous les utilisateurs dans la...",
-      "link": "https://www.omgpu.com/claude-rend-sa-fonctionnalite-de-memoire-ia-gratuite-pour-tous-les-utilisateurs-dans-la-bataille-contre-chatgpt/",
-      "url": "https://www.omgpu.com/claude-rend-sa-fonctionnalite-de-memoire-ia-gratuite-pour-tous-les-utilisateurs-dans-la-bataille-contre-chatgpt/",
-      "publishedAt": "2026-03-03T20:02:29.000Z",
-      "date": "2026-03-03T20:02:29.000Z",
-      "description": "... ChatGPT. Anthropic, la société mère de Claude, a une solution pour cela... notes de version vLLM AI · Guide Optimisation Pc Windows 11 Jeux...",
-      "excerpt": "... ChatGPT. Anthropic, la société mère de Claude, a une solution pour cela... notes de version vLLM AI · Guide Optimisation Pc Windows 11 Jeux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "La colère monte contre ChatGPT: +775 % de mauvaises notes et des désinstallations...",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/775-de-mauvaises-notes-en-48-h-la-colere-contre-chatgpt-explose-n252257.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/775-de-mauvaises-notes-en-48-h-la-colere-contre-chatgpt-explose-n252257.html",
-      "publishedAt": "2026-03-03T19:45:38.000Z",
-      "date": "2026-03-03T19:45:38.000Z",
-      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (8). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (8). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI lance ChatGPT -5.3 Instant | Zonebourse",
-      "link": "https://www.zonebourse.com/actualite-bourse/openai-lance-chatgpt-5-3-instant-ce7e5cd2df8afe26",
-      "url": "https://www.zonebourse.com/actualite-bourse/openai-lance-chatgpt-5-3-instant-ce7e5cd2df8afe26",
-      "publishedAt": "2026-03-03T19:14:00.000Z",
-      "date": "2026-03-03T19:14:00.000Z",
-      "description": "Cybersécurité · L'Etat Actionnaire · L'Internet des objets · Données... OpenAI lance ChatGPT -5.3 Instant. Publié le 03/03/2026 à 20:03. MT Newswires...",
-      "excerpt": "Cybersécurité · L'Etat Actionnaire · L'Internet des objets · Données... OpenAI lance ChatGPT -5.3 Instant. Publié le 03/03/2026 à 20:03. MT Newswires...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un chiffre affole la Silicon Valley: +295 % de désinstallations de ChatGPT et Claude... - Futura",
-      "link": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-chiffre-affole-silicon-valley-295-desinstallations-chatgpt-claude-explose-il-passe-131896/",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-chiffre-affole-silicon-valley-295-desinstallations-chatgpt-claude-explose-il-passe-131896/",
-      "publishedAt": "2026-03-03T17:29:58.000Z",
-      "date": "2026-03-03T17:29:58.000Z",
-      "description": "Cybersécurité · Climat · Santé mentale. Se connecter avec Patreon. Vous n'avez pas encore de compte? Je m'inscris. Fermer la popin de recherche. En...",
-      "excerpt": "Cybersécurité · Climat · Santé mentale. Se connecter avec Patreon. Vous n'avez pas encore de compte? Je m'inscris. Fermer la popin de recherche. En...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment migrer depuis ChatGPT vers Claude - Clubic",
-      "link": "https://www.clubic.com/tutoriel-602986-comment-migrer-depuis-chatgpt-vers-claude.html",
-      "url": "https://www.clubic.com/tutoriel-602986-comment-migrer-depuis-chatgpt-vers-claude.html",
-      "publishedAt": "2026-03-03T17:29:34.000Z",
-      "date": "2026-03-03T17:29:34.000Z",
-      "description": "Un compte ChatGPT actif; Un compte Claude (la version gratuite suffit); Accès aux paramètres des deux applications. ChatGPT ( GPT-5.2 ).",
-      "excerpt": "Un compte ChatGPT actif; Un compte Claude (la version gratuite suffit); Accès aux paramètres des deux applications. ChatGPT ( GPT-5.2 ).",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Cancel ChatGPT: Anthropic refuse de militariser son IA... mais OpenAI accepte",
-      "link": "https://www.lebigdata.fr/cancel-chatgpt-anthropic-refuse-de-militariser-son-ia-mais-openai-accepte",
-      "url": "https://www.lebigdata.fr/cancel-chatgpt-anthropic-refuse-de-militariser-son-ia-mais-openai-accepte",
-      "publishedAt": "2026-03-03T17:29:10.000Z",
-      "date": "2026-03-03T17:29:10.000Z",
-      "description": "Cancel ChatGPT: boycott, migration vers Claude, défiance croissante... LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud...",
-      "excerpt": "Cancel ChatGPT: boycott, migration vers Claude, défiance croissante... LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Urgences médicales: ChatGPT se plante une fois sur deux - Economie Matin",
-      "link": "https://www.economiematin.fr/urgence-medicale-chatgpt-erreur-sante-risque",
-      "url": "https://www.economiematin.fr/urgence-medicale-chatgpt-erreur-sante-risque",
-      "publishedAt": "2026-03-03T17:17:56.000Z",
-      "date": "2026-03-03T17:17:56.000Z",
-      "description": "Si une personne vit une véritable urgence médicale et demande à ChatGPT Health quoi faire, lui dira-t-il d'aller aux urgences?",
-      "excerpt": "Si une personne vit une véritable urgence médicale et demande à ChatGPT Health quoi faire, lui dira-t-il d'aller aux urgences?",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Webinar HubSpot - Comment être visible dans ChatGPT et les outils d'IA",
-      "link": "https://www.linformaticien.com/magazine/info-partenaire/64541-webinar-hubspot-comment-etre-visible-dans-chatgpt-et-les-outils-d-ia.html",
-      "url": "https://www.linformaticien.com/magazine/info-partenaire/64541-webinar-hubspot-comment-etre-visible-dans-chatgpt-et-les-outils-d-ia.html",
-      "publishedAt": "2026-03-03T16:46:36.000Z",
-      "date": "2026-03-03T16:46:36.000Z",
-      "description": "- La nouvelle réalité de la recherche: Les recherches sans clics sur Google ont drastiquement augmenté, tandis que le trafic de ChatGPT progresse si...",
-      "excerpt": "- La nouvelle réalité de la recherche: Les recherches sans clics sur Google ont drastiquement augmenté, tandis que le trafic de ChatGPT progresse si...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Claude rend sa « mémoire » gratuite: le vrai coup de pression d'Anthropic sur ChatGPT",
-      "link": "https://www.blog-nouvelles-technologies.fr/360466/claude-anthropic-memoire-gratuite-import-contexte-2026/",
-      "url": "https://www.blog-nouvelles-technologies.fr/360466/claude-anthropic-memoire-gratuite-import-contexte-2026/",
-      "publishedAt": "2026-03-03T15:54:52.000Z",
-      "date": "2026-03-03T15:54:52.000Z",
-      "description": "Anthropic rend la mémoire gratuite pour Claude et lance un outil d'importation depuis ChatGPT. Votre assistant ne repart plus jamais de zéro.",
-      "excerpt": "Anthropic rend la mémoire gratuite pour Claude et lance un outil d'importation depuis ChatGPT. Votre assistant ne repart plus jamais de zéro.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
