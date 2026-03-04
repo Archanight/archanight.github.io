@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T01:13:26.609Z",
+  "generatedAt": "2026-03-04T06:35:41.640Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Claude d'Anthropic défie ChatGPT d'OpenAI: Dario Amodei séduira les utilisateurs de Sam...",
+      "link": "https://lesnews.ca/intelligence-artificielle/claude-danthropic-defie-chatgpt-dopenai-dario-amodei-seduira-les-utilisateurs-de-sam-altman-avec-le-transfert-facile-de-vos-donnees-depuis-dautres-chatbots/",
+      "url": "https://lesnews.ca/intelligence-artificielle/claude-danthropic-defie-chatgpt-dopenai-dario-amodei-seduira-les-utilisateurs-de-sam-altman-avec-le-transfert-facile-de-vos-donnees-depuis-dautres-chatbots/",
+      "publishedAt": "2026-03-04T00:20:17.000Z",
+      "date": "2026-03-04T00:20:17.000Z",
+      "description": "Cybersécurité · Informatique · Mobiles · Jeux Vidéos · Digital · Cryptos · Facebook... C'est ce que fait Anthropic, se positionnant pour attirer les...",
+      "excerpt": "Cybersécurité · Informatique · Mobiles · Jeux Vidéos · Digital · Cryptos · Facebook... C'est ce que fait Anthropic, se positionnant pour attirer les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT: l'accord avec le Pentagone déclenche une vague de désinstallations et propulse...",
       "link": "https://www.solutions-numeriques.com/chatgpt-laccord-avec-le-pentagone-declenche-une-vague-de-desinstallations-et-propulse-claude-en-tete/",
@@ -118,16 +128,6 @@
       "description": "Anthropic rend la mémoire gratuite pour Claude et lance un outil d'importation depuis ChatGPT. Votre assistant ne repart plus jamais de zéro.",
       "excerpt": "Anthropic rend la mémoire gratuite pour Claude et lance un outil d'importation depuis ChatGPT. Votre assistant ne repart plus jamais de zéro.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Claude meilleur que ChatGPT? Voici comment passer d'une IA à l'autre - CCM",
-      "link": "https://www.commentcamarche.net/applis-sites/applications/37227-claude-vs-chatgpt/",
-      "url": "https://www.commentcamarche.net/applis-sites/applications/37227-claude-vs-chatgpt/",
-      "publishedAt": "2026-03-03T15:43:21.000Z",
-      "date": "2026-03-03T15:43:21.000Z",
-      "description": "Ces derniers jours, de nombreux utilisateurs ont quitté ChatGPT pour Claude, que ce soit pour des raisons politiques ou de performances.",
-      "excerpt": "Ces derniers jours, de nombreux utilisateurs ont quitté ChatGPT pour Claude, que ce soit pour des raisons politiques ou de performances.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
