@@ -1986,16 +1986,17 @@ body.modal-open {
   padding-left: 0 !important;
   padding-inline-start: 0 !important;
   width: min(100%, 320px);
-  height: 320px;
+  height: auto;
   max-height: 320px;
   overflow-y: auto;
+  overflow-x: hidden;
   padding-right: 4px;
   overscroll-behavior: contain;
   list-style: none;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  justify-content: flex-start;
+  align-items: stretch;
   gap: 10px;
 }
 
