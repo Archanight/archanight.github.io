@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T18:35:31.159Z",
+  "generatedAt": "2026-03-05T01:15:42.970Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Vous avez un vieux PC? Omega Linux peut lui redonner une nouvelle jeunesse. Voici comment faire",
+      "link": "https://www.zdnet.fr/guide-achat/vous-avez-un-vieux-pc-omega-linux-peut-lui-redonner-une-nouvelle-jeunesse-voici-comment-faire-491239.htm",
+      "url": "https://www.zdnet.fr/guide-achat/vous-avez-un-vieux-pc-omega-linux-peut-lui-redonner-une-nouvelle-jeunesse-voici-comment-faire-491239.htm",
+      "publishedAt": "2026-03-04T22:03:30.000Z",
+      "date": "2026-03-04T22:03:30.000Z",
+      "description": "Cybersécurité... ZDNET Morning 04/03/2026: Motorola propose GrapheneOS, Passer de ChatGPT à Claude, Robotaxis Tesla: un gros problème,...",
+      "excerpt": "Cybersécurité... ZDNET Morning 04/03/2026: Motorola propose GrapheneOS, Passer de ChatGPT à Claude, Robotaxis Tesla: un gros problème,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Gemini, l'IA de Google, accusé d'avoir poussé un utilisateur à se suicider pour rejoindre sa...",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/gemini-l-ia-de-google-accuse-d-avoir-pousse-un-utilisateur-a-se-suicider-pour-rejoindre-sa-femme-virtuelle_AD-202603040904.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/gemini-l-ia-de-google-accuse-d-avoir-pousse-un-utilisateur-a-se-suicider-pour-rejoindre-sa-femme-virtuelle_AD-202603040904.html",
+      "publishedAt": "2026-03-04T19:41:16.000Z",
+      "date": "2026-03-04T19:41:16.000Z",
+      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... Après ChatGPT, c'est Gemini qui est accusé de pousser ses...",
+      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... Après ChatGPT, c'est Gemini qui est accusé de pousser ses...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT: GPT-5.4 déjà leaké?! Voici à quoi s'attendre après GPT-5.3 Instant - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/chatgpt-gpt-5-4-deja-leake-voici-a-quoi-sattendre-apres-gpt-5-3-instant",
+      "url": "https://www.lebigdata.fr/chatgpt-gpt-5-4-deja-leake-voici-a-quoi-sattendre-apres-gpt-5-3-instant",
+      "publishedAt": "2026-03-04T19:26:22.000Z",
+      "date": "2026-03-04T19:26:22.000Z",
+      "description": "ChatGPT: GPT-5.4 déjà leaké?! Voici à quoi s'attendre après GPT... Not an update. An extinction event. If the rumors are real, this race...",
+      "excerpt": "ChatGPT: GPT-5.4 déjà leaké?! Voici à quoi s'attendre après GPT... Not an update. An extinction event. If the rumors are real, this race...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Google et OpenAI font bloc contre l'usage militaire de l'IA, Anthropic porté par une vague de soutien",
+      "link": "https://www.zdnet.fr/actualites/google-et-openai-font-bloc-contre-lusage-militaire-de-lia-anthropic-porte-par-une-vague-de-soutien-491205.htm",
+      "url": "https://www.zdnet.fr/actualites/google-et-openai-font-bloc-contre-lusage-militaire-de-lia-anthropic-porte-par-une-vague-de-soutien-491205.htm",
+      "publishedAt": "2026-03-04T18:26:12.000Z",
+      "date": "2026-03-04T18:26:12.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware... Le spécialiste français du ciblage a annoncé avoir rejoint le programme publicitaire pilote de ChatGPT.",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware... Le spécialiste français du ciblage a annoncé avoir rejoint le programme publicitaire pilote de ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude et ChatGPT accessibles à vie pour moins de 23€: le bon plan IA que peu de... - Clubic",
+      "link": "https://www.clubic.com/bons-plans-603205-claude-accessible-a-vie-pour-moins-de-23-le-bon-plan-ia-que-peu-de-personnes-connaissent.html",
+      "url": "https://www.clubic.com/bons-plans-603205-claude-accessible-a-vie-pour-moins-de-23-le-bon-plan-ia-que-peu-de-personnes-connaissent.html",
+      "publishedAt": "2026-03-04T17:48:59.000Z",
+      "date": "2026-03-04T17:48:59.000Z",
+      "description": "Ne rayez pas OpenAI de votre liste pour autant: 1minAI intègre également GPT-5... ChatGPT ( GPT-5.2 )Télécharger · VLC...",
+      "excerpt": "Ne rayez pas OpenAI de votre liste pour autant: 1minAI intègre également GPT-5... ChatGPT ( GPT-5.2 )Télécharger · VLC...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Vague de désinstallations de ChatGPT: OpenAI revoit son accord avec l'armée, mais...",
       "link": "https://www.01net.com/actualites/vague-desinstallations-chatgpt-openai-revoit-accord-armee.html",
@@ -78,56 +128,6 @@
       "description": "Cybersécurité... OpenAI veut se prémunir de nouvelles affaires sordides en proposant d'ajouter un \"contact de confiance\" à ChatGPT, un système d'alerte...",
       "excerpt": "Cybersécurité... OpenAI veut se prémunir de nouvelles affaires sordides en proposant d'ajouter un \"contact de confiance\" à ChatGPT, un système d'alerte...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT devient plus précis et moins agaçant avec sa nouvelle mise à jour - Siècle Digital",
-      "link": "https://siecledigital.fr/2026/03/04/chatgpt-sameliore-avec-gpt-53-instant/",
-      "url": "https://siecledigital.fr/2026/03/04/chatgpt-sameliore-avec-gpt-53-instant/",
-      "publishedAt": "2026-03-04T12:46:33.000Z",
-      "date": "2026-03-04T12:46:33.000Z",
-      "description": "Avec GPT-5.2, certains utilisateurs constataient des refus sur des... Si l'entreprise affirmait avoir progressé avec GPT-5 à ce sujet, GPT...",
-      "excerpt": "Avec GPT-5.2, certains utilisateurs constataient des refus sur des... Si l'entreprise affirmait avoir progressé avec GPT-5 à ce sujet, GPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Après un énorme bad buzz, OpenAI revoit son accord avec le Pentagone - KultureGeek",
-      "link": "https://kulturegeek.fr/news-348204/apres-enorme-bad-buzz-openai-revoit-accord-pentagone",
-      "url": "https://kulturegeek.fr/news-348204/apres-enorme-bad-buzz-openai-revoit-accord-pentagone",
-      "publishedAt": "2026-03-04T12:12:54.000Z",
-      "date": "2026-03-04T12:12:54.000Z",
-      "description": "La firme d'IA a ensuite été écartée de nombre de projets fédéraux. ChatGPT OpenAI Logos. Malgré ces fortes tensions, Claude resterait impliqué dans...",
-      "excerpt": "La firme d'IA a ensuite été écartée de nombre de projets fédéraux. ChatGPT OpenAI Logos. Malgré ces fortes tensions, Claude resterait impliqué dans...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Microsoft vous espionne-t-il vraiment avec la télémétrie Windows? - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/microsoft-vous-espionne-t-il-vraiment-avec-la-telemetrie-windows-491145.htm",
-      "url": "https://www.zdnet.fr/actualites/microsoft-vous-espionne-t-il-vraiment-avec-la-telemetrie-windows-491145.htm",
-      "publishedAt": "2026-03-04T11:57:01.000Z",
-      "date": "2026-03-04T11:57:01.000Z",
-      "description": "Mise à jour ( Update )... ZDNET Morning 04/03/2026: Motorola propose GrapheneOS, Passer de ChatGPT à Claude, Robotaxis Tesla: un gros problème,...",
-      "excerpt": "Mise à jour ( Update )... ZDNET Morning 04/03/2026: Motorola propose GrapheneOS, Passer de ChatGPT à Claude, Robotaxis Tesla: un gros problème,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI veut bâtir son propre GitHub, et ce n'est pas anodin - Les Numériques",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/openai-veut-batir-son-propre-github-et-ce-n-est-pas-anodin-n252323.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/openai-veut-batir-son-propre-github-et-ce-n-est-pas-anodin-n252323.html",
-      "publishedAt": "2026-03-04T11:35:57.000Z",
-      "date": "2026-03-04T11:35:57.000Z",
-      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT -5.3 Instant corrige cette manie qui vous a sans doute déjà agacé plusieurs fois",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-5-3-instant-corrige-cette-manie-qui-vous-a-sans-doute-deja-agace-plusieurs-fois-n252311.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-5-3-instant-corrige-cette-manie-qui-vous-a-sans-doute-deja-agace-plusieurs-fois-n252311.html",
-      "publishedAt": "2026-03-04T10:50:09.000Z",
-      "date": "2026-03-04T10:50:09.000Z",
-      "description": "Et puis n'oublions pas que la qualité de ChatGPT était déjà critiquée depuis le lancement de GPT-5.... ChatGPT / GPT-4. Nos réseaux: Suivez-nous.",
-      "excerpt": "Et puis n'oublions pas que la qualité de ChatGPT était déjà critiquée depuis le lancement de GPT-5.... ChatGPT / GPT-4. Nos réseaux: Suivez-nous.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
