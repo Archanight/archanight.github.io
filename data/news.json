@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-06T01:18:48.809Z",
+  "generatedAt": "2026-03-06T06:36:07.018Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI, soutenu par Microsoft, renonce à l'achat direct via ChatGPT | Zonebourse Suisse",
+      "link": "https://ch.zonebourse.com/actualite-bourse/openai-soutenu-par-microsoft-renonce-a-l-achat-direct-via-chatgpt-ce7e5fdbd88bfe27",
+      "url": "https://ch.zonebourse.com/actualite-bourse/openai-soutenu-par-microsoft-renonce-a-l-achat-direct-via-chatgpt-ce7e5fdbd88bfe27",
+      "publishedAt": "2026-03-06T00:27:28.000Z",
+      "date": "2026-03-06T00:27:28.000Z",
+      "description": "... ChatGPT, préférant désormais passer par des applications... -Le 05... Cybersécurité · La beauté. Palmarès. Palmarès Cotations. Variations Court...",
+      "excerpt": "... ChatGPT, préférant désormais passer par des applications... -Le 05... Cybersécurité · La beauté. Palmarès. Palmarès Cotations. Variations Court...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "GPT-5.4 vs Claude: la nouvelle génération d'IA d'OpenAI promet d'automatiser les...",
       "link": "https://www.europe-infos.fr/actualites/7976/gpt-5-4-vs-claude-la-nouvelle-generation-dia-dopenai-promet-dautomatiser-les-processus-et-transformer-les-entreprises/",
@@ -118,16 +128,6 @@
       "description": "ChatGPT face à une vague de résiliations: +295 % de désinstallations en un week... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
       "excerpt": "ChatGPT face à une vague de résiliations: +295 % de désinstallations en un week... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Chats de groupe dans ChatGPT - OpenAI Help Center",
-      "link": "https://help.openai.com/fr-fr/articles/12703475-chats-de-groupe-dans-chatgpt",
-      "url": "https://help.openai.com/fr-fr/articles/12703475-chats-de-groupe-dans-chatgpt",
-      "publishedAt": "2026-03-05T12:34:33.000Z",
-      "date": "2026-03-05T12:34:33.000Z",
-      "description": "Dans ce mode, ChatGPT ne répond que lorsque quelqu'un mentionne @ ChatGPT.... Un journal des dernières mises à jour et notes de version de ChatGPT.",
-      "excerpt": "Dans ce mode, ChatGPT ne répond que lorsque quelqu'un mentionne @ ChatGPT.... Un journal des dernières mises à jour et notes de version de ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
