@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-05T19:09:18.834Z",
+  "generatedAt": "2026-03-06T01:18:48.809Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-5.4 vs Claude: la nouvelle génération d'IA d'OpenAI promet d'automatiser les...",
+      "link": "https://www.europe-infos.fr/actualites/7976/gpt-5-4-vs-claude-la-nouvelle-generation-dia-dopenai-promet-dautomatiser-les-processus-et-transformer-les-entreprises/",
+      "url": "https://www.europe-infos.fr/actualites/7976/gpt-5-4-vs-claude-la-nouvelle-generation-dia-dopenai-promet-dautomatiser-les-processus-et-transformer-les-entreprises/",
+      "publishedAt": "2026-03-05T20:48:16.000Z",
+      "date": "2026-03-05T20:48:16.000Z",
+      "description": "En revanche, OpenAI se concentre sur l'efficacité du codage et le routage dynamique des modèles, des domaines où GPT-5 excelle.... cybersécurité...",
+      "excerpt": "En revanche, OpenAI se concentre sur l'efficacité du codage et le routage dynamique des modèles, des domaines où GPT-5 excelle.... cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Abandonner ChatGPT pour Claude? Les 5 vérités qu'on vous cache - TechRadar",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/claude/abandonner-chatgpt-pour-claude-les-5-verites-quon-vous-cache",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/claude/abandonner-chatgpt-pour-claude-les-5-verites-quon-vous-cache",
+      "publishedAt": "2026-03-05T18:26:49.000Z",
+      "date": "2026-03-05T18:26:49.000Z",
+      "description": "L'application Claude a même dépassé ChatGPT en nombre de téléchargements sur l'App Store d'Apple, peut-être pour la première fois. Mais Claude gagnait...",
+      "excerpt": "L'application Claude a même dépassé ChatGPT en nombre de téléchargements sur l'App Store d'Apple, peut-être pour la première fois. Mais Claude gagnait...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Et si ChatGPT pouvait vous dire si un message est une arnaque? C'est désormais... - Facebook",
       "link": "https://www.facebook.com/Clubic/posts/-et-si-chatgpt-pouvait-vous-dire-si-un-message-est-une-arnaque-cest-d%C3%A9sormais-po/1377135217786566/",
@@ -40,6 +60,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "ChatGPT: place au raisonnement “extrême” avec GPT-5.4 pour écraser la concurrence...",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-place-au-raisonnement-extreme-avec-gpt-5-4-pour-ecraser-la-concurrence-mais-pour-combien-de-temps-n252391.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-place-au-raisonnement-extreme-avec-gpt-5-4-pour-ecraser-la-concurrence-mais-pour-combien-de-temps-n252391.html",
+      "publishedAt": "2026-03-05T15:59:44.000Z",
+      "date": "2026-03-05T15:59:44.000Z",
+      "description": "... GPT-5.2. Pour faire simple, OpenAI s'alignerait sur ce que proposent ses rivaux, en permettant à son intelligence artificielle de digérer des...",
+      "excerpt": "... GPT-5.2. Pour faire simple, OpenAI s'alignerait sur ce que proposent ses rivaux, en permettant à son intelligence artificielle de digérer des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Phishing, faux SMS et liens piégés, Norton file un coup de main à ChatGPT pour... - Clubic",
       "link": "https://www.clubic.com/actualite-603427-phishing-faux-sms-et-liens-pieges-norton-file-un-coup-de-main-a-chatgpt-pour-debusquer-les-arnaques.html",
       "url": "https://www.clubic.com/actualite-603427-phishing-faux-sms-et-liens-pieges-norton-file-un-coup-de-main-a-chatgpt-pour-debusquer-les-arnaques.html",
@@ -48,6 +78,16 @@
       "description": "Effectivement, si les gens posent déjà leurs questions à l'IA, autant y embarquer une expertise en cybersécurité... ( GPT-5.2 )Télécharger.",
       "excerpt": "Effectivement, si les gens posent déjà leurs questions à l'IA, autant y embarquer une expertise en cybersécurité... ( GPT-5.2 )Télécharger.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Gemini accusé d'avoir provoqué le suicide d'un homme par un délire paranoïaque",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/gemini-accuse-d-avoir-provoque-le-suicide-d-un-homme-par-un-delire-paranoiaque-n252368.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/gemini-accuse-d-avoir-provoque-le-suicide-d-un-homme-par-un-delire-paranoiaque-n252368.html",
+      "publishedAt": "2026-03-05T15:30:27.000Z",
+      "date": "2026-03-05T15:30:27.000Z",
+      "description": "ChatGPT et Character.AI sont visés par des poursuites similaires. Mais... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "excerpt": "ChatGPT et Character.AI sont visés par des poursuites similaires. Mais... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Sur-ajustement et réalignement: comment OpenAI a détraqué GPT-5 en voulant le rendre plus sûr",
@@ -88,46 +128,6 @@
       "description": "Dans ce mode, ChatGPT ne répond que lorsque quelqu'un mentionne @ ChatGPT.... Un journal des dernières mises à jour et notes de version de ChatGPT.",
       "excerpt": "Dans ce mode, ChatGPT ne répond que lorsque quelqu'un mentionne @ ChatGPT.... Un journal des dernières mises à jour et notes de version de ChatGPT.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Avec l'IA, les hackers frappent plus vite… et plus fort | TechRadar",
-      "link": "https://global.techradar.com/fr-fr/pro/security/avec-lia-les-hackers-frappent-plus-vite-et-plus-fort",
-      "url": "https://global.techradar.com/fr-fr/pro/security/avec-lia-les-hackers-frappent-plus-vite-et-plus-fort",
-      "publishedAt": "2026-03-05T11:56:11.000Z",
-      "date": "2026-03-05T11:56:11.000Z",
-      "description": "... cybersécurité chez IBM. « Le problème de fond reste le même: les... ChatGPT pour Claude? Les 5 vérités qu'on vous cache. 4. Apple frappe...",
-      "excerpt": "... cybersécurité chez IBM. « Le problème de fond reste le même: les... ChatGPT pour Claude? Les 5 vérités qu'on vous cache. 4. Apple frappe...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La gouvernance, facteur clé de la communication par IA - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/la-gouvernance-facteur-cle-de-la-communication-par-ia-491334.htm",
-      "url": "https://www.zdnet.fr/actualites/la-gouvernance-facteur-cle-de-la-communication-par-ia-491334.htm",
-      "publishedAt": "2026-03-05T11:07:58.000Z",
-      "date": "2026-03-05T11:07:58.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... Pourquoi des milliers d'utilisateurs suppriment ChatGPT au profit...",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... Pourquoi des milliers d'utilisateurs suppriment ChatGPT au profit...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Norton présente ChatGPT Protection contre la fraude basée sur l'IA - Letem světem Applem",
-      "link": "https://www.letemsvetemapplem.eu/fr/2026/03/05/norton-zavadi-do-chatgpt-ochranu-pred-podvody-zalozenou-na-ai/",
-      "url": "https://www.letemsvetemapplem.eu/fr/2026/03/05/norton-zavadi-do-chatgpt-ochranu-pred-podvody-zalozenou-na-ai/",
-      "publishedAt": "2026-03-05T10:38:30.000Z",
-      "date": "2026-03-05T10:38:30.000Z",
-      "description": "... cybersécurité directement dans l'application. ChatGPT, vers qui ils se tournent habituellement pour obtenir des réponses. « L'intelligence...",
-      "excerpt": "... cybersécurité directement dans l'application. ChatGPT, vers qui ils se tournent habituellement pour obtenir des réponses. « L'intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Norton Genie est lancé - Global Security Mag Online",
-      "link": "https://www.globalsecuritymag.fr/norton-genie-est-lance.html",
-      "url": "https://www.globalsecuritymag.fr/norton-genie-est-lance.html",
-      "publishedAt": "2026-03-05T10:24:02.000Z",
-      "date": "2026-03-05T10:24:02.000Z",
-      "description": "... cybersécurité directement via ChatGPT, où ils posent déjà leurs questions. Norton Genie est un détecteur d'arnaques basé sur l'intelligence...",
-      "excerpt": "... cybersécurité directement via ChatGPT, où ils posent déjà leurs questions. Norton Genie est un détecteur d'arnaques basé sur l'intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
