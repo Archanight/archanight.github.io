@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-07T12:27:40.388Z",
+  "generatedAt": "2026-03-07T18:21:06.991Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Définition | LLM: qu'est-ce que c'est? | Futura tech",
+      "link": "https://www.futura-sciences.com/tech/definitions/intelligence-artificielle-llm-28404/",
+      "url": "https://www.futura-sciences.com/tech/definitions/intelligence-artificielle-llm-28404/",
+      "publishedAt": "2026-03-07T13:47:02.000Z",
+      "date": "2026-03-07T13:47:02.000Z",
+      "description": "Le succès de ChatGPT, de Claude, de Gemini ou DeepSeek a attiré l... Cybersécurité · Climat · Santé mentale · Accueil · tech · definitions · LLM. LLM...",
+      "excerpt": "Le succès de ChatGPT, de Claude, de Gemini ou DeepSeek a attiré l... Cybersécurité · Climat · Santé mentale · Accueil · tech · definitions · LLM. LLM...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT: le « mode adulte » promis par OpenAI est finalement reporté - 01net.com",
+      "link": "https://www.01net.com/actualites/chatgpt-le-mode-adulte-promis-par-openai-est-finalement-reporte.html",
+      "url": "https://www.01net.com/actualites/chatgpt-le-mode-adulte-promis-par-openai-est-finalement-reporte.html",
+      "publishedAt": "2026-03-07T13:01:22.000Z",
+      "date": "2026-03-07T13:01:22.000Z",
+      "description": "Si vous espériez frétiller à la lecture des mots coquins de ChatGPT, il va falloir repasser... Cybersécurité · Société · Télécoms · Auto · Médias...",
+      "excerpt": "Si vous espériez frétiller à la lecture des mots coquins de ChatGPT, il va falloir repasser... Cybersécurité · Société · Télécoms · Auto · Médias...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La Génération Z privilégie TikTok, Reddit et ChatGPT à la recherche sur Google! | LesNews",
+      "link": "https://lesnews.ca/rs/tiktok/la-generation-z-privilegie-tiktok-reddit-et-chatgpt-a-la-recherche-sur-google/",
+      "url": "https://lesnews.ca/rs/tiktok/la-generation-z-privilegie-tiktok-reddit-et-chatgpt-a-la-recherche-sur-google/",
+      "publishedAt": "2026-03-07T11:11:27.000Z",
+      "date": "2026-03-07T11:11:27.000Z",
+      "description": "Cybersécurité · Informatique · Mobiles · Jeux Vidéos · Digital · Cryptos · Facebook... ChatGPT, pour trouver des réponses, plutôt que de commencer par...",
+      "excerpt": "Cybersécurité · Informatique · Mobiles · Jeux Vidéos · Digital · Cryptos · Facebook... ChatGPT, pour trouver des réponses, plutôt que de commencer par...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI déploie GPT-5.4 dans ChatGPT | SNRT News",
+      "link": "https://snrtnews.com/fr/article/openai-deploie-gpt-54-dans-chatgpt-147672",
+      "url": "https://snrtnews.com/fr/article/openai-deploie-gpt-54-dans-chatgpt-147672",
+      "publishedAt": "2026-03-07T09:47:00.000Z",
+      "date": "2026-03-07T09:47:00.000Z",
+      "description": "Dans ChatGPT, le déploiement de GPT-5.4 s'accompagne d'un remplacement progressif de GPT-5.2 Raisonnement.... cybersécurité. L'entreprise...",
+      "excerpt": "Dans ChatGPT, le déploiement de GPT-5.4 s'accompagne d'un remplacement progressif de GPT-5.2 Raisonnement.... cybersécurité. L'entreprise...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "LastPass Warns of Slick New Phishing Scam That Fakes Email “Threads” to Steal Your...",
       "link": "https://infos-it.fr/english/8820/lastpass-warns-of-slick-new-phishing-scam-that-fakes-email-threads-to-steal-your-master-password/",
@@ -87,46 +127,6 @@
       "date": "2026-03-06T16:46:11.000Z",
       "description": "Sans grande surprise, OpenAI vient de lancer une nouvelle version de son intelligence artificielle ChatGPT. La dernière mouture du modèle de...",
       "excerpt": "Sans grande surprise, OpenAI vient de lancer une nouvelle version de son intelligence artificielle ChatGPT. La dernière mouture du modèle de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.4: en pleine tourmente, OpenAI lance une nouvelle IA surpuissante - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/gpt-5-4-en-pleine-tourmente-openai-lance-une-nouvelle-ia-surpuissante",
-      "url": "https://www.lebigdata.fr/gpt-5-4-en-pleine-tourmente-openai-lance-une-nouvelle-ia-surpuissante",
-      "publishedAt": "2026-03-06T16:14:06.000Z",
-      "date": "2026-03-06T16:14:06.000Z",
-      "description": "Les affirmations générées seraient 33 % moins susceptibles d'être incorrectes par rapport à celles produites par GPT-5.2. Dans ChatGPT, la version...",
-      "excerpt": "Les affirmations générées seraient 33 % moins susceptibles d'être incorrectes par rapport à celles produites par GPT-5.2. Dans ChatGPT, la version...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.4: OpenAI veut relancer la course au « computer use » | LeMagIT",
-      "link": "https://www.lemagit.fr/actualites/366639709/GPT-54-OpenAI-veut-relancer-la-course-au-computer-use",
-      "url": "https://www.lemagit.fr/actualites/366639709/GPT-54-OpenAI-veut-relancer-la-course-au-computer-use",
-      "publishedAt": "2026-03-06T15:41:11.000Z",
-      "date": "2026-03-06T15:41:11.000Z",
-      "description": "Quelques jours après avoir dévoilé GPT-5.3 Instant dans l'application ChatGPT, le fournisseur de LLM met progressivement à disposition GPT-5.4.",
-      "excerpt": "Quelques jours après avoir dévoilé GPT-5.3 Instant dans l'application ChatGPT, le fournisseur de LLM met progressivement à disposition GPT-5.4.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "WhatsApp rétablit ChatGPT et les autres chabots IA après la menace de l'Europe",
-      "link": "https://kulturegeek.fr/news-348369/whatsapp-retablit-chatgpt-autres-chabots-ia-apres-menace-leurope",
-      "url": "https://kulturegeek.fr/news-348369/whatsapp-retablit-chatgpt-autres-chabots-ia-apres-menace-leurope",
-      "publishedAt": "2026-03-06T14:35:36.000Z",
-      "date": "2026-03-06T14:35:36.000Z",
-      "description": "Sous pression de la Commission européenne, Meta rouvre WhatsApp aux chatbots IA concurrents (comme ChatGPT ). Une capitulation réglementaire qui...",
-      "excerpt": "Sous pression de la Commission européenne, Meta rouvre WhatsApp aux chatbots IA concurrents (comme ChatGPT ). Une capitulation réglementaire qui...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "GPT-5.4: OpenAI lance un nouveau modèle d'IA pour les tâches professionnelles",
-      "link": "https://www.justgeek.fr/gpt-5-4-thinking-openai-147727/",
-      "url": "https://www.justgeek.fr/gpt-5-4-thinking-openai-147727/",
-      "publishedAt": "2026-03-06T14:22:20.000Z",
-      "date": "2026-03-06T14:22:20.000Z",
-      "description": "GPT-5.4 est disponible dès maintenant dans ChatGPT sous le nom GPT-5.4 Thinking pour les abonnés Plus, Team et Pro. Il remplace GPT-5.2 Thinking, qui...",
-      "excerpt": "GPT-5.4 est disponible dès maintenant dans ChatGPT sous le nom GPT-5.4 Thinking pour les abonnés Plus, Team et Pro. Il remplace GPT-5.2 Thinking, qui...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
