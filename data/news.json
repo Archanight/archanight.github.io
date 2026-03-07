@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-07T01:10:52.147Z",
+  "generatedAt": "2026-03-07T06:28:13.904Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "LastPass Warns of Slick New Phishing Scam That Fakes Email “Threads” to Steal Your...",
+      "link": "https://infos-it.fr/english/8820/lastpass-warns-of-slick-new-phishing-scam-that-fakes-email-threads-to-steal-your-master-password/",
+      "url": "https://infos-it.fr/english/8820/lastpass-warns-of-slick-new-phishing-scam-that-fakes-email-threads-to-steal-your-master-password/",
+      "publishedAt": "2026-03-07T03:30:43.000Z",
+      "date": "2026-03-07T03:30:43.000Z",
+      "description": "Social engineering attacks don't need to break into a company's servers if they can convince users to give up the keys voluntarily. LastPass says it's...",
+      "excerpt": "Social engineering attacks don't need to break into a company's servers if they can convince users to give up the keys voluntarily. LastPass says it's...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
+      "title": "OpenAI teste l'intégration de publicités dans ChatGPT pour les utilisateurs gratuits - MSN",
+      "link": "https://www.msn.com/fr-xl/actualite/other/openai-teste-l-int%C3%A9gration-de-publicit%C3%A9s-dans-chatgpt-pour-les-utilisateurs-gratuits/ar-AA1W6q7W",
+      "url": "https://www.msn.com/fr-xl/actualite/other/openai-teste-l-int%C3%A9gration-de-publicit%C3%A9s-dans-chatgpt-pour-les-utilisateurs-gratuits/ar-AA1W6q7W",
+      "publishedAt": "2026-03-07T03:07:08.000Z",
+      "date": "2026-03-07T03:07:08.000Z",
+      "description": "OpenAI a lancé une phase d'expérimentation visant à introduire des contenus publicitaires au sein de ChatGPT... IA, pouvoir et cybersécurité: l'alerte...",
+      "excerpt": "OpenAI a lancé une phase d'expérimentation visant à introduire des contenus publicitaires au sein de ChatGPT... IA, pouvoir et cybersécurité: l'alerte...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "IA agentique et cybersécurité: entre menace et rempart - InformatiqueNews.fr",
       "link": "https://www.informatiquenews.fr/ia-agentique-et-cybersecurite-quand-lautonomie-devient-a-la-fois-menace-et-rempart-pascal-beurel-gigamon-109771",
@@ -107,26 +127,6 @@
       "date": "2026-03-06T14:22:20.000Z",
       "description": "GPT-5.4 est disponible dès maintenant dans ChatGPT sous le nom GPT-5.4 Thinking pour les abonnés Plus, Team et Pro. Il remplace GPT-5.2 Thinking, qui...",
       "excerpt": "GPT-5.4 est disponible dès maintenant dans ChatGPT sous le nom GPT-5.4 Thinking pour les abonnés Plus, Team et Pro. Il remplace GPT-5.2 Thinking, qui...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "WordPress rolls out official AI plugins for ChatGPT, Gemini, and Claude—here's what that means",
-      "link": "https://infos-it.fr/english/8796/wordpress-rolls-out-official-ai-plugins-for-chatgpt-gemini-and-claude-heres-what-that-means/",
-      "url": "https://infos-it.fr/english/8796/wordpress-rolls-out-official-ai-plugins-for-chatgpt-gemini-and-claude-heres-what-that-means/",
-      "publishedAt": "2026-03-06T13:35:16.000Z",
-      "date": "2026-03-06T13:35:16.000Z",
-      "description": "... update, or vanish from the directory. Table des matières. 1 Three official... AI Bud – AI Content Generator, AI Chatbot, ChatGPT, Gemini, GPT-4o.",
-      "excerpt": "... update, or vanish from the directory. Table des matières. 1 Three official... AI Bud – AI Content Generator, AI Chatbot, ChatGPT, Gemini, GPT-4o.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Les emplois de bureau sont-ils menacés? GPT-5.4: Quand les machines contrôlent l...",
-      "link": "https://xpert.digital/fr/openai-gpt-5-4/",
-      "url": "https://xpert.digital/fr/openai-gpt-5-4/",
-      "publishedAt": "2026-03-06T13:12:01.000Z",
-      "date": "2026-03-06T13:12:01.000Z",
-      "description": "... GPT-5. Le 7 août 2025, GPT-5 a été lancé, unifiant les modèles de... GPT-5.2 était censé contrer la concurrence grâce à un raisonnement...",
-      "excerpt": "... GPT-5. Le 7 août 2025, GPT-5 a été lancé, unifiant les modèles de... GPT-5.2 était censé contrer la concurrence grâce à un raisonnement...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
