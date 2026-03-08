@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T06:32:05.843Z",
+  "generatedAt": "2026-03-08T12:29:04.182Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "La FARFO démystifie ChatGPT auprès des aînés francophones | Le Métropolitain",
+      "link": "https://lemetropolitain.com/la-farfo-demystifie-chatgpt-aupres-des-aines-francophones/",
+      "url": "https://lemetropolitain.com/la-farfo-demystifie-chatgpt-aupres-des-aines-francophones/",
+      "publishedAt": "2026-03-08T09:03:05.000Z",
+      "date": "2026-03-08T09:03:05.000Z",
+      "description": "... ChatGPT comme un outil conversationnel capable de suivre le fil d'un échange.... Un volet important de la formation portait sur la cybersécurité et la...",
+      "excerpt": "... ChatGPT comme un outil conversationnel capable de suivre le fil d'un échange.... Un volet important de la formation portait sur la cybersécurité et la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "“Amazon, Shein, Temu: l'IA qui fait croire que ton colis est arrivé cassé (et ça marche à tous...",
+      "link": "https://www.cridutroll.fr/amazon-shein-temu-lia-qui-fait-croire-que-ton-colis-est-arrive-casse-et-ca-marche-a-tous-les-coups/",
+      "url": "https://www.cridutroll.fr/amazon-shein-temu-lia-qui-fait-croire-que-ton-colis-est-arrive-casse-et-ca-marche-a-tous-les-coups/",
+      "publishedAt": "2026-03-08T01:03:24.000Z",
+      "date": "2026-03-08T01:03:24.000Z",
+      "description": "En Pologne et en France, les experts en cybersécurité notent une accélération, avec des objets low-cost particulièrement vulnérables.... ChatGPT...",
+      "excerpt": "En Pologne et en France, les experts en cybersécurité notent une accélération, avec des objets low-cost particulièrement vulnérables.... ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Les discussions coquines avec ChatGPT, ce n'est pas pour maintenant: le mode \"adulte...",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/les-discussions-coquines-avec-chatgpt-ce-n-est-pas-pour-maintenant-le-mode-adulte-est-repousse-n252523.html",
@@ -108,26 +128,6 @@
       "description": "Faille critique sur un plugin WordPress à 100 000 sites: ACF Extended permet une prise de contrôle admin immédiate ( CVE -2025-14533) · Facebook · X.",
       "excerpt": "Faille critique sur un plugin WordPress à 100 000 sites: ACF Extended permet une prise de contrôle admin immédiate ( CVE -2025-14533) · Facebook · X.",
       "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "Ce mail vous paraît louche? ChatGPT peut vous dire si c'est une arnaque, on vous explique tout",
-      "link": "https://www.phonandroid.com/ce-mail-vous-parait-louche-chatgpt-peut-vous-dire-si-cest-une-arnaque-on-vous-explique-tout.html",
-      "url": "https://www.phonandroid.com/ce-mail-vous-parait-louche-chatgpt-peut-vous-dire-si-cest-une-arnaque-on-vous-explique-tout.html",
-      "publishedAt": "2026-03-07T00:29:56.000Z",
-      "date": "2026-03-07T00:29:56.000Z",
-      "description": "... phishing toujours plus sophistiquées… Et toujours plus difficiles à... ChatGPT gratuitement ou via les abonnements Plus, Team ou Enterprise.",
-      "excerpt": "... phishing toujours plus sophistiquées… Et toujours plus difficiles à... ChatGPT gratuitement ou via les abonnements Plus, Team ou Enterprise.",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "IA agentique et cybersécurité: entre menace et rempart - InformatiqueNews.fr",
-      "link": "https://www.informatiquenews.fr/ia-agentique-et-cybersecurite-quand-lautonomie-devient-a-la-fois-menace-et-rempart-pascal-beurel-gigamon-109771",
-      "url": "https://www.informatiquenews.fr/ia-agentique-et-cybersecurite-quand-lautonomie-devient-a-la-fois-menace-et-rempart-pascal-beurel-gigamon-109771",
-      "publishedAt": "2026-03-06T21:07:35.000Z",
-      "date": "2026-03-06T21:07:35.000Z",
-      "description": "IA agentique et cybersécurité: quand l'autonomie devient à la fois menace et rempart… Pascal Beurel, Gigamon · Des attaques qui apprennent, qui s'...",
-      "excerpt": "IA agentique et cybersécurité: quand l'autonomie devient à la fois menace et rempart… Pascal Beurel, Gigamon · Des attaques qui apprennent, qui s'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
