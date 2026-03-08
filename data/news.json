@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T12:29:04.182Z",
+  "generatedAt": "2026-03-08T18:21:22.529Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Cybersécurité: les 11 actualités majeures du 8 mars 2026",
+      "link": "https://dcod.ch/2026/03/08/cybersecurite-les-11-actualites-majeures-du-8-mar-2026/",
+      "url": "https://dcod.ch/2026/03/08/cybersecurite-les-11-actualites-majeures-du-8-mar-2026/",
+      "publishedAt": "2026-03-08T17:57:21.000Z",
+      "date": "2026-03-08T17:57:21.000Z",
+      "description": "Quittez ChatGPT: immédiatement! Votre abonnement finance l'autoritarisme | Rutger Bregman... Cette veille vous a fait gagner du temps? Aidez DCOD à...",
+      "excerpt": "Quittez ChatGPT: immédiatement! Votre abonnement finance l'autoritarisme | Rutger Bregman... Cette veille vous a fait gagner du temps? Aidez DCOD à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Conflit en Iran: Les analyses essentielles à connaître - CamerNews",
+      "link": "https://www.camernews.com/conflit-iran-analyses/",
+      "url": "https://www.camernews.com/conflit-iran-analyses/",
+      "publishedAt": "2026-03-08T16:13:17.000Z",
+      "date": "2026-03-08T16:13:17.000Z",
+      "description": "découvrez gpt-5.3 instant, la nouvelle version de chatgpt d'openai offrant des... Réseaux de coopération militaire et cybersécurité; Rôle des acteurs...",
+      "excerpt": "découvrez gpt-5.3 instant, la nouvelle version de chatgpt d'openai offrant des... Réseaux de coopération militaire et cybersécurité; Rôle des acteurs...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "La FARFO démystifie ChatGPT auprès des aînés francophones | Le Métropolitain",
       "link": "https://lemetropolitain.com/la-farfo-demystifie-chatgpt-aupres-des-aines-francophones/",
@@ -107,26 +127,6 @@
       "date": "2026-03-07T03:30:43.000Z",
       "description": "Social engineering attacks don't need to break into a company's servers if they can convince users to give up the keys voluntarily. LastPass says it's...",
       "excerpt": "Social engineering attacks don't need to break into a company's servers if they can convince users to give up the keys voluntarily. LastPass says it's...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "OpenAI teste l'intégration de publicités dans ChatGPT pour les utilisateurs gratuits - MSN",
-      "link": "https://www.msn.com/fr-xl/actualite/other/openai-teste-l-int%C3%A9gration-de-publicit%C3%A9s-dans-chatgpt-pour-les-utilisateurs-gratuits/ar-AA1W6q7W",
-      "url": "https://www.msn.com/fr-xl/actualite/other/openai-teste-l-int%C3%A9gration-de-publicit%C3%A9s-dans-chatgpt-pour-les-utilisateurs-gratuits/ar-AA1W6q7W",
-      "publishedAt": "2026-03-07T03:07:08.000Z",
-      "date": "2026-03-07T03:07:08.000Z",
-      "description": "OpenAI a lancé une phase d'expérimentation visant à introduire des contenus publicitaires au sein de ChatGPT... IA, pouvoir et cybersécurité: l'alerte...",
-      "excerpt": "OpenAI a lancé une phase d'expérimentation visant à introduire des contenus publicitaires au sein de ChatGPT... IA, pouvoir et cybersécurité: l'alerte...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "WordPress rolls out official AI plugins for ChatGPT, Gemini, and Claude—here's what that means",
-      "link": "https://infos-it.fr/english/8796/wordpress-rolls-out-official-ai-plugins-for-chatgpt-gemini-and-claude-heres-what-that-means/",
-      "url": "https://infos-it.fr/english/8796/wordpress-rolls-out-official-ai-plugins-for-chatgpt-gemini-and-claude-heres-what-that-means/",
-      "publishedAt": "2026-03-07T01:35:16.000Z",
-      "date": "2026-03-07T01:35:16.000Z",
-      "description": "Faille critique sur un plugin WordPress à 100 000 sites: ACF Extended permet une prise de contrôle admin immédiate ( CVE -2025-14533) · Facebook · X.",
-      "excerpt": "Faille critique sur un plugin WordPress à 100 000 sites: ACF Extended permet une prise de contrôle admin immédiate ( CVE -2025-14533) · Facebook · X.",
       "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     }
   ]
