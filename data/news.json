@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T01:16:13.990Z",
+  "generatedAt": "2026-03-09T06:50:55.661Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Gpt-5.4 d'openai ou grok 4.20 de xai, quel chatbot d'intelligence artificielle choisir pour vos besoins",
+      "link": "https://www.cryptonomie.fr/comparaison-detaillee-gpt-5-4-dopenai-ou-grok-4-20-de-xai-quel-chatbot-dintelligence-artificielle-choisir-pour-vos-besoins/",
+      "url": "https://www.cryptonomie.fr/comparaison-detaillee-gpt-5-4-dopenai-ou-grok-4-20-de-xai-quel-chatbot-dintelligence-artificielle-choisir-pour-vos-besoins/",
+      "publishedAt": "2026-03-09T00:05:45.000Z",
+      "date": "2026-03-09T00:05:45.000Z",
+      "description": "La stratégie nationale de cybersécurité de trump: Un soutien affirmé à la crypto et à la blockchain. En revanche, bien que GPT-5.4 ait mis plus de...",
+      "excerpt": "La stratégie nationale de cybersécurité de trump: Un soutien affirmé à la crypto et à la blockchain. En revanche, bien que GPT-5.4 ait mis plus de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Intelligence artificielle: OpenAI vend son âme au Pentagone, ChatGPT en chute libre",
       "link": "https://maghrebemergent.news/fr/intelligence-artificielle-openai-vend-son-ame-au-pentagone-chatgpt-en-chute-libre/",
@@ -117,16 +127,6 @@
       "date": "2026-03-07T18:45:51.000Z",
       "description": "... ChatGPT Pro, Enterprise, Business et Edu. OpenAI offre un accès gratuit pendant le premier mois. Cet agent se distingue des outils d'analyse...",
       "excerpt": "... ChatGPT Pro, Enterprise, Business et Edu. OpenAI offre un accès gratuit pendant le premier mois. Cet agent se distingue des outils d'analyse...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Définition | LLM: qu'est-ce que c'est? | Futura tech",
-      "link": "https://www.futura-sciences.com/tech/definitions/intelligence-artificielle-llm-28404/",
-      "url": "https://www.futura-sciences.com/tech/definitions/intelligence-artificielle-llm-28404/",
-      "publishedAt": "2026-03-07T13:47:02.000Z",
-      "date": "2026-03-07T13:47:02.000Z",
-      "description": "Le succès de ChatGPT, de Claude, de Gemini ou DeepSeek a attiré l... Cybersécurité · Climat · Santé mentale · Accueil · tech · definitions · LLM. LLM...",
-      "excerpt": "Le succès de ChatGPT, de Claude, de Gemini ou DeepSeek a attiré l... Cybersécurité · Climat · Santé mentale · Accueil · tech · definitions · LLM. LLM...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
