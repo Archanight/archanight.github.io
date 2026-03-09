@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T18:39:28.287Z",
+  "generatedAt": "2026-03-09T21:49:53.207Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "IA pratique: quel chatbot vous convient, le modèle gratuit ou payant? - ZDNET",
+      "link": "https://www.zdnet.fr/pratique/ia-pratique-quel-chatbot-vous-convient-le-modele-gratuit-ou-payant-491483.htm",
+      "url": "https://www.zdnet.fr/pratique/ia-pratique-quel-chatbot-vous-convient-le-modele-gratuit-ou-payant-491483.htm",
+      "publishedAt": "2026-03-09T19:24:28.000Z",
+      "date": "2026-03-09T19:24:28.000Z",
+      "description": "Mais aucun ne surpasse Nano Banana Pro pour modifier une image existante, même si l'outil Image de ChatGPT dans GPT-5.2 s'en rapproche. Vous...",
+      "excerpt": "Mais aucun ne surpasse Nano Banana Pro pour modifier une image existante, même si l'outil Image de ChatGPT dans GPT-5.2 s'en rapproche. Vous...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Aux mains de cybercriminels ou d'un état autoritaire, les IA, comme ChatGPT, peuvent... - BFM",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/aux-mains-de-cybercriminels-ou-d-un-etat-autoritaire-les-ia-comme-chat-gpt-peuvent-devenir-de-veritables-menaces-pour-l-anonymat-en-ligne-et-notre-vie-privee_AN-202603090870.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/aux-mains-de-cybercriminels-ou-d-un-etat-autoritaire-les-ia-comme-chat-gpt-peuvent-devenir-de-veritables-menaces-pour-l-anonymat-en-ligne-et-notre-vie-privee_AN-202603090870.html",
+      "publishedAt": "2026-03-09T19:03:46.000Z",
+      "date": "2026-03-09T19:03:46.000Z",
+      "description": "L'étude montre surtout qu'en ligne, et a fortiori sur un réseau social, la manière dont un utilisateur va interagir peut facilement mener ceux qui l'...",
+      "excerpt": "L'étude montre surtout qu'en ligne, et a fortiori sur un réseau social, la manière dont un utilisateur va interagir peut facilement mener ceux qui l'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Sorcellerie et satanisme: au Royaume-Uni, ChatGPT pousserait certaines victimes d'abus...",
       "link": "https://www.bfmtv.com/tech/intelligence-artificielle/sorcellerie-et-satanisme-au-royaume-uni-chat-gpt-pousserait-certaines-victimes-d-abus-sexuels-ritualises-a-briser-le-silence_AV-202603090750.html",
@@ -108,26 +128,6 @@
       "description": "... cybersécurité, je suis un professionnel de nature discrète qui n'aime pas trop les réseaux sociaux (je n'ai pas de comptes publics). Rédacteur...",
       "excerpt": "... cybersécurité, je suis un professionnel de nature discrète qui n'aime pas trop les réseaux sociaux (je n'ai pas de comptes publics). Rédacteur...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le « mode adulte » de ChatGPT n'a pas été lancé comme prévu. - Vietnam.vn",
-      "link": "https://www.vietnam.vn/fr/che-do-nguoi-lon-cua-chatgpt-chua-the-ra-mat-nhu-du-kien",
-      "url": "https://www.vietnam.vn/fr/che-do-nguoi-lon-cua-chatgpt-chua-the-ra-mat-nhu-du-kien",
-      "publishedAt": "2026-03-09T13:31:32.000Z",
-      "date": "2026-03-09T13:31:32.000Z",
-      "description": "DNVN - OpenAI a de nouveau reporté le déploiement du « mode adulte » pour ChatGPT, une fonctionnalité qui devait permettre aux utilisateurs...",
-      "excerpt": "DNVN - OpenAI a de nouveau reporté le déploiement du « mode adulte » pour ChatGPT, une fonctionnalité qui devait permettre aux utilisateurs...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "« Mode adulte » sur ChatGPT: Pourquoi OpenAI repousse encore le lancement? - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/361129/chatgpt-mode-adulte-report-openai-sam-altman-age-verification/",
-      "url": "https://www.blog-nouvelles-technologies.fr/361129/chatgpt-mode-adulte-report-openai-sam-altman-age-verification/",
-      "publishedAt": "2026-03-09T13:12:18.000Z",
-      "date": "2026-03-09T13:12:18.000Z",
-      "description": "OpenAI repousse à nouveau le \"mode adulte\" de ChatGPT pour se concentrer sur l'intelligence pure. Découvrez pourquoi la vérification d'âge reste...",
-      "excerpt": "OpenAI repousse à nouveau le \"mode adulte\" de ChatGPT pour se concentrer sur l'intelligence pure. Découvrez pourquoi la vérification d'âge reste...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
