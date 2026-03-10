@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T21:49:53.207Z",
+  "generatedAt": "2026-03-10T01:10:26.010Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le « mode adulte » de ChatGPT encore repoussé, OpenAI temporise - TechRadar",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/le-mode-adulte-de-chatgpt-encore-repousse-openai-temporise",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/le-mode-adulte-de-chatgpt-encore-repousse-openai-temporise",
+      "publishedAt": "2026-03-09T22:56:01.000Z",
+      "date": "2026-03-09T22:56:01.000Z",
+      "description": "ChatGPT 5.4. ChatGPT franchit un nouveau cap avec GPT-5.4 Thinking, un cerveau conçu pour les défis complexes · ChatGPT on mobile. GPT-5.2 change...",
+      "excerpt": "ChatGPT 5.4. ChatGPT franchit un nouveau cap avec GPT-5.4 Thinking, un cerveau conçu pour les défis complexes · ChatGPT on mobile. GPT-5.2 change...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Trump exerce une pression maximale sur les entreprises spécialisées dans l'IA - MSN",
+      "link": "https://www.msn.com/fr-ca/actualites/other/trump-exerce-une-pression-maximale-sur-les-entreprises-sp%C3%A9cialis%C3%A9es-dans-l-ia/ar-AA1XPEzW?ocid=finance-verthp-feeds",
+      "url": "https://www.msn.com/fr-ca/actualites/other/trump-exerce-une-pression-maximale-sur-les-entreprises-sp%C3%A9cialis%C3%A9es-dans-l-ia/ar-AA1XPEzW?ocid=finance-verthp-feeds",
+      "publishedAt": "2026-03-09T19:32:35.000Z",
+      "date": "2026-03-09T19:32:35.000Z",
+      "description": "... ChatGPT, le populaire chatbot cumulant quelque 700 millions d'utilisateurs actifs hebdomadaires. Or, depuis son lancement le 7 août, GPT-5 n...",
+      "excerpt": "... ChatGPT, le populaire chatbot cumulant quelque 700 millions d'utilisateurs actifs hebdomadaires. Or, depuis son lancement le 7 août, GPT-5 n...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "IA pratique: quel chatbot vous convient, le modèle gratuit ou payant? - ZDNET",
       "link": "https://www.zdnet.fr/pratique/ia-pratique-quel-chatbot-vous-convient-le-modele-gratuit-ou-payant-491483.htm",
@@ -38,6 +58,26 @@
       "description": "Au Royaume-Uni, de plus en plus de victimes d'abus sexuels ritualisés contactent des associations après avoir échangé avec ChatGPT... Cybersécurité...",
       "excerpt": "Au Royaume-Uni, de plus en plus de victimes d'abus sexuels ritualisés contactent des associations après avoir échangé avec ChatGPT... Cybersécurité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Codex Security: now in research preview - OpenAI",
+      "link": "https://openai.com/fr-FR/index/codex-security-now-in-research-preview/",
+      "url": "https://openai.com/fr-FR/index/codex-security-now-in-research-preview/",
+      "publishedAt": "2026-03-09T17:17:44.000Z",
+      "date": "2026-03-09T17:17:44.000Z",
+      "description": "... vulnerability, and many... We'll be rolling out Codex Security access to ChatGPT Enterprise, Business, and Edu customers over the coming days.",
+      "excerpt": "... vulnerability, and many... We'll be rolling out Codex Security access to ChatGPT Enterprise, Business, and Edu customers over the coming days.",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
+      "title": "Caitlin Kalinowski~? responsable de la robotique chez OpenAI~? démissionne en raison de...",
+      "link": "https://intelligence-artificielle.developpez.com/actu/380952/Caitlin-Kalinowski-responsable-de-la-robotique-chez-OpenAI-demissionne-en-raison-de-l-accord-entre-Sam-Altman-et-le-Pentagone-invoquant-une-surveillance-sans-controle-judiciaire-et-une-autonomie-letale/?amp",
+      "url": "https://intelligence-artificielle.developpez.com/actu/380952/Caitlin-Kalinowski-responsable-de-la-robotique-chez-OpenAI-demissionne-en-raison-de-l-accord-entre-Sam-Altman-et-le-Pentagone-invoquant-une-surveillance-sans-controle-judiciaire-et-une-autonomie-letale/?amp",
+      "publishedAt": "2026-03-09T15:47:29.000Z",
+      "date": "2026-03-09T15:47:29.000Z",
+      "description": "... ChatGPT et relançant un débat fondamental: peut-on faire confiance à... To be clear, my issue is that the announcement was rushed without the...",
+      "excerpt": "... ChatGPT et relançant un débat fondamental: peut-on faire confiance à... To be clear, my issue is that the announcement was rushed without the...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "ChatGPT et l'armée: après un accord polémique, une dirigeante OpenAI démissionne par",
@@ -87,46 +127,6 @@
       "date": "2026-03-09T14:02:18.000Z",
       "description": "Partager. Imprimer. Chatgpt Gpt 5 Mode Agent © Unsplash. Les IA génératives révolutionnent le monde de la cybersécurité. Claude Code d'Anthropic et...",
       "excerpt": "Partager. Imprimer. Chatgpt Gpt 5 Mode Agent © Unsplash. Les IA génératives révolutionnent le monde de la cybersécurité. Claude Code d'Anthropic et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pas de chance pour le mode \"adulte\" de ChatGPT: il est repoussé à nouveau, OpenAI se... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/pas-de-chance-pour-le-mode-adulte-de-chat-gpt-il-est-repousse-a-nouveau-open-ai-se-concentre-sur-d-autres-chantiers-comme-l-amelioration-de-l-intelligence-et-de-l-experience-proactive_AV-202603090506.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/pas-de-chance-pour-le-mode-adulte-de-chat-gpt-il-est-repousse-a-nouveau-open-ai-se-concentre-sur-d-autres-chantiers-comme-l-amelioration-de-l-intelligence-et-de-l-experience-proactive_AV-202603090506.html",
-      "publishedAt": "2026-03-09T13:52:33.000Z",
-      "date": "2026-03-09T13:52:33.000Z",
-      "description": "Une porte-parole d'OpenAI a révélé que le lancement du \"mode adulte\" de ChatGPT... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'...",
-      "excerpt": "Une porte-parole d'OpenAI a révélé que le lancement du \"mode adulte\" de ChatGPT... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pourquoi ChatGPT vous prive encore de ses conversations coquines - Clubic",
-      "link": "https://www.clubic.com/actualite-603763-pourquoi-chatgpt-vous-prive-encore-de-ses-conversations-coquines.html",
-      "url": "https://www.clubic.com/actualite-603763-pourquoi-chatgpt-vous-prive-encore-de-ses-conversations-coquines.html",
-      "publishedAt": "2026-03-09T13:34:41.000Z",
-      "date": "2026-03-09T13:34:41.000Z",
-      "description": "Promis par Sam Altman fin 2025, le fameux mode sans filtre de ChatGPT se fait encore désirer... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN...",
-      "excerpt": "Promis par Sam Altman fin 2025, le fameux mode sans filtre de ChatGPT se fait encore désirer... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude dépasse les 11 millions d'utilisateurs quotidiens et accélère sa croissance",
-      "link": "https://siecledigital.fr/2026/03/09/claude-depasse-les-11-millions-dutilisateurs-quotidiens-et-accelere-sa-croissance/",
-      "url": "https://siecledigital.fr/2026/03/09/claude-depasse-les-11-millions-dutilisateurs-quotidiens-et-accelere-sa-croissance/",
-      "publishedAt": "2026-03-09T13:34:41.000Z",
-      "date": "2026-03-09T13:34:41.000Z",
-      "description": "Si le marché des assistants IA est largement dominé par ChatGPT, avec 900 millions d'utilisateurs hebdomadaires revendiqués, un concurrent...",
-      "excerpt": "Si le marché des assistants IA est largement dominé par ChatGPT, avec 900 millions d'utilisateurs hebdomadaires revendiqués, un concurrent...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Étude: Google, Amazon, YouTube, ChatGPT, TikTok: où les internautes cherchent vraiment en 2026",
-      "link": "https://www.leptidigital.fr/webmarketing/etude-recherche-en-ligne-2026-google-vs-chatgpt-tiktok-amazon-youtube-88100/",
-      "url": "https://www.leptidigital.fr/webmarketing/etude-recherche-en-ligne-2026-google-vs-chatgpt-tiktok-amazon-youtube-88100/",
-      "publishedAt": "2026-03-09T13:31:55.000Z",
-      "date": "2026-03-09T13:31:55.000Z",
-      "description": "... cybersécurité, je suis un professionnel de nature discrète qui n'aime pas trop les réseaux sociaux (je n'ai pas de comptes publics). Rédacteur...",
-      "excerpt": "... cybersécurité, je suis un professionnel de nature discrète qui n'aime pas trop les réseaux sociaux (je n'ai pas de comptes publics). Rédacteur...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
