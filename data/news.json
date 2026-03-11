@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T01:11:09.764Z",
+  "generatedAt": "2026-03-11T06:40:22.197Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT et d'autres chatbots d'IA approuvés pour un usage officiel au Sénat américain, selon le NYT",
+      "link": "https://www.zonebourse.com/actualite-bourse/chatgpt-et-d-autres-chatbots-d-ia-approuves-pour-un-usage-officiel-au-senat-americain-selon-le-nyt-ce7e5fdfdf88fe26",
+      "url": "https://www.zonebourse.com/actualite-bourse/chatgpt-et-d-autres-chatbots-d-ia-approuves-pour-un-usage-officiel-au-senat-americain-selon-le-nyt-ce7e5fdfdf88fe26",
+      "publishedAt": "2026-03-11T04:46:09.000Z",
+      "date": "2026-03-11T04:46:09.000Z",
+      "description": "ChatGPT et deux autres agents conversationnels d... Cybersécurité · Palmarès · Palmarès Cotations · Variations Court Terme.",
+      "excerpt": "ChatGPT et deux autres agents conversationnels d... Cybersécurité · Palmarès · Palmarès Cotations · Variations Court Terme.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI prévoit d'intégrer l'IA vidéo Sora à ChatGPT, un tournant stratégique | Zonebourse",
+      "link": "https://www.zonebourse.com/actualite-bourse/openai-prevoit-d-integrer-l-ia-video-sora-a-chatgpt-un-tournant-strategique-ce7e5fdfd18cf621",
+      "url": "https://www.zonebourse.com/actualite-bourse/openai-prevoit-d-integrer-l-ia-video-sora-a-chatgpt-un-tournant-strategique-ce7e5fdfd18cf621",
+      "publishedAt": "2026-03-11T04:08:09.000Z",
+      "date": "2026-03-11T04:08:09.000Z",
+      "description": "OpenAI prévoit de lancer l'IA vidéo Sora au sein de ChatGPT dans le cadre d'un changement de stratégie - The Information.... Cybersécurité · Palmarès.",
+      "excerpt": "OpenAI prévoit de lancer l'IA vidéo Sora au sein de ChatGPT dans le cadre d'un changement de stratégie - The Information.... Cybersécurité · Palmarès.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Tumbler Ridge: la famille d'une victime poursuit OpenAI en justice - Les Affaires",
       "link": "https://www.lesaffaires.com/sans-section/tumbler-ridge-la-famille-dune-victime-poursuit-openai-en-justice/",
@@ -108,26 +128,6 @@
       "description": "Mais si cette technologie est effectivement puissante, elle est aussi très dangereuse sur le plan de la cybersécurité.",
       "excerpt": "Mais si cette technologie est effectivement puissante, elle est aussi très dangereuse sur le plan de la cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Faux CleanMyMac: un malware redoutable piège les utilisateurs Mac - 01net.com",
-      "link": "https://www.01net.com/actualites/faux-cleanmymac-un-malware-redoutable-piege-les-utilisateurs-mac.html",
-      "url": "https://www.01net.com/actualites/faux-cleanmymac-un-malware-redoutable-piege-les-utilisateurs-mac.html",
-      "publishedAt": "2026-03-10T14:59:54.000Z",
-      "date": "2026-03-10T14:59:54.000Z",
-      "description": "Cybersécurité · Chatgpt Gpt 5 Mode Agent. Après Claude, ChatGPT se met à traquer les failles de sécurité · Fuite de données médicales: l'éditeur...",
-      "excerpt": "Cybersécurité · Chatgpt Gpt 5 Mode Agent. Après Claude, ChatGPT se met à traquer les failles de sécurité · Fuite de données médicales: l'éditeur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic attaque le gouvernement américain en justice ( update ) - ICTjournal",
-      "link": "https://www.ictjournal.ch/news/2026-03-10/anthropic-attaque-le-gouvernement-americain-en-justice-update",
-      "url": "https://www.ictjournal.ch/news/2026-03-10/anthropic-attaque-le-gouvernement-americain-en-justice-update",
-      "publishedAt": "2026-03-10T14:56:28.000Z",
-      "date": "2026-03-10T14:56:28.000Z",
-      "description": "Le développeur de ChatGPT, OpenAI, a depuis conclu un accord avec le Pentagone. L'entreprise a accepté les conditions du Département de la Guerre...",
-      "excerpt": "Le développeur de ChatGPT, OpenAI, a depuis conclu un accord avec le Pentagone. L'entreprise a accepté les conditions du Département de la Guerre...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
