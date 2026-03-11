@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T18:36:08.194Z",
+  "generatedAt": "2026-03-11T01:11:09.764Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,56 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Tumbler Ridge: la famille d'une victime poursuit OpenAI en justice - Les Affaires",
+      "link": "https://www.lesaffaires.com/sans-section/tumbler-ridge-la-famille-dune-victime-poursuit-openai-en-justice/",
+      "url": "https://www.lesaffaires.com/sans-section/tumbler-ridge-la-famille-dune-victime-poursuit-openai-en-justice/",
+      "publishedAt": "2026-03-10T21:30:49.000Z",
+      "date": "2026-03-10T21:30:49.000Z",
+      "description": "Son compte avait été suspendu, car son activité suscitait des inquiétudes quant à une utilisation de ChatGPT... Cybersécurité proactive: pilotage...",
+      "excerpt": "Son compte avait été suspendu, car son activité suscitait des inquiétudes quant à une utilisation de ChatGPT... Cybersécurité proactive: pilotage...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La famille d'une victime de la récente tuerie au Canada poursuit OpenAI en justice - LaLibre",
+      "link": "https://www.lalibre.be/international/2026/03/10/la-famille-dune-victime-de-la-recente-tuerie-au-canada-poursuit-openai-en-justice-IPX3KWKHYNCIBLKWVWPC2SPS3Q/",
+      "url": "https://www.lalibre.be/international/2026/03/10/la-famille-dune-victime-de-la-recente-tuerie-au-canada-poursuit-openai-en-justice-IPX3KWKHYNCIBLKWVWPC2SPS3Q/",
+      "publishedAt": "2026-03-10T20:27:43.000Z",
+      "date": "2026-03-10T20:27:43.000Z",
+      "description": "... ChatGPT, ont déclaré mardi ses avocats. AFP Agence. Publié le 10-03-2026 à 21h27. Enregistrer.",
+      "excerpt": "... ChatGPT, ont déclaré mardi ses avocats. AFP Agence. Publié le 10-03-2026 à 21h27. Enregistrer.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI lance GPT-5.4 et une application Codex pour Windows - ICTjournal",
+      "link": "https://www.ictjournal.ch/news/2026-03-10/openai-lance-gpt-54-et-une-application-codex-pour-windows",
+      "url": "https://www.ictjournal.ch/news/2026-03-10/openai-lance-gpt-54-et-une-application-codex-pour-windows",
+      "publishedAt": "2026-03-10T20:21:39.000Z",
+      "date": "2026-03-10T20:21:39.000Z",
+      "description": "... GPT-4o. OpenAI désactive plusieurs versions de ChatGPT ( update ) · 30 milliards au lieu des 100 milliards envisagés. Nvidia investit nettement moins...",
+      "excerpt": "... GPT-4o. OpenAI désactive plusieurs versions de ChatGPT ( update ) · 30 milliards au lieu des 100 milliards envisagés. Nvidia investit nettement moins...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "« Mon modèle préféré »: Sam Altman encense GPT-5.4… puis révèle ses failles | TechRadar",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/mon-modele-prefere-sam-altman-encense-gpt-5-4-puis-revele-ses-failles",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/mon-modele-prefere-sam-altman-encense-gpt-5-4-puis-revele-ses-failles",
+      "publishedAt": "2026-03-10T17:46:30.000Z",
+      "date": "2026-03-10T17:46:30.000Z",
+      "description": "... GPT-5.2 change (encore) la donne: 3 raisons de s'y mettre tout de... ChatGPT 5.4. ChatGPT franchit un nouveau cap avec GPT-5.4 Thinking, un...",
+      "excerpt": "... GPT-5.2 change (encore) la donne: 3 raisons de s'y mettre tout de... ChatGPT 5.4. ChatGPT franchit un nouveau cap avec GPT-5.4 Thinking, un...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "« Je l'utilisais comme un psychologue, un entraîneur »: un parabiathlète ukrainien vice...",
+      "link": "https://www.leparisien.fr/sports/JO/je-lutilisais-comme-un-psychologue-un-entraineur-un-parabiathlete-ukrainien-vice-champion-olympique-grace-a-chatgpt-10-03-2026-DTKKUEVCM5GZHOV326CAMUMC34.php",
+      "url": "https://www.leparisien.fr/sports/JO/je-lutilisais-comme-un-psychologue-un-entraineur-un-parabiathlete-ukrainien-vice-champion-olympique-grace-a-chatgpt-10-03-2026-DTKKUEVCM5GZHOV326CAMUMC34.php",
+      "publishedAt": "2026-03-10T17:42:10.000Z",
+      "date": "2026-03-10T17:42:10.000Z",
+      "description": "à l'aide de l'intelligence artificielle. « Ces six derniers mois, je me suis entraîné avec ChatGPT, a-t-il...",
+      "excerpt": "à l'aide de l'intelligence artificielle. « Ces six derniers mois, je me suis entraîné avec ChatGPT, a-t-il...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Meta met la main sur Moltbook, le réseau social dédié aux agents IA - Next.ink",
       "link": "https://next.ink/brief_article/meta-met-la-main-sur-moltbook-le-reseau-social-dedie-aux-agents-ia/",
       "url": "https://next.ink/brief_article/meta-met-la-main-sur-moltbook-le-reseau-social-dedie-aux-agents-ia/",
@@ -18,6 +68,16 @@
       "description": "... cybersécurité. Moltbook selon Flock pour sa chronique hebdomadaire... ChatGPT, etc.) ainsi qu'à ses canaux de communication de prédilection...",
       "excerpt": "... cybersécurité. Moltbook selon Flock pour sa chronique hebdomadaire... ChatGPT, etc.) ainsi qu'à ses canaux de communication de prédilection...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Chatbot IA: Zeta en tête des utilisations en février en Corée du Sud - KBS WORLD",
+      "link": "https://world.kbs.co.kr/service/news_view.htm?lang=f&Seq_Code=94108",
+      "url": "https://world.kbs.co.kr/service/news_view.htm?lang=f&Seq_Code=94108",
+      "publishedAt": "2026-03-10T16:27:31.000Z",
+      "date": "2026-03-10T16:27:31.000Z",
+      "description": "Selon une étude de Wiseapp Retail, basée sur le nombre d'utilisateurs actifs mensuels et le temps d'utilisation des principaux chatbots, ChatGPT...",
+      "excerpt": "Selon une étude de Wiseapp Retail, basée sur le nombre d'utilisateurs actifs mensuels et le temps d'utilisation des principaux chatbots, ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Tuerie de Tumbler Ridge: OpenAI avait détecté le profil de l'assaillante avant le massacre...",
@@ -60,74 +120,14 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Nvidia prépare l'après- ChatGPT avec une plateforme d'agents IA open source - BuzzArena",
-      "link": "https://www.buzzarena.com/nvidia-prepare-lapres-chatgpt-avec-une-plateforme-dagents-ia-open-source-4550301",
-      "url": "https://www.buzzarena.com/nvidia-prepare-lapres-chatgpt-avec-une-plateforme-dagents-ia-open-source-4550301",
-      "publishedAt": "2026-03-10T14:00:56.000Z",
-      "date": "2026-03-10T14:00:56.000Z",
-      "description": "Nvidia prépare l'après- ChatGPT avec une plateforme d'agents IA open source... Les experts en cybersécurité alertent sur le fait que ces agents, aussi...",
-      "excerpt": "Nvidia prépare l'après- ChatGPT avec une plateforme d'agents IA open source... Les experts en cybersécurité alertent sur le fait que ces agents, aussi...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI nous fait languir: ChatGPT mode adulte encore repoussé - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/openai-nous-fait-languir-chatgpt-mode-adulte-encore-repousse",
-      "url": "https://www.lebigdata.fr/openai-nous-fait-languir-chatgpt-mode-adulte-encore-repousse",
-      "publishedAt": "2026-03-10T09:24:13.000Z",
-      "date": "2026-03-10T09:24:13.000Z",
-      "description": "Il faudra encore s'armer de patience, car le fameux ChatGPT mode adulte est repoussé. Et personne ne sait quand il sera disponible.",
-      "excerpt": "Il faudra encore s'armer de patience, car le fameux ChatGPT mode adulte est repoussé. Et personne ne sait quand il sera disponible.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le « mode adulte » de ChatGPT encore repoussé, OpenAI temporise - TechRadar",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/le-mode-adulte-de-chatgpt-encore-repousse-openai-temporise",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/le-mode-adulte-de-chatgpt-encore-repousse-openai-temporise",
-      "publishedAt": "2026-03-09T22:56:01.000Z",
-      "date": "2026-03-09T22:56:01.000Z",
-      "description": "ChatGPT 5.4. ChatGPT franchit un nouveau cap avec GPT-5.4 Thinking, un cerveau conçu pour les défis complexes · ChatGPT on mobile. GPT-5.2 change...",
-      "excerpt": "ChatGPT 5.4. ChatGPT franchit un nouveau cap avec GPT-5.4 Thinking, un cerveau conçu pour les défis complexes · ChatGPT on mobile. GPT-5.2 change...",
+      "title": "Anthropic attaque le gouvernement américain en justice ( update ) - ICTjournal",
+      "link": "https://www.ictjournal.ch/news/2026-03-10/anthropic-attaque-le-gouvernement-americain-en-justice-update",
+      "url": "https://www.ictjournal.ch/news/2026-03-10/anthropic-attaque-le-gouvernement-americain-en-justice-update",
+      "publishedAt": "2026-03-10T14:56:28.000Z",
+      "date": "2026-03-10T14:56:28.000Z",
+      "description": "Le développeur de ChatGPT, OpenAI, a depuis conclu un accord avec le Pentagone. L'entreprise a accepté les conditions du Département de la Guerre...",
+      "excerpt": "Le développeur de ChatGPT, OpenAI, a depuis conclu un accord avec le Pentagone. L'entreprise a accepté les conditions du Département de la Guerre...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Trump exerce une pression maximale sur les entreprises spécialisées dans l'IA - MSN",
-      "link": "https://www.msn.com/fr-ca/actualites/other/trump-exerce-une-pression-maximale-sur-les-entreprises-sp%C3%A9cialis%C3%A9es-dans-l-ia/ar-AA1XPEzW?ocid=finance-verthp-feeds",
-      "url": "https://www.msn.com/fr-ca/actualites/other/trump-exerce-une-pression-maximale-sur-les-entreprises-sp%C3%A9cialis%C3%A9es-dans-l-ia/ar-AA1XPEzW?ocid=finance-verthp-feeds",
-      "publishedAt": "2026-03-09T19:32:35.000Z",
-      "date": "2026-03-09T19:32:35.000Z",
-      "description": "... ChatGPT, le populaire chatbot cumulant quelque 700 millions d'utilisateurs actifs hebdomadaires. Or, depuis son lancement le 7 août, GPT-5 n...",
-      "excerpt": "... ChatGPT, le populaire chatbot cumulant quelque 700 millions d'utilisateurs actifs hebdomadaires. Or, depuis son lancement le 7 août, GPT-5 n...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "IA pratique: quel chatbot vous convient, le modèle gratuit ou payant? - ZDNET",
-      "link": "https://www.zdnet.fr/pratique/ia-pratique-quel-chatbot-vous-convient-le-modele-gratuit-ou-payant-491483.htm",
-      "url": "https://www.zdnet.fr/pratique/ia-pratique-quel-chatbot-vous-convient-le-modele-gratuit-ou-payant-491483.htm",
-      "publishedAt": "2026-03-09T19:24:28.000Z",
-      "date": "2026-03-09T19:24:28.000Z",
-      "description": "Mais aucun ne surpasse Nano Banana Pro pour modifier une image existante, même si l'outil Image de ChatGPT dans GPT-5.2 s'en rapproche. Vous...",
-      "excerpt": "Mais aucun ne surpasse Nano Banana Pro pour modifier une image existante, même si l'outil Image de ChatGPT dans GPT-5.2 s'en rapproche. Vous...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Aux mains de cybercriminels ou d'un état autoritaire, les IA, comme ChatGPT, peuvent... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/aux-mains-de-cybercriminels-ou-d-un-etat-autoritaire-les-ia-comme-chat-gpt-peuvent-devenir-de-veritables-menaces-pour-l-anonymat-en-ligne-et-notre-vie-privee_AN-202603090870.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/aux-mains-de-cybercriminels-ou-d-un-etat-autoritaire-les-ia-comme-chat-gpt-peuvent-devenir-de-veritables-menaces-pour-l-anonymat-en-ligne-et-notre-vie-privee_AN-202603090870.html",
-      "publishedAt": "2026-03-09T19:03:46.000Z",
-      "date": "2026-03-09T19:03:46.000Z",
-      "description": "L'étude montre surtout qu'en ligne, et a fortiori sur un réseau social, la manière dont un utilisateur va interagir peut facilement mener ceux qui l'...",
-      "excerpt": "L'étude montre surtout qu'en ligne, et a fortiori sur un réseau social, la manière dont un utilisateur va interagir peut facilement mener ceux qui l'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Sorcellerie et satanisme: au Royaume-Uni, ChatGPT pousserait certaines victimes d'abus...",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/sorcellerie-et-satanisme-au-royaume-uni-chat-gpt-pousserait-certaines-victimes-d-abus-sexuels-ritualises-a-briser-le-silence_AV-202603090750.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/sorcellerie-et-satanisme-au-royaume-uni-chat-gpt-pousserait-certaines-victimes-d-abus-sexuels-ritualises-a-briser-le-silence_AV-202603090750.html",
-      "publishedAt": "2026-03-09T17:24:56.000Z",
-      "date": "2026-03-09T17:24:56.000Z",
-      "description": "Au Royaume-Uni, de plus en plus de victimes d'abus sexuels ritualisés contactent des associations après avoir échangé avec ChatGPT... Cybersécurité...",
-      "excerpt": "Au Royaume-Uni, de plus en plus de victimes d'abus sexuels ritualisés contactent des associations après avoir échangé avec ChatGPT... Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
