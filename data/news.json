@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T12:38:29.699Z",
+  "generatedAt": "2026-03-11T18:42:01.508Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,96 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Mise au ban d'Anthropic par l'administration Trump: Microsoft craint que l'interdiction des...",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/mise-au-ban-d-anthropic-par-l-administration-trump-microsoft-craint-que-l-interdiction-des-outils-de-la-start-up-entrave-le-bon-fonctionnement-de-l-armee-americaine-a-un-moment-critique_AD-202603110511.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/mise-au-ban-d-anthropic-par-l-administration-trump-microsoft-craint-que-l-interdiction-des-outils-de-la-start-up-entrave-le-bon-fonctionnement-de-l-armee-americaine-a-un-moment-critique_AD-202603110511.html",
+      "publishedAt": "2026-03-11T18:09:08.000Z",
+      "date": "2026-03-11T18:09:08.000Z",
+      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... grâce à ChatGPT. A la Une. DIRECT. Guerre au Moyen-Orient: Donald...",
+      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... grâce à ChatGPT. A la Une. DIRECT. Guerre au Moyen-Orient: Donald...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI prévoit de lancer son outil vidéo Sora dans ChatGPT, selon The Information",
+      "link": "https://ch.zonebourse.com/actualite-bourse/openai-prevoit-de-lancer-son-outil-video-sora-dans-chatgpt-selon-the-information-ce7e5fdfd18ef625",
+      "url": "https://ch.zonebourse.com/actualite-bourse/openai-prevoit-de-lancer-son-outil-video-sora-dans-chatgpt-selon-the-information-ce7e5fdfd18ef625",
+      "publishedAt": "2026-03-11T16:58:19.000Z",
+      "date": "2026-03-11T16:58:19.000Z",
+      "description": "OpenAI prévoit de lancer prochainement son générateur de vidéos par IA, Sora, au sein de ChatGPT, a rapporté mardi The Information,...",
+      "excerpt": "OpenAI prévoit de lancer prochainement son générateur de vidéos par IA, Sora, au sein de ChatGPT, a rapporté mardi The Information,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI prévoit de lancer son outil vidéo Sora dans ChatGPT, selon The Information",
+      "link": "https://www.zonebourse.com/actualite-bourse/openai-prevoit-de-lancer-son-outil-video-sora-dans-chatgpt-selon-the-information-ce7e5fdfd18ef625",
+      "url": "https://www.zonebourse.com/actualite-bourse/openai-prevoit-de-lancer-son-outil-video-sora-dans-chatgpt-selon-the-information-ce7e5fdfd18ef625",
+      "publishedAt": "2026-03-11T16:55:54.000Z",
+      "date": "2026-03-11T16:55:54.000Z",
+      "description": "OpenAI prévoit de lancer prochainement son générateur de vidéos par IA, Sora, au sein de ChatGPT, a rapporté mardi The Information,...",
+      "excerpt": "OpenAI prévoit de lancer prochainement son générateur de vidéos par IA, Sora, au sein de ChatGPT, a rapporté mardi The Information,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI prévoit d'intégrer l'IA vidéo Sora à ChatGPT, un tournant stratégique - Bourse",
+      "link": "https://ch.zonebourse.com/actualite-bourse/openai-prevoit-d-integrer-l-ia-video-sora-a-chatgpt-un-tournant-strategique-ce7e5fdfd18cf621",
+      "url": "https://ch.zonebourse.com/actualite-bourse/openai-prevoit-d-integrer-l-ia-video-sora-a-chatgpt-un-tournant-strategique-ce7e5fdfd18cf621",
+      "publishedAt": "2026-03-11T16:08:18.000Z",
+      "date": "2026-03-11T16:08:18.000Z",
+      "description": "OpenAI prévoit de lancer l'IA vidéo Sora au sein de ChatGPT dans le cadre d'un changement de stratégie - The Information.",
+      "excerpt": "OpenAI prévoit de lancer l'IA vidéo Sora au sein de ChatGPT dans le cadre d'un changement de stratégie - The Information.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Canal+ s'allie à OpenAI pour aider ses abonnés à trouver des \"divertissements... - BFM",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/canal-s-allie-a-open-ai-pour-aider-ses-abonnes-a-trouver-des-divertissements-personnalises-et-a-google-pour-aider-les-realisateurs-a-aller-plus-loin-grace-a-l-ia_AD-202603110560.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/canal-s-allie-a-open-ai-pour-aider-ses-abonnes-a-trouver-des-divertissements-personnalises-et-a-google-pour-aider-les-realisateurs-a-aller-plus-loin-grace-a-l-ia_AD-202603110560.html",
+      "publishedAt": "2026-03-11T15:03:17.000Z",
+      "date": "2026-03-11T15:03:17.000Z",
+      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... ChatGPT. \"Selon leurs préférences, leur humeur ou encore leur envie...",
+      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... ChatGPT. \"Selon leurs préférences, leur humeur ou encore leur envie...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Vous pouvez utiliser Shazam directement dans ChatGPT - 01net.com",
+      "link": "https://www.01net.com/actualites/vous-pouvez-utiliser-shazam-directement-dans-chatgpt.html",
+      "url": "https://www.01net.com/actualites/vous-pouvez-utiliser-shazam-directement-dans-chatgpt.html",
+      "publishedAt": "2026-03-11T14:48:48.000Z",
+      "date": "2026-03-11T14:48:48.000Z",
+      "description": "Exemple: si vous voulez réserver une location pour vos vacances, l'intégration de Booking directement à ChatGPT fait gagner du temps.... Cybersécurité...",
+      "excerpt": "Exemple: si vous voulez réserver une location pour vos vacances, l'intégration de Booking directement à ChatGPT fait gagner du temps.... Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Meta met la main sur Moltbook, le réseau social dédié aux agents IA - Lematin.ma",
+      "link": "https://lematin.ma/hi-tech/meta-met-la-main-sur-moltbook-le-reseau-social-dedie-aux-agents-ia/334368/amp",
+      "url": "https://lematin.ma/hi-tech/meta-met-la-main-sur-moltbook-le-reseau-social-dedie-aux-agents-ia/334368/amp",
+      "publishedAt": "2026-03-11T13:24:35.000Z",
+      "date": "2026-03-11T13:24:35.000Z",
+      "description": "Meta met la main sur Moltbook, le réseau social... cybersécurité Wiz. Articles similaires...",
+      "excerpt": "Meta met la main sur Moltbook, le réseau social... cybersécurité Wiz. Articles similaires...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Générer des vidéos directement dans ChatGPT? Ce serait bientôt possible grâce à l...",
+      "link": "https://www.phonandroid.com/generer-des-videos-directement-dans-chatgpt-ce-serait-bientot-possible-grace-a-lintegration-de-sora.html",
+      "url": "https://www.phonandroid.com/generer-des-videos-directement-dans-chatgpt-ce-serait-bientot-possible-grace-a-lintegration-de-sora.html",
+      "publishedAt": "2026-03-11T12:19:16.000Z",
+      "date": "2026-03-11T12:19:16.000Z",
+      "description": "Selon un récent rapport, OpenAI envisagerait d'intégrer Sora, son célèbre générateur de vidéos IA, directement dans ChatGPT... Cybersécurité · High-...",
+      "excerpt": "Selon un récent rapport, OpenAI envisagerait d'intégrer Sora, son célèbre générateur de vidéos IA, directement dans ChatGPT... Cybersécurité · High-...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "« Je voudrais pousser ChatGPT du haut d'une falaise »: dans les amphis, des professeurs...",
+      "link": "https://intelligence-artificielle.developpez.com/actu/381016/-Je-voudrais-pousser-ChatGPT-du-haut-d-une-falaise-dans-les-amphis-des-professeurs-se-battent-pour-sauver-la-pensee-humaine-tandis-que-d-autres-trichent-autant-que-les-etudiants/",
+      "url": "https://intelligence-artificielle.developpez.com/actu/381016/-Je-voudrais-pousser-ChatGPT-du-haut-d-une-falaise-dans-les-amphis-des-professeurs-se-battent-pour-sauver-la-pensee-humaine-tandis-que-d-autres-trichent-autant-que-les-etudiants/",
+      "publishedAt": "2026-03-11T11:40:47.000Z",
+      "date": "2026-03-11T11:40:47.000Z",
+      "description": "... cybersécurité ont découvert que leurs cours étaient entièrement générés... « Je voudrais pousser ChatGPT du haut d'une falaise »: dans les amphis~?...",
+      "excerpt": "... cybersécurité ont découvert que leurs cours étaient entièrement générés... « Je voudrais pousser ChatGPT du haut d'une falaise »: dans les amphis~?...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI va intégrer Sora directement dans ChatGPT: une réponse directe à Gemini?",
       "link": "https://www.clubic.com/actualite-604126-openai-va-integrer-sora-directement-dans-chatgpt-une-reponse-directe-a-gemini.html",
@@ -38,96 +128,6 @@
       "description": "Ce rapprochement, destiné à soutenir diverses missions gouvernementales, de la planification logistique à l'analyse en cybersécurité, ne laisse...",
       "excerpt": "Ce rapprochement, destiné à soutenir diverses missions gouvernementales, de la planification logistique à l'analyse en cybersécurité, ne laisse...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA & Cybersécurité: les 11 actus clés du 11 mars 2026",
-      "link": "https://dcod.ch/2026/03/11/ia-cybersecurite-les-11-actus-cles-du-11-mar-2026/",
-      "url": "https://dcod.ch/2026/03/11/ia-cybersecurite-les-11-actus-cles-du-11-mar-2026/",
-      "publishedAt": "2026-03-11T09:02:31.000Z",
-      "date": "2026-03-11T09:02:31.000Z",
-      "description": "... cybersécurité: avancées... Le modèle d'IA Claude a été propulsé en tête des classements d'applications gratuites aux États-Unis, devant ChatGPT...",
-      "excerpt": "... cybersécurité: avancées... Le modèle d'IA Claude a été propulsé en tête des classements d'applications gratuites aux États-Unis, devant ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Meta rachète un réseau social pour l'intelligence artificielle - Zamin.uz",
-      "link": "https://zamin.uz/fr/technologie/194025-meta-rachte-un-rseau-social-pour-lintelligence-artificielle.html",
-      "url": "https://zamin.uz/fr/technologie/194025-meta-rachte-un-rseau-social-pour-lintelligence-artificielle.html",
-      "publishedAt": "2026-03-11T08:18:00.000Z",
-      "date": "2026-03-11T08:18:00.000Z",
-      "description": "... ChatGPT. Présenté comme un outil open-source fin 2025, OpenClaw a attiré l'attention de nombreux développeurs. Mais les experts en cybersécurité s...",
-      "excerpt": "... ChatGPT. Présenté comme un outil open-source fin 2025, OpenClaw a attiré l'attention de nombreux développeurs. Mais les experts en cybersécurité s...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Norton insère du Genie dans ChatGPT - L'INFORMATICIEN & L'INFO CYBER-RISQUES",
-      "link": "https://www.linformaticien.com/magazine/cybersecurite/64576-norton-insere-du-genie-dans-chatgpt.html",
-      "url": "https://www.linformaticien.com/magazine/cybersecurite/64576-norton-insere-du-genie-dans-chatgpt.html",
-      "publishedAt": "2026-03-11T07:34:40.000Z",
-      "date": "2026-03-11T07:34:40.000Z",
-      "description": "... cybersécurité directement via ChatGPT, où ils posent déjà leurs questions. L'application Norton dans ChatGPT est conçue pour répondre aux...",
-      "excerpt": "... cybersécurité directement via ChatGPT, où ils posent déjà leurs questions. L'application Norton dans ChatGPT est conçue pour répondre aux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI: qui contrôle financièrement ChatGPT - ITforBusiness.fr",
-      "link": "https://www.itforbusiness.fr/openai-qui-controle-financierement-chatgpt-101215",
-      "url": "https://www.itforbusiness.fr/openai-qui-controle-financierement-chatgpt-101215",
-      "publishedAt": "2026-03-11T07:01:48.000Z",
-      "date": "2026-03-11T07:01:48.000Z",
-      "description": "... ChatGPT cristallise une question désormais centrale: qui détient... Cybersécurité et IA: pourquoi les entreprises ont déjà un train de retard...",
-      "excerpt": "... ChatGPT cristallise une question désormais centrale: qui détient... Cybersécurité et IA: pourquoi les entreprises ont déjà un train de retard...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT et d'autres chatbots d'IA approuvés pour un usage officiel au Sénat américain, selon le NYT",
-      "link": "https://www.zonebourse.com/actualite-bourse/chatgpt-et-d-autres-chatbots-d-ia-approuves-pour-un-usage-officiel-au-senat-americain-selon-le-nyt-ce7e5fdfdf88fe26",
-      "url": "https://www.zonebourse.com/actualite-bourse/chatgpt-et-d-autres-chatbots-d-ia-approuves-pour-un-usage-officiel-au-senat-americain-selon-le-nyt-ce7e5fdfdf88fe26",
-      "publishedAt": "2026-03-11T04:46:09.000Z",
-      "date": "2026-03-11T04:46:09.000Z",
-      "description": "ChatGPT et deux autres agents conversationnels d... Cybersécurité · Palmarès · Palmarès Cotations · Variations Court Terme.",
-      "excerpt": "ChatGPT et deux autres agents conversationnels d... Cybersécurité · Palmarès · Palmarès Cotations · Variations Court Terme.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI prévoit d'intégrer l'IA vidéo Sora à ChatGPT, un tournant stratégique | Zonebourse",
-      "link": "https://www.zonebourse.com/actualite-bourse/openai-prevoit-d-integrer-l-ia-video-sora-a-chatgpt-un-tournant-strategique-ce7e5fdfd18cf621",
-      "url": "https://www.zonebourse.com/actualite-bourse/openai-prevoit-d-integrer-l-ia-video-sora-a-chatgpt-un-tournant-strategique-ce7e5fdfd18cf621",
-      "publishedAt": "2026-03-11T04:08:09.000Z",
-      "date": "2026-03-11T04:08:09.000Z",
-      "description": "OpenAI prévoit de lancer l'IA vidéo Sora au sein de ChatGPT dans le cadre d'un changement de stratégie - The Information.... Cybersécurité · Palmarès.",
-      "excerpt": "OpenAI prévoit de lancer l'IA vidéo Sora au sein de ChatGPT dans le cadre d'un changement de stratégie - The Information.... Cybersécurité · Palmarès.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Découvrez l'IA « du monde réel » de Yann LeCun: un milliard pour propulser la startup...",
-      "link": "https://lesnews.ca/intelligence-artificielle/decouvrez-lia-du-monde-reel-de-yann-lecun-un-milliard-pour-propulser-la-startup-advanced-machine-intelligence-au-dela-de-chatgpt/",
-      "url": "https://lesnews.ca/intelligence-artificielle/decouvrez-lia-du-monde-reel-de-yann-lecun-un-milliard-pour-propulser-la-startup-advanced-machine-intelligence-au-dela-de-chatgpt/",
-      "publishedAt": "2026-03-11T01:20:35.000Z",
-      "date": "2026-03-11T01:20:35.000Z",
-      "description": "Cybersécurité · Informatique · Mobiles · Jeux Vidéos · Digital · Cryptos... Contrairement à ChatGPT, qui s'attache à prédire les mots suivants en...",
-      "excerpt": "Cybersécurité · Informatique · Mobiles · Jeux Vidéos · Digital · Cryptos... Contrairement à ChatGPT, qui s'attache à prédire les mots suivants en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Tumbler Ridge: la famille d'une victime poursuit OpenAI en justice - Les Affaires",
-      "link": "https://www.lesaffaires.com/sans-section/tumbler-ridge-la-famille-dune-victime-poursuit-openai-en-justice/",
-      "url": "https://www.lesaffaires.com/sans-section/tumbler-ridge-la-famille-dune-victime-poursuit-openai-en-justice/",
-      "publishedAt": "2026-03-10T21:30:49.000Z",
-      "date": "2026-03-10T21:30:49.000Z",
-      "description": "Son compte avait été suspendu, car son activité suscitait des inquiétudes quant à une utilisation de ChatGPT... Cybersécurité proactive: pilotage...",
-      "excerpt": "Son compte avait été suspendu, car son activité suscitait des inquiétudes quant à une utilisation de ChatGPT... Cybersécurité proactive: pilotage...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La famille d'une victime de la récente tuerie au Canada poursuit OpenAI en justice - LaLibre",
-      "link": "https://www.lalibre.be/international/2026/03/10/la-famille-dune-victime-de-la-recente-tuerie-au-canada-poursuit-openai-en-justice-IPX3KWKHYNCIBLKWVWPC2SPS3Q/",
-      "url": "https://www.lalibre.be/international/2026/03/10/la-famille-dune-victime-de-la-recente-tuerie-au-canada-poursuit-openai-en-justice-IPX3KWKHYNCIBLKWVWPC2SPS3Q/",
-      "publishedAt": "2026-03-10T20:27:43.000Z",
-      "date": "2026-03-10T20:27:43.000Z",
-      "description": "... ChatGPT, ont déclaré mardi ses avocats. AFP Agence. Publié le 10-03-2026 à 21h27. Enregistrer.",
-      "excerpt": "... ChatGPT, ont déclaré mardi ses avocats. AFP Agence. Publié le 10-03-2026 à 21h27. Enregistrer.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
