@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T06:42:09.338Z",
+  "generatedAt": "2026-03-12T12:37:40.100Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Cybersécurité: l'IA divise par dix le coût des attaques par désanonymisation - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/cybersecurite-lia-divise-par-dix-le-cout-des-attaques-par-desanonymisation-491691.htm",
+      "url": "https://www.zdnet.fr/actualites/cybersecurite-lia-divise-par-dix-le-cout-des-attaques-par-desanonymisation-491691.htm",
+      "publishedAt": "2026-03-12T11:23:25.000Z",
+      "date": "2026-03-12T11:23:25.000Z",
+      "description": "L'émergence des LLM transforme radicalement le paysage de la cybersécurité. Une récente étude démontre que l'IA permet désormais de... ChatGPT...",
+      "excerpt": "L'émergence des LLM transforme radicalement le paysage de la cybersécurité. Une récente étude démontre que l'IA permet désormais de... ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Vibe coding: révolution économique vs ChatGPT | Armees.com",
+      "link": "https://armees.com/vibe-coding-revolution-economique-vs-chatgpt-armees-com/",
+      "url": "https://armees.com/vibe-coding-revolution-economique-vs-chatgpt-armees-com/",
+      "publishedAt": "2026-03-12T11:09:57.000Z",
+      "date": "2026-03-12T11:09:57.000Z",
+      "description": "... ChatGPT... A lire aussi: cyberattaque-contre-service-public-gouv-fr-un-signal-. Cybersécurité AnalyseRenseignements - Anticipation stratégiqueSystèmes...",
+      "excerpt": "... ChatGPT... A lire aussi: cyberattaque-contre-service-public-gouv-fr-un-signal-. Cybersécurité AnalyseRenseignements - Anticipation stratégiqueSystèmes...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment ChatGPT a été utilisé par les troupes d'Elon Musk pour récuser 1 477 projets...",
+      "link": "https://linuxfr.org/users/misc/liens/comment-chatgpt-a-ete-utilise-par-les-troupes-d-elon-musk-pour-recuser-1-477-projets-soupconnes-de-valoriser-la-diversite",
+      "url": "https://linuxfr.org/users/misc/liens/comment-chatgpt-a-ete-utilise-par-les-troupes-d-elon-musk-pour-recuser-1-477-projets-soupconnes-de-valoriser-la-diversite",
+      "publishedAt": "2026-03-12T10:56:14.000Z",
+      "date": "2026-03-12T10:56:14.000Z",
+      "description": "Comment ChatGPT a été utilisé par les troupes d'Elon Musk pour... cybersécurité · capitalisme. Sites amis. April · Agenda du Libre · Framasoft...",
+      "excerpt": "Comment ChatGPT a été utilisé par les troupes d'Elon Musk pour... cybersécurité · capitalisme. Sites amis. April · Agenda du Libre · Framasoft...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Peut-on gagner au Loto grâce à ChatGPT? On a tenté l'expérience pour le Super Loto de...",
       "link": "https://www.journaldunet.com/magazine/1548577-loto-chatgpt-bp1/",
@@ -97,36 +127,6 @@
       "date": "2026-03-11T13:24:35.000Z",
       "description": "Meta met la main sur Moltbook, le réseau social... cybersécurité Wiz. Articles similaires...",
       "excerpt": "Meta met la main sur Moltbook, le réseau social... cybersécurité Wiz. Articles similaires...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Générer des vidéos directement dans ChatGPT? Ce serait bientôt possible grâce à l...",
-      "link": "https://www.phonandroid.com/generer-des-videos-directement-dans-chatgpt-ce-serait-bientot-possible-grace-a-lintegration-de-sora.html",
-      "url": "https://www.phonandroid.com/generer-des-videos-directement-dans-chatgpt-ce-serait-bientot-possible-grace-a-lintegration-de-sora.html",
-      "publishedAt": "2026-03-11T12:19:16.000Z",
-      "date": "2026-03-11T12:19:16.000Z",
-      "description": "Selon un récent rapport, OpenAI envisagerait d'intégrer Sora, son célèbre générateur de vidéos IA, directement dans ChatGPT... Cybersécurité · High-...",
-      "excerpt": "Selon un récent rapport, OpenAI envisagerait d'intégrer Sora, son célèbre générateur de vidéos IA, directement dans ChatGPT... Cybersécurité · High-...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "« Je voudrais pousser ChatGPT du haut d'une falaise »: dans les amphis, des professeurs...",
-      "link": "https://intelligence-artificielle.developpez.com/actu/381016/-Je-voudrais-pousser-ChatGPT-du-haut-d-une-falaise-dans-les-amphis-des-professeurs-se-battent-pour-sauver-la-pensee-humaine-tandis-que-d-autres-trichent-autant-que-les-etudiants/",
-      "url": "https://intelligence-artificielle.developpez.com/actu/381016/-Je-voudrais-pousser-ChatGPT-du-haut-d-une-falaise-dans-les-amphis-des-professeurs-se-battent-pour-sauver-la-pensee-humaine-tandis-que-d-autres-trichent-autant-que-les-etudiants/",
-      "publishedAt": "2026-03-11T11:40:47.000Z",
-      "date": "2026-03-11T11:40:47.000Z",
-      "description": "... cybersécurité ont découvert que leurs cours étaient entièrement générés... « Je voudrais pousser ChatGPT du haut d'une falaise »: dans les amphis~?...",
-      "excerpt": "... cybersécurité ont découvert que leurs cours étaient entièrement générés... « Je voudrais pousser ChatGPT du haut d'une falaise »: dans les amphis~?...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI va intégrer Sora directement dans ChatGPT: une réponse directe à Gemini?",
-      "link": "https://www.clubic.com/actualite-604126-openai-va-integrer-sora-directement-dans-chatgpt-une-reponse-directe-a-gemini.html",
-      "url": "https://www.clubic.com/actualite-604126-openai-va-integrer-sora-directement-dans-chatgpt-une-reponse-directe-a-gemini.html",
-      "publishedAt": "2026-03-11T10:38:47.000Z",
-      "date": "2026-03-11T10:38:47.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Aucune date de déploiement n'a été communiquée. ChatGPT (GPT-5.4).",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Aucune date de déploiement n'a été communiquée. ChatGPT (GPT-5.4).",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
