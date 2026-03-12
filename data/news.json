@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T01:08:53.961Z",
+  "generatedAt": "2026-03-12T06:42:09.338Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Peut-on gagner au Loto grâce à ChatGPT? On a tenté l'expérience pour le Super Loto de...",
+      "link": "https://www.journaldunet.com/magazine/1548577-loto-chatgpt-bp1/",
+      "url": "https://www.journaldunet.com/magazine/1548577-loto-chatgpt-bp1/",
+      "publishedAt": "2026-03-12T06:02:05.000Z",
+      "date": "2026-03-12T06:02:05.000Z",
+      "description": "Depuis l'arrivée des IA génératives comme ChatGPT, une nouvelle croyance traverse les joueurs de loteries du monde entier: si une intelligence peut...",
+      "excerpt": "Depuis l'arrivée des IA génératives comme ChatGPT, une nouvelle croyance traverse les joueurs de loteries du monde entier: si une intelligence peut...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT débarque dans l'application Canal+, voici à quoi l'IA va servir - PhonAndroid",
+      "link": "https://www.phonandroid.com/chatgpt-debarque-dans-lapplication-canal-voici-a-quoi-lia-va-servir.html",
+      "url": "https://www.phonandroid.com/chatgpt-debarque-dans-lapplication-canal-voici-a-quoi-lia-va-servir.html",
+      "publishedAt": "2026-03-12T05:49:47.000Z",
+      "date": "2026-03-12T05:49:47.000Z",
+      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités. Actualités: Domotique... ChatGPT débarque dans l'application Canal+, voici à quoi l'IA va...",
+      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités. Actualités: Domotique... ChatGPT débarque dans l'application Canal+, voici à quoi l'IA va...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Mise au ban d'Anthropic par l'administration Trump: Microsoft craint que l'interdiction des...",
       "link": "https://www.bfmtv.com/tech/intelligence-artificielle/mise-au-ban-d-anthropic-par-l-administration-trump-microsoft-craint-que-l-interdiction-des-outils-de-la-start-up-entrave-le-bon-fonctionnement-de-l-armee-americaine-a-un-moment-critique_AD-202603110511.html",
@@ -107,26 +127,6 @@
       "date": "2026-03-11T10:38:47.000Z",
       "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Aucune date de déploiement n'a été communiquée. ChatGPT (GPT-5.4).",
       "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Aucune date de déploiement n'a été communiquée. ChatGPT (GPT-5.4).",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Meta rachète Moltbook, une plateforme où des agents IA interagissent entre eux",
-      "link": "https://www.journaldugeek.com/2026/03/10/meta-rachete-moltbook-une-plateforme-ou-des-agents-ia-interagissent-entre-eux/",
-      "url": "https://www.journaldugeek.com/2026/03/10/meta-rachete-moltbook-une-plateforme-ou-des-agents-ia-interagissent-entre-eux/",
-      "publishedAt": "2026-03-11T09:28:28.000Z",
-      "date": "2026-03-11T09:28:28.000Z",
-      "description": "Dans un souci constant de rattraper son retard face aux ChatGPT et autres Gemini, Meta a annoncé avoir fait le rachat d'une plateforme assez...",
-      "excerpt": "Dans un souci constant de rattraper son retard face aux ChatGPT et autres Gemini, Meta a annoncé avoir fait le rachat d'une plateforme assez...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: le mode « adulte » retardé dans un contexte controversé - Begeek",
-      "link": "https://www.begeek.fr/chatgpt-le-mode-adulte-retarde-dans-un-contexte-controverse-429345",
-      "url": "https://www.begeek.fr/chatgpt-le-mode-adulte-retarde-dans-un-contexte-controverse-429345",
-      "publishedAt": "2026-03-11T09:04:59.000Z",
-      "date": "2026-03-11T09:04:59.000Z",
-      "description": "Ce rapprochement, destiné à soutenir diverses missions gouvernementales, de la planification logistique à l'analyse en cybersécurité, ne laisse...",
-      "excerpt": "Ce rapprochement, destiné à soutenir diverses missions gouvernementales, de la planification logistique à l'analyse en cybersécurité, ne laisse...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
