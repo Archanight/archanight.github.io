@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T12:36:43.038Z",
+  "generatedAt": "2026-03-13T18:29:42.531Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,96 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Norton s'installe dans ChatGPT pour analyser les messages frauduleux - La Tribune",
+      "link": "https://www.latribune.fr/article/tech/73268314631505/norton-sinstalle-dans-chatgpt-pour-analyser-les-messages-frauduleux",
+      "url": "https://www.latribune.fr/article/tech/73268314631505/norton-sinstalle-dans-chatgpt-pour-analyser-les-messages-frauduleux",
+      "publishedAt": "2026-03-13T17:29:17.000Z",
+      "date": "2026-03-13T17:29:17.000Z",
+      "description": "L'éditeur de cybersécurité Norton déploie son assistant Genie directement dans ChatGPT pour détecter phishing, faux SMS et liens frauduleux.",
+      "excerpt": "L'éditeur de cybersécurité Norton déploie son assistant Genie directement dans ChatGPT pour détecter phishing, faux SMS et liens frauduleux.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cybercrime 2026: l'IA, le piratage et l'usurpation d'identité fusionnent - TechRadar",
+      "link": "https://global.techradar.com/fr-fr/pro/security/cybercrime-2026-lia-le-piratage-et-lusurpation-didentite-fusionnent",
+      "url": "https://global.techradar.com/fr-fr/pro/security/cybercrime-2026-lia-le-piratage-et-lusurpation-didentite-fusionnent",
+      "publishedAt": "2026-03-13T17:11:26.000Z",
+      "date": "2026-03-13T17:11:26.000Z",
+      "description": "Le rapport 2026 Global Threat Intelligence Report (GTIG) des chercheurs en cybersécurité... Social Links Navigation. Sead is a seasoned freelance...",
+      "excerpt": "Le rapport 2026 Global Threat Intelligence Report (GTIG) des chercheurs en cybersécurité... Social Links Navigation. Sead is a seasoned freelance...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude d'Anthropic, l'IA capable de rivaliser avec ChatGPT de Sam Altman et de défier le...",
+      "link": "https://www.challenges.fr/entreprise/tech-numerique/claude-danthropic-lia-capable-de-rivaliser-avec-chatgpt-de-sam-altman-et-de-defier-le-pentagone-de-trump_641726",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/claude-danthropic-lia-capable-de-rivaliser-avec-chatgpt-de-sam-altman-et-de-defier-le-pentagone-de-trump_641726",
+      "publishedAt": "2026-03-13T16:38:05.000Z",
+      "date": "2026-03-13T16:38:05.000Z",
+      "description": "Claude d'Anthropic, l'IA capable de rivaliser avec ChatGPT de Sam Altman et de défier le Pentagone de Trump... Les Assises de la cybersécurité.",
+      "excerpt": "Claude d'Anthropic, l'IA capable de rivaliser avec ChatGPT de Sam Altman et de défier le Pentagone de Trump... Les Assises de la cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA: les Chinois en pincent pour le \"homard\" OpenClaw, malgré les risques - Bourse Direct",
+      "link": "https://www.boursedirect.fr/en/news/category/economie/ia-les-chinois-en-pincent-pour-le-homard-openclaw-malgre-les-risques-afp-80361d3d2ef1bd5dd7b247514bd66e7aab842765/amp",
+      "url": "https://www.boursedirect.fr/en/news/category/economie/ia-les-chinois-en-pincent-pour-le-homard-openclaw-malgre-les-risques-afp-80361d3d2ef1bd5dd7b247514bd66e7aab842765/amp",
+      "publishedAt": "2026-03-13T13:13:54.000Z",
+      "date": "2026-03-13T13:13:54.000Z",
+      "description": "... cybersécurité.OpenClaw est différent des robots conversationnels comme ChatGPT car il peut exécuter des tâches réelles,… news.amp.read_article.",
+      "excerpt": "... cybersécurité.OpenClaw est différent des robots conversationnels comme ChatGPT car il peut exécuter des tâches réelles,… news.amp.read_article.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA: les Chinois en pincent pour le \"homard\" OpenClaw, malgré les risques | TV5MONDE",
+      "link": "https://information.tv5monde.com/economie/ia-les-chinois-en-pincent-pour-le-homard-openclaw-malgre-les-risques-2813465?amp",
+      "url": "https://information.tv5monde.com/economie/ia-les-chinois-en-pincent-pour-le-homard-openclaw-malgre-les-risques-2813465?amp",
+      "publishedAt": "2026-03-13T12:18:51.000Z",
+      "date": "2026-03-13T12:18:51.000Z",
+      "description": "... cybersécurité. OpenClaw est différent des robots conversationnels comme ChatGPT car il peut exécuter des tâches réelles, telles que l'envoi d'e...",
+      "excerpt": "... cybersécurité. OpenClaw est différent des robots conversationnels comme ChatGPT car il peut exécuter des tâches réelles, telles que l'envoi d'e...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Étude: Comment bien référencer son contenu LinkedIn sur ChatGPT? - Leptidigital",
+      "link": "https://www.leptidigital.fr/reseaux-sociaux/etude-referencer-contenu-linkedin-chatgpt-88305/",
+      "url": "https://www.leptidigital.fr/reseaux-sociaux/etude-referencer-contenu-linkedin-chatgpt-88305/",
+      "publishedAt": "2026-03-13T10:32:33.000Z",
+      "date": "2026-03-13T10:32:33.000Z",
+      "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... ChatGPT. Dans la plupart des cas, ces chatbots utilisent des...",
+      "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... ChatGPT. Dans la plupart des cas, ces chatbots utilisent des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Experian lance un outil de comparaison de scores de crédit au sein de ChatGPT, soutenu...",
+      "link": "https://www.zonebourse.com/actualite-bourse/experian-lance-un-outil-de-comparaison-de-scores-de-credit-au-sein-de-chatgpt-soutenu-par-microsoft-ce7e5fd2d18cf226",
+      "url": "https://www.zonebourse.com/actualite-bourse/experian-lance-un-outil-de-comparaison-de-scores-de-credit-au-sein-de-chatgpt-soutenu-par-microsoft-ce7e5fd2d18cf226",
+      "publishedAt": "2026-03-13T10:08:13.000Z",
+      "date": "2026-03-13T10:08:13.000Z",
+      "description": "Experian a annoncé le lancement de la première application de score de crédit au Royaume-Uni intégrée à ChatGPT... Cybersécurité · Intelligence...",
+      "excerpt": "Experian a annoncé le lancement de la première application de score de crédit au Royaume-Uni intégrée à ChatGPT... Cybersécurité · Intelligence...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Experian annonce le lancement au Royaume-Uni d'une application de score de crédit...",
+      "link": "https://www.zonebourse.com/actualite-bourse/experian-annonce-le-lancement-au-royaume-uni-d-une-application-de-score-de-credit-integree-a-chatgpt-ce7e5fd2d18dff23",
+      "url": "https://www.zonebourse.com/actualite-bourse/experian-annonce-le-lancement-au-royaume-uni-d-une-application-de-score-de-credit-integree-a-chatgpt-ce7e5fd2d18dff23",
+      "publishedAt": "2026-03-13T09:58:04.000Z",
+      "date": "2026-03-13T09:58:04.000Z",
+      "description": "Cybersécurité · Franchises · Jeux vidéo et... Experian annonce le lancement au Royaume-Uni d'une application de score de crédit intégrée à ChatGPT.",
+      "excerpt": "Cybersécurité · Franchises · Jeux vidéo et... Experian annonce le lancement au Royaume-Uni d'une application de score de crédit intégrée à ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "LegalZoom lance un service d'accompagnement à la création d'entreprise directement dans...",
+      "link": "https://ch.zonebourse.com/actualite-bourse/legalzoom-lance-un-service-d-accompagnement-a-la-creation-d-entreprise-directement-dans-chatgpt-ce7e5fd2d88cf124",
+      "url": "https://ch.zonebourse.com/actualite-bourse/legalzoom-lance-un-service-d-accompagnement-a-la-creation-d-entreprise-directement-dans-chatgpt-ce7e5fd2d88cf124",
+      "publishedAt": "2026-03-13T05:11:35.000Z",
+      "date": "2026-03-13T05:11:35.000Z",
+      "description": "Cybersécurité · Métavers · Notations Techniques · Actions survendues · Actions... L'application LegalZoom dans ChatGPT peut désormais guider les...",
+      "excerpt": "Cybersécurité · Métavers · Notations Techniques · Actions survendues · Actions... L'application LegalZoom dans ChatGPT peut désormais guider les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Neptune Flood lance une application d'assurance contre les inondations sur ChatGPT",
       "link": "https://www.zonebourse.com/actualite-bourse/neptune-flood-lance-une-application-d-assurance-contre-les-inondations-sur-chatgpt-ce7e5fd2d88ef627",
@@ -37,96 +127,6 @@
       "date": "2026-03-12T15:50:30.000Z",
       "description": "L'unité Neptune Flood de Neptune Insurance a annoncé jeudi avoir lancé une application numérique d'assurance inondation au sein de ChatGPT...",
       "excerpt": "L'unité Neptune Flood de Neptune Insurance a annoncé jeudi avoir lancé une application numérique d'assurance inondation au sein de ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Vous voulez supprimer ChatGPT? Voici les 3 choses à faire avant de supprimer votre compte",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/vous-voulez-supprimer-chatgpt-voici-les-3-choses-a-faire-avant-de-supprimer-votre-compte",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/vous-voulez-supprimer-chatgpt-voici-les-3-choses-a-faire-avant-de-supprimer-votre-compte",
-      "publishedAt": "2026-03-12T15:21:24.000Z",
-      "date": "2026-03-12T15:21:24.000Z",
-      "description": "Les utilisateurs qui quittent ChatGPT semblent vouloir récompenser Anthropic pour son refus de céder aux exigences du Département de la Défense...",
-      "excerpt": "Les utilisateurs qui quittent ChatGPT semblent vouloir récompenser Anthropic pour son refus de céder aux exigences du Département de la Défense...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Shazam dans ChatGPT: pourquoi c'est génial et comment l'utiliser? - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/shazam-dans-chatgpt-pourquoi-cest-genial-et-comment-lutiliser",
-      "url": "https://www.lebigdata.fr/shazam-dans-chatgpt-pourquoi-cest-genial-et-comment-lutiliser",
-      "publishedAt": "2026-03-12T13:51:24.000Z",
-      "date": "2026-03-12T13:51:24.000Z",
-      "description": "Grâce à Shazam intégré à ChatGPT, quelques secondes suffisent... Kevin Mandia lève près de 190M $ pour sa startup de cybersécurité automatisée.",
-      "excerpt": "Grâce à Shazam intégré à ChatGPT, quelques secondes suffisent... Kevin Mandia lève près de 190M $ pour sa startup de cybersécurité automatisée.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "LinkedIn s'impose comme une source clé pour les réponses des IA",
-      "link": "https://siecledigital.fr/2026/03/12/linkedin-simpose-comme-une-source-cle-pour-les-reponses-des-ia/",
-      "url": "https://siecledigital.fr/2026/03/12/linkedin-simpose-comme-une-source-cle-pour-les-reponses-des-ia/",
-      "publishedAt": "2026-03-12T13:23:41.000Z",
-      "date": "2026-03-12T13:23:41.000Z",
-      "description": ", ChatGPT, Google AI Mode ou encore Perplexity ne se contentent plus d... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS...",
-      "excerpt": ", ChatGPT, Google AI Mode ou encore Perplexity ne se contentent plus d... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité: l'IA divise par dix le coût des attaques par désanonymisation - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/cybersecurite-lia-divise-par-dix-le-cout-des-attaques-par-desanonymisation-491691.htm",
-      "url": "https://www.zdnet.fr/actualites/cybersecurite-lia-divise-par-dix-le-cout-des-attaques-par-desanonymisation-491691.htm",
-      "publishedAt": "2026-03-12T11:23:25.000Z",
-      "date": "2026-03-12T11:23:25.000Z",
-      "description": "L'émergence des LLM transforme radicalement le paysage de la cybersécurité. Une récente étude démontre que l'IA permet désormais de... ChatGPT...",
-      "excerpt": "L'émergence des LLM transforme radicalement le paysage de la cybersécurité. Une récente étude démontre que l'IA permet désormais de... ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Vibe coding: révolution économique vs ChatGPT | Armees.com",
-      "link": "https://armees.com/vibe-coding-revolution-economique-vs-chatgpt-armees-com/",
-      "url": "https://armees.com/vibe-coding-revolution-economique-vs-chatgpt-armees-com/",
-      "publishedAt": "2026-03-12T11:09:57.000Z",
-      "date": "2026-03-12T11:09:57.000Z",
-      "description": "... ChatGPT... A lire aussi: cyberattaque-contre-service-public-gouv-fr-un-signal-. Cybersécurité AnalyseRenseignements - Anticipation stratégiqueSystèmes...",
-      "excerpt": "... ChatGPT... A lire aussi: cyberattaque-contre-service-public-gouv-fr-un-signal-. Cybersécurité AnalyseRenseignements - Anticipation stratégiqueSystèmes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment ChatGPT a été utilisé par les troupes d'Elon Musk pour récuser 1 477 projets...",
-      "link": "https://linuxfr.org/users/misc/liens/comment-chatgpt-a-ete-utilise-par-les-troupes-d-elon-musk-pour-recuser-1-477-projets-soupconnes-de-valoriser-la-diversite",
-      "url": "https://linuxfr.org/users/misc/liens/comment-chatgpt-a-ete-utilise-par-les-troupes-d-elon-musk-pour-recuser-1-477-projets-soupconnes-de-valoriser-la-diversite",
-      "publishedAt": "2026-03-12T10:56:14.000Z",
-      "date": "2026-03-12T10:56:14.000Z",
-      "description": "Comment ChatGPT a été utilisé par les troupes d'Elon Musk pour... cybersécurité · capitalisme. Sites amis. April · Agenda du Libre · Framasoft...",
-      "excerpt": "Comment ChatGPT a été utilisé par les troupes d'Elon Musk pour... cybersécurité · capitalisme. Sites amis. April · Agenda du Libre · Framasoft...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Peut-on gagner au Loto grâce à ChatGPT? On a tenté l'expérience pour le Super Loto de...",
-      "link": "https://www.journaldunet.com/magazine/1548577-loto-chatgpt-bp1/",
-      "url": "https://www.journaldunet.com/magazine/1548577-loto-chatgpt-bp1/",
-      "publishedAt": "2026-03-12T06:02:05.000Z",
-      "date": "2026-03-12T06:02:05.000Z",
-      "description": "Depuis l'arrivée des IA génératives comme ChatGPT, une nouvelle croyance traverse les joueurs de loteries du monde entier: si une intelligence peut...",
-      "excerpt": "Depuis l'arrivée des IA génératives comme ChatGPT, une nouvelle croyance traverse les joueurs de loteries du monde entier: si une intelligence peut...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT débarque dans l'application Canal+, voici à quoi l'IA va servir - PhonAndroid",
-      "link": "https://www.phonandroid.com/chatgpt-debarque-dans-lapplication-canal-voici-a-quoi-lia-va-servir.html",
-      "url": "https://www.phonandroid.com/chatgpt-debarque-dans-lapplication-canal-voici-a-quoi-lia-va-servir.html",
-      "publishedAt": "2026-03-12T05:49:47.000Z",
-      "date": "2026-03-12T05:49:47.000Z",
-      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités. Actualités: Domotique... ChatGPT débarque dans l'application Canal+, voici à quoi l'IA va...",
-      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités. Actualités: Domotique... ChatGPT débarque dans l'application Canal+, voici à quoi l'IA va...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Mise au ban d'Anthropic par l'administration Trump: Microsoft craint que l'interdiction des...",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/mise-au-ban-d-anthropic-par-l-administration-trump-microsoft-craint-que-l-interdiction-des-outils-de-la-start-up-entrave-le-bon-fonctionnement-de-l-armee-americaine-a-un-moment-critique_AD-202603110511.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/mise-au-ban-d-anthropic-par-l-administration-trump-microsoft-craint-que-l-interdiction-des-outils-de-la-start-up-entrave-le-bon-fonctionnement-de-l-armee-americaine-a-un-moment-critique_AD-202603110511.html",
-      "publishedAt": "2026-03-11T18:09:08.000Z",
-      "date": "2026-03-11T18:09:08.000Z",
-      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... grâce à ChatGPT. A la Une. DIRECT. Guerre au Moyen-Orient: Donald...",
-      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... grâce à ChatGPT. A la Une. DIRECT. Guerre au Moyen-Orient: Donald...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
