@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T01:13:26.433Z",
+  "generatedAt": "2026-03-14T06:35:19.728Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Norton s'installe dans ChatGPT pour analyser les messsges 'rsuduleux - PressReader",
+      "link": "https://www.pressreader.com/france/la-tribune-france/20260314/281749865864510",
+      "url": "https://www.pressreader.com/france/la-tribune-france/20260314/281749865864510",
+      "publishedAt": "2026-03-14T00:29:51.000Z",
+      "date": "2026-03-14T00:29:51.000Z",
+      "description": "L'éditeur de cybersécurité Norton déploie son assistant Genie directement dans ChatGPT pour détecter phishing, faux SMS et liens frauduleux. Les...",
+      "excerpt": "L'éditeur de cybersécurité Norton déploie son assistant Genie directement dans ChatGPT pour détecter phishing, faux SMS et liens frauduleux. Les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Experian lance un outil de comparaison de scores de crédit au sein de ChatGPT, soutenu...",
       "link": "https://ch.zonebourse.com/actualite-bourse/experian-lance-un-outil-de-comparaison-de-scores-de-credit-au-sein-de-chatgpt-soutenu-par-microsoft-ce7e5fd2d18cf226",
@@ -117,16 +127,6 @@
       "date": "2026-03-13T10:32:33.000Z",
       "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... ChatGPT. Dans la plupart des cas, ces chatbots utilisent des...",
       "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... ChatGPT. Dans la plupart des cas, ces chatbots utilisent des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Experian lance un outil de comparaison de scores de crédit au sein de ChatGPT, soutenu...",
-      "link": "https://www.zonebourse.com/actualite-bourse/experian-lance-un-outil-de-comparaison-de-scores-de-credit-au-sein-de-chatgpt-soutenu-par-microsoft-ce7e5fd2d18cf226",
-      "url": "https://www.zonebourse.com/actualite-bourse/experian-lance-un-outil-de-comparaison-de-scores-de-credit-au-sein-de-chatgpt-soutenu-par-microsoft-ce7e5fd2d18cf226",
-      "publishedAt": "2026-03-13T10:08:13.000Z",
-      "date": "2026-03-13T10:08:13.000Z",
-      "description": "Experian a annoncé le lancement de la première application de score de crédit au Royaume-Uni intégrée à ChatGPT... Cybersécurité · Intelligence...",
-      "excerpt": "Experian a annoncé le lancement de la première application de score de crédit au Royaume-Uni intégrée à ChatGPT... Cybersécurité · Intelligence...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
