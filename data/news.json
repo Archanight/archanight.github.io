@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T12:30:36.773Z",
+  "generatedAt": "2026-03-14T18:25:34.660Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Google au sommet de l'IA: la revanche d'un géant après l'offensive fulgurante d'OpenAI",
+      "link": "https://www.challenges.fr/entreprise/tech-numerique/google-au-sommet-de-lia-la-revanche-dun-geant-apres-loffensive-fulgurante-dopenai_641715",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/google-au-sommet-de-lia-la-revanche-dun-geant-apres-loffensive-fulgurante-dopenai_641715",
+      "publishedAt": "2026-03-14T17:02:19.000Z",
+      "date": "2026-03-14T17:02:19.000Z",
+      "description": "... ChatGPT par son concurrent américain, en novembre 2022. « Google s'est... Les Assises de la cybersécurité · PRNewswire · Speak & Act. //- blocks...",
+      "excerpt": "... ChatGPT par son concurrent américain, en novembre 2022. « Google s'est... Les Assises de la cybersécurité · PRNewswire · Speak & Act. //- blocks...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "C'est quoi les world models, cette révolution de l'IA qui a permis à la start-up du Français...",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/c-est-quoi-les-world-models-cette-revolution-de-l-ia-qui-a-permis-a-la-start-up-du-francais-yann-le-cun-de-lever-un-milliard-de-dollars_AV-202603140052.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/c-est-quoi-les-world-models-cette-revolution-de-l-ia-qui-a-permis-a-la-start-up-du-francais-yann-le-cun-de-lever-un-milliard-de-dollars_AV-202603140052.html",
+      "publishedAt": "2026-03-14T16:47:14.000Z",
+      "date": "2026-03-14T16:47:14.000Z",
+      "description": "... hui avec des IA comme ChatGPT.",
+      "excerpt": "... hui avec des IA comme ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "7 façons étonnamment utiles d'utiliser le mode vocal de ChatGPT - ZDNET",
+      "link": "https://www.zdnet.fr/pratique/7-facons-etonnamment-utiles-dutiliser-le-mode-vocal-de-chatgpt-491835.htm",
+      "url": "https://www.zdnet.fr/pratique/7-facons-etonnamment-utiles-dutiliser-le-mode-vocal-de-chatgpt-491835.htm",
+      "publishedAt": "2026-03-14T16:03:52.000Z",
+      "date": "2026-03-14T16:03:52.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas...",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Norton s'installe dans ChatGPT pour analyser les messsges 'rsuduleux - PressReader",
       "link": "https://www.pressreader.com/france/la-tribune-france/20260314/281749865864510",
@@ -97,36 +127,6 @@
       "date": "2026-03-13T13:13:59.000Z",
       "description": "... cybersécurité.OpenClaw est différent des robots conversationnels comme ChatGPT car il peut exécuter des tâches réelles,… Lire la suite de l'article.",
       "excerpt": "... cybersécurité.OpenClaw est différent des robots conversationnels comme ChatGPT car il peut exécuter des tâches réelles,… Lire la suite de l'article.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA: les Chinois en pincent pour le \"homard\" OpenClaw, malgré les risques - Bourse Direct",
-      "link": "https://www.boursedirect.fr/en/news/category/economie/ia-les-chinois-en-pincent-pour-le-homard-openclaw-malgre-les-risques-afp-80361d3d2ef1bd5dd7b247514bd66e7aab842765/amp",
-      "url": "https://www.boursedirect.fr/en/news/category/economie/ia-les-chinois-en-pincent-pour-le-homard-openclaw-malgre-les-risques-afp-80361d3d2ef1bd5dd7b247514bd66e7aab842765/amp",
-      "publishedAt": "2026-03-13T13:13:54.000Z",
-      "date": "2026-03-13T13:13:54.000Z",
-      "description": "... cybersécurité.OpenClaw est différent des robots conversationnels comme ChatGPT car il peut exécuter des tâches réelles,… news.amp.read_article.",
-      "excerpt": "... cybersécurité.OpenClaw est différent des robots conversationnels comme ChatGPT car il peut exécuter des tâches réelles,… news.amp.read_article.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA: les Chinois en pincent pour le \"homard\" OpenClaw, malgré les risques | TV5MONDE",
-      "link": "https://information.tv5monde.com/economie/ia-les-chinois-en-pincent-pour-le-homard-openclaw-malgre-les-risques-2813465?amp",
-      "url": "https://information.tv5monde.com/economie/ia-les-chinois-en-pincent-pour-le-homard-openclaw-malgre-les-risques-2813465?amp",
-      "publishedAt": "2026-03-13T12:18:51.000Z",
-      "date": "2026-03-13T12:18:51.000Z",
-      "description": "... cybersécurité. OpenClaw est différent des robots conversationnels comme ChatGPT car il peut exécuter des tâches réelles, telles que l'envoi d'e...",
-      "excerpt": "... cybersécurité. OpenClaw est différent des robots conversationnels comme ChatGPT car il peut exécuter des tâches réelles, telles que l'envoi d'e...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Étude: Comment bien référencer son contenu LinkedIn sur ChatGPT? - Leptidigital",
-      "link": "https://www.leptidigital.fr/reseaux-sociaux/etude-referencer-contenu-linkedin-chatgpt-88305/",
-      "url": "https://www.leptidigital.fr/reseaux-sociaux/etude-referencer-contenu-linkedin-chatgpt-88305/",
-      "publishedAt": "2026-03-13T10:32:33.000Z",
-      "date": "2026-03-13T10:32:33.000Z",
-      "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... ChatGPT. Dans la plupart des cas, ces chatbots utilisent des...",
-      "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... ChatGPT. Dans la plupart des cas, ces chatbots utilisent des...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
