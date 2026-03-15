@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T06:44:35.695Z",
+  "generatedAt": "2026-03-15T12:32:38.108Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Robots humanoïdes 2026: GPU, actionneurs et SoC, ce qui se cache vraiment sous le capot",
+      "link": "https://www.modding.fr/robots-humanoides-2026-gpu-actionneurs-et-soc-ce-qui-se-cache-vraiment-sous-le-capot/",
+      "url": "https://www.modding.fr/robots-humanoides-2026-gpu-actionneurs-et-soc-ce-qui-se-cache-vraiment-sous-le-capot/",
+      "publishedAt": "2026-03-15T09:33:23.000Z",
+      "date": "2026-03-15T09:33:23.000Z",
+      "description": "Robots humanoïdes 2026: GPU, actionneurs et SoC, ce qui se cache vraiment sous le capot · Ce qui fait tourner un robot humanoïde en 2026 · La guerre...",
+      "excerpt": "Robots humanoïdes 2026: GPU, actionneurs et SoC, ce qui se cache vraiment sous le capot · Ce qui fait tourner un robot humanoïde en 2026 · La guerre...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Peut-on vraiment se fier à l'IA pour investir? ChatGPT, Gemini et Claude se trompent sur les...",
+      "link": "https://www.challenges.fr/argent-et-placements/peut-on-vraiment-se-fier-a-lia-pour-investir-chatgpt-gemini-et-claude-se-trompent-sur-les-resultats-du-cac-40_641727",
+      "url": "https://www.challenges.fr/argent-et-placements/peut-on-vraiment-se-fier-a-lia-pour-investir-chatgpt-gemini-et-claude-se-trompent-sur-les-resultats-du-cac-40_641727",
+      "publishedAt": "2026-03-15T08:01:58.000Z",
+      "date": "2026-03-15T08:01:58.000Z",
+      "description": "ChatGPT, Gemini et Claude se trompent sur les résultats du CAC 40. Une... Les Assises de la cybersécurité · PRNewswire · Speak & Act. //- blocks...",
+      "excerpt": "ChatGPT, Gemini et Claude se trompent sur les résultats du CAC 40. Une... Les Assises de la cybersécurité · PRNewswire · Speak & Act. //- blocks...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "De Quoi J'me Mail: ChatGPT s'invite dans l'app Canal+ (1/2) - 15/03 - Orange Actu",
+      "link": "https://actu.orange.fr/videos/economie/de-quoi-j-me-mail-chatgpt-s-invite-dans-l-app-canal-1-2-15-03-CNT000002nRnR3.html",
+      "url": "https://actu.orange.fr/videos/economie/de-quoi-j-me-mail-chatgpt-s-invite-dans-l-app-canal-1-2-15-03-CNT000002nRnR3.html",
+      "publishedAt": "2026-03-15T07:53:00.000Z",
+      "date": "2026-03-15T07:53:00.000Z",
+      "description": "... ChatGPT, sur Meta qui a acquis Moltbook, ainsi que sur l'arrivée des... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
+      "excerpt": "... ChatGPT, sur Meta qui a acquis Moltbook, ainsi que sur l'arrivée des... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Gemini 3.1: Google muscle sa stratégie IA entre vitesse, coûts maîtrisés et usages intégrés",
       "link": "https://www.journalduweb.org/gemini-31-google-muscle-sa-strategie-ia-entre-vitesse-couts-maitrises-et-usages-integres/",
@@ -97,36 +127,6 @@
       "date": "2026-03-13T18:46:33.000Z",
       "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (1). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
       "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (1). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Nous avons testé la nouvelle fonction visuelle de Claude… et c'est l'une des fonctions d'IA...",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/claude/nous-avons-teste-la-nouvelle-fonction-visuelle-de-claude-et-cest-lune-des-fonctions-dia-les-plus-bluffantes-du-moment",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/claude/nous-avons-teste-la-nouvelle-fonction-visuelle-de-claude-et-cest-lune-des-fonctions-dia-les-plus-bluffantes-du-moment",
-      "publishedAt": "2026-03-13T17:40:16.000Z",
-      "date": "2026-03-13T17:40:16.000Z",
-      "description": "Cette fonction discrète de ChatGPT que personne n'utilise (et pourtant…) Claude a généré un visuel ressemblant à une page numérique extraite d'un...",
-      "excerpt": "Cette fonction discrète de ChatGPT que personne n'utilise (et pourtant…) Claude a généré un visuel ressemblant à une page numérique extraite d'un...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Norton s'installe dans ChatGPT pour analyser les messages frauduleux - La Tribune",
-      "link": "https://www.latribune.fr/article/tech/73268314631505/norton-sinstalle-dans-chatgpt-pour-analyser-les-messages-frauduleux",
-      "url": "https://www.latribune.fr/article/tech/73268314631505/norton-sinstalle-dans-chatgpt-pour-analyser-les-messages-frauduleux",
-      "publishedAt": "2026-03-13T17:29:17.000Z",
-      "date": "2026-03-13T17:29:17.000Z",
-      "description": "L'éditeur de cybersécurité Norton déploie son assistant Genie directement dans ChatGPT pour détecter phishing, faux SMS et liens frauduleux.",
-      "excerpt": "L'éditeur de cybersécurité Norton déploie son assistant Genie directement dans ChatGPT pour détecter phishing, faux SMS et liens frauduleux.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI: 10 ans après, de la startup de recherche au titan mondial de l'IA - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/358924/openai-10-ans-histoire-chatgpt-stargate-tata-2026/",
-      "url": "https://www.blog-nouvelles-technologies.fr/358924/openai-10-ans-histoire-chatgpt-stargate-tata-2026/",
-      "publishedAt": "2026-03-13T17:14:01.000Z",
-      "date": "2026-03-13T17:14:01.000Z",
-      "description": "Novembre 2022: ChatGPT, le moment où l'IA devient un produit grand public. Le 30 novembre 2022, OpenAI lance ChatGPT comme « research release ». C...",
-      "excerpt": "Novembre 2022: ChatGPT, le moment où l'IA devient un produit grand public. Le 30 novembre 2022, OpenAI lance ChatGPT comme « research release ». C...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
