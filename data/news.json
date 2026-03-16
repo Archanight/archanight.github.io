@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T12:50:19.209Z",
+  "generatedAt": "2026-03-16T18:49:47.425Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,96 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI publie la version 5.4 de GPT pour des applications spécialisées. - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/openai-tung-phien-ban-gpt-5-4-danh-cho-viec-chuyen-nganh",
+      "url": "https://www.vietnam.vn/fr/openai-tung-phien-ban-gpt-5-4-danh-cho-viec-chuyen-nganh",
+      "publishedAt": "2026-03-16T17:09:36.000Z",
+      "date": "2026-03-16T17:09:36.000Z",
+      "description": "... GPT-5.2. GPT-5.4 est désormais disponible pour les utilisateurs de ChatGPT Plus, Team et Pro, ainsi que pour les développeurs, via l'API. Les...",
+      "excerpt": "... GPT-5.2. GPT-5.4 est désormais disponible pour les utilisateurs de ChatGPT Plus, Team et Pro, ainsi que pour les développeurs, via l'API. Les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude Code passe de « Todos » à « Tasks »: Anthropic vient d'installer la mémoire de...",
+      "link": "https://www.blog-nouvelles-technologies.fr/356411/anthropic-claude-code-tasks-system-update-2026/",
+      "url": "https://www.blog-nouvelles-technologies.fr/356411/anthropic-claude-code-tasks-system-update-2026/",
+      "publishedAt": "2026-03-16T16:52:51.000Z",
+      "date": "2026-03-16T16:52:51.000Z",
+      "description": "ChatGPT · Claude · DeepSeek · Apple Intelligence · TECH · > Voir tout sur la tech · Périphériques · Apps · Cloud · Réalité virtuelle et augmentée...",
+      "excerpt": "ChatGPT · Claude · DeepSeek · Apple Intelligence · TECH · > Voir tout sur la tech · Périphériques · Apps · Cloud · Réalité virtuelle et augmentée...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Windows 11: un logiciel préinstallé verrouille le disque C de milliers de PC, même Microsoft...",
+      "link": "https://www.tomsguide.fr/windows-11-un-logiciel-preinstalle-verrouille-le-disque-c-de-milliers-de-pc-meme-microsoft-ne-peut-rien-faire/",
+      "url": "https://www.tomsguide.fr/windows-11-un-logiciel-preinstalle-verrouille-le-disque-c-de-milliers-de-pc-meme-microsoft-ne-peut-rien-faire/",
+      "publishedAt": "2026-03-16T16:28:13.000Z",
+      "date": "2026-03-16T16:28:13.000Z",
+      "description": "... Update. Sur Reddit, des techniciens Samsung ont proposé une réattribution manuelle des permissions du disque C, mais cette méthode affaiblit les...",
+      "excerpt": "... Update. Sur Reddit, des techniciens Samsung ont proposé une réattribution manuelle des permissions du disque C, mais cette méthode affaiblit les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Ce que cache vraiment Elon Musk avec SpaceX et xAI | Décode: Actualités - Orange",
+      "link": "https://actu.orange.fr/videos/high-tech/ce-que-cache-vraiment-elon-musk-avec-spacex-et-xai-decode-CNT000002nS7c6.html",
+      "url": "https://actu.orange.fr/videos/high-tech/ce-que-cache-vraiment-elon-musk-avec-spacex-et-xai-decode-CNT000002nS7c6.html",
+      "publishedAt": "2026-03-16T16:26:09.000Z",
+      "date": "2026-03-16T16:26:09.000Z",
+      "description": "Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
+      "excerpt": "Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Trafic des agents IA: près de 8 milliards de requêtes déjà enregistrées en 2026 (DataDome)",
+      "link": "https://viuz.com/annonce/trafic-des-agents-ia-pres-de-8-milliards-de-requetes-deja-enregistrees-en-2026-datadome/",
+      "url": "https://viuz.com/annonce/trafic-des-agents-ia-pres-de-8-milliards-de-requetes-deja-enregistrees-en-2026-datadome/",
+      "publishedAt": "2026-03-16T15:32:18.000Z",
+      "date": "2026-03-16T15:32:18.000Z",
+      "description": "Au-delà du volume, le manque de visibilité sur l'identité et l'intention de ces agents constitue désormais un enjeu majeur de cybersécurité.... ChatGPT...",
+      "excerpt": "Au-delà du volume, le manque de visibilité sur l'identité et l'intention de ces agents constitue désormais un enjeu majeur de cybersécurité.... ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI s'apprête à intégrer la génération de vidéo Sora directement dans ChatGPT",
+      "link": "https://lecafedugeek.fr/openai-sapprete-a-integrer-la-generation-de-video-sora-directement-dans-chatgpt/",
+      "url": "https://lecafedugeek.fr/openai-sapprete-a-integrer-la-generation-de-video-sora-directement-dans-chatgpt/",
+      "publishedAt": "2026-03-16T15:30:53.000Z",
+      "date": "2026-03-16T15:30:53.000Z",
+      "description": "L'entreprise collabore activement avec des experts en cybersécurité pour tester la résistance du modèle aux détournements. Chaque vidéo portera...",
+      "excerpt": "L'entreprise collabore activement avec des experts en cybersécurité pour tester la résistance du modèle aux détournements. Chaque vidéo portera...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Voici pourquoi le mode adulte de ChatGPT prend du retard - PhonAndroid",
+      "link": "https://www.phonandroid.com/voici-pourquoi-le-mode-adulte-de-chatgpt-prend-du-retard.html",
+      "url": "https://www.phonandroid.com/voici-pourquoi-le-mode-adulte-de-chatgpt-prend-du-retard.html",
+      "publishedAt": "2026-03-16T15:11:17.000Z",
+      "date": "2026-03-16T15:11:17.000Z",
+      "description": "OpenAI prépare un mode adulte pour ChatGPT, mais son lancement prend du retard à cause de plusieurs problèmes... Cybersécurité · High-tech · Streaming...",
+      "excerpt": "OpenAI prépare un mode adulte pour ChatGPT, mais son lancement prend du retard à cause de plusieurs problèmes... Cybersécurité · High-tech · Streaming...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cette extension Chrome pourrait contenir un malware, elle est retirée du Chrome Web Store - Clubic",
+      "link": "https://www.clubic.com/actualite-604801-cette-extension-chrome-pourrait-contenir-un-malware-elle-est-retiree-du-chrome-web-store.html",
+      "url": "https://www.clubic.com/actualite-604801-cette-extension-chrome-pourrait-contenir-un-malware-elle-est-retiree-du-chrome-web-store.html",
+      "publishedAt": "2026-03-16T15:09:40.000Z",
+      "date": "2026-03-16T15:09:40.000Z",
+      "description": "Toutefois, l'utilisation de nouveaux modules complémentaires nécessite la prudence habituelle en matière de cybersécurité.",
+      "excerpt": "Toutefois, l'utilisation de nouveaux modules complémentaires nécessite la prudence habituelle en matière de cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google va tuer ChatGPT? #shorts: Actualités - Orange",
+      "link": "https://actu.orange.fr/videos/high-tech/google-va-tuer-chatgpt-shorts-CNT000002nS7bw.html",
+      "url": "https://actu.orange.fr/videos/high-tech/google-va-tuer-chatgpt-shorts-CNT000002nS7bw.html",
+      "publishedAt": "2026-03-16T11:18:01.000Z",
+      "date": "2026-03-16T11:18:01.000Z",
+      "description": "... chatgpt #openai #google #gemini #tech #IA.... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
+      "excerpt": "... chatgpt #openai #google #gemini #tech #IA.... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Comment migrer simplement de ChatGPT vers Claude sans perdre sa \"mémoire\"?",
       "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/migrer-de-chatgpt-vers-claude-88400/",
@@ -20,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Est-ce que ChatGPT va TUER le WEB? #shorts: Actualités - Orange",
+      "link": "https://actu.orange.fr/videos/high-tech/est-ce-que-chatgpt-va-tuer-le-web-shorts-CNT000002nSa6P.html?pid=",
+      "url": "https://actu.orange.fr/videos/high-tech/est-ce-que-chatgpt-va-tuer-le-web-shorts-CNT000002nSa6P.html?pid=",
+      "publishedAt": "2026-03-16T09:07:46.000Z",
+      "date": "2026-03-16T09:07:46.000Z",
+      "description": "ChatGPT peut-il devenir une plateforme à part entière et concurrencer... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
+      "excerpt": "ChatGPT peut-il devenir une plateforme à part entière et concurrencer... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Le patron d'OpenAI veut vous vendre l'IA comme l'électricité ou l'eau - PhonAndroid",
       "link": "https://www.phonandroid.com/le-patron-dopenai-veut-vous-vendre-lia-comme-lelectricite-ou-leau.html",
       "url": "https://www.phonandroid.com/le-patron-dopenai-veut-vous-vendre-lia-comme-lelectricite-ou-leau.html",
@@ -27,106 +127,6 @@
       "date": "2026-03-16T09:06:31.000Z",
       "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum... Pour que ChatGPT et consorts puissent vous répondre, il faut de la capacité de...",
       "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum... Pour que ChatGPT et consorts puissent vous répondre, il faut de la capacité de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Test du MacBook Neo: le coup de génie d'Apple - Actualités",
-      "link": "https://actu.orange.fr/videos/high-tech/test-du-macbook-neo-le-coup-de-genie-d-apple-CNT000002nS7Gr.html",
-      "url": "https://actu.orange.fr/videos/high-tech/test-du-macbook-neo-le-coup-de-genie-d-apple-CNT000002nS7Gr.html",
-      "publishedAt": "2026-03-16T08:14:08.000Z",
-      "date": "2026-03-16T08:14:08.000Z",
-      "description": "Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et... Tous publics. Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) -...",
-      "excerpt": "Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et... Tous publics. Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) -...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pourquoi OpenAI n'aurait jamais dû répondre à Anthropic (Claude) | Décode - Actualités",
-      "link": "https://actu.orange.fr/videos/high-tech/pourquoi-openai-n-aurait-jamais-du-repondre-a-anthropic-claude-decode-CNT000002nS7ix.html?pid=",
-      "url": "https://actu.orange.fr/videos/high-tech/pourquoi-openai-n-aurait-jamais-du-repondre-a-anthropic-claude-decode-CNT000002nS7ix.html?pid=",
-      "publishedAt": "2026-03-16T07:48:22.000Z",
-      "date": "2026-03-16T07:48:22.000Z",
-      "description": "... chatgpt -dans-une-pub-openai-repond-tres-agace.html--- Abonnez-vous à... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
-      "excerpt": "... chatgpt -dans-une-pub-openai-repond-tres-agace.html--- Abonnez-vous à... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ces hackers ont détourné le vrai ChatGPT! #shorts: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/high-tech/ces-hackers-ont-detourne-le-vrai-chatgpt-shorts-CNT000002nS7ps.html?pid=",
-      "url": "https://actu.orange.fr/videos/high-tech/ces-hackers-ont-detourne-le-vrai-chatgpt-shorts-CNT000002nS7ps.html?pid=",
-      "publishedAt": "2026-03-16T07:35:47.000Z",
-      "date": "2026-03-16T07:35:47.000Z",
-      "description": "... ChatGPT! ⚠️__#numerama # chatgpt #hacker #hacking #cybersecurity #... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
-      "excerpt": "... ChatGPT! ⚠️__#numerama # chatgpt #hacker #hacking #cybersecurity #... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cette question ultra simple fait bugger les IA #shorts: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/high-tech/cette-question-ultra-simple-fait-bugger-les-ia-shorts-CNT000002nS7my.html",
-      "url": "https://actu.orange.fr/videos/high-tech/cette-question-ultra-simple-fait-bugger-les-ia-shorts-CNT000002nS7my.html",
-      "publishedAt": "2026-03-16T07:29:52.000Z",
-      "date": "2026-03-16T07:29:52.000Z",
-      "description": "... chatgpt #grok #... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et ateliers. Aide et contactOrange NewsBoutiques Orange...",
-      "excerpt": "... chatgpt #grok #... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et ateliers. Aide et contactOrange NewsBoutiques Orange...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT est déjà dans la nouvelle TWINGO (et il est pas marrant) #shorts - Actualités",
-      "link": "https://actu.orange.fr/videos/high-tech/chatgpt-est-deja-dans-la-nouvelle-twingo-et-il-est-pas-marrant-shorts-CNT000002nS6FS.html",
-      "url": "https://actu.orange.fr/videos/high-tech/chatgpt-est-deja-dans-la-nouvelle-twingo-et-il-est-pas-marrant-shorts-CNT000002nS6FS.html",
-      "publishedAt": "2026-03-16T07:01:53.000Z",
-      "date": "2026-03-16T07:01:53.000Z",
-      "description": "... ChatGPT!... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
-      "excerpt": "... ChatGPT!... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Fuite d'infos Apple: tous les produits à venir | Certains vont vous époustoufler! | LesNews",
-      "link": "https://lesnews.ca/intelligence-artificielle/fuite-dinfos-apple-tous-les-produits-a-venir-certains-vont-vous-epoustoufler/",
-      "url": "https://lesnews.ca/intelligence-artificielle/fuite-dinfos-apple-tous-les-produits-a-venir-certains-vont-vous-epoustoufler/",
-      "publishedAt": "2026-03-16T04:57:53.000Z",
-      "date": "2026-03-16T04:57:53.000Z",
-      "description": "... ChatGPT. Cette transformation serait radicale. Actuellement, Siri fonctionnne principalement à partir de commandes spécifiques et de réponses...",
-      "excerpt": "... ChatGPT. Cette transformation serait radicale. Actuellement, Siri fonctionnne principalement à partir de commandes spécifiques et de réponses...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La puce accélératrice géante de Cerebras motorisera les IA d'AWS - LeMagIT",
-      "link": "https://www.lemagit.fr/actualites/366640413/La-puce-acceleratrice-geante-de-Cerebras-motorisera-les-IA-dAWS",
-      "url": "https://www.lemagit.fr/actualites/366640413/La-puce-acceleratrice-geante-de-Cerebras-motorisera-les-IA-dAWS",
-      "publishedAt": "2026-03-16T01:15:56.000Z",
-      "date": "2026-03-16T01:15:56.000Z",
-      "description": "Cybersécurité Retour. Cyberdéfense · Cyberdélinquance · DevSecOps... ChatGPT. L'éditeur OpenAI travaille en effet à adapter ses modèles d'IA...",
-      "excerpt": "Cybersécurité Retour. Cyberdéfense · Cyberdélinquance · DevSecOps... ChatGPT. L'éditeur OpenAI travaille en effet à adapter ses modèles d'IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Robots humanoïdes 2026: GPU, actionneurs et SoC, ce qui se cache vraiment sous le capot",
-      "link": "https://www.modding.fr/robots-humanoides-2026-gpu-actionneurs-et-soc-ce-qui-se-cache-vraiment-sous-le-capot/",
-      "url": "https://www.modding.fr/robots-humanoides-2026-gpu-actionneurs-et-soc-ce-qui-se-cache-vraiment-sous-le-capot/",
-      "publishedAt": "2026-03-15T09:33:23.000Z",
-      "date": "2026-03-15T09:33:23.000Z",
-      "description": "Robots humanoïdes 2026: GPU, actionneurs et SoC, ce qui se cache vraiment sous le capot · Ce qui fait tourner un robot humanoïde en 2026 · La guerre...",
-      "excerpt": "Robots humanoïdes 2026: GPU, actionneurs et SoC, ce qui se cache vraiment sous le capot · Ce qui fait tourner un robot humanoïde en 2026 · La guerre...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Peut-on vraiment se fier à l'IA pour investir? ChatGPT, Gemini et Claude se trompent sur les...",
-      "link": "https://www.challenges.fr/argent-et-placements/peut-on-vraiment-se-fier-a-lia-pour-investir-chatgpt-gemini-et-claude-se-trompent-sur-les-resultats-du-cac-40_641727",
-      "url": "https://www.challenges.fr/argent-et-placements/peut-on-vraiment-se-fier-a-lia-pour-investir-chatgpt-gemini-et-claude-se-trompent-sur-les-resultats-du-cac-40_641727",
-      "publishedAt": "2026-03-15T08:01:58.000Z",
-      "date": "2026-03-15T08:01:58.000Z",
-      "description": "ChatGPT, Gemini et Claude se trompent sur les résultats du CAC 40. Une... Les Assises de la cybersécurité · PRNewswire · Speak & Act. //- blocks...",
-      "excerpt": "ChatGPT, Gemini et Claude se trompent sur les résultats du CAC 40. Une... Les Assises de la cybersécurité · PRNewswire · Speak & Act. //- blocks...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "De Quoi J'me Mail: ChatGPT s'invite dans l'app Canal+ (1/2) - 15/03 - Orange Actu",
-      "link": "https://actu.orange.fr/videos/economie/de-quoi-j-me-mail-chatgpt-s-invite-dans-l-app-canal-1-2-15-03-CNT000002nRnR3.html",
-      "url": "https://actu.orange.fr/videos/economie/de-quoi-j-me-mail-chatgpt-s-invite-dans-l-app-canal-1-2-15-03-CNT000002nRnR3.html",
-      "publishedAt": "2026-03-15T07:53:00.000Z",
-      "date": "2026-03-15T07:53:00.000Z",
-      "description": "... ChatGPT, sur Meta qui a acquis Moltbook, ainsi que sur l'arrivée des... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
-      "excerpt": "... ChatGPT, sur Meta qui a acquis Moltbook, ainsi que sur l'arrivée des... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
