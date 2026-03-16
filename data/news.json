@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T01:25:09.061Z",
+  "generatedAt": "2026-03-16T07:06:02.748Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "La puce accélératrice géante de Cerebras motorisera les IA d'AWS - LeMagIT",
+      "link": "https://www.lemagit.fr/actualites/366640413/La-puce-acceleratrice-geante-de-Cerebras-motorisera-les-IA-dAWS",
+      "url": "https://www.lemagit.fr/actualites/366640413/La-puce-acceleratrice-geante-de-Cerebras-motorisera-les-IA-dAWS",
+      "publishedAt": "2026-03-16T01:15:56.000Z",
+      "date": "2026-03-16T01:15:56.000Z",
+      "description": "Cybersécurité Retour. Cyberdéfense · Cyberdélinquance · DevSecOps... ChatGPT. L'éditeur OpenAI travaille en effet à adapter ses modèles d'IA...",
+      "excerpt": "Cybersécurité Retour. Cyberdéfense · Cyberdélinquance · DevSecOps... ChatGPT. L'éditeur OpenAI travaille en effet à adapter ses modèles d'IA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Robots humanoïdes 2026: GPU, actionneurs et SoC, ce qui se cache vraiment sous le capot",
       "link": "https://www.modding.fr/robots-humanoides-2026-gpu-actionneurs-et-soc-ce-qui-se-cache-vraiment-sous-le-capot/",
@@ -118,16 +128,6 @@
       "description": "Experian a annoncé le lancement de la première application de score de crédit au Royaume-Uni intégrée à ChatGPT... Cybersécurité · Le Luxe · Basket-...",
       "excerpt": "Experian a annoncé le lancement de la première application de score de crédit au Royaume-Uni intégrée à ChatGPT... Cybersécurité · Le Luxe · Basket-...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "j'ai écouté Sam Altman chez BlackRock, et ce qu'il raconte est glaçant - Les Numériques",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/les-gens-nous-acheteront-l-intelligence-a-la-demande-j-ai-ecoute-sam-altman-chez-blackrock-et-ce-qu-il-raconte-est-glacant-n252979.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/les-gens-nous-acheteront-l-intelligence-a-la-demande-j-ai-ecoute-sam-altman-chez-blackrock-et-ce-qu-il-raconte-est-glacant-n252979.html",
-      "publishedAt": "2026-03-13T18:46:33.000Z",
-      "date": "2026-03-13T18:46:33.000Z",
-      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (1). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (1). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
