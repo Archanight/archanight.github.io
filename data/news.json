@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T18:49:47.425Z",
+  "generatedAt": "2026-03-17T01:16:35.068Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Trafic des agents IA: près de 8 milliards de requêtes déjà enregistrées en 2026 - ITRmanager",
+      "link": "https://itrmanager.com/articles/209166/trafic-des-agents-ia-pres-de-8-milliards-de-requetes-deja-enregistrees-en-2026.html",
+      "url": "https://itrmanager.com/articles/209166/trafic-des-agents-ia-pres-de-8-milliards-de-requetes-deja-enregistrees-en-2026.html",
+      "publishedAt": "2026-03-16T21:58:30.000Z",
+      "date": "2026-03-16T21:58:30.000Z",
+      "description": "... ChatGPT -User avec 7,9 millions. PerplexityBot affiche le taux d... Cybersécurité: la formation réduit les incidents, mais les entreprises...",
+      "excerpt": "... ChatGPT -User avec 7,9 millions. PerplexityBot affiche le taux d... Cybersécurité: la formation réduit les incidents, mais les entreprises...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI publie la version 5.4 de GPT pour des applications spécialisées. - Vietnam.vn",
       "link": "https://www.vietnam.vn/fr/openai-tung-phien-ban-gpt-5-4-danh-cho-viec-chuyen-nganh",
@@ -90,6 +100,26 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Ces vidéos génèrent des MILLIONS de dollars! #shorts: Actualités - Orange",
+      "link": "https://actu.orange.fr/videos/high-tech/ces-videos-generent-des-millions-de-dollars-shorts-CNT000002nS75E.html",
+      "url": "https://actu.orange.fr/videos/high-tech/ces-videos-generent-des-millions-de-dollars-shorts-CNT000002nS75E.html",
+      "publishedAt": "2026-03-16T13:46:31.000Z",
+      "date": "2026-03-16T13:46:31.000Z",
+      "description": "Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics. Ce jeu...",
+      "excerpt": "Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics. Ce jeu...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'IA est-elle sur le point d'innover à notre place? - Les Affaires",
+      "link": "https://www.lesaffaires.com/opinions/lia-est-elle-sur-le-point-dinnover-a-notre-place/",
+      "url": "https://www.lesaffaires.com/opinions/lia-est-elle-sur-le-point-dinnover-a-notre-place/",
+      "publishedAt": "2026-03-16T13:20:03.000Z",
+      "date": "2026-03-16T13:20:03.000Z",
+      "description": "Initialement, ChatGPT n'était rien d'autre qu'un nouveau gadget... Cybersécurité proactive: pilotage stratégique pour l'entreprise moderne.",
+      "excerpt": "Initialement, ChatGPT n'était rien d'autre qu'un nouveau gadget... Cybersécurité proactive: pilotage stratégique pour l'entreprise moderne.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Google va tuer ChatGPT? #shorts: Actualités - Orange",
       "link": "https://actu.orange.fr/videos/high-tech/google-va-tuer-chatgpt-shorts-CNT000002nS7bw.html",
       "url": "https://actu.orange.fr/videos/high-tech/google-va-tuer-chatgpt-shorts-CNT000002nS7bw.html",
@@ -97,36 +127,6 @@
       "date": "2026-03-16T11:18:01.000Z",
       "description": "... chatgpt #openai #google #gemini #tech #IA.... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
       "excerpt": "... chatgpt #openai #google #gemini #tech #IA.... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment migrer simplement de ChatGPT vers Claude sans perdre sa \"mémoire\"?",
-      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/migrer-de-chatgpt-vers-claude-88400/",
-      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/migrer-de-chatgpt-vers-claude-88400/",
-      "publishedAt": "2026-03-16T09:32:53.000Z",
-      "date": "2026-03-16T09:32:53.000Z",
-      "description": "Peut-on quitter ChatGPT tout en partant avec sa mémoire sur nous? Jusqu'à présent, changer d'assistant revenait à abandonner des années de...",
-      "excerpt": "Peut-on quitter ChatGPT tout en partant avec sa mémoire sur nous? Jusqu'à présent, changer d'assistant revenait à abandonner des années de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Est-ce que ChatGPT va TUER le WEB? #shorts: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/high-tech/est-ce-que-chatgpt-va-tuer-le-web-shorts-CNT000002nSa6P.html?pid=",
-      "url": "https://actu.orange.fr/videos/high-tech/est-ce-que-chatgpt-va-tuer-le-web-shorts-CNT000002nSa6P.html?pid=",
-      "publishedAt": "2026-03-16T09:07:46.000Z",
-      "date": "2026-03-16T09:07:46.000Z",
-      "description": "ChatGPT peut-il devenir une plateforme à part entière et concurrencer... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
-      "excerpt": "ChatGPT peut-il devenir une plateforme à part entière et concurrencer... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le patron d'OpenAI veut vous vendre l'IA comme l'électricité ou l'eau - PhonAndroid",
-      "link": "https://www.phonandroid.com/le-patron-dopenai-veut-vous-vendre-lia-comme-lelectricite-ou-leau.html",
-      "url": "https://www.phonandroid.com/le-patron-dopenai-veut-vous-vendre-lia-comme-lelectricite-ou-leau.html",
-      "publishedAt": "2026-03-16T09:06:31.000Z",
-      "date": "2026-03-16T09:06:31.000Z",
-      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum... Pour que ChatGPT et consorts puissent vous répondre, il faut de la capacité de...",
-      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum... Pour que ChatGPT et consorts puissent vous répondre, il faut de la capacité de...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
