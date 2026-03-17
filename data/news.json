@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T12:47:51.034Z",
+  "generatedAt": "2026-03-17T17:58:32.124Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,56 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Prédiction de l'âge des utilisateurs, empêcher les comportements non consentis... Pourquoi... - BFM",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/prediction-de-l-age-des-utilisateurs-empecher-les-comportements-non-consentis-pourquoi-le-mode-adulte-de-chat-gpt-a-pris-du-retard_AV-202603170531.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/prediction-de-l-age-des-utilisateurs-empecher-les-comportements-non-consentis-pourquoi-le-mode-adulte-de-chat-gpt-a-pris-du-retard_AV-202603170531.html",
+      "publishedAt": "2026-03-17T13:56:56.000Z",
+      "date": "2026-03-17T13:56:56.000Z",
+      "description": "Alors qu'OpenAI a justifié le nouveau retard du \"mode adulte\" de ChatGPT... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat...",
+      "excerpt": "Alors qu'OpenAI a justifié le nouveau retard du \"mode adulte\" de ChatGPT... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance la restructuration de la dernière chance face à Anthropic. Est-ce que ce sera suffisant?",
+      "link": "https://www.clubic.com/actualite-604972-openai-lance-la-restructuration-de-la-derniere-chance-face-a-anthropic-est-ce-que-ce-sera-suffisant.html",
+      "url": "https://www.clubic.com/actualite-604972-openai-lance-la-restructuration-de-la-derniere-chance-face-a-anthropic-est-ce-que-ce-sera-suffisant.html",
+      "publishedAt": "2026-03-17T13:45:06.000Z",
+      "date": "2026-03-17T13:45:06.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT (GPT-5.4). Chat dans différentes langues, dont...",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT (GPT-5.4). Chat dans différentes langues, dont...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Windows 11 encore patché en urgence: cette fois, c'est le Bluetooth qui lâche - Toms Guide",
+      "link": "https://www.tomsguide.fr/windows-11-encore-patche-en-urgence-cette-fois-cest-le-bluetooth-qui-lache/",
+      "url": "https://www.tomsguide.fr/windows-11-encore-patche-en-urgence-cette-fois-cest-le-bluetooth-qui-lache/",
+      "publishedAt": "2026-03-17T13:34:28.000Z",
+      "date": "2026-03-17T13:34:28.000Z",
+      "description": "Le Bluetooth 6.0 est enfin sorti, la PS5 Pro est officiellement confirmée: c'est le récap'! ChatGPT intelligence artificielle. 40 % des projets d'IA...",
+      "excerpt": "Le Bluetooth 6.0 est enfin sorti, la PS5 Pro est officiellement confirmée: c'est le récap'! ChatGPT intelligence artificielle. 40 % des projets d'IA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT: le mode adulte devrait en rester au stade du flirt. Sam Altman veut éviter les...",
+      "link": "https://www.clubic.com/actualite-605002-chatgpt-le-mode-adulte-devrait-en-rester-au-stade-du-flirt-sam-altman-veut-eviter-les-images-qui-genent.html",
+      "url": "https://www.clubic.com/actualite-605002-chatgpt-le-mode-adulte-devrait-en-rester-au-stade-du-flirt-sam-altman-veut-eviter-les-images-qui-genent.html",
+      "publishedAt": "2026-03-17T13:32:43.000Z",
+      "date": "2026-03-17T13:32:43.000Z",
+      "description": "ChatGPT devrait à l'avenir s'enrichir d'un mode réservé aux majeurs. Mais ne croyez... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit...",
+      "excerpt": "ChatGPT devrait à l'avenir s'enrichir d'un mode réservé aux majeurs. Mais ne croyez... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'encyclopédie Britannica attaque OpenAI en justice et l'accuse de reproduire ses contenus",
+      "link": "https://siecledigital.fr/2026/03/17/encyclopedia-britannica-attaque-openai-pour-les-derives-de-chatgpt/",
+      "url": "https://siecledigital.fr/2026/03/17/encyclopedia-britannica-attaque-openai-pour-les-derives-de-chatgpt/",
+      "publishedAt": "2026-03-17T13:09:06.000Z",
+      "date": "2026-03-17T13:09:06.000Z",
+      "description": "... Cybersécurité... Les exemples fournis dans le dossier mettent notamment en parallèle des extraits issus de ChatGPT et ceux de l'encyclopédie, avec des...",
+      "excerpt": "... Cybersécurité... Les exemples fournis dans le dossier mettent notamment en parallèle des extraits issus de ChatGPT et ceux de l'encyclopédie, avec des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "ChatGPT invente des faits et pille ses articles, Britannica vient de lancer son offensive",
       "link": "https://www.clubic.com/actualite-604921-chatgpt-invente-des-faits-et-pille-ses-articles-britannica-vient-de-lancer-son-offensive.html",
       "url": "https://www.clubic.com/actualite-604921-chatgpt-invente-des-faits-et-pille-ses-articles-britannica-vient-de-lancer-son-offensive.html",
@@ -17,6 +67,16 @@
       "date": "2026-03-17T11:08:52.000Z",
       "description": "... ChatGPT d'avoir utilisé leurs contenus sans autorisation, d'abord pour... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
       "excerpt": "... ChatGPT d'avoir utilisé leurs contenus sans autorisation, d'abord pour... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Trafic des agents IA: près de 8 milliards de requêtes déjà enregistrées en 2026 - infoDSI",
+      "link": "https://infodsi.com/articles/209166/trafic-des-agents-ia-pres-de-8-milliards-de-requetes-deja-enregistrees-en-2026.html",
+      "url": "https://infodsi.com/articles/209166/trafic-des-agents-ia-pres-de-8-milliards-de-requetes-deja-enregistrees-en-2026.html",
+      "publishedAt": "2026-03-17T09:58:34.000Z",
+      "date": "2026-03-17T09:58:34.000Z",
+      "description": "... ChatGPT -User avec 7,9 millions. PerplexityBot affiche le taux d... Cybersécurité: les services publics français laissent grand ouvert la...",
+      "excerpt": "... ChatGPT -User avec 7,9 millions. PerplexityBot affiche le taux d... Cybersécurité: les services publics français laissent grand ouvert la...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -67,66 +127,6 @@
       "date": "2026-03-16T21:58:30.000Z",
       "description": "... ChatGPT -User avec 7,9 millions. PerplexityBot affiche le taux d... Cybersécurité: la formation réduit les incidents, mais les entreprises...",
       "excerpt": "... ChatGPT -User avec 7,9 millions. PerplexityBot affiche le taux d... Cybersécurité: la formation réduit les incidents, mais les entreprises...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI publie la version 5.4 de GPT pour des applications spécialisées. - Vietnam.vn",
-      "link": "https://www.vietnam.vn/fr/openai-tung-phien-ban-gpt-5-4-danh-cho-viec-chuyen-nganh",
-      "url": "https://www.vietnam.vn/fr/openai-tung-phien-ban-gpt-5-4-danh-cho-viec-chuyen-nganh",
-      "publishedAt": "2026-03-16T17:09:36.000Z",
-      "date": "2026-03-16T17:09:36.000Z",
-      "description": "... GPT-5.2. GPT-5.4 est désormais disponible pour les utilisateurs de ChatGPT Plus, Team et Pro, ainsi que pour les développeurs, via l'API. Les...",
-      "excerpt": "... GPT-5.2. GPT-5.4 est désormais disponible pour les utilisateurs de ChatGPT Plus, Team et Pro, ainsi que pour les développeurs, via l'API. Les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude Code passe de « Todos » à « Tasks »: Anthropic vient d'installer la mémoire de...",
-      "link": "https://www.blog-nouvelles-technologies.fr/356411/anthropic-claude-code-tasks-system-update-2026/",
-      "url": "https://www.blog-nouvelles-technologies.fr/356411/anthropic-claude-code-tasks-system-update-2026/",
-      "publishedAt": "2026-03-16T16:52:51.000Z",
-      "date": "2026-03-16T16:52:51.000Z",
-      "description": "ChatGPT · Claude · DeepSeek · Apple Intelligence · TECH · > Voir tout sur la tech · Périphériques · Apps · Cloud · Réalité virtuelle et augmentée...",
-      "excerpt": "ChatGPT · Claude · DeepSeek · Apple Intelligence · TECH · > Voir tout sur la tech · Périphériques · Apps · Cloud · Réalité virtuelle et augmentée...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Windows 11: un logiciel préinstallé verrouille le disque C de milliers de PC, même Microsoft...",
-      "link": "https://www.tomsguide.fr/windows-11-un-logiciel-preinstalle-verrouille-le-disque-c-de-milliers-de-pc-meme-microsoft-ne-peut-rien-faire/",
-      "url": "https://www.tomsguide.fr/windows-11-un-logiciel-preinstalle-verrouille-le-disque-c-de-milliers-de-pc-meme-microsoft-ne-peut-rien-faire/",
-      "publishedAt": "2026-03-16T16:28:13.000Z",
-      "date": "2026-03-16T16:28:13.000Z",
-      "description": "... Update. Sur Reddit, des techniciens Samsung ont proposé une réattribution manuelle des permissions du disque C, mais cette méthode affaiblit les...",
-      "excerpt": "... Update. Sur Reddit, des techniciens Samsung ont proposé une réattribution manuelle des permissions du disque C, mais cette méthode affaiblit les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Ce que cache vraiment Elon Musk avec SpaceX et xAI | Décode: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/high-tech/ce-que-cache-vraiment-elon-musk-avec-spacex-et-xai-decode-CNT000002nS7c6.html",
-      "url": "https://actu.orange.fr/videos/high-tech/ce-que-cache-vraiment-elon-musk-avec-spacex-et-xai-decode-CNT000002nS7c6.html",
-      "publishedAt": "2026-03-16T16:26:09.000Z",
-      "date": "2026-03-16T16:26:09.000Z",
-      "description": "Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
-      "excerpt": "Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Trafic des agents IA: près de 8 milliards de requêtes déjà enregistrées en 2026 (DataDome)",
-      "link": "https://viuz.com/annonce/trafic-des-agents-ia-pres-de-8-milliards-de-requetes-deja-enregistrees-en-2026-datadome/",
-      "url": "https://viuz.com/annonce/trafic-des-agents-ia-pres-de-8-milliards-de-requetes-deja-enregistrees-en-2026-datadome/",
-      "publishedAt": "2026-03-16T15:32:18.000Z",
-      "date": "2026-03-16T15:32:18.000Z",
-      "description": "Au-delà du volume, le manque de visibilité sur l'identité et l'intention de ces agents constitue désormais un enjeu majeur de cybersécurité.... ChatGPT...",
-      "excerpt": "Au-delà du volume, le manque de visibilité sur l'identité et l'intention de ces agents constitue désormais un enjeu majeur de cybersécurité.... ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI s'apprête à intégrer la génération de vidéo Sora directement dans ChatGPT",
-      "link": "https://lecafedugeek.fr/openai-sapprete-a-integrer-la-generation-de-video-sora-directement-dans-chatgpt/",
-      "url": "https://lecafedugeek.fr/openai-sapprete-a-integrer-la-generation-de-video-sora-directement-dans-chatgpt/",
-      "publishedAt": "2026-03-16T15:30:53.000Z",
-      "date": "2026-03-16T15:30:53.000Z",
-      "description": "L'entreprise collabore activement avec des experts en cybersécurité pour tester la résistance du modèle aux détournements. Chaque vidéo portera...",
-      "excerpt": "L'entreprise collabore activement avec des experts en cybersécurité pour tester la résistance du modèle aux détournements. Chaque vidéo portera...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
