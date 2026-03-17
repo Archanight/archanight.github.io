@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T06:53:14.905Z",
+  "generatedAt": "2026-03-17T12:47:51.034Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT invente des faits et pille ses articles, Britannica vient de lancer son offensive",
+      "link": "https://www.clubic.com/actualite-604921-chatgpt-invente-des-faits-et-pille-ses-articles-britannica-vient-de-lancer-son-offensive.html",
+      "url": "https://www.clubic.com/actualite-604921-chatgpt-invente-des-faits-et-pille-ses-articles-britannica-vient-de-lancer-son-offensive.html",
+      "publishedAt": "2026-03-17T11:08:52.000Z",
+      "date": "2026-03-17T11:08:52.000Z",
+      "description": "... ChatGPT d'avoir utilisé leurs contenus sans autorisation, d'abord pour... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
+      "excerpt": "... ChatGPT d'avoir utilisé leurs contenus sans autorisation, d'abord pour... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI une fois de plus accusé d'avoir utilisé des contenus sans autorisation pour entraîner...",
+      "link": "https://www.01net.com/actualites/openai-une-fois-de-plus-accuse-davoir-utilise-des-contenus-sans-autorisation-pour-entrainer-chatgpt.html",
+      "url": "https://www.01net.com/actualites/openai-une-fois-de-plus-accuse-davoir-utilise-des-contenus-sans-autorisation-pour-entrainer-chatgpt.html",
+      "publishedAt": "2026-03-17T09:02:29.000Z",
+      "date": "2026-03-17T09:02:29.000Z",
+      "description": "... ChatGPT est visé par une nouvelle plainte de l'éditeur de l... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
+      "excerpt": "... ChatGPT est visé par une nouvelle plainte de l'éditeur de l... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT: OpenAI révèle à quel point le mode adulte sera cochon - lebigdata.fr",
       "link": "https://www.lebigdata.fr/chatgpt-openai-revele-a-quel-point-le-mode-adulte-sera-cochon",
@@ -107,26 +127,6 @@
       "date": "2026-03-16T15:30:53.000Z",
       "description": "L'entreprise collabore activement avec des experts en cybersécurité pour tester la résistance du modèle aux détournements. Chaque vidéo portera...",
       "excerpt": "L'entreprise collabore activement avec des experts en cybersécurité pour tester la résistance du modèle aux détournements. Chaque vidéo portera...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Voici pourquoi le mode adulte de ChatGPT prend du retard - PhonAndroid",
-      "link": "https://www.phonandroid.com/voici-pourquoi-le-mode-adulte-de-chatgpt-prend-du-retard.html",
-      "url": "https://www.phonandroid.com/voici-pourquoi-le-mode-adulte-de-chatgpt-prend-du-retard.html",
-      "publishedAt": "2026-03-16T15:11:17.000Z",
-      "date": "2026-03-16T15:11:17.000Z",
-      "description": "OpenAI prépare un mode adulte pour ChatGPT, mais son lancement prend du retard à cause de plusieurs problèmes... Cybersécurité · High-tech · Streaming...",
-      "excerpt": "OpenAI prépare un mode adulte pour ChatGPT, mais son lancement prend du retard à cause de plusieurs problèmes... Cybersécurité · High-tech · Streaming...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cette extension Chrome pourrait contenir un malware, elle est retirée du Chrome Web Store - Clubic",
-      "link": "https://www.clubic.com/actualite-604801-cette-extension-chrome-pourrait-contenir-un-malware-elle-est-retiree-du-chrome-web-store.html",
-      "url": "https://www.clubic.com/actualite-604801-cette-extension-chrome-pourrait-contenir-un-malware-elle-est-retiree-du-chrome-web-store.html",
-      "publishedAt": "2026-03-16T15:09:40.000Z",
-      "date": "2026-03-16T15:09:40.000Z",
-      "description": "Toutefois, l'utilisation de nouveaux modules complémentaires nécessite la prudence habituelle en matière de cybersécurité.",
-      "excerpt": "Toutefois, l'utilisation de nouveaux modules complémentaires nécessite la prudence habituelle en matière de cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
