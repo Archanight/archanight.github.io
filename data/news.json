@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T18:49:43.095Z",
+  "generatedAt": "2026-03-18T01:20:11.931Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI fait face à une vague de critiques après son accord avec le Pentagone sur l'IA, alors...",
+      "link": "https://news.bitcoin.com/fr/openai-fait-face-a-une-vague-de-critiques-apres-son-accord-avec-le-pentagone-sur-l-ia-alors-que-les-desinstallations-de-chatgpt-se-multiplient-aux-etats-unis/",
+      "url": "https://news.bitcoin.com/fr/openai-fait-face-a-une-vague-de-critiques-apres-son-accord-avec-le-pentagone-sur-l-ia-alors-que-les-desinstallations-de-chatgpt-se-multiplient-aux-etats-unis/",
+      "publishedAt": "2026-03-17T18:03:20.000Z",
+      "date": "2026-03-17T18:03:20.000Z",
+      "description": "... ChatGPT, sur des réseaux classifiés. L'entreprise a présenté cet accord... Le Codex Security d'OpenAI fait son apparition alors que la course à la...",
+      "excerpt": "... ChatGPT, sur des réseaux classifiés. L'entreprise a présenté cet accord... Le Codex Security d'OpenAI fait son apparition alors que la course à la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Prédiction de l'âge des utilisateurs, empêcher les comportements non consentis... Pourquoi... - BFM",
       "link": "https://www.bfmtv.com/tech/intelligence-artificielle/prediction-de-l-age-des-utilisateurs-empecher-les-comportements-non-consentis-pourquoi-le-mode-adulte-de-chat-gpt-a-pris-du-retard_AV-202603170531.html",
@@ -118,16 +128,6 @@
       "description": "... ChatGPT. Sur la semaine, les téléchargements hebdomadaires de Claude... Oubliez Google Translate: ce petit accessoire MagSafe dopé à GPT-5 m'a servi d...",
       "excerpt": "... ChatGPT. Sur la semaine, les téléchargements hebdomadaires de Claude... Oubliez Google Translate: ce petit accessoire MagSafe dopé à GPT-5 m'a servi d...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Trafic des agents IA: près de 8 milliards de requêtes déjà enregistrées en 2026 - ITRmanager",
-      "link": "https://itrmanager.com/articles/209166/trafic-des-agents-ia-pres-de-8-milliards-de-requetes-deja-enregistrees-en-2026.html",
-      "url": "https://itrmanager.com/articles/209166/trafic-des-agents-ia-pres-de-8-milliards-de-requetes-deja-enregistrees-en-2026.html",
-      "publishedAt": "2026-03-16T21:58:30.000Z",
-      "date": "2026-03-16T21:58:30.000Z",
-      "description": "... ChatGPT -User avec 7,9 millions. PerplexityBot affiche le taux d... Cybersécurité: la formation réduit les incidents, mais les entreprises...",
-      "excerpt": "... ChatGPT -User avec 7,9 millions. PerplexityBot affiche le taux d... Cybersécurité: la formation réduit les incidents, mais les entreprises...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
