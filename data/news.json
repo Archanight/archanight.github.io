@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T01:20:11.931Z",
+  "generatedAt": "2026-03-18T06:52:08.693Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI se recentre sur ChatGPT et les pros - 17/03 - Actualités - Orange",
+      "link": "https://actu.orange.fr/videos/economie/openai-se-recentre-sur-chatgpt-et-les-pros-17-03-CNT000002nTJ7M.html",
+      "url": "https://actu.orange.fr/videos/economie/openai-se-recentre-sur-chatgpt-et-les-pros-17-03-CNT000002nTJ7M.html",
+      "publishedAt": "2026-03-17T21:18:32.000Z",
+      "date": "2026-03-17T21:18:32.000Z",
+      "description": "... ChatGPT et les clients professionnels, l'alerte de Musk sur les... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
+      "excerpt": "... ChatGPT et les clients professionnels, l'alerte de Musk sur les... Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI fait face à une vague de critiques après son accord avec le Pentagone sur l'IA, alors...",
       "link": "https://news.bitcoin.com/fr/openai-fait-face-a-une-vague-de-critiques-apres-son-accord-avec-le-pentagone-sur-l-ia-alors-que-les-desinstallations-de-chatgpt-se-multiplient-aux-etats-unis/",
@@ -118,16 +128,6 @@
       "description": "ChatGPT · Claude · DeepSeek... Le reste de la fiche technique, encore non officialisé, évoque un écran OLED LTPS de 6,84 pouces en 1,5K, un SoC...",
       "excerpt": "ChatGPT · Claude · DeepSeek... Le reste de la fiche technique, encore non officialisé, évoque un écran OLED LTPS de 6,84 pouces en 1,5K, un SoC...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude double vos quotas… mais seulement pour une durée limitée - Les Numériques",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/claude-double-vos-quotas-mais-seulement-pour-une-duree-limitee-n253101.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/claude-double-vos-quotas-mais-seulement-pour-une-duree-limitee-n253101.html",
-      "publishedAt": "2026-03-17T00:15:23.000Z",
-      "date": "2026-03-17T00:15:23.000Z",
-      "description": "... ChatGPT. Sur la semaine, les téléchargements hebdomadaires de Claude... Oubliez Google Translate: ce petit accessoire MagSafe dopé à GPT-5 m'a servi d...",
-      "excerpt": "... ChatGPT. Sur la semaine, les téléchargements hebdomadaires de Claude... Oubliez Google Translate: ce petit accessoire MagSafe dopé à GPT-5 m'a servi d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
