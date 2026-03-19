@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T01:19:55.692Z",
+  "generatedAt": "2026-03-19T06:46:19.435Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenClaw est le nouveau ChatGPT selon NVIDIA: mais c'est quoi? - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/openclaw-est-le-nouveau-chatgpt-selon-nvidia-mais-cest-quoi",
+      "url": "https://www.lebigdata.fr/openclaw-est-le-nouveau-chatgpt-selon-nvidia-mais-cest-quoi",
+      "publishedAt": "2026-03-18T23:22:27.000Z",
+      "date": "2026-03-18T23:22:27.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT lors de son lancement en 2022. Une comparaison qui en dit...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT lors de son lancement en 2022. Une comparaison qui en dit...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Claude Code, OpenClaw, Doubao: des sites contrefaits installent des malwares très efficaces",
       "link": "https://www.macg.co/intelligence-artificielle/2026/03/claude-code-openclaw-doubao-des-sites-contrefaits-installent-des-malwares-tres-efficaces-307499",
@@ -60,6 +70,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "L'IA est désormais au cœur de la pratique des professionnels - Les Affaires",
+      "link": "https://www.lesaffaires.com/secteurs/general/les-comptables-ont-adopte-lia-pour-de-bon-edition_18_mars_2026/",
+      "url": "https://www.lesaffaires.com/secteurs/general/les-comptables-ont-adopte-lia-pour-de-bon-edition_18_mars_2026/",
+      "publishedAt": "2026-03-18T17:14:24.000Z",
+      "date": "2026-03-18T17:14:24.000Z",
+      "description": "En septembre dernier, une quarantaine de professionnels ont été formés à l'utilisation de ChatGPT... cybersécurité, ou bien d'explicabilité.",
+      "excerpt": "En septembre dernier, une quarantaine de professionnels ont été formés à l'utilisation de ChatGPT... cybersécurité, ou bien d'explicabilité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Google Gemini va rattraper son retard sur ChatGPT avec cette nouveauté très attendue",
       "link": "https://www.01net.com/actualites/google-gemini-rattraper-retard-chatgpt-nouveaute-tres-attendue.html",
       "url": "https://www.01net.com/actualites/google-gemini-rattraper-retard-chatgpt-nouveaute-tres-attendue.html",
@@ -100,33 +120,13 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Nvidia qualifie le projet OpenClaw de prochain ChatGPT | Zonebourse",
-      "link": "https://www.zonebourse.com/actualite-bourse/nvidia-qualifie-le-projet-openclaw-de-prochain-chatgpt-ce7e5ed8d088f724",
-      "url": "https://www.zonebourse.com/actualite-bourse/nvidia-qualifie-le-projet-openclaw-de-prochain-chatgpt-ce7e5ed8d088f724",
-      "publishedAt": "2026-03-18T15:26:14.000Z",
-      "date": "2026-03-18T15:26:14.000Z",
-      "description": "Le directeur général de Nvidia, Jensen Huang, a qualifié le projet d'intelligence artificielle OpenClaw de prochain ChatGPT, a rapporté mardi...",
-      "excerpt": "Le directeur général de Nvidia, Jensen Huang, a qualifié le projet d'intelligence artificielle OpenClaw de prochain ChatGPT, a rapporté mardi...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un tribunal soutient les développeurs de Subnautica 2 dans le cadre de la controverse liée...",
-      "link": "https://www.notebookcheck.biz/Un-tribunal-soutient-les-developpeurs-de-Subnautica-2-dans-le-cadre-de-la-controverse-liee-au-ChatGPT-de-Krafton.1253369.0.html",
-      "url": "https://www.notebookcheck.biz/Un-tribunal-soutient-les-developpeurs-de-Subnautica-2-dans-le-cadre-de-la-controverse-liee-au-ChatGPT-de-Krafton.1253369.0.html",
-      "publishedAt": "2026-03-18T15:24:36.000Z",
-      "date": "2026-03-18T15:24:36.000Z",
-      "description": "... ChatGPT dans le cadre de stratégies liées à un conflit portant sur un... Anubhav Sharma, 2026-03-18 ( Update: 2026-03-18). Cookie Settings",
-      "excerpt": "... ChatGPT dans le cadre de stratégies liées à un conflit portant sur un... Anubhav Sharma, 2026-03-18 ( Update: 2026-03-18). Cookie Settings",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "GPT-5.4 Mini et Nano: OpenAI dégaine ses modèles à petits prix",
-      "link": "https://www.informatiquenews.fr/gpt-5-4-mini-et-nano-openai-degaine-ses-modeles-rapides-et-bon-marche-pour-lere-des-agents-110018",
-      "url": "https://www.informatiquenews.fr/gpt-5-4-mini-et-nano-openai-degaine-ses-modeles-rapides-et-bon-marche-pour-lere-des-agents-110018",
-      "publishedAt": "2026-03-18T15:08:52.000Z",
-      "date": "2026-03-18T15:08:52.000Z",
-      "description": "Plus de deux fois plus rapide que GPT-5 Mini, il s'approche des performances du grand GPT-5.4 sur plusieurs benchmarks majeurs, tout en étant facturé...",
-      "excerpt": "Plus de deux fois plus rapide que GPT-5 Mini, il s'approche des performances du grand GPT-5.4 sur plusieurs benchmarks majeurs, tout en étant facturé...",
+      "title": "Un logo sur du café?! #shorts: Actualités - Orange",
+      "link": "https://actu.orange.fr/videos/high-tech/un-logo-sur-du-cafe-shorts-CNT000002nV1dc.html",
+      "url": "https://actu.orange.fr/videos/high-tech/un-logo-sur-du-cafe-shorts-CNT000002nV1dc.html",
+      "publishedAt": "2026-03-18T16:15:28.000Z",
+      "date": "2026-03-18T16:15:28.000Z",
+      "description": "Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et... Tous publics. La guerre de l'IA a commencé (Google Bard vs. Bing ChatGPT ).",
+      "excerpt": "Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et... Tous publics. La guerre de l'IA a commencé (Google Bard vs. Bing ChatGPT ).",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
