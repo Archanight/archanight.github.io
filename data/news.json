@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T12:40:46.269Z",
+  "generatedAt": "2026-03-19T18:43:10.920Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Remplacée par une IA, cette femme s'est reconvertie et gagne mieux sa vie - Mediavenir",
+      "link": "https://www.mediavenir.fr/remplacee-par-une-ia-cette-femme-sest-reconvertie-et-gagne-mieux-sa-vie-voici-son-nouveau-metier/",
+      "url": "https://www.mediavenir.fr/remplacee-par-une-ia-cette-femme-sest-reconvertie-et-gagne-mieux-sa-vie-voici-son-nouveau-metier/",
+      "publishedAt": "2026-03-19T17:22:51.000Z",
+      "date": "2026-03-19T17:22:51.000Z",
+      "description": "Quand ChatGPT s'impose en France en 2023, la logique de réduction des... cybersécurité chez Nexa pour se former vite. 16 mars 2026. Quand la...",
+      "excerpt": "Quand ChatGPT s'impose en France en 2023, la logique de réduction des... cybersécurité chez Nexa pour se former vite. 16 mars 2026. Quand la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT leur a coûté 200 000 dollars, ils ont créé leur propre IA pour corriger le tir - Korben",
+      "link": "https://korben.info/chatgpt-leur-a-coute-200-000-dollars-ils-ont-cree-leur-propre-ia-pour-corriger-le-tir.html",
+      "url": "https://korben.info/chatgpt-leur-a-coute-200-000-dollars-ils-ont-cree-leur-propre-ia-pour-corriger-le-tir.html",
+      "publishedAt": "2026-03-19T15:47:13.000Z",
+      "date": "2026-03-19T15:47:13.000Z",
+      "description": "Une erreur qui a fait très mal · Comment ça fonctionne · Pas pour tout le monde · Articles récents · Les métiers de la Cybersécurité et de l'Intelligence...",
+      "excerpt": "Une erreur qui a fait très mal · Comment ça fonctionne · Pas pour tout le monde · Articles récents · Les métiers de la Cybersécurité et de l'Intelligence...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ZipRecruiter Inc lance une application ChatGPT pour une recherche d'emploi propulsée par l'IA",
+      "link": "https://www.zonebourse.com/actualite-bourse/ziprecruiter-inc-lance-une-application-chatgpt-pour-une-recherche-d-emploi-propulsee-par-l-ia-ce7e5ededc8ff423",
+      "url": "https://www.zonebourse.com/actualite-bourse/ziprecruiter-inc-lance-une-application-chatgpt-pour-une-recherche-d-emploi-propulsee-par-l-ia-ce7e5ededc8ff423",
+      "publishedAt": "2026-03-19T14:40:44.000Z",
+      "date": "2026-03-19T14:40:44.000Z",
+      "description": "Cybersécurité · Les Family Business · Notations Techniques · Actions... ZipRecruiter Inc lance une application ChatGPT pour une recherche d'emploi...",
+      "excerpt": "Cybersécurité · Les Family Business · Notations Techniques · Actions... ZipRecruiter Inc lance une application ChatGPT pour une recherche d'emploi...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Plus de la moitié des internautes du Québec utilisent un outil d'intelligence artificielle générative",
+      "link": "https://nouvelles.ulaval.ca/2026/03/19/plus-de-la-moitie-des-internautes-du-quebec-utilisent-un-outil-dintelligence-artificielle-generative-592272b3-7325-49a4-ba10-2493f8815200",
+      "url": "https://nouvelles.ulaval.ca/2026/03/19/plus-de-la-moitie-des-internautes-du-quebec-utilisent-un-outil-dintelligence-artificielle-generative-592272b3-7325-49a4-ba10-2493f8815200",
+      "publishedAt": "2026-03-19T12:34:45.000Z",
+      "date": "2026-03-19T12:34:45.000Z",
+      "description": "... ChatGPT se distingue nettement comme l'outil d...",
+      "excerpt": "... ChatGPT se distingue nettement comme l'outil d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Alibaba déterminé dans l'IA, malgré une chute de son bénéfice net - TradingView",
       "link": "https://fr.tradingview.com/news/afp:f6cb5e9790afc:0/",
@@ -88,46 +128,6 @@
       "description": "Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et... Culture IA: Gemini 3, plus fort que ChatGPT?, par Anthony Morel - 19/11.",
       "excerpt": "Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et... Culture IA: Gemini 3, plus fort que ChatGPT?, par Anthony Morel - 19/11.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenClaw: le “prochain ChatGPT ” qui fait bondir les actions en Chine - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/openclaw-le-prochain-chatgpt-qui-fait-bondir-les-actions-en-chine",
-      "url": "https://www.lebigdata.fr/openclaw-le-prochain-chatgpt-qui-fait-bondir-les-actions-en-chine",
-      "publishedAt": "2026-03-19T06:29:30.000Z",
-      "date": "2026-03-19T06:29:30.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... En particulier celui d'OpenClaw qu'il décrit comme « le prochain ChatGPT ».",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... En particulier celui d'OpenClaw qu'il décrit comme « le prochain ChatGPT ».",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenClaw est le nouveau ChatGPT selon NVIDIA: mais c'est quoi? - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/openclaw-est-le-nouveau-chatgpt-selon-nvidia-mais-cest-quoi",
-      "url": "https://www.lebigdata.fr/openclaw-est-le-nouveau-chatgpt-selon-nvidia-mais-cest-quoi",
-      "publishedAt": "2026-03-18T23:22:27.000Z",
-      "date": "2026-03-18T23:22:27.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT lors de son lancement en 2022. Une comparaison qui en dit...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT lors de son lancement en 2022. Une comparaison qui en dit...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT et Gemini manipulés: une industrie discrète exploite les failles de l'IA - Menow",
-      "link": "https://www.menow.fr/chatgpt-et-gemini-manipules-une-industrie-discrete-exploite-les-failles-de-lia/",
-      "url": "https://www.menow.fr/chatgpt-et-gemini-manipules-une-industrie-discrete-exploite-les-failles-de-lia/",
-      "publishedAt": "2026-03-18T22:18:45.000Z",
-      "date": "2026-03-18T22:18:45.000Z",
-      "description": "Les chatbots comme ChatGPT et Gemini se sont imposés dans le quotidien numérique. Pourtant, leurs réponses peuvent être influencées bien plus...",
-      "excerpt": "Les chatbots comme ChatGPT et Gemini se sont imposés dans le quotidien numérique. Pourtant, leurs réponses peuvent être influencées bien plus...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Claude Code, OpenClaw, Doubao: des sites contrefaits installent des malwares très efficaces",
-      "link": "https://www.macg.co/intelligence-artificielle/2026/03/claude-code-openclaw-doubao-des-sites-contrefaits-installent-des-malwares-tres-efficaces-307499",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/03/claude-code-openclaw-doubao-des-sites-contrefaits-installent-des-malwares-tres-efficaces-307499",
-      "publishedAt": "2026-03-18T22:10:38.000Z",
-      "date": "2026-03-18T22:10:38.000Z",
-      "description": "iOS, iPadOS, watchOS, macOS: une release candidate pour tous les OS 26.4... ChatGPT: le mode adulte d'OpenAI retardé par des questions de sécurité.",
-      "excerpt": "iOS, iPadOS, watchOS, macOS: une release candidate pour tous les OS 26.4... ChatGPT: le mode adulte d'OpenAI retardé par des questions de sécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
