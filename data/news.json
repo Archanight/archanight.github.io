@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T18:46:46.021Z",
+  "generatedAt": "2026-03-19T01:19:55.692Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Claude Code, OpenClaw, Doubao: des sites contrefaits installent des malwares très efficaces",
+      "link": "https://www.macg.co/intelligence-artificielle/2026/03/claude-code-openclaw-doubao-des-sites-contrefaits-installent-des-malwares-tres-efficaces-307499",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/03/claude-code-openclaw-doubao-des-sites-contrefaits-installent-des-malwares-tres-efficaces-307499",
+      "publishedAt": "2026-03-18T22:10:38.000Z",
+      "date": "2026-03-18T22:10:38.000Z",
+      "description": "... cybersécurité de Kaspersky sont bien plus vicieux et touchent Claude... ChatGPT: le mode adulte d'OpenAI retardé par des questions de sécurité.",
+      "excerpt": "... cybersécurité de Kaspersky sont bien plus vicieux et touchent Claude... ChatGPT: le mode adulte d'OpenAI retardé par des questions de sécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI lance GPT-5.4 mini et nano: des performances quasi-haut de gamme à un coût...",
       "link": "https://www.zdnet.fr/actualites/openai-lance-gpt-5-4-mini-et-nano-des-performances-quasi-haut-de-gamme-a-un-cout-bien-moindre-492026.htm",
@@ -118,16 +128,6 @@
       "description": "Plus de deux fois plus rapide que GPT-5 Mini, il s'approche des performances du grand GPT-5.4 sur plusieurs benchmarks majeurs, tout en étant facturé...",
       "excerpt": "Plus de deux fois plus rapide que GPT-5 Mini, il s'approche des performances du grand GPT-5.4 sur plusieurs benchmarks majeurs, tout en étant facturé...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.4 mini et nano, deux fois plus rapides, trois à quatre fois plus onéreux - IT SOCIAL",
-      "link": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/gpt-5-4-mini-et-nano-deux-fois-plus-rapides-trois-a-quatre-fois-plus-onereux-que-leurs-predecesseurs/",
-      "url": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/gpt-5-4-mini-et-nano-deux-fois-plus-rapides-trois-a-quatre-fois-plus-onereux-que-leurs-predecesseurs/",
-      "publishedAt": "2026-03-18T15:03:42.000Z",
-      "date": "2026-03-18T15:03:42.000Z",
-      "description": "... release produit classique. Pour les équipes IT qui suivent l'évolution... GPT-5 mini et 57,7 % pour GPT-5.4. Sur OSWorld-Verified, qui...",
-      "excerpt": "... release produit classique. Pour les équipes IT qui suivent l'évolution... GPT-5 mini et 57,7 % pour GPT-5.4. Sur OSWorld-Verified, qui...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
