@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T18:43:10.920Z",
+  "generatedAt": "2026-03-20T01:15:41.813Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI va fusionner ChatGPT, l'application Codex et son navigateur pour rationaliser ses ressources",
+      "link": "https://www.zonebourse.com/actualite-bourse/openai-va-fusionner-chatgpt-l-application-codex-et-son-navigateur-pour-rationaliser-ses-ressources-ce7e5eded08eff25",
+      "url": "https://www.zonebourse.com/actualite-bourse/openai-va-fusionner-chatgpt-l-application-codex-et-son-navigateur-pour-rationaliser-ses-ressources-ce7e5eded08eff25",
+      "publishedAt": "2026-03-19T22:42:56.000Z",
+      "date": "2026-03-19T22:42:56.000Z",
+      "description": "OpenAI va fusionner ChatGPT, l'application Codex et son navigateur pour... cybersécurité avancées basées sur l'IA agentique. 4h CI. Plus d...",
+      "excerpt": "OpenAI va fusionner ChatGPT, l'application Codex et son navigateur pour... cybersécurité avancées basées sur l'IA agentique. 4h CI. Plus d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Mistral, rival français de ChatGPT, enchaîne trois annonces majeures et vise le milliard",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/mistral-rival-francais-de-chatgpt-enchaine-trois-annonces-majeures-et-vise-le-milliard-n253219.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/mistral-rival-francais-de-chatgpt-enchaine-trois-annonces-majeures-et-vise-le-milliard-n253219.html",
+      "publishedAt": "2026-03-19T20:46:54.000Z",
+      "date": "2026-03-19T20:46:54.000Z",
+      "description": "Forge, Small 4, coalition NVIDIA: en 48 heures à la GTC, Mistral a posé les bases de son offensive enterprise face à ChatGPT.... phishing. il y...",
+      "excerpt": "Forge, Small 4, coalition NVIDIA: en 48 heures à la GTC, Mistral a posé les bases de son offensive enterprise face à ChatGPT.... phishing. il y...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
+      "title": "IA en France: 5 millions de salariés sont menacés, le début de la fin? - Les Numériques",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/ia-en-france-les-emplois-de-5-millions-de-salaries-menaces-le-debut-de-la-fin-n253263.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/ia-en-france-les-emplois-de-5-millions-de-salaries-menaces-le-debut-de-la-fin-n253263.html",
+      "publishedAt": "2026-03-19T18:32:29.000Z",
+      "date": "2026-03-19T18:32:29.000Z",
+      "description": "ChatGPT est le chatbot d'OpenAI, basé sur le modèle d'intelligence artificielle GPT, permettant de répondre à toutes sortes de questions ou requêtes.",
+      "excerpt": "ChatGPT est le chatbot d'OpenAI, basé sur le modèle d'intelligence artificielle GPT, permettant de répondre à toutes sortes de questions ou requêtes.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Remplacée par une IA, cette femme s'est reconvertie et gagne mieux sa vie - Mediavenir",
       "link": "https://www.mediavenir.fr/remplacee-par-une-ia-cette-femme-sest-reconvertie-et-gagne-mieux-sa-vie-voici-son-nouveau-metier/",
@@ -25,9 +55,9 @@
       "url": "https://korben.info/chatgpt-leur-a-coute-200-000-dollars-ils-ont-cree-leur-propre-ia-pour-corriger-le-tir.html",
       "publishedAt": "2026-03-19T15:47:13.000Z",
       "date": "2026-03-19T15:47:13.000Z",
-      "description": "Une erreur qui a fait très mal · Comment ça fonctionne · Pas pour tout le monde · Articles récents · Les métiers de la Cybersécurité et de l'Intelligence...",
-      "excerpt": "Une erreur qui a fait très mal · Comment ça fonctionne · Pas pour tout le monde · Articles récents · Les métiers de la Cybersécurité et de l'Intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "description": "Une startup spécialisée dans le dessalement de l'eau a perdu 200 000 dollars et quatre mois de recherche après avoir fait confiance à ChatGPT et...",
+      "excerpt": "Une startup spécialisée dans le dessalement de l'eau a perdu 200 000 dollars et quatre mois de recherche après avoir fait confiance à ChatGPT et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "ZipRecruiter Inc lance une application ChatGPT pour une recherche d'emploi propulsée par l'IA",
@@ -37,6 +67,16 @@
       "date": "2026-03-19T14:40:44.000Z",
       "description": "Cybersécurité · Les Family Business · Notations Techniques · Actions... ZipRecruiter Inc lance une application ChatGPT pour une recherche d'emploi...",
       "excerpt": "Cybersécurité · Les Family Business · Notations Techniques · Actions... ZipRecruiter Inc lance une application ChatGPT pour une recherche d'emploi...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Arrêtez de faire ça sur ChatGPT # cybersécurité #tech #important - YouTube",
+      "link": "https://www.youtube.com/shorts/76x1Mjt87cE",
+      "url": "https://www.youtube.com/shorts/76x1Mjt87cE",
+      "publishedAt": "2026-03-19T14:03:42.000Z",
+      "date": "2026-03-19T14:03:42.000Z",
+      "description": "... 't play this video. Learn more · @smarttech-secrets. Subscribe. Arrêtez de faire ça sur ChatGPT # cybersécurité #tech #important. Like. Dislike.",
+      "excerpt": "... 't play this video. Learn more · @smarttech-secrets. Subscribe. Arrêtez de faire ça sur ChatGPT # cybersécurité #tech #important. Like. Dislike.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -87,46 +127,6 @@
       "date": "2026-03-19T10:23:58.000Z",
       "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... Il suffit d'utiliser ChatGPT 4 mois pour voir un effet néfaste sur le...",
       "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... Il suffit d'utiliser ChatGPT 4 mois pour voir un effet néfaste sur le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Londres renonce (pour l'instant) à assouplir le droit d'auteur en faveur de l'industrie IA",
-      "link": "https://www.01net.com/actualites/londres-renonce-pour-linstant-a-assouplir-le-droit-dauteur-en-faveur-de-lindustrie-ia.html",
-      "url": "https://www.01net.com/actualites/londres-renonce-pour-linstant-a-assouplir-le-droit-dauteur-en-faveur-de-lindustrie-ia.html",
-      "publishedAt": "2026-03-19T10:16:31.000Z",
-      "date": "2026-03-19T10:16:31.000Z",
-      "description": "Chatgpt © Berke Citak (Unsplash). Les entreprises IA ne pourront pas, pour l'instant, entraîner leurs modèles avec les œuvres des artistes anglais...",
-      "excerpt": "Chatgpt © Berke Citak (Unsplash). Les entreprises IA ne pourront pas, pour l'instant, entraîner leurs modèles avec les œuvres des artistes anglais...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT: la version gratuite passe à GPT-5.4 mini, voici ce que ça change - 01net.com",
-      "link": "https://www.01net.com/actualites/chatgpt-version-gratuite-passe-gpt-5-4-mini-voici-ce-que-ca-change.html",
-      "url": "https://www.01net.com/actualites/chatgpt-version-gratuite-passe-gpt-5-4-mini-voici-ce-que-ca-change.html",
-      "publishedAt": "2026-03-19T10:08:31.000Z",
-      "date": "2026-03-19T10:08:31.000Z",
-      "description": "ChatGPT: la... En programmation, il affiche un taux de réussite de 53,40 % sur SWE-bench Pro, là où le modèle GPT-5 mini plafonnait à 45,69 %.",
-      "excerpt": "ChatGPT: la... En programmation, il affiche un taux de réussite de 53,40 % sur SWE-bench Pro, là où le modèle GPT-5 mini plafonnait à 45,69 %.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "des robots-chiens à 300 000 $ patrouillent désormais dans les data centers qui entraînent nos IA",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/un-frisson-dystopique-des-robots-chiens-surveillent-jour-et-nuit-les-serveurs-qui-entrainent-nos-ia-n253237.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/un-frisson-dystopique-des-robots-chiens-surveillent-jour-et-nuit-les-serveurs-qui-entrainent-nos-ia-n253237.html",
-      "publishedAt": "2026-03-19T09:52:59.000Z",
-      "date": "2026-03-19T09:52:59.000Z",
-      "description": "Les data centers qui font tourner ChatGPT, Gemini ou Claude ne ressemblent plus à de simples hangars climatisés.... Les Nums, l' Update.",
-      "excerpt": "Les data centers qui font tourner ChatGPT, Gemini ou Claude ne ressemblent plus à de simples hangars climatisés.... Les Nums, l' Update.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Openclaw, la folie vers l'IA autonome, par Léa Bénaim - 19/03: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/economie/culture-ia-openclaw-la-folie-vers-l-ia-autonome-par-lea-benaim-19-03-CNT000002nVDzR.html",
-      "url": "https://actu.orange.fr/videos/economie/culture-ia-openclaw-la-folie-vers-l-ia-autonome-par-lea-benaim-19-03-CNT000002nVDzR.html",
-      "publishedAt": "2026-03-19T07:15:18.000Z",
-      "date": "2026-03-19T07:15:18.000Z",
-      "description": "Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et... Culture IA: Gemini 3, plus fort que ChatGPT?, par Anthony Morel - 19/11.",
-      "excerpt": "Cybersécurité et Télésurveillance. Samsung Galaxy S26. Conseils et... Culture IA: Gemini 3, plus fort que ChatGPT?, par Anthony Morel - 19/11.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
