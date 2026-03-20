@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T12:37:09.028Z",
+  "generatedAt": "2026-03-20T18:34:58.621Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "1minAI à 29 € à vie: GPT‑4o, Claude, Gemini et 20+ modèles IA en une seule app - Clubic",
+      "link": "https://www.clubic.com/bons-plans-605380-chatgpt-claude-gemini-dans-une-seule-app-a-29-voici-l-offre-a-vie-qui-fait-mal-aux-abonnements-ia.html",
+      "url": "https://www.clubic.com/bons-plans-605380-chatgpt-claude-gemini-dans-une-seule-app-a-29-voici-l-offre-a-vie-qui-fait-mal-aux-abonnements-ia.html",
+      "publishedAt": "2026-03-20T17:05:19.000Z",
+      "date": "2026-03-20T17:05:19.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT, Claude, Gemini dans une seule app à 29 €: voici l'offre à vie...",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT, Claude, Gemini dans une seule app à 29 €: voici l'offre à vie...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Tutoriel: comment installer OpenClaw, l'IA autonome qui va remplacer ChatGPT",
+      "link": "https://www.lebigdata.fr/tutoriel-comment-installer-openclaw-lia-autonome-qui-va-remplacer-chatgpt",
+      "url": "https://www.lebigdata.fr/tutoriel-comment-installer-openclaw-lia-autonome-qui-va-remplacer-chatgpt",
+      "publishedAt": "2026-03-20T16:23:43.000Z",
+      "date": "2026-03-20T16:23:43.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Considéré par de nombreux experts comme la plus grande révolution depuis ChatGPT...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Considéré par de nombreux experts comme la plus grande révolution depuis ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI prépare une \"super app\" pour tout centraliser sur ordinateur - Siècle Digital",
+      "link": "https://siecledigital.fr/2026/03/20/openai-prepare-une-super-app-pour-tout-centraliser-sur-ordinateur/",
+      "url": "https://siecledigital.fr/2026/03/20/openai-prepare-une-super-app-pour-tout-centraliser-sur-ordinateur/",
+      "publishedAt": "2026-03-20T13:47:09.000Z",
+      "date": "2026-03-20T13:47:09.000Z",
+      "description": "... Cybersécurité... Parmi eux, on retrouverait bien évidemment ChatGPT, mais aussi l'outil de génération de code Codex, ainsi que ChatGPT Atlas, son...",
+      "excerpt": "... Cybersécurité... Parmi eux, on retrouverait bien évidemment ChatGPT, mais aussi l'outil de génération de code Codex, ainsi que ChatGPT Atlas, son...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Dans les data-centers même les agents de sécurité sont remplacés par l'IA",
+      "link": "https://www.journaldugeek.com/2026/03/19/data-center-agent-de-securite-ia/",
+      "url": "https://www.journaldugeek.com/2026/03/19/data-center-agent-de-securite-ia/",
+      "publishedAt": "2026-03-20T12:49:04.000Z",
+      "date": "2026-03-20T12:49:04.000Z",
+      "description": "Car pour faire tourner ChatGPT et lui permettre de répondre à tous... Cybersécurité: si vous avez un vieil iPhone, il faut le mettre à jour...",
+      "excerpt": "Car pour faire tourner ChatGPT et lui permettre de répondre à tous... Cybersécurité: si vous avez un vieil iPhone, il faut le mettre à jour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Après Perplexity, l'Encyclopaedia Britannica poursuit OpenAI en justice, elle l'accuse d'avoir...",
       "link": "https://www.bfmtv.com/tech/intelligence-artificielle/apres-perplexity-l-encyclopaedia-britannica-poursuit-open-ai-en-justice-elle-l-accuse-d-avoir-pille-ses-contenus-et-de-mettre-en-peril-sa-perennite-economique_AV-202603200449.html",
@@ -88,46 +128,6 @@
       "description": "Forge, Small 4, coalition NVIDIA: en 48 heures à la GTC, Mistral a posé les bases de son offensive enterprise face à ChatGPT.... phishing. il y...",
       "excerpt": "Forge, Small 4, coalition NVIDIA: en 48 heures à la GTC, Mistral a posé les bases de son offensive enterprise face à ChatGPT.... phishing. il y...",
       "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "IA en France: 5 millions de salariés sont menacés, le début de la fin? - Les Numériques",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/ia-en-france-les-emplois-de-5-millions-de-salaries-menaces-le-debut-de-la-fin-n253263.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/ia-en-france-les-emplois-de-5-millions-de-salaries-menaces-le-debut-de-la-fin-n253263.html",
-      "publishedAt": "2026-03-19T18:32:29.000Z",
-      "date": "2026-03-19T18:32:29.000Z",
-      "description": "ChatGPT est le chatbot d'OpenAI, basé sur le modèle d'intelligence artificielle GPT, permettant de répondre à toutes sortes de questions ou requêtes.",
-      "excerpt": "ChatGPT est le chatbot d'OpenAI, basé sur le modèle d'intelligence artificielle GPT, permettant de répondre à toutes sortes de questions ou requêtes.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Remplacée par une IA, cette femme s'est reconvertie et gagne mieux sa vie - Mediavenir",
-      "link": "https://www.mediavenir.fr/remplacee-par-une-ia-cette-femme-sest-reconvertie-et-gagne-mieux-sa-vie-voici-son-nouveau-metier/",
-      "url": "https://www.mediavenir.fr/remplacee-par-une-ia-cette-femme-sest-reconvertie-et-gagne-mieux-sa-vie-voici-son-nouveau-metier/",
-      "publishedAt": "2026-03-19T17:22:51.000Z",
-      "date": "2026-03-19T17:22:51.000Z",
-      "description": "Quand ChatGPT s'impose en France en 2023, la logique de réduction des... cybersécurité chez Nexa pour se former vite. 16 mars 2026. Quand la...",
-      "excerpt": "Quand ChatGPT s'impose en France en 2023, la logique de réduction des... cybersécurité chez Nexa pour se former vite. 16 mars 2026. Quand la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT leur a coûté 200 000 dollars, ils ont créé leur propre IA pour corriger le tir - Korben",
-      "link": "https://korben.info/chatgpt-leur-a-coute-200-000-dollars-ils-ont-cree-leur-propre-ia-pour-corriger-le-tir.html",
-      "url": "https://korben.info/chatgpt-leur-a-coute-200-000-dollars-ils-ont-cree-leur-propre-ia-pour-corriger-le-tir.html",
-      "publishedAt": "2026-03-19T15:47:13.000Z",
-      "date": "2026-03-19T15:47:13.000Z",
-      "description": "Une startup spécialisée dans le dessalement de l'eau a perdu 200 000 dollars et quatre mois de recherche après avoir fait confiance à ChatGPT et...",
-      "excerpt": "Une startup spécialisée dans le dessalement de l'eau a perdu 200 000 dollars et quatre mois de recherche après avoir fait confiance à ChatGPT et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ZipRecruiter Inc lance une application ChatGPT pour une recherche d'emploi propulsée par l'IA",
-      "link": "https://www.zonebourse.com/actualite-bourse/ziprecruiter-inc-lance-une-application-chatgpt-pour-une-recherche-d-emploi-propulsee-par-l-ia-ce7e5ededc8ff423",
-      "url": "https://www.zonebourse.com/actualite-bourse/ziprecruiter-inc-lance-une-application-chatgpt-pour-une-recherche-d-emploi-propulsee-par-l-ia-ce7e5ededc8ff423",
-      "publishedAt": "2026-03-19T14:40:44.000Z",
-      "date": "2026-03-19T14:40:44.000Z",
-      "description": "Cybersécurité · Les Family Business · Notations Techniques · Actions... ZipRecruiter Inc lance une application ChatGPT pour une recherche d'emploi...",
-      "excerpt": "Cybersécurité · Les Family Business · Notations Techniques · Actions... ZipRecruiter Inc lance une application ChatGPT pour une recherche d'emploi...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
