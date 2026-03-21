@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T06:32:01.635Z",
+  "generatedAt": "2026-03-21T12:28:43.049Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "L'ère de l'IA libre touche à sa fin. - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/ky-nguyen-ai-mien-phi-dan-khep-lai",
+      "url": "https://www.vietnam.vn/fr/ky-nguyen-ai-mien-phi-dan-khep-lai",
+      "publishedAt": "2026-03-21T09:00:33.000Z",
+      "date": "2026-03-21T09:00:33.000Z",
+      "description": "ChatGPT a commencé à afficher des publicités aux utilisateurs gratuits.... cybersécurité en 2026.",
+      "excerpt": "ChatGPT a commencé à afficher des publicités aux utilisateurs gratuits.... cybersécurité en 2026.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Google procède à un remaniement de son équipe IA et retire du personnel du projet de...",
       "link": "https://intelligence-artificielle.developpez.com/actu/381383/Google-procede-a-un-remaniement-de-son-equipe-IA-et-retire-du-personnel-du-projet-de-navigateur-IA-Mariner-en-raison-de-la-nouvelle-obsession-de-Jensen-Huang-PDG-de-Nvidia-pour-l-agent-IA-OpenClaw/?amp",
@@ -117,16 +127,6 @@
       "date": "2026-03-20T07:18:41.000Z",
       "description": "La compatibilité annoncée couvre Claude Code, ChatGPT, Cursor et GitHub... cybersécurité informatique | automatisation des processus | internet 5G |...",
       "excerpt": "La compatibilité annoncée couvre Claude Code, ChatGPT, Cursor et GitHub... cybersécurité informatique | automatisation des processus | internet 5G |...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ils ont donné GPT-5.4 mini à la version gratuite et il fait des trucs que même les... - Le Cri du Troll",
-      "link": "https://www.cridutroll.fr/ils-ont-donne-gpt-5-4-mini-a-la-version-gratuite-et-il-fait-des-trucs-que-meme-les-versions-payantes-davant-narrivaient-pas-a-faire/",
-      "url": "https://www.cridutroll.fr/ils-ont-donne-gpt-5-4-mini-a-la-version-gratuite-et-il-fait-des-trucs-que-meme-les-versions-payantes-davant-narrivaient-pas-a-faire/",
-      "publishedAt": "2026-03-20T07:11:57.000Z",
-      "date": "2026-03-20T07:11:57.000Z",
-      "description": "OpenAI accélère le rythme en intégrant GPT-5.4 mini directement dans la version gratuite de ChatGPT... GPT-5 mini. Avec une fenêtre de contexte...",
-      "excerpt": "OpenAI accélère le rythme en intégrant GPT-5.4 mini directement dans la version gratuite de ChatGPT... GPT-5 mini. Avec une fenêtre de contexte...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
