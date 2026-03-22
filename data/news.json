@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T18:23:29.680Z",
+  "generatedAt": "2026-03-22T01:19:37.731Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT va diffuser des publicités à l'ensemble de ses utilisateurs gratuits dans les...",
+      "link": "https://www.zonebourse.com/actualite-bourse/chatgpt-va-diffuser-des-publicites-a-l-ensemble-de-ses-utilisateurs-gratuits-dans-les-prochaines-sem-ce7e5edcd88df227",
+      "url": "https://www.zonebourse.com/actualite-bourse/chatgpt-va-diffuser-des-publicites-a-l-ensemble-de-ses-utilisateurs-gratuits-dans-les-prochaines-sem-ce7e5edcd88df227",
+      "publishedAt": "2026-03-21T22:06:56.000Z",
+      "date": "2026-03-21T22:06:56.000Z",
+      "description": "ChatGPT s'apprête à afficher des annonces publicitaires à tous... Cybersécurité · Semi-conducteurs · La petite Reine · L'innovation Israélienne...",
+      "excerpt": "ChatGPT s'apprête à afficher des annonces publicitaires à tous... Cybersécurité · Semi-conducteurs · La petite Reine · L'innovation Israélienne...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI va étendre la publicité sur ChatGPT à l'ensemble des utilisateurs gratuits et \"low...",
       "link": "https://ch.zonebourse.com/actualite-bourse/openai-va-etendre-la-publicite-sur-chatgpt-a-l-ensemble-des-utilisateurs-gratuits-et-low-cost-sel-ce7e5edcd88df120",
@@ -117,16 +127,6 @@
       "date": "2026-03-20T12:49:04.000Z",
       "description": "Car pour faire tourner ChatGPT et lui permettre de répondre à tous... Cybersécurité: si vous avez un vieil iPhone, il faut le mettre à jour...",
       "excerpt": "Car pour faire tourner ChatGPT et lui permettre de répondre à tous... Cybersécurité: si vous avez un vieil iPhone, il faut le mettre à jour...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Après Perplexity, l'Encyclopaedia Britannica poursuit OpenAI en justice, elle l'accuse d'avoir...",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/apres-perplexity-l-encyclopaedia-britannica-poursuit-open-ai-en-justice-elle-l-accuse-d-avoir-pille-ses-contenus-et-de-mettre-en-peril-sa-perennite-economique_AV-202603200449.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/apres-perplexity-l-encyclopaedia-britannica-poursuit-open-ai-en-justice-elle-l-accuse-d-avoir-pille-ses-contenus-et-de-mettre-en-peril-sa-perennite-economique_AV-202603200449.html",
-      "publishedAt": "2026-03-20T10:59:06.000Z",
-      "date": "2026-03-20T10:59:06.000Z",
-      "description": "Cybersécurité... Comme Perplexity, contre laquelle elle a également déposé plainte, Encyclopaedia Britannica reproche au gestionnaire de ChatGPT...",
-      "excerpt": "Cybersécurité... Comme Perplexity, contre laquelle elle a également déposé plainte, Encyclopaedia Britannica reproche au gestionnaire de ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
