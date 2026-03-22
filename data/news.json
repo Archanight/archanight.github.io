@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-22T12:30:36.945Z",
+  "generatedAt": "2026-03-22T18:24:30.297Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Cette nouveauté est 100% IA #shorts: Actualités - Orange",
+      "link": "https://actu.orange.fr/videos/high-tech/cette-nouveaute-est-100-ia-shorts-CNT000002nYAkz.html",
+      "url": "https://actu.orange.fr/videos/high-tech/cette-nouveaute-est-100-ia-shorts-CNT000002nYAkz.html",
+      "publishedAt": "2026-03-22T16:04:48.000Z",
+      "date": "2026-03-22T16:04:48.000Z",
+      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics...",
+      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Week-end: des idées de sortie originales en discutant avec votre smartphone | Android MT",
       "link": "https://android-mt.ouest-france.fr/news/android/week-end-des-idees-de-sortie-originales-en-discutant-avec-votre-smartphone/197746/",
@@ -118,16 +128,6 @@
       "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT, Claude, Gemini dans une seule app à 29 €: voici l'offre à vie...",
       "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT, Claude, Gemini dans une seule app à 29 €: voici l'offre à vie...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.4 mini et nano, une super application de bureau et une introduction en bourse à l'horizon",
-      "link": "https://xpert.digital/fr/openai-restructure-son-empire/?amp=1",
-      "url": "https://xpert.digital/fr/openai-restructure-son-empire/?amp=1",
-      "publishedAt": "2026-03-20T16:49:29.000Z",
-      "date": "2026-03-20T16:49:29.000Z",
-      "description": "ChatGPT, navigateur et Codex réunis: voici ce qui se cache... OpenAI's ChatGPT -Pläne für GPT-5: Integration von Tools und Update des Operator.",
-      "excerpt": "ChatGPT, navigateur et Codex réunis: voici ce qui se cache... OpenAI's ChatGPT -Pläne für GPT-5: Integration von Tools und Update des Operator.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
