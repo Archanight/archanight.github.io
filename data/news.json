@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-22T06:39:22.590Z",
+  "generatedAt": "2026-03-22T12:30:36.945Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Week-end: des idées de sortie originales en discutant avec votre smartphone | Android MT",
+      "link": "https://android-mt.ouest-france.fr/news/android/week-end-des-idees-de-sortie-originales-en-discutant-avec-votre-smartphone/197746/",
+      "url": "https://android-mt.ouest-france.fr/news/android/week-end-des-idees-de-sortie-originales-en-discutant-avec-votre-smartphone/197746/",
+      "publishedAt": "2026-03-22T08:25:44.000Z",
+      "date": "2026-03-22T08:25:44.000Z",
+      "description": "Parler à son smartphone fait déjà partie du quotidien, et cela ne date pas de l'arrivée de ChatGPT, Gemini ou des autres IA conversationnelles.",
+      "excerpt": "Parler à son smartphone fait déjà partie du quotidien, et cela ne date pas de l'arrivée de ChatGPT, Gemini ou des autres IA conversationnelles.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Olivier Sibony: « Jusqu'où l'IA doit-elle décider à notre place? » | Pour la Science",
+      "link": "https://www.pourlascience.fr/sr/livres/olivier-sibony-jusqu-ou-l-ia-doit-elle-decider-a-notre-place-28986.php",
+      "url": "https://www.pourlascience.fr/sr/livres/olivier-sibony-jusqu-ou-l-ia-doit-elle-decider-a-notre-place-28986.php",
+      "publishedAt": "2026-03-22T06:41:03.000Z",
+      "date": "2026-03-22T06:41:03.000Z",
+      "description": "En cybersécurité, ils repèrent et bloquent instantanément les communications malveillantes.... ChatGPT. Ces dernières interpolent à partir de...",
+      "excerpt": "En cybersécurité, ils repèrent et bloquent instantanément les communications malveillantes.... ChatGPT. Ces dernières interpolent à partir de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI va introduire de la publicité pour tous les utilisateurs de ChatGPT Free et Go aux États-Unis",
       "link": "https://www.zonebourse.com/actualite-bourse/openai-va-introduire-de-la-publicite-pour-tous-les-utilisateurs-de-chatgpt-free-et-go-aux-etats-unis-ce7e5edcd88cf525",
@@ -108,26 +128,6 @@
       "description": "ChatGPT, navigateur et Codex réunis: voici ce qui se cache... OpenAI's ChatGPT -Pläne für GPT-5: Integration von Tools und Update des Operator.",
       "excerpt": "ChatGPT, navigateur et Codex réunis: voici ce qui se cache... OpenAI's ChatGPT -Pläne für GPT-5: Integration von Tools und Update des Operator.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Tutoriel: comment installer OpenClaw, l'IA autonome qui va remplacer ChatGPT",
-      "link": "https://www.lebigdata.fr/tutoriel-comment-installer-openclaw-lia-autonome-qui-va-remplacer-chatgpt",
-      "url": "https://www.lebigdata.fr/tutoriel-comment-installer-openclaw-lia-autonome-qui-va-remplacer-chatgpt",
-      "publishedAt": "2026-03-20T16:23:43.000Z",
-      "date": "2026-03-20T16:23:43.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Considéré par de nombreux experts comme la plus grande révolution depuis ChatGPT...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Considéré par de nombreux experts comme la plus grande révolution depuis ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI prépare une \"super app\" pour tout centraliser sur ordinateur - Siècle Digital",
-      "link": "https://siecledigital.fr/2026/03/20/openai-prepare-une-super-app-pour-tout-centraliser-sur-ordinateur/",
-      "url": "https://siecledigital.fr/2026/03/20/openai-prepare-une-super-app-pour-tout-centraliser-sur-ordinateur/",
-      "publishedAt": "2026-03-20T13:47:09.000Z",
-      "date": "2026-03-20T13:47:09.000Z",
-      "description": "... Cybersécurité... Parmi eux, on retrouverait bien évidemment ChatGPT, mais aussi l'outil de génération de code Codex, ainsi que ChatGPT Atlas, son...",
-      "excerpt": "... Cybersécurité... Parmi eux, on retrouverait bien évidemment ChatGPT, mais aussi l'outil de génération de code Codex, ainsi que ChatGPT Atlas, son...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
