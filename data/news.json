@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-22T01:19:37.731Z",
+  "generatedAt": "2026-03-22T06:39:22.590Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI va introduire de la publicité pour tous les utilisateurs de ChatGPT Free et Go aux États-Unis",
+      "link": "https://www.zonebourse.com/actualite-bourse/openai-va-introduire-de-la-publicite-pour-tous-les-utilisateurs-de-chatgpt-free-et-go-aux-etats-unis-ce7e5edcd88cf525",
+      "url": "https://www.zonebourse.com/actualite-bourse/openai-va-introduire-de-la-publicite-pour-tous-les-utilisateurs-de-chatgpt-free-et-go-aux-etats-unis-ce7e5edcd88cf525",
+      "publishedAt": "2026-03-22T05:28:35.000Z",
+      "date": "2026-03-22T05:28:35.000Z",
+      "description": "OpenAI commencera à diffuser des annonces publicitaires à l'ensemble des utilisateurs des versions gratuite et Go de ChatGPT aux États-Unis dans...",
+      "excerpt": "OpenAI commencera à diffuser des annonces publicitaires à l'ensemble des utilisateurs des versions gratuite et Go de ChatGPT aux États-Unis dans...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT va diffuser des publicités à l'ensemble de ses utilisateurs gratuits dans les...",
       "link": "https://www.zonebourse.com/actualite-bourse/chatgpt-va-diffuser-des-publicites-a-l-ensemble-de-ses-utilisateurs-gratuits-dans-les-prochaines-sem-ce7e5edcd88df227",
@@ -117,16 +127,6 @@
       "date": "2026-03-20T13:47:09.000Z",
       "description": "... Cybersécurité... Parmi eux, on retrouverait bien évidemment ChatGPT, mais aussi l'outil de génération de code Codex, ainsi que ChatGPT Atlas, son...",
       "excerpt": "... Cybersécurité... Parmi eux, on retrouverait bien évidemment ChatGPT, mais aussi l'outil de génération de code Codex, ainsi que ChatGPT Atlas, son...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Dans les data-centers même les agents de sécurité sont remplacés par l'IA",
-      "link": "https://www.journaldugeek.com/2026/03/19/data-center-agent-de-securite-ia/",
-      "url": "https://www.journaldugeek.com/2026/03/19/data-center-agent-de-securite-ia/",
-      "publishedAt": "2026-03-20T12:49:04.000Z",
-      "date": "2026-03-20T12:49:04.000Z",
-      "description": "Car pour faire tourner ChatGPT et lui permettre de répondre à tous... Cybersécurité: si vous avez un vieil iPhone, il faut le mettre à jour...",
-      "excerpt": "Car pour faire tourner ChatGPT et lui permettre de répondre à tous... Cybersécurité: si vous avez un vieil iPhone, il faut le mettre à jour...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
