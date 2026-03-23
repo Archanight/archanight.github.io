@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T12:43:27.472Z",
+  "generatedAt": "2026-03-23T18:40:46.354Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,76 @@
   "failedSources": [],
   "items": [
     {
+      "title": "OpenAI, Anthropic et Perplexity livrent bataille sur la santé - Silicon.fr",
+      "link": "https://www.silicon.fr/data-ia-1372/openai-anthropic-perplexity-sante-226374",
+      "url": "https://www.silicon.fr/data-ia-1372/openai-anthropic-perplexity-sante-226374",
+      "publishedAt": "2026-03-23T17:57:10.000Z",
+      "date": "2026-03-23T17:57:10.000Z",
+      "description": "OpenAI a aussi sa déclinaison de ChatGPT Enterprise « spécial santé »: ChatGPT Healthcare.... cybersécurité. Actualités · Dossiers · Fiches...",
+      "excerpt": "OpenAI a aussi sa déclinaison de ChatGPT Enterprise « spécial santé »: ChatGPT Healthcare.... cybersécurité. Actualités · Dossiers · Fiches...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Jailbreak IA 2026: Grok, Claude, Gemini, ChatGPT et DeepSeek - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/jailbreak-ia-2026-les-techniques-les-plus-efficaces-sur-grok-claude-gemini-chatgpt-et-deepseek",
+      "url": "https://www.lebigdata.fr/jailbreak-ia-2026-les-techniques-les-plus-efficaces-sur-grok-claude-gemini-chatgpt-et-deepseek",
+      "publishedAt": "2026-03-23T14:52:35.000Z",
+      "date": "2026-03-23T14:52:35.000Z",
+      "description": "Les chercheurs en cybersécurité notent que l'alignement de Grok... ChatGPT o1 ( GPT-5 ), 14%, Très Élevé, Token Smuggling / EchoChamber. Claude...",
+      "excerpt": "Les chercheurs en cybersécurité notent que l'alignement de Grok... ChatGPT o1 ( GPT-5 ), 14%, Très Élevé, Token Smuggling / EchoChamber. Claude...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La « super-application » dont parle OpenAI pourrait enfin résoudre l'un de mes principaux...",
+      "link": "https://www.zdnet.fr/actualites/la-super-application-dont-parle-openai-pourrait-enfin-resoudre-lun-de-mes-principaux-problemes-avec-chatgpt-492387.htm",
+      "url": "https://www.zdnet.fr/actualites/la-super-application-dont-parle-openai-pourrait-enfin-resoudre-lun-de-mes-principaux-problemes-avec-chatgpt-492387.htm",
+      "publishedAt": "2026-03-23T14:17:49.000Z",
+      "date": "2026-03-23T14:17:49.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT, son outil de codage Codex et son navigateur Atlas en une seule...",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT, son outil de codage Codex et son navigateur Atlas en une seule...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Alors que l'IA bouscule le marché de l'emploi, OpenAI va recruter des milliers de personnes",
+      "link": "https://www.01net.com/actualites/ia-detruit-emplois-openai-recruter-milliers-personnes.html",
+      "url": "https://www.01net.com/actualites/ia-detruit-emplois-openai-recruter-milliers-personnes.html",
+      "publishedAt": "2026-03-23T13:46:16.000Z",
+      "date": "2026-03-23T13:46:16.000Z",
+      "description": "... ChatGPT puisse tenir tête à Claude d'Anthropic... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences · Tests.",
+      "excerpt": "... ChatGPT puisse tenir tête à Claude d'Anthropic... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences · Tests.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI va commencer à diffuser des publicités auprès de tous les utilisateurs US des...",
+      "link": "https://intelligence-artificielle.developpez.com/actu/381398/OpenAI-va-commencer-a-diffuser-des-publicites-aupres-de-tous-les-utilisateurs-US-des-versions-gratuite-et-Go-de-ChatGPT-en-collaboration-avec-l-agence-de-publicite-intrusive-Criteo/",
+      "url": "https://intelligence-artificielle.developpez.com/actu/381398/OpenAI-va-commencer-a-diffuser-des-publicites-aupres-de-tous-les-utilisateurs-US-des-versions-gratuite-et-Go-de-ChatGPT-en-collaboration-avec-l-agence-de-publicite-intrusive-Criteo/",
+      "publishedAt": "2026-03-23T13:34:52.000Z",
+      "date": "2026-03-23T13:34:52.000Z",
+      "description": "ChatGPT Go s'adresse aux personnes qui souhaitent avoir un meilleur accès au modèle rapide GPT 5.2 Instant d'OpenAI, offrant des limites 10 fois plus...",
+      "excerpt": "ChatGPT Go s'adresse aux personnes qui souhaitent avoir un meilleur accès au modèle rapide GPT 5.2 Instant d'OpenAI, offrant des limites 10 fois plus...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment OpenAI s'appuie sur le français Criteo pour afficher des publicités à tous les...",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/comment-openai-sappuie-sur-le-francais-criteo-pour-afficher-des-publicites-a-tous-les-utilisateurs-des-versions-gratuites-et-go-de-chatgpt-aux-etats-unis.3CIO4ATOHJBWVFAKLNTS342DZE.html",
+      "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/comment-openai-sappuie-sur-le-francais-criteo-pour-afficher-des-publicites-a-tous-les-utilisateurs-des-versions-gratuites-et-go-de-chatgpt-aux-etats-unis.3CIO4ATOHJBWVFAKLNTS342DZE.html",
+      "publishedAt": "2026-03-23T11:31:10.000Z",
+      "date": "2026-03-23T11:31:10.000Z",
+      "description": "... ChatGPT. Les premiers tests concernent les utilisateurs basés aux Etats... Cybersécurité Data protectionCollecte de donnéesDonnées sensiblesSécurité.",
+      "excerpt": "... ChatGPT. Les premiers tests concernent les utilisateurs basés aux Etats... Cybersécurité Data protectionCollecte de donnéesDonnées sensiblesSécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI planche sur une SuperApp Desktop",
+      "link": "https://www.informatiquenews.fr/openai-veut-sa-superapp-desktop-chatgpt-codex-et-atlas-unifies-sous-un-meme-toit-110069",
+      "url": "https://www.informatiquenews.fr/openai-veut-sa-superapp-desktop-chatgpt-codex-et-atlas-unifies-sous-un-meme-toit-110069",
+      "publishedAt": "2026-03-23T11:08:44.000Z",
+      "date": "2026-03-23T11:08:44.000Z",
+      "description": "OpenAI planche sur une SuperApp Desktop pour Mac et PC à même d'unifier Atlas, Codex et ChatGPT dans un même outil de productivité IA.",
+      "excerpt": "OpenAI planche sur une SuperApp Desktop pour Mac et PC à même d'unifier Atlas, Codex et ChatGPT dans un même outil de productivité IA.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Faux tubes, la fraude IA au streaming, par Anthony Morel - 23/03: Actualités - Orange",
       "link": "https://actu.orange.fr/videos/economie/culture-ia-faux-tubes-la-fraude-ia-au-streaming-par-anthony-morel-23-03-CNT000002nZ94k.html",
       "url": "https://actu.orange.fr/videos/economie/culture-ia-faux-tubes-la-fraude-ia-au-streaming-par-anthony-morel-23-03-CNT000002nZ94k.html",
@@ -17,6 +87,16 @@
       "date": "2026-03-23T07:16:34.000Z",
       "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Tous publics. Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel...",
       "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Tous publics. Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI va commencer à diffuser des publicités auprès de tous les utilisateurs des versions...",
+      "link": "https://intelligence-artificielle.developpez.com/actu/381398/OpenAI-va-commencer-a-diffuser-des-publicites-aupres-de-tous-les-utilisateurs-des-versions-gratuite-et-Go-de-ChatGPT-en-collaboration-avec-l-agence-de-publicite-intrusive-Criteo-a-partir-des-Etats-Unis/",
+      "url": "https://intelligence-artificielle.developpez.com/actu/381398/OpenAI-va-commencer-a-diffuser-des-publicites-aupres-de-tous-les-utilisateurs-des-versions-gratuite-et-Go-de-ChatGPT-en-collaboration-avec-l-agence-de-publicite-intrusive-Criteo-a-partir-des-Etats-Unis/",
+      "publishedAt": "2026-03-23T07:04:36.000Z",
+      "date": "2026-03-23T07:04:36.000Z",
+      "description": "ChatGPT Go s'adresse aux personnes qui souhaitent avoir un meilleur accès au modèle rapide GPT 5.2... 02/02 - OpenAI lance ChatGPT Plus, un plan d'...",
+      "excerpt": "ChatGPT Go s'adresse aux personnes qui souhaitent avoir un meilleur accès au modèle rapide GPT 5.2... 02/02 - OpenAI lance ChatGPT Plus, un plan d'...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -47,86 +127,6 @@
       "date": "2026-03-22T19:09:40.000Z",
       "description": "Selon ChatGPT, le visage parfait est…... La question intéresse Jérôme Tré-Hardy, conseiller délégué (divers gauche) au numérique et à la cybersécurité...",
       "excerpt": "Selon ChatGPT, le visage parfait est…... La question intéresse Jérôme Tré-Hardy, conseiller délégué (divers gauche) au numérique et à la cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment Disney a réussi à rendre Olaf presque vivant: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/high-tech/comment-disney-a-reussi-a-rendre-olaf-presque-vivant-CNT000002nYC5i.html",
-      "url": "https://actu.orange.fr/videos/high-tech/comment-disney-a-reussi-a-rendre-olaf-presque-vivant-CNT000002nYC5i.html",
-      "publishedAt": "2026-03-22T19:08:20.000Z",
-      "date": "2026-03-22T19:08:20.000Z",
-      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... ChatGPT est déjà mort, mais OpenAI ne le sait pas encore. Tous...",
-      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... ChatGPT est déjà mort, mais OpenAI ne le sait pas encore. Tous...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cette nouveauté est 100% IA #shorts: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/high-tech/cette-nouveaute-est-100-ia-shorts-CNT000002nYAkz.html",
-      "url": "https://actu.orange.fr/videos/high-tech/cette-nouveaute-est-100-ia-shorts-CNT000002nYAkz.html",
-      "publishedAt": "2026-03-22T16:04:48.000Z",
-      "date": "2026-03-22T16:04:48.000Z",
-      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics...",
-      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Week-end: des idées de sortie originales en discutant avec votre smartphone | Android MT",
-      "link": "https://android-mt.ouest-france.fr/news/android/week-end-des-idees-de-sortie-originales-en-discutant-avec-votre-smartphone/197746/",
-      "url": "https://android-mt.ouest-france.fr/news/android/week-end-des-idees-de-sortie-originales-en-discutant-avec-votre-smartphone/197746/",
-      "publishedAt": "2026-03-22T08:25:44.000Z",
-      "date": "2026-03-22T08:25:44.000Z",
-      "description": "Parler à son smartphone fait déjà partie du quotidien, et cela ne date pas de l'arrivée de ChatGPT, Gemini ou des autres IA conversationnelles.",
-      "excerpt": "Parler à son smartphone fait déjà partie du quotidien, et cela ne date pas de l'arrivée de ChatGPT, Gemini ou des autres IA conversationnelles.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Olivier Sibony: « Jusqu'où l'IA doit-elle décider à notre place? » | Pour la Science",
-      "link": "https://www.pourlascience.fr/sr/livres/olivier-sibony-jusqu-ou-l-ia-doit-elle-decider-a-notre-place-28986.php",
-      "url": "https://www.pourlascience.fr/sr/livres/olivier-sibony-jusqu-ou-l-ia-doit-elle-decider-a-notre-place-28986.php",
-      "publishedAt": "2026-03-22T06:41:03.000Z",
-      "date": "2026-03-22T06:41:03.000Z",
-      "description": "En cybersécurité, ils repèrent et bloquent instantanément les communications malveillantes.... ChatGPT. Ces dernières interpolent à partir de...",
-      "excerpt": "En cybersécurité, ils repèrent et bloquent instantanément les communications malveillantes.... ChatGPT. Ces dernières interpolent à partir de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI va introduire de la publicité pour tous les utilisateurs de ChatGPT Free et Go aux États-Unis",
-      "link": "https://www.zonebourse.com/actualite-bourse/openai-va-introduire-de-la-publicite-pour-tous-les-utilisateurs-de-chatgpt-free-et-go-aux-etats-unis-ce7e5edcd88cf525",
-      "url": "https://www.zonebourse.com/actualite-bourse/openai-va-introduire-de-la-publicite-pour-tous-les-utilisateurs-de-chatgpt-free-et-go-aux-etats-unis-ce7e5edcd88cf525",
-      "publishedAt": "2026-03-22T05:28:35.000Z",
-      "date": "2026-03-22T05:28:35.000Z",
-      "description": "OpenAI commencera à diffuser des annonces publicitaires à l'ensemble des utilisateurs des versions gratuite et Go de ChatGPT aux États-Unis dans...",
-      "excerpt": "OpenAI commencera à diffuser des annonces publicitaires à l'ensemble des utilisateurs des versions gratuite et Go de ChatGPT aux États-Unis dans...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT va diffuser des publicités à l'ensemble de ses utilisateurs gratuits dans les...",
-      "link": "https://www.zonebourse.com/actualite-bourse/chatgpt-va-diffuser-des-publicites-a-l-ensemble-de-ses-utilisateurs-gratuits-dans-les-prochaines-sem-ce7e5edcd88df227",
-      "url": "https://www.zonebourse.com/actualite-bourse/chatgpt-va-diffuser-des-publicites-a-l-ensemble-de-ses-utilisateurs-gratuits-dans-les-prochaines-sem-ce7e5edcd88df227",
-      "publishedAt": "2026-03-21T22:06:56.000Z",
-      "date": "2026-03-21T22:06:56.000Z",
-      "description": "ChatGPT s'apprête à afficher des annonces publicitaires à tous... Cybersécurité · Semi-conducteurs · La petite Reine · L'innovation Israélienne...",
-      "excerpt": "ChatGPT s'apprête à afficher des annonces publicitaires à tous... Cybersécurité · Semi-conducteurs · La petite Reine · L'innovation Israélienne...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI va étendre la publicité sur ChatGPT à l'ensemble des utilisateurs gratuits et \"low...",
-      "link": "https://ch.zonebourse.com/actualite-bourse/openai-va-etendre-la-publicite-sur-chatgpt-a-l-ensemble-des-utilisateurs-gratuits-et-low-cost-sel-ce7e5edcd88df120",
-      "url": "https://ch.zonebourse.com/actualite-bourse/openai-va-etendre-la-publicite-sur-chatgpt-a-l-ensemble-des-utilisateurs-gratuits-et-low-cost-sel-ce7e5edcd88df120",
-      "publishedAt": "2026-03-21T16:20:22.000Z",
-      "date": "2026-03-21T16:20:22.000Z",
-      "description": "OpenAI a informé les agences de publicité de son intention d'accroître le nombre d'utilisateurs exposés aux annonces, ChatGPT s'apprêtant à...",
-      "excerpt": "OpenAI a informé les agences de publicité de son intention d'accroître le nombre d'utilisateurs exposés aux annonces, ChatGPT s'apprêtant à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un patron mise sur ChatGPT pour rendre ses recrutements “objectifs” - Clubic",
-      "link": "https://www.clubic.com/actualite-605569-un-patron-mise-sur-chatgpt-pour-rendre-ses-recrutements-objectifs.html",
-      "url": "https://www.clubic.com/actualite-605569-un-patron-mise-sur-chatgpt-pour-rendre-ses-recrutements-objectifs.html",
-      "publishedAt": "2026-03-21T15:21:48.000Z",
-      "date": "2026-03-21T15:21:48.000Z",
-      "description": "Chez Emergent, Mukund Jha soumet les transcriptions d'entretiens à ChatGPT pour noter les candidats et recouper son jugement... Top Cybersécurité.",
-      "excerpt": "Chez Emergent, Mukund Jha soumet les transcriptions d'entretiens à ChatGPT pour noter les candidats et recouper son jugement... Top Cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
