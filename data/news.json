@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T01:20:32.350Z",
+  "generatedAt": "2026-03-23T06:58:59.026Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Deux secteurs qui se développent indépendamment des conditions du marché – IA et Stablecoins",
+      "link": "https://www.mexc.com/fr/news/973025",
+      "url": "https://www.mexc.com/fr/news/973025",
+      "publishedAt": "2026-03-22T21:28:10.000Z",
+      "date": "2026-03-22T21:28:10.000Z",
+      "description": "Token Terminal a publié un graphique à double axe suivant l'offre circulante USDC par rapport aux utilisateurs actifs hebdomadaires de ChatGPT de...",
+      "excerpt": "Token Terminal a publié un graphique à double axe suivant l'offre circulante USDC par rapport aux utilisateurs actifs hebdomadaires de ChatGPT de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Un logo sur du café?! #shorts: Actualités - Orange",
       "link": "https://actu.orange.fr/videos/high-tech/un-logo-sur-du-cafe-shorts-CNT000002nYCut.html",
@@ -117,16 +127,6 @@
       "date": "2026-03-21T09:00:33.000Z",
       "description": "ChatGPT a commencé à afficher des publicités aux utilisateurs gratuits.... cybersécurité en 2026.",
       "excerpt": "ChatGPT a commencé à afficher des publicités aux utilisateurs gratuits.... cybersécurité en 2026.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google procède à un remaniement de son équipe IA et retire du personnel du projet de...",
-      "link": "https://intelligence-artificielle.developpez.com/actu/381383/Google-procede-a-un-remaniement-de-son-equipe-IA-et-retire-du-personnel-du-projet-de-navigateur-IA-Mariner-en-raison-de-la-nouvelle-obsession-de-Jensen-Huang-PDG-de-Nvidia-pour-l-agent-IA-OpenClaw/?amp",
-      "url": "https://intelligence-artificielle.developpez.com/actu/381383/Google-procede-a-un-remaniement-de-son-equipe-IA-et-retire-du-personnel-du-projet-de-navigateur-IA-Mariner-en-raison-de-la-nouvelle-obsession-de-Jensen-Huang-PDG-de-Nvidia-pour-l-agent-IA-OpenClaw/?amp",
-      "publishedAt": "2026-03-20T20:58:03.000Z",
-      "date": "2026-03-20T20:58:03.000Z",
-      "description": "... ChatGPT », le plaçant au même rang que L... cybersécurité. Plusieurs gouvernements ont déjà émis des avertissements concernant les risques...",
-      "excerpt": "... ChatGPT », le plaçant au même rang que L... cybersécurité. Plusieurs gouvernements ont déjà émis des avertissements concernant les risques...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
