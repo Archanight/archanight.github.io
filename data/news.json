@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T07:49:56.782Z",
+  "generatedAt": "2026-03-23T12:43:27.472Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Faux tubes, la fraude IA au streaming, par Anthony Morel - 23/03: Actualités - Orange",
+      "link": "https://actu.orange.fr/videos/economie/culture-ia-faux-tubes-la-fraude-ia-au-streaming-par-anthony-morel-23-03-CNT000002nZ94k.html",
+      "url": "https://actu.orange.fr/videos/economie/culture-ia-faux-tubes-la-fraude-ia-au-streaming-par-anthony-morel-23-03-CNT000002nZ94k.html",
+      "publishedAt": "2026-03-23T07:16:34.000Z",
+      "date": "2026-03-23T07:16:34.000Z",
+      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Tous publics. Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel...",
+      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Tous publics. Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Deux secteurs qui se développent indépendamment des conditions du marché – IA et Stablecoins",
       "link": "https://www.mexc.com/fr/news/973025",
@@ -117,16 +127,6 @@
       "date": "2026-03-21T15:21:48.000Z",
       "description": "Chez Emergent, Mukund Jha soumet les transcriptions d'entretiens à ChatGPT pour noter les candidats et recouper son jugement... Top Cybersécurité.",
       "excerpt": "Chez Emergent, Mukund Jha soumet les transcriptions d'entretiens à ChatGPT pour noter les candidats et recouper son jugement... Top Cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'ère de l'IA libre touche à sa fin. - Vietnam.vn",
-      "link": "https://www.vietnam.vn/fr/ky-nguyen-ai-mien-phi-dan-khep-lai",
-      "url": "https://www.vietnam.vn/fr/ky-nguyen-ai-mien-phi-dan-khep-lai",
-      "publishedAt": "2026-03-21T09:00:33.000Z",
-      "date": "2026-03-21T09:00:33.000Z",
-      "description": "ChatGPT a commencé à afficher des publicités aux utilisateurs gratuits.... cybersécurité en 2026.",
-      "excerpt": "ChatGPT a commencé à afficher des publicités aux utilisateurs gratuits.... cybersécurité en 2026.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
