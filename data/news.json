@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T18:40:46.354Z",
+  "generatedAt": "2026-03-24T01:13:40.338Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Son chien sauvé grâce à ChatGPT? #shorts: Actualités - Orange",
+      "link": "https://actu.orange.fr/videos/high-tech/son-chien-sauve-grace-a-chatgpt-shorts-CNT000002nZHxV.html",
+      "url": "https://actu.orange.fr/videos/high-tech/son-chien-sauve-grace-a-chatgpt-shorts-CNT000002nZHxV.html",
+      "publishedAt": "2026-03-23T23:15:39.000Z",
+      "date": "2026-03-23T23:15:39.000Z",
+      "description": "... chatgpt.... Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers.",
+      "excerpt": "... chatgpt.... Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI prépare l'appli IA ultime pour PC: ChatGPT, Atlas et Codex dans une seule app",
+      "link": "https://www.lebigdata.fr/openai-prepare-l-appli-ia-ultime-pour-pc-chatgpt-atlas-et-codex-dans-une-seule-app",
+      "url": "https://www.lebigdata.fr/openai-prepare-l-appli-ia-ultime-pour-pc-chatgpt-atlas-et-codex-dans-une-seule-app",
+      "publishedAt": "2026-03-23T18:33:46.000Z",
+      "date": "2026-03-23T18:33:46.000Z",
+      "description": "ChatGPT, Atlas et Codex réunis dans une seule appli pour PC: OpenAI... LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud...",
+      "excerpt": "ChatGPT, Atlas et Codex réunis dans une seule appli pour PC: OpenAI... LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI veut sa SuperApp Desktop: ChatGPT, Codex et Atlas unifiés sous un même toit",
+      "link": "https://www.informatiquenews.fr/openai-veut-sa-superapp-desktop-chatgpt-codex-et-atlas-unifies-sous-un-meme-toit-110069",
+      "url": "https://www.informatiquenews.fr/openai-veut-sa-superapp-desktop-chatgpt-codex-et-atlas-unifies-sous-un-meme-toit-110069",
+      "publishedAt": "2026-03-23T18:30:50.000Z",
+      "date": "2026-03-23T18:30:50.000Z",
+      "description": "OpenAI planche sur une SuperApp Desktop pour Mac et PC à même d'unifier Atlas, Codex et ChatGPT dans un même outil de productivité IA.",
+      "excerpt": "OpenAI planche sur une SuperApp Desktop pour Mac et PC à même d'unifier Atlas, Codex et ChatGPT dans un même outil de productivité IA.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "OpenAI, Anthropic et Perplexity livrent bataille sur la santé - Silicon.fr",
       "link": "https://www.silicon.fr/data-ia-1372/openai-anthropic-perplexity-sante-226374",
@@ -70,16 +100,6 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "OpenAI planche sur une SuperApp Desktop",
-      "link": "https://www.informatiquenews.fr/openai-veut-sa-superapp-desktop-chatgpt-codex-et-atlas-unifies-sous-un-meme-toit-110069",
-      "url": "https://www.informatiquenews.fr/openai-veut-sa-superapp-desktop-chatgpt-codex-et-atlas-unifies-sous-un-meme-toit-110069",
-      "publishedAt": "2026-03-23T11:08:44.000Z",
-      "date": "2026-03-23T11:08:44.000Z",
-      "description": "OpenAI planche sur une SuperApp Desktop pour Mac et PC à même d'unifier Atlas, Codex et ChatGPT dans un même outil de productivité IA.",
-      "excerpt": "OpenAI planche sur une SuperApp Desktop pour Mac et PC à même d'unifier Atlas, Codex et ChatGPT dans un même outil de productivité IA.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
       "title": "Faux tubes, la fraude IA au streaming, par Anthony Morel - 23/03: Actualités - Orange",
       "link": "https://actu.orange.fr/videos/economie/culture-ia-faux-tubes-la-fraude-ia-au-streaming-par-anthony-morel-23-03-CNT000002nZ94k.html",
       "url": "https://actu.orange.fr/videos/economie/culture-ia-faux-tubes-la-fraude-ia-au-streaming-par-anthony-morel-23-03-CNT000002nZ94k.html",
@@ -100,34 +120,14 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Deux secteurs qui se développent indépendamment des conditions du marché – IA et Stablecoins",
-      "link": "https://www.mexc.com/fr/news/973025",
-      "url": "https://www.mexc.com/fr/news/973025",
-      "publishedAt": "2026-03-22T21:28:10.000Z",
-      "date": "2026-03-22T21:28:10.000Z",
-      "description": "Token Terminal a publié un graphique à double axe suivant l'offre circulante USDC par rapport aux utilisateurs actifs hebdomadaires de ChatGPT de...",
-      "excerpt": "Token Terminal a publié un graphique à double axe suivant l'offre circulante USDC par rapport aux utilisateurs actifs hebdomadaires de ChatGPT de...",
+      "title": "OpenAI va introduire des publicités pour tous les utilisateurs gratuits et Go de ChatGPT aux...",
+      "link": "https://www.mexc.co/fr/news/973562",
+      "url": "https://www.mexc.co/fr/news/973562",
+      "publishedAt": "2026-03-23T06:21:41.000Z",
+      "date": "2026-03-23T06:21:41.000Z",
+      "description": "[Tech Thoughts] Le ChatGPT d'OpenAI testera des publicités. Voici à quoi s'attendre. OpenAI explore la publicité comme nouvelle source de revenus...",
+      "excerpt": "[Tech Thoughts] Le ChatGPT d'OpenAI testera des publicités. Voici à quoi s'attendre. OpenAI explore la publicité comme nouvelle source de revenus...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Un logo sur du café?! #shorts: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/high-tech/un-logo-sur-du-cafe-shorts-CNT000002nYCut.html",
-      "url": "https://actu.orange.fr/videos/high-tech/un-logo-sur-du-cafe-shorts-CNT000002nYCut.html",
-      "publishedAt": "2026-03-22T19:39:16.000Z",
-      "date": "2026-03-22T19:39:16.000Z",
-      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Bing ChatGPT ). Tous publics. Une panne informatique PARALYSE le...",
-      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Bing ChatGPT ). Tous publics. Une panne informatique PARALYSE le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Selon ChatGPT, le visage parfait est… blanc - Le Monde",
-      "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/03/22/selon-chatgpt-le-visage-parfait-est-blanc_6673811_6065879.html",
-      "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/03/22/selon-chatgpt-le-visage-parfait-est-blanc_6673811_6065879.html",
-      "publishedAt": "2026-03-22T19:09:40.000Z",
-      "date": "2026-03-22T19:09:40.000Z",
-      "description": "Selon ChatGPT, le visage parfait est…... La question intéresse Jérôme Tré-Hardy, conseiller délégué (divers gauche) au numérique et à la cybersécurité...",
-      "excerpt": "Selon ChatGPT, le visage parfait est…... La question intéresse Jérôme Tré-Hardy, conseiller délégué (divers gauche) au numérique et à la cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
