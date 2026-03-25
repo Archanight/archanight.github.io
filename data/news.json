@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T18:50:14.538Z",
+  "generatedAt": "2026-03-25T19:20:08.650Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,36 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Google Spam Update Mars 2026: nouvelle mise à jour des algorithmes anti-spam",
+      "link": "https://www.abondance.com/20260325-2047636-google-spam-update-mars-2026-nouvelle-mise-a-jour-des-algorithmes-anti-spam.html",
+      "url": "https://www.abondance.com/20260325-2047636-google-spam-update-mars-2026-nouvelle-mise-a-jour-des-algorithmes-anti-spam.html",
+      "publishedAt": "2026-03-25T18:30:56.000Z",
+      "date": "2026-03-25T18:30:56.000Z",
+      "description": "Résumer l'article sur ChatGPT ChatGPT · Résumer l'article sur Mistral... Spam Update: la différence avec la Code Update. Les mises à jour anti...",
+      "excerpt": "Résumer l'article sur ChatGPT ChatGPT · Résumer l'article sur Mistral... Spam Update: la différence avec la Code Update. Les mises à jour anti...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Notion - app with sync | OpenAI Help Center",
+      "link": "https://help.openai.com/fr-fr/articles/12532955-notion-app-with-sync",
+      "url": "https://help.openai.com/fr-fr/articles/12532955-notion-app-with-sync",
+      "publishedAt": "2026-03-25T18:21:42.000Z",
+      "date": "2026-03-25T18:21:42.000Z",
+      "description": "ChatGPT — Notes de version. Journal des dernières mises à jour et notes de version de ChatGPT · ChatGPT Enterprise & Edu – Notes de version.",
+      "excerpt": "ChatGPT — Notes de version. Journal des dernières mises à jour et notes de version de ChatGPT · ChatGPT Enterprise & Edu – Notes de version.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI prépare une “super app” qui pourrait centraliser toute votre vie numérique",
+      "link": "https://global.techradar.com/fr-fr/pro/openai-prepare-une-super-app-qui-pourrait-centraliser-toute-votre-vie-numerique",
+      "url": "https://global.techradar.com/fr-fr/pro/openai-prepare-une-super-app-qui-pourrait-centraliser-toute-votre-vie-numerique",
+      "publishedAt": "2026-03-25T16:49:07.000Z",
+      "date": "2026-03-25T16:49:07.000Z",
+      "description": "ChatGPT, Atlas et Codex pourraient devenir une seule « superapp ». Selon un article du Wall Street Journal, Fidji Simo, directrice des applications,...",
+      "excerpt": "ChatGPT, Atlas et Codex pourraient devenir une seule « superapp ». Selon un article du Wall Street Journal, Fidji Simo, directrice des applications,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Sora est mort: pourquoi OpenAI a décidé de fermer son application de vidéos courtes...",
       "link": "https://www.bfmtv.com/tech/intelligence-artificielle/sora-est-mort-pourquoi-open-ai-a-decide-de-fermer-son-application-de-videos-courtes-generees-par-ia-et-pourquoi-ce-n-est-pas-un-detail_AD-202603250492.html",
       "url": "https://www.bfmtv.com/tech/intelligence-artificielle/sora-est-mort-pourquoi-open-ai-a-decide-de-fermer-son-application-de-videos-courtes-generees-par-ia-et-pourquoi-ce-n-est-pas-un-detail_AD-202603250492.html",
@@ -18,6 +48,16 @@
       "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat... Dans son message sur le réseau social X, le créateur de ChatGPT n'a pas...",
       "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat... Dans son message sur le réseau social X, le créateur de ChatGPT n'a pas...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI abandonne Sora, son générateur vidéo IA ( update ) | ICTjournal",
+      "link": "https://www.ictjournal.ch/news/2026-03-25/openai-abandonne-sora-son-generateur-video-ia-update",
+      "url": "https://www.ictjournal.ch/news/2026-03-25/openai-abandonne-sora-son-generateur-video-ia-update",
+      "publishedAt": "2026-03-25T16:03:52.000Z",
+      "date": "2026-03-25T16:03:52.000Z",
+      "description": "... ChatGPT. Reuters indique de son côté que l'abandon de Sora était envisagé en interne depuis un certain temps. Selon une source anonyme citée par l...",
+      "excerpt": "... ChatGPT. Reuters indique de son côté que l'abandon de Sora était envisagé en interne depuis un certain temps. Selon une source anonyme citée par l...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "iOS 27: Apple changerait tout pour Siri avec une app dédiée, une nouvelle interface et un...",
@@ -88,46 +128,6 @@
       "description": "Avec Slow LLM, vos interactions avec ChatGPT prennent leur temps. L'idée est de stimuler la réflexion et la créativité.",
       "excerpt": "Avec Slow LLM, vos interactions avec ChatGPT prennent leur temps. L'idée est de stimuler la réflexion et la créativité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "E-commerce: ChatGPT améliore son moteur de recommandation de produits - Leptidigital",
-      "link": "https://www.leptidigital.fr/e-commerce/chatgpt-ameliore-moteur-recommandation-produits-88745/",
-      "url": "https://www.leptidigital.fr/e-commerce/chatgpt-ameliore-moteur-recommandation-produits-88745/",
-      "publishedAt": "2026-03-25T09:03:12.000Z",
-      "date": "2026-03-25T09:03:12.000Z",
-      "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Et si vos futurs clients ne passaient plus par votre site… mais par...",
-      "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Et si vos futurs clients ne passaient plus par votre site… mais par...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "« Nous disons adieu à l'application Sora »: OpenAI va bientôt fermer son célèbre...",
-      "link": "https://www.phonandroid.com/nous-disons-adieu-a-lapplication-sora-openai-va-bientot-fermer-son-celebre-generateur-de-videos-ia.html",
-      "url": "https://www.phonandroid.com/nous-disons-adieu-a-lapplication-sora-openai-va-bientot-fermer-son-celebre-generateur-de-videos-ia.html",
-      "publishedAt": "2026-03-25T08:52:00.000Z",
-      "date": "2026-03-25T08:52:00.000Z",
-      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT. Puis, il y a quelques jours, des lignes repérées dans le code...",
-      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT. Puis, il y a quelques jours, des lignes repérées dans le code...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "SEO: Google déploie une mise à jour de ses algorithmes (March 2026 spam update ) - BDM",
-      "link": "https://www.blogdumoderateur.com/seo-google-march-2026-spam-update/",
-      "url": "https://www.blogdumoderateur.com/seo-google-march-2026-spam-update/",
-      "publishedAt": "2026-03-25T07:29:05.000Z",
-      "date": "2026-03-25T07:29:05.000Z",
-      "description": "2026 a déjà été marqué par une mise à jour dédiée à Discover en février, avant cette spam update. Résumé généré par gpt-4o, ajusté par Matthieu Eugène.",
-      "excerpt": "2026 a déjà été marqué par une mise à jour dédiée à Discover en février, avant cette spam update. Résumé généré par gpt-4o, ajusté par Matthieu Eugène.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI ferme brutalement Sora, l'usine à slop la plus chère de l'histoire de l'IA",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/openai-tue-sora-six-mois-de-vie-2-millions-de-dollars-de-revenus-et-un-partenariat-disney-parti-en-fumee-n253481.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/openai-tue-sora-six-mois-de-vie-2-millions-de-dollars-de-revenus-et-un-partenariat-disney-parti-en-fumee-n253481.html",
-      "publishedAt": "2026-03-25T06:36:49.000Z",
-      "date": "2026-03-25T06:36:49.000Z",
-      "description": "Or ces mêmes GPU pourraient servir à entraîner GPT-5 ou à optimiser... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Aymeric Geoffre...",
-      "excerpt": "Or ces mêmes GPU pourraient servir à entraîner GPT-5 ou à optimiser... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Aymeric Geoffre...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
