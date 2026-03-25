@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T01:18:21.318Z",
+  "generatedAt": "2026-03-25T06:52:44.936Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI ferme son application vidéo Sora - Les Affaires",
+      "link": "https://www.lesaffaires.com/bourse/actualites-boursieres/openai-ferme-son-application-video-sora-et-se-recentre-sur-les-outils-professionnels/",
+      "url": "https://www.lesaffaires.com/bourse/actualites-boursieres/openai-ferme-son-application-video-sora-et-se-recentre-sur-les-outils-professionnels/",
+      "publishedAt": "2026-03-25T04:26:37.000Z",
+      "date": "2026-03-25T04:26:37.000Z",
+      "description": "... ChatGPT resserre son attention sur les outils de codage et de...: des cafés locaux qui… Cybersécurité proactive: pilotage stratégique pour l'...",
+      "excerpt": "... ChatGPT resserre son attention sur les outils de codage et de...: des cafés locaux qui… Cybersécurité proactive: pilotage stratégique pour l'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI recrute un ancien de Meta pour ses offres publicitaires - ElectronLibre",
+      "link": "https://electronlibre.info/articles/104889-openai-recrute-un-ancien-de-meta-pour-developper-ses-offres-publicitaires-et-diversifier-ses-revenus/",
+      "url": "https://electronlibre.info/articles/104889-openai-recrute-un-ancien-de-meta-pour-developper-ses-offres-publicitaires-et-diversifier-ses-revenus/",
+      "publishedAt": "2026-03-25T01:09:35.000Z",
+      "date": "2026-03-25T01:09:35.000Z",
+      "description": "L'entreprise s'est engagée à préserver l'expérience utilisateur en veillant à ce que les annonces ne biaisent pas les réponses de ChatGPT.",
+      "excerpt": "L'entreprise s'est engagée à préserver l'expérience utilisateur en veillant à ce que les annonces ne biaisent pas les réponses de ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Shopify permet aux marchands de vendre aux utilisateurs de ChatGPT via des boutiques agentiques",
       "link": "https://ch.zonebourse.com/actualite-bourse/shopify-permet-aux-marchands-de-vendre-aux-utilisateurs-de-chatgpt-via-des-boutiques-agentiques-ce7e5ed2db8ef72d",
@@ -38,6 +58,16 @@
       "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... ChatGPT, par Léa Benaim - 05/03. Tous publics. Le Tech Flash...",
       "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... ChatGPT, par Léa Benaim - 05/03. Tous publics. Le Tech Flash...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "1,5 million de Français touchés: une fuite de données massive frappe l'Enseignement catholique",
+      "link": "https://www.01net.com/actualites/15-million-francais-pirates-fuite-donnees-massive-frappe-enseignement-catholique.html",
+      "url": "https://www.01net.com/actualites/15-million-francais-pirates-fuite-donnees-massive-frappe-enseignement-catholique.html",
+      "publishedAt": "2026-03-24T20:13:02.000Z",
+      "date": "2026-03-24T20:13:02.000Z",
+      "description": "Partager. Imprimer. chatgpt école © Unsplash. Les données personnelles... ChatGPT · Microsoft 365 · Opera One · Avast One. Les tests à la une. AirPods...",
+      "excerpt": "Partager. Imprimer. chatgpt école © Unsplash. Les données personnelles... ChatGPT · Microsoft 365 · Opera One · Avast One. Les tests à la une. AirPods...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Rondes de santé: Les fausses radiographies créées par l'IA trompent les radiologues et l'IA...",
@@ -97,36 +127,6 @@
       "date": "2026-03-24T15:05:41.000Z",
       "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Les logos de Claude et ChatGPT...",
       "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Les logos de Claude et ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "J'ai testé GPT-5.4 Thinking, et les réponses étaient vraiment bon... - ZDNET",
-      "link": "https://www.zdnet.fr/pratique/jai-teste-gpt-5-4-thinking-et-les-reponses-etaient-vraiment-bonnes-mais-elles-ne-correspondaient-pas-toujours-a-ce-que-javais-demande-492475.htm",
-      "url": "https://www.zdnet.fr/pratique/jai-teste-gpt-5-4-thinking-et-les-reponses-etaient-vraiment-bonnes-mais-elles-ne-correspondaient-pas-toujours-a-ce-que-javais-demande-492475.htm",
-      "publishedAt": "2026-03-24T14:36:29.000Z",
-      "date": "2026-03-24T14:36:29.000Z",
-      "description": "Lorsque j'ai demandé à GPT-5.2: « Pensez-vous que les réseaux... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
-      "excerpt": "Lorsque j'ai demandé à GPT-5.2: « Pensez-vous que les réseaux... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Et si l'IA consommait moins d'énergie que Google? - Korben",
-      "link": "https://korben.info/etude-ia-moins-energie-recherche-web.html",
-      "url": "https://korben.info/etude-ia-moins-energie-recherche-web.html",
-      "publishedAt": "2026-03-24T14:34:20.000Z",
-      "date": "2026-03-24T14:34:20.000Z",
-      "description": "Une réponse ChatGPT ou Claude, c'est environ 5 Ko de texte brut. Le... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
-      "excerpt": "Une réponse ChatGPT ou Claude, c'est environ 5 Ko de texte brut. Le... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "1,5 million de Français touchés: une fuite de données massive frappe l'Enseignement catholique",
-      "link": "https://www.01net.com/actualites/15-million-francais-pirates-fuite-donnees-massive-frappe-enseignement-catholique.html",
-      "url": "https://www.01net.com/actualites/15-million-francais-pirates-fuite-donnees-massive-frappe-enseignement-catholique.html",
-      "publishedAt": "2026-03-24T14:13:02.000Z",
-      "date": "2026-03-24T14:13:02.000Z",
-      "description": "Des experts en cybersécurité ont été engagés par l'Enseignement catholique pour mener l'enquête.... ChatGPT · Microsoft 365 · Opera One · Avast One.",
-      "excerpt": "Des experts en cybersécurité ont été engagés par l'Enseignement catholique pour mener l'enquête.... ChatGPT · Microsoft 365 · Opera One · Avast One.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
