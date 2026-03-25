@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T12:44:57.168Z",
+  "generatedAt": "2026-03-25T18:43:57.432Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Sora est mort: pourquoi OpenAI a décidé de fermer son application de vidéos courtes...",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/sora-est-mort-pourquoi-open-ai-a-decide-de-fermer-son-application-de-videos-courtes-generees-par-ia-et-pourquoi-ce-n-est-pas-un-detail_AD-202603250492.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/sora-est-mort-pourquoi-open-ai-a-decide-de-fermer-son-application-de-videos-courtes-generees-par-ia-et-pourquoi-ce-n-est-pas-un-detail_AD-202603250492.html",
+      "publishedAt": "2026-03-25T16:12:17.000Z",
+      "date": "2026-03-25T16:12:17.000Z",
+      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat... Dans son message sur le réseau social X, le créateur de ChatGPT n'a pas...",
+      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat... Dans son message sur le réseau social X, le créateur de ChatGPT n'a pas...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "iOS 27: Apple changerait tout pour Siri avec une app dédiée, une nouvelle interface et un...",
+      "link": "https://www.clubic.com/actualite-606055-ios-27-apple-changerait-tout-pour-siri-avec-une-app-dediee-une-nouvelle-interface-et-un-bouton-dans-les-apps.html",
+      "url": "https://www.clubic.com/actualite-606055-ios-27-apple-changerait-tout-pour-siri-avec-une-app-dediee-une-nouvelle-interface-et-un-bouton-dans-les-apps.html",
+      "publishedAt": "2026-03-25T15:37:25.000Z",
+      "date": "2026-03-25T15:37:25.000Z",
+      "description": "C'est enfin le bout du tunnel pour Siri. À la traîne depuis l'arrivée de l'IA dans les mains du grand public à travers ChatGPT ou Gemini, l...",
+      "excerpt": "C'est enfin le bout du tunnel pour Siri. À la traîne depuis l'arrivée de l'IA dans les mains du grand public à travers ChatGPT ou Gemini, l...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GEO: stratégies infaillibles pour apparaître dans les réponses IA - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/geo-strategies-infaillibles-pour-apparaitre-dans-les-reponses-ia",
+      "url": "https://www.lebigdata.fr/geo-strategies-infaillibles-pour-apparaitre-dans-les-reponses-ia",
+      "publishedAt": "2026-03-25T14:22:06.000Z",
+      "date": "2026-03-25T14:22:06.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data... ChatGPT, Perplexity et Google AI Overviews. Facilitez l'intégration de...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data... ChatGPT, Perplexity et Google AI Overviews. Facilitez l'intégration de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Étude GEO: L'influence de la récupération, des fan-outs queries et des SERP Google sur...",
+      "link": "https://www.leptidigital.fr/webmarketing/seo/etude-geo-influence-recuperation-fan-outs-queries-serp-google-citations-chatgpt-88680/",
+      "url": "https://www.leptidigital.fr/webmarketing/seo/etude-geo-influence-recuperation-fan-outs-queries-serp-google-citations-chatgpt-88680/",
+      "publishedAt": "2026-03-25T11:18:02.000Z",
+      "date": "2026-03-25T11:18:02.000Z",
+      "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... ChatGPT (et les autres chatbots IA). Faut-il revoir entièrement sa...",
+      "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... ChatGPT (et les autres chatbots IA). Faut-il revoir entièrement sa...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "« La qualité de ChatGPT s'est dégradée »: comment Claude rafle la mise dans l'IA | Les Echos",
       "link": "https://www.lesechos.fr/idees-debats/cercle/la-qualite-de-chatgpt-sest-degradee-comment-claude-rafle-la-mise-dans-lia-2222874",
@@ -37,6 +77,16 @@
       "date": "2026-03-25T10:12:32.000Z",
       "description": "... GPT-5, Claude Opus et Sonnet et d'autres IA pour un paiement unique d... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
       "excerpt": "... GPT-5, Claude Opus et Sonnet et d'autres IA pour un paiement unique d... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Slow LLM: ce nouvel outil ralentit ChatGPT... pour de meilleurs résultats - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/slow-llm-ce-nouvel-outil-ralentit-chatgpt-pour-de-meilleurs-resultats",
+      "url": "https://www.lebigdata.fr/slow-llm-ce-nouvel-outil-ralentit-chatgpt-pour-de-meilleurs-resultats",
+      "publishedAt": "2026-03-25T10:02:07.000Z",
+      "date": "2026-03-25T10:02:07.000Z",
+      "description": "Avec Slow LLM, vos interactions avec ChatGPT prennent leur temps. L'idée est de stimuler la réflexion et la créativité.",
+      "excerpt": "Avec Slow LLM, vos interactions avec ChatGPT prennent leur temps. L'idée est de stimuler la réflexion et la créativité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -78,56 +128,6 @@
       "description": "Or ces mêmes GPU pourraient servir à entraîner GPT-5 ou à optimiser... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Aymeric Geoffre...",
       "excerpt": "Or ces mêmes GPU pourraient servir à entraîner GPT-5 ou à optimiser... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Aymeric Geoffre...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT se dote d'une nouveauté qui fait toute la différence pour les utilisateurs réguliers",
-      "link": "https://www.phonandroid.com/chatgpt-se-dote-dune-nouveaute-qui-fait-toute-la-difference-pour-les-utilisateurs-reguliers.html",
-      "url": "https://www.phonandroid.com/chatgpt-se-dote-dune-nouveaute-qui-fait-toute-la-difference-pour-les-utilisateurs-reguliers.html",
-      "publishedAt": "2026-03-25T06:16:51.000Z",
-      "date": "2026-03-25T06:16:51.000Z",
-      "description": "ChatGPT dispose désormais d'une bibliothèque regroupant les fichiers qu... Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être.",
-      "excerpt": "ChatGPT dispose désormais d'une bibliothèque regroupant les fichiers qu... Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI ferme son application vidéo Sora - Les Affaires",
-      "link": "https://www.lesaffaires.com/bourse/actualites-boursieres/openai-ferme-son-application-video-sora-et-se-recentre-sur-les-outils-professionnels/",
-      "url": "https://www.lesaffaires.com/bourse/actualites-boursieres/openai-ferme-son-application-video-sora-et-se-recentre-sur-les-outils-professionnels/",
-      "publishedAt": "2026-03-25T04:26:37.000Z",
-      "date": "2026-03-25T04:26:37.000Z",
-      "description": "... ChatGPT resserre son attention sur les outils de codage et de...: des cafés locaux qui… Cybersécurité proactive: pilotage stratégique pour l'...",
-      "excerpt": "... ChatGPT resserre son attention sur les outils de codage et de...: des cafés locaux qui… Cybersécurité proactive: pilotage stratégique pour l'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les cinéastes anti-AI se réjouissent: OpenAI ferme Sora, une plateforme vidéo d'IA controversée",
-      "link": "https://www.notebookcheck.biz/Les-cineastes-anti-AI-se-rejouissent-OpenAI-ferme-Sora-une-plateforme-video-d-IA-controversee.1258100.0.html",
-      "url": "https://www.notebookcheck.biz/Les-cineastes-anti-AI-se-rejouissent-OpenAI-ferme-Sora-une-plateforme-video-d-IA-controversee.1258100.0.html",
-      "publishedAt": "2026-03-25T03:08:39.000Z",
-      "date": "2026-03-25T03:08:39.000Z",
-      "description": "Après avoir atteint un million de téléchargements plus rapidement que ChatGPT, le générateur vidéo Sora AI d'OpenAI a disparu pour de bon. OpenAI...",
-      "excerpt": "Après avoir atteint un million de téléchargements plus rapidement que ChatGPT, le générateur vidéo Sora AI d'OpenAI a disparu pour de bon. OpenAI...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI recrute un ancien de Meta pour ses offres publicitaires - ElectronLibre",
-      "link": "https://electronlibre.info/articles/104889-openai-recrute-un-ancien-de-meta-pour-developper-ses-offres-publicitaires-et-diversifier-ses-revenus/",
-      "url": "https://electronlibre.info/articles/104889-openai-recrute-un-ancien-de-meta-pour-developper-ses-offres-publicitaires-et-diversifier-ses-revenus/",
-      "publishedAt": "2026-03-25T01:09:35.000Z",
-      "date": "2026-03-25T01:09:35.000Z",
-      "description": "L'entreprise s'est engagée à préserver l'expérience utilisateur en veillant à ce que les annonces ne biaisent pas les réponses de ChatGPT.",
-      "excerpt": "L'entreprise s'est engagée à préserver l'expérience utilisateur en veillant à ce que les annonces ne biaisent pas les réponses de ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Shopify permet aux marchands de vendre aux utilisateurs de ChatGPT via des boutiques agentiques",
-      "link": "https://ch.zonebourse.com/actualite-bourse/shopify-permet-aux-marchands-de-vendre-aux-utilisateurs-de-chatgpt-via-des-boutiques-agentiques-ce7e5ed2db8ef72d",
-      "url": "https://ch.zonebourse.com/actualite-bourse/shopify-permet-aux-marchands-de-vendre-aux-utilisateurs-de-chatgpt-via-des-boutiques-agentiques-ce7e5ed2db8ef72d",
-      "publishedAt": "2026-03-24T22:29:40.000Z",
-      "date": "2026-03-24T22:29:40.000Z",
-      "description": "... ChatGPT grâce à des boutiques agentiques - site web... -Le 24... Cybersécurité · Pricing Power · Métavers · Hydrogène · Le Marché Vegan · Palmarès.",
-      "excerpt": "... ChatGPT grâce à des boutiques agentiques - site web... -Le 24... Cybersécurité · Pricing Power · Métavers · Hydrogène · Le Marché Vegan · Palmarès.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
