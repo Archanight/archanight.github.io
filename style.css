@@ -713,7 +713,8 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
     #veille-page .veille-content, #a-propos-page .intro-text, .project-showcase { padding: 25px; }
     #veille-page .veille-content h3, #a-propos-page h3 { font-size: 1.5rem; }
     .cv-motivation-links { flex-direction: column; gap: 15px;}
-    .cv-motivation-links .cta-button { width: 80%; max-width: 300px; text-align: center; }
+    .cv-motivation-links .cta-button,
+    .cv-motivation-links .cta-button-secondary { width: 80%; max-width: 300px; text-align: center; }
 }
 @media (max-width: 480px) {
     .hero { min-height: calc(100vh - 60px - 60px); }
@@ -773,6 +774,26 @@ footer { background-color: var(--bg-dark-start); color: var(--text-secondary); t
 }
 
 #moi-page .mini-card .pointsforts-lines { margin: 0; }
+
+#moi-page .moi-cv-section {
+    margin-top: 42px;
+    padding: 28px;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow);
+}
+
+#moi-page .moi-cv-section h3 {
+    margin-bottom: 12px;
+    color: var(--primary-color);
+    font-family: var(--font-primary);
+    font-size: 1.7rem;
+}
+
+#moi-page .moi-cv-section .section-intro {
+    margin-bottom: 10px;
+}
 
 .section-intro {
     text-align: center;
