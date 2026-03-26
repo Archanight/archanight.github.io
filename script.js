@@ -230,6 +230,12 @@
             modal.setAttribute('aria-hidden', 'true');
             resetModalSplits(modal);
 
+            const modalKey = modal.getAttribute('data-stage-modal');
+            if (modalKey && window.location.hash === `#${modalKey}`) {
+                const nextUrl = `${window.location.pathname}${window.location.search}`;
+                window.history.replaceState(null, '', nextUrl);
+            }
+
             if (activeModal === modal) {
                 activeModal = null;
             }
@@ -246,6 +252,14 @@
             });
         });
 
+        const openModalFromHash = () => {
+            const hashKey = window.location.hash.replace(/^#/, '');
+            const modal = modalMap.get(hashKey);
+            if (modal) {
+                openStageModal(modal);
+            }
+        };
+
         stageModals.forEach((modal) => {
             modal.addEventListener('click', (e) => {
                 const closeTarget = e.target.closest('[data-stage-modal-close]');
@@ -260,6 +274,8 @@
                 closeStageModal(activeModal);
             }
         });
+
+        openModalFromHash();
     }
 });
 
