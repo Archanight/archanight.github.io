@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T06:57:48.431Z",
+  "generatedAt": "2026-03-26T10:30:13.421Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "iOS 27: Siri va devenir ChatGPT? Voici ce que prévoit Apple - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/ios-27-siri-va-devenir-chatgpt-voici-ce-que-prevoit-apple",
+      "url": "https://www.lebigdata.fr/ios-27-siri-va-devenir-chatgpt-voici-ce-que-prevoit-apple",
+      "publishedAt": "2026-03-26T02:31:05.000Z",
+      "date": "2026-03-26T02:31:05.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... iOS 27: Siri va devenir ChatGPT? Voici ce que prévoit Apple. Tinah F...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... iOS 27: Siri va devenir ChatGPT? Voici ce que prévoit Apple. Tinah F...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI abandonne la génération de vidéos (Sora) et perd son deal avec Disney - Numerama",
       "link": "https://www.numerama.com/tech/2217735-openai-abandonne-la-generation-de-videos-sora-et-perd-son-deal-avec-disney-comment-expliquer-un-tel-echec.html",
@@ -117,16 +127,6 @@
       "date": "2026-03-25T11:18:02.000Z",
       "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... ChatGPT (et les autres chatbots IA). Faut-il revoir entièrement sa...",
       "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... ChatGPT (et les autres chatbots IA). Faut-il revoir entièrement sa...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "« La qualité de ChatGPT s'est dégradée »: comment Claude rafle la mise dans l'IA | Les Echos",
-      "link": "https://www.lesechos.fr/idees-debats/cercle/la-qualite-de-chatgpt-sest-degradee-comment-claude-rafle-la-mise-dans-lia-2222874",
-      "url": "https://www.lesechos.fr/idees-debats/cercle/la-qualite-de-chatgpt-sest-degradee-comment-claude-rafle-la-mise-dans-lia-2222874",
-      "publishedAt": "2026-03-25T10:32:34.000Z",
-      "date": "2026-03-25T10:32:34.000Z",
-      "description": "Claude a dépassé ChatGPT comme application gratuite la plus téléchargée sur l'App Store américain. Emma... cybersécurité plombés en Bourse, victimes à...",
-      "excerpt": "Claude a dépassé ChatGPT comme application gratuite la plus téléchargée sur l'App Store américain. Emma... cybersécurité plombés en Bourse, victimes à...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
