@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T19:20:08.650Z",
+  "generatedAt": "2026-03-26T06:57:48.431Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI abandonne la génération de vidéos (Sora) et perd son deal avec Disney - Numerama",
+      "link": "https://www.numerama.com/tech/2217735-openai-abandonne-la-generation-de-videos-sora-et-perd-son-deal-avec-disney-comment-expliquer-un-tel-echec.html",
+      "url": "https://www.numerama.com/tech/2217735-openai-abandonne-la-generation-de-videos-sora-et-perd-son-deal-avec-disney-comment-expliquer-un-tel-echec.html",
+      "publishedAt": "2026-03-25T21:26:37.000Z",
+      "date": "2026-03-25T21:26:37.000Z",
+      "description": "... ChatGPT et réduire ses coûts d'exploitation. Depuis la fin de l... cybersécurité, un enjeu majeur pour la souveraineté numéri Humanoid...",
+      "excerpt": "... ChatGPT et réduire ses coûts d'exploitation. Depuis la fin de l... cybersécurité, un enjeu majeur pour la souveraineté numéri Humanoid...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Ces légendes du rock gagnent la guerre contre ChatGPT, vont-ils stopper net le « vol - Le Cri du Troll",
+      "link": "https://www.cridutroll.fr/ces-legendes-du-rock-gagnent-la-guerre-contre-chatgpt-vont-ils-stopper-net-le-vol-massif-de-lia-sur-vos-chansons-preferees/",
+      "url": "https://www.cridutroll.fr/ces-legendes-du-rock-gagnent-la-guerre-contre-chatgpt-vont-ils-stopper-net-le-vol-massif-de-lia-sur-vos-chansons-preferees/",
+      "publishedAt": "2026-03-25T20:56:09.000Z",
+      "date": "2026-03-25T20:56:09.000Z",
+      "description": "... cybersécurité qui repousse les limites des malwares mobiles. Le... Leboncoin et ChatGPT: le site se tire-t-il une balle dans le pied? Par...",
+      "excerpt": "... cybersécurité qui repousse les limites des malwares mobiles. Le... Leboncoin et ChatGPT: le site se tire-t-il une balle dans le pied? Par...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Google Spam Update Mars 2026: nouvelle mise à jour des algorithmes anti-spam",
       "link": "https://www.abondance.com/20260325-2047636-google-spam-update-mars-2026-nouvelle-mise-a-jour-des-algorithmes-anti-spam.html",
@@ -28,6 +48,16 @@
       "description": "ChatGPT — Notes de version. Journal des dernières mises à jour et notes de version de ChatGPT · ChatGPT Enterprise & Edu – Notes de version.",
       "excerpt": "ChatGPT — Notes de version. Journal des dernières mises à jour et notes de version de ChatGPT · ChatGPT Enterprise & Edu – Notes de version.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "#ia # cybersécurité #donnéessensibles # chatgpt #transformationnumérique #banque... - LinkedIn",
+      "link": "https://fr.linkedin.com/posts/snb-cfe-cgc_ia-cybers%C3%A9curit%C3%A9-donn%C3%A9essensibles-activity-7442555924600442881-AsfY",
+      "url": "https://fr.linkedin.com/posts/snb-cfe-cgc_ia-cybers%C3%A9curit%C3%A9-donn%C3%A9essensibles-activity-7442555924600442881-AsfY",
+      "publishedAt": "2026-03-25T17:23:45.000Z",
+      "date": "2026-03-25T17:23:45.000Z",
+      "description": "... lnkd.in/e7DGN-_t #IA # Cybersécurité #DonnéesSensibles # ChatGPT #TransformationNumérique #Banque #SNBCFECGC #EnPriseDirecte.",
+      "excerpt": "... lnkd.in/e7DGN-_t #IA # Cybersécurité #DonnéesSensibles # ChatGPT #TransformationNumérique #Banque #SNBCFECGC #EnPriseDirecte.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "OpenAI prépare une “super app” qui pourrait centraliser toute votre vie numérique",
@@ -97,36 +127,6 @@
       "date": "2026-03-25T10:32:34.000Z",
       "description": "Claude a dépassé ChatGPT comme application gratuite la plus téléchargée sur l'App Store américain. Emma... cybersécurité plombés en Bourse, victimes à...",
       "excerpt": "Claude a dépassé ChatGPT comme application gratuite la plus téléchargée sur l'App Store américain. Emma... cybersécurité plombés en Bourse, victimes à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un RSSI sur deux déclare ne pas être prêt à faire face aux attaques basées sur l'IA - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/un-rssi-sur-deux-declare-ne-pas-etre-pret-a-faire-face-aux-attaques-basees-sur-lia-4-mesures-a-prendre-des-maintenant-492482.htm",
-      "url": "https://www.zdnet.fr/actualites/un-rssi-sur-deux-declare-ne-pas-etre-pret-a-faire-face-aux-attaques-basees-sur-lia-4-mesures-a-prendre-des-maintenant-492482.htm",
-      "publishedAt": "2026-03-25T10:27:23.000Z",
-      "date": "2026-03-25T10:27:23.000Z",
-      "description": "La cybersécurité n'est pas le seul domaine où l'IA marque le pas. De... ChatGPT dispose désormais d'une bibliothèque pour les fichiers personnels.",
-      "excerpt": "La cybersécurité n'est pas le seul domaine où l'IA marque le pas. De... ChatGPT dispose désormais d'une bibliothèque pour les fichiers personnels.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'astuce à 30€ qui remplace Claude Pro et ChatGPT Plus (et personne n'en parle) - Clubic",
-      "link": "https://www.clubic.com/bons-plans-605941-l-astuce-a-30-qui-remplace-claude-pro-et-chatgpt-plus-et-personne-n-en-parle.html",
-      "url": "https://www.clubic.com/bons-plans-605941-l-astuce-a-30-qui-remplace-claude-pro-et-chatgpt-plus-et-personne-n-en-parle.html",
-      "publishedAt": "2026-03-25T10:12:32.000Z",
-      "date": "2026-03-25T10:12:32.000Z",
-      "description": "... GPT-5, Claude Opus et Sonnet et d'autres IA pour un paiement unique d... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
-      "excerpt": "... GPT-5, Claude Opus et Sonnet et d'autres IA pour un paiement unique d... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Slow LLM: ce nouvel outil ralentit ChatGPT... pour de meilleurs résultats - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/slow-llm-ce-nouvel-outil-ralentit-chatgpt-pour-de-meilleurs-resultats",
-      "url": "https://www.lebigdata.fr/slow-llm-ce-nouvel-outil-ralentit-chatgpt-pour-de-meilleurs-resultats",
-      "publishedAt": "2026-03-25T10:02:07.000Z",
-      "date": "2026-03-25T10:02:07.000Z",
-      "description": "Avec Slow LLM, vos interactions avec ChatGPT prennent leur temps. L'idée est de stimuler la réflexion et la créativité.",
-      "excerpt": "Avec Slow LLM, vos interactions avec ChatGPT prennent leur temps. L'idée est de stimuler la réflexion et la créativité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
