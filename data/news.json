@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-28T06:46:57.621Z",
+  "generatedAt": "2026-03-28T12:33:55.414Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "IA et vie privée: Pourquoi les utilisateurs délaissent ChatGPT et Gemini - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/362142/ia-vie-privee-defiance-utilisateur-rapport-malwarebytes/",
+      "url": "https://www.blog-nouvelles-technologies.fr/362142/ia-vie-privee-defiance-utilisateur-rapport-malwarebytes/",
+      "publishedAt": "2026-03-28T09:53:14.000Z",
+      "date": "2026-03-28T09:53:14.000Z",
+      "description": "L'étude vient d'un éditeur de solutions de cybersécurité, pas d'un institut académique indépendant, et elle mesure avant tout un ressenti déclaratif.",
+      "excerpt": "L'étude vient d'un éditeur de solutions de cybersécurité, pas d'un institut académique indépendant, et elle mesure avant tout un ressenti déclaratif.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT, Claude, Gemini: des IA accusées de tromper leurs utilisateurs, une dérive documentée",
+      "link": "https://www.mobigeeks.fr/chatgpt-claude-gemini-des-ia-accusees-de-tromper-leurs-utilisateurs-une-derive-documentee/",
+      "url": "https://www.mobigeeks.fr/chatgpt-claude-gemini-des-ia-accusees-de-tromper-leurs-utilisateurs-une-derive-documentee/",
+      "publishedAt": "2026-03-28T07:34:27.000Z",
+      "date": "2026-03-28T07:34:27.000Z",
+      "description": "ChatGPT, Claude, Gemini: découvrez pourquoi ces IA sont accusées... Les recherches en cybersécurité vont encore plus loin. Elles montrent...",
+      "excerpt": "ChatGPT, Claude, Gemini: découvrez pourquoi ces IA sont accusées... Les recherches en cybersécurité vont encore plus loin. Elles montrent...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les nouvelles financières du vendredi 27 mars - Les Affaires",
+      "link": "https://www.lesaffaires.com/bourse/les-nouvelles-financieres-du-vendredi-27-mars/",
+      "url": "https://www.lesaffaires.com/bourse/les-nouvelles-financieres-du-vendredi-27-mars/",
+      "publishedAt": "2026-03-28T00:52:33.000Z",
+      "date": "2026-03-28T00:52:33.000Z",
+      "description": "Le projet pilote publicitaire de ChatGPT a dépassé les 100M$US de... Utiliser l'IA pour relever les défis liés aux… Cybersécurité proactive: pilotage...",
+      "excerpt": "Le projet pilote publicitaire de ChatGPT a dépassé les 100M$US de... Utiliser l'IA pour relever les défis liés aux… Cybersécurité proactive: pilotage...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT, Claude, Gemini: les IA mentent délibérément, un phénomène documenté",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-claude-gemini-les-ia-mentent-deliberement-un-phenomene-documente-n253634.html",
@@ -98,36 +128,6 @@
       "description": "Résumer l'article sur ChatGPT ChatGPT · Résumer l'article sur Mistral... Après la Core Update de décembre 2025, voici venu la première Core Update de...",
       "excerpt": "Résumer l'article sur ChatGPT ChatGPT · Résumer l'article sur Mistral... Après la Core Update de décembre 2025, voici venu la première Core Update de...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Apple préparerait un Siri “à la carte” avec plusieurs IA dans iOS 27 - Clubic",
-      "link": "https://www.clubic.com/actualite-606571-apple-preparerait-un-siri-a-la-carte-avec-plusieurs-ia-dans-ios-27.html",
-      "url": "https://www.clubic.com/actualite-606571-apple-preparerait-un-siri-a-la-carte-avec-plusieurs-ia-dans-ios-27.html",
-      "publishedAt": "2026-03-27T16:09:09.000Z",
-      "date": "2026-03-27T16:09:09.000Z",
-      "description": "Apple envisagerait d'ouvrir Siri à plusieurs intelligences artificielles, comme Claude ou Gemini. ChatGPT perdrait dans le même temps son...",
-      "excerpt": "Apple envisagerait d'ouvrir Siri à plusieurs intelligences artificielles, comme Claude ou Gemini. ChatGPT perdrait dans le même temps son...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Carrefour lance son service de courses sur ChatGPT - BFM",
-      "link": "https://www.bfmtv.com/tech/actualites/video-carrefour-lance-son-service-de-courses-sur-chat-gpt_VN-202603270664.html",
-      "url": "https://www.bfmtv.com/tech/actualites/video-carrefour-lance-son-service-de-courses-sur-chat-gpt_VN-202603270664.html",
-      "publishedAt": "2026-03-27T16:01:10.000Z",
-      "date": "2026-03-27T16:01:10.000Z",
-      "description": "VIDÉO - C'est une première en Europe: Carrefour a lancé jeudi un service de courses qui passe directement par ChatGPT... Cybersécurité · Innovation...",
-      "excerpt": "VIDÉO - C'est une première en Europe: Carrefour a lancé jeudi un service de courses qui passe directement par ChatGPT... Cybersécurité · Innovation...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Fuite géante chez Anthropic: pourquoi le futur Claude inquiète déjà ses créateurs",
-      "link": "https://www.01net.com/actualites/pourquoi-prochaine-version-claude-fait-peur-anthropic.html",
-      "url": "https://www.01net.com/actualites/pourquoi-prochaine-version-claude-fait-peur-anthropic.html",
-      "publishedAt": "2026-03-27T15:49:59.000Z",
-      "date": "2026-03-27T15:49:59.000Z",
-      "description": "... cybersécurité significatifs »... Chatgpt Gpt 5 Mode Agent. Après Claude, ChatGPT se met à traquer les...",
-      "excerpt": "... cybersécurité significatifs »... Chatgpt Gpt 5 Mode Agent. Après Claude, ChatGPT se met à traquer les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
