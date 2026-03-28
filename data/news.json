@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-28T01:17:56.113Z",
+  "generatedAt": "2026-03-28T06:46:57.621Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT, Claude, Gemini: les IA mentent délibérément, un phénomène documenté",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-claude-gemini-les-ia-mentent-deliberement-un-phenomene-documente-n253634.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-claude-gemini-les-ia-mentent-deliberement-un-phenomene-documente-n253634.html",
+      "publishedAt": "2026-03-28T00:42:11.000Z",
+      "date": "2026-03-28T00:42:11.000Z",
+      "description": "ChatGPT, Claude, Gemini: les IA mentent délibérément, un phénomène documenté... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "excerpt": "ChatGPT, Claude, Gemini: les IA mentent délibérément, un phénomène documenté... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Gemini copie Claude avec un import d'historique depuis les autres chatbots - Clubic",
       "link": "https://www.clubic.com/actualite-606529-gemini-copie-claude-avec-un-import-d-historique-depuis-les-autres-chatbots.html",
@@ -37,6 +47,16 @@
       "date": "2026-03-27T18:53:12.000Z",
       "description": "Accueil » Pourquoi Claude est en train de devenir le chouchou des développeurs (au détriment de ChatGPT )? Intelligence Artificielle par Yohann Poiron...",
       "excerpt": "Accueil » Pourquoi Claude est en train de devenir le chouchou des développeurs (au détriment de ChatGPT )? Intelligence Artificielle par Yohann Poiron...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "La domination croissante de la recherche par IA: tendances, statistiques et implications...",
+      "link": "https://www.mexc.com/fr/news/987497",
+      "url": "https://www.mexc.com/fr/news/987497",
+      "publishedAt": "2026-03-27T18:51:15.000Z",
+      "date": "2026-03-27T18:51:15.000Z",
+      "description": "Les moteurs de recherche IA conversationnels comme ChatGPT et le Mode avancé de Google réécrivent les règles de la façon dont les gens recherchent en...",
+      "excerpt": "Les moteurs de recherche IA conversationnels comme ChatGPT et le Mode avancé de Google réécrivent les règles de la façon dont les gens recherchent en...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
@@ -107,26 +127,6 @@
       "date": "2026-03-27T15:49:59.000Z",
       "description": "... cybersécurité significatifs »... Chatgpt Gpt 5 Mode Agent. Après Claude, ChatGPT se met à traquer les...",
       "excerpt": "... cybersécurité significatifs »... Chatgpt Gpt 5 Mode Agent. Après Claude, ChatGPT se met à traquer les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Selon un rapport, l'IA et les bots ont officiellement pris le contrôle d'Internet - Business AM",
-      "link": "https://fr.businessam.be/selon-un-rapport-lia-et-les-bots-ont-officiellement-pris-le-controle-dinternet/",
-      "url": "https://fr.businessam.be/selon-un-rapport-lia-et-les-bots-ont-officiellement-pris-le-controle-dinternet/",
-      "publishedAt": "2026-03-27T14:49:09.000Z",
-      "date": "2026-03-27T14:49:09.000Z",
-      "description": "La croissance rapide des outils d'IA tels que ChatGPT est à l'origine de cette explosion de l'activité générée par les machines. L'intelligence...",
-      "excerpt": "La croissance rapide des outils d'IA tels que ChatGPT est à l'origine de cette explosion de l'activité générée par les machines. L'intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI met en pause le \"mode adulte\" de ChatGPT et change de cap stratégique",
-      "link": "https://siecledigital.fr/2026/03/26/openai-met-en-pause-son-chatbot-adulte/",
-      "url": "https://siecledigital.fr/2026/03/26/openai-met-en-pause-son-chatbot-adulte/",
-      "publishedAt": "2026-03-27T14:22:41.000Z",
-      "date": "2026-03-27T14:22:41.000Z",
-      "description": "En effet, si la start-up multipliait ces derniers mois les expérimentations autour de ChatGPT, plusieurs initiatives viennent d'être mises à l'arrêt.",
-      "excerpt": "En effet, si la start-up multipliait ces derniers mois les expérimentations autour de ChatGPT, plusieurs initiatives viennent d'être mises à l'arrêt.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
