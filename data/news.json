@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T18:43:40.174Z",
+  "generatedAt": "2026-03-28T01:17:56.113Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,46 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Gemini copie Claude avec un import d'historique depuis les autres chatbots - Clubic",
+      "link": "https://www.clubic.com/actualite-606529-gemini-copie-claude-avec-un-import-d-historique-depuis-les-autres-chatbots.html",
+      "url": "https://www.clubic.com/actualite-606529-gemini-copie-claude-avec-un-import-d-historique-depuis-les-autres-chatbots.html",
+      "publishedAt": "2026-03-27T21:13:51.000Z",
+      "date": "2026-03-27T21:13:51.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Si ChatGPT a longtemps conservé un avantage en tant que pionnier, d...",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Si ChatGPT a longtemps conservé un avantage en tant que pionnier, d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT: OpenAI abandonne pour l'instant son mode adulte/érotique - KultureGeek",
+      "link": "https://kulturegeek.fr/news-349851/chatgpt-openai-abandonne-linstant-mode-adulte-erotique",
+      "url": "https://kulturegeek.fr/news-349851/chatgpt-openai-abandonne-linstant-mode-adulte-erotique",
+      "publishedAt": "2026-03-27T19:03:04.000Z",
+      "date": "2026-03-27T19:03:04.000Z",
+      "description": "En octobre 2025, Sam Altman promettait de « traiter les utilisateurs adultes comme des adultes » et annonçait des contenus érotiques dans ChatGPT...",
+      "excerpt": "En octobre 2025, Sam Altman promettait de « traiter les utilisateurs adultes comme des adultes » et annonçait des contenus érotiques dans ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT vs Claude: Pourquoi les entreprises et développeurs choisissent Anthropic en 2026",
+      "link": "https://www.blog-nouvelles-technologies.fr/363701/chatgpt-vs-claude-anthropic-comparatif-pro-ia-2026/",
+      "url": "https://www.blog-nouvelles-technologies.fr/363701/chatgpt-vs-claude-anthropic-comparatif-pro-ia-2026/",
+      "publishedAt": "2026-03-27T18:53:12.000Z",
+      "date": "2026-03-27T18:53:12.000Z",
+      "description": "Accueil » Pourquoi Claude est en train de devenir le chouchou des développeurs (au détriment de ChatGPT )? Intelligence Artificielle par Yohann Poiron...",
+      "excerpt": "Accueil » Pourquoi Claude est en train de devenir le chouchou des développeurs (au détriment de ChatGPT )? Intelligence Artificielle par Yohann Poiron...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT ne racontera pas d'histoires érotiques: OpenAI lâche le projet de mode adulte",
+      "link": "https://www.lebigdata.fr/chatgpt-ne-racontera-pas-dhistoires-erotiques-openai-lache-le-projet-de-mode-adulte",
+      "url": "https://www.lebigdata.fr/chatgpt-ne-racontera-pas-dhistoires-erotiques-openai-lache-le-projet-de-mode-adulte",
+      "publishedAt": "2026-03-27T18:25:39.000Z",
+      "date": "2026-03-27T18:25:39.000Z",
+      "description": "ChatGPT ne racontera pas d'histoires érotiques: OpenAI lâche... OpenAI has delayed ChatGPT's adult mode again. No new release date announced.",
+      "excerpt": "ChatGPT ne racontera pas d'histoires érotiques: OpenAI lâche... OpenAI has delayed ChatGPT's adult mode again. No new release date announced.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Fuite catastrophique chez Anthropic: le document secret qui révèle leur IA la plus dangereuse",
       "link": "https://www.cridutroll.fr/fuite-catastrophique-chez-anthropic-le-document-secret-qui-revele-leur-ia-la-plus-dangereuse/",
       "url": "https://www.cridutroll.fr/fuite-catastrophique-chez-anthropic-le-document-secret-qui-revele-leur-ia-la-plus-dangereuse/",
@@ -18,6 +58,26 @@
       "description": "Découverte par des chercheurs en cybersécurité, cette brèche a été rapidement colmatée après l'alerte de Fortune.... Oubliez ChatGPT Plus et...",
       "excerpt": "Découverte par des chercheurs en cybersécurité, cette brèche a été rapidement colmatée après l'alerte de Fortune.... Oubliez ChatGPT Plus et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Chatbots et données personnelles: une collecte massive qui inquiète les experts en cybersécurité",
+      "link": "https://www.ecranmobile.fr/Chatbots-et-donnees-personnelles-une-collecte-massive-qui-inquiete-les-experts-en-cybersecurite_a78751.amp.html",
+      "url": "https://www.ecranmobile.fr/Chatbots-et-donnees-personnelles-une-collecte-massive-qui-inquiete-les-experts-en-cybersecurite_a78751.amp.html",
+      "publishedAt": "2026-03-27T17:23:05.000Z",
+      "date": "2026-03-27T17:23:05.000Z",
+      "description": "... cybersécurité... Selon les informations disponibles sur l'App Store, ChatGPT collecte désormais 17 types de données, contre 10 l'année précédente.",
+      "excerpt": "... cybersécurité... Selon les informations disponibles sur l'App Store, ChatGPT collecte désormais 17 types de données, contre 10 l'année précédente.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google Core Update de Mars 2026: c'est reparti pour un tour - Abondance",
+      "link": "https://www.abondance.com/20260327-2057982-google-core-update-de-mars-2026-cest-reparti-pour-un-tour.html",
+      "url": "https://www.abondance.com/20260327-2057982-google-core-update-de-mars-2026-cest-reparti-pour-un-tour.html",
+      "publishedAt": "2026-03-27T17:17:13.000Z",
+      "date": "2026-03-27T17:17:13.000Z",
+      "description": "Résumer l'article sur ChatGPT ChatGPT · Résumer l'article sur Mistral... Après la Core Update de décembre 2025, voici venu la première Core Update de...",
+      "excerpt": "Résumer l'article sur ChatGPT ChatGPT · Résumer l'article sur Mistral... Après la Core Update de décembre 2025, voici venu la première Core Update de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Apple préparerait un Siri “à la carte” avec plusieurs IA dans iOS 27 - Clubic",
@@ -67,66 +127,6 @@
       "date": "2026-03-27T14:22:41.000Z",
       "description": "En effet, si la start-up multipliait ces derniers mois les expérimentations autour de ChatGPT, plusieurs initiatives viennent d'être mises à l'arrêt.",
       "excerpt": "En effet, si la start-up multipliait ces derniers mois les expérimentations autour de ChatGPT, plusieurs initiatives viennent d'être mises à l'arrêt.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les agents IA ont généré 7,9 milliards de requêtes web, et la plupart des entreprises ne les...",
-      "link": "https://itsocial.fr/cybersecurite/cybersecurite-articles/les-agents-ia-ont-genere-79-milliards-de-requetes-web-et-la-plupart-des-entreprises-ne-les-voient-pas/",
-      "url": "https://itsocial.fr/cybersecurite/cybersecurite-articles/les-agents-ia-ont-genere-79-milliards-de-requetes-web-et-la-plupart-des-entreprises-ne-les-voient-pas/",
-      "publishedAt": "2026-03-27T14:11:01.000Z",
-      "date": "2026-03-27T14:11:01.000Z",
-      "description": "... ChatGPT -User et PerplexityBot, trois... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "excerpt": "... ChatGPT -User et PerplexityBot, trois... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Project Helix: pourquoi Microsoft veut unifier le développement sur Xbox - TechRadar",
-      "link": "https://global.techradar.com/fr-fr/gaming/project-helix-pourquoi-microsoft-veut-unifier-le-developpement-sur-xbox",
-      "url": "https://global.techradar.com/fr-fr/gaming/project-helix-pourquoi-microsoft-veut-unifier-le-developpement-sur-xbox",
-      "publishedAt": "2026-03-27T13:57:55.000Z",
-      "date": "2026-03-27T13:57:55.000Z",
-      "description": "... ( SoC ) personnalisé basé sur AMD, co-conçu pour la prochaine génération... ChatGPT ChatGPT n'utilise pas une seule IA, et vous ne le...",
-      "excerpt": "... ( SoC ) personnalisé basé sur AMD, co-conçu pour la prochaine génération... ChatGPT ChatGPT n'utilise pas une seule IA, et vous ne le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT ne racontera pas d'histoires érotiques: OpenAI lâche le projet de mode adulte",
-      "link": "https://www.lebigdata.fr/chatgpt-ne-racontera-pas-dhistoires-erotiques-openai-lache-le-projet-de-mode-adulte",
-      "url": "https://www.lebigdata.fr/chatgpt-ne-racontera-pas-dhistoires-erotiques-openai-lache-le-projet-de-mode-adulte",
-      "publishedAt": "2026-03-27T12:25:39.000Z",
-      "date": "2026-03-27T12:25:39.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT ne racontera pas d'histoires érotiques: OpenAI lâche le...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT ne racontera pas d'histoires érotiques: OpenAI lâche le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI abandonne finalement le « mode adulte » et les tchats érotiques dans ChatGPT",
-      "link": "https://www.lemonde.fr/pixels/article/2026/03/27/openai-abandonne-finalement-le-mode-adulte-et-les-tchats-erotiques-dans-chatgpt_6674545_4408996.html",
-      "url": "https://www.lemonde.fr/pixels/article/2026/03/27/openai-abandonne-finalement-le-mode-adulte-et-les-tchats-erotiques-dans-chatgpt_6674545_4408996.html",
-      "publishedAt": "2026-03-27T12:20:54.000Z",
-      "date": "2026-03-27T12:20:54.000Z",
-      "description": "... ChatGPT. Cette décision, dévoilée par... Votre vigie du numérique: communautés en ligne, cybersécurité, jeux vidéo, intelligence artificielle…",
-      "excerpt": "... ChatGPT. Cette décision, dévoilée par... Votre vigie du numérique: communautés en ligne, cybersécurité, jeux vidéo, intelligence artificielle…",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Publicités dans ChatGPT, OpenAI projette un revenu annualisé de 100 millions de dollars",
-      "link": "https://itsocial.fr/contenus/actualites/publicites-dans-chatgpt-openai-projette-un-revenu-annualise-de-100-millions-de-dollars/",
-      "url": "https://itsocial.fr/contenus/actualites/publicites-dans-chatgpt-openai-projette-un-revenu-annualise-de-100-millions-de-dollars/",
-      "publishedAt": "2026-03-27T10:04:07.000Z",
-      "date": "2026-03-27T10:04:07.000Z",
-      "description": "Cybersécurité - Cas d'usages 03/03/2026. Migration de l'infrastructure traditionnelle vers AWS | DevOps – Algofi |... Intelligence Artificielle...",
-      "excerpt": "Cybersécurité - Cas d'usages 03/03/2026. Migration de l'infrastructure traditionnelle vers AWS | DevOps – Algofi |... Intelligence Artificielle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Quelle IA collecte le plus de données personnelles? - BDM",
-      "link": "https://www.blogdumoderateur.com/quelle-ia-collecte-plus-donnees-personnelles/",
-      "url": "https://www.blogdumoderateur.com/quelle-ia-collecte-plus-donnees-personnelles/",
-      "publishedAt": "2026-03-27T09:50:26.000Z",
-      "date": "2026-03-27T09:50:26.000Z",
-      "description": "De son côté, ChatGPT a sensiblement élargi sa collecte de données. Le... Cybersécurité /; Étude /; Gemini /; Anthropic /; Meta /; OpenAI. Partager",
-      "excerpt": "De son côté, ChatGPT a sensiblement élargi sa collecte de données. Le... Cybersécurité /; Étude /; Gemini /; Anthropic /; Meta /; OpenAI. Partager",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
