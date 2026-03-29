@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-28T18:27:39.394Z",
+  "generatedAt": "2026-03-29T01:27:30.292Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,14 +10,14 @@
   "failedSources": [],
   "items": [
     {
-      "title": "IA et vie privée: Pourquoi les utilisateurs délaissent ChatGPT et Gemini - BlogNT",
+      "title": "IA et vie privée: Pourquoi les utilisateurs commencent à fuir ChatGPT et Gemini - BlogNT",
       "link": "https://www.blog-nouvelles-technologies.fr/362142/ia-vie-privee-defiance-utilisateur-rapport-malwarebytes/",
       "url": "https://www.blog-nouvelles-technologies.fr/362142/ia-vie-privee-defiance-utilisateur-rapport-malwarebytes/",
-      "publishedAt": "2026-03-28T09:53:14.000Z",
-      "date": "2026-03-28T09:53:14.000Z",
-      "description": "L'étude vient d'un éditeur de solutions de cybersécurité, pas d'un institut académique indépendant, et elle mesure avant tout un ressenti déclaratif.",
-      "excerpt": "L'étude vient d'un éditeur de solutions de cybersécurité, pas d'un institut académique indépendant, et elle mesure avant tout un ressenti déclaratif.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "publishedAt": "2026-03-28T15:53:14.000Z",
+      "date": "2026-03-28T15:53:14.000Z",
+      "description": "Selon Malwarebytes, plus de 40 % des utilisateurs ont cessé d'utiliser ChatGPT ou Gemini par crainte pour leurs données.",
+      "excerpt": "Selon Malwarebytes, plus de 40 % des utilisateurs ont cessé d'utiliser ChatGPT ou Gemini par crainte pour leurs données.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "ChatGPT, Claude, Gemini: des IA accusées de tromper leurs utilisateurs, une dérive documentée",
