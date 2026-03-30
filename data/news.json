@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-29T18:28:43.834Z",
+  "generatedAt": "2026-03-30T01:28:07.577Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Chauffer des logements avec des datacenters?: Actualités - Orange",
+      "link": "https://actu.orange.fr/videos/high-tech/chauffer-des-logements-avec-des-datacenters-CNT000002o6eDH.html",
+      "url": "https://actu.orange.fr/videos/high-tech/chauffer-des-logements-avec-des-datacenters-CNT000002o6eDH.html",
+      "publishedAt": "2026-03-29T22:43:14.000Z",
+      "date": "2026-03-29T22:43:14.000Z",
+      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Le ChatGPT de la langue des signes. Tous publics. Cette question...",
+      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Le ChatGPT de la langue des signes. Tous publics. Cette question...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI: Des « prompts de sécurité » open source pour protéger les ados - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/363227/openai-security-prompts-teenagers-gpt-oss-safeguard-2026/",
+      "url": "https://www.blog-nouvelles-technologies.fr/363227/openai-security-prompts-teenagers-gpt-oss-safeguard-2026/",
+      "publishedAt": "2026-03-29T18:51:42.000Z",
+      "date": "2026-03-29T18:51:42.000Z",
+      "description": "OpenAI a aussi déployé récemment des dispositifs plus orientés produit, comme des contrôles parentaux et des systèmes d'estimation d'âge dans ChatGPT...",
+      "excerpt": "OpenAI a aussi déployé récemment des dispositifs plus orientés produit, comme des contrôles parentaux et des systèmes d'estimation d'âge dans ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Сообщается, что справедливая стоимость биткоина составляет 165 000 долларов...",
+      "link": "https://www.mexc.com/fr/news/flash/21568906",
+      "url": "https://www.mexc.com/fr/news/flash/21568906",
+      "publishedAt": "2026-03-29T10:43:58.000Z",
+      "date": "2026-03-29T10:43:58.000Z",
+      "description": "( ChatGPT Maps Out Breakout Timeline) est apparu sur BitcoinEthereumNews.com.... Announcement Center · Learn · MEXC Blog · Crypto News. All Crypto...",
+      "excerpt": "( ChatGPT Maps Out Breakout Timeline) est apparu sur BitcoinEthereumNews.com.... Announcement Center · Learn · MEXC Blog · Crypto News. All Crypto...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Carrefour débarque dans ChatGPT pour faire ses courses avec l'IA - iPhoneSoft",
+      "link": "https://iphonesoft.fr/2026/03/29/carrefour-debarque-chatgpt-courses-ia",
+      "url": "https://iphonesoft.fr/2026/03/29/carrefour-debarque-chatgpt-courses-ia",
+      "publishedAt": "2026-03-29T07:06:18.000Z",
+      "date": "2026-03-29T07:06:18.000Z",
+      "description": "Carrefour essaye de vivre avec son époque et se lance sur ChatGPT. Depuis deux jours, les utilisateurs peuvent désormais planifier,...",
+      "excerpt": "Carrefour essaye de vivre avec son époque et se lance sur ChatGPT. Depuis deux jours, les utilisateurs peuvent désormais planifier,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "IA et vie privée: Pourquoi les utilisateurs commencent à fuir ChatGPT et Gemini - BlogNT",
       "link": "https://www.blog-nouvelles-technologies.fr/362142/ia-vie-privee-defiance-utilisateur-rapport-malwarebytes/",
@@ -87,46 +127,6 @@
       "date": "2026-03-27T18:51:15.000Z",
       "description": "Les moteurs de recherche IA conversationnels comme ChatGPT et le Mode avancé de Google réécrivent les règles de la façon dont les gens recherchent en...",
       "excerpt": "Les moteurs de recherche IA conversationnels comme ChatGPT et le Mode avancé de Google réécrivent les règles de la façon dont les gens recherchent en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT ne racontera pas d'histoires érotiques: OpenAI lâche le projet de mode adulte",
-      "link": "https://www.lebigdata.fr/chatgpt-ne-racontera-pas-dhistoires-erotiques-openai-lache-le-projet-de-mode-adulte",
-      "url": "https://www.lebigdata.fr/chatgpt-ne-racontera-pas-dhistoires-erotiques-openai-lache-le-projet-de-mode-adulte",
-      "publishedAt": "2026-03-27T18:25:39.000Z",
-      "date": "2026-03-27T18:25:39.000Z",
-      "description": "ChatGPT ne racontera pas d'histoires érotiques: OpenAI lâche... OpenAI has delayed ChatGPT's adult mode again. No new release date announced.",
-      "excerpt": "ChatGPT ne racontera pas d'histoires érotiques: OpenAI lâche... OpenAI has delayed ChatGPT's adult mode again. No new release date announced.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Fuite catastrophique chez Anthropic: le document secret qui révèle leur IA la plus dangereuse",
-      "link": "https://www.cridutroll.fr/fuite-catastrophique-chez-anthropic-le-document-secret-qui-revele-leur-ia-la-plus-dangereuse/",
-      "url": "https://www.cridutroll.fr/fuite-catastrophique-chez-anthropic-le-document-secret-qui-revele-leur-ia-la-plus-dangereuse/",
-      "publishedAt": "2026-03-27T17:37:42.000Z",
-      "date": "2026-03-27T17:37:42.000Z",
-      "description": "Découverte par des chercheurs en cybersécurité, cette brèche a été rapidement colmatée après l'alerte de Fortune.... Oubliez ChatGPT Plus et...",
-      "excerpt": "Découverte par des chercheurs en cybersécurité, cette brèche a été rapidement colmatée après l'alerte de Fortune.... Oubliez ChatGPT Plus et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Chatbots et données personnelles: une collecte massive qui inquiète les experts en cybersécurité",
-      "link": "https://www.ecranmobile.fr/Chatbots-et-donnees-personnelles-une-collecte-massive-qui-inquiete-les-experts-en-cybersecurite_a78751.amp.html",
-      "url": "https://www.ecranmobile.fr/Chatbots-et-donnees-personnelles-une-collecte-massive-qui-inquiete-les-experts-en-cybersecurite_a78751.amp.html",
-      "publishedAt": "2026-03-27T17:23:05.000Z",
-      "date": "2026-03-27T17:23:05.000Z",
-      "description": "... cybersécurité... Selon les informations disponibles sur l'App Store, ChatGPT collecte désormais 17 types de données, contre 10 l'année précédente.",
-      "excerpt": "... cybersécurité... Selon les informations disponibles sur l'App Store, ChatGPT collecte désormais 17 types de données, contre 10 l'année précédente.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google Core Update de Mars 2026: c'est reparti pour un tour - Abondance",
-      "link": "https://www.abondance.com/20260327-2057982-google-core-update-de-mars-2026-cest-reparti-pour-un-tour.html",
-      "url": "https://www.abondance.com/20260327-2057982-google-core-update-de-mars-2026-cest-reparti-pour-un-tour.html",
-      "publishedAt": "2026-03-27T17:17:13.000Z",
-      "date": "2026-03-27T17:17:13.000Z",
-      "description": "Résumer l'article sur ChatGPT ChatGPT · Résumer l'article sur Mistral... Après la Core Update de décembre 2025, voici venu la première Core Update de...",
-      "excerpt": "Résumer l'article sur ChatGPT ChatGPT · Résumer l'article sur Mistral... Après la Core Update de décembre 2025, voici venu la première Core Update de...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
