@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T07:16:15.070Z",
+  "generatedAt": "2026-03-30T12:56:18.078Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Data: ce que vos assistants IA savent vraiment de vous - Comarketing-News",
+      "link": "https://comarketing-news.fr/data-ce-que-vos-assistants-ia-savent-vraiment-de-vous/",
+      "url": "https://comarketing-news.fr/data-ce-que-vos-assistants-ia-savent-vraiment-de-vous/",
+      "publishedAt": "2026-03-30T06:45:56.000Z",
+      "date": "2026-03-30T06:45:56.000Z",
+      "description": "De Meta AI à ChatGPT en passant par Claude ou Gemini, une analyse des pratiques de collecte de données des dix principaux assistants IA révèle des...",
+      "excerpt": "De Meta AI à ChatGPT en passant par Claude ou Gemini, une analyse des pratiques de collecte de données des dix principaux assistants IA révèle des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Chauffer des logements avec des datacenters?: Actualités - Orange",
       "link": "https://actu.orange.fr/videos/high-tech/chauffer-des-logements-avec-des-datacenters-CNT000002o6eDH.html",
@@ -30,6 +40,26 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
+      "title": "Φάλαινα ανοίγει short θέση BTC αξίας 41,87 εκατ. δολαρίων. Τιμή ρευστοποίησης ορίζεται...",
+      "link": "https://www.mexc.com/fr/news/flash/23142300",
+      "url": "https://www.mexc.com/fr/news/flash/23142300",
+      "publishedAt": "2026-03-29T15:08:38.000Z",
+      "date": "2026-03-29T15:08:38.000Z",
+      "description": "ChatGPT sélectionne 2 actions résistantes à la récession à acheter en 2026... Announcement Center · Learn · MEXC Blog · Crypto News. All Crypto Prices.",
+      "excerpt": "ChatGPT sélectionne 2 actions résistantes à la récession à acheter en 2026... Announcement Center · Learn · MEXC Blog · Crypto News. All Crypto Prices.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "L'Iran accuse les États-Unis de chercher à engager des discussions tout en se préparant à...",
+      "link": "https://www.mexc.com/es/news/flash/22599877",
+      "url": "https://www.mexc.com/es/news/flash/22599877",
+      "publishedAt": "2026-03-29T15:07:59.000Z",
+      "date": "2026-03-29T15:07:59.000Z",
+      "description": "ChatGPT elige 2 acciones resistentes a la recesión para comprar en 2026... Announcement Center · Learn · MEXC Blog · Crypto News. All Crypto Prices.",
+      "excerpt": "ChatGPT elige 2 acciones resistentes a la recesión para comprar en 2026... Announcement Center · Learn · MEXC Blog · Crypto News. All Crypto Prices.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Сообщается, что справедливая стоимость биткоина составляет 165 000 долларов...",
       "link": "https://www.mexc.com/fr/news/flash/21568906",
       "url": "https://www.mexc.com/fr/news/flash/21568906",
@@ -37,6 +67,16 @@
       "date": "2026-03-29T10:43:58.000Z",
       "description": "( ChatGPT Maps Out Breakout Timeline) est apparu sur BitcoinEthereumNews.com.... Announcement Center · Learn · MEXC Blog · Crypto News. All Crypto...",
       "excerpt": "( ChatGPT Maps Out Breakout Timeline) est apparu sur BitcoinEthereumNews.com.... Announcement Center · Learn · MEXC Blog · Crypto News. All Crypto...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "تخطط AITECH لحرق رموز خلال 3 أيام، ما سيؤدي إلى خفض المعروض ضمن إطار إدارة شفاف من Solidus Ai Tech.",
+      "link": "https://www.mexc.com/fr/news/flash/21692247",
+      "url": "https://www.mexc.com/fr/news/flash/21692247",
+      "publishedAt": "2026-03-29T10:29:35.000Z",
+      "date": "2026-03-29T10:29:35.000Z",
+      "description": "Quand le prix rattrapera-t-il son retard? ( ChatGPT établit le calendrier de la rupture). L'article When Will the...",
+      "excerpt": "Quand le prix rattrapera-t-il son retard? ( ChatGPT établit le calendrier de la rupture). L'article When Will the...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
@@ -87,46 +127,6 @@
       "date": "2026-03-28T00:42:11.000Z",
       "description": "ChatGPT, Claude, Gemini: les IA mentent délibérément, un phénomène documenté... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
       "excerpt": "ChatGPT, Claude, Gemini: les IA mentent délibérément, un phénomène documenté... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Gemini copie Claude avec un import d'historique depuis les autres chatbots - Clubic",
-      "link": "https://www.clubic.com/actualite-606529-gemini-copie-claude-avec-un-import-d-historique-depuis-les-autres-chatbots.html",
-      "url": "https://www.clubic.com/actualite-606529-gemini-copie-claude-avec-un-import-d-historique-depuis-les-autres-chatbots.html",
-      "publishedAt": "2026-03-27T21:13:51.000Z",
-      "date": "2026-03-27T21:13:51.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Si ChatGPT a longtemps conservé un avantage en tant que pionnier, d...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Si ChatGPT a longtemps conservé un avantage en tant que pionnier, d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: OpenAI abandonne pour l'instant son mode adulte/érotique - KultureGeek",
-      "link": "https://kulturegeek.fr/news-349851/chatgpt-openai-abandonne-linstant-mode-adulte-erotique",
-      "url": "https://kulturegeek.fr/news-349851/chatgpt-openai-abandonne-linstant-mode-adulte-erotique",
-      "publishedAt": "2026-03-27T19:03:04.000Z",
-      "date": "2026-03-27T19:03:04.000Z",
-      "description": "En octobre 2025, Sam Altman promettait de « traiter les utilisateurs adultes comme des adultes » et annonçait des contenus érotiques dans ChatGPT...",
-      "excerpt": "En octobre 2025, Sam Altman promettait de « traiter les utilisateurs adultes comme des adultes » et annonçait des contenus érotiques dans ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT vs Claude: Pourquoi les entreprises et développeurs choisissent Anthropic en 2026",
-      "link": "https://www.blog-nouvelles-technologies.fr/363701/chatgpt-vs-claude-anthropic-comparatif-pro-ia-2026/",
-      "url": "https://www.blog-nouvelles-technologies.fr/363701/chatgpt-vs-claude-anthropic-comparatif-pro-ia-2026/",
-      "publishedAt": "2026-03-27T18:53:12.000Z",
-      "date": "2026-03-27T18:53:12.000Z",
-      "description": "Accueil » Pourquoi Claude est en train de devenir le chouchou des développeurs (au détriment de ChatGPT )? Intelligence Artificielle par Yohann Poiron...",
-      "excerpt": "Accueil » Pourquoi Claude est en train de devenir le chouchou des développeurs (au détriment de ChatGPT )? Intelligence Artificielle par Yohann Poiron...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "La domination croissante de la recherche par IA: tendances, statistiques et implications...",
-      "link": "https://www.mexc.com/fr/news/987497",
-      "url": "https://www.mexc.com/fr/news/987497",
-      "publishedAt": "2026-03-27T18:51:15.000Z",
-      "date": "2026-03-27T18:51:15.000Z",
-      "description": "Les moteurs de recherche IA conversationnels comme ChatGPT et le Mode avancé de Google réécrivent les règles de la façon dont les gens recherchent en...",
-      "excerpt": "Les moteurs de recherche IA conversationnels comme ChatGPT et le Mode avancé de Google réécrivent les règles de la façon dont les gens recherchent en...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
