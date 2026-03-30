@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T12:56:18.078Z",
+  "generatedAt": "2026-03-30T18:47:29.162Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,116 @@
   "failedSources": [],
   "items": [
     {
+      "title": "ChatGPT perd du terrain, le trafic web provenant de Gemini a bondi de 115% - Siècle Digital",
+      "link": "https://siecledigital.fr/2026/03/30/chatgpt-perd-du-terrain-le-trafic-provenant-de-gemini-a-bondi-de-115/",
+      "url": "https://siecledigital.fr/2026/03/30/chatgpt-perd-du-terrain-le-trafic-provenant-de-gemini-a-bondi-de-115/",
+      "publishedAt": "2026-03-30T15:52:54.000Z",
+      "date": "2026-03-30T15:52:54.000Z",
+      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT perd du...",
+      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT perd du...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'IA vous dit-elle toujours ce que vous voulez entendre? Une étude révèle un vrai danger",
+      "link": "https://siecledigital.fr/2026/03/30/les-chatbots-ia-flattent-trop-leurs-utilisateurs-selon-cette-etude/",
+      "url": "https://siecledigital.fr/2026/03/30/les-chatbots-ia-flattent-trop-leurs-utilisateurs-selon-cette-etude/",
+      "publishedAt": "2026-03-30T15:52:46.000Z",
+      "date": "2026-03-30T15:52:46.000Z",
+      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT, Claude, Gemini ou encore DeepSeek. L'actu digitale évolue...",
+      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT, Claude, Gemini ou encore DeepSeek. L'actu digitale évolue...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google attaque frontalement ChatGPT avec une nouvelle arme stratégique - Siècle Digital",
+      "link": "https://siecledigital.fr/2026/03/30/google-veut-vider-chatgpt-de-ses-utilisateurs-avec-une-arme-redoutable-votre-propre-historique/",
+      "url": "https://siecledigital.fr/2026/03/30/google-veut-vider-chatgpt-de-ses-utilisateurs-avec-une-arme-redoutable-votre-propre-historique/",
+      "publishedAt": "2026-03-30T15:52:42.000Z",
+      "date": "2026-03-30T15:52:42.000Z",
+      "description": "Pendant de nombreux mois, les utilisateurs de ChatGPT se sentaient bloqués. Avec les GPT, ils ne voulaient pas recréer l'ensemble du processus...",
+      "excerpt": "Pendant de nombreux mois, les utilisateurs de ChatGPT se sentaient bloqués. Avec les GPT, ils ne voulaient pas recréer l'ensemble du processus...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Voici pourquoi Apple va laisser Claude, Gemini et ChatGPT s'inviter dans votre iPhone avec iOS 27",
+      "link": "https://www.clubic.com/actualite-606838-voici-pourquoi-apple-va-laisser-claude-gemini-et-chatgpt-s-inviter-dans-votre-iphone-avec-ios-27.html",
+      "url": "https://www.clubic.com/actualite-606838-voici-pourquoi-apple-va-laisser-claude-gemini-et-chatgpt-s-inviter-dans-votre-iphone-avec-ios-27.html",
+      "publishedAt": "2026-03-30T15:25:49.000Z",
+      "date": "2026-03-30T15:25:49.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT - d'être invoquées directement depuis Siri. L'utilisateur n'a...",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT - d'être invoquées directement depuis Siri. L'utilisateur n'a...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google AI Overviews désormais utilisé pour des arnaques - DCOD | Cybersécurité",
+      "link": "https://dcod.ch/2026/03/30/google-ai-overviews-arnaques/",
+      "url": "https://dcod.ch/2026/03/30/google-ai-overviews-arnaques/",
+      "publishedAt": "2026-03-30T15:02:55.000Z",
+      "date": "2026-03-30T15:02:55.000Z",
+      "description": "Google AI Overviews: une infrastructure facilitant la fraude · Le coût financier des erreurs de Google AI Overviews · ChatGPT et IA conversationnelles...",
+      "excerpt": "Google AI Overviews: une infrastructure facilitant la fraude · Le coût financier des erreurs de Google AI Overviews · ChatGPT et IA conversationnelles...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Apple change de cap: Siri va regrouper ChatGPT, Gemini et toutes les IA! - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/apple-change-de-cap-siri-va-regrouper-chatgpt-gemini-et-toutes-les-ia",
+      "url": "https://www.lebigdata.fr/apple-change-de-cap-siri-va-regrouper-chatgpt-gemini-et-toutes-les-ia",
+      "publishedAt": "2026-03-30T14:18:54.000Z",
+      "date": "2026-03-30T14:18:54.000Z",
+      "description": "Apple change de cap: Siri va regrouper ChatGPT, Gemini et toutes les IA!... De Ormuz à la cybersécurité: les nouveaux risques pour l'OTAN. 27...",
+      "excerpt": "Apple change de cap: Siri va regrouper ChatGPT, Gemini et toutes les IA!... De Ormuz à la cybersécurité: les nouveaux risques pour l'OTAN. 27...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un homme, sa chienne et ChatGPT: la saga du vaccin IA en Australie - Orange Actu",
+      "link": "https://actu.orange.fr/societe/insolite/un-homme-sa-chienne-et-chatgpt-la-saga-du-vaccin-ia-en-australie-CNT000002o6lgf.html",
+      "url": "https://actu.orange.fr/societe/insolite/un-homme-sa-chienne-et-chatgpt-la-saga-du-vaccin-ia-en-australie-CNT000002o6lgf.html",
+      "publishedAt": "2026-03-30T12:52:49.000Z",
+      "date": "2026-03-30T12:52:49.000Z",
+      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Un homme, sa chienne et ChatGPT: la saga du vaccin IA en Australie.",
+      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Un homme, sa chienne et ChatGPT: la saga du vaccin IA en Australie.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude Mythos », l'IA trop dangereuse pour être mise en ligne, n'était-elle juste qu'un gros mytho",
+      "link": "https://atlantico.fr/article/rdv/claude-mythos-lia-trop-dangereuse-pour-etre-mise-en-ligne-netait-elle-juste-quun-gros-mytho-hugues-serraf",
+      "url": "https://atlantico.fr/article/rdv/claude-mythos-lia-trop-dangereuse-pour-etre-mise-en-ligne-netait-elle-juste-quun-gros-mytho-hugues-serraf",
+      "publishedAt": "2026-03-30T11:20:57.000Z",
+      "date": "2026-03-30T11:20:57.000Z",
+      "description": "« Mythos », la nouvelle version de « Claude », l'équivalent de ChatGPT... cybersécurité — ce qui n'est déjà pas mal en termes de nuisance mais...",
+      "excerpt": "« Mythos », la nouvelle version de « Claude », l'équivalent de ChatGPT... cybersécurité — ce qui n'est déjà pas mal en termes de nuisance mais...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Quand les logiciels malveillants se déguisent en application de confiance, nos données...",
+      "link": "https://atlantico.fr/article/rdv/quand-les-logiciels-malveillants-se-deguisent-en-application-de-confiance-nos-donnees-sont-encore-siphonnees-benoit-grunemwald",
+      "url": "https://atlantico.fr/article/rdv/quand-les-logiciels-malveillants-se-deguisent-en-application-de-confiance-nos-donnees-sont-encore-siphonnees-benoit-grunemwald",
+      "publishedAt": "2026-03-30T10:06:30.000Z",
+      "date": "2026-03-30T10:06:30.000Z",
+      "description": "... ChatGPT ou Meta ne marque-t-il pas un tournant, où la confiance... La cybersécurité relève ici d'une logique d'escalade continue plutôt que...",
+      "excerpt": "... ChatGPT ou Meta ne marque-t-il pas un tournant, où la confiance... La cybersécurité relève ici d'une logique d'escalade continue plutôt que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenClaw, une intelligence artificielle autonome, reçoit les éloges de Jensen Huang.",
+      "link": "https://www.vietnam.vn/fr/openclaw-ai-tu-tri-khien-jensen-huang-khen-ngoi",
+      "url": "https://www.vietnam.vn/fr/openclaw-ai-tu-tri-khien-jensen-huang-khen-ngoi",
+      "publishedAt": "2026-03-30T09:53:21.000Z",
+      "date": "2026-03-30T09:53:21.000Z",
+      "description": "OpenClaw est devenu un phénomène mondial, surnommé « le prochain ChatGPT » par le PDG de Nvidia, mais il présente également de sérieux risques en...",
+      "excerpt": "OpenClaw est devenu un phénomène mondial, surnommé « le prochain ChatGPT » par le PDG de Nvidia, mais il présente également de sérieux risques en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Chatbots avec accès au web: une nouvelle porte pour les cyberattaques - Panda Security",
+      "link": "https://www.pandasecurity.com/fr/mediacenter/chatbots-avec-acces-au-web-une-nouvelle-porte-pour-les-cyberattaques/",
+      "url": "https://www.pandasecurity.com/fr/mediacenter/chatbots-avec-acces-au-web-une-nouvelle-porte-pour-les-cyberattaques/",
+      "publishedAt": "2026-03-30T08:58:14.000Z",
+      "date": "2026-03-30T08:58:14.000Z",
+      "description": "Comme souvent en cybersécurité, le danger ne vient pas uniquement de la... vos-conversations- chatgpt -sont-plus-personnelles-que-vous-.",
+      "excerpt": "Comme souvent en cybersécurité, le danger ne vient pas uniquement de la... vos-conversations- chatgpt -sont-plus-personnelles-que-vous-.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Data: ce que vos assistants IA savent vraiment de vous - Comarketing-News",
       "link": "https://comarketing-news.fr/data-ce-que-vos-assistants-ia-savent-vraiment-de-vous/",
       "url": "https://comarketing-news.fr/data-ce-que-vos-assistants-ia-savent-vraiment-de-vous/",
@@ -17,116 +127,6 @@
       "date": "2026-03-30T06:45:56.000Z",
       "description": "De Meta AI à ChatGPT en passant par Claude ou Gemini, une analyse des pratiques de collecte de données des dix principaux assistants IA révèle des...",
       "excerpt": "De Meta AI à ChatGPT en passant par Claude ou Gemini, une analyse des pratiques de collecte de données des dix principaux assistants IA révèle des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Chauffer des logements avec des datacenters?: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/high-tech/chauffer-des-logements-avec-des-datacenters-CNT000002o6eDH.html",
-      "url": "https://actu.orange.fr/videos/high-tech/chauffer-des-logements-avec-des-datacenters-CNT000002o6eDH.html",
-      "publishedAt": "2026-03-29T22:43:14.000Z",
-      "date": "2026-03-29T22:43:14.000Z",
-      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Le ChatGPT de la langue des signes. Tous publics. Cette question...",
-      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Le ChatGPT de la langue des signes. Tous publics. Cette question...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI: Des « prompts de sécurité » open source pour protéger les ados - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/363227/openai-security-prompts-teenagers-gpt-oss-safeguard-2026/",
-      "url": "https://www.blog-nouvelles-technologies.fr/363227/openai-security-prompts-teenagers-gpt-oss-safeguard-2026/",
-      "publishedAt": "2026-03-29T18:51:42.000Z",
-      "date": "2026-03-29T18:51:42.000Z",
-      "description": "OpenAI a aussi déployé récemment des dispositifs plus orientés produit, comme des contrôles parentaux et des systèmes d'estimation d'âge dans ChatGPT...",
-      "excerpt": "OpenAI a aussi déployé récemment des dispositifs plus orientés produit, comme des contrôles parentaux et des systèmes d'estimation d'âge dans ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Φάλαινα ανοίγει short θέση BTC αξίας 41,87 εκατ. δολαρίων. Τιμή ρευστοποίησης ορίζεται...",
-      "link": "https://www.mexc.com/fr/news/flash/23142300",
-      "url": "https://www.mexc.com/fr/news/flash/23142300",
-      "publishedAt": "2026-03-29T15:08:38.000Z",
-      "date": "2026-03-29T15:08:38.000Z",
-      "description": "ChatGPT sélectionne 2 actions résistantes à la récession à acheter en 2026... Announcement Center · Learn · MEXC Blog · Crypto News. All Crypto Prices.",
-      "excerpt": "ChatGPT sélectionne 2 actions résistantes à la récession à acheter en 2026... Announcement Center · Learn · MEXC Blog · Crypto News. All Crypto Prices.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "L'Iran accuse les États-Unis de chercher à engager des discussions tout en se préparant à...",
-      "link": "https://www.mexc.com/es/news/flash/22599877",
-      "url": "https://www.mexc.com/es/news/flash/22599877",
-      "publishedAt": "2026-03-29T15:07:59.000Z",
-      "date": "2026-03-29T15:07:59.000Z",
-      "description": "ChatGPT elige 2 acciones resistentes a la recesión para comprar en 2026... Announcement Center · Learn · MEXC Blog · Crypto News. All Crypto Prices.",
-      "excerpt": "ChatGPT elige 2 acciones resistentes a la recesión para comprar en 2026... Announcement Center · Learn · MEXC Blog · Crypto News. All Crypto Prices.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Сообщается, что справедливая стоимость биткоина составляет 165 000 долларов...",
-      "link": "https://www.mexc.com/fr/news/flash/21568906",
-      "url": "https://www.mexc.com/fr/news/flash/21568906",
-      "publishedAt": "2026-03-29T10:43:58.000Z",
-      "date": "2026-03-29T10:43:58.000Z",
-      "description": "( ChatGPT Maps Out Breakout Timeline) est apparu sur BitcoinEthereumNews.com.... Announcement Center · Learn · MEXC Blog · Crypto News. All Crypto...",
-      "excerpt": "( ChatGPT Maps Out Breakout Timeline) est apparu sur BitcoinEthereumNews.com.... Announcement Center · Learn · MEXC Blog · Crypto News. All Crypto...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "تخطط AITECH لحرق رموز خلال 3 أيام، ما سيؤدي إلى خفض المعروض ضمن إطار إدارة شفاف من Solidus Ai Tech.",
-      "link": "https://www.mexc.com/fr/news/flash/21692247",
-      "url": "https://www.mexc.com/fr/news/flash/21692247",
-      "publishedAt": "2026-03-29T10:29:35.000Z",
-      "date": "2026-03-29T10:29:35.000Z",
-      "description": "Quand le prix rattrapera-t-il son retard? ( ChatGPT établit le calendrier de la rupture). L'article When Will the...",
-      "excerpt": "Quand le prix rattrapera-t-il son retard? ( ChatGPT établit le calendrier de la rupture). L'article When Will the...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Carrefour débarque dans ChatGPT pour faire ses courses avec l'IA - iPhoneSoft",
-      "link": "https://iphonesoft.fr/2026/03/29/carrefour-debarque-chatgpt-courses-ia",
-      "url": "https://iphonesoft.fr/2026/03/29/carrefour-debarque-chatgpt-courses-ia",
-      "publishedAt": "2026-03-29T07:06:18.000Z",
-      "date": "2026-03-29T07:06:18.000Z",
-      "description": "Carrefour essaye de vivre avec son époque et se lance sur ChatGPT. Depuis deux jours, les utilisateurs peuvent désormais planifier,...",
-      "excerpt": "Carrefour essaye de vivre avec son époque et se lance sur ChatGPT. Depuis deux jours, les utilisateurs peuvent désormais planifier,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "IA et vie privée: Pourquoi les utilisateurs commencent à fuir ChatGPT et Gemini - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/362142/ia-vie-privee-defiance-utilisateur-rapport-malwarebytes/",
-      "url": "https://www.blog-nouvelles-technologies.fr/362142/ia-vie-privee-defiance-utilisateur-rapport-malwarebytes/",
-      "publishedAt": "2026-03-28T15:53:14.000Z",
-      "date": "2026-03-28T15:53:14.000Z",
-      "description": "Selon Malwarebytes, plus de 40 % des utilisateurs ont cessé d'utiliser ChatGPT ou Gemini par crainte pour leurs données.",
-      "excerpt": "Selon Malwarebytes, plus de 40 % des utilisateurs ont cessé d'utiliser ChatGPT ou Gemini par crainte pour leurs données.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT, Claude, Gemini: des IA accusées de tromper leurs utilisateurs, une dérive documentée",
-      "link": "https://www.mobigeeks.fr/chatgpt-claude-gemini-des-ia-accusees-de-tromper-leurs-utilisateurs-une-derive-documentee/",
-      "url": "https://www.mobigeeks.fr/chatgpt-claude-gemini-des-ia-accusees-de-tromper-leurs-utilisateurs-une-derive-documentee/",
-      "publishedAt": "2026-03-28T07:34:27.000Z",
-      "date": "2026-03-28T07:34:27.000Z",
-      "description": "ChatGPT, Claude, Gemini: découvrez pourquoi ces IA sont accusées... Les recherches en cybersécurité vont encore plus loin. Elles montrent...",
-      "excerpt": "ChatGPT, Claude, Gemini: découvrez pourquoi ces IA sont accusées... Les recherches en cybersécurité vont encore plus loin. Elles montrent...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les nouvelles financières du vendredi 27 mars - Les Affaires",
-      "link": "https://www.lesaffaires.com/bourse/les-nouvelles-financieres-du-vendredi-27-mars/",
-      "url": "https://www.lesaffaires.com/bourse/les-nouvelles-financieres-du-vendredi-27-mars/",
-      "publishedAt": "2026-03-28T00:52:33.000Z",
-      "date": "2026-03-28T00:52:33.000Z",
-      "description": "Le projet pilote publicitaire de ChatGPT a dépassé les 100M$US de... Utiliser l'IA pour relever les défis liés aux… Cybersécurité proactive: pilotage...",
-      "excerpt": "Le projet pilote publicitaire de ChatGPT a dépassé les 100M$US de... Utiliser l'IA pour relever les défis liés aux… Cybersécurité proactive: pilotage...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT, Claude, Gemini: les IA mentent délibérément, un phénomène documenté",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-claude-gemini-les-ia-mentent-deliberement-un-phenomene-documente-n253634.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-claude-gemini-les-ia-mentent-deliberement-un-phenomene-documente-n253634.html",
-      "publishedAt": "2026-03-28T00:42:11.000Z",
-      "date": "2026-03-28T00:42:11.000Z",
-      "description": "ChatGPT, Claude, Gemini: les IA mentent délibérément, un phénomène documenté... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "excerpt": "ChatGPT, Claude, Gemini: les IA mentent délibérément, un phénomène documenté... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
