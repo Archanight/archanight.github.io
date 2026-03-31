@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T12:55:17.864Z",
+  "generatedAt": "2026-03-31T18:48:49.585Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Les nouveaux enjeux des nouvelles technologies spatiales - Big Media",
+      "link": "https://bigmedia.bpifrance.fr/nos-dossiers/les-nouveaux-enjeux-des-nouvelles-technologies-spatiales",
+      "url": "https://bigmedia.bpifrance.fr/nos-dossiers/les-nouveaux-enjeux-des-nouvelles-technologies-spatiales",
+      "publishedAt": "2026-03-31T17:14:08.000Z",
+      "date": "2026-03-31T17:14:08.000Z",
+      "description": "logo ChatGPT... Deuxièmement, la sécurité de la transmission et le stockage des informations respectent-ils les normes RGPD et de cybersécurité...",
+      "excerpt": "logo ChatGPT... Deuxièmement, la sécurité de la transmission et le stockage des informations respectent-ils les normes RGPD et de cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Atos finalise la vente de Bull, son activité de calcul avancé, à l'État français",
+      "link": "https://www.larevuedudigital.com/atos-finalise-la-vente-de-bull-son-activite-de-calcul-avance-a-letat-francais/",
+      "url": "https://www.larevuedudigital.com/atos-finalise-la-vente-de-bull-son-activite-de-calcul-avance-a-letat-francais/",
+      "publishedAt": "2026-03-31T16:17:06.000Z",
+      "date": "2026-03-31T16:17:06.000Z",
+      "description": "Positionnement sur la cybersécurité et les services numériques... ChatGPT. L'actualité de la transformation...",
+      "excerpt": "Positionnement sur la cybersécurité et les services numériques... ChatGPT. L'actualité de la transformation...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Commerce agentique: la blockchain va devenir le socle de confiance de l'IA",
+      "link": "https://www.journaldunet.com/retail/1548875-commerce-agentique-la-blockchain-va-devenir-le-socle-de-confiance-de-l-ia/",
+      "url": "https://www.journaldunet.com/retail/1548875-commerce-agentique-la-blockchain-va-devenir-le-socle-de-confiance-de-l-ia/",
+      "publishedAt": "2026-03-31T14:59:41.000Z",
+      "date": "2026-03-31T14:59:41.000Z",
+      "description": "Cybersécurité · Fintech · Cloud · Economie · IA News · Tech · Media / Adtech... ChatGPT Shopping, Google AI Mode, Perplexity Shopping: ces moteurs ne...",
+      "excerpt": "Cybersécurité · Fintech · Cloud · Economie · IA News · Tech · Media / Adtech... ChatGPT Shopping, Google AI Mode, Perplexity Shopping: ces moteurs ne...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Quels types de contenus les IA génératives citent vraiment (et ceux qu'elles ignorent)",
       "link": "https://siecledigital.fr/2026/03/31/ce-que-chatgpt-perplexity-et-google-citent-letude-qui-va-forcer-les-marketeurs-a-revoir-leur-strategie-de-contenu/",
@@ -98,36 +128,6 @@
       "description": "Il s'agit de la possibilité d'importer vos historiques de chat et vos préférences depuis des services concurrents comme ChatGPT et Claude. Fini le...",
       "excerpt": "Il s'agit de la possibilité d'importer vos historiques de chat et vos préférences depuis des services concurrents comme ChatGPT et Claude. Fini le...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "L'arrivée des pubs dans ChatGPT rapporte gros à OpenAI dès les premières semaines",
-      "link": "https://siecledigital.fr/2026/03/30/publicites-sur-chatgpt-deja-100-millions-de-dollars-de-revenus/",
-      "url": "https://siecledigital.fr/2026/03/30/publicites-sur-chatgpt-deja-100-millions-de-dollars-de-revenus/",
-      "publishedAt": "2026-03-30T15:52:58.000Z",
-      "date": "2026-03-30T15:52:58.000Z",
-      "description": "... ChatGPT. Et les premiers... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS. Publicité. Marketing...",
-      "excerpt": "... ChatGPT. Et les premiers... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS. Publicité. Marketing...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT perd du terrain, le trafic web provenant de Gemini a bondi de 115% - Siècle Digital",
-      "link": "https://siecledigital.fr/2026/03/30/chatgpt-perd-du-terrain-le-trafic-provenant-de-gemini-a-bondi-de-115/",
-      "url": "https://siecledigital.fr/2026/03/30/chatgpt-perd-du-terrain-le-trafic-provenant-de-gemini-a-bondi-de-115/",
-      "publishedAt": "2026-03-30T15:52:54.000Z",
-      "date": "2026-03-30T15:52:54.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT perd du...",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT perd du...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'IA vous dit-elle toujours ce que vous voulez entendre? Une étude révèle un vrai danger",
-      "link": "https://siecledigital.fr/2026/03/30/les-chatbots-ia-flattent-trop-leurs-utilisateurs-selon-cette-etude/",
-      "url": "https://siecledigital.fr/2026/03/30/les-chatbots-ia-flattent-trop-leurs-utilisateurs-selon-cette-etude/",
-      "publishedAt": "2026-03-30T15:52:46.000Z",
-      "date": "2026-03-30T15:52:46.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT, Claude, Gemini ou encore DeepSeek. L'actu digitale évolue...",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT, Claude, Gemini ou encore DeepSeek. L'actu digitale évolue...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
