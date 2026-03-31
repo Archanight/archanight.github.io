@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T07:02:28.298Z",
+  "generatedAt": "2026-03-31T12:55:17.864Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Quels types de contenus les IA génératives citent vraiment (et ceux qu'elles ignorent)",
+      "link": "https://siecledigital.fr/2026/03/31/ce-que-chatgpt-perplexity-et-google-citent-letude-qui-va-forcer-les-marketeurs-a-revoir-leur-strategie-de-contenu/",
+      "url": "https://siecledigital.fr/2026/03/31/ce-que-chatgpt-perplexity-et-google-citent-letude-qui-va-forcer-les-marketeurs-a-revoir-leur-strategie-de-contenu/",
+      "publishedAt": "2026-03-31T10:39:16.000Z",
+      "date": "2026-03-31T10:39:16.000Z",
+      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT qui perd du terrain sur le trafic web sur-représente les...",
+      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT qui perd du terrain sur le trafic web sur-représente les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Opera Neon: vous pouvez laisser n'importe quelle IA contrôler le navigateur désormais",
+      "link": "https://www.phonandroid.com/opera-neon-vous-pouvez-laisser-nimporte-quelle-ia-controler-le-navigateur-desormais.html",
+      "url": "https://www.phonandroid.com/opera-neon-vous-pouvez-laisser-nimporte-quelle-ia-controler-le-navigateur-desormais.html",
+      "publishedAt": "2026-03-31T10:17:49.000Z",
+      "date": "2026-03-31T10:17:49.000Z",
+      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT ou Claude peuvent prendre le contrôle du navigateur Opera Neon.",
+      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT ou Claude peuvent prendre le contrôle du navigateur Opera Neon.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "À Tech4Health, une matinée pour prendre le pouls de la cybersécurité des établissements de santé",
+      "link": "https://bigmedia.bpifrance.fr/nos-actualites/a-tech4health-une-matinee-pour-prendre-le-pouls-de-la-cybersecurite-des-etablissements-de-sante",
+      "url": "https://bigmedia.bpifrance.fr/nos-actualites/a-tech4health-une-matinee-pour-prendre-le-pouls-de-la-cybersecurite-des-etablissements-de-sante",
+      "publishedAt": "2026-03-31T09:21:23.000Z",
+      "date": "2026-03-31T09:21:23.000Z",
+      "description": "logo ChatGPT · logo Perplexity · logo Claude. illustration de la cybersécurité dans les établissements de santé. 764. C'est le nombre d'incidents...",
+      "excerpt": "logo ChatGPT · logo Perplexity · logo Claude. illustration de la cybersécurité dans les établissements de santé. 764. C'est le nombre d'incidents...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Débuts encourageants d'OpenAI dans la publicité sur ChatGPT - La Revue du Digital",
+      "link": "https://www.larevuedudigital.com/debuts-encourageants-dopenai-dans-la-publicite-sur-chatgpt/",
+      "url": "https://www.larevuedudigital.com/debuts-encourageants-dopenai-dans-la-publicite-sur-chatgpt/",
+      "publishedAt": "2026-03-31T05:50:12.000Z",
+      "date": "2026-03-31T05:50:12.000Z",
+      "description": "... Social. Informatique. DSI · Sécurité · IT · Internet des objets · Intelligence artificielle · Big Data · Projet Agilité · Projet Devops · Web Design.",
+      "excerpt": "... Social. Informatique. DSI · Sécurité · IT · Internet des objets · Intelligence artificielle · Big Data · Projet Agilité · Projet Devops · Web Design.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "\"L'avenir des agents IA est en marche\", selon le créateur d'OpenClaw - TradingView",
+      "link": "https://fr.tradingview.com/news/afp:6d5ba7967a233:0/",
+      "url": "https://fr.tradingview.com/news/afp:6d5ba7967a233:0/",
+      "publishedAt": "2026-03-31T04:26:52.000Z",
+      "date": "2026-03-31T04:26:52.000Z",
+      "description": "... ChatGPT \". Mais tout cet engouement nourrit des inquiétudes concernant par exemple les risques de cybersécurité liés à l'accès, par des systèmes d...",
+      "excerpt": "... ChatGPT \". Mais tout cet engouement nourrit des inquiétudes concernant par exemple les risques de cybersécurité liés à l'accès, par des systèmes d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le Tech Flash: Artémis II, décollage imminent vers la lune, par Léa Benaim - 30/03",
       "link": "https://actu.orange.fr/videos/economie/le-tech-flash-artemis-ii-decollage-imminent-vers-la-lune-par-lea-benaim-30-03-CNT000002o7uE7.html",
@@ -77,56 +127,6 @@
       "date": "2026-03-30T15:52:46.000Z",
       "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT, Claude, Gemini ou encore DeepSeek. L'actu digitale évolue...",
       "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT, Claude, Gemini ou encore DeepSeek. L'actu digitale évolue...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google attaque frontalement ChatGPT avec une nouvelle arme stratégique - Siècle Digital",
-      "link": "https://siecledigital.fr/2026/03/30/google-veut-vider-chatgpt-de-ses-utilisateurs-avec-une-arme-redoutable-votre-propre-historique/",
-      "url": "https://siecledigital.fr/2026/03/30/google-veut-vider-chatgpt-de-ses-utilisateurs-avec-une-arme-redoutable-votre-propre-historique/",
-      "publishedAt": "2026-03-30T15:52:42.000Z",
-      "date": "2026-03-30T15:52:42.000Z",
-      "description": "Pendant de nombreux mois, les utilisateurs de ChatGPT se sentaient bloqués. Avec les GPT, ils ne voulaient pas recréer l'ensemble du processus...",
-      "excerpt": "Pendant de nombreux mois, les utilisateurs de ChatGPT se sentaient bloqués. Avec les GPT, ils ne voulaient pas recréer l'ensemble du processus...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Voici pourquoi Apple va laisser Claude, Gemini et ChatGPT s'inviter dans votre iPhone avec iOS 27",
-      "link": "https://www.clubic.com/actualite-606838-voici-pourquoi-apple-va-laisser-claude-gemini-et-chatgpt-s-inviter-dans-votre-iphone-avec-ios-27.html",
-      "url": "https://www.clubic.com/actualite-606838-voici-pourquoi-apple-va-laisser-claude-gemini-et-chatgpt-s-inviter-dans-votre-iphone-avec-ios-27.html",
-      "publishedAt": "2026-03-30T15:25:49.000Z",
-      "date": "2026-03-30T15:25:49.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT - d'être invoquées directement depuis Siri. L'utilisateur n'a...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT - d'être invoquées directement depuis Siri. L'utilisateur n'a...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google AI Overviews désormais utilisé pour des arnaques - DCOD | Cybersécurité",
-      "link": "https://dcod.ch/2026/03/30/google-ai-overviews-arnaques/",
-      "url": "https://dcod.ch/2026/03/30/google-ai-overviews-arnaques/",
-      "publishedAt": "2026-03-30T15:02:55.000Z",
-      "date": "2026-03-30T15:02:55.000Z",
-      "description": "Google AI Overviews: une infrastructure facilitant la fraude · Le coût financier des erreurs de Google AI Overviews · ChatGPT et IA conversationnelles...",
-      "excerpt": "Google AI Overviews: une infrastructure facilitant la fraude · Le coût financier des erreurs de Google AI Overviews · ChatGPT et IA conversationnelles...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Apple change de cap: Siri va regrouper ChatGPT, Gemini et toutes les IA! - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/apple-change-de-cap-siri-va-regrouper-chatgpt-gemini-et-toutes-les-ia",
-      "url": "https://www.lebigdata.fr/apple-change-de-cap-siri-va-regrouper-chatgpt-gemini-et-toutes-les-ia",
-      "publishedAt": "2026-03-30T14:18:54.000Z",
-      "date": "2026-03-30T14:18:54.000Z",
-      "description": "Apple change de cap: Siri va regrouper ChatGPT, Gemini et toutes les IA!... De Ormuz à la cybersécurité: les nouveaux risques pour l'OTAN. 27...",
-      "excerpt": "Apple change de cap: Siri va regrouper ChatGPT, Gemini et toutes les IA!... De Ormuz à la cybersécurité: les nouveaux risques pour l'OTAN. 27...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un homme, sa chienne et ChatGPT: la saga du vaccin IA en Australie - Orange Actu",
-      "link": "https://actu.orange.fr/societe/insolite/un-homme-sa-chienne-et-chatgpt-la-saga-du-vaccin-ia-en-australie-CNT000002o6lgf.html",
-      "url": "https://actu.orange.fr/societe/insolite/un-homme-sa-chienne-et-chatgpt-la-saga-du-vaccin-ia-en-australie-CNT000002o6lgf.html",
-      "publishedAt": "2026-03-30T12:52:49.000Z",
-      "date": "2026-03-30T12:52:49.000Z",
-      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Un homme, sa chienne et ChatGPT: la saga du vaccin IA en Australie.",
-      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Un homme, sa chienne et ChatGPT: la saga du vaccin IA en Australie.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
