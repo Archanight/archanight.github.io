@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T18:48:49.585Z",
+  "generatedAt": "2026-04-01T01:45:57.131Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Siri pourrait enfin faire plusieurs choses pour vous en une seule demande - Clubic",
+      "link": "https://www.clubic.com/actualite-607141-siri-pourrait-enfin-faire-plusieurs-choses-pour-vous-en-une-seule-demande.html",
+      "url": "https://www.clubic.com/actualite-607141-siri-pourrait-enfin-faire-plusieurs-choses-pour-vous-en-une-seule-demande.html",
+      "publishedAt": "2026-03-31T20:21:47.000Z",
+      "date": "2026-03-31T20:21:47.000Z",
+      "description": "... Siri dopé à l'IA inquiète même les employés d'Apple · Siri prépare sa révolution...",
+      "excerpt": "... Siri dopé à l'IA inquiète même les employés d'Apple · Siri prépare sa révolution...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT est disponible sur CarPlay avec iOS 26.4 - Mac4Ever",
+      "link": "https://www.mac4ever.com/auto/195447-chatgpt-est-disponible-sur-carplay-avec-ios-26-4",
+      "url": "https://www.mac4ever.com/auto/195447-chatgpt-est-disponible-sur-carplay-avec-ios-26-4",
+      "publishedAt": "2026-03-31T19:37:41.000Z",
+      "date": "2026-03-31T19:37:41.000Z",
+      "description": "Avec iOS 26.4, Apple ouvre CarPlay aux applications d'IA conversationnelle, et OpenAI s'engouffre déjà dans la brèche. ChatGPT s'invite désormais…",
+      "excerpt": "Avec iOS 26.4, Apple ouvre CarPlay aux applications d'IA conversationnelle, et OpenAI s'engouffre déjà dans la brèche. ChatGPT s'invite désormais…",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Sora n'est plus là — mais ces trois outils vidéo basés sur l'IA sont déjà en train de le remplacer",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/sora-nest-plus-la-mais-ces-trois-outils-video-bases-sur-lia-sont-deja-en-train-de-le-remplacer",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/sora-nest-plus-la-mais-ces-trois-outils-video-bases-sur-lia-sont-deja-en-train-de-le-remplacer",
+      "publishedAt": "2026-03-31T18:34:58.000Z",
+      "date": "2026-03-31T18:34:58.000Z",
+      "description": "ChatGPT -4o vs ChatGPT -5 Adieu 4o: voici comment survivre à l'extinction annoncée de votre IA préférée · AI 2026 5 prédictions pour l'IA en 2026...",
+      "excerpt": "ChatGPT -4o vs ChatGPT -5 Adieu 4o: voici comment survivre à l'extinction annoncée de votre IA préférée · AI 2026 5 prédictions pour l'IA en 2026...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "«L'avenir des agents IA est en marche», selon le créateur d'OpenClaw - Noovo Info",
+      "link": "https://www.noovo.info/nouvelles/science-et-nature/article/lavenir-des-agents-ia-est-en-marche/",
+      "url": "https://www.noovo.info/nouvelles/science-et-nature/article/lavenir-des-agents-ia-est-en-marche/",
+      "publishedAt": "2026-03-31T18:24:12.000Z",
+      "date": "2026-03-31T18:24:12.000Z",
+      "description": "... ChatGPT ». Mais tout cet engouement nourrit des inquiétudes concernant par exemple les risques de cybersécurité liés à l'accès, par des systèmes d...",
+      "excerpt": "... ChatGPT ». Mais tout cet engouement nourrit des inquiétudes concernant par exemple les risques de cybersécurité liés à l'accès, par des systèmes d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Les nouveaux enjeux des nouvelles technologies spatiales - Big Media",
       "link": "https://bigmedia.bpifrance.fr/nos-dossiers/les-nouveaux-enjeux-des-nouvelles-technologies-spatiales",
@@ -38,6 +78,16 @@
       "description": "Cybersécurité · Fintech · Cloud · Economie · IA News · Tech · Media / Adtech... ChatGPT Shopping, Google AI Mode, Perplexity Shopping: ces moteurs ne...",
       "excerpt": "Cybersécurité · Fintech · Cloud · Economie · IA News · Tech · Media / Adtech... ChatGPT Shopping, Google AI Mode, Perplexity Shopping: ces moteurs ne...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google veut séduire les utilisateurs de ChatGPT avec les nouvelles importations de chat et...",
+      "link": "https://www.notebookcheck.biz/Google-veut-seduire-les-utilisateurs-de-ChatGPT-avec-les-nouvelles-importations-de-chat-et-de-memoire-de-Gemini.1262591.0.html",
+      "url": "https://www.notebookcheck.biz/Google-veut-seduire-les-utilisateurs-de-ChatGPT-avec-les-nouvelles-importations-de-chat-et-de-memoire-de-Gemini.1262591.0.html",
+      "publishedAt": "2026-03-31T13:06:03.000Z",
+      "date": "2026-03-31T13:06:03.000Z",
+      "description": "Google souhaite faciliter le passage de ChatGPT, Grok et d'autres applications d'intelligence artificielle à Gemini.",
+      "excerpt": "Google souhaite faciliter le passage de ChatGPT, Grok et d'autres applications d'intelligence artificielle à Gemini.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Quels types de contenus les IA génératives citent vraiment (et ceux qu'elles ignorent)",
@@ -78,56 +128,6 @@
       "description": "... Social. Informatique. DSI · Sécurité · IT · Internet des objets · Intelligence artificielle · Big Data · Projet Agilité · Projet Devops · Web Design.",
       "excerpt": "... Social. Informatique. DSI · Sécurité · IT · Internet des objets · Intelligence artificielle · Big Data · Projet Agilité · Projet Devops · Web Design.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "\"L'avenir des agents IA est en marche\", selon le créateur d'OpenClaw - TradingView",
-      "link": "https://fr.tradingview.com/news/afp:6d5ba7967a233:0/",
-      "url": "https://fr.tradingview.com/news/afp:6d5ba7967a233:0/",
-      "publishedAt": "2026-03-31T04:26:52.000Z",
-      "date": "2026-03-31T04:26:52.000Z",
-      "description": "... ChatGPT \". Mais tout cet engouement nourrit des inquiétudes concernant par exemple les risques de cybersécurité liés à l'accès, par des systèmes d...",
-      "excerpt": "... ChatGPT \". Mais tout cet engouement nourrit des inquiétudes concernant par exemple les risques de cybersécurité liés à l'accès, par des systèmes d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le Tech Flash: Artémis II, décollage imminent vers la lune, par Léa Benaim - 30/03",
-      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-artemis-ii-decollage-imminent-vers-la-lune-par-lea-benaim-30-03-CNT000002o7uE7.html",
-      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-artemis-ii-decollage-imminent-vers-la-lune-par-lea-benaim-30-03-CNT000002o7uE7.html",
-      "publishedAt": "2026-03-30T21:35:44.000Z",
-      "date": "2026-03-30T21:35:44.000Z",
-      "description": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et... Le Tech Flash: la pub arrive dans ChatGPT par Léa Benaim - 19/01. Tous...",
-      "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et... Le Tech Flash: la pub arrive dans ChatGPT par Léa Benaim - 19/01. Tous...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "iPhone 18 Pro et Fold: tout ce que l'on sait (design, date, nouveautés) - Orange Actu",
-      "link": "https://actu.orange.fr/videos/high-tech/iphone-18-pro-et-fold-tout-ce-que-l-on-sait-design-date-nouveautes-CNT000002o7u8R.html",
-      "url": "https://actu.orange.fr/videos/high-tech/iphone-18-pro-et-fold-tout-ce-que-l-on-sait-design-date-nouveautes-CNT000002o7u8R.html",
-      "publishedAt": "2026-03-30T19:55:25.000Z",
-      "date": "2026-03-30T19:55:25.000Z",
-      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
-      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "cette étude accablante montre que 8 personnes sur 10 suivent ChatGPT, même quand il dit...",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/on-a-cesse-de-reflechir-cette-etude-accablante-montre-que-8-personnes-sur-10-suivent-chatgpt-meme-quand-il-dit-n-importe-quoi-n253694.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/on-a-cesse-de-reflechir-cette-etude-accablante-montre-que-8-personnes-sur-10-suivent-chatgpt-meme-quand-il-dit-n-importe-quoi-n253694.html",
-      "publishedAt": "2026-03-30T19:45:35.000Z",
-      "date": "2026-03-30T19:45:35.000Z",
-      "description": "... ChatGPT GPT-4o ). L'astuce: la fiabilité de l'IA est manipulée à l'insu... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (1). Aymeric...",
-      "excerpt": "... ChatGPT GPT-4o ). L'astuce: la fiabilité de l'IA est manipulée à l'insu... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (1). Aymeric...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Gemini: Google prépare l'importation de vos données ChatGPT et Claude",
-      "link": "https://lecafedugeek.fr/gemini-google-prepare-limportation-de-vos-donnees-chatgpt-et-claude/",
-      "url": "https://lecafedugeek.fr/gemini-google-prepare-limportation-de-vos-donnees-chatgpt-et-claude/",
-      "publishedAt": "2026-03-30T19:00:21.000Z",
-      "date": "2026-03-30T19:00:21.000Z",
-      "description": "Il s'agit de la possibilité d'importer vos historiques de chat et vos préférences depuis des services concurrents comme ChatGPT et Claude. Fini le...",
-      "excerpt": "Il s'agit de la possibilité d'importer vos historiques de chat et vos préférences depuis des services concurrents comme ChatGPT et Claude. Fini le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
