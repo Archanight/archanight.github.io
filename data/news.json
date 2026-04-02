@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T18:47:28.748Z",
+  "generatedAt": "2026-04-02T01:22:16.066Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -60,6 +60,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Shutterstock lance une application de licence de contenus au sein de ChatGPT - Bourse",
+      "link": "https://ch.zonebourse.com/actualite-bourse/shutterstock-lance-une-application-de-licence-de-contenus-au-sein-de-chatgpt-ce7e51dfd089f324",
+      "url": "https://ch.zonebourse.com/actualite-bourse/shutterstock-lance-une-application-de-licence-de-contenus-au-sein-de-chatgpt-ce7e51dfd089f324",
+      "publishedAt": "2026-04-01T15:06:58.000Z",
+      "date": "2026-04-01T15:06:58.000Z",
+      "description": "Shutterstock a annoncé mercredi le lancement d'une application intégrée à ChatGPT d'OpenAI, société soutenue par Microsoft.... Cybersécurité...",
+      "excerpt": "Shutterstock a annoncé mercredi le lancement d'une application intégrée à ChatGPT d'OpenAI, société soutenue par Microsoft.... Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Humour et marketing: 6 campagnes qui ont marqué les esprits - Big Media - Bpifrance",
       "link": "https://bigmedia.bpifrance.fr/nos-actualites/humour-et-marketing-6-campagnes-qui-ont-marque-les-esprits",
       "url": "https://bigmedia.bpifrance.fr/nos-actualites/humour-et-marketing-6-campagnes-qui-ont-marque-les-esprits",
@@ -117,16 +127,6 @@
       "date": "2026-03-31T20:21:47.000Z",
       "description": "... Siri dopé à l'IA inquiète même les employés d'Apple · Siri prépare sa révolution...",
       "excerpt": "... Siri dopé à l'IA inquiète même les employés d'Apple · Siri prépare sa révolution...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Une étude de Stanford montre qu'il n'est pas judicieux de demander des conseils personnels à l'IA",
-      "link": "https://www.malwarebytes.com/fr/blog/ai/2026/03/asking-ai-for-personal-advice-is-a-bad-idea-stanford-study-shows",
-      "url": "https://www.malwarebytes.com/fr/blog/ai/2026/03/asking-ai-for-personal-advice-is-a-bad-idea-stanford-study-shows",
-      "publishedAt": "2026-03-31T19:59:33.000Z",
-      "date": "2026-03-31T19:59:33.000Z",
-      "description": "Les chercheurs de Stanford ont testé 11 grands modèles, dont ChatGPT, Claude et Gemini.... Les risques de cybersécurité ne devraient jamais se propager...",
-      "excerpt": "Les chercheurs de Stanford ont testé 11 grands modèles, dont ChatGPT, Claude et Gemini.... Les risques de cybersécurité ne devraient jamais se propager...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
