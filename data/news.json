@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T01:22:16.066Z",
+  "generatedAt": "2026-04-02T07:01:11.676Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT débarque sur Apple CarPlay: à quoi ça sert vraiment en voiture? - Clubic",
+      "link": "https://www.clubic.com/actualite-607381-chatgpt-debarque-sur-apple-carplay-a-quoi-ca-sert-vraiment-en-voiture.html",
+      "url": "https://www.clubic.com/actualite-607381-chatgpt-debarque-sur-apple-carplay-a-quoi-ca-sert-vraiment-en-voiture.html",
+      "publishedAt": "2026-04-02T05:35:43.000Z",
+      "date": "2026-04-02T05:35:43.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... GPT-5 arrivera sur...",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... GPT-5 arrivera sur...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Sora: OpenAI abandonne son générateur de vidéos par IA - Bilan",
+      "link": "https://www.bilan.ch/story/sora-openai-abandonne-son-generateur-de-videos-par-ia-770435668615",
+      "url": "https://www.bilan.ch/story/sora-openai-abandonne-son-generateur-de-videos-par-ia-770435668615",
+      "publishedAt": "2026-04-02T01:00:47.000Z",
+      "date": "2026-04-02T01:00:47.000Z",
+      "description": "La chute brutale de Sora, le produit le plus ambitieux d'OpenAI depuis ChatGPT. Présenté comme une révolution en février 2024, le modèle de...",
+      "excerpt": "La chute brutale de Sora, le produit le plus ambitieux d'OpenAI depuis ChatGPT. Présenté comme une révolution en février 2024, le modèle de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ExpressVPN veut en finir avec l'exploitation des données par l'IA avec son nouveau chatbot",
+      "link": "https://global.techradar.com/fr-fr/pro/expressvpn-veut-en-finir-avec-lexploitation-des-donnees-par-lia-avec-son-nouveau-chatbot",
+      "url": "https://global.techradar.com/fr-fr/pro/expressvpn-veut-en-finir-avec-lexploitation-des-donnees-par-lia-avec-son-nouveau-chatbot",
+      "publishedAt": "2026-04-01T22:05:48.000Z",
+      "date": "2026-04-01T22:05:48.000Z",
+      "description": "ExpressAI propose un chatbot d'IA à sécurité cryptographique, concurrent de ChatGPT, Gemini et d'autres · Cinq modèles issus d'OpenAI, Nvidia, DeepSeek...",
+      "excerpt": "ExpressAI propose un chatbot d'IA à sécurité cryptographique, concurrent de ChatGPT, Gemini et d'autres · Cinq modèles issus d'OpenAI, Nvidia, DeepSeek...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Droit d'auteur: OpenAI poursuivi en Allemagne - ZDNET",
       "link": "https://www.zdnet.fr/actualites/droit-dauteur-openai-poursuivi-en-allemagne-492866.htm",
@@ -80,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Ia Mauvais Pour La Planete - Instagram",
+      "link": "https://www.instagram.com/popular/ia-mauvais-pour-la-planete/",
+      "url": "https://www.instagram.com/popular/ia-mauvais-pour-la-planete/",
+      "publishedAt": "2026-04-01T14:24:24.000Z",
+      "date": "2026-04-01T14:24:24.000Z",
+      "description": "Ia Mauvais Pour La Planete · Learn AI in 2 weeks, for free! SEATS FILLING FAST! ChatGPT and I · Jab duniya normal AI update samajh rahi thi… OpenAI ne...",
+      "excerpt": "Ia Mauvais Pour La Planete · Learn AI in 2 weeks, for free! SEATS FILLING FAST! ChatGPT and I · Jab duniya normal AI update samajh rahi thi… OpenAI ne...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Shutterstock lance une application de contenus sous licence dans ChatGPT, intégrant... - Bourse",
       "link": "https://ch.zonebourse.com/actualite-bourse/shutterstock-lance-une-application-de-contenus-sous-licence-dans-chatgpt-integrant-des-actifs-prets-ce7e51dfd18bf524",
       "url": "https://ch.zonebourse.com/actualite-bourse/shutterstock-lance-une-application-de-contenus-sous-licence-dans-chatgpt-integrant-des-actifs-prets-ce7e51dfd18bf524",
@@ -87,46 +127,6 @@
       "date": "2026-04-01T13:48:58.000Z",
       "description": "Cybersécurité · Hydraulique · La révolution génomique · Ingénierie bionique... Shutterstock lance une application de contenus sous licence dans ChatGPT...",
       "excerpt": "Cybersécurité · Hydraulique · La révolution génomique · Ingénierie bionique... Shutterstock lance une application de contenus sous licence dans ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT débarque sur CarPlay: OpenAI ouvre la voie aux conversations vocales mains...",
-      "link": "https://iphoneaddict.fr/post/news-426298-chatgpt-debarque-carplay-openai-ouvre-conversations-vocales-mains-libres-voiture",
-      "url": "https://iphoneaddict.fr/post/news-426298-chatgpt-debarque-carplay-openai-ouvre-conversations-vocales-mains-libres-voiture",
-      "publishedAt": "2026-04-01T11:08:06.000Z",
-      "date": "2026-04-01T11:08:06.000Z",
-      "description": "OpenAI lance ChatGPT sur un nouveau segment de marché. Avec sa dernière mise à jour, service de chatbot-IA devient désormais compatible avec...",
-      "excerpt": "OpenAI lance ChatGPT sur un nouveau segment de marché. Avec sa dernière mise à jour, service de chatbot-IA devient désormais compatible avec...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "\"L'avenir des agents IA est en marche\", selon le créateur d'OpenClaw - La Relève.ma",
-      "link": "https://lareleve.ma/186206/",
-      "url": "https://lareleve.ma/186206/",
-      "publishedAt": "2026-04-01T08:38:05.000Z",
-      "date": "2026-04-01T08:38:05.000Z",
-      "description": "... ChatGPT ». Mais tout cet engouement nourrit des inquiétudes concernant par exemple les risques de cybersécurité liés à l'accès, par des systèmes d...",
-      "excerpt": "... ChatGPT ». Mais tout cet engouement nourrit des inquiétudes concernant par exemple les risques de cybersécurité liés à l'accès, par des systèmes d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Delta choisit Amazon Leo pour le Wi-Fi en vol, par Léa Benaim - 31/03: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-delta-choisit-amazon-leo-pour-le-wi-fi-en-vol-par-lea-benaim-31-03-CNT000002o8uYT.html",
-      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-delta-choisit-amazon-leo-pour-le-wi-fi-en-vol-par-lea-benaim-31-03-CNT000002o8uYT.html",
-      "publishedAt": "2026-03-31T21:43:40.000Z",
-      "date": "2026-03-31T21:43:40.000Z",
-      "description": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/10.",
-      "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/10.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Siri pourrait enfin faire plusieurs choses pour vous en une seule demande - Clubic",
-      "link": "https://www.clubic.com/actualite-607141-siri-pourrait-enfin-faire-plusieurs-choses-pour-vous-en-une-seule-demande.html",
-      "url": "https://www.clubic.com/actualite-607141-siri-pourrait-enfin-faire-plusieurs-choses-pour-vous-en-une-seule-demande.html",
-      "publishedAt": "2026-03-31T20:21:47.000Z",
-      "date": "2026-03-31T20:21:47.000Z",
-      "description": "... Siri dopé à l'IA inquiète même les employés d'Apple · Siri prépare sa révolution...",
-      "excerpt": "... Siri dopé à l'IA inquiète même les employés d'Apple · Siri prépare sa révolution...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
