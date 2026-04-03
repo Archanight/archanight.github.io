@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T12:41:30.494Z",
+  "generatedAt": "2026-04-03T18:34:45.940Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,76 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Voici ce que font réellement les salariés sur ChatGPT au bureau - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/voici-ce-que-font-reellement-les-salaries-sur-chatgpt-au-bureau-493086.htm",
+      "url": "https://www.zdnet.fr/actualites/voici-ce-que-font-reellement-les-salaries-sur-chatgpt-au-bureau-493086.htm",
+      "publishedAt": "2026-04-03T18:29:26.000Z",
+      "date": "2026-04-03T18:29:26.000Z",
+      "description": "... Siri échoue. Grâce à iOS 26.4 et à CarPlay, je peux désormais discuter par voix avec ChatGPT quand je suis en voiture. Voici comment je m'en sers...",
+      "excerpt": "... Siri échoue. Grâce à iOS 26.4 et à CarPlay, je peux désormais discuter par voix avec ChatGPT quand je suis en voiture. Voici comment je m'en sers...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Experts-comptables: ChatGPT dans un cabinet sur deux, la souveraineté des données... - ITRnews",
+      "link": "https://itrnews.com/articles/209387/experts-comptables-chatgpt-dans-un-cabinet-sur-deux-la-souverainete-des-donnees-dans-toutes-les-tetes.html",
+      "url": "https://itrnews.com/articles/209387/experts-comptables-chatgpt-dans-un-cabinet-sur-deux-la-souverainete-des-donnees-dans-toutes-les-tetes.html",
+      "publishedAt": "2026-04-03T17:17:29.000Z",
+      "date": "2026-04-03T17:17:29.000Z",
+      "description": "Experts-comptables: ChatGPT dans un cabinet sur deux, la souveraineté des données dans toutes les têtes... Cybersécurité: les services publics...",
+      "excerpt": "Experts-comptables: ChatGPT dans un cabinet sur deux, la souveraineté des données dans toutes les têtes... Cybersécurité: les services publics...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les rendus divulgués montrent à quoi ressemble le Pixel 11 Pro XL - Dataconomy FR",
+      "link": "https://fr.dataconomy.com/2026/04/03/les-rendus-divulgues-montrent-a-quoi-ressemble-le-pixel-11-pro-xl/",
+      "url": "https://fr.dataconomy.com/2026/04/03/les-rendus-divulgues-montrent-a-quoi-ressemble-le-pixel-11-pro-xl/",
+      "publishedAt": "2026-04-03T16:11:17.000Z",
+      "date": "2026-04-03T16:11:17.000Z",
+      "description": "... cybersécurité · OpenAI teste une feuille de partage personnalisée pour ChatGPT · Sony acquiert la startup britannique Cinemersive Labs pour la...",
+      "excerpt": "... cybersécurité · OpenAI teste une feuille de partage personnalisée pour ChatGPT · Sony acquiert la startup britannique Cinemersive Labs pour la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le créateur de ChatGPT vient de faire un investissement inattendu - 01net.com",
+      "link": "https://www.01net.com/actualites/recentrer-openai-offre-podcast-prefere-silicon-valley.html",
+      "url": "https://www.01net.com/actualites/recentrer-openai-offre-podcast-prefere-silicon-valley.html",
+      "publishedAt": "2026-04-03T15:42:25.000Z",
+      "date": "2026-04-03T15:42:25.000Z",
+      "description": "ChatGPT sur Apple CarPlay: voilà ce qu'il peut (et ne peut pas)... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
+      "excerpt": "ChatGPT sur Apple CarPlay: voilà ce qu'il peut (et ne peut pas)... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "J'ai testé la nouvelle intégration de ChatGPT à CarPlay - ZDNET",
+      "link": "https://www.zdnet.fr/pratique/jai-teste-la-nouvelle-integration-de-chatgpt-a-carplay-cest-desormais-mon-outil-de-predilection-pour-les-questions-ou-siri-echoue-493120.htm",
+      "url": "https://www.zdnet.fr/pratique/jai-teste-la-nouvelle-integration-de-chatgpt-a-carplay-cest-desormais-mon-outil-de-predilection-pour-les-questions-ou-siri-echoue-493120.htm",
+      "publishedAt": "2026-04-03T15:00:37.000Z",
+      "date": "2026-04-03T15:00:37.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus... Contrairement à Siri, ChatGPT ne peut pas fonctionner directement avec votre iPhone.",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus... Contrairement à Siri, ChatGPT ne peut pas fonctionner directement avec votre iPhone.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT débarque sur CarPlay et c'est à la fois bluffant et frustrant - Siècle Digital",
+      "link": "https://siecledigital.fr/2026/04/03/chatgpt-dans-votre-voiture-apple-ouvre-enfin-carplay-aux-ia/",
+      "url": "https://siecledigital.fr/2026/04/03/chatgpt-dans-votre-voiture-apple-ouvre-enfin-carplay-aux-ia/",
+      "publishedAt": "2026-04-03T12:45:30.000Z",
+      "date": "2026-04-03T12:45:30.000Z",
+      "description": "Pendant des années, Apple a gardé CarPlay sous clé en utilisant uniquement Siri. ChatGPT débarque sur CarPlay et...",
+      "excerpt": "Pendant des années, Apple a gardé CarPlay sous clé en utilisant uniquement Siri. ChatGPT débarque sur CarPlay et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI ne veut plus seulement répondre à vos questions, mais gérer votre quotidien numérique",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/openai-ne-veut-plus-seulement-repondre-a-vos-questions-mais-gerer-votre-quotidien-numerique",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/openai-ne-veut-plus-seulement-repondre-a-vos-questions-mais-gerer-votre-quotidien-numerique",
+      "publishedAt": "2026-04-03T12:33:54.000Z",
+      "date": "2026-04-03T12:33:54.000Z",
+      "description": "... ChatGPT, Gemini et vous? Sam Altman on a chair. ChatGPT “Cancel ChatGPT ”: pourquoi l'IA la plus populaire est soudain sous le feu des critiques.",
+      "excerpt": "... ChatGPT, Gemini et vous? Sam Altman on a chair. ChatGPT “Cancel ChatGPT ”: pourquoi l'IA la plus populaire est soudain sous le feu des critiques.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Les IA mentent pour protéger les autres IA - Korben",
       "link": "https://korben.info/les-ia-mentent-pour-proteger-les-autres-ia.html",
       "url": "https://korben.info/les-ia-mentent-pour-proteger-les-autres-ia.html",
@@ -17,6 +87,16 @@
       "date": "2026-04-03T12:00:50.000Z",
       "description": "Les sept principaux modèles d'IA testés, dont GPT 5.2, Gemini 3.... Les métiers de la Cybersécurité et de l'Intelligence Artificielle. Guardia...",
       "excerpt": "Les sept principaux modèles d'IA testés, dont GPT 5.2, Gemini 3.... Les métiers de la Cybersécurité et de l'Intelligence Artificielle. Guardia...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Penser le cyber: l'IA dans la conflictualité numérique - Areion24.news",
+      "link": "https://www.areion24.news/2026/04/03/penser-le-cyber-lia-dans-la-conflictualite-numerique/amp/",
+      "url": "https://www.areion24.news/2026/04/03/penser-le-cyber-lia-dans-la-conflictualite-numerique/amp/",
+      "publishedAt": "2026-04-03T11:52:15.000Z",
+      "date": "2026-04-03T11:52:15.000Z",
+      "description": "Depuis l'apparition de ChatGPT en novembre 2022, on ne... La volonté du gouvernement Biden de « refondre le contrat social de cybersécurité...",
+      "excerpt": "Depuis l'apparition de ChatGPT en novembre 2022, on ne... La volonté du gouvernement Biden de « refondre le contrat social de cybersécurité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -47,86 +127,6 @@
       "date": "2026-04-03T10:11:19.000Z",
       "description": "OpenAI introduit plusieurs mises à jour de l'interface utilisateur pour l'application ChatGPT... cybersécurité · OpenAI teste une feuille de partage...",
       "excerpt": "OpenAI introduit plusieurs mises à jour de l'interface utilisateur pour l'application ChatGPT... cybersécurité · OpenAI teste une feuille de partage...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Étude GEO: Le trafic référent issu de Gemini en forte augmentation? - Leptidigital",
-      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/etude-geo-trafic-referent-gemini-augmentation-88918/",
-      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/etude-geo-trafic-referent-gemini-augmentation-88918/",
-      "publishedAt": "2026-04-03T08:21:59.000Z",
-      "date": "2026-04-03T08:21:59.000Z",
-      "description": "Une domination encore écrasante de ChatGPT. Graphique comparaison de traffic entre Gemini et ChatGPT... cybersécurité, je suis un professionnel...",
-      "excerpt": "Une domination encore écrasante de ChatGPT. Graphique comparaison de traffic entre Gemini et ChatGPT... cybersécurité, je suis un professionnel...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.5: OpenAI révèle comment l'IA Spud va tout changer dans ChatGPT - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/gpt-5-5-openai-revele-comment-lia-spud-va-tout-changer-dans-chatgpt",
-      "url": "https://www.lebigdata.fr/gpt-5-5-openai-revele-comment-lia-spud-va-tout-changer-dans-chatgpt",
-      "publishedAt": "2026-04-03T08:16:57.000Z",
-      "date": "2026-04-03T08:16:57.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... GPT-5.5: OpenAI révèle comment l'IA Spud va tout changer dans ChatGPT.",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... GPT-5.5: OpenAI révèle comment l'IA Spud va tout changer dans ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Siri va être entièrement repensée. - Vietnam.vn",
-      "link": "https://www.vietnam.vn/fr/siri-sap-doi-moi",
-      "url": "https://www.vietnam.vn/fr/siri-sap-doi-moi",
-      "publishedAt": "2026-04-03T08:14:47.000Z",
-      "date": "2026-04-03T08:14:47.000Z",
-      "description": "... Siri, en plus de ChatGPT comme c'est le cas actuellement. Apple Intelligence a été lancé en 2024 et est toujours considéré comme une version bêta.",
-      "excerpt": "... Siri, en plus de ChatGPT comme c'est le cas actuellement. Apple Intelligence a été lancé en 2024 et est toujours considéré comme une version bêta.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT et Gmail: 10 usages concrets (sans donner tes mots de passe)",
-      "link": "https://www.journaldufreenaute.fr/chatgpt-gmail-usages/",
-      "url": "https://www.journaldufreenaute.fr/chatgpt-gmail-usages/",
-      "publishedAt": "2026-04-03T00:35:34.000Z",
-      "date": "2026-04-03T00:35:34.000Z",
-      "description": "Source: OpenAI, « ChatGPT se connecte à Gmail et Google Calendar », OpenAI, 2025; BDM, « Avec GPT-5, ChatGPT peut utiliser vos données Gmail ou...",
-      "excerpt": "Source: OpenAI, « ChatGPT se connecte à Gmail et Google Calendar », OpenAI, 2025; BDM, « Avec GPT-5, ChatGPT peut utiliser vos données Gmail ou...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le Tech Flash: SpaceX a perdu un satellite Starlink par Léa Benaim - 02/04 - Orange Actu",
-      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-spacex-a-perdu-un-satellite-starlink-par-lea-benaim-02-04-CNT000002ocnNT.html",
-      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-spacex-a-perdu-un-satellite-starlink-par-lea-benaim-02-04-CNT000002ocnNT.html",
-      "publishedAt": "2026-04-02T22:39:35.000Z",
-      "date": "2026-04-02T22:39:35.000Z",
-      "description": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact... Tous publics. Le Tech Flash: ChatGPT devient un magasin d'applications par...",
-      "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact... Tous publics. Le Tech Flash: ChatGPT devient un magasin d'applications par...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google pour essayer des vêtements et partager vos écrans - 104.7 Outaouais",
-      "link": "https://www.fm1047.ca/audio/767773/google-pour-essayer-des-vetements-et-partager-vos-ecrans",
-      "url": "https://www.fm1047.ca/audio/767773/google-pour-essayer-des-vetements-et-partager-vos-ecrans",
-      "publishedAt": "2026-04-02T19:46:56.000Z",
-      "date": "2026-04-02T19:46:56.000Z",
-      "description": "... ChatGPT vers Claude ou Gemini, évitant de repartir à zéro avec une... Un laboratoire ultra-sophistiqué en cybersécurité à l'UQO. LP, le midi.",
-      "excerpt": "... ChatGPT vers Claude ou Gemini, évitant de repartir à zéro avec une... Un laboratoire ultra-sophistiqué en cybersécurité à l'UQO. LP, le midi.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "iOS 27: une Siri enfin capable d'enchaîner plusieurs actions d'un seul coup - Menow",
-      "link": "https://www.menow.fr/ios-27-une-siri-enfin-capable-denchainer-plusieurs-actions-dun-seul-coup/",
-      "url": "https://www.menow.fr/ios-27-une-siri-enfin-capable-denchainer-plusieurs-actions-dun-seul-coup/",
-      "publishedAt": "2026-04-02T19:32:51.000Z",
-      "date": "2026-04-02T19:32:51.000Z",
-      "description": "Apple veut transformer Siri en rival direct de ChatGPT, Claude et Gemini... Cette montée en puissance accompagnerait un gros update Apple Intelligence...",
-      "excerpt": "Apple veut transformer Siri en rival direct de ChatGPT, Claude et Gemini... Cette montée en puissance accompagnerait un gros update Apple Intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT arrive dans Apple CarPlay! Voici comment l'IA va changer vos trajets - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/chatgpt-arrive-dans-apple-carplay-voici-comment-lia-va-changer-vos-trajets",
-      "url": "https://www.lebigdata.fr/chatgpt-arrive-dans-apple-carplay-voici-comment-lia-va-changer-vos-trajets",
-      "publishedAt": "2026-04-02T18:59:34.000Z",
-      "date": "2026-04-02T18:59:34.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Il suffit de passer par Siri pour ouvrir ChatGPT. YouTube video. Mais...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Il suffit de passer par Siri pour ouvrir ChatGPT. YouTube video. Mais...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
