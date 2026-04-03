@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T06:58:08.971Z",
+  "generatedAt": "2026-04-03T12:41:30.494Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,76 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Les IA mentent pour protéger les autres IA - Korben",
+      "link": "https://korben.info/les-ia-mentent-pour-proteger-les-autres-ia.html",
+      "url": "https://korben.info/les-ia-mentent-pour-proteger-les-autres-ia.html",
+      "publishedAt": "2026-04-03T12:00:50.000Z",
+      "date": "2026-04-03T12:00:50.000Z",
+      "description": "Les sept principaux modèles d'IA testés, dont GPT 5.2, Gemini 3.... Les métiers de la Cybersécurité et de l'Intelligence Artificielle. Guardia...",
+      "excerpt": "Les sept principaux modèles d'IA testés, dont GPT 5.2, Gemini 3.... Les métiers de la Cybersécurité et de l'Intelligence Artificielle. Guardia...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment installer Google Gemma 4 sur votre smartphone Android ou iPhone — Frandroid",
+      "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3051659_comment-installer-google-gemma-4-sur-votre-smartphone-android-ou-iphone",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3051659_comment-installer-google-gemma-4-sur-votre-smartphone-android-ou-iphone",
+      "publishedAt": "2026-04-03T11:13:36.000Z",
+      "date": "2026-04-03T11:13:36.000Z",
+      "description": "E2B ou E4B: Laquelle choisir pour votre SoC? Le problème, c'est que faire tourner une IA sur un processeur de smartphone demande des compromis de...",
+      "excerpt": "E2B ou E4B: Laquelle choisir pour votre SoC? Le problème, c'est que faire tourner une IA sur un processeur de smartphone demande des compromis de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT fait son entrée dans les voitures… L'IA vocale intégrée à Apple CarPlay - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/chatgpt-fait-son-entree-dans-les-voitures-lia-vocale-integree-a-apple-carplay-493053.htm",
+      "url": "https://www.zdnet.fr/actualites/chatgpt-fait-son-entree-dans-les-voitures-lia-vocale-integree-a-apple-carplay-493053.htm",
+      "publishedAt": "2026-04-03T10:58:42.000Z",
+      "date": "2026-04-03T10:58:42.000Z",
+      "description": "OpenAI ChatGPT est disponible sur Apple CarPlay... Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et...",
+      "excerpt": "OpenAI ChatGPT est disponible sur Apple CarPlay... Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI teste une feuille de partage personnalisée pour ChatGPT - Dataconomy FR",
+      "link": "https://fr.dataconomy.com/2026/04/03/openai-teste-une-feuille-de-partage-personnalisee-pour-chatgpt/",
+      "url": "https://fr.dataconomy.com/2026/04/03/openai-teste-une-feuille-de-partage-personnalisee-pour-chatgpt/",
+      "publishedAt": "2026-04-03T10:11:19.000Z",
+      "date": "2026-04-03T10:11:19.000Z",
+      "description": "OpenAI introduit plusieurs mises à jour de l'interface utilisateur pour l'application ChatGPT... cybersécurité · OpenAI teste une feuille de partage...",
+      "excerpt": "OpenAI introduit plusieurs mises à jour de l'interface utilisateur pour l'application ChatGPT... cybersécurité · OpenAI teste une feuille de partage...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Étude GEO: Le trafic référent issu de Gemini en forte augmentation? - Leptidigital",
+      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/etude-geo-trafic-referent-gemini-augmentation-88918/",
+      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/etude-geo-trafic-referent-gemini-augmentation-88918/",
+      "publishedAt": "2026-04-03T08:21:59.000Z",
+      "date": "2026-04-03T08:21:59.000Z",
+      "description": "Une domination encore écrasante de ChatGPT. Graphique comparaison de traffic entre Gemini et ChatGPT... cybersécurité, je suis un professionnel...",
+      "excerpt": "Une domination encore écrasante de ChatGPT. Graphique comparaison de traffic entre Gemini et ChatGPT... cybersécurité, je suis un professionnel...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.5: OpenAI révèle comment l'IA Spud va tout changer dans ChatGPT - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/gpt-5-5-openai-revele-comment-lia-spud-va-tout-changer-dans-chatgpt",
+      "url": "https://www.lebigdata.fr/gpt-5-5-openai-revele-comment-lia-spud-va-tout-changer-dans-chatgpt",
+      "publishedAt": "2026-04-03T08:16:57.000Z",
+      "date": "2026-04-03T08:16:57.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... GPT-5.5: OpenAI révèle comment l'IA Spud va tout changer dans ChatGPT.",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... GPT-5.5: OpenAI révèle comment l'IA Spud va tout changer dans ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Siri va être entièrement repensée. - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/siri-sap-doi-moi",
+      "url": "https://www.vietnam.vn/fr/siri-sap-doi-moi",
+      "publishedAt": "2026-04-03T08:14:47.000Z",
+      "date": "2026-04-03T08:14:47.000Z",
+      "description": "... Siri, en plus de ChatGPT comme c'est le cas actuellement. Apple Intelligence a été lancé en 2024 et est toujours considéré comme une version bêta.",
+      "excerpt": "... Siri, en plus de ChatGPT comme c'est le cas actuellement. Apple Intelligence a été lancé en 2024 et est toujours considéré comme une version bêta.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT et Gmail: 10 usages concrets (sans donner tes mots de passe)",
       "link": "https://www.journaldufreenaute.fr/chatgpt-gmail-usages/",
@@ -57,76 +127,6 @@
       "date": "2026-04-02T18:59:34.000Z",
       "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Il suffit de passer par Siri pour ouvrir ChatGPT. YouTube video. Mais...",
       "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Il suffit de passer par Siri pour ouvrir ChatGPT. YouTube video. Mais...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Siri: cette fonctionnalité que Google propose depuis 10 ans arrive enfin - iPhon.fr",
-      "link": "https://www.iphon.fr/post/iphone-ios-27-siri-requete-multitaches-apple-intelligence-ia",
-      "url": "https://www.iphon.fr/post/iphone-ios-27-siri-requete-multitaches-apple-intelligence-ia",
-      "publishedAt": "2026-04-02T18:03:08.000Z",
-      "date": "2026-04-02T18:03:08.000Z",
-      "description": "Apple carplay siri chatgpt. ChatGPT arrive... Cybersécurité Il y a 3 heures. Le FBI prévient: n'utilisez pas d'apps...",
-      "excerpt": "Apple carplay siri chatgpt. ChatGPT arrive... Cybersécurité Il y a 3 heures. Le FBI prévient: n'utilisez pas d'apps...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT, Claude, Grok... comment transférer tous vos chats sur Gemini? - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/chatgpt-claude-grok-comment-transferer-tous-vos-chats-sur-gemini",
-      "url": "https://www.lebigdata.fr/chatgpt-claude-grok-comment-transferer-tous-vos-chats-sur-gemini",
-      "publishedAt": "2026-04-02T16:39:19.000Z",
-      "date": "2026-04-02T16:39:19.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT, Claude, Grok… comment transférer tous vos chats sur Gemini...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT, Claude, Grok… comment transférer tous vos chats sur Gemini...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT arrive dans votre voiture avec CarPlay: voici comment l'activer - iPhon.fr",
-      "link": "https://www.iphon.fr/post/chatgpt-arrive-dans-votre-voiture-avec-carplay-voici-comment-lactiver",
-      "url": "https://www.iphon.fr/post/chatgpt-arrive-dans-votre-voiture-avec-carplay-voici-comment-lactiver",
-      "publishedAt": "2026-04-02T16:14:08.000Z",
-      "date": "2026-04-02T16:14:08.000Z",
-      "description": "Cybersécurité Il y a 39 minutes. Le FBI prévient: n'utilisez pas d... Apple carplay siri chatgpt. ConcurrenceIl y a...",
-      "excerpt": "Cybersécurité Il y a 39 minutes. Le FBI prévient: n'utilisez pas d... Apple carplay siri chatgpt. ConcurrenceIl y a...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des radiologues peinent à repérer les radiographies générées par IA - KultureGeek",
-      "link": "https://kulturegeek.fr/news-350067/radiologues-peinent-reperer-radiographies-generees-ia",
-      "url": "https://kulturegeek.fr/news-350067/radiologues-peinent-reperer-radiographies-generees-ia",
-      "publishedAt": "2026-04-02T16:03:56.000Z",
-      "date": "2026-04-02T16:03:56.000Z",
-      "description": "Ci-dessus: radiographies réelles et fausses générées par ChatGPT -4o, correspondant à la même anatomie.... L'autre menace concerne la cybersécurité.",
-      "excerpt": "Ci-dessus: radiographies réelles et fausses générées par ChatGPT -4o, correspondant à la même anatomie.... L'autre menace concerne la cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Easy Trip Planners annonce son intégration avec ChatGPT - Zonebourse",
-      "link": "https://www.zonebourse.com/actualite-bourse/easy-trip-planners-annonce-son-integration-avec-chatgpt-ce7e51ddd881f220",
-      "url": "https://www.zonebourse.com/actualite-bourse/easy-trip-planners-annonce-son-integration-avec-chatgpt-ce7e51ddd881f220",
-      "publishedAt": "2026-04-02T15:41:00.000Z",
-      "date": "2026-04-02T15:41:00.000Z",
-      "description": "Easy Trip Planners Ltd: Easy Trip Planners a annoncé son intégration avec ChatGPT... -Le 02 avril 2026 à 17:15 - Zonebourse.... Cybersécurité · Au...",
-      "excerpt": "Easy Trip Planners Ltd: Easy Trip Planners a annoncé son intégration avec ChatGPT... -Le 02 avril 2026 à 17:15 - Zonebourse.... Cybersécurité · Au...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "SEO: doit-on désormais écrire pour les LLM? - BDM",
-      "link": "https://www.blogdumoderateur.com/seo-ecrire-llm/",
-      "url": "https://www.blogdumoderateur.com/seo-ecrire-llm/",
-      "publishedAt": "2026-04-02T15:38:35.000Z",
-      "date": "2026-04-02T15:38:35.000Z",
-      "description": "Pourtant, la recherche s'effectue encore massivement sur Google et, même si l'usage d'outils comme ChatGPT... Update ) · SEO. SEO: Google déploie...",
-      "excerpt": "Pourtant, la recherche s'effectue encore massivement sur Google et, même si l'usage d'outils comme ChatGPT... Update ) · SEO. SEO: Google déploie...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Le FBI prévient: n'utilisez pas d'apps chinoises sur iPhone",
-      "link": "https://www.iphon.fr/post/fbi-previent-utilisez-pas-apps-chinoises-iphone",
-      "url": "https://www.iphon.fr/post/fbi-previent-utilisez-pas-apps-chinoises-iphone",
-      "publishedAt": "2026-04-02T15:29:47.000Z",
-      "date": "2026-04-02T15:29:47.000Z",
-      "description": "Cybersécurité. Le FBI prévient: n'utilisez pas d'apps chinoises... Apple carplay siri chatgpt. ConcurrenceIl y a...",
-      "excerpt": "Cybersécurité. Le FBI prévient: n'utilisez pas d'apps chinoises... Apple carplay siri chatgpt. ConcurrenceIl y a...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
