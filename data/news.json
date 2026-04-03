@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T01:24:26.478Z",
+  "generatedAt": "2026-04-03T06:58:08.971Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT et Gmail: 10 usages concrets (sans donner tes mots de passe)",
+      "link": "https://www.journaldufreenaute.fr/chatgpt-gmail-usages/",
+      "url": "https://www.journaldufreenaute.fr/chatgpt-gmail-usages/",
+      "publishedAt": "2026-04-03T00:35:34.000Z",
+      "date": "2026-04-03T00:35:34.000Z",
+      "description": "Source: OpenAI, « ChatGPT se connecte à Gmail et Google Calendar », OpenAI, 2025; BDM, « Avec GPT-5, ChatGPT peut utiliser vos données Gmail ou...",
+      "excerpt": "Source: OpenAI, « ChatGPT se connecte à Gmail et Google Calendar », OpenAI, 2025; BDM, « Avec GPT-5, ChatGPT peut utiliser vos données Gmail ou...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le Tech Flash: SpaceX a perdu un satellite Starlink par Léa Benaim - 02/04 - Orange Actu",
       "link": "https://actu.orange.fr/videos/economie/le-tech-flash-spacex-a-perdu-un-satellite-starlink-par-lea-benaim-02-04-CNT000002ocnNT.html",
@@ -117,16 +127,6 @@
       "date": "2026-04-02T15:29:47.000Z",
       "description": "Cybersécurité. Le FBI prévient: n'utilisez pas d'apps chinoises... Apple carplay siri chatgpt. ConcurrenceIl y a...",
       "excerpt": "Cybersécurité. Le FBI prévient: n'utilisez pas d'apps chinoises... Apple carplay siri chatgpt. ConcurrenceIl y a...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT veut devenir le point de départ de toutes vos tâches numériques, ce plan en est la preuve",
-      "link": "https://www.phonandroid.com/chatgpt-veut-devenir-le-point-de-depart-de-toutes-vos-taches-numeriques-ce-plan-en-est-la-preuve.html",
-      "url": "https://www.phonandroid.com/chatgpt-veut-devenir-le-point-de-depart-de-toutes-vos-taches-numeriques-ce-plan-en-est-la-preuve.html",
-      "publishedAt": "2026-04-02T15:23:23.000Z",
-      "date": "2026-04-02T15:23:23.000Z",
-      "description": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT veut devenir le point de départ de toutes vos tâches numériques...",
-      "excerpt": "Cybersécurité · High-tech · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT veut devenir le point de départ de toutes vos tâches numériques...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
