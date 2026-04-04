@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T18:34:45.940Z",
+  "generatedAt": "2026-04-04T01:18:46.912Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,14 +10,34 @@
   "failedSources": [],
   "items": [
     {
+      "title": "J'ai testé la nouvelle intégration de ChatGPT à CarPlay - ZDNET",
+      "link": "https://www.zdnet.fr/pratique/jai-teste-la-nouvelle-integration-de-chatgpt-a-carplay-cest-desormais-mon-outil-de-predilection-pour-les-questions-ou-siri-echoue-493120.htm",
+      "url": "https://www.zdnet.fr/pratique/jai-teste-la-nouvelle-integration-de-chatgpt-a-carplay-cest-desormais-mon-outil-de-predilection-pour-les-questions-ou-siri-echoue-493120.htm",
+      "publishedAt": "2026-04-03T19:18:53.000Z",
+      "date": "2026-04-03T19:18:53.000Z",
+      "description": "Grâce à iOS 26.4 et à CarPlay, je peux désormais discuter par voix avec ChatGPT quand je suis en voiture. Voici comment je m'en sers.",
+      "excerpt": "Grâce à iOS 26.4 et à CarPlay, je peux désormais discuter par voix avec ChatGPT quand je suis en voiture. Voici comment je m'en sers.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Voici ce que font réellement les salariés sur ChatGPT au bureau - ZDNET",
       "link": "https://www.zdnet.fr/actualites/voici-ce-que-font-reellement-les-salaries-sur-chatgpt-au-bureau-493086.htm",
       "url": "https://www.zdnet.fr/actualites/voici-ce-que-font-reellement-les-salaries-sur-chatgpt-au-bureau-493086.htm",
-      "publishedAt": "2026-04-03T18:29:26.000Z",
-      "date": "2026-04-03T18:29:26.000Z",
-      "description": "... Siri échoue. Grâce à iOS 26.4 et à CarPlay, je peux désormais discuter par voix avec ChatGPT quand je suis en voiture. Voici comment je m'en sers...",
-      "excerpt": "... Siri échoue. Grâce à iOS 26.4 et à CarPlay, je peux désormais discuter par voix avec ChatGPT quand je suis en voiture. Voici comment je m'en sers...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "publishedAt": "2026-04-03T19:08:23.000Z",
+      "date": "2026-04-03T19:08:23.000Z",
+      "description": "Utilisateurs actifs hebdomadaires de ChatGPT sur les forfaits grand public (Gratuit, Plus, Pro), affichés sous forme d'instantanés ponctuels tous les...",
+      "excerpt": "Utilisateurs actifs hebdomadaires de ChatGPT sur les forfaits grand public (Gratuit, Plus, Pro), affichés sous forme d'instantanés ponctuels tous les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT fait son entrée dans les voitures… L'IA vocale intégrée à Apple CarPlay - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/chatgpt-fait-son-entree-dans-les-voitures-lia-vocale-integree-a-apple-carplay-493053.htm",
+      "url": "https://www.zdnet.fr/actualites/chatgpt-fait-son-entree-dans-les-voitures-lia-vocale-integree-a-apple-carplay-493053.htm",
+      "publishedAt": "2026-04-03T18:28:42.000Z",
+      "date": "2026-04-03T18:28:42.000Z",
+      "description": "OpenAI ChatGPT est disponible sur Apple CarPlay. Par Ahn Hee-jung. Publié le 03/04/2026 à 06:57 | Mis à jour le 03/04/...",
+      "excerpt": "OpenAI ChatGPT est disponible sur Apple CarPlay. Par Ahn Hee-jung. Publié le 03/04/2026 à 06:57 | Mis à jour le 03/04/...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Experts-comptables: ChatGPT dans un cabinet sur deux, la souveraineté des données... - ITRnews",
@@ -40,6 +60,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Comment l'IA transforme le développement de logiciels - ITdaily.",
+      "link": "https://itdaily.fr/opinies/hoe-ai-de-ontwikkeling-van-software-transformeert/",
+      "url": "https://itdaily.fr/opinies/hoe-ai-de-ontwikkeling-van-software-transformeert/",
+      "publishedAt": "2026-04-03T16:02:29.000Z",
+      "date": "2026-04-03T16:02:29.000Z",
+      "description": "... ChatGPT en novembre 2022. Mais... Je kan wachten tot de update vanzelf naar je toekomt, of de update handmatig installeren via de instellingen.",
+      "excerpt": "... ChatGPT en novembre 2022. Mais... Je kan wachten tot de update vanzelf naar je toekomt, of de update handmatig installeren via de instellingen.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Le créateur de ChatGPT vient de faire un investissement inattendu - 01net.com",
       "link": "https://www.01net.com/actualites/recentrer-openai-offre-podcast-prefere-silicon-valley.html",
       "url": "https://www.01net.com/actualites/recentrer-openai-offre-podcast-prefere-silicon-valley.html",
@@ -47,16 +77,6 @@
       "date": "2026-04-03T15:42:25.000Z",
       "description": "ChatGPT sur Apple CarPlay: voilà ce qu'il peut (et ne peut pas)... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
       "excerpt": "ChatGPT sur Apple CarPlay: voilà ce qu'il peut (et ne peut pas)... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "J'ai testé la nouvelle intégration de ChatGPT à CarPlay - ZDNET",
-      "link": "https://www.zdnet.fr/pratique/jai-teste-la-nouvelle-integration-de-chatgpt-a-carplay-cest-desormais-mon-outil-de-predilection-pour-les-questions-ou-siri-echoue-493120.htm",
-      "url": "https://www.zdnet.fr/pratique/jai-teste-la-nouvelle-integration-de-chatgpt-a-carplay-cest-desormais-mon-outil-de-predilection-pour-les-questions-ou-siri-echoue-493120.htm",
-      "publishedAt": "2026-04-03T15:00:37.000Z",
-      "date": "2026-04-03T15:00:37.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus... Contrairement à Siri, ChatGPT ne peut pas fonctionner directement avec votre iPhone.",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus... Contrairement à Siri, ChatGPT ne peut pas fonctionner directement avec votre iPhone.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -107,26 +127,6 @@
       "date": "2026-04-03T11:13:36.000Z",
       "description": "E2B ou E4B: Laquelle choisir pour votre SoC? Le problème, c'est que faire tourner une IA sur un processeur de smartphone demande des compromis de...",
       "excerpt": "E2B ou E4B: Laquelle choisir pour votre SoC? Le problème, c'est que faire tourner une IA sur un processeur de smartphone demande des compromis de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT fait son entrée dans les voitures… L'IA vocale intégrée à Apple CarPlay - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/chatgpt-fait-son-entree-dans-les-voitures-lia-vocale-integree-a-apple-carplay-493053.htm",
-      "url": "https://www.zdnet.fr/actualites/chatgpt-fait-son-entree-dans-les-voitures-lia-vocale-integree-a-apple-carplay-493053.htm",
-      "publishedAt": "2026-04-03T10:58:42.000Z",
-      "date": "2026-04-03T10:58:42.000Z",
-      "description": "OpenAI ChatGPT est disponible sur Apple CarPlay... Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et...",
-      "excerpt": "OpenAI ChatGPT est disponible sur Apple CarPlay... Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI teste une feuille de partage personnalisée pour ChatGPT - Dataconomy FR",
-      "link": "https://fr.dataconomy.com/2026/04/03/openai-teste-une-feuille-de-partage-personnalisee-pour-chatgpt/",
-      "url": "https://fr.dataconomy.com/2026/04/03/openai-teste-une-feuille-de-partage-personnalisee-pour-chatgpt/",
-      "publishedAt": "2026-04-03T10:11:19.000Z",
-      "date": "2026-04-03T10:11:19.000Z",
-      "description": "OpenAI introduit plusieurs mises à jour de l'interface utilisateur pour l'application ChatGPT... cybersécurité · OpenAI teste une feuille de partage...",
-      "excerpt": "OpenAI introduit plusieurs mises à jour de l'interface utilisateur pour l'application ChatGPT... cybersécurité · OpenAI teste une feuille de partage...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
