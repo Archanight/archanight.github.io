@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T12:34:22.276Z",
+  "generatedAt": "2026-04-04T18:28:27.408Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI en crise: Sora fermé, GPT-5 raté, concurrents en embuscade - Clubic",
+      "link": "https://www.clubic.com/actualite-607717-openai-debranche-sora-et-enchaine-les-erreurs-la-maison-mere-de-chatgpt-s-enfonce-t-elle-dans-la-crise.html",
+      "url": "https://www.clubic.com/actualite-607717-openai-debranche-sora-et-enchaine-les-erreurs-la-maison-mere-de-chatgpt-s-enfonce-t-elle-dans-la-crise.html",
+      "publishedAt": "2026-04-04T15:54:01.000Z",
+      "date": "2026-04-04T15:54:01.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Aucun dollar n'a changé de mains. ChatGPT (GPT-5.4).",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Aucun dollar n'a changé de mains. ChatGPT (GPT-5.4).",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "DarkSword: Apple corrige en urgence la faille qui menace tous les iPhone",
+      "link": "https://stephanelarue.com/darksword-apple-faille-zero-day-iphone-correctif/",
+      "url": "https://stephanelarue.com/darksword-apple-faille-zero-day-iphone-correctif/",
+      "publishedAt": "2026-04-04T09:33:05.000Z",
+      "date": "2026-04-04T09:33:05.000Z",
+      "description": "Fondateur du site stephanelarue.com, il assure... Follow: Publié le 3 avril 2026. Apple cybersécurité... ChatGPT, Claude, Gemini, Grok: quel chatbot...",
+      "excerpt": "Fondateur du site stephanelarue.com, il assure... Follow: Publié le 3 avril 2026. Apple cybersécurité... ChatGPT, Claude, Gemini, Grok: quel chatbot...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "J'ai testé la nouvelle intégration de ChatGPT à CarPlay - ZDNET",
       "link": "https://www.zdnet.fr/pratique/jai-teste-la-nouvelle-integration-de-chatgpt-a-carplay-cest-desormais-mon-outil-de-predilection-pour-les-questions-ou-siri-echoue-493120.htm",
@@ -107,26 +127,6 @@
       "date": "2026-04-03T12:00:50.000Z",
       "description": "Les sept principaux modèles d'IA testés, dont GPT 5.2, Gemini 3.... Les métiers de la Cybersécurité et de l'Intelligence Artificielle. Guardia...",
       "excerpt": "Les sept principaux modèles d'IA testés, dont GPT 5.2, Gemini 3.... Les métiers de la Cybersécurité et de l'Intelligence Artificielle. Guardia...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Penser le cyber: l'IA dans la conflictualité numérique - Areion24.news",
-      "link": "https://www.areion24.news/2026/04/03/penser-le-cyber-lia-dans-la-conflictualite-numerique/amp/",
-      "url": "https://www.areion24.news/2026/04/03/penser-le-cyber-lia-dans-la-conflictualite-numerique/amp/",
-      "publishedAt": "2026-04-03T11:52:15.000Z",
-      "date": "2026-04-03T11:52:15.000Z",
-      "description": "Depuis l'apparition de ChatGPT en novembre 2022, on ne... La volonté du gouvernement Biden de « refondre le contrat social de cybersécurité...",
-      "excerpt": "Depuis l'apparition de ChatGPT en novembre 2022, on ne... La volonté du gouvernement Biden de « refondre le contrat social de cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment installer Google Gemma 4 sur votre smartphone Android ou iPhone — Frandroid",
-      "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3051659_comment-installer-google-gemma-4-sur-votre-smartphone-android-ou-iphone",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3051659_comment-installer-google-gemma-4-sur-votre-smartphone-android-ou-iphone",
-      "publishedAt": "2026-04-03T11:13:36.000Z",
-      "date": "2026-04-03T11:13:36.000Z",
-      "description": "E2B ou E4B: Laquelle choisir pour votre SoC? Le problème, c'est que faire tourner une IA sur un processeur de smartphone demande des compromis de...",
-      "excerpt": "E2B ou E4B: Laquelle choisir pour votre SoC? Le problème, c'est que faire tourner une IA sur un processeur de smartphone demande des compromis de...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
