@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T06:55:41.174Z",
+  "generatedAt": "2026-04-05T12:36:44.343Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le créateur de ChatGPT vient de faire un investissement inattendu - 01net.com",
+      "link": "https://www.01net.com/actualites/recentrer-openai-offre-podcast-prefere-silicon-valley.html",
+      "url": "https://www.01net.com/actualites/recentrer-openai-offre-podcast-prefere-silicon-valley.html",
+      "publishedAt": "2026-04-04T23:10:40.000Z",
+      "date": "2026-04-04T23:10:40.000Z",
+      "description": "Le créateur de ChatGPT vient de faire un investissement inattendu... Sora fermé, Disney planté, un milliard de dollars parti en fumée. La réponse d'...",
+      "excerpt": "Le créateur de ChatGPT vient de faire un investissement inattendu... Sora fermé, Disney planté, un milliard de dollars parti en fumée. La réponse d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "OpenAI en crise: Sora fermé, GPT-5 raté, concurrents en embuscade - Clubic",
       "link": "https://www.clubic.com/actualite-607717-openai-debranche-sora-et-enchaine-les-erreurs-la-maison-mere-de-chatgpt-s-enfonce-t-elle-dans-la-crise.html",
@@ -88,16 +98,6 @@
       "description": "... ChatGPT en novembre 2022. Mais... Je kan wachten tot de update vanzelf naar je toekomt, of de update handmatig installeren via de instellingen.",
       "excerpt": "... ChatGPT en novembre 2022. Mais... Je kan wachten tot de update vanzelf naar je toekomt, of de update handmatig installeren via de instellingen.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Le créateur de ChatGPT vient de faire un investissement inattendu - 01net.com",
-      "link": "https://www.01net.com/actualites/recentrer-openai-offre-podcast-prefere-silicon-valley.html",
-      "url": "https://www.01net.com/actualites/recentrer-openai-offre-podcast-prefere-silicon-valley.html",
-      "publishedAt": "2026-04-03T15:42:25.000Z",
-      "date": "2026-04-03T15:42:25.000Z",
-      "description": "ChatGPT sur Apple CarPlay: voilà ce qu'il peut (et ne peut pas)... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "excerpt": "ChatGPT sur Apple CarPlay: voilà ce qu'il peut (et ne peut pas)... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "ChatGPT débarque sur CarPlay et c'est à la fois bluffant et frustrant - Siècle Digital",
