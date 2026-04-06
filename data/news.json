@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T18:30:05.662Z",
+  "generatedAt": "2026-04-06T01:28:12.462Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Fonction publique: le gouvernement propose une négociation sociale consacrée à l'IA",
+      "link": "https://www.lesechos.fr/politique-societe/gouvernement/fonction-publique-le-gouvernement-propose-une-negociation-sociale-consacree-a-lia-2224857",
+      "url": "https://www.lesechos.fr/politique-societe/gouvernement/fonction-publique-le-gouvernement-propose-une-negociation-sociale-consacree-a-lia-2224857",
+      "publishedAt": "2026-04-05T21:40:54.000Z",
+      "date": "2026-04-05T21:40:54.000Z",
+      "description": "Surtout, « plus de la moitié des interrogés utilisent une IA hors cadre comme ChatGPT ».... Cybersécurité Universités & enseignement supérieurEmploi &...",
+      "excerpt": "Surtout, « plus de la moitié des interrogés utilisent une IA hors cadre comme ChatGPT ».... Cybersécurité Universités & enseignement supérieurEmploi &...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le créateur de ChatGPT vient de faire un investissement inattendu - 01net.com",
       "link": "https://www.01net.com/actualites/recentrer-openai-offre-podcast-prefere-silicon-valley.html",
@@ -118,16 +128,6 @@
       "description": "... ChatGPT, Gemini et vous? Sam Altman on a chair. ChatGPT “Cancel ChatGPT ”: pourquoi l'IA la plus populaire est soudain sous le feu des critiques.",
       "excerpt": "... ChatGPT, Gemini et vous? Sam Altman on a chair. ChatGPT “Cancel ChatGPT ”: pourquoi l'IA la plus populaire est soudain sous le feu des critiques.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Les IA mentent pour protéger les autres IA - Korben",
-      "link": "https://korben.info/les-ia-mentent-pour-proteger-les-autres-ia.html",
-      "url": "https://korben.info/les-ia-mentent-pour-proteger-les-autres-ia.html",
-      "publishedAt": "2026-04-03T12:00:50.000Z",
-      "date": "2026-04-03T12:00:50.000Z",
-      "description": "Les sept principaux modèles d'IA testés, dont GPT 5.2, Gemini 3.... Les métiers de la Cybersécurité et de l'Intelligence Artificielle. Guardia...",
-      "excerpt": "Les sept principaux modèles d'IA testés, dont GPT 5.2, Gemini 3.... Les métiers de la Cybersécurité et de l'Intelligence Artificielle. Guardia...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
