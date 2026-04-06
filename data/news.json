@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T12:50:10.631Z",
+  "generatedAt": "2026-04-06T18:43:41.070Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Les nouvelles financières du jeudi 2 avril - Les Affaires",
+      "link": "https://www.lesaffaires.com/bourse/actualites-boursieres/les-nouvelles-financieres-du-lundi-6-avril/",
+      "url": "https://www.lesaffaires.com/bourse/actualites-boursieres/les-nouvelles-financieres-du-lundi-6-avril/",
+      "publishedAt": "2026-04-06T16:57:31.000Z",
+      "date": "2026-04-06T16:57:31.000Z",
+      "description": "ChatGPT a clôturé son dernier exercice avec 122G$US de capitaux engagés... Utiliser l'IA pour relever les défis liés aux… Cybersécurité proactive:...",
+      "excerpt": "ChatGPT a clôturé son dernier exercice avec 122G$US de capitaux engagés... Utiliser l'IA pour relever les défis liés aux… Cybersécurité proactive:...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le PDG d'OpenAI exhorte les États-Unis à se préparer aux risques et opportunités de la",
+      "link": "https://www.coindesk.com/fr/tech/2026/04/06/openai-ceo-urges-u-s-to-prepare-for-ai-superintelligence-risks-and-gains",
+      "url": "https://www.coindesk.com/fr/tech/2026/04/06/openai-ceo-urges-u-s-to-prepare-for-ai-superintelligence-risks-and-gains",
+      "publishedAt": "2026-04-06T15:59:20.000Z",
+      "date": "2026-04-06T15:59:20.000Z",
+      "description": "L'industrie de la cryptomonnaie fait face à des risques croissants en matière de cybersécurité, les outils d'IA réduisant le coût et les...",
+      "excerpt": "L'industrie de la cryptomonnaie fait face à des risques croissants en matière de cybersécurité, les outils d'IA réduisant le coût et les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Vers une utilisation responsable de l'intelligence artificielle - Le Courrier du VietNam",
+      "link": "https://lecourrier.vn/vers-une-utilisation-responsable-de-lintelligence-artificielle/1344706.html",
+      "url": "https://lecourrier.vn/vers-une-utilisation-responsable-de-lintelligence-artificielle/1344706.html",
+      "publishedAt": "2026-04-06T14:59:35.000Z",
+      "date": "2026-04-06T14:59:35.000Z",
+      "description": "Grâce à des plateformes telles que ChatGPT ou Gemini, les étudiants... >> L'IA en tête des investissements en cybersécurité au Vietnam.",
+      "excerpt": "Grâce à des plateformes telles que ChatGPT ou Gemini, les étudiants... >> L'IA en tête des investissements en cybersécurité au Vietnam.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "DarkSword: Apple déploie des correctifs pour iOS 18 - Android MT",
+      "link": "https://android-mt.ouest-france.fr/news/darksword-apple-deploie-des-correctifs-pour-ios-18/198496/",
+      "url": "https://android-mt.ouest-france.fr/news/darksword-apple-deploie-des-correctifs-pour-ios-18/198496/",
+      "publishedAt": "2026-04-06T12:42:50.000Z",
+      "date": "2026-04-06T12:42:50.000Z",
+      "description": "... Apple iPhone operation system update. La réponse d'Apple... CarPlay- ChatGPT -vocal · CarPlay accueille ChatGPT pour un...",
+      "excerpt": "... Apple iPhone operation system update. La réponse d'Apple... CarPlay- ChatGPT -vocal · CarPlay accueille ChatGPT pour un...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Fonction publique: le gouvernement propose une négociation sociale consacrée à l'IA",
       "link": "https://www.lesechos.fr/politique-societe/gouvernement/fonction-publique-le-gouvernement-propose-une-negociation-sociale-consacree-a-lia-2224857",
@@ -88,46 +128,6 @@
       "description": "Experts-comptables: ChatGPT dans un cabinet sur deux, la souveraineté des données dans toutes les têtes... Cybersécurité: les services publics...",
       "excerpt": "Experts-comptables: ChatGPT dans un cabinet sur deux, la souveraineté des données dans toutes les têtes... Cybersécurité: les services publics...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les rendus divulgués montrent à quoi ressemble le Pixel 11 Pro XL - Dataconomy FR",
-      "link": "https://fr.dataconomy.com/2026/04/03/les-rendus-divulgues-montrent-a-quoi-ressemble-le-pixel-11-pro-xl/",
-      "url": "https://fr.dataconomy.com/2026/04/03/les-rendus-divulgues-montrent-a-quoi-ressemble-le-pixel-11-pro-xl/",
-      "publishedAt": "2026-04-03T16:11:17.000Z",
-      "date": "2026-04-03T16:11:17.000Z",
-      "description": "... cybersécurité · OpenAI teste une feuille de partage personnalisée pour ChatGPT · Sony acquiert la startup britannique Cinemersive Labs pour la...",
-      "excerpt": "... cybersécurité · OpenAI teste une feuille de partage personnalisée pour ChatGPT · Sony acquiert la startup britannique Cinemersive Labs pour la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment l'IA transforme le développement de logiciels - ITdaily.",
-      "link": "https://itdaily.fr/opinies/hoe-ai-de-ontwikkeling-van-software-transformeert/",
-      "url": "https://itdaily.fr/opinies/hoe-ai-de-ontwikkeling-van-software-transformeert/",
-      "publishedAt": "2026-04-03T16:02:29.000Z",
-      "date": "2026-04-03T16:02:29.000Z",
-      "description": "... ChatGPT en novembre 2022. Mais... Je kan wachten tot de update vanzelf naar je toekomt, of de update handmatig installeren via de instellingen.",
-      "excerpt": "... ChatGPT en novembre 2022. Mais... Je kan wachten tot de update vanzelf naar je toekomt, of de update handmatig installeren via de instellingen.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT débarque sur CarPlay et c'est à la fois bluffant et frustrant - Siècle Digital",
-      "link": "https://siecledigital.fr/2026/04/03/chatgpt-dans-votre-voiture-apple-ouvre-enfin-carplay-aux-ia/",
-      "url": "https://siecledigital.fr/2026/04/03/chatgpt-dans-votre-voiture-apple-ouvre-enfin-carplay-aux-ia/",
-      "publishedAt": "2026-04-03T12:45:30.000Z",
-      "date": "2026-04-03T12:45:30.000Z",
-      "description": "Pendant des années, Apple a gardé CarPlay sous clé en utilisant uniquement Siri. ChatGPT débarque sur CarPlay et...",
-      "excerpt": "Pendant des années, Apple a gardé CarPlay sous clé en utilisant uniquement Siri. ChatGPT débarque sur CarPlay et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI ne veut plus seulement répondre à vos questions, mais gérer votre quotidien numérique",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/openai-ne-veut-plus-seulement-repondre-a-vos-questions-mais-gerer-votre-quotidien-numerique",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/openai-ne-veut-plus-seulement-repondre-a-vos-questions-mais-gerer-votre-quotidien-numerique",
-      "publishedAt": "2026-04-03T12:33:54.000Z",
-      "date": "2026-04-03T12:33:54.000Z",
-      "description": "... ChatGPT, Gemini et vous? Sam Altman on a chair. ChatGPT “Cancel ChatGPT ”: pourquoi l'IA la plus populaire est soudain sous le feu des critiques.",
-      "excerpt": "... ChatGPT, Gemini et vous? Sam Altman on a chair. ChatGPT “Cancel ChatGPT ”: pourquoi l'IA la plus populaire est soudain sous le feu des critiques.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
