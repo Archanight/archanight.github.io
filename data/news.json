@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T07:05:16.595Z",
+  "generatedAt": "2026-04-07T12:59:10.529Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Pourquoi votre contenu bien classé dans Google reste invisible pour ChatGPT (et comment...",
+      "link": "https://www.journaldunet.com/seo/1549193-pourquoi-votre-contenu-bien-classe-dans-google-reste-invisible-pour-chatgpt-et-comment-y-remedier/",
+      "url": "https://www.journaldunet.com/seo/1549193-pourquoi-votre-contenu-bien-classe-dans-google-reste-invisible-pour-chatgpt-et-comment-y-remedier/",
+      "publishedAt": "2026-04-07T10:06:42.000Z",
+      "date": "2026-04-07T10:06:42.000Z",
+      "description": "ChatGPT privilégie notamment la fraîcheur et les contenus structurés... Cybersécurité · Robotique · Cloud · Economie · IA News · Tech · Media / Adtech...",
+      "excerpt": "ChatGPT privilégie notamment la fraîcheur et les contenus structurés... Cybersécurité · Robotique · Cloud · Economie · IA News · Tech · Media / Adtech...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "En Chine, l'IA OpenClaw déclenche une ferveur digne d'une star mondiale - TechRadar",
+      "link": "https://global.techradar.com/fr-fr/pro/en-chine-lia-openclaw-declenche-une-ferveur-digne-dune-star-mondiale",
+      "url": "https://global.techradar.com/fr-fr/pro/en-chine-lia-openclaw-declenche-une-ferveur-digne-dune-star-mondiale",
+      "publishedAt": "2026-04-07T09:43:59.000Z",
+      "date": "2026-04-07T09:43:59.000Z",
+      "description": "ChatGPT logo on a phone. Une faille silencieuse dans ChatGPT permettait... Les autorités de cybersécurité soutenues par l'État ont averti à...",
+      "excerpt": "ChatGPT logo on a phone. Une faille silencieuse dans ChatGPT permettait... Les autorités de cybersécurité soutenues par l'État ont averti à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "L'intelligence artificielle à l'assaut des marchés - Les Affaires",
       "link": "https://www.lesaffaires.com/bourse/analyses/lintelligence-artificielle-a-lassaut-des-marches/",
@@ -107,26 +127,6 @@
       "date": "2026-04-05T19:06:29.000Z",
       "description": "Ingénieur DevOps au sein du département Analyse & Technologie de... ChatGPT атты ЖИ чатботымен хабар алмасу арқылы Шарттарымызға келісесіз және...",
       "excerpt": "Ingénieur DevOps au sein du département Analyse & Technologie de... ChatGPT атты ЖИ чатботымен хабар алмасу арқылы Шарттарымызға келісесіз және...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le créateur de ChatGPT vient de faire un investissement inattendu - 01net.com",
-      "link": "https://www.01net.com/actualites/recentrer-openai-offre-podcast-prefere-silicon-valley.html",
-      "url": "https://www.01net.com/actualites/recentrer-openai-offre-podcast-prefere-silicon-valley.html",
-      "publishedAt": "2026-04-04T23:10:40.000Z",
-      "date": "2026-04-04T23:10:40.000Z",
-      "description": "Le créateur de ChatGPT vient de faire un investissement inattendu... Sora fermé, Disney planté, un milliard de dollars parti en fumée. La réponse d'...",
-      "excerpt": "Le créateur de ChatGPT vient de faire un investissement inattendu... Sora fermé, Disney planté, un milliard de dollars parti en fumée. La réponse d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI en crise: Sora fermé, GPT-5 raté, concurrents en embuscade - Clubic",
-      "link": "https://www.clubic.com/actualite-607717-openai-debranche-sora-et-enchaine-les-erreurs-la-maison-mere-de-chatgpt-s-enfonce-t-elle-dans-la-crise.html",
-      "url": "https://www.clubic.com/actualite-607717-openai-debranche-sora-et-enchaine-les-erreurs-la-maison-mere-de-chatgpt-s-enfonce-t-elle-dans-la-crise.html",
-      "publishedAt": "2026-04-04T15:54:01.000Z",
-      "date": "2026-04-04T15:54:01.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Aucun dollar n'a changé de mains. ChatGPT (GPT-5.4).",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Aucun dollar n'a changé de mains. ChatGPT (GPT-5.4).",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
