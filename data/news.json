@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T18:43:41.070Z",
+  "generatedAt": "2026-04-07T01:26:07.286Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "L'intelligence artificielle à l'assaut des marchés - Les Affaires",
+      "link": "https://www.lesaffaires.com/bourse/analyses/lintelligence-artificielle-a-lassaut-des-marches/",
+      "url": "https://www.lesaffaires.com/bourse/analyses/lintelligence-artificielle-a-lassaut-des-marches/",
+      "publishedAt": "2026-04-06T18:57:07.000Z",
+      "date": "2026-04-06T18:57:07.000Z",
+      "description": "Les différents modèles principaux comme Claude, Gemini et ChatGPT sont... Cybersécurité: arrêtons de confondre préparation et prévention. Les...",
+      "excerpt": "Les différents modèles principaux comme Claude, Gemini et ChatGPT sont... Cybersécurité: arrêtons de confondre préparation et prévention. Les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "46 Bootcamps Formation IT & IA | Dès 299€ sans CPF | Emeraude IT",
+      "link": "https://emeraude-it.com/training.html",
+      "url": "https://emeraude-it.com/training.html",
+      "publishedAt": "2026-04-06T17:54:50.000Z",
+      "date": "2026-04-06T17:54:50.000Z",
+      "description": "46 bootcamps formation à distance sans CPF - dès 299€. IA, ChatGPT, Copilot, Microsoft Fabric, Automatisation, DevOps, C#, Docker, Power BI.",
+      "excerpt": "46 bootcamps formation à distance sans CPF - dès 299€. IA, ChatGPT, Copilot, Microsoft Fabric, Automatisation, DevOps, C#, Docker, Power BI.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Les nouvelles financières du jeudi 2 avril - Les Affaires",
       "link": "https://www.lesaffaires.com/bourse/actualites-boursieres/les-nouvelles-financieres-du-lundi-6-avril/",
@@ -60,6 +80,36 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Thomas Girard — Agent IA DevOps - ChatGPT",
+      "link": "https://chatgpt.com/g/g-dr9w5rTwn-thomas-girard-agent-ia-devops?locale=ur",
+      "url": "https://chatgpt.com/g/g-dr9w5rTwn-thomas-girard-agent-ia-devops?locale=ur",
+      "publishedAt": "2026-04-05T21:31:19.000Z",
+      "date": "2026-04-05T21:31:19.000Z",
+      "description": "Ingénieur DevOps au sein du département Analyse & Technologie de... AI چیٹ بوٹ ChatGPT کو پیغام لکھ کر آپ ہماری شرائط سے اتفاق کرتے ہیں اور...",
+      "excerpt": "Ingénieur DevOps au sein du département Analyse & Technologie de... AI چیٹ بوٹ ChatGPT کو پیغام لکھ کر آپ ہماری شرائط سے اتفاق کرتے ہیں اور...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Thomas Girard — Agent IA DevOps - ChatGPT",
+      "link": "https://chatgpt.com/g/g-dr9w5rTwn-thomas-girard-agent-ia-devops?locale=pa",
+      "url": "https://chatgpt.com/g/g-dr9w5rTwn-thomas-girard-agent-ia-devops?locale=pa",
+      "publishedAt": "2026-04-05T20:07:21.000Z",
+      "date": "2026-04-05T20:07:21.000Z",
+      "description": "Ingénieur DevOps au sein du département Analyse & Technologie de... ChatGPT, ਇੱਕ AI ਚੈਟਬੌਟ, ਨੂੰ ਸੁਨੇਹਾ ਭੇਜਣ 'ਤੇ...",
+      "excerpt": "Ingénieur DevOps au sein du département Analyse & Technologie de... ChatGPT, ਇੱਕ AI ਚੈਟਬੌਟ, ਨੂੰ ਸੁਨੇਹਾ ਭੇਜਣ 'ਤੇ...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Thomas Girard — Agent IA DevOps - ChatGPT",
+      "link": "https://chatgpt.com/g/g-dr9w5rTwn-thomas-girard-agent-ia-devops?locale=kk",
+      "url": "https://chatgpt.com/g/g-dr9w5rTwn-thomas-girard-agent-ia-devops?locale=kk",
+      "publishedAt": "2026-04-05T19:06:29.000Z",
+      "date": "2026-04-05T19:06:29.000Z",
+      "description": "Ingénieur DevOps au sein du département Analyse & Technologie de... ChatGPT атты ЖИ чатботымен хабар алмасу арқылы Шарттарымызға келісесіз және...",
+      "excerpt": "Ingénieur DevOps au sein du département Analyse & Technologie de... ChatGPT атты ЖИ чатботымен хабар алмасу арқылы Шарттарымызға келісесіз және...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Le créateur de ChatGPT vient de faire un investissement inattendu - 01net.com",
       "link": "https://www.01net.com/actualites/recentrer-openai-offre-podcast-prefere-silicon-valley.html",
       "url": "https://www.01net.com/actualites/recentrer-openai-offre-podcast-prefere-silicon-valley.html",
@@ -77,56 +127,6 @@
       "date": "2026-04-04T15:54:01.000Z",
       "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Aucun dollar n'a changé de mains. ChatGPT (GPT-5.4).",
       "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Aucun dollar n'a changé de mains. ChatGPT (GPT-5.4).",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "DarkSword: Apple corrige en urgence la faille qui menace tous les iPhone",
-      "link": "https://stephanelarue.com/darksword-apple-faille-zero-day-iphone-correctif/",
-      "url": "https://stephanelarue.com/darksword-apple-faille-zero-day-iphone-correctif/",
-      "publishedAt": "2026-04-04T09:33:05.000Z",
-      "date": "2026-04-04T09:33:05.000Z",
-      "description": "Fondateur du site stephanelarue.com, il assure... Follow: Publié le 3 avril 2026. Apple cybersécurité... ChatGPT, Claude, Gemini, Grok: quel chatbot...",
-      "excerpt": "Fondateur du site stephanelarue.com, il assure... Follow: Publié le 3 avril 2026. Apple cybersécurité... ChatGPT, Claude, Gemini, Grok: quel chatbot...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "J'ai testé la nouvelle intégration de ChatGPT à CarPlay - ZDNET",
-      "link": "https://www.zdnet.fr/pratique/jai-teste-la-nouvelle-integration-de-chatgpt-a-carplay-cest-desormais-mon-outil-de-predilection-pour-les-questions-ou-siri-echoue-493120.htm",
-      "url": "https://www.zdnet.fr/pratique/jai-teste-la-nouvelle-integration-de-chatgpt-a-carplay-cest-desormais-mon-outil-de-predilection-pour-les-questions-ou-siri-echoue-493120.htm",
-      "publishedAt": "2026-04-03T19:18:53.000Z",
-      "date": "2026-04-03T19:18:53.000Z",
-      "description": "Grâce à iOS 26.4 et à CarPlay, je peux désormais discuter par voix avec ChatGPT quand je suis en voiture. Voici comment je m'en sers.",
-      "excerpt": "Grâce à iOS 26.4 et à CarPlay, je peux désormais discuter par voix avec ChatGPT quand je suis en voiture. Voici comment je m'en sers.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Voici ce que font réellement les salariés sur ChatGPT au bureau - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/voici-ce-que-font-reellement-les-salaries-sur-chatgpt-au-bureau-493086.htm",
-      "url": "https://www.zdnet.fr/actualites/voici-ce-que-font-reellement-les-salaries-sur-chatgpt-au-bureau-493086.htm",
-      "publishedAt": "2026-04-03T19:08:23.000Z",
-      "date": "2026-04-03T19:08:23.000Z",
-      "description": "Utilisateurs actifs hebdomadaires de ChatGPT sur les forfaits grand public (Gratuit, Plus, Pro), affichés sous forme d'instantanés ponctuels tous les...",
-      "excerpt": "Utilisateurs actifs hebdomadaires de ChatGPT sur les forfaits grand public (Gratuit, Plus, Pro), affichés sous forme d'instantanés ponctuels tous les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT fait son entrée dans les voitures… L'IA vocale intégrée à Apple CarPlay - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/chatgpt-fait-son-entree-dans-les-voitures-lia-vocale-integree-a-apple-carplay-493053.htm",
-      "url": "https://www.zdnet.fr/actualites/chatgpt-fait-son-entree-dans-les-voitures-lia-vocale-integree-a-apple-carplay-493053.htm",
-      "publishedAt": "2026-04-03T18:28:42.000Z",
-      "date": "2026-04-03T18:28:42.000Z",
-      "description": "OpenAI ChatGPT est disponible sur Apple CarPlay. Par Ahn Hee-jung. Publié le 03/04/2026 à 06:57 | Mis à jour le 03/04/...",
-      "excerpt": "OpenAI ChatGPT est disponible sur Apple CarPlay. Par Ahn Hee-jung. Publié le 03/04/2026 à 06:57 | Mis à jour le 03/04/...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Experts-comptables: ChatGPT dans un cabinet sur deux, la souveraineté des données... - ITRnews",
-      "link": "https://itrnews.com/articles/209387/experts-comptables-chatgpt-dans-un-cabinet-sur-deux-la-souverainete-des-donnees-dans-toutes-les-tetes.html",
-      "url": "https://itrnews.com/articles/209387/experts-comptables-chatgpt-dans-un-cabinet-sur-deux-la-souverainete-des-donnees-dans-toutes-les-tetes.html",
-      "publishedAt": "2026-04-03T17:17:29.000Z",
-      "date": "2026-04-03T17:17:29.000Z",
-      "description": "Experts-comptables: ChatGPT dans un cabinet sur deux, la souveraineté des données dans toutes les têtes... Cybersécurité: les services publics...",
-      "excerpt": "Experts-comptables: ChatGPT dans un cabinet sur deux, la souveraineté des données dans toutes les têtes... Cybersécurité: les services publics...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
