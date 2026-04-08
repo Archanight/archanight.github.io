@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T12:59:46.248Z",
+  "generatedAt": "2026-04-08T19:03:07.618Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Elon Musk veut évincer Sam Altman d'OpenAI (et reprendre le contrôle de ChatGPT?)",
+      "link": "https://www.mac4ever.com/ia/195553-elon-musk-veut-evincer-sam-altman-d-openai-et-reprendre-le-controle-de-chatgpt",
+      "url": "https://www.mac4ever.com/ia/195553-elon-musk-veut-evincer-sam-altman-d-openai-et-reprendre-le-controle-de-chatgpt",
+      "publishedAt": "2026-04-08T14:40:49.000Z",
+      "date": "2026-04-08T14:40:49.000Z",
+      "description": "OpenAI est aujourd'hui au cœur de la révolution de l'IA générative, portée par le succès massif de ChatGPT, qui revendique plus de 200 millions d'...",
+      "excerpt": "OpenAI est aujourd'hui au cœur de la révolution de l'IA générative, portée par le succès massif de ChatGPT, qui revendique plus de 200 millions d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Un Français pose cette question à ChatGPT: le RAID et le FBI déboulent chez lui",
       "link": "https://www.lebigdata.fr/un-francais-pose-cette-question-a-chatgpt-le-raid-et-le-fbi-deboulent-chez-lui",
@@ -118,16 +128,6 @@
       "description": "Cette mise à jour ne vient pas seule. Elle accompagne un mouvement plus large où ChatGPT (via les nouvelles API de voix conversationnelle) et Google...",
       "excerpt": "Cette mise à jour ne vient pas seule. Elle accompagne un mouvement plus large où ChatGPT (via les nouvelles API de voix conversationnelle) et Google...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Semaine de 32 h, confinement, redistribution des richesses... OpenAI dévoile son plan... - 01net.com",
-      "link": "https://www.01net.com/actualites/semaine-32-heures-travail-redistribution-richesses-confinement-ia-sam-altman-devoile-plan-limiter-menaces-ia.html",
-      "url": "https://www.01net.com/actualites/semaine-32-heures-travail-redistribution-richesses-confinement-ia-sam-altman-devoile-plan-limiter-menaces-ia.html",
-      "publishedAt": "2026-04-08T05:32:30.000Z",
-      "date": "2026-04-08T05:32:30.000Z",
-      "description": "Selon le cofondateur de ChatGPT, l'intelligence artificielle pourrait à... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "excerpt": "Selon le cofondateur de ChatGPT, l'intelligence artificielle pourrait à... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
