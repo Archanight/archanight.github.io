@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T01:18:26.471Z",
+  "generatedAt": "2026-04-09T07:10:56.927Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Pour lutter contre les dangers de son modèle Claude Mythos, Anthropic fédère les géants de la tech",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/project-glasswing-anthropic-federe-la-big-tech-contre-les-risques-d-un-modele-d-ia-qui-menace-toute-la-cybersecurite-20260408",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/project-glasswing-anthropic-federe-la-big-tech-contre-les-risques-d-un-modele-d-ia-qui-menace-toute-la-cybersecurite-20260408",
+      "publishedAt": "2026-04-09T02:42:50.000Z",
+      "date": "2026-04-09T02:42:50.000Z",
+      "description": "Cybersécurité · Lire dans l'app; Copier le lien. Lien copié. Mail... OpenAI écoute-t-il nos conversations avec ChatGPT? Une arrestation à...",
+      "excerpt": "Cybersécurité · Lire dans l'app; Copier le lien. Lien copié. Mail... OpenAI écoute-t-il nos conversations avec ChatGPT? Une arrestation à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "JD Vance: La première proposition de paix iranienne semble avoir été rédigée avec ChatGPT",
+      "link": "https://telegrafi.com/fr/amp/La-premi%C3%A8re-proposition-de-paix-iranienne-de-J.D.-Vance-semble-avoir-%C3%A9t%C3%A9-r%C3%A9dig%C3%A9e-avec-chatgpt-2676682543",
+      "url": "https://telegrafi.com/fr/amp/La-premi%C3%A8re-proposition-de-paix-iranienne-de-J.D.-Vance-semble-avoir-%C3%A9t%C3%A9-r%C3%A9dig%C3%A9e-avec-chatgpt-2676682543",
+      "publishedAt": "2026-04-09T01:31:45.000Z",
+      "date": "2026-04-09T01:31:45.000Z",
+      "description": "Selon le vice-président américain, « la première proposition était tellement étrange que nous avons pensé qu'elle aurait pu être écrite par ChatGPT »...",
+      "excerpt": "Selon le vice-président américain, « la première proposition était tellement étrange que nous avons pensé qu'elle aurait pu être écrite par ChatGPT »...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Ready For IT dévoile le programme de sa 7ème édition - ITRmanager",
+      "link": "https://itrmanager.com/articles/209426/ready-for-it-devoile-le-programme-de-sa-7eme-edition.html",
+      "url": "https://itrmanager.com/articles/209426/ready-for-it-devoile-le-programme-de-sa-7eme-edition.html",
+      "publishedAt": "2026-04-09T01:15:41.000Z",
+      "date": "2026-04-09T01:15:41.000Z",
+      "description": "• Cybersécurité: quelles clés pour innover sans s'exposer et rester attractif? -... Experts-comptables: ChatGPT dans un cabinet sur deux, la...",
+      "excerpt": "• Cybersécurité: quelles clés pour innover sans s'exposer et rester attractif? -... Experts-comptables: ChatGPT dans un cabinet sur deux, la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le Tech Flash: \"OpenAI, un plan contre le danger de l'IA\" par Léa Benaim - 08/04",
       "link": "https://actu.orange.fr/videos/economie/le-tech-flash-openai-un-plan-contre-le-danger-de-l-ia-par-lea-benaim-08-04-CNT000002oiqFh.html",
@@ -97,36 +127,6 @@
       "date": "2026-04-08T11:30:08.000Z",
       "description": "... cybersécurité offensive l'ont conduit à créer une startup pensée pour... logo ChatGPT · logo Perplexity · logo Claude. Roni Carta. Tout commence à...",
       "excerpt": "... cybersécurité offensive l'ont conduit à créer une startup pensée pour... logo ChatGPT · logo Perplexity · logo Claude. Roni Carta. Tout commence à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Manipulateur, sociopathe: qui est vraiment le patron de ChatGPT? - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/manipulateur-sociopathe-qui-est-vraiment-le-patron-de-chatgpt",
-      "url": "https://www.lebigdata.fr/manipulateur-sociopathe-qui-est-vraiment-le-patron-de-chatgpt",
-      "publishedAt": "2026-04-08T10:22:20.000Z",
-      "date": "2026-04-08T10:22:20.000Z",
-      "description": "Le patron de ChatGPT, fait face à de lourdes critiques. Une enquête du New Yorker dévoile un dirigeant aussi influent que controversé.",
-      "excerpt": "Le patron de ChatGPT, fait face à de lourdes critiques. Une enquête du New Yorker dévoile un dirigeant aussi influent que controversé.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pour une partie de la Gen Z, discuter avec une IA est devenu plus simple que parler à un humain",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/pour-une-partie-de-la-gen-z-discuter-avec-une-ia-est-devenu-plus-simple-que-parler-a-un-humain",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/pour-une-partie-de-la-gen-z-discuter-avec-une-ia-est-devenu-plus-simple-que-parler-a-un-humain",
-      "publishedAt": "2026-04-08T08:21:29.000Z",
-      "date": "2026-04-08T08:21:29.000Z",
-      "description": "He's since become an expert on the products of generative AI models, such as OpenAI's ChatGPT, Anthropic's Claude, Google Gemini, and every other...",
-      "excerpt": "He's since become an expert on the products of generative AI models, such as OpenAI's ChatGPT, Anthropic's Claude, Google Gemini, and every other...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "IA & Cybersécurité: les 6 actus clés du 8 avr 2026",
-      "link": "https://dcod.ch/2026/04/08/ia-cybersecurite-les-6-actus-cles-du-8-avr-2026/",
-      "url": "https://dcod.ch/2026/04/08/ia-cybersecurite-les-6-actus-cles-du-8-avr-2026/",
-      "publishedAt": "2026-04-08T07:38:14.000Z",
-      "date": "2026-04-08T07:38:14.000Z",
-      "description": "Voici le tour d'horizon hebdomadaire des actualités à l'intersection de l'intelligence artificielle et de la cybersécurité... Une faille dans ChatGPT...",
-      "excerpt": "Voici le tour d'horizon hebdomadaire des actualités à l'intersection de l'intelligence artificielle et de la cybersécurité... Une faille dans ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
