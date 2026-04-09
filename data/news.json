@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T19:03:07.618Z",
+  "generatedAt": "2026-04-09T01:18:26.471Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le Tech Flash: \"OpenAI, un plan contre le danger de l'IA\" par Léa Benaim - 08/04",
+      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-openai-un-plan-contre-le-danger-de-l-ia-par-lea-benaim-08-04-CNT000002oiqFh.html",
+      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-openai-un-plan-contre-le-danger-de-l-ia-par-lea-benaim-08-04-CNT000002oiqFh.html",
+      "publishedAt": "2026-04-08T21:20:54.000Z",
+      "date": "2026-04-08T21:20:54.000Z",
+      "description": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et... Le Tech Flash: De la pub en approche sur ChatGPT? Par Léa Benaim - 01...",
+      "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et... Le Tech Flash: De la pub en approche sur ChatGPT? Par Léa Benaim - 01...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Anthropic lance son nouveau modèle Claude Mythos et le projet de cybersecurité Glasswing, jugé",
+      "link": "https://www.capital.fr/entreprises-marches/anthropic-lance-son-nouveau-modele-claude-mythos-et-le-projet-de-cybersecurite-glasswing-juge-trop-puissants-pour-etre-rendu-public-1525404",
+      "url": "https://www.capital.fr/entreprises-marches/anthropic-lance-son-nouveau-modele-claude-mythos-et-le-projet-de-cybersecurite-glasswing-juge-trop-puissants-pour-etre-rendu-public-1525404",
+      "publishedAt": "2026-04-08T20:26:39.000Z",
+      "date": "2026-04-08T20:26:39.000Z",
+      "description": "... social X, ChatGPT ne. Elon Musk. Elon Musk pousse un coup de gueule contre le «logiciel espion effrayant» d'Apple et chatGPT. Allez + loin. CMA CGM s...",
+      "excerpt": "... social X, ChatGPT ne. Elon Musk. Elon Musk pousse un coup de gueule contre le «logiciel espion effrayant» d'Apple et chatGPT. Allez + loin. CMA CGM s...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Priorité à l'entreprise à l'ère de l'IA: faire de la cybersécurité un levier concret - Le Matin",
+      "link": "https://lematin.ma/hi-tech/entreprise-et-ia-faire-de-la-cybersecurite-un-levier-concret/339275/amp",
+      "url": "https://lematin.ma/hi-tech/entreprise-et-ia-faire-de-la-cybersecurite-un-levier-concret/339275/amp",
+      "publishedAt": "2026-04-08T19:53:20.000Z",
+      "date": "2026-04-08T19:53:20.000Z",
+      "description": "... cybersécurité un levier concret. [Contenu de... Au lieu de passer un mois à étudier la programmation, il peut simplement demander à ChatGPT.",
+      "excerpt": "... cybersécurité un levier concret. [Contenu de... Au lieu de passer un mois à étudier la programmation, il peut simplement demander à ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Elon Musk veut évincer Sam Altman d'OpenAI (et reprendre le contrôle de ChatGPT?)",
       "link": "https://www.mac4ever.com/ia/195553-elon-musk-veut-evincer-sam-altman-d-openai-et-reprendre-le-controle-de-chatgpt",
@@ -50,6 +80,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Tag: siri vs chatgpt - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/tag/siri+vs+chatgpt",
+      "url": "https://pasqualepillitteri.it/fr/news/tag/siri+vs+chatgpt",
+      "publishedAt": "2026-04-08T11:31:50.000Z",
+      "date": "2026-04-08T11:31:50.000Z",
+      "description": "Tag: siri vs chatgpt. Articles sur le génie informatique, le développement logiciel, la cybersécurité et l'innovation numérique. Guides pratiques...",
+      "excerpt": "Tag: siri vs chatgpt. Articles sur le génie informatique, le développement logiciel, la cybersécurité et l'innovation numérique. Guides pratiques...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "De hacker autodidacte à entrepreneur: la trajectoire fulgurante de Roni Carta - Big Media",
       "link": "https://bigmedia.bpifrance.fr/nos-actualites/de-hacker-autodidacte-a-entrepreneur-la-trajectoire-fulgurante-de-roni-carta",
       "url": "https://bigmedia.bpifrance.fr/nos-actualites/de-hacker-autodidacte-a-entrepreneur-la-trajectoire-fulgurante-de-roni-carta",
@@ -88,46 +128,6 @@
       "description": "Voici le tour d'horizon hebdomadaire des actualités à l'intersection de l'intelligence artificielle et de la cybersécurité... Une faille dans ChatGPT...",
       "excerpt": "Voici le tour d'horizon hebdomadaire des actualités à l'intersection de l'intelligence artificielle et de la cybersécurité... Une faille dans ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "À cause d'une conversation avec l'IA, un Français s'est retrouvé dans le viseur du FBI",
-      "link": "https://www.01net.com/actualites/cause-conversation-ia-francais-retrouve-viseur-fbi.html",
-      "url": "https://www.01net.com/actualites/cause-conversation-ia-francais-retrouve-viseur-fbi.html",
-      "publishedAt": "2026-04-08T07:34:39.000Z",
-      "date": "2026-04-08T07:34:39.000Z",
-      "description": "Dans ses conditions d'utilisation, ChatGPT précise que, dans des cas... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "excerpt": "Dans ses conditions d'utilisation, ChatGPT précise que, dans des cas... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Dans les coulisses de ChatGPT Search: reverse engineering de web.run, fan-outs, et les...",
-      "link": "https://www.abondance.com/20260408-2117968-coulisses-de-chatgpt-search.html",
-      "url": "https://www.abondance.com/20260408-2117968-coulisses-de-chatgpt-search.html",
-      "publishedAt": "2026-04-08T07:29:10.000Z",
-      "date": "2026-04-08T07:29:10.000Z",
-      "description": "GPT-5.2, 5.3 et 5.4 partagent la même date de cutoff (août 2025) et appartiennent à la même famille GPT-5. Pourtant, le même prompt envoyé à chacun d'...",
-      "excerpt": "GPT-5.2, 5.3 et 5.4 partagent la même date de cutoff (août 2025) et appartiennent à la même famille GPT-5. Pourtant, le même prompt envoyé à chacun d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Cybersécurité: Anthropic reporte la sortie de sa nouvelle IA jugée trop dangereuse",
-      "link": "https://www.sudouest.fr/sciences-et-technologie/intelligence-artificielle/cybersecurite-anthropic-reporte-la-sortie-de-sa-nouvelle-ia-jugee-trop-dangereuse-28604496.php",
-      "url": "https://www.sudouest.fr/sciences-et-technologie/intelligence-artificielle/cybersecurite-anthropic-reporte-la-sortie-de-sa-nouvelle-ia-jugee-trop-dangereuse-28604496.php",
-      "publishedAt": "2026-04-08T06:50:10.000Z",
-      "date": "2026-04-08T06:50:10.000Z",
-      "description": "Cybersécurité: Anthropic reporte la sortie de sa nouvelle IA jugée trop dangereuse... Il demande à ChatGPT comment tuer des agents du renseignement:...",
-      "excerpt": "Cybersécurité: Anthropic reporte la sortie de sa nouvelle IA jugée trop dangereuse... Il demande à ChatGPT comment tuer des agents du renseignement:...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "WhatsApp, ChatGPT, Google Meet: CarPlay fait le plein de nouveautés en 2026 - Frandroid",
-      "link": "https://www.frandroid.com/os/ios/3055963_whatsapp-chatgpt-google-meet-carplay-fait-le-plein-de-nouveautes-en-2026",
-      "url": "https://www.frandroid.com/os/ios/3055963_whatsapp-chatgpt-google-meet-carplay-fait-le-plein-de-nouveautes-en-2026",
-      "publishedAt": "2026-04-08T05:58:27.000Z",
-      "date": "2026-04-08T05:58:27.000Z",
-      "description": "Cette mise à jour ne vient pas seule. Elle accompagne un mouvement plus large où ChatGPT (via les nouvelles API de voix conversationnelle) et Google...",
-      "excerpt": "Cette mise à jour ne vient pas seule. Elle accompagne un mouvement plus large où ChatGPT (via les nouvelles API de voix conversationnelle) et Google...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
