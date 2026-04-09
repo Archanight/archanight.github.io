@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T07:10:56.927Z",
+  "generatedAt": "2026-04-09T13:01:06.609Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Sam Altman met en garde contre un risque imminent de cyberattaque « bouleversant le monde",
+      "link": "https://fr.dataconomy.com/2026/04/09/sam-altman-met-en-garde-contre-un-risque-imminent-de-cyberattaque-bouleversant-le-monde/",
+      "url": "https://fr.dataconomy.com/2026/04/09/sam-altman-met-en-garde-contre-un-risque-imminent-de-cyberattaque-bouleversant-le-monde/",
+      "publishedAt": "2026-04-09T09:06:39.000Z",
+      "date": "2026-04-09T09:06:39.000Z",
+      "description": "Sam Altman, PDG de ChatGPT, a mis en garde contre une potentielle cyberattaque « bouleversante » cette année en raison des progrès de...",
+      "excerpt": "Sam Altman, PDG de ChatGPT, a mis en garde contre une potentielle cyberattaque « bouleversante » cette année en raison des progrès de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Gemini se dote enfin de cette fonctionnalité présente chez ChatGPT et Claude depuis...",
+      "link": "https://www.phonandroid.com/gemini-se-dote-enfin-de-cette-fonctionnalite-presente-chez-chatgpt-et-claude-depuis-longtemps-et-ca-va-tout-changer.html",
+      "url": "https://www.phonandroid.com/gemini-se-dote-enfin-de-cette-fonctionnalite-presente-chez-chatgpt-et-claude-depuis-longtemps-et-ca-va-tout-changer.html",
+      "publishedAt": "2026-04-09T08:30:10.000Z",
+      "date": "2026-04-09T08:30:10.000Z",
+      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Gemini se dote enfin de cette fonctionnalité présente chez ChatGPT et...",
+      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Gemini se dote enfin de cette fonctionnalité présente chez ChatGPT et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Annonceurs, face à la montée en puissance de ChatGPT, soyez précis sur... le search - JDN",
+      "link": "https://www.journaldunet.com/adtech/1549363-annonceur-soyez-precis-et-coherent-sur-le-search-c-est-une-question-de-survie/",
+      "url": "https://www.journaldunet.com/adtech/1549363-annonceur-soyez-precis-et-coherent-sur-le-search-c-est-une-question-de-survie/",
+      "publishedAt": "2026-04-09T07:10:04.000Z",
+      "date": "2026-04-09T07:10:04.000Z",
+      "description": "... social (et notamment aux créateurs), aux marketplaces (Amazon, omniprésent) et aux LLM, à commencer par ChatGPT, dont l'usage devient \"massif\".",
+      "excerpt": "... social (et notamment aux créateurs), aux marketplaces (Amazon, omniprésent) et aux LLM, à commencer par ChatGPT, dont l'usage devient \"massif\".",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT échoue sur une tâche qu'un enfant de 5 ans maîtrise, et il le cache - PhonAndroid",
+      "link": "https://www.phonandroid.com/2690909.html",
+      "url": "https://www.phonandroid.com/2690909.html",
+      "publishedAt": "2026-04-09T06:50:11.000Z",
+      "date": "2026-04-09T06:50:11.000Z",
+      "description": "ChatGPT prétend savoir faire quelque chose qu'il est incapable de réaliser et... Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien...",
+      "excerpt": "ChatGPT prétend savoir faire quelque chose qu'il est incapable de réaliser et... Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Pour lutter contre les dangers de son modèle Claude Mythos, Anthropic fédère les géants de la tech",
       "link": "https://www.lefigaro.fr/secteur/high-tech/project-glasswing-anthropic-federe-la-big-tech-contre-les-risques-d-un-modele-d-ia-qui-menace-toute-la-cybersecurite-20260408",
@@ -87,46 +127,6 @@
       "date": "2026-04-08T12:24:41.000Z",
       "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Un Français pose cette question à ChatGPT: le RAID et le FBI déboulent chez lui.",
       "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Un Français pose cette question à ChatGPT: le RAID et le FBI déboulent chez lui.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "SQUIRE: Apple montre comment l'IA peut aider les développeurs sans les remplacer",
-      "link": "https://www.clubic.com/actualite-608049-squire-apple-montre-comment-l-ia-peut-aider-les-developpeurs-sans-les-remplacer.html",
-      "url": "https://www.clubic.com/actualite-608049-squire-apple-montre-comment-l-ia-peut-aider-les-developpeurs-sans-les-remplacer.html",
-      "publishedAt": "2026-04-08T12:15:40.000Z",
-      "date": "2026-04-08T12:15:40.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT va-t-il rendre le nouveau Siri obsolète dès son arrivée? Ce...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT va-t-il rendre le nouveau Siri obsolète dès son arrivée? Ce...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Réputation numérique: votre absence en ligne peut vraiment vous coûter - Les Affaires",
-      "link": "https://www.lesaffaires.com/opinions/reputation-numerique-votre-absence-en-ligne-peut-vraiment-vous-couter/",
-      "url": "https://www.lesaffaires.com/opinions/reputation-numerique-votre-absence-en-ligne-peut-vraiment-vous-couter/",
-      "publishedAt": "2026-04-08T11:59:54.000Z",
-      "date": "2026-04-08T11:59:54.000Z",
-      "description": "ChatGPT m'avait confondu avec un historien du même nom. Lorsque la... Cybersécurité proactive: pilotage stratégique pour l'entreprise moderne.",
-      "excerpt": "ChatGPT m'avait confondu avec un historien du même nom. Lorsque la... Cybersécurité proactive: pilotage stratégique pour l'entreprise moderne.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Tag: siri vs chatgpt - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/tag/siri+vs+chatgpt",
-      "url": "https://pasqualepillitteri.it/fr/news/tag/siri+vs+chatgpt",
-      "publishedAt": "2026-04-08T11:31:50.000Z",
-      "date": "2026-04-08T11:31:50.000Z",
-      "description": "Tag: siri vs chatgpt. Articles sur le génie informatique, le développement logiciel, la cybersécurité et l'innovation numérique. Guides pratiques...",
-      "excerpt": "Tag: siri vs chatgpt. Articles sur le génie informatique, le développement logiciel, la cybersécurité et l'innovation numérique. Guides pratiques...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "De hacker autodidacte à entrepreneur: la trajectoire fulgurante de Roni Carta - Big Media",
-      "link": "https://bigmedia.bpifrance.fr/nos-actualites/de-hacker-autodidacte-a-entrepreneur-la-trajectoire-fulgurante-de-roni-carta",
-      "url": "https://bigmedia.bpifrance.fr/nos-actualites/de-hacker-autodidacte-a-entrepreneur-la-trajectoire-fulgurante-de-roni-carta",
-      "publishedAt": "2026-04-08T11:30:08.000Z",
-      "date": "2026-04-08T11:30:08.000Z",
-      "description": "... cybersécurité offensive l'ont conduit à créer une startup pensée pour... logo ChatGPT · logo Perplexity · logo Claude. Roni Carta. Tout commence à...",
-      "excerpt": "... cybersécurité offensive l'ont conduit à créer une startup pensée pour... logo ChatGPT · logo Perplexity · logo Claude. Roni Carta. Tout commence à...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
