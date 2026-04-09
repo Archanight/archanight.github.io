@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T13:01:06.609Z",
+  "generatedAt": "2026-04-09T18:51:22.562Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Eau, énergie, impact local: Amazon, Microsoft et Google sommés de rendre des comptes",
+      "link": "https://global.techradar.com/fr-fr/pro/eau-energie-impact-local-amazon-microsoft-et-google-sommes-de-rendre-des-comptes",
+      "url": "https://global.techradar.com/fr-fr/pro/eau-energie-impact-local-amazon-microsoft-et-google-sommes-de-rendre-des-comptes",
+      "publishedAt": "2026-04-09T15:43:54.000Z",
+      "date": "2026-04-09T15:43:54.000Z",
+      "description": "Les investisseurs réclament des rapports plus détaillés sur la durabilité des centres de données; Sam Altman. AI Platforms & Assistants ChatGPT...",
+      "excerpt": "Les investisseurs réclament des rapports plus détaillés sur la durabilité des centres de données; Sam Altman. AI Platforms & Assistants ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "“Superintelligence personnelle”: Meta lance Muse Spark, son IA gratuite qui veut enterrer ChatGPT",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/superintelligence-personnelle-meta-lance-muse-spark-son-ia-gratuite-qui-veut-enterrer-chatgpt-n254101.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/superintelligence-personnelle-meta-lance-muse-spark-son-ia-gratuite-qui-veut-enterrer-chatgpt-n254101.html",
+      "publishedAt": "2026-04-09T15:25:13.000Z",
+      "date": "2026-04-09T15:25:13.000Z",
+      "description": "“Superintelligence personnelle”: Meta lance Muse Spark, son IA gratuite qui veut enterrer ChatGPT... Les Nums, l' Update. sponsorisé. #04 avec Bastien...",
+      "excerpt": "“Superintelligence personnelle”: Meta lance Muse Spark, son IA gratuite qui veut enterrer ChatGPT... Les Nums, l' Update. sponsorisé. #04 avec Bastien...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Voici tout ce qu'il faut savoir sur “Muse Spark”: la nouvelle IA qui arrive sur Instagram...",
+      "link": "https://www.journaldugeek.com/2026/04/09/muse-spark-nouvelle-ia-arrive-sur-instagram-facebook-messenger-whatsapp/",
+      "url": "https://www.journaldugeek.com/2026/04/09/muse-spark-nouvelle-ia-arrive-sur-instagram-facebook-messenger-whatsapp/",
+      "publishedAt": "2026-04-09T15:09:34.000Z",
+      "date": "2026-04-09T15:09:34.000Z",
+      "description": "... ChatGPT, Gemini et Claude... Muse Spark is the first new release since Llama 4 in April 2025 and also Meta's first release that is not open...",
+      "excerpt": "... ChatGPT, Gemini et Claude... Muse Spark is the first new release since Llama 4 in April 2025 and also Meta's first release that is not open...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Meta fait un bond spectaculaire dans l'IA (après avoir dépensé des milliards) - Presse-citron",
+      "link": "https://www.presse-citron.net/meta-ia-muse-spark-milliards-depenses-capable/",
+      "url": "https://www.presse-citron.net/meta-ia-muse-spark-milliards-depenses-capable/",
+      "publishedAt": "2026-04-09T14:54:37.000Z",
+      "date": "2026-04-09T14:54:37.000Z",
+      "description": "Après l'échec de Llama, Meta retente sa chance en déployant une nouvelle IA qui se rapproche des performances de ChatGPT, Claude et Gemini.",
+      "excerpt": "Après l'échec de Llama, Meta retente sa chance en déployant une nouvelle IA qui se rapproche des performances de ChatGPT, Claude et Gemini.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Upwork intègre une application de recrutement par projet à ChatGPT - Zonebourse",
+      "link": "https://www.zonebourse.com/actualite-bourse/upwork-integre-une-application-de-recrutement-par-projet-a-chatgpt-ce7e50d8d98cf62d",
+      "url": "https://www.zonebourse.com/actualite-bourse/upwork-integre-une-application-de-recrutement-par-projet-a-chatgpt-ce7e50d8d98cf62d",
+      "publishedAt": "2026-04-09T14:14:56.000Z",
+      "date": "2026-04-09T14:14:56.000Z",
+      "description": "Cybersécurité · Les Métaux Stratégiques · Financement dilutif · Notations... Upwork intègre une application de recrutement par projet à ChatGPT.",
+      "excerpt": "Cybersécurité · Les Métaux Stratégiques · Financement dilutif · Notations... Upwork intègre une application de recrutement par projet à ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Quand une IA apprend à tricher sans le dire: Anthropic alerte sur les dérives de Claude Mythos",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/quand-une-ia-apprend-a-tricher-sans-le-dire-anthropic-alerte-sur-les-derives-de-claude-mythos",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/quand-une-ia-apprend-a-tricher-sans-le-dire-anthropic-alerte-sur-les-derives-de-claude-mythos",
+      "publishedAt": "2026-04-09T12:19:14.000Z",
+      "date": "2026-04-09T12:19:14.000Z",
+      "description": "Mobile phone displaying a Claude login screen. Des utilisateurs quittent ChatGPT pour Claude… puis découvrent une surprise de taille. Before limited-...",
+      "excerpt": "Mobile phone displaying a Claude login screen. Des utilisateurs quittent ChatGPT pour Claude… puis découvrent une surprise de taille. Before limited-...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Sam Altman met en garde contre un risque imminent de cyberattaque « bouleversant le monde",
       "link": "https://fr.dataconomy.com/2026/04/09/sam-altman-met-en-garde-contre-un-risque-imminent-de-cyberattaque-bouleversant-le-monde/",
@@ -67,66 +127,6 @@
       "date": "2026-04-09T01:31:45.000Z",
       "description": "Selon le vice-président américain, « la première proposition était tellement étrange que nous avons pensé qu'elle aurait pu être écrite par ChatGPT »...",
       "excerpt": "Selon le vice-président américain, « la première proposition était tellement étrange que nous avons pensé qu'elle aurait pu être écrite par ChatGPT »...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ready For IT dévoile le programme de sa 7ème édition - ITRmanager",
-      "link": "https://itrmanager.com/articles/209426/ready-for-it-devoile-le-programme-de-sa-7eme-edition.html",
-      "url": "https://itrmanager.com/articles/209426/ready-for-it-devoile-le-programme-de-sa-7eme-edition.html",
-      "publishedAt": "2026-04-09T01:15:41.000Z",
-      "date": "2026-04-09T01:15:41.000Z",
-      "description": "• Cybersécurité: quelles clés pour innover sans s'exposer et rester attractif? -... Experts-comptables: ChatGPT dans un cabinet sur deux, la...",
-      "excerpt": "• Cybersécurité: quelles clés pour innover sans s'exposer et rester attractif? -... Experts-comptables: ChatGPT dans un cabinet sur deux, la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le Tech Flash: \"OpenAI, un plan contre le danger de l'IA\" par Léa Benaim - 08/04",
-      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-openai-un-plan-contre-le-danger-de-l-ia-par-lea-benaim-08-04-CNT000002oiqFh.html",
-      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-openai-un-plan-contre-le-danger-de-l-ia-par-lea-benaim-08-04-CNT000002oiqFh.html",
-      "publishedAt": "2026-04-08T21:20:54.000Z",
-      "date": "2026-04-08T21:20:54.000Z",
-      "description": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et... Le Tech Flash: De la pub en approche sur ChatGPT? Par Léa Benaim - 01...",
-      "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et... Le Tech Flash: De la pub en approche sur ChatGPT? Par Léa Benaim - 01...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic lance son nouveau modèle Claude Mythos et le projet de cybersecurité Glasswing, jugé",
-      "link": "https://www.capital.fr/entreprises-marches/anthropic-lance-son-nouveau-modele-claude-mythos-et-le-projet-de-cybersecurite-glasswing-juge-trop-puissants-pour-etre-rendu-public-1525404",
-      "url": "https://www.capital.fr/entreprises-marches/anthropic-lance-son-nouveau-modele-claude-mythos-et-le-projet-de-cybersecurite-glasswing-juge-trop-puissants-pour-etre-rendu-public-1525404",
-      "publishedAt": "2026-04-08T20:26:39.000Z",
-      "date": "2026-04-08T20:26:39.000Z",
-      "description": "... social X, ChatGPT ne. Elon Musk. Elon Musk pousse un coup de gueule contre le «logiciel espion effrayant» d'Apple et chatGPT. Allez + loin. CMA CGM s...",
-      "excerpt": "... social X, ChatGPT ne. Elon Musk. Elon Musk pousse un coup de gueule contre le «logiciel espion effrayant» d'Apple et chatGPT. Allez + loin. CMA CGM s...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Priorité à l'entreprise à l'ère de l'IA: faire de la cybersécurité un levier concret - Le Matin",
-      "link": "https://lematin.ma/hi-tech/entreprise-et-ia-faire-de-la-cybersecurite-un-levier-concret/339275/amp",
-      "url": "https://lematin.ma/hi-tech/entreprise-et-ia-faire-de-la-cybersecurite-un-levier-concret/339275/amp",
-      "publishedAt": "2026-04-08T19:53:20.000Z",
-      "date": "2026-04-08T19:53:20.000Z",
-      "description": "... cybersécurité un levier concret. [Contenu de... Au lieu de passer un mois à étudier la programmation, il peut simplement demander à ChatGPT.",
-      "excerpt": "... cybersécurité un levier concret. [Contenu de... Au lieu de passer un mois à étudier la programmation, il peut simplement demander à ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Elon Musk veut évincer Sam Altman d'OpenAI (et reprendre le contrôle de ChatGPT?)",
-      "link": "https://www.mac4ever.com/ia/195553-elon-musk-veut-evincer-sam-altman-d-openai-et-reprendre-le-controle-de-chatgpt",
-      "url": "https://www.mac4ever.com/ia/195553-elon-musk-veut-evincer-sam-altman-d-openai-et-reprendre-le-controle-de-chatgpt",
-      "publishedAt": "2026-04-08T14:40:49.000Z",
-      "date": "2026-04-08T14:40:49.000Z",
-      "description": "OpenAI est aujourd'hui au cœur de la révolution de l'IA générative, portée par le succès massif de ChatGPT, qui revendique plus de 200 millions d'...",
-      "excerpt": "OpenAI est aujourd'hui au cœur de la révolution de l'IA générative, portée par le succès massif de ChatGPT, qui revendique plus de 200 millions d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un Français pose cette question à ChatGPT: le RAID et le FBI déboulent chez lui",
-      "link": "https://www.lebigdata.fr/un-francais-pose-cette-question-a-chatgpt-le-raid-et-le-fbi-deboulent-chez-lui",
-      "url": "https://www.lebigdata.fr/un-francais-pose-cette-question-a-chatgpt-le-raid-et-le-fbi-deboulent-chez-lui",
-      "publishedAt": "2026-04-08T12:24:41.000Z",
-      "date": "2026-04-08T12:24:41.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Un Français pose cette question à ChatGPT: le RAID et le FBI déboulent chez lui.",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Un Français pose cette question à ChatGPT: le RAID et le FBI déboulent chez lui.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
