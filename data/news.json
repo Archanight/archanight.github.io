@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T01:22:14.928Z",
+  "generatedAt": "2026-04-11T06:50:54.169Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -28,6 +28,16 @@
       "description": "Fondé en 2015 par Sam Altman, OpenAI a été propulsé par le succès mondial de ChatGPT, et est désormais valorisé à plus de 852G$US.... Cybersécurité...",
       "excerpt": "Fondé en 2015 par Sam Altman, OpenAI a été propulsé par le succès mondial de ChatGPT, et est désormais valorisé à plus de 852G$US.... Cybersécurité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI ajoute un abonnement Pro à 100 $ avec des limites Codex plus élevées",
+      "link": "https://www.mexc.co/fr/news/1018998",
+      "url": "https://www.mexc.co/fr/news/1018998",
+      "publishedAt": "2026-04-10T21:37:16.000Z",
+      "date": "2026-04-10T21:37:16.000Z",
+      "description": "... ChatGPT avec.... Les notes de version d'OpenAI décrivent également le forfait à 100 $ comme incluant un accès illimité à...",
+      "excerpt": "... ChatGPT avec.... Les notes de version d'OpenAI décrivent également le forfait à 100 $ comme incluant un accès illimité à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "OpenAI lance un forfait intermédiaire, plus abordable, pour séduire les développeurs face à...",
@@ -118,16 +128,6 @@
       "description": "L'analyse porte sur 17,2 millions de citations générées au quatrième trimestre 2025 par quatre modèles: Gemini, Claude, SearchGPT ( ChatGPT ) et...",
       "excerpt": "L'analyse porte sur 17,2 millions de citations générées au quatrième trimestre 2025 par quatre modèles: Gemini, Claude, SearchGPT ( ChatGPT ) et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Ce rapport sans appel explique pourquoi l'IA en entreprise ne fonctionne pas vraiment",
-      "link": "https://www.phonandroid.com/ce-rapport-sans-appel-explique-pourquoi-lia-en-entreprise-ne-fonctionne-pas-vraiment.html",
-      "url": "https://www.phonandroid.com/ce-rapport-sans-appel-explique-pourquoi-lia-en-entreprise-ne-fonctionne-pas-vraiment.html",
-      "publishedAt": "2026-04-10T15:55:34.000Z",
-      "date": "2026-04-10T15:55:34.000Z",
-      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT. L'IA accélère la performance des entreprises à travers...",
-      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT. L'IA accélère la performance des entreprises à travers...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
