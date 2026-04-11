@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T06:50:54.169Z",
+  "generatedAt": "2026-04-11T12:36:06.059Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Peut‑on se fier aux chatbots IA pour un avis médical? - Futura",
+      "link": "https://www.futura-sciences.com/tech/questions-reponses/intelligence-artificielle-peut-on-fier-chatbots-ia-avis-medical-24898/",
+      "url": "https://www.futura-sciences.com/tech/questions-reponses/intelligence-artificielle-peut-on-fier-chatbots-ia-avis-medical-24898/",
+      "publishedAt": "2026-04-11T10:15:00.000Z",
+      "date": "2026-04-11T10:15:00.000Z",
+      "description": "La tentation est forte de prendre avis auprès de ChatGPT ou Gemini relativement à un problème de nature médicale... Cybersécurité · Guides PC et...",
+      "excerpt": "La tentation est forte de prendre avis auprès de ChatGPT ou Gemini relativement à un problème de nature médicale... Cybersécurité · Guides PC et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Faille Axios: pourquoi OpenAI force la mise à jour de son application macOS - Numerama",
+      "link": "https://www.numerama.com/cyberguerre/2230799-pour-prevenir-tout-risque-pourquoi-openai-vient-de-forcer-la-mise-a-jour-de-chatgpt-sur-mac.html",
+      "url": "https://www.numerama.com/cyberguerre/2230799-pour-prevenir-tout-risque-pourquoi-openai-vient-de-forcer-la-mise-a-jour-de-chatgpt-sur-mac.html",
+      "publishedAt": "2026-04-11T07:56:40.000Z",
+      "date": "2026-04-11T07:56:40.000Z",
+      "description": "« Pour prévenir tout risque »: pourquoi OpenAI vient de forcer la mise à jour de ChatGPT sur Mac... cybersécurité? 05.04.2026 11:04. Ne plus...",
+      "excerpt": "« Pour prévenir tout risque »: pourquoi OpenAI vient de forcer la mise à jour de ChatGPT sur Mac... cybersécurité? 05.04.2026 11:04. Ne plus...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La luxueuse maison californienne de Sam Altman, patron d'OpenAI, a été touchée cette nuit...",
+      "link": "https://actu.orange.fr/videos/societe/la-luxueuse-maison-californienne-de-sam-altman-patron-d-openai-a-ete-touchee-cette-nuit-par-un-jet-de-cocktail-molotov-apres-plusieurs-menaces-visant-la-societe-CNT000002oveYg.html",
+      "url": "https://actu.orange.fr/videos/societe/la-luxueuse-maison-californienne-de-sam-altman-patron-d-openai-a-ete-touchee-cette-nuit-par-un-jet-de-cocktail-molotov-apres-plusieurs-menaces-visant-la-societe-CNT000002oveYg.html",
+      "publishedAt": "2026-04-11T07:15:27.000Z",
+      "date": "2026-04-11T07:15:27.000Z",
+      "description": "... ChatGPT. Il précise que personne n'a été blessé.«Nous sommes très... Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact...",
+      "excerpt": "... ChatGPT. Il précise que personne n'a été blessé.«Nous sommes très... Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Il m'a fait changer d'avis»: quand ChatGPT remplace les conseillers bancaires - Libération",
+      "link": "https://www.liberation.fr/economie/conso/il-ma-fait-changer-davis-quand-chatgpt-remplace-les-conseillers-bancaires-20260411_O7LFVAZHJVDODOAXKFEC6IRZHQ/",
+      "url": "https://www.liberation.fr/economie/conso/il-ma-fait-changer-davis-quand-chatgpt-remplace-les-conseillers-bancaires-20260411_O7LFVAZHJVDODOAXKFEC6IRZHQ/",
+      "publishedAt": "2026-04-11T06:37:51.000Z",
+      "date": "2026-04-11T06:37:51.000Z",
+      "description": "«Il m'a fait changer d'avis»: quand ChatGPT remplace les conseillers bancaires... Cybersécurité: Anthropic reporte la sortie de son nouveau modèle d'...",
+      "excerpt": "«Il m'a fait changer d'avis»: quand ChatGPT remplace les conseillers bancaires... Cybersécurité: Anthropic reporte la sortie de son nouveau modèle d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "L'UE envisage de classer ChatGPT comme plateforme majeure et de durcir sa régulation",
       "link": "https://www.zonebourse.com/actualite-bourse/l-ue-envisage-de-classer-chatgpt-comme-plateforme-majeure-et-de-durcir-sa-regulation-ce7e50d9db8bff27",
@@ -88,46 +128,6 @@
       "description": "Oubliez, l'espace d'un instant au moins, OpenAI et son service ChatGPT.... cybersécurité CrowdStrike et Palo Alto Networks, mais aussi Amazon...",
       "excerpt": "Oubliez, l'espace d'un instant au moins, OpenAI et son service ChatGPT.... cybersécurité CrowdStrike et Palo Alto Networks, mais aussi Amazon...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT se dote de sa première application de streaming vidéo - NotebookCheck.biz News",
-      "link": "https://www.notebookcheck.biz/ChatGPT-se-dote-de-sa-premiere-application-de-streaming-video.1270392.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-se-dote-de-sa-premiere-application-de-streaming-video.1270392.0.html",
-      "publishedAt": "2026-04-10T18:06:23.000Z",
-      "date": "2026-04-10T18:06:23.000Z",
-      "description": "Les utilisateurs de ChatGPT peuvent désormais utiliser le service de streaming Tubi directement depuis l'application ou le site web de ChatGPT.",
-      "excerpt": "Les utilisateurs de ChatGPT peuvent désormais utiliser le service de streaming Tubi directement depuis l'application ou le site web de ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Le tireur aurait été en \"contact constant\" avec ChatGPT: une enquête vise OpenAI après... - Clubic",
-      "link": "https://www.clubic.com/actualite-608365-le-tireur-aurait-ete-en-contact-constant-avec-chatgpt-une-enquete-vise-openai-apres-des-soupcons-lies-a-une-fusillade.html",
-      "url": "https://www.clubic.com/actualite-608365-le-tireur-aurait-ete-en-contact-constant-avec-chatgpt-une-enquete-vise-openai-apres-des-soupcons-lies-a-une-fusillade.html",
-      "publishedAt": "2026-04-10T17:15:50.000Z",
-      "date": "2026-04-10T17:15:50.000Z",
-      "description": "James Uthmeier, chef de cabinet du gouverneur de Floride, lance une offensive judiciaire contre OpenAI pour déterminer si ChatGPT a facilité une...",
-      "excerpt": "James Uthmeier, chef de cabinet du gouverneur de Floride, lance une offensive judiciaire contre OpenAI pour déterminer si ChatGPT a facilité une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "“Un sociopathe prêt à tout”: les proches de Sam Altman brisent le silence dans une enquête...",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/un-sociopathe-pret-a-tout-les-proches-de-sam-altman-brisent-le-silence-dans-une-enquete-accablante-contre-le-patron-de-chatgpt-n254164.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/un-sociopathe-pret-a-tout-les-proches-de-sam-altman-brisent-le-silence-dans-une-enquete-accablante-contre-le-patron-de-chatgpt-n254164.html",
-      "publishedAt": "2026-04-10T17:05:55.000Z",
-      "date": "2026-04-10T17:05:55.000Z",
-      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (4). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (4). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Visibilité dans les IA: pourquoi une seule stratégie d'optimisation ne suffit pas - BDM",
-      "link": "https://www.blogdumoderateur.com/visibilite-ia-pourquoi-une-seule-strategie-optimisation-suffit-pas/",
-      "url": "https://www.blogdumoderateur.com/visibilite-ia-pourquoi-une-seule-strategie-optimisation-suffit-pas/",
-      "publishedAt": "2026-04-10T17:02:14.000Z",
-      "date": "2026-04-10T17:02:14.000Z",
-      "description": "L'analyse porte sur 17,2 millions de citations générées au quatrième trimestre 2025 par quatre modèles: Gemini, Claude, SearchGPT ( ChatGPT ) et...",
-      "excerpt": "L'analyse porte sur 17,2 millions de citations générées au quatrième trimestre 2025 par quatre modèles: Gemini, Claude, SearchGPT ( ChatGPT ) et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
