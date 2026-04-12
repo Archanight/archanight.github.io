@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T18:30:41.808Z",
+  "generatedAt": "2026-04-12T01:45:17.435Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT a aidé un homme à harceler son ex-compagne, OpenAI est poursuivi en justice",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-a-aide-un-homme-a-harceler-son-ex-compagne-openai-est-poursuivi-en-justice-n254227.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-a-aide-un-homme-a-harceler-son-ex-compagne-openai-est-poursuivi-en-justice-n254227.html",
+      "publishedAt": "2026-04-11T23:00:28.000Z",
+      "date": "2026-04-11T23:00:28.000Z",
+      "description": "L'ex-compagnon en question, un entrepreneur de la Silicon Valley de 53 ans qui a passé des mois à discuter avec GPT-4o.... ChatGPT / GPT-4. Nos réseaux...",
+      "excerpt": "L'ex-compagnon en question, un entrepreneur de la Silicon Valley de 53 ans qui a passé des mois à discuter avec GPT-4o.... ChatGPT / GPT-4. Nos réseaux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Le mea culpa du Prix Nobel de l'IA: pourquoi la course à ChatGPT était une erreur - Clubic",
       "link": "https://www.clubic.com/actualite-608548-le-mea-culpa-du-prix-nobel-de-l-ia-pourquoi-la-course-a-chatgpt-etait-une-erreur.html",
@@ -38,6 +48,26 @@
       "description": "OpenAI signale un incident lié à Axios et impose une mise à jour de ChatGPT, Codex et Altas sur macOS. L'entreprise écarte toute preuve d'accès...",
       "excerpt": "OpenAI signale un incident lié à Axios et impose une mise à jour de ChatGPT, Codex et Altas sur macOS. L'entreprise écarte toute preuve d'accès...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Claude Mythos d'Anthropic: outil ou menace pour la cybersécurité?",
+      "link": "https://www.ekhbary.com/news/claude-mythos-danthropic-outil-ou-menace-pour-la-cybers%C3%A9curit%C3%A9-1775898596-3.html",
+      "url": "https://www.ekhbary.com/news/claude-mythos-danthropic-outil-ou-menace-pour-la-cybers%C3%A9curit%C3%A9-1775898596-3.html",
+      "publishedAt": "2026-04-11T11:53:54.000Z",
+      "date": "2026-04-11T11:53:54.000Z",
+      "description": "Aventon Current ADV: Test du VTT Électrique · Meilleures Stores et Rideaux Intelligents (2026) · OpenAI lance un nouvel abonnement ChatGPT Pro à 100 $.",
+      "excerpt": "Aventon Current ADV: Test du VTT Électrique · Meilleures Stores et Rideaux Intelligents (2026) · OpenAI lance un nouvel abonnement ChatGPT Pro à 100 $.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance un nouvel abonnement ChatGPT Pro à 100 $",
+      "link": "https://www.ekhbary.com/news/openai-lance-un-nouvel-abonnement-chatgpt-pro-%C3%A0-100-1775907776-3.html",
+      "url": "https://www.ekhbary.com/news/openai-lance-un-nouvel-abonnement-chatgpt-pro-%C3%A0-100-1775907776-3.html",
+      "publishedAt": "2026-04-11T11:53:52.000Z",
+      "date": "2026-04-11T11:53:52.000Z",
+      "description": "OpenAI lance un nouvel abonnement ChatGPT Pro à 100 $. Accès Codex... Claude Mythos d'Anthropic: outil ou menace pour la cybersécurité? 2 h.",
+      "excerpt": "OpenAI lance un nouvel abonnement ChatGPT Pro à 100 $. Accès Codex... Claude Mythos d'Anthropic: outil ou menace pour la cybersécurité? 2 h.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "Peut‑on se fier aux chatbots IA pour un avis médical? - Futura",
@@ -98,36 +128,6 @@
       "description": "Cybersécurité · La Défense · Les entreprises cannibales · L'Amérique en PEA... L'UE envisage de classer ChatGPT comme plateforme majeure et de durcir...",
       "excerpt": "Cybersécurité · La Défense · Les entreprises cannibales · L'Amérique en PEA... L'UE envisage de classer ChatGPT comme plateforme majeure et de durcir...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La maison de Sam Altman à San Francisco touchée par un cocktail Molotov, selon OpenAI",
-      "link": "https://www.lesaffaires.com/secteurs/general/la-maison-de-sam-altman-a-san-francisco-touchee-par-un-cocktail-molotov-selon-openai/",
-      "url": "https://www.lesaffaires.com/secteurs/general/la-maison-de-sam-altman-a-san-francisco-touchee-par-un-cocktail-molotov-selon-openai/",
-      "publishedAt": "2026-04-10T21:57:14.000Z",
-      "date": "2026-04-10T21:57:14.000Z",
-      "description": "Fondé en 2015 par Sam Altman, OpenAI a été propulsé par le succès mondial de ChatGPT, et est désormais valorisé à plus de 852G$US.... Cybersécurité...",
-      "excerpt": "Fondé en 2015 par Sam Altman, OpenAI a été propulsé par le succès mondial de ChatGPT, et est désormais valorisé à plus de 852G$US.... Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI ajoute un abonnement Pro à 100 $ avec des limites Codex plus élevées",
-      "link": "https://www.mexc.co/fr/news/1018998",
-      "url": "https://www.mexc.co/fr/news/1018998",
-      "publishedAt": "2026-04-10T21:37:16.000Z",
-      "date": "2026-04-10T21:37:16.000Z",
-      "description": "... ChatGPT avec.... Les notes de version d'OpenAI décrivent également le forfait à 100 $ comme incluant un accès illimité à...",
-      "excerpt": "... ChatGPT avec.... Les notes de version d'OpenAI décrivent également le forfait à 100 $ comme incluant un accès illimité à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI lance un forfait intermédiaire, plus abordable, pour séduire les développeurs face à...",
-      "link": "https://www.zdnet.fr/actualites/le-createur-du-bitcoin-retrouve-un-article-du-nyt-provoque-des-repercussions-493443.htm",
-      "url": "https://www.zdnet.fr/actualites/le-createur-du-bitcoin-retrouve-un-article-du-nyt-provoque-des-repercussions-493443.htm",
-      "publishedAt": "2026-04-10T19:31:28.000Z",
-      "date": "2026-04-10T19:31:28.000Z",
-      "description": "gpt-5 -4-in- chatgpt. © ZDNET. OpenAI lance un abonnement « ChatGPT Pro » à 100 dollars par mois, conçu spécifiquement pour les développeurs qui...",
-      "excerpt": "gpt-5 -4-in- chatgpt. © ZDNET. OpenAI lance un abonnement « ChatGPT Pro » à 100 dollars par mois, conçu spécifiquement pour les développeurs qui...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
