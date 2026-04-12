@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T12:39:52.434Z",
+  "generatedAt": "2026-04-12T18:34:05.756Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Utilisateurs Mac: pourquoi vous devez mettre à jour ChatGPT avant le 8 mai 2026 - Clubic",
+      "link": "https://www.clubic.com/actualite-608608-utilisateurs-mac-pourquoi-vous-devez-mettre-a-jour-chatgpt-avant-le-8-mai-2026.html",
+      "url": "https://www.clubic.com/actualite-608608-utilisateurs-mac-pourquoi-vous-devez-mettre-a-jour-chatgpt-avant-le-8-mai-2026.html",
+      "publishedAt": "2026-04-12T14:46:54.000Z",
+      "date": "2026-04-12T14:46:54.000Z",
+      "description": "... ChatGPT Desktop, Codex et Atlas sur Mac cesseront de fonctionner... Cybersécurité · Malware / Ransomware · Meilleur Antivirus Mac · Tutos Apple.",
+      "excerpt": "... ChatGPT Desktop, Codex et Atlas sur Mac cesseront de fonctionner... Cybersécurité · Malware / Ransomware · Meilleur Antivirus Mac · Tutos Apple.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT a aidé un homme à harceler son ex-compagne, OpenAI est poursuivi en justice",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-a-aide-un-homme-a-harceler-son-ex-compagne-openai-est-poursuivi-en-justice-n254227.html",
@@ -118,16 +128,6 @@
       "description": "«Il m'a fait changer d'avis»: quand ChatGPT remplace les conseillers bancaires... Cybersécurité: Anthropic reporte la sortie de son nouveau modèle d'...",
       "excerpt": "«Il m'a fait changer d'avis»: quand ChatGPT remplace les conseillers bancaires... Cybersécurité: Anthropic reporte la sortie de son nouveau modèle d'...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Regal Cineworld Launches First-of-Its-Kind ChatGPT Moviegoing App in U.S. (Exclusive)",
-      "link": "https://www.imdb.com/fr/news/ni65790856/?ref_=nwc_art_perm",
-      "url": "https://www.imdb.com/fr/news/ni65790856/?ref_=nwc_art_perm",
-      "publishedAt": "2026-04-11T01:18:15.000Z",
-      "date": "2026-04-11T01:18:15.000Z",
-      "description": "... ChatGPT aimed at streamlining film discovery and ticket purchases.... Sambhavam Adhyayam Onnu Ott Release Date Update: When & Where To Watch Askar...",
-      "excerpt": "... ChatGPT aimed at streamlining film discovery and ticket purchases.... Sambhavam Adhyayam Onnu Ott Release Date Update: When & Where To Watch Askar...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
