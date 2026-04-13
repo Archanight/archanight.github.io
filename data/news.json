@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T18:34:05.756Z",
+  "generatedAt": "2026-04-13T01:49:53.827Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "iOS 27: Apple réinvente Siri avec une app dédiée et l'intelligence de Google Gemini | JDW",
+      "link": "https://www.journalduweb.org/ios-27-apple-reinvente-siri-avec-une-app-dediee-et-lintelligence-de-google-gemini/",
+      "url": "https://www.journalduweb.org/ios-27-apple-reinvente-siri-avec-une-app-dediee-et-lintelligence-de-google-gemini/",
+      "publishedAt": "2026-04-12T21:59:13.000Z",
+      "date": "2026-04-12T21:59:13.000Z",
+      "description": "... ChatGPT. Une section dédiée à l'IA fera son apparition dans l'App Store... Informatique & Cybersécurité Mobiles & Apps · Le projet «Linux on...",
+      "excerpt": "... ChatGPT. Une section dédiée à l'IA fera son apparition dans l'App Store... Informatique & Cybersécurité Mobiles & Apps · Le projet «Linux on...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Utilisateurs Mac: pourquoi vous devez mettre à jour ChatGPT avant le 8 mai 2026 - Clubic",
       "link": "https://www.clubic.com/actualite-608608-utilisateurs-mac-pourquoi-vous-devez-mettre-a-jour-chatgpt-avant-le-8-mai-2026.html",
@@ -117,16 +127,6 @@
       "date": "2026-04-11T07:15:27.000Z",
       "description": "... ChatGPT. Il précise que personne n'a été blessé.«Nous sommes très... Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact...",
       "excerpt": "... ChatGPT. Il précise que personne n'a été blessé.«Nous sommes très... Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Il m'a fait changer d'avis»: quand ChatGPT remplace les conseillers bancaires - Libération",
-      "link": "https://www.liberation.fr/economie/conso/il-ma-fait-changer-davis-quand-chatgpt-remplace-les-conseillers-bancaires-20260411_O7LFVAZHJVDODOAXKFEC6IRZHQ/",
-      "url": "https://www.liberation.fr/economie/conso/il-ma-fait-changer-davis-quand-chatgpt-remplace-les-conseillers-bancaires-20260411_O7LFVAZHJVDODOAXKFEC6IRZHQ/",
-      "publishedAt": "2026-04-11T06:37:51.000Z",
-      "date": "2026-04-11T06:37:51.000Z",
-      "description": "«Il m'a fait changer d'avis»: quand ChatGPT remplace les conseillers bancaires... Cybersécurité: Anthropic reporte la sortie de son nouveau modèle d'...",
-      "excerpt": "«Il m'a fait changer d'avis»: quand ChatGPT remplace les conseillers bancaires... Cybersécurité: Anthropic reporte la sortie de son nouveau modèle d'...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
