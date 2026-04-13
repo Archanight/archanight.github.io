@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T01:49:53.827Z",
+  "generatedAt": "2026-04-13T07:48:32.416Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Kaspersky prolonge sa collaboration avec BSSN pour la sécurité cybernétique indonésienne - VOI",
+      "link": "https://voi.id/fr/teknologi/569718",
+      "url": "https://voi.id/fr/teknologi/569718",
+      "publishedAt": "2026-04-13T02:43:37.000Z",
+      "date": "2026-04-13T02:43:37.000Z",
+      "description": "Kaspersky a annoncé le renouvellement de la signature d'un protocole d'accord (MoU) avec l'Agence nationale pour la cybersécurité... ChatGPT...",
+      "excerpt": "Kaspersky a annoncé le renouvellement de la signature d'un protocole d'accord (MoU) avec l'Agence nationale pour la cybersécurité... ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "iOS 27: Apple réinvente Siri avec une app dédiée et l'intelligence de Google Gemini | JDW",
       "link": "https://www.journalduweb.org/ios-27-apple-reinvente-siri-avec-une-app-dediee-et-lintelligence-de-google-gemini/",
@@ -117,16 +127,6 @@
       "date": "2026-04-11T07:56:40.000Z",
       "description": "« Pour prévenir tout risque »: pourquoi OpenAI vient de forcer la mise à jour de ChatGPT sur Mac... cybersécurité? 05.04.2026 11:04. Ne plus...",
       "excerpt": "« Pour prévenir tout risque »: pourquoi OpenAI vient de forcer la mise à jour de ChatGPT sur Mac... cybersécurité? 05.04.2026 11:04. Ne plus...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La luxueuse maison californienne de Sam Altman, patron d'OpenAI, a été touchée cette nuit...",
-      "link": "https://actu.orange.fr/videos/societe/la-luxueuse-maison-californienne-de-sam-altman-patron-d-openai-a-ete-touchee-cette-nuit-par-un-jet-de-cocktail-molotov-apres-plusieurs-menaces-visant-la-societe-CNT000002oveYg.html",
-      "url": "https://actu.orange.fr/videos/societe/la-luxueuse-maison-californienne-de-sam-altman-patron-d-openai-a-ete-touchee-cette-nuit-par-un-jet-de-cocktail-molotov-apres-plusieurs-menaces-visant-la-societe-CNT000002oveYg.html",
-      "publishedAt": "2026-04-11T07:15:27.000Z",
-      "date": "2026-04-11T07:15:27.000Z",
-      "description": "... ChatGPT. Il précise que personne n'a été blessé.«Nous sommes très... Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact...",
-      "excerpt": "... ChatGPT. Il précise que personne n'a été blessé.«Nous sommes très... Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
