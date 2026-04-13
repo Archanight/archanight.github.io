@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T07:48:32.416Z",
+  "generatedAt": "2026-04-13T13:02:58.715Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Ce que révèle le FBI sur Signal et WhatsApp devrait vous faire revoir vos réglages iPhone",
+      "link": "https://global.techradar.com/fr-fr/phones/ce-que-revele-le-fbi-sur-signal-et-whatsapp-devrait-vous-faire-revoir-vos-reglages-iphone",
+      "url": "https://global.techradar.com/fr-fr/phones/ce-que-revele-le-fbi-sur-signal-et-whatsapp-devrait-vous-faire-revoir-vos-reglages-iphone",
+      "publishedAt": "2026-04-13T07:02:46.000Z",
+      "date": "2026-04-13T07:02:46.000Z",
+      "description": "... ChatGPT · Appareils photo 2026 · Meilleurs VPN · Téléphones. Ce que révèle le FBI sur Signal et WhatsApp devrait vous faire revoir vos réglages iPhone.",
+      "excerpt": "... ChatGPT · Appareils photo 2026 · Meilleurs VPN · Téléphones. Ce que révèle le FBI sur Signal et WhatsApp devrait vous faire revoir vos réglages iPhone.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Faille chez OpenAI: mettez à jour vos apps Mac ChatGPT sans attendre | Android MT",
+      "link": "https://android-mt.ouest-france.fr/news/faille-chez-openai-mettez-a-jour-vos-apps-mac-chatgpt-sans-attendre/199285/",
+      "url": "https://android-mt.ouest-france.fr/news/faille-chez-openai-mettez-a-jour-vos-apps-mac-chatgpt-sans-attendre/199285/",
+      "publishedAt": "2026-04-13T06:30:18.000Z",
+      "date": "2026-04-13T06:30:18.000Z",
+      "description": "Quatre applications Mac développées par OpenAI sont concernées par cette mise à jour obligatoire: À LIRE ▻ ChatGPT en panne: pourquoi l'IA d'OpenAI...",
+      "excerpt": "Quatre applications Mac développées par OpenAI sont concernées par cette mise à jour obligatoire: À LIRE ▻ ChatGPT en panne: pourquoi l'IA d'OpenAI...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Kaspersky prolonge sa collaboration avec BSSN pour la sécurité cybernétique indonésienne - VOI",
       "link": "https://voi.id/fr/teknologi/569718",
@@ -107,26 +127,6 @@
       "date": "2026-04-11T11:53:52.000Z",
       "description": "OpenAI lance un nouvel abonnement ChatGPT Pro à 100 $. Accès Codex... Claude Mythos d'Anthropic: outil ou menace pour la cybersécurité? 2 h.",
       "excerpt": "OpenAI lance un nouvel abonnement ChatGPT Pro à 100 $. Accès Codex... Claude Mythos d'Anthropic: outil ou menace pour la cybersécurité? 2 h.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Peut‑on se fier aux chatbots IA pour un avis médical? - Futura",
-      "link": "https://www.futura-sciences.com/tech/questions-reponses/intelligence-artificielle-peut-on-fier-chatbots-ia-avis-medical-24898/",
-      "url": "https://www.futura-sciences.com/tech/questions-reponses/intelligence-artificielle-peut-on-fier-chatbots-ia-avis-medical-24898/",
-      "publishedAt": "2026-04-11T10:15:00.000Z",
-      "date": "2026-04-11T10:15:00.000Z",
-      "description": "La tentation est forte de prendre avis auprès de ChatGPT ou Gemini relativement à un problème de nature médicale... Cybersécurité · Guides PC et...",
-      "excerpt": "La tentation est forte de prendre avis auprès de ChatGPT ou Gemini relativement à un problème de nature médicale... Cybersécurité · Guides PC et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Faille Axios: pourquoi OpenAI force la mise à jour de son application macOS - Numerama",
-      "link": "https://www.numerama.com/cyberguerre/2230799-pour-prevenir-tout-risque-pourquoi-openai-vient-de-forcer-la-mise-a-jour-de-chatgpt-sur-mac.html",
-      "url": "https://www.numerama.com/cyberguerre/2230799-pour-prevenir-tout-risque-pourquoi-openai-vient-de-forcer-la-mise-a-jour-de-chatgpt-sur-mac.html",
-      "publishedAt": "2026-04-11T07:56:40.000Z",
-      "date": "2026-04-11T07:56:40.000Z",
-      "description": "« Pour prévenir tout risque »: pourquoi OpenAI vient de forcer la mise à jour de ChatGPT sur Mac... cybersécurité? 05.04.2026 11:04. Ne plus...",
-      "excerpt": "« Pour prévenir tout risque »: pourquoi OpenAI vient de forcer la mise à jour de ChatGPT sur Mac... cybersécurité? 05.04.2026 11:04. Ne plus...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
