@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T19:02:10.938Z",
+  "generatedAt": "2026-04-14T01:44:58.874Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-6: OpenAI mise tout sur son mystérieux modèle « Spud » pour reprendre la main",
+      "link": "https://www.journalduweb.org/gpt-6-openai-mise-tout-sur-son-mysterieux-modele-spud-pour-reprendre-la-main/",
+      "url": "https://www.journalduweb.org/gpt-6-openai-mise-tout-sur-son-mysterieux-modele-spud-pour-reprendre-la-main/",
+      "publishedAt": "2026-04-13T21:39:55.000Z",
+      "date": "2026-04-13T21:39:55.000Z",
+      "description": "Le lancement chaotique de GPT-5 a visiblement laissé des... L'application, son API, l'intégration prévue dans ChatGPT, tout a été abandonné.",
+      "excerpt": "Le lancement chaotique de GPT-5 a visiblement laissé des... L'application, son API, l'intégration prévue dans ChatGPT, tout a été abandonné.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT dans le viseur de Bruxelles - Mac4Ever",
+      "link": "https://www.mac4ever.com/ia/195619-chatgpt-dans-le-viseur-de-bruxelles",
+      "url": "https://www.mac4ever.com/ia/195619-chatgpt-dans-le-viseur-de-bruxelles",
+      "publishedAt": "2026-04-13T20:29:29.000Z",
+      "date": "2026-04-13T20:29:29.000Z",
+      "description": "Avec plus de 120 millions d'utilisateurs en Europe, ChatGPT... Les futurs SoC pour smartphones peuvent enfin viser les 5 GHz sans exploser en...",
+      "excerpt": "Avec plus de 120 millions d'utilisateurs en Europe, ChatGPT... Les futurs SoC pour smartphones peuvent enfin viser les 5 GHz sans exploser en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT, Copilot, Gemini ou Perplexity, ces IA ont toutes été piégées par une fausse maladie",
       "link": "https://www.clubic.com/actualite-608737-chatgpt-copilot-gemini-ou-perplexity-ces-ia-ont-toutes-ete-piegees-par-une-fausse-maladie.html",
@@ -38,6 +58,16 @@
       "description": "ChatGPT a produit un plan d'entraînement marathon personnalisé et adaptatif... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
       "excerpt": "ChatGPT a produit un plan d'entraînement marathon personnalisé et adaptatif... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude trouve rapidement une vieille faille RCE dans ActiveMQ Classic",
+      "link": "https://www.lemondeinformatique.fr/actualites/lire-claude-trouve-rapidement-une-vieille-faille-rce-dans-activemq-classic-99896.html",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-claude-trouve-rapidement-une-vieille-faille-rce-dans-activemq-classic-99896.html",
+      "publishedAt": "2026-04-13T18:03:32.000Z",
+      "date": "2026-04-13T18:03:32.000Z",
+      "description": "Il n'aura fallu que quelques minutes à Claude pour la détecter. La faille CVE -2026-34197 affecte les versions...",
+      "excerpt": "Il n'aura fallu que quelques minutes à Claude pour la détecter. La faille CVE -2026-34197 affecte les versions...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     },
     {
       "title": "Tubi lance une app native dans ChatGPT: le streaming gratuit entre dans l'ère de la...",
@@ -97,36 +127,6 @@
       "date": "2026-04-13T14:39:36.000Z",
       "description": "SteamGPT: Valve travaille aussi sur son propre ChatGPT, mais vous ne pourrez pas lui parler... Steam Hardware Announcement 2 14 Screenshot (1) (01net.",
       "excerpt": "SteamGPT: Valve travaille aussi sur son propre ChatGPT, mais vous ne pourrez pas lui parler... Steam Hardware Announcement 2 14 Screenshot (1) (01net.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Open AI: ChatGPT face à la réglementation européenne - Armees.com",
-      "link": "https://armees.com/open-ai-chat-gpt-reglementation/",
-      "url": "https://armees.com/open-ai-chat-gpt-reglementation/",
-      "publishedAt": "2026-04-13T14:04:44.000Z",
-      "date": "2026-04-13T14:04:44.000Z",
-      "description": "Cybersécurité. Open AI dans le viseur de Bruxelles: ChatGPT pourrait subir une réglementation renforcée. La Commission européenne examine si ChatGPT...",
-      "excerpt": "Cybersécurité. Open AI dans le viseur de Bruxelles: ChatGPT pourrait subir une réglementation renforcée. La Commission européenne examine si ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT perd de la valeur. - Vietnam.vn",
-      "link": "https://www.vietnam.vn/fr/chatgpt-mat-gia",
-      "url": "https://www.vietnam.vn/fr/chatgpt-mat-gia",
-      "publishedAt": "2026-04-13T13:19:17.000Z",
-      "date": "2026-04-13T13:19:17.000Z",
-      "description": "... ChatGPT Pro ayant réduit de moitié son prix afin d'attirer les développeurs... La commune de Soc...",
-      "excerpt": "... ChatGPT Pro ayant réduit de moitié son prix afin d'attirer les développeurs... La commune de Soc...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ce que révèle le FBI sur Signal et WhatsApp devrait vous faire revoir vos réglages iPhone",
-      "link": "https://global.techradar.com/fr-fr/phones/ce-que-revele-le-fbi-sur-signal-et-whatsapp-devrait-vous-faire-revoir-vos-reglages-iphone",
-      "url": "https://global.techradar.com/fr-fr/phones/ce-que-revele-le-fbi-sur-signal-et-whatsapp-devrait-vous-faire-revoir-vos-reglages-iphone",
-      "publishedAt": "2026-04-13T07:02:46.000Z",
-      "date": "2026-04-13T07:02:46.000Z",
-      "description": "... ChatGPT · Appareils photo 2026 · Meilleurs VPN · Téléphones. Ce que révèle le FBI sur Signal et WhatsApp devrait vous faire revoir vos réglages iPhone.",
-      "excerpt": "... ChatGPT · Appareils photo 2026 · Meilleurs VPN · Téléphones. Ce que révèle le FBI sur Signal et WhatsApp devrait vous faire revoir vos réglages iPhone.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
