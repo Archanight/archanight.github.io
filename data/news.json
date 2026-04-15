@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T07:19:06.332Z",
+  "generatedAt": "2026-04-15T13:02:19.934Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,106 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-5.4-Cyber, le modèle de cybersécurité qu'OpenAI ne veut pas ouvrir à tout le monde",
+      "link": "https://korben.info/gpt-5-4-cyber-le-modele-de-cybersecurite-quopenai-ne-veut-pas-ouvrir-a-tout-le-monde.html",
+      "url": "https://korben.info/gpt-5-4-cyber-le-modele-de-cybersecurite-quopenai-ne-veut-pas-ouvrir-a-tout-le-monde.html",
+      "publishedAt": "2026-04-15T10:34:07.000Z",
+      "date": "2026-04-15T10:34:07.000Z",
+      "description": "OpenAI a annoncé une version fine-tunée de GPT-5.4 dédiée aux cas d'usage cybersécurité, avec une particularité assumée: moins de restrictions sur...",
+      "excerpt": "OpenAI a annoncé une version fine-tunée de GPT-5.4 dédiée aux cas d'usage cybersécurité, avec une particularité assumée: moins de restrictions sur...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI muscle la défense face aux hackers - GPT-5.4-Cyber - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/365525/openai-gpt-5-4-cyber-trusted-access-cybersecurity-2026/",
+      "url": "https://www.blog-nouvelles-technologies.fr/365525/openai-gpt-5-4-cyber-trusted-access-cybersecurity-2026/",
+      "publishedAt": "2026-04-15T09:42:47.000Z",
+      "date": "2026-04-15T09:42:47.000Z",
+      "description": "ChatGPT... Le dispositif s'étend à des milliers d'experts individuels en cybersécurité et à des centaines d'équipes protégeant des systèmes critiques.",
+      "excerpt": "ChatGPT... Le dispositif s'étend à des milliers d'experts individuels en cybersécurité et à des centaines d'équipes protégeant des systèmes critiques.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI répond à Mythos avec GPT-5.4 Cyber pour la cybersécurité - Generation NT",
+      "link": "https://www.generation-nt.com/actualites/openai-gpt-5-4-cyber-anthropic-mythos-cybersecurite-2074024",
+      "url": "https://www.generation-nt.com/actualites/openai-gpt-5-4-cyber-anthropic-mythos-cybersecurite-2074024",
+      "publishedAt": "2026-04-15T09:29:16.000Z",
+      "date": "2026-04-15T09:29:16.000Z",
+      "description": "Quelques jours seulement après que son rival Anthropic a fait souffler un vent de panique dans le domaine de la cybersécurité avec son modèle Mythos,...",
+      "excerpt": "Quelques jours seulement après que son rival Anthropic a fait souffler un vent de panique dans le domaine de la cybersécurité avec son modèle Mythos,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance GPT-5.4-Cyber, un modèle d'IA dédié à la cyberdéfense - BDM",
+      "link": "https://www.blogdumoderateur.com/openai-gpt-5-4-cyber/",
+      "url": "https://www.blogdumoderateur.com/openai-gpt-5-4-cyber/",
+      "publishedAt": "2026-04-15T09:15:33.000Z",
+      "date": "2026-04-15T09:15:33.000Z",
+      "description": "OpenAI-cybersecurite- gpt-5 -4-cyber OpenAI déploie un modèle... cybersécurité. L'annonce intervient une semaine après le dévoilement de...",
+      "excerpt": "OpenAI-cybersecurite- gpt-5 -4-cyber OpenAI déploie un modèle... cybersécurité. L'annonce intervient une semaine après le dévoilement de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Qu'est-ce que GPT-5.4-Cyber, la nouvelle IA d'OpenAI pour la cybersécurité? - Numerama",
+      "link": "https://www.numerama.com/cyberguerre/2233039-quest-ce-que-gpt-5-4-cyber-la-nouvelle-ia-dopenai-pour-la-cybersecurite.html",
+      "url": "https://www.numerama.com/cyberguerre/2233039-quest-ce-que-gpt-5-4-cyber-la-nouvelle-ia-dopenai-pour-la-cybersecurite.html",
+      "publishedAt": "2026-04-15T08:20:24.000Z",
+      "date": "2026-04-15T08:20:24.000Z",
+      "description": "Qu'est-ce que GPT-5.4-Cyber, la nouvelle IA d'OpenAI pour la cybersécurité?... Dernier jour pour GPT-4o et GPT-5: ChatGPT va faire le grand ménage.",
+      "excerpt": "Qu'est-ce que GPT-5.4-Cyber, la nouvelle IA d'OpenAI pour la cybersécurité?... Dernier jour pour GPT-4o et GPT-5: ChatGPT va faire le grand ménage.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Alerte Windows: Microsoft corrige 167 failles en avril 2026, dont une vulnérabilité exploitée...",
+      "link": "https://www.01net.com/actualites/alerte-windows-microsoft-corrige-167-failles-en-avril-2026-dont-une-vulnerabilite-exploitee-dans-des-cyberattaques.html",
+      "url": "https://www.01net.com/actualites/alerte-windows-microsoft-corrige-167-failles-en-avril-2026-dont-une-vulnerabilite-exploitee-dans-des-cyberattaques.html",
+      "publishedAt": "2026-04-15T08:16:34.000Z",
+      "date": "2026-04-15T08:16:34.000Z",
+      "description": "Chatgpt Logo. En réponse à Claude Mythos, OpenAI lance son ChatGPT chercheur en cybersécurité · Mercedes Eqs (1). Mercedes frappe un grand coup: 925...",
+      "excerpt": "Chatgpt Logo. En réponse à Claude Mythos, OpenAI lance son ChatGPT chercheur en cybersécurité · Mercedes Eqs (1). Mercedes frappe un grand coup: 925...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "En réponse à Claude Mythos, OpenAI lance son ChatGPT chercheur en cybersécurité",
+      "link": "https://www.01net.com/actualites/reponse-claude-mythos-openai-lance-chatgpt-chercheur-cybersecurite.html",
+      "url": "https://www.01net.com/actualites/reponse-claude-mythos-openai-lance-chatgpt-chercheur-cybersecurite.html",
+      "publishedAt": "2026-04-15T07:52:28.000Z",
+      "date": "2026-04-15T07:52:28.000Z",
+      "description": "OpenAI cherche à bousculer le monde de la cybersécurité. La start-up vient de dégainer une version de ChatGPT capable de traquer les failles de...",
+      "excerpt": "OpenAI cherche à bousculer le monde de la cybersécurité. La start-up vient de dégainer une version de ChatGPT capable de traquer les failles de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.4-Cyber, un modèle spécialisé en cybersécurité défensive et une réponse à Anthropic Mythos",
+      "link": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/gpt-5-4-cyber-un-modele-specialise-en-cybersecurite-defensive-et-une-reponse-a-anthropic-mythos/",
+      "url": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/gpt-5-4-cyber-un-modele-specialise-en-cybersecurite-defensive-et-une-reponse-a-anthropic-mythos/",
+      "publishedAt": "2026-04-15T07:42:43.000Z",
+      "date": "2026-04-15T07:42:43.000Z",
+      "description": "Des classifieurs analysent le trafic entrant et reroutent les requêtes à risque élevé vers GPT-5.2, modèle moins capable sur le plan cyber.... chatgpt.",
+      "excerpt": "Des classifieurs analysent le trafic entrant et reroutent les requêtes à risque élevé vers GPT-5.2, modèle moins capable sur le plan cyber.... chatgpt.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI dévoile GPT-5.4-Cyber, une IA pour la cybersécurité: doit-on en avoir peur?",
+      "link": "https://www.mac4ever.com/ia/195661-openai-devoile-gpt-5-4-cyber-une-ia-pour-la-cybersecurite-doit-on-en-avoir-peur",
+      "url": "https://www.mac4ever.com/ia/195661-openai-devoile-gpt-5-4-cyber-une-ia-pour-la-cybersecurite-doit-on-en-avoir-peur",
+      "publishedAt": "2026-04-15T05:46:41.000Z",
+      "date": "2026-04-15T05:46:41.000Z",
+      "description": "L'enjeu ne sera plus seulement technologique, mais aussi réglementaire et éthique, à mesure que ces capacités se généralisent. # ChatGPT #CyberSecurité...",
+      "excerpt": "L'enjeu ne sera plus seulement technologique, mais aussi réglementaire et éthique, à mesure que ces capacités se généralisent. # ChatGPT #CyberSecurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance GPT-5.4-Cyber, une IA spécialisée dans la cybersécurité. - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/openai-ra-mat-gpt-5-4-cyber-ai-chuyen-bao-ve-an-ninh-mang",
+      "url": "https://www.vietnam.vn/fr/openai-ra-mat-gpt-5-4-cyber-ai-chuyen-bao-ve-an-ninh-mang",
+      "publishedAt": "2026-04-15T05:02:18.000Z",
+      "date": "2026-04-15T05:02:18.000Z",
+      "description": "VHO - OpenAI vient de lancer GPT-5.4-Cyber, un modèle d'IA spécialement conçu pour la cybersécurité... ChatGPT lance un forfait Pro à 100 $/mois pour...",
+      "excerpt": "VHO - OpenAI vient de lancer GPT-5.4-Cyber, un modèle d'IA spécialement conçu pour la cybersécurité... ChatGPT lance un forfait Pro à 100 $/mois pour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI dévoile GPT-5.4-Cyber une semaine après le lancement du nouveau modèle de...",
       "link": "https://www.zonebourse.com/actualite-bourse/openai-devoile-gpt-5-4-cyber-une-semaine-apres-le-lancement-du-nouveau-modele-de-son-concurrent-ce7e50dfd18cf124",
@@ -28,106 +128,6 @@
       "description": "Attention aux utilisateurs Mac! OpenAI révoque ses certificats après une faille de sécurité. Mettez à jour ChatGPT avant le 8 mai 2026!",
       "excerpt": "Attention aux utilisateurs Mac! OpenAI révoque ses certificats après une faille de sécurité. Mettez à jour ChatGPT avant le 8 mai 2026!",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI Acquiert la Startup de Finance Personnelle Hiro dans un Accord de Talent - Unite.AI",
-      "link": "https://www.unite.ai/fr/openai-acquires-personal-finance-startup-hiro-in-talent-deal/",
-      "url": "https://www.unite.ai/fr/openai-acquires-personal-finance-startup-hiro-in-talent-deal/",
-      "publishedAt": "2026-04-15T01:49:26.000Z",
-      "date": "2026-04-15T01:49:26.000Z",
-      "description": "Cybersécurité · Éthique · Santé · Informatique quantique · Réglementation... ChatGPT. Le co-fondateur de Hiro, Ethan Bloch a annoncé l'acquisition...",
-      "excerpt": "Cybersécurité · Éthique · Santé · Informatique quantique · Réglementation... ChatGPT. Le co-fondateur de Hiro, Ethan Bloch a annoncé l'acquisition...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'Europe autorise la conduite autonome de Tesla, une décision qui divise déjà - TechRadar",
-      "link": "https://global.techradar.com/fr-fr/vehicle-tech/hybrid-electric-vehicles/leurope-autorise-la-conduite-autonome-de-tesla-une-decision-qui-divise-deja",
-      "url": "https://global.techradar.com/fr-fr/vehicle-tech/hybrid-electric-vehicles/leurope-autorise-la-conduite-autonome-de-tesla-une-decision-qui-divise-deja",
-      "publishedAt": "2026-04-15T00:44:27.000Z",
-      "date": "2026-04-15T00:44:27.000Z",
-      "description": "... ChatGPT ”: pourquoi l'IA la plus populaire est soudain sous le feu des... ChatGPT Derrière la gratuité de ChatGPT, une facture qui explose.",
-      "excerpt": "... ChatGPT ”: pourquoi l'IA la plus populaire est soudain sous le feu des... ChatGPT Derrière la gratuité de ChatGPT, une facture qui explose.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Cocktail Molotov, cybermenaces et guerre des egos: l'IA sur un volcan - Le Point",
-      "link": "https://www.lepoint.fr/high-tech-internet/chatgpt-claude-gemini-comprendre-la-guerre-des-titans-de-lia-UXNJMD246ZHO5PNYUJF5F6GGWA/",
-      "url": "https://www.lepoint.fr/high-tech-internet/chatgpt-claude-gemini-comprendre-la-guerre-des-titans-de-lia-UXNJMD246ZHO5PNYUJF5F6GGWA/",
-      "publishedAt": "2026-04-15T00:04:23.000Z",
-      "date": "2026-04-15T00:04:23.000Z",
-      "description": "ChatGPT, Claude ou Gemini…Quand les surenchères des stars de la Silicon Valley, Sam Altman et Dario Amodei, attisent l'angoisse, Demis Hassabis...",
-      "excerpt": "ChatGPT, Claude ou Gemini…Quand les surenchères des stars de la Silicon Valley, Sam Altman et Dario Amodei, attisent l'angoisse, Demis Hassabis...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La maison de Sam Altman, le patron d'OpenAI, a été visée par un cocktail molotov",
-      "link": "https://actu.orange.fr/videos/monde/la-maison-de-sam-altman-le-patron-d-openai-a-ete-visee-par-un-cocktail-molotov-CNT000002oG79d.html",
-      "url": "https://actu.orange.fr/videos/monde/la-maison-de-sam-altman-le-patron-d-openai-a-ete-visee-par-un-cocktail-molotov-CNT000002oG79d.html",
-      "publishedAt": "2026-04-14T21:15:21.000Z",
-      "date": "2026-04-14T21:15:21.000Z",
-      "description": "Cybersécurité et Télésurveillance. Conseils et ateliers... Sam Altman, le père de ChatGPT, accusé par sa sœur de viols et d'agressions sexuelles.",
-      "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers... Sam Altman, le père de ChatGPT, accusé par sa sœur de viols et d'agressions sexuelles.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Intelligence Artificielle: Un An De ChatGPT [32da83] - Fathom Journal",
-      "link": "https://fathomjournal.org/90f6be91smm/20299c12-rHawJXdlmXM.html",
-      "url": "https://fathomjournal.org/90f6be91smm/20299c12-rHawJXdlmXM.html",
-      "publishedAt": "2026-04-14T15:59:32.000Z",
-      "date": "2026-04-14T15:59:32.000Z",
-      "description": "... ChatGPT est arrivé. Le reportage de Jacaudrey Charbonneau #TJ18h -- Accédez aux nouvelles essentielles update toyota ceo sato warning en...",
-      "excerpt": "... ChatGPT est arrivé. Le reportage de Jacaudrey Charbonneau #TJ18h -- Accédez aux nouvelles essentielles update toyota ceo sato warning en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT sous le feu des projecteurs alors que la Floride enquête sur la fusillade sur un campus",
-      "link": "https://www.malwarebytes.com/fr/blog/ai/2026/04/chatgpt-under-scrutiny-as-florida-investigates-campus-shooting",
-      "url": "https://www.malwarebytes.com/fr/blog/ai/2026/04/chatgpt-under-scrutiny-as-florida-investigates-campus-shooting",
-      "publishedAt": "2026-04-14T15:45:31.000Z",
-      "date": "2026-04-14T15:45:31.000Z",
-      "description": "Des documents judiciaires révèlent que le tireur avait échangé plus de 200 messages avec ChatGPT, posant notamment des questions telles que « À quelle...",
-      "excerpt": "Des documents judiciaires révèlent que le tireur avait échangé plus de 200 messages avec ChatGPT, posant notamment des questions telles que « À quelle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Novo Nordisk mise sur l'IA et s'associe avec OpenAI, maison mère de ChatGPT, pour... - LaLibre.be",
-      "link": "https://www.lalibre.be/economie/entreprises-startup/2026/04/14/novo-nordisk-mise-sur-lia-et-sassocie-avec-openai-maison-mere-de-chatgpt-pour-developper-de-nouveaux-medicaments-2ZXBIM3J4VDR7GA6OE6S3ZEZV4/",
-      "url": "https://www.lalibre.be/economie/entreprises-startup/2026/04/14/novo-nordisk-mise-sur-lia-et-sassocie-avec-openai-maison-mere-de-chatgpt-pour-developper-de-nouveaux-medicaments-2ZXBIM3J4VDR7GA6OE6S3ZEZV4/",
-      "publishedAt": "2026-04-14T14:49:24.000Z",
-      "date": "2026-04-14T14:49:24.000Z",
-      "description": "Novo Nordisk mise sur l'IA et s'associe avec OpenAI, maison mère de ChatGPT, pour développer de nouveaux médicaments. Des programmes pilotes vont être...",
-      "excerpt": "Novo Nordisk mise sur l'IA et s'associe avec OpenAI, maison mère de ChatGPT, pour développer de nouveaux médicaments. Des programmes pilotes vont être...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "SOFTSWISS récompensé pour son innovation exceptionnelle en cybersécurité | LCDG",
-      "link": "https://lecafedugeek.fr/softswiss-recompense-pour-son-innovation-exceptionnelle-en-cybersecurite/",
-      "url": "https://lecafedugeek.fr/softswiss-recompense-pour-son-innovation-exceptionnelle-en-cybersecurite/",
-      "publishedAt": "2026-04-14T14:48:01.000Z",
-      "date": "2026-04-14T14:48:01.000Z",
-      "description": "L'entreprise a remporté le Global Tech Award 2026 grâce à son innovation dans la cybersécurité: Pipeguard.... Mettez à jour l'application ChatGPT sur...",
-      "excerpt": "L'entreprise a remporté le Global Tech Award 2026 grâce à son innovation dans la cybersécurité: Pipeguard.... Mettez à jour l'application ChatGPT sur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Derrière ChatGPT, le doute: OpenAI face au test de sa stratégie - 21 News",
-      "link": "https://www.21news.be/derriere-chatgpt-le-doute-openai-face-au-test-de-sa-strategie/",
-      "url": "https://www.21news.be/derriere-chatgpt-le-doute-openai-face-au-test-de-sa-strategie/",
-      "publishedAt": "2026-04-14T14:31:47.000Z",
-      "date": "2026-04-14T14:31:47.000Z",
-      "description": "The release of gpt-oss-120b and gpt-oss-20b \"open-weight language models\" comes as the ChatGPT -maker is under pressure to share inner workings of...",
-      "excerpt": "The release of gpt-oss-120b and gpt-oss-20b \"open-weight language models\" comes as the ChatGPT -maker is under pressure to share inner workings of...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT Pro: A qui s'adresse le nouveau plan à 100$? - NotebookCheck.biz News",
-      "link": "https://www.notebookcheck.biz/ChatGPT-Pro-A-qui-s-adresse-le-nouveau-plan-a-100.1273778.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-Pro-A-qui-s-adresse-le-nouveau-plan-a-100.1273778.0.html",
-      "publishedAt": "2026-04-14T13:52:29.000Z",
-      "date": "2026-04-14T13:52:29.000Z",
-      "description": "OpenAI développe ChatGPT avec un nouveau niveau Pro à 100$ par mois, ciblant un groupe en particulier: Les utilisateurs de Codex ayant des...",
-      "excerpt": "OpenAI développe ChatGPT avec un nouveau niveau Pro à 100$ par mois, ciblant un groupe en particulier: Les utilisateurs de Codex ayant des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
