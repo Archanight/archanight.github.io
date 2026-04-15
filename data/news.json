@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T18:59:37.027Z",
+  "generatedAt": "2026-04-15T01:27:23.031Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,14 +10,34 @@
   "failedSources": [],
   "items": [
     {
+      "title": "La maison de Sam Altman, le patron d'OpenAI, a été visée par un cocktail molotov",
+      "link": "https://actu.orange.fr/videos/monde/la-maison-de-sam-altman-le-patron-d-openai-a-ete-visee-par-un-cocktail-molotov-CNT000002oG79d.html",
+      "url": "https://actu.orange.fr/videos/monde/la-maison-de-sam-altman-le-patron-d-openai-a-ete-visee-par-un-cocktail-molotov-CNT000002oG79d.html",
+      "publishedAt": "2026-04-14T21:15:21.000Z",
+      "date": "2026-04-14T21:15:21.000Z",
+      "description": "Cybersécurité et Télésurveillance. Conseils et ateliers... Sam Altman, le père de ChatGPT, accusé par sa sœur de viols et d'agressions sexuelles.",
+      "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers... Sam Altman, le père de ChatGPT, accusé par sa sœur de viols et d'agressions sexuelles.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Intelligence Artificielle: Un An De ChatGPT [32da83] - Fathom Journal",
+      "link": "https://fathomjournal.org/90f6be91smm/20299c12-rHawJXdlmXM.html",
+      "url": "https://fathomjournal.org/90f6be91smm/20299c12-rHawJXdlmXM.html",
+      "publishedAt": "2026-04-14T15:59:32.000Z",
+      "date": "2026-04-14T15:59:32.000Z",
+      "description": "... ChatGPT est arrivé. Le reportage de Jacaudrey Charbonneau #TJ18h -- Accédez aux nouvelles essentielles update toyota ceo sato warning en...",
+      "excerpt": "... ChatGPT est arrivé. Le reportage de Jacaudrey Charbonneau #TJ18h -- Accédez aux nouvelles essentielles update toyota ceo sato warning en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "ChatGPT sous le feu des projecteurs alors que la Floride enquête sur la fusillade sur un campus",
       "link": "https://www.malwarebytes.com/fr/blog/ai/2026/04/chatgpt-under-scrutiny-as-florida-investigates-campus-shooting",
       "url": "https://www.malwarebytes.com/fr/blog/ai/2026/04/chatgpt-under-scrutiny-as-florida-investigates-campus-shooting",
       "publishedAt": "2026-04-14T15:45:31.000Z",
       "date": "2026-04-14T15:45:31.000Z",
-      "description": "ChatGPT sous le feu des projecteurs alors que la Floride... Malwarebytes - une protection de cybersécurité tout-en-un, toujours à vos côtés.",
-      "excerpt": "ChatGPT sous le feu des projecteurs alors que la Floride... Malwarebytes - une protection de cybersécurité tout-en-un, toujours à vos côtés.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "description": "Des documents judiciaires révèlent que le tireur avait échangé plus de 200 messages avec ChatGPT, posant notamment des questions telles que « À quelle...",
+      "excerpt": "Des documents judiciaires révèlent que le tireur avait échangé plus de 200 messages avec ChatGPT, posant notamment des questions telles que « À quelle...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Novo Nordisk mise sur l'IA et s'associe avec OpenAI, maison mère de ChatGPT, pour... - LaLibre.be",
@@ -70,6 +90,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Claude vs ChatGPT 2026: 80,8 % SWE-bench et 5x Écart Prix [Testé] - Tech Insider",
+      "link": "https://tech-insider.org/fr/claude-vs-chatgpt-2026-benchmarks-prix-api-contexte/",
+      "url": "https://tech-insider.org/fr/claude-vs-chatgpt-2026-benchmarks-prix-api-contexte/",
+      "publishedAt": "2026-04-14T13:24:46.000Z",
+      "date": "2026-04-14T13:24:46.000Z",
+      "description": "Cet écart de 10 points montre que ChatGPT reste supérieur pour les tâches d' administration système et les workflows DevOps complexes. Jeff Delaney,...",
+      "excerpt": "Cet écart de 10 points montre que ChatGPT reste supérieur pour les tâches d' administration système et les workflows DevOps complexes. Jeff Delaney,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Pour reprendre la main sur le numérique, la France tourne le dos à Windows - TechRadar",
       "link": "https://global.techradar.com/fr-fr/pro/pour-reprendre-la-main-sur-le-numerique-la-france-tourne-le-dos-a-windows",
       "url": "https://global.techradar.com/fr-fr/pro/pour-reprendre-la-main-sur-le-numerique-la-france-tourne-le-dos-a-windows",
@@ -97,36 +127,6 @@
       "date": "2026-04-14T12:14:46.000Z",
       "description": "ChatGPT Omio Voyages IA Transport Multimodal Interface Conversationnelle · Click here to consult the press release on which this article is based.",
       "excerpt": "ChatGPT Omio Voyages IA Transport Multimodal Interface Conversationnelle · Click here to consult the press release on which this article is based.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI rachète une fintech IA: après votre santé, ChatGPT veut gérer votre argent - MSN",
-      "link": "https://www.msn.com/fr-fr/finance/autres/openai-rach%C3%A8te-une-fintech-ia-apr%C3%A8s-votre-sant%C3%A9-chatgpt-veut-g%C3%A9rer-votre-argent/ar-AA20QrWz?ocid=finance-verthp-feeds",
-      "url": "https://www.msn.com/fr-fr/finance/autres/openai-rach%C3%A8te-une-fintech-ia-apr%C3%A8s-votre-sant%C3%A9-chatgpt-veut-g%C3%A9rer-votre-argent/ar-AA20QrWz?ocid=finance-verthp-feeds",
-      "publishedAt": "2026-04-14T11:23:00.000Z",
-      "date": "2026-04-14T11:23:00.000Z",
-      "description": "Sam Altman ne cache plus son ambition: faire de ChatGPT un assistant qui touche à tout.... Après la santé, la cybersécurité et le code, OpenAI s'...",
-      "excerpt": "Sam Altman ne cache plus son ambition: faire de ChatGPT un assistant qui touche à tout.... Après la santé, la cybersécurité et le code, OpenAI s'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Alors que les Canadiens sont ouverts à adopter l'IA dans - GlobeNewswire",
-      "link": "https://www.globenewswire.com/news-release/2026/04/14/3273181/0/fr/Alors-que-les-Canadiens-sont-ouverts-%C3%A0-adopter-l-IA-dans-leur-foyer-au-travail-et-entre-les-draps-un-sondage-de-H-R-Block-met-en-garde-ChatGPT-n-est-pas-un-outil-fiable-pour-produi.html",
-      "url": "https://www.globenewswire.com/news-release/2026/04/14/3273181/0/fr/Alors-que-les-Canadiens-sont-ouverts-%C3%A0-adopter-l-IA-dans-leur-foyer-au-travail-et-entre-les-draps-un-sondage-de-H-R-Block-met-en-garde-ChatGPT-n-est-pas-un-outil-fiable-pour-produi.html",
-      "publishedAt": "2026-04-14T11:18:32.000Z",
-      "date": "2026-04-14T11:18:32.000Z",
-      "description": "Alors que les Canadiens sont ouverts à adopter l'IA dans leur foyer, au travail et entre les draps, un sondage de H&R Block met en garde: ChatGPT n'...",
-      "excerpt": "Alors que les Canadiens sont ouverts à adopter l'IA dans leur foyer, au travail et entre les draps, un sondage de H&R Block met en garde: ChatGPT n'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI bat des records, Microsoft alerte: semaine charnière pour l'IA - TechRadar",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/openai-bat-des-records-microsoft-alerte-semaine-charniere-pour-lia",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/openai-bat-des-records-microsoft-alerte-semaine-charniere-pour-lia",
-      "publishedAt": "2026-04-14T11:17:47.000Z",
-      "date": "2026-04-14T11:17:47.000Z",
-      "description": "Vous connaissez l'outil Microsoft Copilot que vous utilisez au travail? · Le créateur de ChatGPT, OpenAI, affirme générer beaucoup de revenus — cela...",
-      "excerpt": "Vous connaissez l'outil Microsoft Copilot que vous utilisez au travail? · Le créateur de ChatGPT, OpenAI, affirme générer beaucoup de revenus — cela...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
