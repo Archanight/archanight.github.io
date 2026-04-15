@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T01:27:23.031Z",
+  "generatedAt": "2026-04-15T07:19:06.332Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI dévoile GPT-5.4-Cyber une semaine après le lancement du nouveau modèle de...",
+      "link": "https://www.zonebourse.com/actualite-bourse/openai-devoile-gpt-5-4-cyber-une-semaine-apres-le-lancement-du-nouveau-modele-de-son-concurrent-ce7e50dfd18cf124",
+      "url": "https://www.zonebourse.com/actualite-bourse/openai-devoile-gpt-5-4-cyber-une-semaine-apres-le-lancement-du-nouveau-modele-de-son-concurrent-ce7e50dfd18cf124",
+      "publishedAt": "2026-04-15T03:25:55.000Z",
+      "date": "2026-04-15T03:25:55.000Z",
+      "description": "OpenAI a présenté mardi GPT-5.4-Cyber, une variante de son dernier modèle phare spécifiquement optimisée pour la cybersécurité défensive.",
+      "excerpt": "OpenAI a présenté mardi GPT-5.4-Cyber, une variante de son dernier modèle phare spécifiquement optimisée pour la cybersécurité défensive.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Mettez à jour l'application ChatGPT sur votre Mac avant le 8 mai 2026 - Le Café du Geek",
+      "link": "https://lecafedugeek.fr/mettez-a-jour-lapplication-chatgpt-sur-votre-mac-avant-le-8-mai-2026/",
+      "url": "https://lecafedugeek.fr/mettez-a-jour-lapplication-chatgpt-sur-votre-mac-avant-le-8-mai-2026/",
+      "publishedAt": "2026-04-15T02:02:24.000Z",
+      "date": "2026-04-15T02:02:24.000Z",
+      "description": "Attention aux utilisateurs Mac! OpenAI révoque ses certificats après une faille de sécurité. Mettez à jour ChatGPT avant le 8 mai 2026!",
+      "excerpt": "Attention aux utilisateurs Mac! OpenAI révoque ses certificats après une faille de sécurité. Mettez à jour ChatGPT avant le 8 mai 2026!",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI Acquiert la Startup de Finance Personnelle Hiro dans un Accord de Talent - Unite.AI",
+      "link": "https://www.unite.ai/fr/openai-acquires-personal-finance-startup-hiro-in-talent-deal/",
+      "url": "https://www.unite.ai/fr/openai-acquires-personal-finance-startup-hiro-in-talent-deal/",
+      "publishedAt": "2026-04-15T01:49:26.000Z",
+      "date": "2026-04-15T01:49:26.000Z",
+      "description": "Cybersécurité · Éthique · Santé · Informatique quantique · Réglementation... ChatGPT. Le co-fondateur de Hiro, Ethan Bloch a annoncé l'acquisition...",
+      "excerpt": "Cybersécurité · Éthique · Santé · Informatique quantique · Réglementation... ChatGPT. Le co-fondateur de Hiro, Ethan Bloch a annoncé l'acquisition...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'Europe autorise la conduite autonome de Tesla, une décision qui divise déjà - TechRadar",
+      "link": "https://global.techradar.com/fr-fr/vehicle-tech/hybrid-electric-vehicles/leurope-autorise-la-conduite-autonome-de-tesla-une-decision-qui-divise-deja",
+      "url": "https://global.techradar.com/fr-fr/vehicle-tech/hybrid-electric-vehicles/leurope-autorise-la-conduite-autonome-de-tesla-une-decision-qui-divise-deja",
+      "publishedAt": "2026-04-15T00:44:27.000Z",
+      "date": "2026-04-15T00:44:27.000Z",
+      "description": "... ChatGPT ”: pourquoi l'IA la plus populaire est soudain sous le feu des... ChatGPT Derrière la gratuité de ChatGPT, une facture qui explose.",
+      "excerpt": "... ChatGPT ”: pourquoi l'IA la plus populaire est soudain sous le feu des... ChatGPT Derrière la gratuité de ChatGPT, une facture qui explose.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Cocktail Molotov, cybermenaces et guerre des egos: l'IA sur un volcan - Le Point",
+      "link": "https://www.lepoint.fr/high-tech-internet/chatgpt-claude-gemini-comprendre-la-guerre-des-titans-de-lia-UXNJMD246ZHO5PNYUJF5F6GGWA/",
+      "url": "https://www.lepoint.fr/high-tech-internet/chatgpt-claude-gemini-comprendre-la-guerre-des-titans-de-lia-UXNJMD246ZHO5PNYUJF5F6GGWA/",
+      "publishedAt": "2026-04-15T00:04:23.000Z",
+      "date": "2026-04-15T00:04:23.000Z",
+      "description": "ChatGPT, Claude ou Gemini…Quand les surenchères des stars de la Silicon Valley, Sam Altman et Dario Amodei, attisent l'angoisse, Demis Hassabis...",
+      "excerpt": "ChatGPT, Claude ou Gemini…Quand les surenchères des stars de la Silicon Valley, Sam Altman et Dario Amodei, attisent l'angoisse, Demis Hassabis...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "La maison de Sam Altman, le patron d'OpenAI, a été visée par un cocktail molotov",
       "link": "https://actu.orange.fr/videos/monde/la-maison-de-sam-altman-le-patron-d-openai-a-ete-visee-par-un-cocktail-molotov-CNT000002oG79d.html",
@@ -77,56 +127,6 @@
       "date": "2026-04-14T13:52:29.000Z",
       "description": "OpenAI développe ChatGPT avec un nouveau niveau Pro à 100$ par mois, ciblant un groupe en particulier: Les utilisateurs de Codex ayant des...",
       "excerpt": "OpenAI développe ChatGPT avec un nouveau niveau Pro à 100$ par mois, ciblant un groupe en particulier: Les utilisateurs de Codex ayant des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Publicité sur ChatGPT: la fin du pilotage par la preuve?",
-      "link": "https://www.journaldunet.com/martech/1549465-publicite-sur-chatgpt-la-fin-du-pilotage-par-la-preuve/",
-      "url": "https://www.journaldunet.com/martech/1549465-publicite-sur-chatgpt-la-fin-du-pilotage-par-la-preuve/",
-      "publishedAt": "2026-04-14T13:41:20.000Z",
-      "date": "2026-04-14T13:41:20.000Z",
-      "description": "L'arrivée de la publicité dans ChatGPT marque une nouvelle étape dans la monétisation des environnements conversationnels... Cybersécurité · Robotique...",
-      "excerpt": "L'arrivée de la publicité dans ChatGPT marque une nouvelle étape dans la monétisation des environnements conversationnels... Cybersécurité · Robotique...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude vs ChatGPT 2026: 80,8 % SWE-bench et 5x Écart Prix [Testé] - Tech Insider",
-      "link": "https://tech-insider.org/fr/claude-vs-chatgpt-2026-benchmarks-prix-api-contexte/",
-      "url": "https://tech-insider.org/fr/claude-vs-chatgpt-2026-benchmarks-prix-api-contexte/",
-      "publishedAt": "2026-04-14T13:24:46.000Z",
-      "date": "2026-04-14T13:24:46.000Z",
-      "description": "Cet écart de 10 points montre que ChatGPT reste supérieur pour les tâches d' administration système et les workflows DevOps complexes. Jeff Delaney,...",
-      "excerpt": "Cet écart de 10 points montre que ChatGPT reste supérieur pour les tâches d' administration système et les workflows DevOps complexes. Jeff Delaney,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pour reprendre la main sur le numérique, la France tourne le dos à Windows - TechRadar",
-      "link": "https://global.techradar.com/fr-fr/pro/pour-reprendre-la-main-sur-le-numerique-la-france-tourne-le-dos-a-windows",
-      "url": "https://global.techradar.com/fr-fr/pro/pour-reprendre-la-main-sur-le-numerique-la-france-tourne-le-dos-a-windows",
-      "publishedAt": "2026-04-14T12:54:05.000Z",
-      "date": "2026-04-14T12:54:05.000Z",
-      "description": "... ChatGPT “Cancel ChatGPT ”: pourquoi l'IA la plus populaire est soudain sous le feu des critiques · Getting image with Future Edit. Pro L'intelligence...",
-      "excerpt": "... ChatGPT “Cancel ChatGPT ”: pourquoi l'IA la plus populaire est soudain sous le feu des critiques · Getting image with Future Edit. Pro L'intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI rachète une fintech IA: après votre santé, ChatGPT veut gérer votre argent - Clubic",
-      "link": "https://www.clubic.com/actualite-608851-openai-rachete-une-fintech-ia-apres-votre-sante-chatgpt-veut-gerer-votre-argent.html",
-      "url": "https://www.clubic.com/actualite-608851-openai-rachete-une-fintech-ia-apres-votre-sante-chatgpt-veut-gerer-votre-argent.html",
-      "publishedAt": "2026-04-14T12:27:50.000Z",
-      "date": "2026-04-14T12:27:50.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT (GPT-5.4). Chat dans différentes langues, dont...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT (GPT-5.4). Chat dans différentes langues, dont...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Omio s'intègre à ChatGPT, étendant ainsi sa portée aux utilisateurs d'IA du monde entier.",
-      "link": "https://www.webdisclosure.com/article/omio-corp-etr-omio-sintegre-a-chatgpt-etendant-ainsi-sa-portee-aux-utilisateurs-dia-du-monde-entier-pLSjHRRUFhV",
-      "url": "https://www.webdisclosure.com/article/omio-corp-etr-omio-sintegre-a-chatgpt-etendant-ainsi-sa-portee-aux-utilisateurs-dia-du-monde-entier-pLSjHRRUFhV",
-      "publishedAt": "2026-04-14T12:14:46.000Z",
-      "date": "2026-04-14T12:14:46.000Z",
-      "description": "ChatGPT Omio Voyages IA Transport Multimodal Interface Conversationnelle · Click here to consult the press release on which this article is based.",
-      "excerpt": "ChatGPT Omio Voyages IA Transport Multimodal Interface Conversationnelle · Click here to consult the press release on which this article is based.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
