@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T18:59:37.741Z",
+  "generatedAt": "2026-04-17T01:45:14.932Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,26 @@
   "failedSources": [],
   "items": [
     {
+      "title": "OpenAI lance le modèle d'IA GPT-5.4 Cyber dédié à la cybersécurité - Business AM - FR",
+      "link": "https://fr.businessam.be/openai-lance-le-modele-dia-gpt-5-4-cyber-dedie-a-la-cybersecurite/",
+      "url": "https://fr.businessam.be/openai-lance-le-modele-dia-gpt-5-4-cyber-dedie-a-la-cybersecurite/",
+      "publishedAt": "2026-04-16T21:04:01.000Z",
+      "date": "2026-04-16T21:04:01.000Z",
+      "description": "GPT 5.4 Cyber d'OpenAI permet aux professionnels autorisés de renforcer la cybersécurité en exploitant une version modifiée du modèle GPT 5.4.",
+      "excerpt": "GPT 5.4 Cyber d'OpenAI permet aux professionnels autorisés de renforcer la cybersécurité en exploitant une version modifiée du modèle GPT 5.4.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude Opus 4.7: Anthropic déploie son modèle le plus puissant et creuse l'écart en...",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/claude-opus-4-7-anthropic-deploie-son-modele-le-plus-puissant-et-creuse-l-ecart-en-codage-agentique-n254470.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/claude-opus-4-7-anthropic-deploie-son-modele-le-plus-puissant-et-creuse-l-ecart-en-codage-agentique-n254470.html",
+      "publishedAt": "2026-04-16T20:40:29.000Z",
+      "date": "2026-04-16T20:40:29.000Z",
+      "description": "ChatGPT a aidé un homme à harceler son ex-compagne, OpenAI est...",
+      "excerpt": "ChatGPT a aidé un homme à harceler son ex-compagne, OpenAI est...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Google Gemini sur Mac: une application officielle change tout face à ChatGPT et Claude",
       "link": "https://www.numerama.com/tech/2233723-google-gemini-sur-mac-une-application-officielle-change-tout-face-a-chatgpt-et-claude.html",
       "url": "https://www.numerama.com/tech/2233723-google-gemini-sur-mac-une-application-officielle-change-tout-face-a-chatgpt-et-claude.html",
@@ -17,6 +37,16 @@
       "date": "2026-04-16T17:02:13.000Z",
       "description": "Les utilisateurs de Gemini réclament une application depuis des mois alors que ChatGPT, Claude ou Perplexity proposent leurs propres logiciels sur les...",
       "excerpt": "Les utilisateurs de Gemini réclament une application depuis des mois alors que ChatGPT, Claude ou Perplexity proposent leurs propres logiciels sur les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les utilisateurs quittent-ils ChatGPT? Ce que révèlent les chiffres - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/les-utilisateurs-quittent-ils-chatgpt-ce-que-revelent-les-chiffres",
+      "url": "https://www.lebigdata.fr/les-utilisateurs-quittent-ils-chatgpt-ce-que-revelent-les-chiffres",
+      "publishedAt": "2026-04-16T16:55:42.000Z",
+      "date": "2026-04-16T16:55:42.000Z",
+      "description": "À voir les chiffres, on peut dire que les utilisateurs de ChatGPT commencent à regarder ailleurs... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A...",
+      "excerpt": "À voir les chiffres, on peut dire que les utilisateurs de ChatGPT commencent à regarder ailleurs... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -70,6 +100,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Claude Opus 4.7: Anthropic écrase SWE-bench Pro à 64,3 % - Lejourguinee",
+      "link": "https://www.lejourguinee.com/course-aux-benchmarks-comment-claude-opus-4-7-rebat-les-cartes-face-a-gpt-5-4-et-gemini-3-1-pro/",
+      "url": "https://www.lejourguinee.com/course-aux-benchmarks-comment-claude-opus-4-7-rebat-les-cartes-face-a-gpt-5-4-et-gemini-3-1-pro/",
+      "publishedAt": "2026-04-16T15:53:44.000Z",
+      "date": "2026-04-16T15:53:44.000Z",
+      "description": "En un seul cycle de release, l'écart entre le leader et le peloton... Soit 144 points devant GPT-5.2. Anthropic annonce que la version 4.7...",
+      "excerpt": "En un seul cycle de release, l'écart entre le leader et le peloton... Soit 144 points devant GPT-5.2. Anthropic annonce que la version 4.7...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Les IA Claude, ChatGPT et Gemini cachent une faille qui permet de s'introduire dans n...",
       "link": "https://www.phonandroid.com/ia-claude-chatgpt-gemini-cachent-faille-qui-permet-introduire-dans-n-importe-quel-systeme-connecte.html",
       "url": "https://www.phonandroid.com/ia-claude-chatgpt-gemini-cachent-faille-qui-permet-introduire-dans-n-importe-quel-systeme-connecte.html",
@@ -87,46 +127,6 @@
       "date": "2026-04-16T15:06:40.000Z",
       "description": "... ChatGPT et Claude d'accéder directement au contenu de vos onglets... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
       "excerpt": "... ChatGPT et Claude d'accéder directement au contenu de vos onglets... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité: OpenAI emboîte le pas d'Anthropic et déploie GPT-5.4-Cyber pour protéger...",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/cybersecurite-openai-emboite-le-pas-danthropic-et-deploie-gpt-54-cyber-pour-proteger-les-logiciels-critiques-a-grande-echelle.3QDG3APQ5FF7VDRSXS2LK27TEE.html",
-      "url": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/cybersecurite-openai-emboite-le-pas-danthropic-et-deploie-gpt-54-cyber-pour-proteger-les-logiciels-critiques-a-grande-echelle.3QDG3APQ5FF7VDRSXS2LK27TEE.html",
-      "publishedAt": "2026-04-16T14:34:20.000Z",
-      "date": "2026-04-16T14:34:20.000Z",
-      "description": "L'intérêt pour le créateur de ChatGPT? S'imposer comme l'acteur clé de la cybersécurité... GPT-5.2 avait par exemple été entrainé à la cybersécurité,...",
-      "excerpt": "L'intérêt pour le créateur de ChatGPT? S'imposer comme l'acteur clé de la cybersécurité... GPT-5.2 avait par exemple été entrainé à la cybersécurité,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Avant d'arriver en France, la pub sur ChatGPT change pour copier Google Ads - 01net.com",
-      "link": "https://www.01net.com/actualites/avant-darriver-en-france-la-pub-sur-chatgpt-change-pour-copier-google-ads.html",
-      "url": "https://www.01net.com/actualites/avant-darriver-en-france-la-pub-sur-chatgpt-change-pour-copier-google-ads.html",
-      "publishedAt": "2026-04-16T14:30:47.000Z",
-      "date": "2026-04-16T14:30:47.000Z",
-      "description": "Avant d'arriver en France, la pub sur ChatGPT change pour copier Google Ads... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "excerpt": "Avant d'arriver en France, la pub sur ChatGPT change pour copier Google Ads... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Navigateurs et IA: Chrome, Edge, Opera, Comet et Atlas imposent trois modèles architecturaux",
-      "link": "https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-articles/navigateurs-et-ia-chrome-edge-opera-comet-et-atlas-imposent-trois-modeles-architecturaux/",
-      "url": "https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-articles/navigateurs-et-ia-chrome-edge-opera-comet-et-atlas-imposent-trois-modeles-architecturaux/",
-      "publishedAt": "2026-04-16T12:59:39.000Z",
-      "date": "2026-04-16T12:59:39.000Z",
-      "description": "ChatGPT Atlas d'OpenAI, disponible sur macOS... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "excerpt": "ChatGPT Atlas d'OpenAI, disponible sur macOS... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: l'IA va bientôt mémoriser votre visage pour accélérer la génération d'images (le...",
-      "link": "https://www.phonandroid.com/chatgpt-lia-va-bientot-memoriser-votre-visage-pour-accelerer-la-generation-dimages-le-veut-on-vraiment.html",
-      "url": "https://www.phonandroid.com/chatgpt-lia-va-bientot-memoriser-votre-visage-pour-accelerer-la-generation-dimages-le-veut-on-vraiment.html",
-      "publishedAt": "2026-04-16T12:39:14.000Z",
-      "date": "2026-04-16T12:39:14.000Z",
-      "description": "Pour accélérer le processus de génération d'images basé sur vos photos, ChatGPT pourrait intégrer une nouvelle option. Le veut-on vraiment?",
-      "excerpt": "Pour accélérer le processus de génération d'images basé sur vos photos, ChatGPT pourrait intégrer une nouvelle option. Le veut-on vraiment?",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
