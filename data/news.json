@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T18:44:20.799Z",
+  "generatedAt": "2026-04-18T01:24:48.510Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Une place de concert contre votre iris, c'est la nouvelle idée intrusive et flippante du créateur...",
+      "link": "https://www.lesnumeriques.com/societe-numerique/une-place-de-concert-contre-votre-iris-c-est-la-nouvelle-idee-intrusive-et-flippante-du-createur-de-chatgpt-n254544.html",
+      "url": "https://www.lesnumeriques.com/societe-numerique/une-place-de-concert-contre-votre-iris-c-est-la-nouvelle-idee-intrusive-et-flippante-du-createur-de-chatgpt-n254544.html",
+      "publishedAt": "2026-04-17T20:45:51.000Z",
+      "date": "2026-04-17T20:45:51.000Z",
+      "description": "Tools for Humanity veut que les fans scannent leur iris pour acheter une place de concert. La société de Sam Altman à qui l'on doit ChatGPT a...",
+      "excerpt": "Tools for Humanity veut que les fans scannent leur iris pour acheter une place de concert. La société de Sam Altman à qui l'on doit ChatGPT a...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT, Gemini et Claude seraient meilleurs que les pubs pour vendre un produit - 01net.com",
+      "link": "https://www.01net.com/actualites/chatgpt-gemini-claude-vendent-influence.html",
+      "url": "https://www.01net.com/actualites/chatgpt-gemini-claude-vendent-influence.html",
+      "publishedAt": "2026-04-17T20:31:20.000Z",
+      "date": "2026-04-17T20:31:20.000Z",
+      "description": "Les cinq modèles testés incluent GPT-5.2, Claude Opus 4.5, Gemini 3 Pro, DeepSeek v3.2 et Qwen3 235b. Aucun des systèmes grand public n'a résisté au...",
+      "excerpt": "Les cinq modèles testés incluent GPT-5.2, Claude Opus 4.5, Gemini 3 Pro, DeepSeek v3.2 et Qwen3 235b. Aucun des systèmes grand public n'a résisté au...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "GPT-Rosalind: OpenAI présente son IA pour la recherche et la biologie - KultureGeek",
+      "link": "https://kulturegeek.fr/news-350880/gpt-rosalind-openai-presente-ia-recherche-biologie",
+      "url": "https://kulturegeek.fr/news-350880/gpt-rosalind-openai-presente-ia-recherche-biologie",
+      "publishedAt": "2026-04-17T19:06:44.000Z",
+      "date": "2026-04-17T19:06:44.000Z",
+      "description": "Il constitue le premier volet d'une série de modèles sciences de la vie qu'OpenAI entend développer. ChatGPT Logo. Un modèle taillé pour les travaux...",
+      "excerpt": "Il constitue le premier volet d'une série de modèles sciences de la vie qu'OpenAI entend développer. ChatGPT Logo. Un modèle taillé pour les travaux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT va vous proposer de télécharger une photo de votre visage, mais pour faire quoi?",
       "link": "https://www.01net.com/actualites/chatgpt-va-vous-proposer-de-telecharger-une-photo-de-votre-visage-mais-pour-faire-quoi.html",
@@ -27,16 +57,6 @@
       "date": "2026-04-17T14:59:42.000Z",
       "description": "... Cybersécurité · ChatGPT · OpenAI · Banques. Dans l'actualité. États-Unis · Pape Léon XIV · Iran · Israël · Liban. À l'international. Algérie...",
       "excerpt": "... Cybersécurité · ChatGPT · OpenAI · Banques. Dans l'actualité. États-Unis · Pape Léon XIV · Iran · Israël · Liban. À l'international. Algérie...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT, Gemini et Claude seraient meilleurs que les pubs pour vendre un produit - 01net.com",
-      "link": "https://www.01net.com/actualites/chatgpt-gemini-claude-vendent-influence.html",
-      "url": "https://www.01net.com/actualites/chatgpt-gemini-claude-vendent-influence.html",
-      "publishedAt": "2026-04-17T14:39:55.000Z",
-      "date": "2026-04-17T14:39:55.000Z",
-      "description": "ChatGPT, Gemini et Claude seraient meilleurs que les pubs pour... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "excerpt": "ChatGPT, Gemini et Claude seraient meilleurs que les pubs pour... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -107,26 +127,6 @@
       "date": "2026-04-17T12:00:39.000Z",
       "description": "Une semaine après l'offensive d'Anthropic sur la cybersécurité, OpenAI dévoile GPT-5.4-Cyber, un modèle réservé à des utilisateurs vérifiés.",
       "excerpt": "Une semaine après l'offensive d'Anthropic sur la cybersécurité, OpenAI dévoile GPT-5.4-Cyber, un modèle réservé à des utilisateurs vérifiés.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT 5.4 Cyber assouplit les restrictions sur les questions de cybersécurité pour... - Facebook",
-      "link": "https://www.facebook.com/fr.euronews/posts/chatgpt-54-cyber-assouplit-les-restrictions-sur-les-questions-de-cybers%C3%A9curit%C3%A9-p/1423096099856480/",
-      "url": "https://www.facebook.com/fr.euronews/posts/chatgpt-54-cyber-assouplit-les-restrictions-sur-les-questions-de-cybers%C3%A9curit%C3%A9-p/1423096099856480/",
-      "publishedAt": "2026-04-17T02:54:20.000Z",
-      "date": "2026-04-17T02:54:20.000Z",
-      "description": "ChatGPT 5.4 Cyber assouplit les restrictions sur les questions de cybersécurité pour les professionnels vérifiés.",
-      "excerpt": "ChatGPT 5.4 Cyber assouplit les restrictions sur les questions de cybersécurité pour les professionnels vérifiés.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance le modèle d'IA GPT-5.4 Cyber dédié à la cybersécurité - Business AM - FR",
-      "link": "https://fr.businessam.be/openai-lance-le-modele-dia-gpt-5-4-cyber-dedie-a-la-cybersecurite/",
-      "url": "https://fr.businessam.be/openai-lance-le-modele-dia-gpt-5-4-cyber-dedie-a-la-cybersecurite/",
-      "publishedAt": "2026-04-16T21:04:01.000Z",
-      "date": "2026-04-16T21:04:01.000Z",
-      "description": "GPT 5.4 Cyber d'OpenAI permet aux professionnels autorisés de renforcer la cybersécurité en exploitant une version modifiée du modèle GPT 5.4.",
-      "excerpt": "GPT 5.4 Cyber d'OpenAI permet aux professionnels autorisés de renforcer la cybersécurité en exploitant une version modifiée du modèle GPT 5.4.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
