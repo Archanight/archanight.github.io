@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T01:45:55.820Z",
+  "generatedAt": "2026-04-21T07:22:22.425Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Anthropic expose les risques de son modèle d'IA Mythos - Léman Bleu",
+      "link": "https://www.lemanbleu.ch/fr/Actualite/Economie/Anthropic-expose-les-risques-de-son-modele-d-IA-Mythos.html",
+      "url": "https://www.lemanbleu.ch/fr/Actualite/Economie/Anthropic-expose-les-risques-de-son-modele-d-IA-Mythos.html",
+      "publishedAt": "2026-04-21T00:55:08.000Z",
+      "date": "2026-04-21T00:55:08.000Z",
+      "description": "... cybersécurité font craindre un basculement pour les États et les entreprises... ChatGPT. D'autant plus que ces annonces surviennent au moment...",
+      "excerpt": "... cybersécurité font craindre un basculement pour les États et les entreprises... ChatGPT. D'autant plus que ces annonces surviennent au moment...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude vs ChatGPT vs Gemini — lequel pour le contenu IA 2026 #shorts - YouTube",
+      "link": "https://www.youtube.com/watch?v=ysLpXyru4-4",
+      "url": "https://www.youtube.com/watch?v=ysLpXyru4-4",
+      "publishedAt": "2026-04-20T22:57:50.000Z",
+      "date": "2026-04-20T22:57:50.000Z",
+      "description": "... ChatGPT #Gemini #OutilsIA #ContentCreator #NovaProfit #IA #... BREAKING UPDATE on Supreme Court justice STEPPING DOWN. Brian Tyler...",
+      "excerpt": "... ChatGPT #Gemini #OutilsIA #ContentCreator #NovaProfit #IA #... BREAKING UPDATE on Supreme Court justice STEPPING DOWN. Brian Tyler...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Applications d'achat et de reprise de smartphone sur ChatGPT avec Recommerce",
       "link": "https://www.larevuedudigital.com/recommerce-lance-ses-applications-dachat-et-de-reprise-de-smartphone-sur-chatgpt/",
@@ -100,33 +120,13 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "ChatGPT et Claude en panne: que s'est-il réellement passé? - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/chatgpt-et-claude-en-panne-que-sest-il-reellement-passe",
-      "url": "https://www.lebigdata.fr/chatgpt-et-claude-en-panne-que-sest-il-reellement-passe",
-      "publishedAt": "2026-04-20T16:18:46.000Z",
-      "date": "2026-04-20T16:18:46.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT et Claude en panne: que s'est-il réellement passé? Tinah F...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT et Claude en panne: que s'est-il réellement passé? Tinah F...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT et Claude sont en panne, la faute de Cloudflare? - Les Numériques",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-et-claude-sont-en-panne-la-faute-de-cloudflare-n254625.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-et-claude-sont-en-panne-la-faute-de-cloudflare-n254625.html",
-      "publishedAt": "2026-04-20T15:24:45.000Z",
-      "date": "2026-04-20T15:24:45.000Z",
-      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Antoine Roche... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
-      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter. Antoine Roche... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Kindle Scribe: les formes intelligentes de la nouvelle mise à jour | Android MT",
-      "link": "https://android-mt.ouest-france.fr/news/android/kindle-scribe-les-formes-intelligentes-de-la-nouvelle-mise-a-jour/199641/",
-      "url": "https://android-mt.ouest-france.fr/news/android/kindle-scribe-les-formes-intelligentes-de-la-nouvelle-mise-a-jour/199641/",
-      "publishedAt": "2026-04-20T12:12:51.000Z",
-      "date": "2026-04-20T12:12:51.000Z",
-      "description": "Les notes de version de la mise à jour 5.19.3.0.1 se concentrent... Navigateur-Opera-avec- ChatGPT -et-Claude · Opera Browser...",
-      "excerpt": "Les notes de version de la mise à jour 5.19.3.0.1 se concentrent... Navigateur-Opera-avec- ChatGPT -et-Claude · Opera Browser...",
+      "title": "\"Google ranking index(TG:e10838).yrt\" - Results on X | Live Posts & Updates",
+      "link": "https://x.com/search?src=video&q=Google%20ranking%20index%28TG%3Ae10838%29.yrt",
+      "url": "https://x.com/search?src=video&q=Google%20ranking%20index%28TG%3Ae10838%29.yrt",
+      "publishedAt": "2026-04-20T18:09:54.000Z",
+      "date": "2026-04-20T18:09:54.000Z",
+      "description": "New resource: Google Search Algorithm & AI Search Update... ChatGPT doesn't reveal what search engine it uses, but it is...",
+      "excerpt": "New resource: Google Search Algorithm & AI Search Update... ChatGPT doesn't reveal what search engine it uses, but it is...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
