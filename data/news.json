@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T07:22:22.425Z",
+  "generatedAt": "2026-04-21T13:02:15.309Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Moonshot AI lance Kimi k2.6 qui rivalise avec GPT-5.4 et Claude Opus 4.6 | JDW",
+      "link": "https://www.journalduweb.org/moonshot-ai-lance-kimi-k2-6-qui-rivalise-avec-gpt-5-4-et-claude-opus-4-6/",
+      "url": "https://www.journalduweb.org/moonshot-ai-lance-kimi-k2-6-qui-rivalise-avec-gpt-5-4-et-claude-opus-4-6/",
+      "publishedAt": "2026-04-21T09:38:45.000Z",
+      "date": "2026-04-21T09:38:45.000Z",
+      "description": "Gemini 3 de Google, la riposte attendue à ChatGPT 5, pourrait débarquer dès le 22 octobre... Informatique & Cybersécurité. Qui sommes nous? Le...",
+      "excerpt": "Gemini 3 de Google, la riposte attendue à ChatGPT 5, pourrait débarquer dès le 22 octobre... Informatique & Cybersécurité. Qui sommes nous? Le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Anthropic expose les risques de son modèle d'IA Mythos - Léman Bleu",
       "link": "https://www.lemanbleu.ch/fr/Actualite/Economie/Anthropic-expose-les-risques-de-son-modele-d-IA-Mythos.html",
@@ -118,16 +128,6 @@
       "description": "ChatGPT en panne: l'outil IA ne répond plus, Gemini, Copilot et... Qu'est-ce que GPT-5.4-Cyber, la nouvelle IA d'OpenAI pour la cybersécurité?",
       "excerpt": "ChatGPT en panne: l'outil IA ne répond plus, Gemini, Copilot et... Qu'est-ce que GPT-5.4-Cyber, la nouvelle IA d'OpenAI pour la cybersécurité?",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "\"Google ranking index(TG:e10838).yrt\" - Results on X | Live Posts & Updates",
-      "link": "https://x.com/search?src=video&q=Google%20ranking%20index%28TG%3Ae10838%29.yrt",
-      "url": "https://x.com/search?src=video&q=Google%20ranking%20index%28TG%3Ae10838%29.yrt",
-      "publishedAt": "2026-04-20T18:09:54.000Z",
-      "date": "2026-04-20T18:09:54.000Z",
-      "description": "New resource: Google Search Algorithm & AI Search Update... ChatGPT doesn't reveal what search engine it uses, but it is...",
-      "excerpt": "New resource: Google Search Algorithm & AI Search Update... ChatGPT doesn't reveal what search engine it uses, but it is...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
