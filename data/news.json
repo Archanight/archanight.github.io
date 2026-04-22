@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T18:58:35.296Z",
+  "generatedAt": "2026-04-22T01:44:50.329Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "La Floride lance une enquête criminelle contre OpenAI et ChatGPT suite à une fusillade meurtrière",
+      "link": "https://www.zonebourse.com/actualite-bourse/la-floride-lance-une-enquete-criminelle-contre-openai-et-chatgpt-suite-a-une-fusillade-meurtriere-ce7f59dbd18df225",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-floride-lance-une-enquete-criminelle-contre-openai-et-chatgpt-suite-a-une-fusillade-meurtriere-ce7f59dbd18df225",
+      "publishedAt": "2026-04-21T22:59:23.000Z",
+      "date": "2026-04-21T22:59:23.000Z",
+      "description": "... ChatGPT, en lien avec une... -Le 22 avril 2026 à 00:46 - Zonebourse.... Cybersécurité · Impression 3D · Les Oligopoles · Jeux vidéo et eSport · Affreux...",
+      "excerpt": "... ChatGPT, en lien avec une... -Le 22 avril 2026 à 00:46 - Zonebourse.... Cybersécurité · Impression 3D · Les Oligopoles · Jeux vidéo et eSport · Affreux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le Tech Flash: Amazon mise cinq milliards de dollars de plus sur Anthropic par Léa Benaim - 21/04",
+      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-amazon-mise-cinq-milliards-de-dollars-de-plus-sur-anthropic-par-lea-benaim-21-04-CNT000002oNtrd.html",
+      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-amazon-mise-cinq-milliards-de-dollars-de-plus-sur-anthropic-par-lea-benaim-21-04-CNT000002oNtrd.html",
+      "publishedAt": "2026-04-21T21:03:37.000Z",
+      "date": "2026-04-21T21:03:37.000Z",
+      "description": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact... Tous publics. Le Tech Flash: OpenAI renonce à l'achat direct via ChatGPT,...",
+      "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact... Tous publics. Le Tech Flash: OpenAI renonce à l'achat direct via ChatGPT,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI revient en force dans la génération d'images avec ChatGPT Images 2.0 et s'attaque...",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/openai-revient-en-force-dans-la-generation-dimages-avec-chatgpt-images-20-et-sattaque-aux-marches-du-marketing-et-de-la-communication.X4DT4SCUOVDJHLG5TBGPZ6OAP4.html",
+      "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/openai-revient-en-force-dans-la-generation-dimages-avec-chatgpt-images-20-et-sattaque-aux-marches-du-marketing-et-de-la-communication.X4DT4SCUOVDJHLG5TBGPZ6OAP4.html",
+      "publishedAt": "2026-04-21T20:57:27.000Z",
+      "date": "2026-04-21T20:57:27.000Z",
+      "description": "... ChatGPT a plus d'un tour dans son sac. ChatGPT Images 2.0 est là... Cybersécurité: OpenAI emboîte le pas d'Anthropic et déploie GPT-5.4...",
+      "excerpt": "... ChatGPT a plus d'un tour dans son sac. ChatGPT Images 2.0 est là... Cybersécurité: OpenAI emboîte le pas d'Anthropic et déploie GPT-5.4...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Enquête criminelle en Floride sur ChatGPT et des conversations avant une attaque mortelle",
+      "link": "https://actu.orange.fr/societe/high-tech/enquete-criminelle-en-floride-sur-chatgpt-et-des-conversations-avant-une-attaque-mortelle-CNT000002oNt1O.html",
+      "url": "https://actu.orange.fr/societe/high-tech/enquete-criminelle-en-floride-sur-chatgpt-et-des-conversations-avant-une-attaque-mortelle-CNT000002oNt1O.html",
+      "publishedAt": "2026-04-21T19:55:41.000Z",
+      "date": "2026-04-21T19:55:41.000Z",
+      "description": "Le procureur de Floride James Uthmeier a annoncé mardi l'ouverture d'une enquête criminelle sur OpenAI et ChatGPT... Cybersécurité et Télésurveillance.",
+      "excerpt": "Le procureur de Floride James Uthmeier a annoncé mardi l'ouverture d'une enquête criminelle sur OpenAI et ChatGPT... Cybersécurité et Télésurveillance.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Fusillade en Floride: OpenAI fait face à une procédure pénale après que des conversations... - BFM",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/fusillade-en-floride-open-ai-fait-face-a-une-procedure-penale-apres-que-des-conversations-entre-chat-gpt-et-le-tireur-ont-montre-que-l-ia-avait-conseille-le-futur-meurtrier_AN-202604210817.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/fusillade-en-floride-open-ai-fait-face-a-une-procedure-penale-apres-que-des-conversations-entre-chat-gpt-et-le-tireur-ont-montre-que-l-ia-avait-conseille-le-futur-meurtrier_AN-202604210817.html",
+      "publishedAt": "2026-04-21T19:16:54.000Z",
+      "date": "2026-04-21T19:16:54.000Z",
+      "description": "Cybersécurité... Fusillade en Floride: OpenAI fait face à une procédure pénale après que des conversations entre ChatGPT et le tireur ont montré que l'...",
+      "excerpt": "Cybersécurité... Fusillade en Floride: OpenAI fait face à une procédure pénale après que des conversations entre ChatGPT et le tireur ont montré que l'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Un ingénieur à la tête d'Apple: le dernier pari fou de Tim Cook - Orange Actu",
       "link": "https://actu.orange.fr/videos/high-tech/un-ingenieur-a-la-tete-d-apple-le-dernier-pari-fou-de-tim-cook-CNT000002oNqCl.html",
@@ -78,56 +128,6 @@
       "description": "Outre la correction d'une multitude de failles de sécurité, le dernier Patch Tuesday affichera l'état de votre Secure Boot afin de vous garantir...",
       "excerpt": "Outre la correction d'une multitude de failles de sécurité, le dernier Patch Tuesday affichera l'état de votre Secure Boot afin de vous garantir...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "GPT-Image-2 lâché dans la nature: le nouveau bond d'OpenAI va vous exploser la rétine",
-      "link": "https://www.lebigdata.fr/gpt-image-2-lache-dans-la-nature-le-nouveau-bond-dopenai-va-vous-exploser-la-retine",
-      "url": "https://www.lebigdata.fr/gpt-image-2-lache-dans-la-nature-le-nouveau-bond-dopenai-va-vous-exploser-la-retine",
-      "publishedAt": "2026-04-21T14:13:52.000Z",
-      "date": "2026-04-21T14:13:52.000Z",
-      "description": "OpenAI frappe fort! Découvrez GPT-Image-2, le nouveau modèle de ChatGPT lâché par surprise. Texte parfait, grilles 10x10 et réalisme fou: le...",
-      "excerpt": "OpenAI frappe fort! Découvrez GPT-Image-2, le nouveau modèle de ChatGPT lâché par surprise. Texte parfait, grilles 10x10 et réalisme fou: le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Future of Work: Avec son intégration à ChatGPT, Dropbox accélère la convergence entre IA...",
-      "link": "https://www.usine-digitale.fr/logiciels-applications/productivite/future-of-work-avec-son-integration-a-chatgpt-dropbox-accelere-la-convergence-entre-ia-generative-et-outils-collaboratifs.H2GKQLXHXBHA7NIN636EOSGG34.html",
-      "url": "https://www.usine-digitale.fr/logiciels-applications/productivite/future-of-work-avec-son-integration-a-chatgpt-dropbox-accelere-la-convergence-entre-ia-generative-et-outils-collaboratifs.H2GKQLXHXBHA7NIN636EOSGG34.html",
-      "publishedAt": "2026-04-21T13:59:43.000Z",
-      "date": "2026-04-21T13:59:43.000Z",
-      "description": "Cybersécurité · Big Tech · Robotique · Cloud. Se connecter. Rechercher. Accueil... Future of Work: Avec son intégration à ChatGPT, Dropbox accélère la...",
-      "excerpt": "Cybersécurité · Big Tech · Robotique · Cloud. Se connecter. Rechercher. Accueil... Future of Work: Avec son intégration à ChatGPT, Dropbox accélère la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ZD Tech: Raisonnement mirage, pourquoi GPT-5 et Gemini 3 Pro inventent des... - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/zd-tech-raisonnement-mirage-pourquoi-gpt-5-et-gemini-3-pro-inventent-des-diagnostics-medicaux-493778.htm",
-      "url": "https://www.zdnet.fr/actualites/zd-tech-raisonnement-mirage-pourquoi-gpt-5-et-gemini-3-pro-inventent-des-diagnostics-medicaux-493778.htm",
-      "publishedAt": "2026-04-21T13:11:29.000Z",
-      "date": "2026-04-21T13:11:29.000Z",
-      "description": "agent IA,... ChatGPT · Gemini · IA... Stellantis signe pour 5 ans avec Microsoft dans les domaines de l'IA, de la cybersécurité et de l'ingénierie.",
-      "excerpt": "agent IA,... ChatGPT · Gemini · IA... Stellantis signe pour 5 ans avec Microsoft dans les domaines de l'IA, de la cybersécurité et de l'ingénierie.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "EDF fait monter en compétences cybersécurité ses équipes françaises - La Revue du Digital",
-      "link": "https://www.larevuedudigital.com/edf-fait-monter-en-competences-cybersecurite-ses-equipes-francaises/",
-      "url": "https://www.larevuedudigital.com/edf-fait-monter-en-competences-cybersecurite-ses-equipes-francaises/",
-      "publishedAt": "2026-04-21T11:57:44.000Z",
-      "date": "2026-04-21T11:57:44.000Z",
-      "description": "SysDream est spécialisé dans l'audit et la formation en cybersécurité et du SOC (Centre de supervision de la sécurité informatique). Salesforce démo...",
-      "excerpt": "SysDream est spécialisé dans l'audit et la formation en cybersécurité et du SOC (Centre de supervision de la sécurité informatique). Salesforce démo...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lâche un ChatGPT « plus impitoyable » et sans filtre: la cybersécurité entre dans...",
-      "link": "https://www.journalduweb.org/openai-lache-un-chatgpt-plus-impitoyable-et-sans-filtre-la-cybersecurite-entre-dans-une-nouvelle-ere-2/",
-      "url": "https://www.journalduweb.org/openai-lache-un-chatgpt-plus-impitoyable-et-sans-filtre-la-cybersecurite-entre-dans-une-nouvelle-ere-2/",
-      "publishedAt": "2026-04-21T09:59:01.000Z",
-      "date": "2026-04-21T09:59:01.000Z",
-      "description": "OpenAI vient de déployer un modèle de ChatGPT spécifiquement calibré pour la cybersécurité... GPT-5, lancé en août 2025 et présenté comme le...",
-      "excerpt": "OpenAI vient de déployer un modèle de ChatGPT spécifiquement calibré pour la cybersécurité... GPT-5, lancé en août 2025 et présenté comme le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
