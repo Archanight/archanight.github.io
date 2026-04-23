@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T07:22:41.811Z",
+  "generatedAt": "2026-04-23T13:02:59.544Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Les workspace agents d'OpenAI promettent d'automatiser les workflows directement dans ChatGPT",
+      "link": "https://www.blogdumoderateur.com/workspace-agents-openai/",
+      "url": "https://www.blogdumoderateur.com/workspace-agents-openai/",
+      "publishedAt": "2026-04-23T09:05:08.000Z",
+      "date": "2026-04-23T09:05:08.000Z",
+      "description": "Dans un communiqué publié ce mercredi 22 avril 2026, OpenAI a introduit les workspace agents dans ChatGPT, des agents alimentés par Codex...",
+      "excerpt": "Dans un communiqué publié ce mercredi 22 avril 2026, OpenAI a introduit les workspace agents dans ChatGPT, des agents alimentés par Codex...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "La fin des GPTs? OpenAI lance les Workspace Agents dans ChatGPT - Génération NT",
+      "link": "https://www.generation-nt.com/actualites/openai-chatgpt-workspace-agents-automatisation-gpt-2074527",
+      "url": "https://www.generation-nt.com/actualites/openai-chatgpt-workspace-agents-automatisation-gpt-2074527",
+      "publishedAt": "2026-04-23T08:19:35.000Z",
+      "date": "2026-04-23T08:19:35.000Z",
+      "description": "Pour le travail en équipe et l'automatisation des workflows complexes, OpenAI dévoile les Workspace Agents. Dans ChatGPT, ils sont une évolution...",
+      "excerpt": "Pour le travail en équipe et l'automatisation des workflows complexes, OpenAI dévoile les Workspace Agents. Dans ChatGPT, ils sont une évolution...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI Workspace Agents: ChatGPT devient un collègue autonome - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/366596/openai-workspace-agents-autonomie-travail-collaboratif-2026/",
+      "url": "https://www.blog-nouvelles-technologies.fr/366596/openai-workspace-agents-autonomie-travail-collaboratif-2026/",
+      "publishedAt": "2026-04-23T06:33:38.000Z",
+      "date": "2026-04-23T06:33:38.000Z",
+      "description": "ChatGPT devient un véritable assistant d'équipe: OpenAI lance les « workspace agents »... L'intelligence artificielle franchit une nouvelle étape.",
+      "excerpt": "ChatGPT devient un véritable assistant d'équipe: OpenAI lance les « workspace agents »... L'intelligence artificielle franchit une nouvelle étape.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Des pirates accèdent au modèle IA Mythos d'Anthropic, jugé trop dangereux | Euronews",
+      "link": "https://fr.euronews.com/next/2026/04/22/des-pirates-accedent-au-modele-ia-mythos-danthropic-juge-trop-dangereux",
+      "url": "https://fr.euronews.com/next/2026/04/22/des-pirates-accedent-au-modele-ia-mythos-danthropic-juge-trop-dangereux",
+      "publishedAt": "2026-04-23T06:16:38.000Z",
+      "date": "2026-04-23T06:16:38.000Z",
+      "description": "Des hackers accèdent à Mythos, l'IA d'Anthropic jugée trop sensible en cybersécurité pour être rendue publique.... ChatGPT reflète le langage abusif...",
+      "excerpt": "Des hackers accèdent à Mythos, l'IA d'Anthropic jugée trop sensible en cybersécurité pour être rendue publique.... ChatGPT reflète le langage abusif...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Microsoft renforce sa cybersécurité avec l'IA d'Anthropic - Option Finance",
+      "link": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-04-22-microsoft-renforce-sa-cybersecurite-avec-lia-danthropic.html",
+      "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-04-22-microsoft-renforce-sa-cybersecurite-avec-lia-danthropic.html",
+      "publishedAt": "2026-04-23T05:48:15.000Z",
+      "date": "2026-04-23T05:48:15.000Z",
+      "description": "Microsoft renforce sa cybersécurité avec l'IA d'Anthropic. Publié... 14:09 Marketing Wesur dévoile le premier courtier 100% agentique sur ChatGPT...",
+      "excerpt": "Microsoft renforce sa cybersécurité avec l'IA d'Anthropic. Publié... 14:09 Marketing Wesur dévoile le premier courtier 100% agentique sur ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Apple veut relancer Siri à la WWDC, avec une IA plus humaine qui rappelle enfin ChatGPT",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/apple-veut-relancer-siri-a-la-wwdc-avec-une-ia-plus-humaine-qui-rappelle-enfin-chatgpt",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/apple-veut-relancer-siri-a-la-wwdc-avec-une-ia-plus-humaine-qui-rappelle-enfin-chatgpt",
+      "publishedAt": "2026-04-23T05:23:34.000Z",
+      "date": "2026-04-23T05:23:34.000Z",
+      "description": "Il s'agit du type d'interaction auquel de nombreux utilisateurs se sont déjà habitués avec des outils comme ChatGPT. La différence tient au fait qu'...",
+      "excerpt": "Il s'agit du type d'interaction auquel de nombreux utilisateurs se sont déjà habitués avec des outils comme ChatGPT. La différence tient au fait qu'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "GPT-5.4 vs Claude Opus 4.7: le duel des titans de l'IA décrypté benchmark par benchmark",
       "link": "https://www.journalduweb.org/gpt-5-4-vs-claude-opus-4-7-le-duel-des-titans-de-lia-decrypte-benchmark-par-benchmark/",
@@ -67,66 +127,6 @@
       "date": "2026-04-22T18:25:47.000Z",
       "description": "Cybersécurité · Espace · Gadgets & smartphones · Intelligence artificielle... Fusillade en Floride: une enquête vise OpenAI et ChatGPT. Partager.",
       "excerpt": "Cybersécurité · Espace · Gadgets & smartphones · Intelligence artificielle... Fusillade en Floride: une enquête vise OpenAI et ChatGPT. Partager.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "vous avez Claude Desktop? Anthropic a installé un logiciel espion sur votre machine",
-      "link": "https://www.lesnumeriques.com/appli-logiciel/je-n-ai-rien-installe-rien-autorise-vous-avez-claude-desktop-anthropic-a-installe-un-logiciel-espion-sur-votre-machine-n254694.html",
-      "url": "https://www.lesnumeriques.com/appli-logiciel/je-n-ai-rien-installe-rien-autorise-vous-avez-claude-desktop-anthropic-a-installe-un-logiciel-espion-sur-votre-machine-n254694.html",
-      "publishedAt": "2026-04-22T18:14:03.000Z",
-      "date": "2026-04-22T18:14:03.000Z",
-      "description": "ChatGPT a aidé le tireur de la fusillade mortelle en Floride, un séisme... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "excerpt": "ChatGPT a aidé le tireur de la fusillade mortelle en Floride, un séisme... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Live Announcement SNEZHNAYAAA & Future of the World! #genshinimpact #snezhnaya",
-      "link": "https://www.youtube.com/watch?v=eSwHXhAQhbE",
-      "url": "https://www.youtube.com/watch?v=eSwHXhAQhbE",
-      "publishedAt": "2026-04-22T17:26:58.000Z",
-      "date": "2026-04-22T17:26:58.000Z",
-      "description": "Comments · IRMINSUL Burns — Celestia Can't Hide It Anymore · ÇA VA TOUT CHANGER! · Never Ask ChatGPT This · The Harry Potter Reboot Keeps Getting WORSE..",
-      "excerpt": "Comments · IRMINSUL Burns — Celestia Can't Hide It Anymore · ÇA VA TOUT CHANGER! · Never Ask ChatGPT This · The Harry Potter Reboot Keeps Getting WORSE..",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Anthropic frappe fort: Claude fait le travail des chercheurs en cybersécurité sur Firefox à...",
-      "link": "https://www.cridutroll.fr/anthropic-frappe-fort-claude-fait-le-travail-des-chercheurs-en-cybersecurite-sur-firefox-a-une-vitesse-folle/",
-      "url": "https://www.cridutroll.fr/anthropic-frappe-fort-claude-fait-le-travail-des-chercheurs-en-cybersecurite-sur-firefox-a-une-vitesse-folle/",
-      "publishedAt": "2026-04-22T17:05:17.000Z",
-      "date": "2026-04-22T17:05:17.000Z",
-      "description": "Anthropic frappe fort: Claude fait le travail des chercheurs en cybersécurité sur Firefox à une vitesse folle... ChatGPT Images 2.0 intègre un...",
-      "excerpt": "Anthropic frappe fort: Claude fait le travail des chercheurs en cybersécurité sur Firefox à une vitesse folle... ChatGPT Images 2.0 intègre un...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ces trois grandes IA partagent une faille qui permet de pirater toutes vos données",
-      "link": "https://www.journaldugeek.com/2026/04/22/ces-trois-grandes-ia-partagent-une-faille-qui-permet-de-pirater-toutes-vos-donnees/",
-      "url": "https://www.journaldugeek.com/2026/04/22/ces-trois-grandes-ia-partagent-une-faille-qui-permet-de-pirater-toutes-vos-donnees/",
-      "publishedAt": "2026-04-22T16:33:46.000Z",
-      "date": "2026-04-22T16:33:46.000Z",
-      "description": "Qu'ont les trois intelligences artificielles les plus utilisées au monde, Claude, ChatGPT et Gemini, en commun?... anthropic ChatGPT Claude cybersécurité...",
-      "excerpt": "Qu'ont les trois intelligences artificielles les plus utilisées au monde, Claude, ChatGPT et Gemini, en commun?... anthropic ChatGPT Claude cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'IA qui \"réfléchit\" avant de dessiner: découvrez le nouveau ChatGPT Images 2.0 - Clubic",
-      "link": "https://www.clubic.com/actualite-610132-l-ia-qui-reflechit-avant-de-dessiner-decouvrez-le-nouveau-chatgpt-images-2-0.html",
-      "url": "https://www.clubic.com/actualite-610132-l-ia-qui-reflechit-avant-de-dessiner-decouvrez-le-nouveau-chatgpt-images-2-0.html",
-      "publishedAt": "2026-04-22T16:22:14.000Z",
-      "date": "2026-04-22T16:22:14.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT Images 2.0. © ChatGPT / OpenAI. ChatGPT Images 2.0 fait aussi un...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT Images 2.0. © ChatGPT / OpenAI. ChatGPT Images 2.0 fait aussi un...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Test ChatGPT Images 2.0 vs. Google Nano Banana 2: le match - Numerama",
-      "link": "https://www.numerama.com/tech/2237855-on-a-compare-chatgpt-et-gemini-pour-generer-10-images-le-meilleur-nest-pas-celui-que-vous-croyez.html",
-      "url": "https://www.numerama.com/tech/2237855-on-a-compare-chatgpt-et-gemini-pour-generer-10-images-le-meilleur-nest-pas-celui-que-vous-croyez.html",
-      "publishedAt": "2026-04-22T16:02:05.000Z",
-      "date": "2026-04-22T16:02:05.000Z",
-      "description": "Avec ChatGPT Images 2.0, OpenAI prétend écraser la concurrence. Que vaut son nouveau modèle face au Nano Banana 2 de Google Gemini, considéré par...",
-      "excerpt": "Avec ChatGPT Images 2.0, OpenAI prétend écraser la concurrence. Que vaut son nouveau modèle face au Nano Banana 2 de Google Gemini, considéré par...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
