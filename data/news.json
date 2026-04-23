@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T13:02:59.544Z",
+  "generatedAt": "2026-04-23T18:56:07.609Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,106 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI lance les Workspace Agents dans ChatGPT, avec un accès gratuit jusqu'au 6 mai 2026",
+      "link": "https://www.menow.fr/openai-lance-les-workspace-agents-dans-chatgpt-avec-un-acces-gratuit-jusquau-6-mai-2026/",
+      "url": "https://www.menow.fr/openai-lance-les-workspace-agents-dans-chatgpt-avec-un-acces-gratuit-jusquau-6-mai-2026/",
+      "publishedAt": "2026-04-23T16:26:37.000Z",
+      "date": "2026-04-23T16:26:37.000Z",
+      "description": "OpenAI ouvre une nouvelle étape dans ChatGPT avec les Workspace Agents, des agents IA conçus pour les équipes et accessibles dès maintenant en...",
+      "excerpt": "OpenAI ouvre une nouvelle étape dans ChatGPT avec les Workspace Agents, des agents IA conçus pour les équipes et accessibles dès maintenant en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Workspace Agents, les GPTs d'OpenAI passent au collectif - InformatiqueNews.fr",
+      "link": "https://www.informatiquenews.fr/avec-les-workspace-agents-openai-transforme-chatgpt-en-collegue-agentique-partage-111186",
+      "url": "https://www.informatiquenews.fr/avec-les-workspace-agents-openai-transforme-chatgpt-en-collegue-agentique-partage-111186",
+      "publishedAt": "2026-04-23T15:09:30.000Z",
+      "date": "2026-04-23T15:09:30.000Z",
+      "description": "OpenAI lance des workspace agents \"Codex\" pour automatiser reporting, support et IT dans ChatGPT, avec une approche très collaborative.",
+      "excerpt": "OpenAI lance des workspace agents \"Codex\" pour automatiser reporting, support et IT dans ChatGPT, avec une approche très collaborative.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI fait évoluer son générateur d'images et en élargit les usages - ICTjournal",
+      "link": "https://www.ictjournal.ch/news/2026-04-23/openai-fait-evoluer-son-generateur-dimages-et-en-elargit-les-usages",
+      "url": "https://www.ictjournal.ch/news/2026-04-23/openai-fait-evoluer-son-generateur-dimages-et-en-elargit-les-usages",
+      "publishedAt": "2026-04-23T15:00:09.000Z",
+      "date": "2026-04-23T15:00:09.000Z",
+      "description": "... ChatGPT Images 2.0). (Source: Netzmedien / ChatGPT Images 2.0). L'éditeur... ( update ) · IA générative. OpenAI lance GPT-5.4 et une application...",
+      "excerpt": "... ChatGPT Images 2.0). (Source: Netzmedien / ChatGPT Images 2.0). L'éditeur... ( update ) · IA générative. OpenAI lance GPT-5.4 et une application...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT Workspace Agents: OpenAI révolutionne le travail d'équipe? - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/chatgpt-workspace-agents-openai-revolutionne-le-travail-dequipe",
+      "url": "https://www.lebigdata.fr/chatgpt-workspace-agents-openai-revolutionne-le-travail-dequipe",
+      "publishedAt": "2026-04-23T14:20:04.000Z",
+      "date": "2026-04-23T14:20:04.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT Workspace Agents: OpenAI révolutionne le travail d'équipe?",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT Workspace Agents: OpenAI révolutionne le travail d'équipe?",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Chez Meta, chaque clic des salariés pourrait déjà servir à entraîner l'IA qui fera leur travail demain",
+      "link": "https://global.techradar.com/fr-fr/pro/chez-meta-chaque-clic-des-salaries-pourrait-deja-servir-a-entrainer-lia-qui-fera-leur-travail-demain",
+      "url": "https://global.techradar.com/fr-fr/pro/chez-meta-chaque-clic-des-salaries-pourrait-deja-servir-a-entrainer-lia-qui-fera-leur-travail-demain",
+      "publishedAt": "2026-04-23T13:58:50.000Z",
+      "date": "2026-04-23T13:58:50.000Z",
+      "description": "... ChatGPT · ChatGPT images 2.0. ChatGPT ChatGPT Images 2.0 pourrait bien être le tournant que la génération d'images par IA attendait depuis longtemps.",
+      "excerpt": "... ChatGPT · ChatGPT images 2.0. ChatGPT ChatGPT Images 2.0 pourrait bien être le tournant que la génération d'images par IA attendait depuis longtemps.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Excel & Google Sheets: Fin des formules, ChatGPT débarque et fait tout le job - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/excel-google-sheets-fin-des-formules-chatgpt-debarque-et-fait-tout-le-job",
+      "url": "https://www.lebigdata.fr/excel-google-sheets-fin-des-formules-chatgpt-debarque-et-fait-tout-le-job",
+      "publishedAt": "2026-04-23T13:31:28.000Z",
+      "date": "2026-04-23T13:31:28.000Z",
+      "description": "ChatGPT Sidebar arrive sur Excel et Google Sheets: installation... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
+      "excerpt": "ChatGPT Sidebar arrive sur Excel et Google Sheets: installation... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI bascule de chatbot à travailleur autonome, et Google a tout à perdre - Clubic",
+      "link": "https://www.clubic.com/actualite-610342-openai-bascule-de-chatbot-a-travailleur-autonome-et-google-a-tout-a-perdre.html",
+      "url": "https://www.clubic.com/actualite-610342-openai-bascule-de-chatbot-a-travailleur-autonome-et-google-a-tout-a-perdre.html",
+      "publishedAt": "2026-04-23T13:24:08.000Z",
+      "date": "2026-04-23T13:24:08.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT ne répond plus, il travaille. Avec les Workspace Agents, OpenAI...",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT ne répond plus, il travaille. Avec les Workspace Agents, OpenAI...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Piratage d'un service public clé en France, jusqu'à 19 millions de données auraient été dérobées",
+      "link": "https://global.techradar.com/fr-fr/pro/security/piratage-dun-service-public-cle-en-france-jusqua-19-millions-de-donnees-auraient-ete-derobees",
+      "url": "https://global.techradar.com/fr-fr/pro/security/piratage-dun-service-public-cle-en-france-jusqua-19-millions-de-donnees-auraient-ete-derobees",
+      "publishedAt": "2026-04-23T13:18:21.000Z",
+      "date": "2026-04-23T13:18:21.000Z",
+      "description": "... cybersécurité. Les personnes concernées ont déjà été... Apple veut relancer Siri à la WWDC, avec une IA plus humaine qui rappelle enfin ChatGPT.",
+      "excerpt": "... cybersécurité. Les personnes concernées ont déjà été... Apple veut relancer Siri à la WWDC, avec une IA plus humaine qui rappelle enfin ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance les publicités au coût par clic (CPC) dans ChatGPT - Abondance",
+      "link": "https://www.abondance.com/20260423-2195011-openai-lance-publicites-cout-par-clic-cpc-chatgpt.html",
+      "url": "https://www.abondance.com/20260423-2195011-openai-lance-publicites-cout-par-clic-cpc-chatgpt.html",
+      "publishedAt": "2026-04-23T12:54:10.000Z",
+      "date": "2026-04-23T12:54:10.000Z",
+      "description": "Le modèle CPC permet aux annonceurs de comparer directement les performances de ChatGPT à celles d'autres plateformes comme Google Search. OpenAI...",
+      "excerpt": "Le modèle CPC permet aux annonceurs de comparer directement les performances de ChatGPT à celles d'autres plateformes comme Google Search. OpenAI...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Un modèle chinois coiffe Claude et GPT-5.4 au poteau sur le codage, une bascule pour l'IA ouverte?",
+      "link": "https://www.clubic.com/actualite-610279-un-modele-chinois-coiffe-claude-et-gpt-5-4-au-poteau-sur-le-codage-une-bascule-pour-l-ia-ouverte.html",
+      "url": "https://www.clubic.com/actualite-610279-un-modele-chinois-coiffe-claude-et-gpt-5-4-au-poteau-sur-le-codage-une-bascule-pour-l-ia-ouverte.html",
+      "publishedAt": "2026-04-23T12:38:59.000Z",
+      "date": "2026-04-23T12:38:59.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN gratuit... OpenAI dévoile o3 et o4-mini: une révolution...",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN gratuit... OpenAI dévoile o3 et o4-mini: une révolution...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Les workspace agents d'OpenAI promettent d'automatiser les workflows directement dans ChatGPT",
       "link": "https://www.blogdumoderateur.com/workspace-agents-openai/",
@@ -28,106 +128,6 @@
       "description": "Pour le travail en équipe et l'automatisation des workflows complexes, OpenAI dévoile les Workspace Agents. Dans ChatGPT, ils sont une évolution...",
       "excerpt": "Pour le travail en équipe et l'automatisation des workflows complexes, OpenAI dévoile les Workspace Agents. Dans ChatGPT, ils sont une évolution...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI Workspace Agents: ChatGPT devient un collègue autonome - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/366596/openai-workspace-agents-autonomie-travail-collaboratif-2026/",
-      "url": "https://www.blog-nouvelles-technologies.fr/366596/openai-workspace-agents-autonomie-travail-collaboratif-2026/",
-      "publishedAt": "2026-04-23T06:33:38.000Z",
-      "date": "2026-04-23T06:33:38.000Z",
-      "description": "ChatGPT devient un véritable assistant d'équipe: OpenAI lance les « workspace agents »... L'intelligence artificielle franchit une nouvelle étape.",
-      "excerpt": "ChatGPT devient un véritable assistant d'équipe: OpenAI lance les « workspace agents »... L'intelligence artificielle franchit une nouvelle étape.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Des pirates accèdent au modèle IA Mythos d'Anthropic, jugé trop dangereux | Euronews",
-      "link": "https://fr.euronews.com/next/2026/04/22/des-pirates-accedent-au-modele-ia-mythos-danthropic-juge-trop-dangereux",
-      "url": "https://fr.euronews.com/next/2026/04/22/des-pirates-accedent-au-modele-ia-mythos-danthropic-juge-trop-dangereux",
-      "publishedAt": "2026-04-23T06:16:38.000Z",
-      "date": "2026-04-23T06:16:38.000Z",
-      "description": "Des hackers accèdent à Mythos, l'IA d'Anthropic jugée trop sensible en cybersécurité pour être rendue publique.... ChatGPT reflète le langage abusif...",
-      "excerpt": "Des hackers accèdent à Mythos, l'IA d'Anthropic jugée trop sensible en cybersécurité pour être rendue publique.... ChatGPT reflète le langage abusif...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Microsoft renforce sa cybersécurité avec l'IA d'Anthropic - Option Finance",
-      "link": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-04-22-microsoft-renforce-sa-cybersecurite-avec-lia-danthropic.html",
-      "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-04-22-microsoft-renforce-sa-cybersecurite-avec-lia-danthropic.html",
-      "publishedAt": "2026-04-23T05:48:15.000Z",
-      "date": "2026-04-23T05:48:15.000Z",
-      "description": "Microsoft renforce sa cybersécurité avec l'IA d'Anthropic. Publié... 14:09 Marketing Wesur dévoile le premier courtier 100% agentique sur ChatGPT...",
-      "excerpt": "Microsoft renforce sa cybersécurité avec l'IA d'Anthropic. Publié... 14:09 Marketing Wesur dévoile le premier courtier 100% agentique sur ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Apple veut relancer Siri à la WWDC, avec une IA plus humaine qui rappelle enfin ChatGPT",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/apple-veut-relancer-siri-a-la-wwdc-avec-une-ia-plus-humaine-qui-rappelle-enfin-chatgpt",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/apple-veut-relancer-siri-a-la-wwdc-avec-une-ia-plus-humaine-qui-rappelle-enfin-chatgpt",
-      "publishedAt": "2026-04-23T05:23:34.000Z",
-      "date": "2026-04-23T05:23:34.000Z",
-      "description": "Il s'agit du type d'interaction auquel de nombreux utilisateurs se sont déjà habitués avec des outils comme ChatGPT. La différence tient au fait qu'...",
-      "excerpt": "Il s'agit du type d'interaction auquel de nombreux utilisateurs se sont déjà habitués avec des outils comme ChatGPT. La différence tient au fait qu'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "GPT-5.4 vs Claude Opus 4.7: le duel des titans de l'IA décrypté benchmark par benchmark",
-      "link": "https://www.journalduweb.org/gpt-5-4-vs-claude-opus-4-7-le-duel-des-titans-de-lia-decrypte-benchmark-par-benchmark/",
-      "url": "https://www.journalduweb.org/gpt-5-4-vs-claude-opus-4-7-le-duel-des-titans-de-lia-decrypte-benchmark-par-benchmark/",
-      "publishedAt": "2026-04-22T22:18:34.000Z",
-      "date": "2026-04-22T22:18:34.000Z",
-      "description": "GPT-5 · Tech & Innovations · GPT-5: après la hype et l'immense attente, la... OpenAI lâche un ChatGPT « plus impitoyable » et sans filtre: la...",
-      "excerpt": "GPT-5 · Tech & Innovations · GPT-5: après la hype et l'immense attente, la... OpenAI lâche un ChatGPT « plus impitoyable » et sans filtre: la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Open IA lance ChatGPT Image 2.0 pour concurrencer Nano Banana - Les Numériques",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/open-ia-lance-chatgpt-image-2-0-pour-concurrencer-nano-banana-n254731.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/open-ia-lance-chatgpt-image-2-0-pour-concurrencer-nano-banana-n254731.html",
-      "publishedAt": "2026-04-22T21:22:37.000Z",
-      "date": "2026-04-22T21:22:37.000Z",
-      "description": "OpenAI dévoile ChatGPT Images 2.0, une mise à jour majeure de son outil de génération d... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: «...",
-      "excerpt": "OpenAI dévoile ChatGPT Images 2.0, une mise à jour majeure de son outil de génération d... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: «...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Des pirates avec la force de frappe d'un État: à l'aide de Claude et ChatGPT, un groupe de...",
-      "link": "https://www.science-et-vie.com/technos-et-futur/des-pirates-avec-la-force-de-frappe-dun-etat-a-laide-de-claude-et-chatgpt-un-groupe-de-hackers-a-realise-un-braquage-massif-de-donnees-gouvernementales-au-mexique-236960.html",
-      "url": "https://www.science-et-vie.com/technos-et-futur/des-pirates-avec-la-force-de-frappe-dun-etat-a-laide-de-claude-et-chatgpt-un-groupe-de-hackers-a-realise-un-braquage-massif-de-donnees-gouvernementales-au-mexique-236960.html",
-      "publishedAt": "2026-04-22T21:15:14.000Z",
-      "date": "2026-04-22T21:15:14.000Z",
-      "description": "Comment la cyberattaque IA au Mexique a exploité Claude et ChatGPT · Ce que cette attaque change pour la cybersécurité des États.",
-      "excerpt": "Comment la cyberattaque IA au Mexique a exploité Claude et ChatGPT · Ce que cette attaque change pour la cybersécurité des États.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un logiciel de suivi des frappes clavier irrite les employés de Meta - La Revue du Digital",
-      "link": "https://www.larevuedudigital.com/un-logiciel-de-suivi-des-frappes-clavier-irrite-les-employes-de-meta/",
-      "url": "https://www.larevuedudigital.com/un-logiciel-de-suivi-des-frappes-clavier-irrite-les-employes-de-meta/",
-      "publishedAt": "2026-04-22T20:47:49.000Z",
-      "date": "2026-04-22T20:47:49.000Z",
-      "description": "... Applications d'achat et de reprise de... cybersécurité · Evènement, fil d'actualité · Elon Musk s'associe à la...",
-      "excerpt": "... Applications d'achat et de reprise de... cybersécurité · Evènement, fil d'actualité · Elon Musk s'associe à la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI launches ChatGPT Images 2.0 with major design upgrade - La Nouvelle Tribune",
-      "link": "https://lnt.ma/openai-launches-chatgpt-images-2-0-with-major-design-upgrade/",
-      "url": "https://lnt.ma/openai-launches-chatgpt-images-2-0-with-major-design-upgrade/",
-      "publishedAt": "2026-04-22T19:46:42.000Z",
-      "date": "2026-04-22T19:46:42.000Z",
-      "description": "OpenAI unveils ChatGPT Images 2.0, a new update improving text generation inside turning ChatGPT into an interactive design studio.",
-      "excerpt": "OpenAI unveils ChatGPT Images 2.0, a new update improving text generation inside turning ChatGPT into an interactive design studio.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Fusillade en Floride: une enquête vise OpenAI et ChatGPT – Monde - Entrevue",
-      "link": "https://entrevue.fr/monde/fusillade-en-floride-une-enquete-vise-openai-et-chatgpt/",
-      "url": "https://entrevue.fr/monde/fusillade-en-floride-une-enquete-vise-openai-et-chatgpt/",
-      "publishedAt": "2026-04-22T18:25:47.000Z",
-      "date": "2026-04-22T18:25:47.000Z",
-      "description": "Cybersécurité · Espace · Gadgets & smartphones · Intelligence artificielle... Fusillade en Floride: une enquête vise OpenAI et ChatGPT. Partager.",
-      "excerpt": "Cybersécurité · Espace · Gadgets & smartphones · Intelligence artificielle... Fusillade en Floride: une enquête vise OpenAI et ChatGPT. Partager.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
