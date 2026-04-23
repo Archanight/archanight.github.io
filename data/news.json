@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T01:49:18.321Z",
+  "generatedAt": "2026-04-23T07:22:41.811Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-5.4 vs Claude Opus 4.7: le duel des titans de l'IA décrypté benchmark par benchmark",
+      "link": "https://www.journalduweb.org/gpt-5-4-vs-claude-opus-4-7-le-duel-des-titans-de-lia-decrypte-benchmark-par-benchmark/",
+      "url": "https://www.journalduweb.org/gpt-5-4-vs-claude-opus-4-7-le-duel-des-titans-de-lia-decrypte-benchmark-par-benchmark/",
+      "publishedAt": "2026-04-22T22:18:34.000Z",
+      "date": "2026-04-22T22:18:34.000Z",
+      "description": "GPT-5 · Tech & Innovations · GPT-5: après la hype et l'immense attente, la... OpenAI lâche un ChatGPT « plus impitoyable » et sans filtre: la...",
+      "excerpt": "GPT-5 · Tech & Innovations · GPT-5: après la hype et l'immense attente, la... OpenAI lâche un ChatGPT « plus impitoyable » et sans filtre: la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Open IA lance ChatGPT Image 2.0 pour concurrencer Nano Banana - Les Numériques",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/open-ia-lance-chatgpt-image-2-0-pour-concurrencer-nano-banana-n254731.html",
@@ -117,16 +127,6 @@
       "date": "2026-04-22T16:02:05.000Z",
       "description": "Avec ChatGPT Images 2.0, OpenAI prétend écraser la concurrence. Que vaut son nouveau modèle face au Nano Banana 2 de Google Gemini, considéré par...",
       "excerpt": "Avec ChatGPT Images 2.0, OpenAI prétend écraser la concurrence. Que vaut son nouveau modèle face au Nano Banana 2 de Google Gemini, considéré par...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Publicités ChatGPT: OpenAI change totalement de business model - Leptidigital",
-      "link": "https://www.leptidigital.fr/webmarketing/publicites-chatgpt-openai-change-business-model-89531/",
-      "url": "https://www.leptidigital.fr/webmarketing/publicites-chatgpt-openai-change-business-model-89531/",
-      "publishedAt": "2026-04-22T15:48:54.000Z",
-      "date": "2026-04-22T15:48:54.000Z",
-      "description": "Qu'est-ce qui change concrètement pour les marketeurs et les régies? Publicités dans ChatGPT. Accès rapide (Sommaire): Toggle... cybersécurité, je...",
-      "excerpt": "Qu'est-ce qui change concrètement pour les marketeurs et les régies? Publicités dans ChatGPT. Accès rapide (Sommaire): Toggle... cybersécurité, je...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
