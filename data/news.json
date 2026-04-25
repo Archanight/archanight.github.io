@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T01:27:37.366Z",
+  "generatedAt": "2026-04-25T07:03:09.164Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,26 @@
   "failedSources": [],
   "items": [
     {
+      "title": "OpenAI dévoile GPT-5.5 et accélère son ambition de “super application”",
+      "link": "https://fr.hespress.com/471075-openai-devoile-gpt-5-5-et-accelere-son-ambition-de-super-application.html",
+      "url": "https://fr.hespress.com/471075-openai-devoile-gpt-5-5-et-accelere-son-ambition-de-super-application.html",
+      "publishedAt": "2026-04-25T01:56:49.000Z",
+      "date": "2026-04-25T01:56:49.000Z",
+      "description": "Ce projet, déjà évoqué par les dirigeants d'OpenAI, consisterait à regrouper plusieurs outils comme ChatGPT... cybersécurité ou encore la recherche...",
+      "excerpt": "Ce projet, déjà évoqué par les dirigeants d'OpenAI, consisterait à regrouper plusieurs outils comme ChatGPT... cybersécurité ou encore la recherche...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'OpenAI GPT 5.5 et 5.5 Pro sont lancés avec une prime de 25 000 - Notebookcheck",
+      "link": "https://www.notebookcheck.biz/L-OpenAI-GPT-5-5-et-5-5-Pro-sont-lances-avec-une-prime-de-25-000.1282604.0.html",
+      "url": "https://www.notebookcheck.biz/L-OpenAI-GPT-5-5-et-5-5-Pro-sont-lances-avec-une-prime-de-25-000.1282604.0.html",
+      "publishedAt": "2026-04-25T00:47:30.000Z",
+      "date": "2026-04-25T00:47:30.000Z",
+      "description": "OpenAI a dévoilé ses derniers modèles d'IA, GPT 5.5 et GPT 5.5 Pro, qui alimentent son service de chatbot ChatGPT et ses API d'IA. Les deux...",
+      "excerpt": "OpenAI a dévoilé ses derniers modèles d'IA, GPT 5.5 et GPT 5.5 Pro, qui alimentent son service de chatbot ChatGPT et ses API d'IA. Les deux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "IA: OpenAI lance son ChatGPT pour médecins plus performant que les humains",
       "link": "https://www.cointribune.com/ia-openai-lance-son-chatgpt-pour-medecins-plus-performant-que-les-humains/",
       "url": "https://www.cointribune.com/ia-openai-lance-son-chatgpt-pour-medecins-plus-performant-que-les-humains/",
@@ -17,6 +37,16 @@
       "date": "2026-04-24T23:41:38.000Z",
       "description": "ChatGPT dépasse les médecins selon OpenAI, une avancée majeure en santé, mais... par Mikaia A. S'informer ▫ Cybersécurité. Newsletter. Recevez le...",
       "excerpt": "ChatGPT dépasse les médecins selon OpenAI, une avancée majeure en santé, mais... par Mikaia A. S'informer ▫ Cybersécurité. Newsletter. Recevez le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.5 d'OpenAI: son nouveau modèle le plus intelligent et le plus intuitif | Euronews",
+      "link": "https://fr.euronews.com/next/2026/04/24/gpt-55-dopenai-son-nouveau-modele-le-plus-intelligent-et-le-plus-intuitif",
+      "url": "https://fr.euronews.com/next/2026/04/24/gpt-55-dopenai-son-nouveau-modele-le-plus-intelligent-et-le-plus-intuitif",
+      "publishedAt": "2026-04-24T23:32:25.000Z",
+      "date": "2026-04-24T23:32:25.000Z",
+      "description": "ARCHIVES - Le logo d'OpenAI, créateur de ChatGPT, apparaît sur un téléphone... cybersécurité lorsqu'il est utilisé à des fins légitimes de...",
+      "excerpt": "ARCHIVES - Le logo d'OpenAI, créateur de ChatGPT, apparaît sur un téléphone... cybersécurité lorsqu'il est utilisé à des fins légitimes de...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -97,36 +127,6 @@
       "date": "2026-04-24T15:16:25.000Z",
       "description": "Plus performant sur les tâches cognitives et la cybersécurité, le nouveau modèle d'OpenAI entend reprendre l'avantage face à Claude Opus 4.7... ChatGPT...",
       "excerpt": "Plus performant sur les tâches cognitives et la cybersécurité, le nouveau modèle d'OpenAI entend reprendre l'avantage face à Claude Opus 4.7... ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.5 débarque: ChatGPT veut redevenir l'IA que tout le monde regarde - Futura",
-      "link": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-gpt-55-debarque-chatgpt-veut-redevenir-ia-tout-monde-regarde-134003/",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-gpt-55-debarque-chatgpt-veut-redevenir-ia-tout-monde-regarde-134003/",
-      "publishedAt": "2026-04-24T15:09:38.000Z",
-      "date": "2026-04-24T15:09:38.000Z",
-      "description": "... ( cybersécurité ), et FrontierMath (mathématiques de haut niveau). Enfin... GPT-5. IA agentique. Codage. Liens externes. Introducing GPT‑5.5...",
-      "excerpt": "... ( cybersécurité ), et FrontierMath (mathématiques de haut niveau). Enfin... GPT-5. IA agentique. Codage. Liens externes. Introducing GPT‑5.5...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.5 arrive dans ChatGPT: le nouveau modèle d'OpenAI veut coder, analyser et...",
-      "link": "https://www.menow.fr/gpt-5-5-arrive-dans-chatgpt-le-nouveau-modele-dopenai-veut-coder-analyser-et-travailler-presque-seul/",
-      "url": "https://www.menow.fr/gpt-5-5-arrive-dans-chatgpt-le-nouveau-modele-dopenai-veut-coder-analyser-et-travailler-presque-seul/",
-      "publishedAt": "2026-04-24T15:06:43.000Z",
-      "date": "2026-04-24T15:06:43.000Z",
-      "description": "... ChatGPT comme dans Codex.... Dans son Preparedness Framework, l'entreprise classe les capacités biologiques/chimiques et cybersécurité du modèle au...",
-      "excerpt": "... ChatGPT comme dans Codex.... Dans son Preparedness Framework, l'entreprise classe les capacités biologiques/chimiques et cybersécurité du modèle au...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Voici ChatGPT 5.5, l'IA qui prépare l'arrivée d'un des plus grands projets d'OpenAI",
-      "link": "https://www.01net.com/actualites/chatgpt-5-5-i-prepare-arrivee-plus-grands-projets-openai.html",
-      "url": "https://www.01net.com/actualites/chatgpt-5-5-i-prepare-arrivee-plus-grands-projets-openai.html",
-      "publishedAt": "2026-04-24T15:05:44.000Z",
-      "date": "2026-04-24T15:05:44.000Z",
-      "description": "Cybersécurité · Fuite Données Dark Web. Fuite de données chez Parcoursup: la cyberattaque est passée inaperçue pendant cinq mois. Voici ChatGPT...",
-      "excerpt": "Cybersécurité · Fuite Données Dark Web. Fuite de données chez Parcoursup: la cyberattaque est passée inaperçue pendant cinq mois. Voici ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
