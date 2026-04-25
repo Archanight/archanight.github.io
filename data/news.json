@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T18:37:49.683Z",
+  "generatedAt": "2026-04-25T01:27:37.366Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "IA: OpenAI lance son ChatGPT pour médecins plus performant que les humains",
+      "link": "https://www.cointribune.com/ia-openai-lance-son-chatgpt-pour-medecins-plus-performant-que-les-humains/",
+      "url": "https://www.cointribune.com/ia-openai-lance-son-chatgpt-pour-medecins-plus-performant-que-les-humains/",
+      "publishedAt": "2026-04-24T23:41:38.000Z",
+      "date": "2026-04-24T23:41:38.000Z",
+      "description": "ChatGPT dépasse les médecins selon OpenAI, une avancée majeure en santé, mais... par Mikaia A. S'informer ▫ Cybersécurité. Newsletter. Recevez le...",
+      "excerpt": "ChatGPT dépasse les médecins selon OpenAI, une avancée majeure en santé, mais... par Mikaia A. S'informer ▫ Cybersécurité. Newsletter. Recevez le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "DeepSeek V4: l'entreprise chinoise présente sa nouvelle IA open source - Les Numériques",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/deepseek-v4-l-entreprise-chinoise-presente-sa-nouvelle-ia-open-source-n254833.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/deepseek-v4-l-entreprise-chinoise-presente-sa-nouvelle-ia-open-source-n254833.html",
+      "publishedAt": "2026-04-24T20:36:32.000Z",
+      "date": "2026-04-24T20:36:32.000Z",
+      "description": "À titre de comparaison, ChatGPT ( GPT-4o ) est autour de 2,50 $ par... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
+      "excerpt": "À titre de comparaison, ChatGPT ( GPT-4o ) est autour de 2,50 $ par... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI dégaine GPT-5.5: « son modèle le plus intelligent et le plus intuitif à ce jour",
+      "link": "https://www.frandroid.com/marques/openai/3076643_openai-degaine-gpt-5-5-son-modele-le-plus-intelligent-et-le-plus-intuitif-a-ce-jour",
+      "url": "https://www.frandroid.com/marques/openai/3076643_openai-degaine-gpt-5-5-son-modele-le-plus-intelligent-et-le-plus-intuitif-a-ce-jour",
+      "publishedAt": "2026-04-24T19:23:36.000Z",
+      "date": "2026-04-24T19:23:36.000Z",
+      "description": "GPT-5.2 est là: la réponse de ChatGPT à Google Gemini 3. image. OpenAI lance GPT-5... Processeurs ( SoC ) · TSMC prépare les puces de 2029 et...",
+      "excerpt": "GPT-5.2 est là: la réponse de ChatGPT à Google Gemini 3. image. OpenAI lance GPT-5... Processeurs ( SoC ) · TSMC prépare les puces de 2029 et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'IA explose, les réseaux sociaux résistent: état des lieux du Digital en 2026",
+      "link": "https://comarketing-news.fr/lia-explose-les-reseaux-sociaux-resistent-etat-des-lieux-du-digital-en-2026/",
+      "url": "https://comarketing-news.fr/lia-explose-les-reseaux-sociaux-resistent-etat-des-lieux-du-digital-en-2026/",
+      "publishedAt": "2026-04-24T18:42:16.000Z",
+      "date": "2026-04-24T18:42:16.000Z",
+      "description": "... ChatGPT s'intègrent dans des parcours digitaux toujours plus hybrides... Digital 2026: Mid-Year Global Update Report — We Are Social & Manochi, 2026.",
+      "excerpt": "... ChatGPT s'intègrent dans des parcours digitaux toujours plus hybrides... Digital 2026: Mid-Year Global Update Report — We Are Social & Manochi, 2026.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "GPT-5.5 d'OpenAI: son nouveau modèle le plus intelligent et le plus intuitif",
+      "link": "https://fr.news.yahoo.com/gpt-5-5-d-openai-112906579.html",
+      "url": "https://fr.news.yahoo.com/gpt-5-5-d-openai-112906579.html",
+      "publishedAt": "2026-04-24T17:56:07.000Z",
+      "date": "2026-04-24T17:56:07.000Z",
+      "description": "Le modèle est déployé à partir de jeudi auprès des utilisateurs Plus, Pro, Business et Enterprise de ChatGPT... cybersécurité lorsqu'il est...",
+      "excerpt": "Le modèle est déployé à partir de jeudi auprès des utilisateurs Plus, Pro, Business et Enterprise de ChatGPT... cybersécurité lorsqu'il est...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "SNCF Connect rejoint Accor et Blablacar dans l'écosystème ChatGPT - IT SOCIAL",
+      "link": "https://itsocial.fr/tech-digital/tech-digital-actualites/sncf-connect-rejoint-accor-et-blablacar-dans-lecosysteme-chatgpt/",
+      "url": "https://itsocial.fr/tech-digital/tech-digital-actualites/sncf-connect-rejoint-accor-et-blablacar-dans-lecosysteme-chatgpt/",
+      "publishedAt": "2026-04-24T17:02:03.000Z",
+      "date": "2026-04-24T17:02:03.000Z",
+      "description": "... ChatGPT, rejoignant Accor, Blablacar et Leboncoin.... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
+      "excerpt": "... ChatGPT, rejoignant Accor, Blablacar et Leboncoin.... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "GPT-5.5 devrait remettre OpenAI en pole position dans la course à l'IA - Trends DataNews",
       "link": "https://datanews.levif.be/actualite/innovation/ia/gpt-5-5-devrait-remettre-openai-en-pole-position-dans-la-course-a-lia/",
@@ -50,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "GPT-5.5 arrive dans ChatGPT: le nouveau modèle d'OpenAI veut coder, analyser et...",
+      "link": "https://www.menow.fr/gpt-5-5-arrive-dans-chatgpt-le-nouveau-modele-dopenai-veut-coder-analyser-et-travailler-presque-seul/",
+      "url": "https://www.menow.fr/gpt-5-5-arrive-dans-chatgpt-le-nouveau-modele-dopenai-veut-coder-analyser-et-travailler-presque-seul/",
+      "publishedAt": "2026-04-24T15:06:43.000Z",
+      "date": "2026-04-24T15:06:43.000Z",
+      "description": "... ChatGPT comme dans Codex.... Dans son Preparedness Framework, l'entreprise classe les capacités biologiques/chimiques et cybersécurité du modèle au...",
+      "excerpt": "... ChatGPT comme dans Codex.... Dans son Preparedness Framework, l'entreprise classe les capacités biologiques/chimiques et cybersécurité du modèle au...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Voici ChatGPT 5.5, l'IA qui prépare l'arrivée d'un des plus grands projets d'OpenAI",
       "link": "https://www.01net.com/actualites/chatgpt-5-5-i-prepare-arrivee-plus-grands-projets-openai.html",
       "url": "https://www.01net.com/actualites/chatgpt-5-5-i-prepare-arrivee-plus-grands-projets-openai.html",
@@ -57,76 +127,6 @@
       "date": "2026-04-24T15:05:44.000Z",
       "description": "Cybersécurité · Fuite Données Dark Web. Fuite de données chez Parcoursup: la cyberattaque est passée inaperçue pendant cinq mois. Voici ChatGPT...",
       "excerpt": "Cybersécurité · Fuite Données Dark Web. Fuite de données chez Parcoursup: la cyberattaque est passée inaperçue pendant cinq mois. Voici ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lanceert GPT-5.5: un modèle plus intelligent pour le code et le travail intellectuel",
-      "link": "https://itdaily.fr/nouvelles/cloud/openai-lance-gpt-5-5/",
-      "url": "https://itdaily.fr/nouvelles/cloud/openai-lance-gpt-5-5/",
-      "publishedAt": "2026-04-24T15:05:39.000Z",
-      "date": "2026-04-24T15:05:39.000Z",
-      "description": "Avec GPT-5.5, GPT-5 en est déjà à sa cinquième version. Ce... ChatGPT, Codex et ChatGPT Business ne fonctionnent pas correctement en raison d'…",
-      "excerpt": "Avec GPT-5.5, GPT-5 en est déjà à sa cinquième version. Ce... ChatGPT, Codex et ChatGPT Business ne fonctionnent pas correctement en raison d'…",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.5: OpenAI lance une IA taillée pour le travail réel (et de plus en plus chère)",
-      "link": "https://www.mac4ever.com/ia/195840-gpt-5-5-openai-lance-une-ia-taillee-pour-le-travail-reel-et-de-plus-en-plus-chere",
-      "url": "https://www.mac4ever.com/ia/195840-gpt-5-5-openai-lance-une-ia-taillee-pour-le-travail-reel-et-de-plus-en-plus-chere",
-      "publishedAt": "2026-04-24T15:05:11.000Z",
-      "date": "2026-04-24T15:05:11.000Z",
-      "description": "... ChatGPT et Codex. La promesse est claire: proposer une nouvelle classe... GPT-5.5 intègre des tests avancés en cybersécurité et biologie...",
-      "excerpt": "... ChatGPT et Codex. La promesse est claire: proposer une nouvelle classe... GPT-5.5 intègre des tests avancés en cybersécurité et biologie...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile ChatGPT GPT-5.5: benchmarks records, tarifs doublés, mais Mythos reste...",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/gpt-5-5-openai-degaine-son-modele-le-plus-ambitieux-six-semaines-seulement-apres-gpt-5-4-n254803.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/gpt-5-5-openai-degaine-son-modele-le-plus-ambitieux-six-semaines-seulement-apres-gpt-5-4-n254803.html",
-      "publishedAt": "2026-04-24T14:49:11.000Z",
-      "date": "2026-04-24T14:49:11.000Z",
-      "description": "... ChatGPT et Codex. L'API publique est annoncée pour les jours qui viennent, une fois les garde-fous de cybersécurité finalisés. ChatGPT revendique...",
-      "excerpt": "... ChatGPT et Codex. L'API publique est annoncée pour les jours qui viennent, une fois les garde-fous de cybersécurité finalisés. ChatGPT revendique...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance GPT-5.5 pour contrer Claude et Gemini, la bataille de l'IA s'intensifie",
-      "link": "https://www.lacremedugaming.fr/high-tech/openai-lance-gpt-5-5-pour-contrer-claude-et-gemini-la-bataille-de-lia-sintensifie-212019.html",
-      "url": "https://www.lacremedugaming.fr/high-tech/openai-lance-gpt-5-5-pour-contrer-claude-et-gemini-la-bataille-de-lia-sintensifie-212019.html",
-      "publishedAt": "2026-04-24T14:49:10.000Z",
-      "date": "2026-04-24T14:49:10.000Z",
-      "description": "Au global, GPT-5.5 domine la ligne de commande, la bureautique et la cybersécurité... Dans ChatGPT, seul l'abonnement Plus donne accès au GPT...",
-      "excerpt": "Au global, GPT-5.5 domine la ligne de commande, la bureautique et la cybersécurité... Dans ChatGPT, seul l'abonnement Plus donne accès au GPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile GPT-5.5, son modèle le plus avancé pour l'IA agentique - BDM",
-      "link": "https://www.blogdumoderateur.com/openai-devoile-gpt-5-5-modele-plus-avance-ia-agentique/",
-      "url": "https://www.blogdumoderateur.com/openai-devoile-gpt-5-5-modele-plus-avance-ia-agentique/",
-      "publishedAt": "2026-04-24T14:35:13.000Z",
-      "date": "2026-04-24T14:35:13.000Z",
-      "description": "chatgpt -5-5 Quelques jours après la sortie de Claude Opus 4.7, OpenAI... La cybersécurité s'est d'ailleurs imposée comme un nouveau terrain...",
-      "excerpt": "chatgpt -5-5 Quelques jours après la sortie de Claude Opus 4.7, OpenAI... La cybersécurité s'est d'ailleurs imposée comme un nouveau terrain...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI sort GPT-5.5, pour reprendre la main face à Anthropic - MacGeneration",
-      "link": "https://www.macg.co/intelligence-artificielle/2026/04/openai-sort-gpt-55-pour-reprendre-la-main-face-anthropic-308211",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/04/openai-sort-gpt-55-pour-reprendre-la-main-face-anthropic-308211",
-      "publishedAt": "2026-04-24T14:29:20.000Z",
-      "date": "2026-04-24T14:29:20.000Z",
-      "description": "... cybersécurité avec Mythos, ou même en économie (Anthropic indique qu... ChatGPT Images 2.0: OpenAI promet des images plus fidèles et un...",
-      "excerpt": "... cybersécurité avec Mythos, ou même en économie (Anthropic indique qu... ChatGPT Images 2.0: OpenAI promet des images plus fidèles et un...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Clutch dévoile la première app marketplace B2B sur ChatGPT - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/clutch-devoile-la-premiere-app-marketplace-b2b-sur-chatgpt",
-      "url": "https://www.lebigdata.fr/clutch-devoile-la-premiere-app-marketplace-b2b-sur-chatgpt",
-      "publishedAt": "2026-04-24T14:02:06.000Z",
-      "date": "2026-04-24T14:02:06.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Avec son application intégrée à ChatGPT, Clutch transforme ces conversations en...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Avec son application intégrée à ChatGPT, Clutch transforme ces conversations en...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
