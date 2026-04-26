@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T18:36:51.658Z",
+  "generatedAt": "2026-04-26T01:51:15.679Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,26 @@
   "failedSources": [],
   "items": [
     {
+      "title": "GPT-5.5: un nouveau modèle d'intelligence artificielle face à la concurrence d'Anthropic",
+      "link": "https://www.emarketerz.fr/gpt-5-5-un-nouveau-modele-dintelligence-artificielle-face-a-la-concurrence-danthropic/",
+      "url": "https://www.emarketerz.fr/gpt-5-5-un-nouveau-modele-dintelligence-artificielle-face-a-la-concurrence-danthropic/",
+      "publishedAt": "2026-04-25T22:18:00.000Z",
+      "date": "2026-04-25T22:18:00.000Z",
+      "description": "Anthropic, concurrent majeur, s'impose avec son modèle Claude Opus 4.7, et prévoit de surpasser ChatGPT en termes de revenus.... cybersécurité Mythos a...",
+      "excerpt": "Anthropic, concurrent majeur, s'impose avec son modèle Claude Opus 4.7, et prévoit de surpasser ChatGPT en termes de revenus.... cybersécurité Mythos a...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Agent4Science: des IA publient des articles scientifiques seules - Stéphane Larue",
+      "link": "https://stephanelarue.com/agent4science-ia-publient-articles-scientifiques/",
+      "url": "https://stephanelarue.com/agent4science-ia-publient-articles-scientifiques/",
+      "publishedAt": "2026-04-25T18:36:19.000Z",
+      "date": "2026-04-25T18:36:19.000Z",
+      "description": "OpenAI lance GPT-5.5, un modèle plus intelligent et plus rapide pour ChatGPT et Codex... OpenAI lance GPT-5.4 Cyber pour la cybersécurité · Tech...",
+      "excerpt": "OpenAI lance GPT-5.5, un modèle plus intelligent et plus rapide pour ChatGPT et Codex... OpenAI lance GPT-5.4 Cyber pour la cybersécurité · Tech...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Claude Mythos vs GPT-5.5: le modèle Anthropic à accès restreint remporte 6 tests sur 9",
       "link": "https://yellow.com/fr/news/claude-mythos-vs-gpt-55-le-mod%C3%A8le-sous-acc%C3%A8s-restreint-d%E2%80%99anthropic-remporte-6-tests-sur-9",
       "url": "https://yellow.com/fr/news/claude-mythos-vs-gpt-55-le-mod%C3%A8le-sous-acc%C3%A8s-restreint-d%E2%80%99anthropic-remporte-6-tests-sur-9",
@@ -17,7 +37,7 @@
       "date": "2026-04-25T14:00:57.000Z",
       "description": "GPT-5.5 arrived dans ChatGPT et Codex le 23 avril, au prix...",
       "excerpt": "GPT-5.5 arrived dans ChatGPT et Codex le 23 avril, au prix...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "DeepSeek V4: cinq fois moins cher que GPT-5 et sans puces Nvidia - Martin Cid Magazine",
@@ -107,26 +127,6 @@
       "date": "2026-04-25T01:56:49.000Z",
       "description": "Ce projet, déjà évoqué par les dirigeants d'OpenAI, consisterait à regrouper plusieurs outils comme ChatGPT... cybersécurité ou encore la recherche...",
       "excerpt": "Ce projet, déjà évoqué par les dirigeants d'OpenAI, consisterait à regrouper plusieurs outils comme ChatGPT... cybersécurité ou encore la recherche...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Zoomlion dévoile Robot Ops et accélère sur l'IA industrielle - - Rezo Nòdwès",
-      "link": "https://rezonodwes.com/2026/04/zoomlion-devoile-robot-ops-et-accelere-sur-lia-industrielle/",
-      "url": "https://rezonodwes.com/2026/04/zoomlion-devoile-robot-ops-et-accelere-sur-lia-industrielle/",
-      "publishedAt": "2026-04-25T01:08:52.000Z",
-      "date": "2026-04-25T01:08:52.000Z",
-      "description": "Conçue pour l'ère des « logiciels 3.0 », la plateforme Robot Ops intègre les approches DevOps, DataOps et AgentOps afin de coordonner le développement...",
-      "excerpt": "Conçue pour l'ère des « logiciels 3.0 », la plateforme Robot Ops intègre les approches DevOps, DataOps et AgentOps afin de coordonner le développement...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Protection de l'IA générative en entreprise, les éditeur l'abordent en rangs dispersés et...",
-      "link": "https://itsocial.fr/cybersecurite/cybersecurite-articles/protection-de-lia-generative-en-entreprise-les-editeur-labordent-en-rangs-disperses-et-aucune-reponse-unifiee/",
-      "url": "https://itsocial.fr/cybersecurite/cybersecurite-articles/protection-de-lia-generative-en-entreprise-les-editeur-labordent-en-rangs-disperses-et-aucune-reponse-unifiee/",
-      "publishedAt": "2026-04-25T01:03:01.000Z",
-      "date": "2026-04-25T01:03:01.000Z",
-      "description": "Cybersécurité Cybersécurité - Articles Protection de l'IA générative en... Un collaborateur qui soumet un document confidentiel dans ChatGPT depuis son...",
-      "excerpt": "Cybersécurité Cybersécurité - Articles Protection de l'IA générative en... Un collaborateur qui soumet un document confidentiel dans ChatGPT depuis son...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
