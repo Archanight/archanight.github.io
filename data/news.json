@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T12:43:11.072Z",
+  "generatedAt": "2026-04-26T18:38:07.283Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT -5 et Claude réunis pour moins de 27 €: cette offre casse les abonnements mensuels",
+      "link": "https://www.clubic.com/bons-plans-610684-gpt-5-et-claude-reunis-pour-moins-de-27-cette-offre-casse-les-abonnements-mensuels.html",
+      "url": "https://www.clubic.com/bons-plans-610684-gpt-5-et-claude-reunis-pour-moins-de-27-cette-offre-casse-les-abonnements-mensuels.html",
+      "publishedAt": "2026-04-26T17:03:32.000Z",
+      "date": "2026-04-26T17:03:32.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... GPT-5, Claude Sonnet (versions 4 et 4.5), Gemini, DALL·E 3, Stable...",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... GPT-5, Claude Sonnet (versions 4 et 4.5), Gemini, DALL·E 3, Stable...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.5: OpenAI riposte à Claude avec un modèle plus agentique et moins gourmand en tokens",
+      "link": "https://www.geekslands.fr/openai-gpt-5-5-modele-agentique-token-efficiency-claude/",
+      "url": "https://www.geekslands.fr/openai-gpt-5-5-modele-agentique-token-efficiency-claude/",
+      "publishedAt": "2026-04-26T10:13:03.000Z",
+      "date": "2026-04-26T10:13:03.000Z",
+      "description": "Plus efficace en tokens, plus autonome dans les workflows multi-étapes: une riposte directe à Claude Opus 4.7, qui avait dépassé ChatGPT sur le...",
+      "excerpt": "Plus efficace en tokens, plus autonome dans les workflows multi-étapes: une riposte directe à Claude Opus 4.7, qui avait dépassé ChatGPT sur le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Microsoft modifie la gestion des mises à jour sur Windows 11 - HarianBasis.co",
+      "link": "https://www.harianbasis.co/fr/windows-11-mises-a-jour-flexibles",
+      "url": "https://www.harianbasis.co/fr/windows-11-mises-a-jour-flexibles",
+      "publishedAt": "2026-04-26T05:48:40.000Z",
+      "date": "2026-04-26T05:48:40.000Z",
+      "description": "Microsoft a annoncé le 24 avril 2026 une refonte de Windows Update... Sam Altman s'excuse après une tuerie impliquant ChatGPT au Canada. Sam...",
+      "excerpt": "Microsoft a annoncé le 24 avril 2026 une refonte de Windows Update... Sam Altman s'excuse après une tuerie impliquant ChatGPT au Canada. Sam...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "GPT-5.5: un nouveau modèle d'intelligence artificielle face à la concurrence d'Anthropic",
       "link": "https://www.emarketerz.fr/gpt-5-5-un-nouveau-modele-dintelligence-artificielle-face-a-la-concurrence-danthropic/",
@@ -97,36 +127,6 @@
       "date": "2026-04-25T04:42:15.000Z",
       "description": "Autrement dit, l'entreprise cible des usages sensibles, notamment en cybersécurité et en biologie.... ChatGPT · OpenAI. Comparo / Test / Top. pCloud...",
       "excerpt": "Autrement dit, l'entreprise cible des usages sensibles, notamment en cybersécurité et en biologie.... ChatGPT · OpenAI. Comparo / Test / Top. pCloud...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.5 vs DeepSeek V4: quelle IA va dominer la prochaine révolution tech? - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/gpt-5-5-vs-deepseek-v4-quelle-ia-va-dominer-la-prochaine-revolution-tech",
-      "url": "https://www.lebigdata.fr/gpt-5-5-vs-deepseek-v4-quelle-ia-va-dominer-la-prochaine-revolution-tech",
-      "publishedAt": "2026-04-25T04:42:13.000Z",
-      "date": "2026-04-25T04:42:13.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data... ChatGPT Workspace Agents: OpenAI révolutionne le travail d'équipe? 23...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data... ChatGPT Workspace Agents: OpenAI révolutionne le travail d'équipe? 23...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance GPT-5.5 pour contrer Claude et Gemini, la bataille de l'IA s'intensifie - MSN",
-      "link": "https://www.msn.com/fr-fr/finance/autres/openai-lance-gpt-5-5-pour-contrer-claude-et-gemini-la-bataille-de-l-ia-s-intensifie/ar-AA21D2XH",
-      "url": "https://www.msn.com/fr-fr/finance/autres/openai-lance-gpt-5-5-pour-contrer-claude-et-gemini-la-bataille-de-l-ia-s-intensifie/ar-AA21D2XH",
-      "publishedAt": "2026-04-25T03:06:37.000Z",
-      "date": "2026-04-25T03:06:37.000Z",
-      "description": "openai-lance- gpt-5 -5-pour-contrer-claude-et-gemini-la-bataille-de-lia... GPT-5.5 arrive directement dans ChatGPT et Codex, mais uniquement...",
-      "excerpt": "openai-lance- gpt-5 -5-pour-contrer-claude-et-gemini-la-bataille-de-lia... GPT-5.5 arrive directement dans ChatGPT et Codex, mais uniquement...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile GPT-5.5 et accélère son ambition de “super application”",
-      "link": "https://fr.hespress.com/471075-openai-devoile-gpt-5-5-et-accelere-son-ambition-de-super-application.html",
-      "url": "https://fr.hespress.com/471075-openai-devoile-gpt-5-5-et-accelere-son-ambition-de-super-application.html",
-      "publishedAt": "2026-04-25T01:56:49.000Z",
-      "date": "2026-04-25T01:56:49.000Z",
-      "description": "Ce projet, déjà évoqué par les dirigeants d'OpenAI, consisterait à regrouper plusieurs outils comme ChatGPT... cybersécurité ou encore la recherche...",
-      "excerpt": "Ce projet, déjà évoqué par les dirigeants d'OpenAI, consisterait à regrouper plusieurs outils comme ChatGPT... cybersécurité ou encore la recherche...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
