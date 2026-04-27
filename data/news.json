@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T13:18:31.327Z",
+  "generatedAt": "2026-04-27T19:04:24.063Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT Phone: tout ce qu'on sait du smartphone IA agentique qui veut tuer l'iPhone",
+      "link": "https://www.lebigdata.fr/chatgpt-phone-tout-ce-quon-sait-du-smartphone-ia-agentique-qui-veut-tuer-liphone",
+      "url": "https://www.lebigdata.fr/chatgpt-phone-tout-ce-quon-sait-du-smartphone-ia-agentique-qui-veut-tuer-liphone",
+      "publishedAt": "2026-04-27T18:37:23.000Z",
+      "date": "2026-04-27T18:37:23.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT Phone: tout ce qu'on sait du smartphone IA agentique qui...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT Phone: tout ce qu'on sait du smartphone IA agentique qui...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'appli européenne de vérification d'âge devait protéger votre vie privée. Elle soulève déjà...",
+      "link": "https://global.techradar.com/fr-fr/vpn/vpn-privacy-security/lappli-europeenne-de-verification-dage-devait-proteger-votre-vie-privee-elle-souleve-deja-de-serieux-doutes",
+      "url": "https://global.techradar.com/fr-fr/vpn/vpn-privacy-security/lappli-europeenne-de-verification-dage-devait-proteger-votre-vie-privee-elle-souleve-deja-de-serieux-doutes",
+      "publishedAt": "2026-04-27T15:05:33.000Z",
+      "date": "2026-04-27T15:05:33.000Z",
+      "description": "Ce sont plutôt les fondements mêmes du concept que des spécialistes en cybersécurité... ChatGPT Nous avons demandé à ChatGPT comment arrêter d'être...",
+      "excerpt": "Ce sont plutôt les fondements mêmes du concept que des spécialistes en cybersécurité... ChatGPT Nous avons demandé à ChatGPT comment arrêter d'être...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Smartphone ChatGPT: le projet est dans les cartons chez OpenAI, mais il faudra être bien patient",
+      "link": "https://www.lesnumeriques.com/telephone-portable/smartphone-chatgpt-le-projet-est-dans-les-cartons-chez-openai-mais-il-faudra-etre-bien-patient-n254913.html",
+      "url": "https://www.lesnumeriques.com/telephone-portable/smartphone-chatgpt-le-projet-est-dans-les-cartons-chez-openai-mais-il-faudra-etre-bien-patient-n254913.html",
+      "publishedAt": "2026-04-27T14:49:44.000Z",
+      "date": "2026-04-27T14:49:44.000Z",
+      "description": "OpenAI plancherait sur un smartphone ChatGPT. Si l'IA progresse à un rythme effréné, semaine après semaine, la sortie de cet appareil semble...",
+      "excerpt": "OpenAI plancherait sur un smartphone ChatGPT. Si l'IA progresse à un rythme effréné, semaine après semaine, la sortie de cet appareil semble...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Un amateur résout un problème d'Erdős vieux de 60 ans avec un seul prompt GPT-5.4",
+      "link": "https://korben.info/un-amateur-resout-un-probleme-derdos-vieux-de-60-ans-avec-un-seul-prompt-gpt-5-4.html",
+      "url": "https://korben.info/un-amateur-resout-un-probleme-derdos-vieux-de-60-ans-avec-un-seul-prompt-gpt-5-4.html",
+      "publishedAt": "2026-04-27T13:12:58.000Z",
+      "date": "2026-04-27T13:12:58.000Z",
+      "description": "Price a copié le problème dans une fenêtre ChatGPT, lancé GPT-5.4 Pro en mode raisonnement, et attendu.... Les métiers de la Cybersécurité et de l'...",
+      "excerpt": "Price a copié le problème dans une fenêtre ChatGPT, lancé GPT-5.4 Pro en mode raisonnement, et attendu.... Les métiers de la Cybersécurité et de l'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Des deux côtés de l'Atlantique, le lobbying des entreprises d'IA s'intensifie - CB News",
+      "link": "https://www.cbnews.fr/cb/deux-cotes-atlantique-lobbying-entreprises-ia-s-intensifie",
+      "url": "https://www.cbnews.fr/cb/deux-cotes-atlantique-lobbying-entreprises-ia-s-intensifie",
+      "publishedAt": "2026-04-27T12:31:59.000Z",
+      "date": "2026-04-27T12:31:59.000Z",
+      "description": "OpenAI, qui a rendu cette technologie accessible au plus grand nombre grâce à ChatGPT... cybersécurité · Anthropic entrevoit un chiffre d'affaires...",
+      "excerpt": "OpenAI, qui a rendu cette technologie accessible au plus grand nombre grâce à ChatGPT... cybersécurité · Anthropic entrevoit un chiffre d'affaires...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT passe un cap avec GPT-5.5: plus rapide, plus autonome et encore meilleur en code",
       "link": "https://siecledigital.fr/2026/04/27/chatgpt-passe-un-cap-avec-gpt-5-5-plus-rapide-plus-autonome-et-encore-meilleur-en-code/",
@@ -20,6 +70,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "OpenAI préparerait le smartphone ChatGPT qui va faire disparaître les applications",
+      "link": "https://www.01net.com/actualites/openai-preparerait-le-smartphone-qui-va-faire-disparaitre-les-applications.html",
+      "url": "https://www.01net.com/actualites/openai-preparerait-le-smartphone-qui-va-faire-disparaitre-les-applications.html",
+      "publishedAt": "2026-04-27T11:18:24.000Z",
+      "date": "2026-04-27T11:18:24.000Z",
+      "description": "... ChatGPT. OpenAI ne voudrait plus seulement être le cerveau de vos... Windows Update Pause. Windows 11: Microsoft modifie Windows Update de...",
+      "excerpt": "... ChatGPT. OpenAI ne voudrait plus seulement être le cerveau de vos... Windows Update Pause. Windows 11: Microsoft modifie Windows Update de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Debug iOS+xCode: merci ChatGPT! - WINDEV Mobile 2025 - Forums PC SOFT",
       "link": "https://forum.pcsoft.fr/fr-FR/pcsoft.fr.windevmobile/52590-debug-ios-xcode-merci-chatgpt-52595/read.awp",
       "url": "https://forum.pcsoft.fr/fr-FR/pcsoft.fr.windevmobile/52590-debug-ios-xcode-merci-chatgpt-52595/read.awp",
@@ -27,6 +87,16 @@
       "date": "2026-04-27T10:50:28.000Z",
       "description": "Avec Update 2 et 3, problème! Je vais répondre à l'incident ouvert... ChatGPT. Pour ma part, j'ai supprimé la ZM au profit d'une ZD et l...",
       "excerpt": "Avec Update 2 et 3, problème! Je vais répondre à l'incident ouvert... ChatGPT. Pour ma part, j'ai supprimé la ZM au profit d'une ZD et l...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Ce bloc-notes IA cache la puissance de GPT-5 dans un format carte bancaire - Hypebeast",
+      "link": "https://hypebeast.com/fr/2026/4/comulytic-note-pro-ai-note-taker-release-info",
+      "url": "https://hypebeast.com/fr/2026/4/comulytic-note-pro-ai-note-taker-release-info",
+      "publishedAt": "2026-04-27T10:38:52.000Z",
+      "date": "2026-04-27T10:38:52.000Z",
+      "description": "Les modèles GPT-5 et Whisper intégrés offrent une précision de transcription de 98 % dans 113 langues, sans aucun frais d'abonnement mensuel. Une...",
+      "excerpt": "Les modèles GPT-5 et Whisper intégrés offrent une précision de transcription de 98 % dans 113 langues, sans aucun frais d'abonnement mensuel. Une...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
@@ -40,16 +110,6 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "OpenAI préparerait le smartphone ChatGPT qui va faire disparaître les applications",
-      "link": "https://www.01net.com/actualites/openai-preparerait-le-smartphone-qui-va-faire-disparaitre-les-applications.html",
-      "url": "https://www.01net.com/actualites/openai-preparerait-le-smartphone-qui-va-faire-disparaitre-les-applications.html",
-      "publishedAt": "2026-04-27T09:50:33.000Z",
-      "date": "2026-04-27T09:50:33.000Z",
-      "description": "... ChatGPT. OpenAI ne voudrait plus seulement être le cerveau de vos... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "excerpt": "... ChatGPT. OpenAI ne voudrait plus seulement être le cerveau de vos... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
       "title": "OpenAI travaillerait sur son propre smartphone entièrement dédié à l'IA pour concurrencer...",
       "link": "https://www.phonandroid.com/openai-travaillerait-sur-son-propre-smartphone-entierement-dedie-a-lia-pour-concurrencer-samsung-et-google.html",
       "url": "https://www.phonandroid.com/openai-travaillerait-sur-son-propre-smartphone-entierement-dedie-a-lia-pour-concurrencer-samsung-et-google.html",
@@ -60,74 +120,14 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Elon Musk poursuit Sam Altman: le grand procès de l'IA: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/monde/elon-musk-poursuit-sam-altman-le-grand-proces-de-l-ia-CNT000002oTQjA.html",
-      "url": "https://actu.orange.fr/videos/monde/elon-musk-poursuit-sam-altman-le-grand-proces-de-l-ia-CNT000002oTQjA.html",
-      "publishedAt": "2026-04-27T08:09:44.000Z",
-      "date": "2026-04-27T08:09:44.000Z",
-      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre... Tous publics. Ces nouvelles pubs d'Anthropic pour le Super Bowl assassinent ChatGPT #shorts.",
-      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre... Tous publics. Ces nouvelles pubs d'Anthropic pour le Super Bowl assassinent ChatGPT #shorts.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.5: OpenAI et NVIDIA scellent un partenariat pour la prochaine vague d'IA",
-      "link": "https://www.lebigdata.fr/gpt-5-5-openai-et-nvidia-scellent-un-partenariat-pour-la-prochaine-vague-dia",
-      "url": "https://www.lebigdata.fr/gpt-5-5-openai-et-nvidia-scellent-un-partenariat-pour-la-prochaine-vague-dia",
-      "publishedAt": "2026-04-27T08:09:43.000Z",
-      "date": "2026-04-27T08:09:43.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Le créateur de ChatGPT veut rendre l'inférence de modèles avancés...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Le créateur de ChatGPT veut rendre l'inférence de modèles avancés...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un téléphone ChatGPT en 2028? OpenAI préparerait son smartphone - Frandroid",
-      "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3078665_un-telephone-chatgpt-en-2028-openai-preparerait-son-smartphone-mediatek-et-qualcomm-dans-la-boucle-pour-2028",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3078665_un-telephone-chatgpt-en-2028-openai-preparerait-son-smartphone-mediatek-et-qualcomm-dans-la-boucle-pour-2028",
-      "publishedAt": "2026-04-27T05:34:44.000Z",
-      "date": "2026-04-27T05:34:44.000Z",
-      "description": "OpenAI codévelopperait un SoC sur mesure avec MediaTek et Qualcomm, l'assemblage et la co-conception système étant confiés à Luxshare, un des grands...",
-      "excerpt": "OpenAI codévelopperait un SoC sur mesure avec MediaTek et Qualcomm, l'assemblage et la co-conception système étant confiés à Luxshare, un des grands...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.5 vs DeepSeek V4: la Chine vient-elle de voler la couronne à OpenAI en 24h?",
-      "link": "https://www.cridutroll.fr/gpt-5-5-vs-deepseek-v4-la-chine-vient-elle-de-voler-la-couronne-a-openai-en-24h/",
-      "url": "https://www.cridutroll.fr/gpt-5-5-vs-deepseek-v4-la-chine-vient-elle-de-voler-la-couronne-a-openai-en-24h/",
-      "publishedAt": "2026-04-27T02:03:31.000Z",
-      "date": "2026-04-27T02:03:31.000Z",
-      "description": "ChatGPT et Claude HS pendant des heures: on a tous réalisé à quel point on est devenus accros à l'IA. ParLazyLumps 20 avril 2026 20 avril 2026. Ce...",
-      "excerpt": "ChatGPT et Claude HS pendant des heures: on a tous réalisé à quel point on est devenus accros à l'IA. ParLazyLumps 20 avril 2026 20 avril 2026. Ce...",
+      "title": "Proton dévoile ses projets pour 2026: nouvelles fonctionnalités pour Mail, Drive et VPN",
+      "link": "https://itdaily.fr/nouvelles/logiciel/proton-nouvelles-fonctionnalites-mail-drive-vpn/",
+      "url": "https://itdaily.fr/nouvelles/logiciel/proton-nouvelles-fonctionnalites-mail-drive-vpn/",
+      "publishedAt": "2026-04-27T09:08:45.000Z",
+      "date": "2026-04-27T09:08:45.000Z",
+      "description": "ChatGPT Images 2.0, Image 1.5 ou Nano Banana 2: quel modèle d'IA... Avec GPT-5.5, GPT-5 en est déjà à sa cinquième version. Ce modèle...",
+      "excerpt": "ChatGPT Images 2.0, Image 1.5 ou Nano Banana 2: quel modèle d'IA... Avec GPT-5.5, GPT-5 en est déjà à sa cinquième version. Ce modèle...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Deepseek v4 prédiction vs réalité: r/ ChatGPT - Reddit",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1sw6ztu/deepseek_v4_pr%C3%A9diction_vs_r%C3%A9alit%C3%A9/",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1sw6ztu/deepseek_v4_pr%C3%A9diction_vs_r%C3%A9alit%C3%A9/",
-      "publishedAt": "2026-04-26T22:25:27.000Z",
-      "date": "2026-04-26T22:25:27.000Z",
-      "description": "We have free bots with GPT-4 (with vision), image generators, and more!... r/ ChatGPT - DeepSeek V4 release soon. 3.9K. 179. DeepSeek 3.1 and 3.2...",
-      "excerpt": "We have free bots with GPT-4 (with vision), image generators, and more!... r/ ChatGPT - DeepSeek V4 release soon. 3.9K. 179. DeepSeek 3.1 and 3.2...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Dans une usine à l'abri des regards, les robots apprennent à reproduire nos gestes humains",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/dans-une-usine-a-l-abri-des-regards-les-robots-apprennent-a-reproduire-nos-gestes-n254864.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/dans-une-usine-a-l-abri-des-regards-les-robots-apprennent-a-reproduire-nos-gestes-n254864.html",
-      "publishedAt": "2026-04-26T20:01:12.000Z",
-      "date": "2026-04-26T20:01:12.000Z",
-      "description": "ChatGPT est alimenté par ses quantités astronomiques de données. Les robots n'ont pas d'équivalent pour effectuer des gestes dans notre monde...",
-      "excerpt": "ChatGPT est alimenté par ses quantités astronomiques de données. Les robots n'ont pas d'équivalent pour effectuer des gestes dans notre monde...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "GPT-5.5 est arrivé, plus autonome, plus intelligent, voici ce que change la nouvelle IA d'OpenAI",
-      "link": "https://www.msn.com/fr-fr/finance/autres/gpt-5-5-est-arriv%C3%A9-plus-autonome-plus-intelligent-voici-ce-que-change-la-nouvelle-ia-d-openai/ar-AA21zBC4?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t",
-      "url": "https://www.msn.com/fr-fr/finance/autres/gpt-5-5-est-arriv%C3%A9-plus-autonome-plus-intelligent-voici-ce-que-change-la-nouvelle-ia-d-openai/ar-AA21zBC4?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t",
-      "publishedAt": "2026-04-26T18:14:44.000Z",
-      "date": "2026-04-26T18:14:44.000Z",
-      "description": "GPT-5.5 est officiellement classé à un niveau de danger élevé en matière de cybersécurité... GPT-5 officiellement présenté: le meilleur de ChatGPT...",
-      "excerpt": "GPT-5.5 est officiellement classé à un niveau de danger élevé en matière de cybersécurité... GPT-5 officiellement présenté: le meilleur de ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
