@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T18:38:07.283Z",
+  "generatedAt": "2026-04-27T01:54:48.314Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Dans une usine à l'abri des regards, les robots apprennent à reproduire nos gestes humains",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/dans-une-usine-a-l-abri-des-regards-les-robots-apprennent-a-reproduire-nos-gestes-n254864.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/dans-une-usine-a-l-abri-des-regards-les-robots-apprennent-a-reproduire-nos-gestes-n254864.html",
+      "publishedAt": "2026-04-26T20:01:12.000Z",
+      "date": "2026-04-26T20:01:12.000Z",
+      "description": "ChatGPT est alimenté par ses quantités astronomiques de données. Les robots n'ont pas d'équivalent pour effectuer des gestes dans notre monde...",
+      "excerpt": "ChatGPT est alimenté par ses quantités astronomiques de données. Les robots n'ont pas d'équivalent pour effectuer des gestes dans notre monde...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "GPT-5.5 est arrivé, plus autonome, plus intelligent, voici ce que change la nouvelle IA d'OpenAI",
+      "link": "https://www.msn.com/fr-fr/finance/autres/gpt-5-5-est-arriv%C3%A9-plus-autonome-plus-intelligent-voici-ce-que-change-la-nouvelle-ia-d-openai/ar-AA21zBC4?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t",
+      "url": "https://www.msn.com/fr-fr/finance/autres/gpt-5-5-est-arriv%C3%A9-plus-autonome-plus-intelligent-voici-ce-que-change-la-nouvelle-ia-d-openai/ar-AA21zBC4?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t",
+      "publishedAt": "2026-04-26T18:14:44.000Z",
+      "date": "2026-04-26T18:14:44.000Z",
+      "description": "GPT-5.5 est officiellement classé à un niveau de danger élevé en matière de cybersécurité... GPT-5 officiellement présenté: le meilleur de ChatGPT...",
+      "excerpt": "GPT-5.5 est officiellement classé à un niveau de danger élevé en matière de cybersécurité... GPT-5 officiellement présenté: le meilleur de ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT -5 et Claude réunis pour moins de 27 €: cette offre casse les abonnements mensuels",
       "link": "https://www.clubic.com/bons-plans-610684-gpt-5-et-claude-reunis-pour-moins-de-27-cette-offre-casse-les-abonnements-mensuels.html",
@@ -30,6 +50,26 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Stockage de fichiers et Library dans ChatGPT - OpenAI Help Center",
+      "link": "https://help.openai.com/fr-fr/articles/20001052-stockage-de-fichiers-et-library-dans-chatgpt",
+      "url": "https://help.openai.com/fr-fr/articles/20001052-stockage-de-fichiers-et-library-dans-chatgpt",
+      "publishedAt": "2026-04-26T09:03:49.000Z",
+      "date": "2026-04-26T09:03:49.000Z",
+      "description": "Les appels peuvent être enregistrés afin d'améliorer les services d'OpenAI. En savoir plus. Articles connexes. ChatGPT — Notes de version. Journal des...",
+      "excerpt": "Les appels peuvent être enregistrés afin d'améliorer les services d'OpenAI. En savoir plus. Articles connexes. ChatGPT — Notes de version. Journal des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Stockage de fichiers et bibliothèque dans ChatGPT - OpenAI Help Center",
+      "link": "https://help.openai.com/fr-ca/articles/20001052-stockage-de-fichiers-et-biblioth%C3%A8que-dans-chatgpt",
+      "url": "https://help.openai.com/fr-ca/articles/20001052-stockage-de-fichiers-et-biblioth%C3%A8que-dans-chatgpt",
+      "publishedAt": "2026-04-26T08:28:37.000Z",
+      "date": "2026-04-26T08:28:37.000Z",
+      "description": "Les appels peuvent être enregistrés pour améliorer les services d'OpenAI. En savoir plus. Articles connexes. ChatGPT — Notes de version. Journal des...",
+      "excerpt": "Les appels peuvent être enregistrés pour améliorer les services d'OpenAI. En savoir plus. Articles connexes. ChatGPT — Notes de version. Journal des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Microsoft modifie la gestion des mises à jour sur Windows 11 - HarianBasis.co",
       "link": "https://www.harianbasis.co/fr/windows-11-mises-a-jour-flexibles",
       "url": "https://www.harianbasis.co/fr/windows-11-mises-a-jour-flexibles",
@@ -37,6 +77,16 @@
       "date": "2026-04-26T05:48:40.000Z",
       "description": "Microsoft a annoncé le 24 avril 2026 une refonte de Windows Update... Sam Altman s'excuse après une tuerie impliquant ChatGPT au Canada. Sam...",
       "excerpt": "Microsoft a annoncé le 24 avril 2026 une refonte de Windows Update... Sam Altman s'excuse après une tuerie impliquant ChatGPT au Canada. Sam...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Accès aux modèles hérités pour les utilisateurs Enterprise et Edu - OpenAI Help Center",
+      "link": "https://help.openai.com/fr-ca/articles/11954883-acc%C3%A8s-aux-mod%C3%A8les-h%C3%A9rit%C3%A9s-pour-les-utilisateurs-enterprise-et-edu",
+      "url": "https://help.openai.com/fr-ca/articles/11954883-acc%C3%A8s-aux-mod%C3%A8les-h%C3%A9rit%C3%A9s-pour-les-utilisateurs-enterprise-et-edu",
+      "publishedAt": "2026-04-26T01:13:43.000Z",
+      "date": "2026-04-26T01:13:43.000Z",
+      "description": "... GPT-4o et d autres modèles ChatGPT. Avec GPT-5.2, tous les espaces... ChatGPT Business - Notes de version. Journal des plus récentes mises à...",
+      "excerpt": "... GPT-4o et d autres modèles ChatGPT. Avec GPT-5.2, tous les espaces... ChatGPT Business - Notes de version. Journal des plus récentes mises à...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
@@ -77,56 +127,6 @@
       "date": "2026-04-25T09:06:11.000Z",
       "description": "DeepSeek V4: cinq fois moins cher que GPT-5 et sans puces Nvidia. Le... cybersécurité de leur organisation...",
       "excerpt": "DeepSeek V4: cinq fois moins cher que GPT-5 et sans puces Nvidia. Le... cybersécurité de leur organisation...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile ChatGPT GPT-5.5: benchmarks records, tarifs doublés, mais Mythos reste...",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/gpt-5-5-openai-degaine-son-modele-le-plus-ambitieux-six-semaines-seulement-apres-gpt-5-4-n254803.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/gpt-5-5-openai-degaine-son-modele-le-plus-ambitieux-six-semaines-seulement-apres-gpt-5-4-n254803.html",
-      "publishedAt": "2026-04-25T05:53:52.000Z",
-      "date": "2026-04-25T05:53:52.000Z",
-      "description": "GPT-5.5 est d'ores et déjà accessible aux abonnés Plus, Pro, Business et Enterprise via ChatGPT et Codex.... phishing. il y a 3 mois. Les Nums, l...",
-      "excerpt": "GPT-5.5 est d'ores et déjà accessible aux abonnés Plus, Pro, Business et Enterprise via ChatGPT et Codex.... phishing. il y a 3 mois. Les Nums, l...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "Seïsme dans le monde de l'IA: Deepseek V4 sort à peine quelques heures après GPT-5.5",
-      "link": "https://www.clubic.com/actualite-610468-seisme-dans-le-monde-de-l-ia-deepseek-v4-sort-a-peine-quelques-heures-apres-gpt-5-5.html",
-      "url": "https://www.clubic.com/actualite-610468-seisme-dans-le-monde-de-l-ia-deepseek-v4-sort-a-peine-quelques-heures-apres-gpt-5-5.html",
-      "publishedAt": "2026-04-25T05:42:48.000Z",
-      "date": "2026-04-25T05:42:48.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... J'ai testé le gratuit sur ChatGPT, j'ai donné un code de 1400 lignes...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... J'ai testé le gratuit sur ChatGPT, j'ai donné un code de 1400 lignes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Quelles IA confortent les idées délirantes de leurs utilisateurs? Une étude compare... - PhonAndroid",
-      "link": "https://www.phonandroid.com/quelles-ia-confortent-les-idees-delirantes-de-leurs-utilisateurs-une-etude-compare-chatgpt-gemini-claude-et-grok.html",
-      "url": "https://www.phonandroid.com/quelles-ia-confortent-les-idees-delirantes-de-leurs-utilisateurs-une-etude-compare-chatgpt-gemini-claude-et-grok.html",
-      "publishedAt": "2026-04-25T05:18:08.000Z",
-      "date": "2026-04-25T05:18:08.000Z",
-      "description": "Mais tous ne sont pas égaux, d'après un comparatif entre ChatGPT, Gemini, Claude et Grok.... GPT-5.2 Instant (OpenAI); Grok 4.1 Fast (X); Gemini 3...",
-      "excerpt": "Mais tous ne sont pas égaux, d'après un comparatif entre ChatGPT, Gemini, Claude et Grok.... GPT-5.2 Instant (OpenAI); Grok 4.1 Fast (X); Gemini 3...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile GPT-5.5: une intelligence artificielle plus rapide et plus puissante - s2pmag",
-      "link": "https://s2pmag.ch/openai-devoile-gpt-5-5-une-intelligence-artificielle-plus-rapide-et-plus-puissante/",
-      "url": "https://s2pmag.ch/openai-devoile-gpt-5-5-une-intelligence-artificielle-plus-rapide-et-plus-puissante/",
-      "publishedAt": "2026-04-25T05:14:20.000Z",
-      "date": "2026-04-25T05:14:20.000Z",
-      "description": "Ce projet vise à fusionner des solutions comme ChatGPT... Sur le front de la cybersécurité, OpenAI entend également renforcer ses capacités.",
-      "excerpt": "Ce projet vise à fusionner des solutions comme ChatGPT... Sur le front de la cybersécurité, OpenAI entend également renforcer ses capacités.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.5: OpenAI offre 25 000 $ à ceux qui réussiront à le pirater - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/gpt-5-5-openai-offre-25-000-a-ceux-qui-reussiront-a-le-pirater",
-      "url": "https://www.lebigdata.fr/gpt-5-5-openai-offre-25-000-a-ceux-qui-reussiront-a-le-pirater",
-      "publishedAt": "2026-04-25T04:42:15.000Z",
-      "date": "2026-04-25T04:42:15.000Z",
-      "description": "Autrement dit, l'entreprise cible des usages sensibles, notamment en cybersécurité et en biologie.... ChatGPT · OpenAI. Comparo / Test / Top. pCloud...",
-      "excerpt": "Autrement dit, l'entreprise cible des usages sensibles, notamment en cybersécurité et en biologie.... ChatGPT · OpenAI. Comparo / Test / Top. pCloud...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
