@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T01:54:48.314Z",
+  "generatedAt": "2026-04-27T08:05:47.197Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-5.5 vs DeepSeek V4: la Chine vient-elle de voler la couronne à OpenAI en 24h?",
+      "link": "https://www.cridutroll.fr/gpt-5-5-vs-deepseek-v4-la-chine-vient-elle-de-voler-la-couronne-a-openai-en-24h/",
+      "url": "https://www.cridutroll.fr/gpt-5-5-vs-deepseek-v4-la-chine-vient-elle-de-voler-la-couronne-a-openai-en-24h/",
+      "publishedAt": "2026-04-27T02:03:31.000Z",
+      "date": "2026-04-27T02:03:31.000Z",
+      "description": "ChatGPT et Claude HS pendant des heures: on a tous réalisé à quel point on est devenus accros à l'IA. ParLazyLumps 20 avril 2026 20 avril 2026. Ce...",
+      "excerpt": "ChatGPT et Claude HS pendant des heures: on a tous réalisé à quel point on est devenus accros à l'IA. ParLazyLumps 20 avril 2026 20 avril 2026. Ce...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Dans une usine à l'abri des regards, les robots apprennent à reproduire nos gestes humains",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/dans-une-usine-a-l-abri-des-regards-les-robots-apprennent-a-reproduire-nos-gestes-n254864.html",
@@ -118,16 +128,6 @@
       "description": "GPT-5.5 arrived dans ChatGPT et Codex le 23 avril, au prix...",
       "excerpt": "GPT-5.5 arrived dans ChatGPT et Codex le 23 avril, au prix...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "DeepSeek V4: cinq fois moins cher que GPT-5 et sans puces Nvidia - Martin Cid Magazine",
-      "link": "https://fr.martincid.com/technologie/deepseek-v4-cinq-fois-moins-cher-que-gpt-5-et-sans-puces-nvidia/",
-      "url": "https://fr.martincid.com/technologie/deepseek-v4-cinq-fois-moins-cher-que-gpt-5-et-sans-puces-nvidia/",
-      "publishedAt": "2026-04-25T09:06:11.000Z",
-      "date": "2026-04-25T09:06:11.000Z",
-      "description": "DeepSeek V4: cinq fois moins cher que GPT-5 et sans puces Nvidia. Le... cybersécurité de leur organisation...",
-      "excerpt": "DeepSeek V4: cinq fois moins cher que GPT-5 et sans puces Nvidia. Le... cybersécurité de leur organisation...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
