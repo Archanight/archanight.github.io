@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T13:29:25.584Z",
+  "generatedAt": "2026-04-28T19:20:25.162Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,76 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "L'Europe révèle comment Google devra ouvrir Android à ChatGPT, Claude, Perplexity et les autres",
+      "link": "https://www.01net.com/actualites/leurope-revele-comment-google-devra-ouvrir-android-a-chatgpt-claude-perplexity-et-les-autres.html",
+      "url": "https://www.01net.com/actualites/leurope-revele-comment-google-devra-ouvrir-android-a-chatgpt-claude-perplexity-et-les-autres.html",
+      "publishedAt": "2026-04-28T17:49:18.000Z",
+      "date": "2026-04-28T17:49:18.000Z",
+      "description": "L'Europe révèle comment Google devra ouvrir Android à ChatGPT, Claude, Perplexity et les autres... Cybersécurité · Société · Télécoms · Auto · Médias...",
+      "excerpt": "L'Europe révèle comment Google devra ouvrir Android à ChatGPT, Claude, Perplexity et les autres... Cybersécurité · Société · Télécoms · Auto · Médias...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le suspect du meurtre de deux étudiants recherche sur ChatGPT comment se débarrasser d...",
+      "link": "https://actu.orange.fr/videos/monde/le-suspect-du-meurtre-de-deux-etudiants-recherche-sur-chatgpt-comment-se-debarrasser-d-un-corps-CNT000002oVD3n.html",
+      "url": "https://actu.orange.fr/videos/monde/le-suspect-du-meurtre-de-deux-etudiants-recherche-sur-chatgpt-comment-se-debarrasser-d-un-corps-CNT000002oVD3n.html",
+      "publishedAt": "2026-04-28T17:47:35.000Z",
+      "date": "2026-04-28T17:47:35.000Z",
+      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Le suspect du meurtre de deux étudiants recherche sur ChatGPT comment se...",
+      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Le suspect du meurtre de deux étudiants recherche sur ChatGPT comment se...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Après avoir racheté la start-up de l'ex-designer star d'Apple Jony Ive, OpenAI plancherait sur... - BFM",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/apres-avoir-rachete-la-start-up-de-l-ex-designer-star-d-apple-jony-ive-open-ai-plancherait-sur-un-smartphone-utilisant-un-chat-gpt-integre_AV-202604280360.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/apres-avoir-rachete-la-start-up-de-l-ex-designer-star-d-apple-jony-ive-open-ai-plancherait-sur-un-smartphone-utilisant-un-chat-gpt-integre_AV-202604280360.html",
+      "publishedAt": "2026-04-28T17:22:49.000Z",
+      "date": "2026-04-28T17:22:49.000Z",
+      "description": "France et cybersécurité... OpenAI aurait en effet pour projet de proposer un smartphone dont le coeur serait géré par ChatGPT, sont chatbot IA.",
+      "excerpt": "France et cybersécurité... OpenAI aurait en effet pour projet de proposer un smartphone dont le coeur serait géré par ChatGPT, sont chatbot IA.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI et Microsoft révisent à nouveau leur contrat de mariage - L'Usine Digitale",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai-et-microsoft-revisent-a-nouveau-leur-contrat-de-mariage-les-services-du-createur-de-chatgpt-bientot-disponibles-chez-aws-et-google-cloud.BCN2IXHBYFFRJIEGSIGNCVINIU.html",
+      "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai-et-microsoft-revisent-a-nouveau-leur-contrat-de-mariage-les-services-du-createur-de-chatgpt-bientot-disponibles-chez-aws-et-google-cloud.BCN2IXHBYFFRJIEGSIGNCVINIU.html",
+      "publishedAt": "2026-04-28T16:23:26.000Z",
+      "date": "2026-04-28T16:23:26.000Z",
+      "description": "Cybersécurité · Big Tech · Robotique · Cloud. Se connecter. Rechercher... ChatGPT bientôt disponibles chez AWS et Google Cloud · Robots industriels...",
+      "excerpt": "Cybersécurité · Big Tech · Robotique · Cloud. Se connecter. Rechercher... ChatGPT bientôt disponibles chez AWS et Google Cloud · Robots industriels...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude Opus 4.7 hausse le ton face à ChatGPT sur le raisonnement complexe - Menow",
+      "link": "https://www.menow.fr/claude-opus-4-7-hausse-le-ton-face-a-chatgpt-sur-le-raisonnement-complexe/",
+      "url": "https://www.menow.fr/claude-opus-4-7-hausse-le-ton-face-a-chatgpt-sur-le-raisonnement-complexe/",
+      "publishedAt": "2026-04-28T15:56:10.000Z",
+      "date": "2026-04-28T15:56:10.000Z",
+      "description": "Une autre rumeur évoque un modèle Claude Mythos encore plus avancé, mais son lancement aurait été retardé pour des raisons de cybersécurité. Un...",
+      "excerpt": "Une autre rumeur évoque un modèle Claude Mythos encore plus avancé, mais son lancement aurait été retardé pour des raisons de cybersécurité. Un...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI et Microsoft s'éloignent encore: l'alliance historique qui a popularisé l'IA générative...",
+      "link": "https://www.journaldugeek.com/2026/04/28/openai-et-microsoft-seloignent/",
+      "url": "https://www.journaldugeek.com/2026/04/28/openai-et-microsoft-seloignent/",
+      "publishedAt": "2026-04-28T15:13:33.000Z",
+      "date": "2026-04-28T15:13:33.000Z",
+      "description": "Néanmoins, si ChatGPT a été développé par OpenAI, sa création a... cybersécurité, entre autres, nous sommes ravis de poursuivre notre...",
+      "excerpt": "Néanmoins, si ChatGPT a été développé par OpenAI, sa création a... cybersécurité, entre autres, nous sommes ravis de poursuivre notre...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Publicité et IA: quels risques éthiques pour le commerce agentique? - Hello Future",
+      "link": "https://hellofuture.orange.com/fr/publicite-dans-lia-et-commerce-agentique-les-defis-du-e-commerce-conversationnel/",
+      "url": "https://hellofuture.orange.com/fr/publicite-dans-lia-et-commerce-agentique-les-defis-du-e-commerce-conversationnel/",
+      "publishedAt": "2026-04-28T13:46:05.000Z",
+      "date": "2026-04-28T13:46:05.000Z",
+      "description": "Si les plateformes comme ChatGPT sont considérées comme des moteurs de... Cybersécurité · Device · Digital · Industrie · Machine learning · Smart city...",
+      "excerpt": "Si les plateformes comme ChatGPT sont considérées comme des moteurs de... Cybersécurité · Device · Digital · Industrie · Machine learning · Smart city...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Microsoft perd l'exclusivité sur ChatGPT: OpenAI pourra désormais vendre ses modèles d... - BFM",
       "link": "https://www.bfmtv.com/tech/intelligence-artificielle/microsoft-perd-l-exclusivite-sur-chat-gpt-open-ai-pourra-desormais-vendre-ses-modeles-d-intelligence-artificielle-directement-via-d-autres-prestataires_AD-202604280305.html",
@@ -58,76 +128,6 @@
       "description": "Ce n'est pas un secret, OpenAI, la plateforme à l'origine de ChatGPT... Et l'objectif de ces SoC ne serait pas d'être surpuissants. OpenAI...",
       "excerpt": "Ce n'est pas un secret, OpenAI, la plateforme à l'origine de ChatGPT... Et l'objectif de ces SoC ne serait pas d'être surpuissants. OpenAI...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Qu'est-ce que ChatGPT Health? | OpenAI Help Center",
-      "link": "https://help.openai.com/fr-fr/articles/20001036-quest-ce-que-chatgpt-health-",
-      "url": "https://help.openai.com/fr-fr/articles/20001036-quest-ce-que-chatgpt-health-",
-      "publishedAt": "2026-04-28T01:34:56.000Z",
-      "date": "2026-04-28T01:34:56.000Z",
-      "description": "Les appels peuvent être enregistrés afin d'améliorer les services d'OpenAI. En savoir plus. Articles connexes. ChatGPT — Notes de version.",
-      "excerpt": "Les appels peuvent être enregistrés afin d'améliorer les services d'OpenAI. En savoir plus. Articles connexes. ChatGPT — Notes de version.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Avec les « workspace agents », OpenAI transforme ChatGPT en collègue agentique partagé",
-      "link": "https://www.channelnews.fr/avec-les-workspace-agents-openai-transforme-chatgpt-en-collegue-agentique-partage-156485",
-      "url": "https://www.channelnews.fr/avec-les-workspace-agents-openai-transforme-chatgpt-en-collegue-agentique-partage-156485",
-      "publishedAt": "2026-04-27T22:57:50.000Z",
-      "date": "2026-04-27T22:57:50.000Z",
-      "description": "Cyrille Richard: « la convergence télécom, IT et cybersécurité permet de recréer de la valeur »... ChatGPT et sont destinés à remplacer, à...",
-      "excerpt": "Cyrille Richard: « la convergence télécom, IT et cybersécurité permet de recréer de la valeur »... ChatGPT et sont destinés à remplacer, à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "[Les Benchmarks du Dirigeant 2026] Les solutions d'IA & d'automatisation des processus",
-      "link": "https://www.beaboss.fr/gestion-finance-1025/gestion-2036/les-benchmarks-du-dirigeant-2026-les-solutions-dia-dautomatisation-des-processus-54741/amp",
-      "url": "https://www.beaboss.fr/gestion-finance-1025/gestion-2036/les-benchmarks-du-dirigeant-2026-les-solutions-dia-dautomatisation-des-processus-54741/amp",
-      "publishedAt": "2026-04-27T20:35:18.000Z",
-      "date": "2026-04-27T20:35:18.000Z",
-      "description": "Copilot Chat (Microsoft): gratuit pour les clients M365 éligibles; ChatGPT Free (OpenAI): gratuit avec limites quotidiennes, accès à GPT-5 basique...",
-      "excerpt": "Copilot Chat (Microsoft): gratuit pour les clients M365 éligibles; ChatGPT Free (OpenAI): gratuit avec limites quotidiennes, accès à GPT-5 basique...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.5 débarque dans Microsoft 365: la fin du travail manuel approche? - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/gpt-5-5-debarque-dans-microsoft-365-la-fin-du-travail-manuel-approche",
-      "url": "https://www.lebigdata.fr/gpt-5-5-debarque-dans-microsoft-365-la-fin-du-travail-manuel-approche",
-      "publishedAt": "2026-04-27T18:55:28.000Z",
-      "date": "2026-04-27T18:55:28.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Microsoft ajoute une couche visuelle avec ChatGPT Images 2.0. L'outil...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Microsoft ajoute une couche visuelle avec ChatGPT Images 2.0. L'outil...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Phone: tout ce qu'on sait du smartphone IA agentique qui veut tuer l'iPhone",
-      "link": "https://www.lebigdata.fr/chatgpt-phone-tout-ce-quon-sait-du-smartphone-ia-agentique-qui-veut-tuer-liphone",
-      "url": "https://www.lebigdata.fr/chatgpt-phone-tout-ce-quon-sait-du-smartphone-ia-agentique-qui-veut-tuer-liphone",
-      "publishedAt": "2026-04-27T18:37:23.000Z",
-      "date": "2026-04-27T18:37:23.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT Phone: tout ce qu'on sait du smartphone IA agentique qui...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT Phone: tout ce qu'on sait du smartphone IA agentique qui...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'appli européenne de vérification d'âge devait protéger votre vie privée. Elle soulève déjà...",
-      "link": "https://global.techradar.com/fr-fr/vpn/vpn-privacy-security/lappli-europeenne-de-verification-dage-devait-proteger-votre-vie-privee-elle-souleve-deja-de-serieux-doutes",
-      "url": "https://global.techradar.com/fr-fr/vpn/vpn-privacy-security/lappli-europeenne-de-verification-dage-devait-proteger-votre-vie-privee-elle-souleve-deja-de-serieux-doutes",
-      "publishedAt": "2026-04-27T15:05:33.000Z",
-      "date": "2026-04-27T15:05:33.000Z",
-      "description": "Ce sont plutôt les fondements mêmes du concept que des spécialistes en cybersécurité... ChatGPT Nous avons demandé à ChatGPT comment arrêter d'être...",
-      "excerpt": "Ce sont plutôt les fondements mêmes du concept que des spécialistes en cybersécurité... ChatGPT Nous avons demandé à ChatGPT comment arrêter d'être...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Smartphone ChatGPT: le projet est dans les cartons chez OpenAI, mais il faudra être bien patient",
-      "link": "https://www.lesnumeriques.com/telephone-portable/smartphone-chatgpt-le-projet-est-dans-les-cartons-chez-openai-mais-il-faudra-etre-bien-patient-n254913.html",
-      "url": "https://www.lesnumeriques.com/telephone-portable/smartphone-chatgpt-le-projet-est-dans-les-cartons-chez-openai-mais-il-faudra-etre-bien-patient-n254913.html",
-      "publishedAt": "2026-04-27T14:49:44.000Z",
-      "date": "2026-04-27T14:49:44.000Z",
-      "description": "OpenAI plancherait sur un smartphone ChatGPT. Si l'IA progresse à un rythme effréné, semaine après semaine, la sortie de cet appareil semble...",
-      "excerpt": "OpenAI plancherait sur un smartphone ChatGPT. Si l'IA progresse à un rythme effréné, semaine après semaine, la sortie de cet appareil semble...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
