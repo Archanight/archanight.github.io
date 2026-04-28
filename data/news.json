@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T19:04:24.063Z",
+  "generatedAt": "2026-04-28T02:01:47.280Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Avec les « workspace agents », OpenAI transforme ChatGPT en collègue agentique partagé",
+      "link": "https://www.channelnews.fr/avec-les-workspace-agents-openai-transforme-chatgpt-en-collegue-agentique-partage-156485",
+      "url": "https://www.channelnews.fr/avec-les-workspace-agents-openai-transforme-chatgpt-en-collegue-agentique-partage-156485",
+      "publishedAt": "2026-04-27T22:57:50.000Z",
+      "date": "2026-04-27T22:57:50.000Z",
+      "description": "Cyrille Richard: « la convergence télécom, IT et cybersécurité permet de recréer de la valeur »... ChatGPT et sont destinés à remplacer, à...",
+      "excerpt": "Cyrille Richard: « la convergence télécom, IT et cybersécurité permet de recréer de la valeur »... ChatGPT et sont destinés à remplacer, à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "[Les Benchmarks du Dirigeant 2026] Les solutions d'IA & d'automatisation des processus",
+      "link": "https://www.beaboss.fr/gestion-finance-1025/gestion-2036/les-benchmarks-du-dirigeant-2026-les-solutions-dia-dautomatisation-des-processus-54741/amp",
+      "url": "https://www.beaboss.fr/gestion-finance-1025/gestion-2036/les-benchmarks-du-dirigeant-2026-les-solutions-dia-dautomatisation-des-processus-54741/amp",
+      "publishedAt": "2026-04-27T20:35:18.000Z",
+      "date": "2026-04-27T20:35:18.000Z",
+      "description": "Copilot Chat (Microsoft): gratuit pour les clients M365 éligibles; ChatGPT Free (OpenAI): gratuit avec limites quotidiennes, accès à GPT-5 basique...",
+      "excerpt": "Copilot Chat (Microsoft): gratuit pour les clients M365 éligibles; ChatGPT Free (OpenAI): gratuit avec limites quotidiennes, accès à GPT-5 basique...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.5 débarque dans Microsoft 365: la fin du travail manuel approche? - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/gpt-5-5-debarque-dans-microsoft-365-la-fin-du-travail-manuel-approche",
+      "url": "https://www.lebigdata.fr/gpt-5-5-debarque-dans-microsoft-365-la-fin-du-travail-manuel-approche",
+      "publishedAt": "2026-04-27T18:55:28.000Z",
+      "date": "2026-04-27T18:55:28.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Microsoft ajoute une couche visuelle avec ChatGPT Images 2.0. L'outil...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Microsoft ajoute une couche visuelle avec ChatGPT Images 2.0. L'outil...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT Phone: tout ce qu'on sait du smartphone IA agentique qui veut tuer l'iPhone",
       "link": "https://www.lebigdata.fr/chatgpt-phone-tout-ce-quon-sait-du-smartphone-ia-agentique-qui-veut-tuer-liphone",
@@ -97,36 +127,6 @@
       "date": "2026-04-27T10:38:52.000Z",
       "description": "Les modèles GPT-5 et Whisper intégrés offrent une précision de transcription de 98 % dans 113 langues, sans aucun frais d'abonnement mensuel. Une...",
       "excerpt": "Les modèles GPT-5 et Whisper intégrés offrent une précision de transcription de 98 % dans 113 langues, sans aucun frais d'abonnement mensuel. Une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Le premier smartphone ChatGPT arrive: OpenAI veut enterrer le téléphone tel qu'on le connaît",
-      "link": "https://www.clubic.com/actualite-610726-le-premier-smartphone-chatgpt-arrive-openai-veut-enterrer-le-telephone-tel-qu-on-le-connait.html",
-      "url": "https://www.clubic.com/actualite-610726-le-premier-smartphone-chatgpt-arrive-openai-veut-enterrer-le-telephone-tel-qu-on-le-connait.html",
-      "publishedAt": "2026-04-27T10:01:04.000Z",
-      "date": "2026-04-27T10:01:04.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Le premier smartphone ChatGPT arrive: OpenAI veut enterrer le téléphone...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Le premier smartphone ChatGPT arrive: OpenAI veut enterrer le téléphone...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI travaillerait sur son propre smartphone entièrement dédié à l'IA pour concurrencer...",
-      "link": "https://www.phonandroid.com/openai-travaillerait-sur-son-propre-smartphone-entierement-dedie-a-lia-pour-concurrencer-samsung-et-google.html",
-      "url": "https://www.phonandroid.com/openai-travaillerait-sur-son-propre-smartphone-entierement-dedie-a-lia-pour-concurrencer-samsung-et-google.html",
-      "publishedAt": "2026-04-27T09:33:39.000Z",
-      "date": "2026-04-27T09:33:39.000Z",
-      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Ceux qui pensaient que le créateur de ChatGPT se contenterait d'avoir...",
-      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Ceux qui pensaient que le créateur de ChatGPT se contenterait d'avoir...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Proton dévoile ses projets pour 2026: nouvelles fonctionnalités pour Mail, Drive et VPN",
-      "link": "https://itdaily.fr/nouvelles/logiciel/proton-nouvelles-fonctionnalites-mail-drive-vpn/",
-      "url": "https://itdaily.fr/nouvelles/logiciel/proton-nouvelles-fonctionnalites-mail-drive-vpn/",
-      "publishedAt": "2026-04-27T09:08:45.000Z",
-      "date": "2026-04-27T09:08:45.000Z",
-      "description": "ChatGPT Images 2.0, Image 1.5 ou Nano Banana 2: quel modèle d'IA... Avec GPT-5.5, GPT-5 en est déjà à sa cinquième version. Ce modèle...",
-      "excerpt": "ChatGPT Images 2.0, Image 1.5 ou Nano Banana 2: quel modèle d'IA... Avec GPT-5.5, GPT-5 en est déjà à sa cinquième version. Ce modèle...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
