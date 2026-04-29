@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T13:24:10.544Z",
+  "generatedAt": "2026-04-29T19:09:45.428Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,106 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Indeed s'incruste dans ChatGPT pour que vous trouviez votre prochain emploi sans quitter... - Clubic",
+      "link": "https://www.clubic.com/actualite-611149-indeed-s-incruste-dans-chatgpt-pour-que-vous-trouviez-votre-prochain-emploi-sans-quitter-la-celebre-plateforme.html",
+      "url": "https://www.clubic.com/actualite-611149-indeed-s-incruste-dans-chatgpt-pour-que-vous-trouviez-votre-prochain-emploi-sans-quitter-la-celebre-plateforme.html",
+      "publishedAt": "2026-04-29T15:46:41.000Z",
+      "date": "2026-04-29T15:46:41.000Z",
+      "description": "Indeed a officialisé, mercredi, son intégration dans ChatGPT et un partenariat renforcé avec OpenAI... Top Cybersécurité. Meilleur VPN · VPN gratuit...",
+      "excerpt": "Indeed a officialisé, mercredi, son intégration dans ChatGPT et un partenariat renforcé avec OpenAI... Top Cybersécurité. Meilleur VPN · VPN gratuit...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.4-Cyber: OpenAI tente de rattraper Anthropic sur la cybersécurité",
+      "link": "https://dcod.ch/2026/04/29/gpt-5-4-cyber-openai/",
+      "url": "https://dcod.ch/2026/04/29/gpt-5-4-cyber-openai/",
+      "publishedAt": "2026-04-29T15:04:21.000Z",
+      "date": "2026-04-29T15:04:21.000Z",
+      "description": "... cybersécurité Pourquoi OpenAI lance-t-elle GPT-5.4-Cyber?Comment fonctionne la vérification d'identité TAC?Quelle est la différence entre OpenAI...",
+      "excerpt": "... cybersécurité Pourquoi OpenAI lance-t-elle GPT-5.4-Cyber?Comment fonctionne la vérification d'identité TAC?Quelle est la différence entre OpenAI...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Apprendre avec ChatGPT rend-il plus bête? Une étude révèle un gros problème de mémoire",
+      "link": "https://www.lebigdata.fr/apprendre-avec-chatgpt-rend-il-plus-bete-une-etude-revele-un-gros-probleme-de-memoire",
+      "url": "https://www.lebigdata.fr/apprendre-avec-chatgpt-rend-il-plus-bete-une-etude-revele-un-gros-probleme-de-memoire",
+      "publishedAt": "2026-04-29T14:51:34.000Z",
+      "date": "2026-04-29T14:51:34.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Pourquoi ChatGPT fragilise la mémoire des étudiants? Les étudiants...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Pourquoi ChatGPT fragilise la mémoire des étudiants? Les étudiants...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "DOOM tourne aussi dans ChatGPT et Claude (évidemment) - Korben",
+      "link": "https://korben.info/doom-chatgpt-claude-mcp.html",
+      "url": "https://korben.info/doom-chatgpt-claude-mcp.html",
+      "publishedAt": "2026-04-29T14:22:59.000Z",
+      "date": "2026-04-29T14:22:59.000Z",
+      "description": "Cybersécurité · Développement · Hardware & DIY · Intelligence Artificielle... Et voilà que c'est fait puisque Chris Nager vient de faire tourner DOOM...",
+      "excerpt": "Cybersécurité · Développement · Hardware & DIY · Intelligence Artificielle... Et voilà que c'est fait puisque Chris Nager vient de faire tourner DOOM...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Mémoire, personnalisation et transfert depuis un autre chatbot: Gemini se renforce en...",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/memoire-personnalisation-et-transfert-depuis-un-autre-chatbot-gemini-lance-de-nouvelles-fonctionnalites-de-personnalisation-en-france_AN-202604280424.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/memoire-personnalisation-et-transfert-depuis-un-autre-chatbot-gemini-lance-de-nouvelles-fonctionnalites-de-personnalisation-en-france_AN-202604280424.html",
+      "publishedAt": "2026-04-29T14:11:32.000Z",
+      "date": "2026-04-29T14:11:32.000Z",
+      "description": "France et cybersécurité... Mémoire, personnalisation et transfert depuis un autre chatbot: Gemini se renforce en France pour contrer ChatGPT.",
+      "excerpt": "France et cybersécurité... Mémoire, personnalisation et transfert depuis un autre chatbot: Gemini se renforce en France pour contrer ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Elon Musk à la barre, en plein procès contre OpenAI: “L'IA pourrait tous nous tuer”",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/elon-musk-a-la-barre-en-plein-proces-contre-openai-l-ia-pourrait-tous-nous-tuer-n255068.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/elon-musk-a-la-barre-en-plein-proces-contre-openai-l-ia-pourrait-tous-nous-tuer-n255068.html",
+      "publishedAt": "2026-04-29T14:07:07.000Z",
+      "date": "2026-04-29T14:07:07.000Z",
+      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (2). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Commenter (2). Aymeric Geoffre... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "GPT 5.5: ce qui change vraiment pour les pros - Leptidigital",
+      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/gpt-5-5-openai-89670/",
+      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/gpt-5-5-openai-89670/",
+      "publishedAt": "2026-04-29T14:02:48.000Z",
+      "date": "2026-04-29T14:02:48.000Z",
+      "description": "GPT-5.5, le tout dernier modèle d'OpenAI arrive avec de belles... cybersécurité: s'agit-il d'une vraie avancée? Voici ce qu'il faut savoir...",
+      "excerpt": "GPT-5.5, le tout dernier modèle d'OpenAI arrive avec de belles... cybersécurité: s'agit-il d'une vraie avancée? Voici ce qu'il faut savoir...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Gemini en France devient plus puissant pour mieux vous connaître et vous faire lâcher ChatGPT",
+      "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3080845_gemini-en-france-devient-plus-puissant-pour-mieux-vous-connaitre-et-lacher-chatgpt",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3080845_gemini-en-france-devient-plus-puissant-pour-mieux-vous-connaitre-et-lacher-chatgpt",
+      "publishedAt": "2026-04-29T13:56:23.000Z",
+      "date": "2026-04-29T13:56:23.000Z",
+      "description": "... ChatGPT... Avec son Exynos 2700, Samsung réglerait enfin le problème héréditaire de ses SoC.",
+      "excerpt": "... ChatGPT... Avec son Exynos 2700, Samsung réglerait enfin le problème héréditaire de ses SoC.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "iOS 27: Apple prépare trois nouveaux outils photo avec l'IA - Charles Tech",
+      "link": "https://charlestech.fr/ios-27-apple-prepare-trois-nouveaux-outils-photo-l-ia/",
+      "url": "https://charlestech.fr/ios-27-apple-prepare-trois-nouveaux-outils-photo-l-ia/",
+      "publishedAt": "2026-04-29T12:39:23.000Z",
+      "date": "2026-04-29T12:39:23.000Z",
+      "description": "ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu. Trois fonctions distinctes en préparation. La première, Extend...",
+      "excerpt": "ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu. Trois fonctions distinctes en préparation. La première, Extend...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Samsung Galaxy S27: l'arrivée de l'Exynos 2700? - IdealoGeek.fr",
+      "link": "https://idealogeek.fr/samsung-galaxy-s27-vers-une-montee-en-puissance-decisive-de-lexynos-2700/",
+      "url": "https://idealogeek.fr/samsung-galaxy-s27-vers-une-montee-en-puissance-decisive-de-lexynos-2700/",
+      "publishedAt": "2026-04-29T10:27:55.000Z",
+      "date": "2026-04-29T10:27:55.000Z",
+      "description": "... SoC. Ce choix technique présente plusieurs avantages concrets... ChatGPT -5.5- ChatGPT -Imagine-2.0 · ChatGPT...",
+      "excerpt": "... SoC. Ce choix technique présente plusieurs avantages concrets... ChatGPT -5.5- ChatGPT -Imagine-2.0 · ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Depuis 2022, un tiers des sites web créés sont générés par IA - Clubic",
       "link": "https://www.clubic.com/actualite-610975-depuis-2022-un-tiers-des-sites-web-crees-sont-generes-par-ia.html",
@@ -28,106 +128,6 @@
       "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Culture IA: Ce que font réellement les utilisateurs avec ChatGPT, par...",
       "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Culture IA: Ce que font réellement les utilisateurs avec ChatGPT, par...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Mariés au premier regard: Julie a fait une requête à ChatGPT et répond de façon détournée...",
-      "link": "https://divertissements.orange.fr/tv/actu-tv-media/maries-au-premier-regard-julie-a-fait-une-requete-a-chatgpt-et-repond-de-facon-detournee-aux-critiques-CNT000002oVE5f.html",
-      "url": "https://divertissements.orange.fr/tv/actu-tv-media/maries-au-premier-regard-julie-a-fait-une-requete-a-chatgpt-et-repond-de-facon-detournee-aux-critiques-CNT000002oVE5f.html",
-      "publishedAt": "2026-04-28T18:35:03.000Z",
-      "date": "2026-04-28T18:35:03.000Z",
-      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Mariés au premier regard: Julie a fait une requête à ChatGPT et répond de...",
-      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Mariés au premier regard: Julie a fait une requête à ChatGPT et répond de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'Europe révèle comment Google devra ouvrir Android à ChatGPT, Claude, Perplexity et les autres",
-      "link": "https://www.01net.com/actualites/leurope-revele-comment-google-devra-ouvrir-android-a-chatgpt-claude-perplexity-et-les-autres.html",
-      "url": "https://www.01net.com/actualites/leurope-revele-comment-google-devra-ouvrir-android-a-chatgpt-claude-perplexity-et-les-autres.html",
-      "publishedAt": "2026-04-28T17:49:18.000Z",
-      "date": "2026-04-28T17:49:18.000Z",
-      "description": "L'Europe révèle comment Google devra ouvrir Android à ChatGPT, Claude, Perplexity et les autres... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "excerpt": "L'Europe révèle comment Google devra ouvrir Android à ChatGPT, Claude, Perplexity et les autres... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le suspect du meurtre de deux étudiants recherche sur ChatGPT comment se débarrasser d...",
-      "link": "https://actu.orange.fr/videos/monde/le-suspect-du-meurtre-de-deux-etudiants-recherche-sur-chatgpt-comment-se-debarrasser-d-un-corps-CNT000002oVD3n.html",
-      "url": "https://actu.orange.fr/videos/monde/le-suspect-du-meurtre-de-deux-etudiants-recherche-sur-chatgpt-comment-se-debarrasser-d-un-corps-CNT000002oVD3n.html",
-      "publishedAt": "2026-04-28T17:47:35.000Z",
-      "date": "2026-04-28T17:47:35.000Z",
-      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Le suspect du meurtre de deux étudiants recherche sur ChatGPT comment se...",
-      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Le suspect du meurtre de deux étudiants recherche sur ChatGPT comment se...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Après avoir racheté la start-up de l'ex-designer star d'Apple Jony Ive, OpenAI plancherait sur... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/apres-avoir-rachete-la-start-up-de-l-ex-designer-star-d-apple-jony-ive-open-ai-plancherait-sur-un-smartphone-utilisant-un-chat-gpt-integre_AV-202604280360.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/apres-avoir-rachete-la-start-up-de-l-ex-designer-star-d-apple-jony-ive-open-ai-plancherait-sur-un-smartphone-utilisant-un-chat-gpt-integre_AV-202604280360.html",
-      "publishedAt": "2026-04-28T17:22:49.000Z",
-      "date": "2026-04-28T17:22:49.000Z",
-      "description": "France et cybersécurité... OpenAI aurait en effet pour projet de proposer un smartphone dont le coeur serait géré par ChatGPT, sont chatbot IA.",
-      "excerpt": "France et cybersécurité... OpenAI aurait en effet pour projet de proposer un smartphone dont le coeur serait géré par ChatGPT, sont chatbot IA.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT démocratise Deep Research: OpenAI défie Gemini - Le-Joueur.fr",
-      "link": "https://www.le-joueur.fr/chatgpt-democratise-deep-research-openai-defie-gemini/",
-      "url": "https://www.le-joueur.fr/chatgpt-democratise-deep-research-openai-defie-gemini/",
-      "publishedAt": "2026-04-28T17:04:23.000Z",
-      "date": "2026-04-28T17:04:23.000Z",
-      "description": "ChatGPT frappe un grand coup ce mardi 28 avril 2026. OpenAI démocratise sa fonctionnalité Deep Research, jusqu'ici réservée aux abonnés Pro payant...",
-      "excerpt": "ChatGPT frappe un grand coup ce mardi 28 avril 2026. OpenAI démocratise sa fonctionnalité Deep Research, jusqu'ici réservée aux abonnés Pro payant...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI et Microsoft révisent à nouveau leur contrat de mariage - L'Usine Digitale",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai-et-microsoft-revisent-a-nouveau-leur-contrat-de-mariage-les-services-du-createur-de-chatgpt-bientot-disponibles-chez-aws-et-google-cloud.BCN2IXHBYFFRJIEGSIGNCVINIU.html",
-      "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai-et-microsoft-revisent-a-nouveau-leur-contrat-de-mariage-les-services-du-createur-de-chatgpt-bientot-disponibles-chez-aws-et-google-cloud.BCN2IXHBYFFRJIEGSIGNCVINIU.html",
-      "publishedAt": "2026-04-28T16:23:26.000Z",
-      "date": "2026-04-28T16:23:26.000Z",
-      "description": "Cybersécurité · Big Tech · Robotique · Cloud. Se connecter. Rechercher... ChatGPT bientôt disponibles chez AWS et Google Cloud · Robots industriels...",
-      "excerpt": "Cybersécurité · Big Tech · Robotique · Cloud. Se connecter. Rechercher... ChatGPT bientôt disponibles chez AWS et Google Cloud · Robots industriels...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude Opus 4.7 hausse le ton face à ChatGPT sur le raisonnement complexe - Menow",
-      "link": "https://www.menow.fr/claude-opus-4-7-hausse-le-ton-face-a-chatgpt-sur-le-raisonnement-complexe/",
-      "url": "https://www.menow.fr/claude-opus-4-7-hausse-le-ton-face-a-chatgpt-sur-le-raisonnement-complexe/",
-      "publishedAt": "2026-04-28T15:56:10.000Z",
-      "date": "2026-04-28T15:56:10.000Z",
-      "description": "Claude Opus 4.7 hausse le ton face à ChatGPT sur le raisonnement complexe. Par Samuel. 28 avril 2026. 7 min de lecture. Claude Opus 4.7 arrive avec...",
-      "excerpt": "Claude Opus 4.7 hausse le ton face à ChatGPT sur le raisonnement complexe. Par Samuel. 28 avril 2026. 7 min de lecture. Claude Opus 4.7 arrive avec...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "The big winner of this commission - YouTube",
-      "link": "https://www.youtube.com/watch?v=2niApL6kOGw",
-      "url": "https://www.youtube.com/watch?v=2niApL6kOGw",
-      "publishedAt": "2026-04-28T15:42:11.000Z",
-      "date": "2026-04-28T15:42:11.000Z",
-      "description": "6.1K views · 22:45 · Go to channel The Tech Report · ChatGPT 5.5: 'This is just a software update ' | Meredith Broussard. The Tech Report. New. 31K...",
-      "excerpt": "6.1K views · 22:45 · Go to channel The Tech Report · ChatGPT 5.5: 'This is just a software update ' | Meredith Broussard. The Tech Report. New. 31K...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI et Microsoft s'éloignent encore: l'alliance historique qui a popularisé l'IA générative...",
-      "link": "https://www.journaldugeek.com/2026/04/28/openai-et-microsoft-seloignent/",
-      "url": "https://www.journaldugeek.com/2026/04/28/openai-et-microsoft-seloignent/",
-      "publishedAt": "2026-04-28T15:13:33.000Z",
-      "date": "2026-04-28T15:13:33.000Z",
-      "description": "Néanmoins, si ChatGPT a été développé par OpenAI, sa création a... cybersécurité, entre autres, nous sommes ravis de poursuivre notre...",
-      "excerpt": "Néanmoins, si ChatGPT a été développé par OpenAI, sa création a... cybersécurité, entre autres, nous sommes ravis de poursuivre notre...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment “ranker” dans ChatGPT et les LLMs: retour d'expérience terrain - Abondance",
-      "link": "https://www.abondance.com/20260428-2210840-comment-ranker-dans-chatgpt-llms-retour-experience.html",
-      "url": "https://www.abondance.com/20260428-2210840-comment-ranker-dans-chatgpt-llms-retour-experience.html",
-      "publishedAt": "2026-04-28T15:10:39.000Z",
-      "date": "2026-04-28T15:10:39.000Z",
-      "description": "Avec l'émergence des LLM comme ChatGPT, Perplexity ou les AI Overviews de Google, l'utilisateur ne cherche plus une liste de résultats. Il attend une...",
-      "excerpt": "Avec l'émergence des LLM comme ChatGPT, Perplexity ou les AI Overviews de Google, l'utilisateur ne cherche plus une liste de résultats. Il attend une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
