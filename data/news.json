@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T02:03:15.275Z",
+  "generatedAt": "2026-04-30T08:04:51.462Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le pape dénonce l'IA… mais ses messages auraient été écrits par IA - Numerama",
+      "link": "https://www.numerama.com/tech/2244283-le-pape-denonce-lia-mais-ses-messages-auraient-ete-ecrits-par-ia.html",
+      "url": "https://www.numerama.com/tech/2244283-le-pape-denonce-lia-mais-ses-messages-auraient-ete-ecrits-par-ia.html",
+      "publishedAt": "2026-04-30T05:17:36.000Z",
+      "date": "2026-04-30T05:17:36.000Z",
+      "description": "Le Vatican met en garde contre l'intelligence artificielle, mais son compte X semble parler couramment ChatGPT. Selon Pangram Labs, logiciel de...",
+      "excerpt": "Le Vatican met en garde contre l'intelligence artificielle, mais son compte X semble parler couramment ChatGPT. Selon Pangram Labs, logiciel de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "-295 % d'installs ChatGPT, 600 employés Google en révolte: Les accords IA-Pentagone...",
+      "link": "https://www.cointribune.com/295-dinstalls-chatgpt-600-employes-google-en-revolte-les-accords-ia-pentagone-sement-le-doute/",
+      "url": "https://www.cointribune.com/295-dinstalls-chatgpt-600-employes-google-en-revolte-les-accords-ia-pentagone-sement-le-doute/",
+      "publishedAt": "2026-04-30T03:03:35.000Z",
+      "date": "2026-04-30T03:03:35.000Z",
+      "description": "-295 % d'installs ChatGPT, 600 employés Google en révolte: Les accords IA-Pentagone sèment le doute. mer 29 Avr 2026 ▫ 5 min de lecture ▫ par Evans S...",
+      "excerpt": "-295 % d'installs ChatGPT, 600 employés Google en révolte: Les accords IA-Pentagone sèment le doute. mer 29 Avr 2026 ▫ 5 min de lecture ▫ par Evans S...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT s'amuse à dire qu'il a résolu une énigme sur laquelle il passait pour un idiot - Numerama",
       "link": "https://www.numerama.com/tech/2243197-chatgpt-samuse-a-dire-quil-a-resolu-une-enigme-sur-laquelle-il-passait-pour-un-idiot.html",
@@ -108,26 +128,6 @@
       "description": "GPT-5.5, le tout dernier modèle d'OpenAI arrive avec de belles... cybersécurité: s'agit-il d'une vraie avancée? Voici ce qu'il faut savoir...",
       "excerpt": "GPT-5.5, le tout dernier modèle d'OpenAI arrive avec de belles... cybersécurité: s'agit-il d'une vraie avancée? Voici ce qu'il faut savoir...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Gemini en France devient plus puissant pour mieux vous connaître et vous faire lâcher ChatGPT",
-      "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3080845_gemini-en-france-devient-plus-puissant-pour-mieux-vous-connaitre-et-lacher-chatgpt",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3080845_gemini-en-france-devient-plus-puissant-pour-mieux-vous-connaitre-et-lacher-chatgpt",
-      "publishedAt": "2026-04-29T13:56:23.000Z",
-      "date": "2026-04-29T13:56:23.000Z",
-      "description": "... ChatGPT... Avec son Exynos 2700, Samsung réglerait enfin le problème héréditaire de ses SoC.",
-      "excerpt": "... ChatGPT... Avec son Exynos 2700, Samsung réglerait enfin le problème héréditaire de ses SoC.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "iOS 27: Apple prépare trois nouveaux outils photo avec l'IA - Charles Tech",
-      "link": "https://charlestech.fr/ios-27-apple-prepare-trois-nouveaux-outils-photo-l-ia/",
-      "url": "https://charlestech.fr/ios-27-apple-prepare-trois-nouveaux-outils-photo-l-ia/",
-      "publishedAt": "2026-04-29T12:39:23.000Z",
-      "date": "2026-04-29T12:39:23.000Z",
-      "description": "ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu. Trois fonctions distinctes en préparation. La première, Extend...",
-      "excerpt": "ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu. Trois fonctions distinctes en préparation. La première, Extend...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
