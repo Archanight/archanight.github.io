@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T19:09:45.428Z",
+  "generatedAt": "2026-04-30T02:03:15.275Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT s'amuse à dire qu'il a résolu une énigme sur laquelle il passait pour un idiot - Numerama",
+      "link": "https://www.numerama.com/tech/2243197-chatgpt-samuse-a-dire-quil-a-resolu-une-enigme-sur-laquelle-il-passait-pour-un-idiot.html",
+      "url": "https://www.numerama.com/tech/2243197-chatgpt-samuse-a-dire-quil-a-resolu-une-enigme-sur-laquelle-il-passait-pour-un-idiot.html",
+      "publishedAt": "2026-04-30T00:22:10.000Z",
+      "date": "2026-04-30T00:22:10.000Z",
+      "description": "C'était le cas notamment de GPT-5.2 Thinking, un modèle sorti en décembre 2025. En voiture ou à pied? En début d'année, c'était la problématique...",
+      "excerpt": "C'était le cas notamment de GPT-5.2 Thinking, un modèle sorti en décembre 2025. En voiture ou à pied? En début d'année, c'était la problématique...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un chercheur décortique le mécanisme publicitaire de ChatGPT jusqu'aux cookies déposés...",
+      "link": "https://intelligence-artificielle.developpez.com/actu/382716/Un-chercheur-decortique-le-mecanisme-publicitaire-de-ChatGPT-jusqu-aux-cookies-deposes-sur-les-sites-marchands-tandis-qu-OpenAI-rate-ses-objectifs-et-entraine-Oracle-dans-sa-chute/",
+      "url": "https://intelligence-artificielle.developpez.com/actu/382716/Un-chercheur-decortique-le-mecanisme-publicitaire-de-ChatGPT-jusqu-aux-cookies-deposes-sur-les-sites-marchands-tandis-qu-OpenAI-rate-ses-objectifs-et-entraine-Oracle-dans-sa-chute/",
+      "publishedAt": "2026-04-29T21:36:36.000Z",
+      "date": "2026-04-29T21:36:36.000Z",
+      "description": "... ChatGPT diffuse des publicités aux utilisateurs américains des... 27/08 - Seuls 5 % des experts en cybersécurité ont confiance dans les...",
+      "excerpt": "... ChatGPT diffuse des publicités aux utilisateurs américains des... 27/08 - Seuls 5 % des experts en cybersécurité ont confiance dans les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Ce procès pourrait anéantir ChatGPT!: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/ce-proces-pourrait-aneantir-chatgpt-CNT000002oWYIR.html",
+      "url": "https://actu.orange.fr/videos/high-tech/ce-proces-pourrait-aneantir-chatgpt-CNT000002oWYIR.html",
+      "publishedAt": "2026-04-29T19:35:32.000Z",
+      "date": "2026-04-29T19:35:32.000Z",
+      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics...",
+      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Indeed s'incruste dans ChatGPT pour que vous trouviez votre prochain emploi sans quitter... - Clubic",
       "link": "https://www.clubic.com/actualite-611149-indeed-s-incruste-dans-chatgpt-pour-que-vous-trouviez-votre-prochain-emploi-sans-quitter-la-celebre-plateforme.html",
@@ -98,36 +128,6 @@
       "description": "ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu. Trois fonctions distinctes en préparation. La première, Extend...",
       "excerpt": "ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu. Trois fonctions distinctes en préparation. La première, Extend...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Samsung Galaxy S27: l'arrivée de l'Exynos 2700? - IdealoGeek.fr",
-      "link": "https://idealogeek.fr/samsung-galaxy-s27-vers-une-montee-en-puissance-decisive-de-lexynos-2700/",
-      "url": "https://idealogeek.fr/samsung-galaxy-s27-vers-une-montee-en-puissance-decisive-de-lexynos-2700/",
-      "publishedAt": "2026-04-29T10:27:55.000Z",
-      "date": "2026-04-29T10:27:55.000Z",
-      "description": "... SoC. Ce choix technique présente plusieurs avantages concrets... ChatGPT -5.5- ChatGPT -Imagine-2.0 · ChatGPT...",
-      "excerpt": "... SoC. Ce choix technique présente plusieurs avantages concrets... ChatGPT -5.5- ChatGPT -Imagine-2.0 · ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Depuis 2022, un tiers des sites web créés sont générés par IA - Clubic",
-      "link": "https://www.clubic.com/actualite-610975-depuis-2022-un-tiers-des-sites-web-crees-sont-generes-par-ia.html",
-      "url": "https://www.clubic.com/actualite-610975-depuis-2022-un-tiers-des-sites-web-crees-sont-generes-par-ia.html",
-      "publishedAt": "2026-04-28T22:33:33.000Z",
-      "date": "2026-04-28T22:33:33.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT -5, Midjourney, Gemini et Claude réunis pour moins de 27 €,. À...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT -5, Midjourney, Gemini et Claude réunis pour moins de 27 €,. À...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI prend ses distances avec Microsoft - 28/04: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/economie/openai-prend-ses-distances-avec-microsoft-28-04-CNT000002oVFpd.html",
-      "url": "https://actu.orange.fr/videos/economie/openai-prend-ses-distances-avec-microsoft-28-04-CNT000002oVFpd.html",
-      "publishedAt": "2026-04-28T20:41:02.000Z",
-      "date": "2026-04-28T20:41:02.000Z",
-      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Culture IA: Ce que font réellement les utilisateurs avec ChatGPT, par...",
-      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Culture IA: Ce que font réellement les utilisateurs avec ChatGPT, par...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
