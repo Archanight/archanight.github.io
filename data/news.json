@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T19:06:13.612Z",
+  "generatedAt": "2026-05-01T02:07:18.294Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-5.5 aussi redoutable que Mythos en matière de hacking? Les tests inquiètent",
+      "link": "https://www.lebigdata.fr/gpt-5-5-aussi-redoutable-que-mythos-en-matiere-de-hacking-les-tests-inquietent",
+      "url": "https://www.lebigdata.fr/gpt-5-5-aussi-redoutable-que-mythos-en-matiere-de-hacking-les-tests-inquietent",
+      "publishedAt": "2026-04-30T20:52:31.000Z",
+      "date": "2026-04-30T20:52:31.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Apprendre avec ChatGPT rend-il plus bête? Une étude révèle un gros...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Apprendre avec ChatGPT rend-il plus bête? Une étude révèle un gros...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Sam Altman annonce qu'un nouveau modèle de pointe axé sur la cybersécurité, GPT-5.5...",
+      "link": "https://intelligence-artificielle.developpez.com/actu/382761/Sam-Altman-annonce-qu-un-nouveau-modele-de-pointe-axe-sur-la-cybersecurite-GPT-5-5-Cyber-sera-mis-a-la-disposition-des-acteurs-cles-de-la-cyberdefense-afin-de-securiser-les-infrastructures-des-entreprises/",
+      "url": "https://intelligence-artificielle.developpez.com/actu/382761/Sam-Altman-annonce-qu-un-nouveau-modele-de-pointe-axe-sur-la-cybersecurite-GPT-5-5-Cyber-sera-mis-a-la-disposition-des-acteurs-cles-de-la-cyberdefense-afin-de-securiser-les-infrastructures-des-entreprises/",
+      "publishedAt": "2026-04-30T20:09:44.000Z",
+      "date": "2026-04-30T20:09:44.000Z",
+      "description": "Le lancement de ChatGPT en novembre 2022 est considéré comme ayant... Les lancements précédents de ses séries GPT-4 et GPT-5 ont donné lieu...",
+      "excerpt": "Le lancement de ChatGPT en novembre 2022 est considéré comme ayant... Les lancements précédents de ses séries GPT-4 et GPT-5 ont donné lieu...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Musk / Altman: une guerre de pouvoir?: Actualités - Orange Actu",
       "link": "https://actu.orange.fr/videos/monde/musk-altman-une-guerre-de-pouvoir-CNT000002oY8Du.html",
@@ -107,26 +127,6 @@
       "date": "2026-04-30T15:42:36.000Z",
       "description": "Cybersécurité · Robotique · Cloud · Economie · IA News · Tech · Media / Adtech... ChatGPT, Gemini, Claude: faut-il encore optimiser pour Google en...",
       "excerpt": "Cybersécurité · Robotique · Cloud · Economie · IA News · Tech · Media / Adtech... ChatGPT, Gemini, Claude: faut-il encore optimiser pour Google en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'Afrique du Sud a utilisé l'IA pour écrire une loi sur l'IA, mais ça a mal tourné - 01net.com",
-      "link": "https://www.01net.com/actualites/afrique-sud-a-utilise-lia-ecrire-loi-ia-sources-etaient-fausses.html",
-      "url": "https://www.01net.com/actualites/afrique-sud-a-utilise-lia-ecrire-loi-ia-sources-etaient-fausses.html",
-      "publishedAt": "2026-04-30T15:39:23.000Z",
-      "date": "2026-04-30T15:39:23.000Z",
-      "description": "ChatGPT, Gemini et Claude seraient meilleurs que les pubs pour vendre... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "excerpt": "ChatGPT, Gemini et Claude seraient meilleurs que les pubs pour vendre... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des gobelins et des gremlins envahissent ChatGPT: OpenAI désigne un coupable",
-      "link": "https://www.01net.com/actualites/des-gobelins-et-des-gremlins-envahissent-chatgpt-openai-designe-un-coupable.html",
-      "url": "https://www.01net.com/actualites/des-gobelins-et-des-gremlins-envahissent-chatgpt-openai-designe-un-coupable.html",
-      "publishedAt": "2026-04-30T15:30:59.000Z",
-      "date": "2026-04-30T15:30:59.000Z",
-      "description": "Des gobelins et des gremlins envahissent ChatGPT -5.5 et plus généralement les différents modèles d'OpenAI.... Cybersécurité · Société · Télécoms · Auto...",
-      "excerpt": "Des gobelins et des gremlins envahissent ChatGPT -5.5 et plus généralement les différents modèles d'OpenAI.... Cybersécurité · Société · Télécoms · Auto...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
