@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T12:48:12.535Z",
+  "generatedAt": "2026-05-02T18:43:31.409Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "La revanche de la Comtesse - Numerama",
+      "link": "https://www.numerama.com/tech/2245489-la-revanche-de-la-comtesse.html",
+      "url": "https://www.numerama.com/tech/2245489-la-revanche-de-la-comtesse.html",
+      "publishedAt": "2026-05-02T14:31:05.000Z",
+      "date": "2026-05-02T14:31:05.000Z",
+      "description": "Toutes les infos sur ChatGPT · Le pape dénonce l'IA… mais ses messages auraient été écrits par IA · ChatGPT s'amuse à dire qu'il a résolu une énigme...",
+      "excerpt": "Toutes les infos sur ChatGPT · Le pape dénonce l'IA… mais ses messages auraient été écrits par IA · ChatGPT s'amuse à dire qu'il a résolu une énigme...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Instagram: vos photos d'été vous semblent fades? Ces prompts IA peuvent tout changer",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/instagram-vos-photos-d-ete-vous-semblent-fades-ces-prompts-ia-peuvent-tout-changer-a254754.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/instagram-vos-photos-d-ete-vous-semblent-fades-ces-prompts-ia-peuvent-tout-changer-a254754.html",
+      "publishedAt": "2026-05-02T10:06:14.000Z",
+      "date": "2026-05-02T10:06:14.000Z",
+      "description": "Copiez-collez ceci dans ChatGPT ou Gemini en insérant votre photo d'origine:... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus...",
+      "excerpt": "Copiez-collez ceci dans ChatGPT ou Gemini en insérant votre photo d'origine:... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Sam Altman accuse Mythos d'Anthropic de \"jouer sur la peur\", puis fait exactement pareil avec Cyber",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/sam-altman-accuse-mythos-d-anthropic-de-jouer-sur-la-peur-puis-fait-exactement-pareil-avec-cyber-n255302.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/sam-altman-accuse-mythos-d-anthropic-de-jouer-sur-la-peur-puis-fait-exactement-pareil-avec-cyber-n255302.html",
+      "publishedAt": "2026-05-02T09:21:53.000Z",
+      "date": "2026-05-02T09:21:53.000Z",
+      "description": "Ces utilisateurs accèdent au modèle avec moins de restrictions sur les tâches de cybersécurité. À lire également: OpenAI dévoile ChatGPT GPT-5.5:...",
+      "excerpt": "Ces utilisateurs accèdent au modèle avec moins de restrictions sur les tâches de cybersécurité. À lire également: OpenAI dévoile ChatGPT GPT-5.5:...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT: OpenAI Faces Legal Storm Over Violence & Crime - IMDb",
       "link": "https://www.imdb.com/fr/news/ni65822490/?ref_=tt_nwr_2",
@@ -98,36 +128,6 @@
       "description": "OpenAI veut mieux protéger les comptes ChatGPT les plus sensibles. Avec « Advanced Account Security », l'entreprise introduit un mode de sécurité...",
       "excerpt": "OpenAI veut mieux protéger les comptes ChatGPT les plus sensibles. Avec « Advanced Account Security », l'entreprise introduit un mode de sécurité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI révèle le problème de ChatGPT avec les gobelins! #shorts: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/high-tech/openai-revele-le-probleme-de-chatgpt-avec-les-gobelins-shorts-CNT000002oYYnQ.html",
-      "url": "https://actu.orange.fr/videos/high-tech/openai-revele-le-probleme-de-chatgpt-avec-les-gobelins-shorts-CNT000002oYYnQ.html",
-      "publishedAt": "2026-05-01T10:23:51.000Z",
-      "date": "2026-05-01T10:23:51.000Z",
-      "description": "ChatGPT a un problème avec les gobelins? OpenAI a donné une... Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers.",
-      "excerpt": "ChatGPT a un problème avec les gobelins? OpenAI a donné une... Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un bouclier physique pour votre IA! OpenAI passe au niveau supérieur en intégrant le support...",
-      "link": "https://x.com/BlogNT/status/2050105946727178529/photo/1",
-      "url": "https://x.com/BlogNT/status/2050105946727178529/photo/1",
-      "publishedAt": "2026-05-01T07:10:48.000Z",
-      "date": "2026-05-01T07:10:48.000Z",
-      "description": "... données ici https://t.co/noYo89bfig #OpenAI # ChatGPT # CyberSécurité #YubiKey #TechNews.",
-      "excerpt": "... données ici https://t.co/noYo89bfig #OpenAI # ChatGPT # CyberSécurité #YubiKey #TechNews.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI des YubiKeys personnalisées et résistantes au phishing - Weekly Voice",
-      "link": "https://weeklyvoice.com/openai-et-yubico-sassocient-pour-proposer-aux-utilisateurs-dopenai-des-yubikeys-personnalisees-et-resistantes-au-phishing/",
-      "url": "https://weeklyvoice.com/openai-et-yubico-sassocient-pour-proposer-aux-utilisateurs-dopenai-des-yubikeys-personnalisees-et-resistantes-au-phishing/",
-      "publishedAt": "2026-05-01T05:44:08.000Z",
-      "date": "2026-05-01T05:44:08.000Z",
-      "description": "... phishing et créateur de la YubiKey, la référence en matière de... ChatGPT. Dèsaujourd'hui, les utilisateurs peuvent acheter un nouveau pack de.",
-      "excerpt": "... phishing et créateur de la YubiKey, la référence en matière de... ChatGPT. Dèsaujourd'hui, les utilisateurs peuvent acheter un nouveau pack de.",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     }
   ]
 }
