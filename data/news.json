@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T07:19:36.632Z",
+  "generatedAt": "2026-05-02T12:48:12.535Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT: OpenAI Faces Legal Storm Over Violence & Crime - IMDb",
+      "link": "https://www.imdb.com/fr/news/ni65822490/?ref_=tt_nwr_2",
+      "url": "https://www.imdb.com/fr/news/ni65822490/?ref_=tt_nwr_2",
+      "publishedAt": "2026-05-02T03:34:16.000Z",
+      "date": "2026-05-02T03:34:16.000Z",
+      "description": "Soon after the announcement of a criminal investigation after lawsuits were filed about crimes involving OpenAI and ChatGPT, new details emerged...",
+      "excerpt": "Soon after the announcement of a criminal investigation after lawsuits were filed about crimes involving OpenAI and ChatGPT, new details emerged...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "OpenAI renforce la sécurité de ChatGPT avec des clés physiques en partenariat avec Yubico",
       "link": "https://www.fredzone.org/openai-renforce-la-securite-de-chatgpt-avec-des-cles-physiques-en-partenariat-avec-yubico/",
@@ -118,16 +128,6 @@
       "description": "... phishing et créateur de la YubiKey, la référence en matière de... ChatGPT. Dèsaujourd'hui, les utilisateurs peuvent acheter un nouveau pack de.",
       "excerpt": "... phishing et créateur de la YubiKey, la référence en matière de... ChatGPT. Dèsaujourd'hui, les utilisateurs peuvent acheter un nouveau pack de.",
       "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "ChatGPT: OpenAI officialise la surveillance de vos conversations dans un billet de blog surréaliste",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-openai-officialise-la-surveillance-de-vos-conversations-dans-un-billet-de-blog-surrealiste-n255180.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-openai-officialise-la-surveillance-de-vos-conversations-dans-un-billet-de-blog-surrealiste-n255180.html",
-      "publishedAt": "2026-05-01T01:34:35.000Z",
-      "date": "2026-05-01T01:34:35.000Z",
-      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
