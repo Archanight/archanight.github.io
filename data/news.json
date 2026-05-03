@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T18:43:31.409Z",
+  "generatedAt": "2026-05-03T01:57:33.192Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "So, no more alternate prompts/responses in a Plus chat?: r/ ChatGPT - Reddit",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1t1tprv/so_no_more_alternate_promptsresponses_in_a_plus/",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1t1tprv/so_no_more_alternate_promptsresponses_in_a_plus/",
+      "publishedAt": "2026-05-02T16:47:21.000Z",
+      "date": "2026-05-02T16:47:21.000Z",
+      "description": "We have free bots with GPT-4 (with vision), image generators, and more!... r/ ChatGPT - ChatGPT just went crazy with this update. 2. 29 upvotes...",
+      "excerpt": "We have free bots with GPT-4 (with vision), image generators, and more!... r/ ChatGPT - ChatGPT just went crazy with this update. 2. 29 upvotes...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "La revanche de la Comtesse - Numerama",
       "link": "https://www.numerama.com/tech/2245489-la-revanche-de-la-comtesse.html",
@@ -47,6 +57,16 @@
       "date": "2026-05-02T03:34:16.000Z",
       "description": "Soon after the announcement of a criminal investigation after lawsuits were filed about crimes involving OpenAI and ChatGPT, new details emerged...",
       "excerpt": "Soon after the announcement of a criminal investigation after lawsuits were filed about crimes involving OpenAI and ChatGPT, new details emerged...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT vs. the Goths: It goes wrong - YouTube",
+      "link": "https://www.youtube.com/shorts/1lItTEu1jxQ",
+      "url": "https://www.youtube.com/shorts/1lItTEu1jxQ",
+      "publishedAt": "2026-05-01T19:27:46.000Z",
+      "date": "2026-05-01T19:27:46.000Z",
+      "description": "J'ai testé la dernière mise à jour de ChatGPT et je suis de mauvaise foi! #histoire #aifails #test.",
+      "excerpt": "J'ai testé la dernière mise à jour de ChatGPT et je suis de mauvaise foi! #histoire #aifails #test.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
@@ -108,26 +128,6 @@
       "description": "... ChatGPT, qui la propose également gratuitement. Gemini génère enfin... Vincent Strubel Anssi Cybersécurité. Le chiffrement ne protège ni des...",
       "excerpt": "... ChatGPT, qui la propose également gratuitement. Gemini génère enfin... Vincent Strubel Anssi Cybersécurité. Le chiffrement ne protège ni des...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI préparerait un « AI agent phone » pour remplacer les apps par des agents IA",
-      "link": "https://www.blog-nouvelles-technologies.fr/367491/openai-smartphone-ia-agent-qualcomm-luxshare-2028/",
-      "url": "https://www.blog-nouvelles-technologies.fr/367491/openai-smartphone-ia-agent-qualcomm-luxshare-2028/",
-      "publishedAt": "2026-05-01T13:52:57.000Z",
-      "date": "2026-05-01T13:52:57.000Z",
-      "description": "OpenAI pourrait aller bien au-delà de ChatGPT. Selon Ming-Chi Kuo, l'entreprise travaillerait avec MediaTek, Qualcomm et Luxshare sur un...",
-      "excerpt": "OpenAI pourrait aller bien au-delà de ChatGPT. Selon Ming-Chi Kuo, l'entreprise travaillerait avec MediaTek, Qualcomm et Luxshare sur un...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI renforce la sécurité de ChatGPT avec des clés physiques YubiKey - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/367488/openai-chatgpt-advanced-account-security-yubikey-protection-2026/",
-      "url": "https://www.blog-nouvelles-technologies.fr/367488/openai-chatgpt-advanced-account-security-yubikey-protection-2026/",
-      "publishedAt": "2026-05-01T12:52:39.000Z",
-      "date": "2026-05-01T12:52:39.000Z",
-      "description": "OpenAI veut mieux protéger les comptes ChatGPT les plus sensibles. Avec « Advanced Account Security », l'entreprise introduit un mode de sécurité...",
-      "excerpt": "OpenAI veut mieux protéger les comptes ChatGPT les plus sensibles. Avec « Advanced Account Security », l'entreprise introduit un mode de sécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
