@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T07:48:07.086Z",
+  "generatedAt": "2026-05-03T12:48:07.657Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Oscars: l'académie ferme la porte aux acteurs et scénarios issus de l'IA - Charles Tech",
+      "link": "https://charlestech.fr/oscars-l-academie-ferme-porte-acteurs-scenarios-issus-l-ia/",
+      "url": "https://charlestech.fr/oscars-l-academie-ferme-porte-acteurs-scenarios-issus-l-ia/",
+      "publishedAt": "2026-05-03T08:24:32.000Z",
+      "date": "2026-05-03T08:24:32.000Z",
+      "description": "Oppo find X6 Pro: Une version avec un SoC MediaTek Dimensity 9200... ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que...",
+      "excerpt": "Oppo find X6 Pro: Une version avec un SoC MediaTek Dimensity 9200... ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "So, no more alternate prompts/responses in a Plus chat?: r/ ChatGPT - Reddit",
       "link": "https://www.reddit.com/r/ChatGPT/comments/1t1tprv/so_no_more_alternate_promptsresponses_in_a_plus/",
@@ -117,16 +127,6 @@
       "date": "2026-05-01T15:19:09.000Z",
       "description": "De nombreux utilisateurs de ChatGPT ont mentionné des références aux gobelins sur GPT-5.5 pendant plusieurs jours... \"On a foiré\": Sam...",
       "excerpt": "De nombreux utilisateurs de ChatGPT ont mentionné des références aux gobelins sur GPT-5.5 pendant plusieurs jours... \"On a foiré\": Sam...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Gemini peut enfin faire ce que Claude et ChatGPT font depuis des mois - 01net.com",
-      "link": "https://www.01net.com/actualites/gemini-peut-enfin-faire-ce-que-chatgpt-fait-depuis-des-mois.html",
-      "url": "https://www.01net.com/actualites/gemini-peut-enfin-faire-ce-que-chatgpt-fait-depuis-des-mois.html",
-      "publishedAt": "2026-05-01T15:04:04.000Z",
-      "date": "2026-05-01T15:04:04.000Z",
-      "description": "... ChatGPT, qui la propose également gratuitement. Gemini génère enfin... Vincent Strubel Anssi Cybersécurité. Le chiffrement ne protège ni des...",
-      "excerpt": "... ChatGPT, qui la propose également gratuitement. Gemini génère enfin... Vincent Strubel Anssi Cybersécurité. Le chiffrement ne protège ni des...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
