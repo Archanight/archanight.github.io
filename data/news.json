@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T18:44:02.084Z",
+  "generatedAt": "2026-05-04T01:58:55.016Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "IA, data et cybersécurité: les nouveaux piliers du retail",
+      "link": "https://www.republik-retail.fr/solutions-techno/data/ia-data-et-cybersecurite-les-nouveaux-piliers-du-retail.html",
+      "url": "https://www.republik-retail.fr/solutions-techno/data/ia-data-et-cybersecurite-les-nouveaux-piliers-du-retail.html",
+      "publishedAt": "2026-05-03T22:01:32.000Z",
+      "date": "2026-05-03T22:01:32.000Z",
+      "description": "... cybersécurité et la nécessité de bâtir une gouvernance solide de la donnée.... Accor a lancé fin janvier une application ALL Accor sur ChatGPT afin d'...",
+      "excerpt": "... cybersécurité et la nécessité de bâtir une gouvernance solide de la donnée.... Accor a lancé fin janvier une application ALL Accor sur ChatGPT afin d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Stop aux abonnements multiples ( ChatGPT, Claude, Gemini..) découvrez l'offre 1minAI Pro... - Clubic",
       "link": "https://www.clubic.com/bons-plans-611512-minai-pro-a-26-a-vie-l-alternative-maligne-pour-centraliser-les-modeles-ia-chatgpt-claude-gemini.html",
@@ -117,16 +127,6 @@
       "date": "2026-05-02T03:34:16.000Z",
       "description": "Soon after the announcement of a criminal investigation after lawsuits were filed about crimes involving OpenAI and ChatGPT, new details emerged...",
       "excerpt": "Soon after the announcement of a criminal investigation after lawsuits were filed about crimes involving OpenAI and ChatGPT, new details emerged...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT vs. the Goths: It goes wrong - YouTube",
-      "link": "https://www.youtube.com/shorts/1lItTEu1jxQ",
-      "url": "https://www.youtube.com/shorts/1lItTEu1jxQ",
-      "publishedAt": "2026-05-01T19:27:46.000Z",
-      "date": "2026-05-01T19:27:46.000Z",
-      "description": "J'ai testé la dernière mise à jour de ChatGPT et je suis de mauvaise foi! #histoire #aifails #test.",
-      "excerpt": "J'ai testé la dernière mise à jour de ChatGPT et je suis de mauvaise foi! #histoire #aifails #test.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
