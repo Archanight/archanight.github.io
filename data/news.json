@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T08:18:02.546Z",
+  "generatedAt": "2026-05-04T13:23:17.243Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,76 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Codex Pets: pourquoi OpenAI parie sur des animaux de compagnie virtuels pour exister...",
+      "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3086139_codex-pets-pourquoi-openai-parie-sur-des-animaux-de-compagnie-virtuels-pour-exister-face-a-claude-code-et-cursor-en-2026",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3086139_codex-pets-pourquoi-openai-parie-sur-des-animaux-de-compagnie-virtuels-pour-exister-face-a-claude-code-et-cursor-en-2026",
+      "publishedAt": "2026-05-04T11:46:12.000Z",
+      "date": "2026-05-04T11:46:12.000Z",
+      "description": "OpenAI lance GPT-5 -Codex: l'IA qui prend son temps pour mieux coder. OpenAI ( ChatGPT ). OpenAI veut créer une « super-app » en...",
+      "excerpt": "OpenAI lance GPT-5 -Codex: l'IA qui prend son temps pour mieux coder. OpenAI ( ChatGPT ). OpenAI veut créer une « super-app » en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.5 d'OpenAI rivalise avec Claude Mythos d'Anthropic en matière de capacités de cyberattaque",
+      "link": "https://intelligence-artificielle.developpez.com/actu/382812/GPT-5-5-d-OpenAI-rivalise-avec-Claude-Mythos-d-Anthropic-en-matiere-de-capacites-de-cyberattaque-la-cybermenace-representee-par-Mythos-ne-serait-pas-une-avancee-propre-a-un-seul-modele/",
+      "url": "https://intelligence-artificielle.developpez.com/actu/382812/GPT-5-5-d-OpenAI-rivalise-avec-Claude-Mythos-d-Anthropic-en-matiere-de-capacites-de-cyberattaque-la-cybermenace-representee-par-Mythos-ne-serait-pas-une-avancee-propre-a-un-seul-modele/",
+      "publishedAt": "2026-05-04T11:14:00.000Z",
+      "date": "2026-05-04T11:14:00.000Z",
+      "description": "... cybersécurité de gravité élevée dans les principaux systèmes d'exploitation et navigateurs web.... Le lancement de ChatGPT en novembre 2022 est...",
+      "excerpt": "... cybersécurité de gravité élevée dans les principaux systèmes d'exploitation et navigateurs web.... Le lancement de ChatGPT en novembre 2022 est...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT continue de perdre des utilisateurs, et ça tombe vraiment mal pour OpenAI",
+      "link": "https://www.01net.com/actualites/chatgpt-continue-perdre-utilisateurs-nombre-desinstallations-explose.html",
+      "url": "https://www.01net.com/actualites/chatgpt-continue-perdre-utilisateurs-nombre-desinstallations-explose.html",
+      "publishedAt": "2026-05-04T10:41:41.000Z",
+      "date": "2026-05-04T10:41:41.000Z",
+      "description": "ChatGPT continue de perdre des utilisateurs, et ça tombe vraiment mal pour OpenAI... Cybersécurité · Société · Télécoms · Auto · Médias · Politique &...",
+      "excerpt": "ChatGPT continue de perdre des utilisateurs, et ça tombe vraiment mal pour OpenAI... Cybersécurité · Société · Télécoms · Auto · Médias · Politique &...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Deux ans après son lancement, Le Chat rivalise-t-il avec ChatGPT? - BDM",
+      "link": "https://www.blogdumoderateur.com/le-chat-rivalise-chatgpt-deux-ans-apres/",
+      "url": "https://www.blogdumoderateur.com/le-chat-rivalise-chatgpt-deux-ans-apres/",
+      "publishedAt": "2026-05-04T10:13:03.000Z",
+      "date": "2026-05-04T10:13:03.000Z",
+      "description": "Interviews OpenAI Anthropic Stratégie digitale Productivité Adobe Design Transformation digitale Gemini Cybersécurité Formation Développement.",
+      "excerpt": "Interviews OpenAI Anthropic Stratégie digitale Productivité Adobe Design Transformation digitale Gemini Cybersécurité Formation Développement.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment sécuriser votre compte ChatGPT - BDM",
+      "link": "https://www.blogdumoderateur.com/comment-securiser-compte-chatgpt/",
+      "url": "https://www.blogdumoderateur.com/comment-securiser-compte-chatgpt/",
+      "publishedAt": "2026-05-04T09:36:45.000Z",
+      "date": "2026-05-04T09:36:45.000Z",
+      "description": "Trouvez un emploi dans la cybersécurité · BDM / Articles / IA / Comment sécuriser votre compte ChatGPT. Thèmes populaires. Interviews OpenAI Anthropic...",
+      "excerpt": "Trouvez un emploi dans la cybersécurité · BDM / Articles / IA / Comment sécuriser votre compte ChatGPT. Thèmes populaires. Interviews OpenAI Anthropic...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.5-Cyber, le nouveau modèle d'OpenAI qui rivalise avec Mythos - BDM",
+      "link": "https://www.blogdumoderateur.com/gpt-5-5-cyber-nouveau-modele-openai-rivalise-mythos/",
+      "url": "https://www.blogdumoderateur.com/gpt-5-5-cyber-nouveau-modele-openai-rivalise-mythos/",
+      "publishedAt": "2026-05-04T09:17:27.000Z",
+      "date": "2026-05-04T09:17:27.000Z",
+      "description": "openai- gpt-5 -5... Début avril, Anthropic avait limité l'accès à Mythos, son propre modèle spécialisé en cybersécurité...",
+      "excerpt": "openai- gpt-5 -5... Début avril, Anthropic avait limité l'accès à Mythos, son propre modèle spécialisé en cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le nouveau design de Gemini a fuité: Google prépare du lourd pour sa conférence I/O",
+      "link": "https://www.numerama.com/tech/2245791-le-nouveau-design-de-gemini-a-fuite-google-prepare-du-lourd-pour-sa-conference-i-o.html",
+      "url": "https://www.numerama.com/tech/2245791-le-nouveau-design-de-gemini-a-fuite-google-prepare-du-lourd-pour-sa-conference-i-o.html",
+      "publishedAt": "2026-05-04T08:31:19.000Z",
+      "date": "2026-05-04T08:31:19.000Z",
+      "description": "Gemini va-t-il monter en puissance pour détrôner ChatGPT et Claude dans le cœur des utilisateurs? À en croire plusieurs captures d'écran publiées...",
+      "excerpt": "Gemini va-t-il monter en puissance pour détrôner ChatGPT et Claude dans le cœur des utilisateurs? À en croire plusieurs captures d'écran publiées...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Plus de mots de passe pour ChatGPT: OpenAI lance un mode de sécurité renforcé basé sur...",
       "link": "https://www.01net.com/actualites/plus-de-mots-de-passe-pour-chatgpt-openai-lance-un-mode-de-securite-renforce-base-sur-les-yubikeys.html",
@@ -50,84 +120,14 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Adobe élargit son écosystème IA avec AWS, Anthropic, Microsoft et Google pour unifier l...",
-      "link": "https://www.zdnet.fr/actualites/adobe-elargit-son-ecosysteme-ia-avec-aws-anthropic-microsoft-et-google-pour-unifier-lexperience-client-494482.htm",
-      "url": "https://www.zdnet.fr/actualites/adobe-elargit-son-ecosysteme-ia-avec-aws-anthropic-microsoft-et-google-pour-unifier-lexperience-client-494482.htm",
-      "publishedAt": "2026-05-04T06:13:56.000Z",
-      "date": "2026-05-04T06:13:56.000Z",
-      "description": "ChatGPT retient bien plus d'informations personnelles qu'on ne le croit. Quelques réglages simples suffisent pourtant à reprendre la main sur ses...",
-      "excerpt": "ChatGPT retient bien plus d'informations personnelles qu'on ne le croit. Quelques réglages simples suffisent pourtant à reprendre la main sur ses...",
+      "title": "Afrique du Sud, l'IA piégée par sa propre loi, par Anthony Morel - 04/05: Actualités - Orange",
+      "link": "https://actu.orange.fr/videos/economie/culture-ia-afrique-du-sud-l-ia-piegee-par-sa-propre-loi-par-anthony-morel-04-05-CNT000002p0OV5.html",
+      "url": "https://actu.orange.fr/videos/economie/culture-ia-afrique-du-sud-l-ia-piegee-par-sa-propre-loi-par-anthony-morel-04-05-CNT000002p0OV5.html",
+      "publishedAt": "2026-05-04T06:59:43.000Z",
+      "date": "2026-05-04T06:59:43.000Z",
+      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et... Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel - 25/11.",
+      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et... Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel - 25/11.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Grok, l'IA d'Elon Musk, bientôt sur CarPlay - Mac4Ever",
-      "link": "https://www.mac4ever.com/mobilite/195978-grok-l-ia-d-elon-musk-bientot-sur-carplay",
-      "url": "https://www.mac4ever.com/mobilite/195978-grok-l-ia-d-elon-musk-bientot-sur-carplay",
-      "publishedAt": "2026-05-04T05:30:57.000Z",
-      "date": "2026-05-04T05:30:57.000Z",
-      "description": "ChatGPT, Perplexity, Grok… et bientôt Siri nouvelle génération: tous cherchent à devenir l'interface conversationnelle principale du conducteur. La...",
-      "excerpt": "ChatGPT, Perplexity, Grok… et bientôt Siri nouvelle génération: tous cherchent à devenir l'interface conversationnelle principale du conducteur. La...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité et IA: GPT-5.5 surclasse déjà Mythos et change l'équilibre - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/cybersecurite-et-ia-gpt-5-5-surclasse-mythos-et-rebat-les-cartes-de-la-securite-informatique-494473.htm",
-      "url": "https://www.zdnet.fr/actualites/cybersecurite-et-ia-gpt-5-5-surclasse-mythos-et-rebat-les-cartes-de-la-securite-informatique-494473.htm",
-      "publishedAt": "2026-05-04T05:18:29.000Z",
-      "date": "2026-05-04T05:18:29.000Z",
-      "description": "gpt-5 -flagship-hero. © OpenAI. GPT-5.5 s'impose comme une nouvelle... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
-      "excerpt": "gpt-5 -flagship-hero. © OpenAI. GPT-5.5 s'impose comme une nouvelle... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.5: aussi redoutable que Mythos! | LesNews",
-      "link": "https://lesnews.ca/intelligence-artificielle/gpt-5-5-aussi-redoutable-que-mythos/",
-      "url": "https://lesnews.ca/intelligence-artificielle/gpt-5-5-aussi-redoutable-que-mythos/",
-      "publishedAt": "2026-05-03T23:59:08.000Z",
-      "date": "2026-05-03T23:59:08.000Z",
-      "description": "Sam Altman, le PDG d'OpenAI, a réagi sur le réseau social X, qualifiant l'initiative d'Anthropic de “marketing basé sur la peur”. Selon lui, cette...",
-      "excerpt": "Sam Altman, le PDG d'OpenAI, a réagi sur le réseau social X, qualifiant l'initiative d'Anthropic de “marketing basé sur la peur”. Selon lui, cette...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA, data et cybersécurité: les nouveaux piliers du retail",
-      "link": "https://www.republik-retail.fr/solutions-techno/data/ia-data-et-cybersecurite-les-nouveaux-piliers-du-retail.html",
-      "url": "https://www.republik-retail.fr/solutions-techno/data/ia-data-et-cybersecurite-les-nouveaux-piliers-du-retail.html",
-      "publishedAt": "2026-05-03T22:01:32.000Z",
-      "date": "2026-05-03T22:01:32.000Z",
-      "description": "... cybersécurité et la nécessité de bâtir une gouvernance solide de la donnée.... Accor a lancé fin janvier une application ALL Accor sur ChatGPT afin d'...",
-      "excerpt": "... cybersécurité et la nécessité de bâtir une gouvernance solide de la donnée.... Accor a lancé fin janvier une application ALL Accor sur ChatGPT afin d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Stop aux abonnements multiples ( ChatGPT, Claude, Gemini..) découvrez l'offre 1minAI Pro... - Clubic",
-      "link": "https://www.clubic.com/bons-plans-611512-minai-pro-a-26-a-vie-l-alternative-maligne-pour-centraliser-les-modeles-ia-chatgpt-claude-gemini.html",
-      "url": "https://www.clubic.com/bons-plans-611512-minai-pro-a-26-a-vie-l-alternative-maligne-pour-centraliser-les-modeles-ia-chatgpt-claude-gemini.html",
-      "publishedAt": "2026-05-03T17:47:34.000Z",
-      "date": "2026-05-03T17:47:34.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT - ©dednuel images / Shutterstock.",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT - ©dednuel images / Shutterstock.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Une nouvelle fédération française a été piratée: les données de 2 millions de personnes...",
-      "link": "https://www.01net.com/actualites/nouvelle-federation-francaise-piratee-donnees-2-millions-personnes-compromises.html",
-      "url": "https://www.01net.com/actualites/nouvelle-federation-francaise-piratee-donnees-2-millions-personnes-compromises.html",
-      "publishedAt": "2026-05-03T15:20:27.000Z",
-      "date": "2026-05-03T15:20:27.000Z",
-      "description": "Cybersécurité · Gang Pirates France. Des ados en « quête de notoriété... ChatGPT · Microsoft 365 · Opera One · Avast One. Les tests à la une. AirPods...",
-      "excerpt": "Cybersécurité · Gang Pirates France. Des ados en « quête de notoriété... ChatGPT · Microsoft 365 · Opera One · Avast One. Les tests à la une. AirPods...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Marre de cuisiner tous les soirs? Voici 6 prompts ChatGPT pour organiser toute votre semaine",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/marre-de-cuisiner-tous-les-soirs-voici-6-prompts-chatgpt-pour-organiser-toute-votre-semaine-n255242.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/marre-de-cuisiner-tous-les-soirs-voici-6-prompts-chatgpt-pour-organiser-toute-votre-semaine-n255242.html",
-      "publishedAt": "2026-05-03T13:11:48.000Z",
-      "date": "2026-05-03T13:11:48.000Z",
-      "description": "Besoin d'aide pour préparer vos plats de la semaine? Nous avons 6 prompts ChatGPT qui devraient vous faciliter la vie, de l'organisation à la...",
-      "excerpt": "Besoin d'aide pour préparer vos plats de la semaine? Nous avons 6 prompts ChatGPT qui devraient vous faciliter la vie, de l'organisation à la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
