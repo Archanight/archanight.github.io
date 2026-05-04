@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T01:58:55.016Z",
+  "generatedAt": "2026-05-04T08:18:02.546Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,86 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Plus de mots de passe pour ChatGPT: OpenAI lance un mode de sécurité renforcé basé sur...",
+      "link": "https://www.01net.com/actualites/plus-de-mots-de-passe-pour-chatgpt-openai-lance-un-mode-de-securite-renforce-base-sur-les-yubikeys.html",
+      "url": "https://www.01net.com/actualites/plus-de-mots-de-passe-pour-chatgpt-openai-lance-un-mode-de-securite-renforce-base-sur-les-yubikeys.html",
+      "publishedAt": "2026-05-04T07:42:04.000Z",
+      "date": "2026-05-04T07:42:04.000Z",
+      "description": "... ChatGPT. En s'associant à... OpenAI veut éviter une débâcle similaire à celle de Mythos, la version de Claude taillée pour la cybersécurité.",
+      "excerpt": "... ChatGPT. En s'associant à... OpenAI veut éviter une débâcle similaire à celle de Mythos, la version de Claude taillée pour la cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT, Gemini et Claude auraient expliqué comment créer des armes biologiques",
+      "link": "https://www.numerama.com/tech/2245675-chatgpt-gemini-et-claude-auraient-explique-comment-creer-des-armes-biologiques.html",
+      "url": "https://www.numerama.com/tech/2245675-chatgpt-gemini-et-claude-auraient-explique-comment-creer-des-armes-biologiques.html",
+      "publishedAt": "2026-05-04T07:37:28.000Z",
+      "date": "2026-05-04T07:37:28.000Z",
+      "description": "Depuis GPT-5 OpenAI propose de converser avec des Cynique...",
+      "excerpt": "Depuis GPT-5 OpenAI propose de converser avec des Cynique...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Elon Musk admet avoir utilisé ChatGPT pour entraîner Grok - Mac4Ever",
+      "link": "https://www.mac4ever.com/ia/195980-elon-musk-admet-avoir-utilise-chatgpt-pour-entrainer-grok",
+      "url": "https://www.mac4ever.com/ia/195980-elon-musk-admet-avoir-utilise-chatgpt-pour-entrainer-grok",
+      "publishedAt": "2026-05-04T07:18:43.000Z",
+      "date": "2026-05-04T07:18:43.000Z",
+      "description": "Le patron de xAI a reconnu avoir utilisé partiellement ChatGPT pour entraîner son propre chatbot Grok, une pratique courante dans le secteur… mais...",
+      "excerpt": "Le patron de xAI a reconnu avoir utilisé partiellement ChatGPT pour entraîner son propre chatbot Grok, une pratique courante dans le secteur… mais...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les fournisseurs de LLM reconfigurent leur offre autour des cas d'usage entreprise - it social",
+      "link": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/les-fournisseurs-de-llm-reconfigurent-leur-offre-autour-des-cas-dusage-entreprise/",
+      "url": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/les-fournisseurs-de-llm-reconfigurent-leur-offre-autour-des-cas-dusage-entreprise/",
+      "publishedAt": "2026-05-04T07:09:30.000Z",
+      "date": "2026-05-04T07:09:30.000Z",
+      "description": "L'automatisation des workflows, nouveau terrain concurrentiel. Le lancement des workspace agents dans ChatGPT Business incarne une rupture plus...",
+      "excerpt": "L'automatisation des workflows, nouveau terrain concurrentiel. Le lancement des workspace agents dans ChatGPT Business incarne une rupture plus...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Adobe élargit son écosystème IA avec AWS, Anthropic, Microsoft et Google pour unifier l...",
+      "link": "https://www.zdnet.fr/actualites/adobe-elargit-son-ecosysteme-ia-avec-aws-anthropic-microsoft-et-google-pour-unifier-lexperience-client-494482.htm",
+      "url": "https://www.zdnet.fr/actualites/adobe-elargit-son-ecosysteme-ia-avec-aws-anthropic-microsoft-et-google-pour-unifier-lexperience-client-494482.htm",
+      "publishedAt": "2026-05-04T06:13:56.000Z",
+      "date": "2026-05-04T06:13:56.000Z",
+      "description": "ChatGPT retient bien plus d'informations personnelles qu'on ne le croit. Quelques réglages simples suffisent pourtant à reprendre la main sur ses...",
+      "excerpt": "ChatGPT retient bien plus d'informations personnelles qu'on ne le croit. Quelques réglages simples suffisent pourtant à reprendre la main sur ses...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Grok, l'IA d'Elon Musk, bientôt sur CarPlay - Mac4Ever",
+      "link": "https://www.mac4ever.com/mobilite/195978-grok-l-ia-d-elon-musk-bientot-sur-carplay",
+      "url": "https://www.mac4ever.com/mobilite/195978-grok-l-ia-d-elon-musk-bientot-sur-carplay",
+      "publishedAt": "2026-05-04T05:30:57.000Z",
+      "date": "2026-05-04T05:30:57.000Z",
+      "description": "ChatGPT, Perplexity, Grok… et bientôt Siri nouvelle génération: tous cherchent à devenir l'interface conversationnelle principale du conducteur. La...",
+      "excerpt": "ChatGPT, Perplexity, Grok… et bientôt Siri nouvelle génération: tous cherchent à devenir l'interface conversationnelle principale du conducteur. La...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cybersécurité et IA: GPT-5.5 surclasse déjà Mythos et change l'équilibre - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/cybersecurite-et-ia-gpt-5-5-surclasse-mythos-et-rebat-les-cartes-de-la-securite-informatique-494473.htm",
+      "url": "https://www.zdnet.fr/actualites/cybersecurite-et-ia-gpt-5-5-surclasse-mythos-et-rebat-les-cartes-de-la-securite-informatique-494473.htm",
+      "publishedAt": "2026-05-04T05:18:29.000Z",
+      "date": "2026-05-04T05:18:29.000Z",
+      "description": "gpt-5 -flagship-hero. © OpenAI. GPT-5.5 s'impose comme une nouvelle... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
+      "excerpt": "gpt-5 -flagship-hero. © OpenAI. GPT-5.5 s'impose comme une nouvelle... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.5: aussi redoutable que Mythos! | LesNews",
+      "link": "https://lesnews.ca/intelligence-artificielle/gpt-5-5-aussi-redoutable-que-mythos/",
+      "url": "https://lesnews.ca/intelligence-artificielle/gpt-5-5-aussi-redoutable-que-mythos/",
+      "publishedAt": "2026-05-03T23:59:08.000Z",
+      "date": "2026-05-03T23:59:08.000Z",
+      "description": "Sam Altman, le PDG d'OpenAI, a réagi sur le réseau social X, qualifiant l'initiative d'Anthropic de “marketing basé sur la peur”. Selon lui, cette...",
+      "excerpt": "Sam Altman, le PDG d'OpenAI, a réagi sur le réseau social X, qualifiant l'initiative d'Anthropic de “marketing basé sur la peur”. Selon lui, cette...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "IA, data et cybersécurité: les nouveaux piliers du retail",
       "link": "https://www.republik-retail.fr/solutions-techno/data/ia-data-et-cybersecurite-les-nouveaux-piliers-du-retail.html",
@@ -47,86 +127,6 @@
       "date": "2026-05-03T13:11:48.000Z",
       "description": "Besoin d'aide pour préparer vos plats de la semaine? Nous avons 6 prompts ChatGPT qui devraient vous faciliter la vie, de l'organisation à la...",
       "excerpt": "Besoin d'aide pour préparer vos plats de la semaine? Nous avons 6 prompts ChatGPT qui devraient vous faciliter la vie, de l'organisation à la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Grok arrive sur Apple CarPlay avec le mode voix - iPhoneSoft",
-      "link": "https://iphonesoft.fr/2026/05/03/grok-apple-carplay-mode-voix",
-      "url": "https://iphonesoft.fr/2026/05/03/grok-apple-carplay-mode-voix",
-      "publishedAt": "2026-05-03T11:01:10.000Z",
-      "date": "2026-05-03T11:01:10.000Z",
-      "description": "Alors que ChatGPT est disponible sur CarPlay depuis à peine un mois, xAI accélère son déploiement et prépare l'arrivée de Grok sur le système...",
-      "excerpt": "Alors que ChatGPT est disponible sur CarPlay depuis à peine un mois, xAI accélère son déploiement et prépare l'arrivée de Grok sur le système...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Oscars: l'académie ferme la porte aux acteurs et scénarios issus de l'IA - Charles Tech",
-      "link": "https://charlestech.fr/oscars-l-academie-ferme-porte-acteurs-scenarios-issus-l-ia/",
-      "url": "https://charlestech.fr/oscars-l-academie-ferme-porte-acteurs-scenarios-issus-l-ia/",
-      "publishedAt": "2026-05-03T08:24:32.000Z",
-      "date": "2026-05-03T08:24:32.000Z",
-      "description": "Oppo find X6 Pro: Une version avec un SoC MediaTek Dimensity 9200... ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que...",
-      "excerpt": "Oppo find X6 Pro: Une version avec un SoC MediaTek Dimensity 9200... ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GNT: le top des actualités de la semaine qu'il ne fallait pas manquer - Generation NT",
-      "link": "https://www.generation-nt.com/actualites/gnt-top-2074930/amp",
-      "url": "https://www.generation-nt.com/actualites/gnt-top-2074930/amp",
-      "publishedAt": "2026-05-03T07:05:03.000Z",
-      "date": "2026-05-03T07:05:03.000Z",
-      "description": "Pendant des semaines, la rumeur a enflé: Claude, le concurrent direct de GPT-4, serait devenu moins performant. Face à la colère des développeurs...",
-      "excerpt": "Pendant des semaines, la rumeur a enflé: Claude, le concurrent direct de GPT-4, serait devenu moins performant. Face à la colère des développeurs...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "So, no more alternate prompts/responses in a Plus chat?: r/ ChatGPT - Reddit",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1t1tprv/so_no_more_alternate_promptsresponses_in_a_plus/",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1t1tprv/so_no_more_alternate_promptsresponses_in_a_plus/",
-      "publishedAt": "2026-05-02T16:47:21.000Z",
-      "date": "2026-05-02T16:47:21.000Z",
-      "description": "We have free bots with GPT-4 (with vision), image generators, and more!... r/ ChatGPT - ChatGPT just went crazy with this update. 2. 29 upvotes...",
-      "excerpt": "We have free bots with GPT-4 (with vision), image generators, and more!... r/ ChatGPT - ChatGPT just went crazy with this update. 2. 29 upvotes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "La revanche de la Comtesse - Numerama",
-      "link": "https://www.numerama.com/tech/2245489-la-revanche-de-la-comtesse.html",
-      "url": "https://www.numerama.com/tech/2245489-la-revanche-de-la-comtesse.html",
-      "publishedAt": "2026-05-02T14:31:05.000Z",
-      "date": "2026-05-02T14:31:05.000Z",
-      "description": "Toutes les infos sur ChatGPT · Le pape dénonce l'IA… mais ses messages auraient été écrits par IA · ChatGPT s'amuse à dire qu'il a résolu une énigme...",
-      "excerpt": "Toutes les infos sur ChatGPT · Le pape dénonce l'IA… mais ses messages auraient été écrits par IA · ChatGPT s'amuse à dire qu'il a résolu une énigme...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Instagram: vos photos d'été vous semblent fades? Ces prompts IA peuvent tout changer",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/instagram-vos-photos-d-ete-vous-semblent-fades-ces-prompts-ia-peuvent-tout-changer-a254754.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/instagram-vos-photos-d-ete-vous-semblent-fades-ces-prompts-ia-peuvent-tout-changer-a254754.html",
-      "publishedAt": "2026-05-02T10:06:14.000Z",
-      "date": "2026-05-02T10:06:14.000Z",
-      "description": "Copiez-collez ceci dans ChatGPT ou Gemini en insérant votre photo d'origine:... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus...",
-      "excerpt": "Copiez-collez ceci dans ChatGPT ou Gemini en insérant votre photo d'origine:... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Sam Altman accuse Mythos d'Anthropic de \"jouer sur la peur\", puis fait exactement pareil avec Cyber",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/sam-altman-accuse-mythos-d-anthropic-de-jouer-sur-la-peur-puis-fait-exactement-pareil-avec-cyber-n255302.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/sam-altman-accuse-mythos-d-anthropic-de-jouer-sur-la-peur-puis-fait-exactement-pareil-avec-cyber-n255302.html",
-      "publishedAt": "2026-05-02T09:21:53.000Z",
-      "date": "2026-05-02T09:21:53.000Z",
-      "description": "Ces utilisateurs accèdent au modèle avec moins de restrictions sur les tâches de cybersécurité. À lire également: OpenAI dévoile ChatGPT GPT-5.5:...",
-      "excerpt": "Ces utilisateurs accèdent au modèle avec moins de restrictions sur les tâches de cybersécurité. À lire également: OpenAI dévoile ChatGPT GPT-5.5:...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: OpenAI Faces Legal Storm Over Violence & Crime - IMDb",
-      "link": "https://www.imdb.com/fr/news/ni65822490/?ref_=tt_nwr_2",
-      "url": "https://www.imdb.com/fr/news/ni65822490/?ref_=tt_nwr_2",
-      "publishedAt": "2026-05-02T03:34:16.000Z",
-      "date": "2026-05-02T03:34:16.000Z",
-      "description": "Soon after the announcement of a criminal investigation after lawsuits were filed about crimes involving OpenAI and ChatGPT, new details emerged...",
-      "excerpt": "Soon after the announcement of a criminal investigation after lawsuits were filed about crimes involving OpenAI and ChatGPT, new details emerged...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
