@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T13:23:17.243Z",
+  "generatedAt": "2026-05-04T19:14:41.179Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Gemini: l'IA de Google peut désormais créer et exporter vos fichiers Word ou Excel en un instant",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/gemini-l-ia-de-google-peut-desormais-creer-et-exporter-vos-fichiers-word-ou-excel-en-un-instant-n255385.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/gemini-l-ia-de-google-peut-desormais-creer-et-exporter-vos-fichiers-word-ou-excel-en-un-instant-n255385.html",
+      "publishedAt": "2026-05-04T15:37:04.000Z",
+      "date": "2026-05-04T15:37:04.000Z",
+      "description": "ChatGPT gratuit n'est plus vraiment gratuit: OpenAI...",
+      "excerpt": "ChatGPT gratuit n'est plus vraiment gratuit: OpenAI...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Apple refond Photos à l'IA, et ce virage ressemble surtout à une mise à niveau devenue inévitable",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/apple-refond-photos-a-lia-et-ce-virage-ressemble-surtout-a-une-mise-a-niveau-devenue-inevitable",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/apple-refond-photos-a-lia-et-ce-virage-ressemble-surtout-a-une-mise-a-niveau-devenue-inevitable",
+      "publishedAt": "2026-05-04T14:59:45.000Z",
+      "date": "2026-05-04T14:59:45.000Z",
+      "description": "He's since become an expert on the products of generative AI models, such as OpenAI's ChatGPT, Anthropic's Claude, Google Gemini, and every other...",
+      "excerpt": "He's since become an expert on the products of generative AI models, such as OpenAI's ChatGPT, Anthropic's Claude, Google Gemini, and every other...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI lanceert GPT-5.5-Cyber pour un public restreint - ITdaily",
+      "link": "https://itdaily.fr/nouvelles/cloud/openai-lance-gpt-5-5-cyber/",
+      "url": "https://itdaily.fr/nouvelles/cloud/openai-lance-gpt-5-5-cyber/",
+      "publishedAt": "2026-05-04T14:05:39.000Z",
+      "date": "2026-05-04T14:05:39.000Z",
+      "description": "OpenAI publie un modèle spécialisé en cybersécurité, GPT-5.5-Cyber, pour un groupe limité d'experts en sécurité.",
+      "excerpt": "OpenAI publie un modèle spécialisé en cybersécurité, GPT-5.5-Cyber, pour un groupe limité d'experts en sécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cockpyt AI: tracker la visibilité des marques dans ChatGPT, Perplexity & co - Byothe",
+      "link": "https://byothe.fr/cockpyt-ai-tracker-visibilite-marques-chatgpt-perplexity/",
+      "url": "https://byothe.fr/cockpyt-ai-tracker-visibilite-marques-chatgpt-perplexity/",
+      "publishedAt": "2026-05-04T12:49:34.000Z",
+      "date": "2026-05-04T12:49:34.000Z",
+      "description": "Les outils de monitoring IA, comme Cockpyt AI, émergent pour tracker la visibilité des marques sur ChatGPT et Perplexity... release de modèle. À...",
+      "excerpt": "Les outils de monitoring IA, comme Cockpyt AI, émergent pour tracker la visibilité des marques sur ChatGPT et Perplexity... release de modèle. À...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Codex Pets: pourquoi OpenAI parie sur des animaux de compagnie virtuels pour exister...",
       "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3086139_codex-pets-pourquoi-openai-parie-sur-des-animaux-de-compagnie-virtuels-pour-exister-face-a-claude-code-et-cursor-en-2026",
@@ -87,46 +127,6 @@
       "date": "2026-05-04T07:42:04.000Z",
       "description": "... ChatGPT. En s'associant à... OpenAI veut éviter une débâcle similaire à celle de Mythos, la version de Claude taillée pour la cybersécurité.",
       "excerpt": "... ChatGPT. En s'associant à... OpenAI veut éviter une débâcle similaire à celle de Mythos, la version de Claude taillée pour la cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT, Gemini et Claude auraient expliqué comment créer des armes biologiques",
-      "link": "https://www.numerama.com/tech/2245675-chatgpt-gemini-et-claude-auraient-explique-comment-creer-des-armes-biologiques.html",
-      "url": "https://www.numerama.com/tech/2245675-chatgpt-gemini-et-claude-auraient-explique-comment-creer-des-armes-biologiques.html",
-      "publishedAt": "2026-05-04T07:37:28.000Z",
-      "date": "2026-05-04T07:37:28.000Z",
-      "description": "Depuis GPT-5 OpenAI propose de converser avec des Cynique...",
-      "excerpt": "Depuis GPT-5 OpenAI propose de converser avec des Cynique...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Elon Musk admet avoir utilisé ChatGPT pour entraîner Grok - Mac4Ever",
-      "link": "https://www.mac4ever.com/ia/195980-elon-musk-admet-avoir-utilise-chatgpt-pour-entrainer-grok",
-      "url": "https://www.mac4ever.com/ia/195980-elon-musk-admet-avoir-utilise-chatgpt-pour-entrainer-grok",
-      "publishedAt": "2026-05-04T07:18:43.000Z",
-      "date": "2026-05-04T07:18:43.000Z",
-      "description": "Le patron de xAI a reconnu avoir utilisé partiellement ChatGPT pour entraîner son propre chatbot Grok, une pratique courante dans le secteur… mais...",
-      "excerpt": "Le patron de xAI a reconnu avoir utilisé partiellement ChatGPT pour entraîner son propre chatbot Grok, une pratique courante dans le secteur… mais...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les fournisseurs de LLM reconfigurent leur offre autour des cas d'usage entreprise - it social",
-      "link": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/les-fournisseurs-de-llm-reconfigurent-leur-offre-autour-des-cas-dusage-entreprise/",
-      "url": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/les-fournisseurs-de-llm-reconfigurent-leur-offre-autour-des-cas-dusage-entreprise/",
-      "publishedAt": "2026-05-04T07:09:30.000Z",
-      "date": "2026-05-04T07:09:30.000Z",
-      "description": "L'automatisation des workflows, nouveau terrain concurrentiel. Le lancement des workspace agents dans ChatGPT Business incarne une rupture plus...",
-      "excerpt": "L'automatisation des workflows, nouveau terrain concurrentiel. Le lancement des workspace agents dans ChatGPT Business incarne une rupture plus...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Afrique du Sud, l'IA piégée par sa propre loi, par Anthony Morel - 04/05: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/economie/culture-ia-afrique-du-sud-l-ia-piegee-par-sa-propre-loi-par-anthony-morel-04-05-CNT000002p0OV5.html",
-      "url": "https://actu.orange.fr/videos/economie/culture-ia-afrique-du-sud-l-ia-piegee-par-sa-propre-loi-par-anthony-morel-04-05-CNT000002p0OV5.html",
-      "publishedAt": "2026-05-04T06:59:43.000Z",
-      "date": "2026-05-04T06:59:43.000Z",
-      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et... Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel - 25/11.",
-      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et... Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel - 25/11.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
