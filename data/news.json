@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T19:14:41.179Z",
+  "generatedAt": "2026-05-05T01:58:52.690Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,16 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Apple laisse par erreur un fichier lié à Claude Code dans son app Assistance",
+      "link": "https://www.macg.co/aapl/2026/05/apple-laisse-par-erreur-un-fichier-lie-claude-code-dans-son-app-assistance-308407",
+      "url": "https://www.macg.co/aapl/2026/05/apple-laisse-par-erreur-un-fichier-lie-claude-code-dans-son-app-assistance-308407",
+      "publishedAt": "2026-05-04T18:37:43.000Z",
+      "date": "2026-05-04T18:37:43.000Z",
+      "description": "Si Apple ne propose à ses clients que le ChatGPT d'OpenAI pour épauler Siri, elle fait largement appel à Claude en interne. La preuve?",
+      "excerpt": "Si Apple ne propose à ses clients que le ChatGPT d'OpenAI pour épauler Siri, elle fait largement appel à Claude en interne. La preuve?",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Gemini: l'IA de Google peut désormais créer et exporter vos fichiers Word ou Excel en un instant",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/gemini-l-ia-de-google-peut-desormais-creer-et-exporter-vos-fichiers-word-ou-excel-en-un-instant-n255385.html",
       "url": "https://www.lesnumeriques.com/intelligence-artificielle/gemini-l-ia-de-google-peut-desormais-creer-et-exporter-vos-fichiers-word-ou-excel-en-un-instant-n255385.html",
@@ -17,6 +27,16 @@
       "date": "2026-05-04T15:37:04.000Z",
       "description": "ChatGPT gratuit n'est plus vraiment gratuit: OpenAI...",
       "excerpt": "ChatGPT gratuit n'est plus vraiment gratuit: OpenAI...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Le nouvel update de chatgpt, je suis sans mots #design # chatgpt #businessowner #content",
+      "link": "https://www.youtube.com/watch?v=KMqtPsHgAgo",
+      "url": "https://www.youtube.com/watch?v=KMqtPsHgAgo",
+      "publishedAt": "2026-05-04T15:24:35.000Z",
+      "date": "2026-05-04T15:24:35.000Z",
+      "description": "Le nouvel update de chatgpt, je suis sans mots #design # chatgpt #businessowner #content #entrepreneur.",
+      "excerpt": "Le nouvel update de chatgpt, je suis sans mots #design # chatgpt #businessowner #content #entrepreneur.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
@@ -107,26 +127,6 @@
       "date": "2026-05-04T09:17:27.000Z",
       "description": "openai- gpt-5 -5... Début avril, Anthropic avait limité l'accès à Mythos, son propre modèle spécialisé en cybersécurité...",
       "excerpt": "openai- gpt-5 -5... Début avril, Anthropic avait limité l'accès à Mythos, son propre modèle spécialisé en cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le nouveau design de Gemini a fuité: Google prépare du lourd pour sa conférence I/O",
-      "link": "https://www.numerama.com/tech/2245791-le-nouveau-design-de-gemini-a-fuite-google-prepare-du-lourd-pour-sa-conference-i-o.html",
-      "url": "https://www.numerama.com/tech/2245791-le-nouveau-design-de-gemini-a-fuite-google-prepare-du-lourd-pour-sa-conference-i-o.html",
-      "publishedAt": "2026-05-04T08:31:19.000Z",
-      "date": "2026-05-04T08:31:19.000Z",
-      "description": "Gemini va-t-il monter en puissance pour détrôner ChatGPT et Claude dans le cœur des utilisateurs? À en croire plusieurs captures d'écran publiées...",
-      "excerpt": "Gemini va-t-il monter en puissance pour détrôner ChatGPT et Claude dans le cœur des utilisateurs? À en croire plusieurs captures d'écran publiées...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Plus de mots de passe pour ChatGPT: OpenAI lance un mode de sécurité renforcé basé sur...",
-      "link": "https://www.01net.com/actualites/plus-de-mots-de-passe-pour-chatgpt-openai-lance-un-mode-de-securite-renforce-base-sur-les-yubikeys.html",
-      "url": "https://www.01net.com/actualites/plus-de-mots-de-passe-pour-chatgpt-openai-lance-un-mode-de-securite-renforce-base-sur-les-yubikeys.html",
-      "publishedAt": "2026-05-04T07:42:04.000Z",
-      "date": "2026-05-04T07:42:04.000Z",
-      "description": "... ChatGPT. En s'associant à... OpenAI veut éviter une débâcle similaire à celle de Mythos, la version de Claude taillée pour la cybersécurité.",
-      "excerpt": "... ChatGPT. En s'associant à... OpenAI veut éviter une débâcle similaire à celle de Mythos, la version de Claude taillée pour la cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
