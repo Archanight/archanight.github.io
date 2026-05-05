@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T07:54:37.458Z",
+  "generatedAt": "2026-05-05T13:14:13.306Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,14 +10,44 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Le Pentagone déploie plus de 20 000 agents IA par semaine, et l'automatisation... - TechRadar",
+      "link": "https://global.techradar.com/fr-fr/pro/le-pentagone-deploie-plus-de-20-000-agents-ia-par-semaine-et-lautomatisation-change-deja-dechelle",
+      "url": "https://global.techradar.com/fr-fr/pro/le-pentagone-deploie-plus-de-20-000-agents-ia-par-semaine-et-lautomatisation-change-deja-dechelle",
+      "publishedAt": "2026-05-05T08:55:39.000Z",
+      "date": "2026-05-05T08:55:39.000Z",
+      "description": "Systèmes low-code ou no-code; ChatGPT and Gemini on mobile phones. Pro; Sam Altman on a chair. ChatGPT; Antigravity A1 drone. Pro; Open AI CEO Speaks...",
+      "excerpt": "Systèmes low-code ou no-code; ChatGPT and Gemini on mobile phones. Pro; Sam Altman on a chair. ChatGPT; Antigravity A1 drone. Pro; Open AI CEO Speaks...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "La Chine freine les licenciements dopés à l'IA avec une décision qui risque de faire du bruit",
+      "link": "https://global.techradar.com/fr-fr/pro/la-chine-freine-les-licenciements-dopes-a-lia-avec-une-decision-qui-risque-de-faire-du-bruit",
+      "url": "https://global.techradar.com/fr-fr/pro/la-chine-freine-les-licenciements-dopes-a-lia-avec-une-decision-qui-risque-de-faire-du-bruit",
+      "publishedAt": "2026-05-05T07:06:38.000Z",
+      "date": "2026-05-05T07:06:38.000Z",
+      "description": "ChatGPT and Gemini on mobile phones. Pro Le Pentagone va confier des... Les comptes ChatGPT passent à un niveau de sécurité inédit avec l...",
+      "excerpt": "ChatGPT and Gemini on mobile phones. Pro Le Pentagone va confier des... Les comptes ChatGPT passent à un niveau de sécurité inédit avec l...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Les comptes ChatGPT passent à un niveau de sécurité inédit avec l'arrivée de clés...",
       "link": "https://global.techradar.com/fr-fr/pro/les-comptes-chatgpt-passent-a-un-niveau-de-securite-inedit-avec-larrivee-de-cles-physiques-dediees",
       "url": "https://global.techradar.com/fr-fr/pro/les-comptes-chatgpt-passent-a-un-niveau-de-securite-inedit-avec-larrivee-de-cles-physiques-dediees",
       "publishedAt": "2026-05-05T05:07:38.000Z",
       "date": "2026-05-05T05:07:38.000Z",
-      "description": "... phishing pour les utilisateurs de ChatGPT, lorsque cela correspond à leurs besoins. » Le créateur de ChatGPT précise toutefois que les clés...",
-      "excerpt": "... phishing pour les utilisateurs de ChatGPT, lorsque cela correspond à leurs besoins. » Le créateur de ChatGPT précise toutefois que les clés...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+      "description": "Yubico lance un pack de deux YubiKeys pour protéger votre compte ChatGPT · L'une se branche sur un PC en USB-C, l'autre authentifie un smartphone via...",
+      "excerpt": "Yubico lance un pack de deux YubiKeys pour protéger votre compte ChatGPT · L'une se branche sur un PC en USB-C, l'autre authentifie un smartphone via...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI est intervenu pour corriger le problème - Libre Média",
+      "link": "https://www.libremedia.ca/openai-est-intervenu-pour-corriger-le-probleme/",
+      "url": "https://www.libremedia.ca/openai-est-intervenu-pour-corriger-le-probleme/",
+      "publishedAt": "2026-05-05T04:23:17.000Z",
+      "date": "2026-05-05T04:23:17.000Z",
+      "description": "ChatGPT a développé un comportement inhabituel obsession pour les gobelins, les gremlins, les ratons laveurs, les trolls et les orcscommençant à...",
+      "excerpt": "ChatGPT a développé un comportement inhabituel obsession pour les gobelins, les gremlins, les ratons laveurs, les trolls et les orcscommençant à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Apple laisse par erreur un fichier lié à Claude Code dans son app Assistance",
@@ -27,6 +57,16 @@
       "date": "2026-05-04T18:37:43.000Z",
       "description": "Si Apple ne propose à ses clients que le ChatGPT d'OpenAI pour épauler Siri, elle fait largement appel à Claude en interne. La preuve?",
       "excerpt": "Si Apple ne propose à ses clients que le ChatGPT d'OpenAI pour épauler Siri, elle fait largement appel à Claude en interne. La preuve?",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI se lance sur le marché de la publicité: un pari à un milliard de dollars ou un... - Xpert.Digital",
+      "link": "https://xpert.digital/fr/openai-fait-son-entree-sur-le-marche-publicitaire/?amp=1",
+      "url": "https://xpert.digital/fr/openai-fait-son-entree-sur-le-marche-publicitaire/?amp=1",
+      "publishedAt": "2026-05-04T15:38:23.000Z",
+      "date": "2026-05-04T15:38:23.000Z",
+      "description": "Des pertes se chiffrant en milliards obligent à agir: pourquoi ChatGPT affiche désormais des publicités. Baisse de prix après seulement quelques...",
+      "excerpt": "Des pertes se chiffrant en milliards obligent à agir: pourquoi ChatGPT affiche désormais des publicités. Baisse de prix après seulement quelques...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
@@ -87,46 +127,6 @@
       "date": "2026-05-04T11:46:12.000Z",
       "description": "OpenAI lance GPT-5 -Codex: l'IA qui prend son temps pour mieux coder. OpenAI ( ChatGPT ). OpenAI veut créer une « super-app » en...",
       "excerpt": "OpenAI lance GPT-5 -Codex: l'IA qui prend son temps pour mieux coder. OpenAI ( ChatGPT ). OpenAI veut créer une « super-app » en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.5 d'OpenAI rivalise avec Claude Mythos d'Anthropic en matière de capacités de cyberattaque",
-      "link": "https://intelligence-artificielle.developpez.com/actu/382812/GPT-5-5-d-OpenAI-rivalise-avec-Claude-Mythos-d-Anthropic-en-matiere-de-capacites-de-cyberattaque-la-cybermenace-representee-par-Mythos-ne-serait-pas-une-avancee-propre-a-un-seul-modele/",
-      "url": "https://intelligence-artificielle.developpez.com/actu/382812/GPT-5-5-d-OpenAI-rivalise-avec-Claude-Mythos-d-Anthropic-en-matiere-de-capacites-de-cyberattaque-la-cybermenace-representee-par-Mythos-ne-serait-pas-une-avancee-propre-a-un-seul-modele/",
-      "publishedAt": "2026-05-04T11:14:00.000Z",
-      "date": "2026-05-04T11:14:00.000Z",
-      "description": "... cybersécurité de gravité élevée dans les principaux systèmes d'exploitation et navigateurs web.... Le lancement de ChatGPT en novembre 2022 est...",
-      "excerpt": "... cybersécurité de gravité élevée dans les principaux systèmes d'exploitation et navigateurs web.... Le lancement de ChatGPT en novembre 2022 est...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT continue de perdre des utilisateurs, et ça tombe vraiment mal pour OpenAI",
-      "link": "https://www.01net.com/actualites/chatgpt-continue-perdre-utilisateurs-nombre-desinstallations-explose.html",
-      "url": "https://www.01net.com/actualites/chatgpt-continue-perdre-utilisateurs-nombre-desinstallations-explose.html",
-      "publishedAt": "2026-05-04T10:41:41.000Z",
-      "date": "2026-05-04T10:41:41.000Z",
-      "description": "ChatGPT continue de perdre des utilisateurs, et ça tombe vraiment mal pour OpenAI... Cybersécurité · Société · Télécoms · Auto · Médias · Politique &...",
-      "excerpt": "ChatGPT continue de perdre des utilisateurs, et ça tombe vraiment mal pour OpenAI... Cybersécurité · Société · Télécoms · Auto · Médias · Politique &...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Deux ans après son lancement, Le Chat rivalise-t-il avec ChatGPT? - BDM",
-      "link": "https://www.blogdumoderateur.com/le-chat-rivalise-chatgpt-deux-ans-apres/",
-      "url": "https://www.blogdumoderateur.com/le-chat-rivalise-chatgpt-deux-ans-apres/",
-      "publishedAt": "2026-05-04T10:13:03.000Z",
-      "date": "2026-05-04T10:13:03.000Z",
-      "description": "Interviews OpenAI Anthropic Stratégie digitale Productivité Adobe Design Transformation digitale Gemini Cybersécurité Formation Développement.",
-      "excerpt": "Interviews OpenAI Anthropic Stratégie digitale Productivité Adobe Design Transformation digitale Gemini Cybersécurité Formation Développement.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment sécuriser votre compte ChatGPT - BDM",
-      "link": "https://www.blogdumoderateur.com/comment-securiser-compte-chatgpt/",
-      "url": "https://www.blogdumoderateur.com/comment-securiser-compte-chatgpt/",
-      "publishedAt": "2026-05-04T09:36:45.000Z",
-      "date": "2026-05-04T09:36:45.000Z",
-      "description": "Trouvez un emploi dans la cybersécurité · BDM / Articles / IA / Comment sécuriser votre compte ChatGPT. Thèmes populaires. Interviews OpenAI Anthropic...",
-      "excerpt": "Trouvez un emploi dans la cybersécurité · BDM / Articles / IA / Comment sécuriser votre compte ChatGPT. Thèmes populaires. Interviews OpenAI Anthropic...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
