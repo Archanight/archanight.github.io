@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T02:01:17.011Z",
+  "generatedAt": "2026-05-07T08:15:47.577Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Les premiers chiffres sur les performances de la publicité sur ChatGPT - La Revue du Digital",
+      "link": "https://www.larevuedudigital.com/les-premiers-chiffres-sur-les-performances-de-la-publicite-sur-chatgpt/",
+      "url": "https://www.larevuedudigital.com/les-premiers-chiffres-sur-les-performances-de-la-publicite-sur-chatgpt/",
+      "publishedAt": "2026-05-07T06:52:46.000Z",
+      "date": "2026-05-07T06:52:46.000Z",
+      "description": "... Devops · Web Design. Digital. DMP · CRM onboarding · Mobile · Publicité · RGPD... Avec l'expansion de ChatGPT Ads en Australie, Canada et Nouvelle-...",
+      "excerpt": "... Devops · Web Design. Digital. DMP · CRM onboarding · Mobile · Publicité · RGPD... Avec l'expansion de ChatGPT Ads en Australie, Canada et Nouvelle-...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI déploie ChatGPT 5.5 Instant comme nouveau modèle par défaut pour tous les...",
+      "link": "https://intelligence-artificielle.developpez.com/actu/382967/OpenAI-deploie-ChatGPT-5-5-Instant-comme-nouveau-modele-par-defaut-pour-tous-les-utilisateurs-d-OpenAI-et-affirme-que-GPT-5-5-offre-une-faible-latence-et-moins-d-erreurs-de-generation/",
+      "url": "https://intelligence-artificielle.developpez.com/actu/382967/OpenAI-deploie-ChatGPT-5-5-Instant-comme-nouveau-modele-par-defaut-pour-tous-les-utilisateurs-d-OpenAI-et-affirme-que-GPT-5-5-offre-une-faible-latence-et-moins-d-erreurs-de-generation/",
+      "publishedAt": "2026-05-07T04:44:18.000Z",
+      "date": "2026-05-07T04:44:18.000Z",
+      "description": "... cybersécurité. Récemment, OpenAI a publié GPT-5.5 Instant en tant que nouveau modèle par défaut pour tous les utilisateurs de ChatGPT, remplaçant...",
+      "excerpt": "... cybersécurité. Récemment, OpenAI a publié GPT-5.5 Instant en tant que nouveau modèle par défaut pour tous les utilisateurs de ChatGPT, remplaçant...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI fait de GPT-5.5 Instant le modèle ChatGPT par défaut - Dataconomy FR",
+      "link": "https://fr.dataconomy.com/2026/05/06/openai-fait-de-gpt-5-5-instant-le-modele-chatgpt-par-defaut/",
+      "url": "https://fr.dataconomy.com/2026/05/06/openai-fait-de-gpt-5-5-instant-le-modele-chatgpt-par-defaut/",
+      "publishedAt": "2026-05-07T00:10:42.000Z",
+      "date": "2026-05-07T00:10:42.000Z",
+      "description": "OpenAI met à jour ChatGPT avec le modèle instantané GPT-5.5 plus rapide, promettant moins d'hallucinations, une personnalisation plus intelligente...",
+      "excerpt": "OpenAI met à jour ChatGPT avec le modèle instantané GPT-5.5 plus rapide, promettant moins d'hallucinations, une personnalisation plus intelligente...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
     {
       "title": "GPT-5.5 Instant devient le modèle par défaut de ChatGPT - Stéphane Larue",
       "link": "https://stephanelarue.com/gpt-55-instant-modele-defaut-chatgpt/",
@@ -97,36 +127,6 @@
       "date": "2026-05-06T17:52:25.000Z",
       "description": "Depuis l'intégration de ChatGPT dans iOS 18, Apple a clairement acté que son assistant vocal ne pouvait plus tout faire seul. Une concession...",
       "excerpt": "Depuis l'intégration de ChatGPT dans iOS 18, Apple a clairement acté que son assistant vocal ne pouvait plus tout faire seul. Une concession...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT Phone: pourquoi on ne croit pas au smartphone OpenAI - Numerama",
-      "link": "https://www.numerama.com/tech/2248253-chatgpt-phone-pourquoi-on-ne-croit-pas-au-smartphone-openai.html",
-      "url": "https://www.numerama.com/tech/2248253-chatgpt-phone-pourquoi-on-ne-croit-pas-au-smartphone-openai.html",
-      "publishedAt": "2026-05-06T17:51:44.000Z",
-      "date": "2026-05-06T17:51:44.000Z",
-      "description": "【Industry Check Update 】OpenAI appears to be fast-tracking its... GPT-5 ( ChatGPT ). Ne plus voir cette pub. À lire.",
-      "excerpt": "【Industry Check Update 】OpenAI appears to be fast-tracking its... GPT-5 ( ChatGPT ). Ne plus voir cette pub. À lire.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "La sécurité de votre compte ChatGPT vient d'être renforcée, mais... - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/la-securite-de-votre-compte-chatgpt-vient-detre-renforcee-mais-vous-devez-activer-cette-fonctionnalite-voici-comment-proceder-494672.htm",
-      "url": "https://www.zdnet.fr/actualites/la-securite-de-votre-compte-chatgpt-vient-detre-renforcee-mais-vous-devez-activer-cette-fonctionnalite-voici-comment-proceder-494672.htm",
-      "publishedAt": "2026-05-06T17:24:18.000Z",
-      "date": "2026-05-06T17:24:18.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... La sécurité de votre compte ChatGPT vient d'être renforcée, mais...",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... La sécurité de votre compte ChatGPT vient d'être renforcée, mais...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "iPhone et IA: Apple prendrait une décision inattendue pour rattraper son retard - 01net.com",
-      "link": "https://www.01net.com/actualites/iphone-ia-apple-prendrait-decision-inattendue-rattraper-retard.html",
-      "url": "https://www.01net.com/actualites/iphone-ia-apple-prendrait-decision-inattendue-rattraper-retard.html",
-      "publishedAt": "2026-05-06T17:20:42.000Z",
-      "date": "2026-05-06T17:20:42.000Z",
-      "description": "... ChatGPT, Claude ou Gemini. Ces modèles pourront être utilisé pour animer les fonctions d'Apple Intelligence. C'est un virage stratégique inédit...",
-      "excerpt": "... ChatGPT, Claude ou Gemini. Ces modèles pourront être utilisé pour animer les fonctions d'Apple Intelligence. C'est un virage stratégique inédit...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
