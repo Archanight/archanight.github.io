@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T19:23:18.207Z",
+  "generatedAt": "2026-05-07T02:01:17.011Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,76 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-5.5 Instant devient le modèle par défaut de ChatGPT - Stéphane Larue",
+      "link": "https://stephanelarue.com/gpt-55-instant-modele-defaut-chatgpt/",
+      "url": "https://stephanelarue.com/gpt-55-instant-modele-defaut-chatgpt/",
+      "publishedAt": "2026-05-06T22:04:29.000Z",
+      "date": "2026-05-06T22:04:29.000Z",
+      "description": "OpenAI déploie GPT-5.5 Instant comme nouveau modèle par défaut de ChatGPT: 52 % moins d'hallucinations, mémoire enrichie et réponses plus...",
+      "excerpt": "OpenAI déploie GPT-5.5 Instant comme nouveau modèle par défaut de ChatGPT: 52 % moins d'hallucinations, mémoire enrichie et réponses plus...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Retail 2026: Pourquoi l'IA de recherche est le dernier rempart contre l'évasion des clients - infoDSI",
+      "link": "https://infodsi.com/articles/209706/retail-2026-pourquoi-lia-de-recherche-est-le-dernier-rempart-contre-levasion-des-clients.html",
+      "url": "https://infodsi.com/articles/209706/retail-2026-pourquoi-lia-de-recherche-est-le-dernier-rempart-contre-levasion-des-clients.html",
+      "publishedAt": "2026-05-06T21:39:48.000Z",
+      "date": "2026-05-06T21:39:48.000Z",
+      "description": "Des outils comme ChatGPT et Gemini ont éduqué les clients à... Cybersécurité: les services publics français laissent grand ouvert la...",
+      "excerpt": "Des outils comme ChatGPT et Gemini ont éduqué les clients à... Cybersécurité: les services publics français laissent grand ouvert la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un agent IA efface une base de données en 9 secondes: l'incident PocketOS",
+      "link": "https://stephanelarue.com/agent-ia-efface-base-donnees-9-secondes-pocketos/",
+      "url": "https://stephanelarue.com/agent-ia-efface-base-donnees-9-secondes-pocketos/",
+      "publishedAt": "2026-05-06T21:05:49.000Z",
+      "date": "2026-05-06T21:05:49.000Z",
+      "description": "Une actualité chargée qui rappelle que GPT-5.5 Instant est devenu le modèle par défaut de ChatGPT... Les tags:Anthropic cybersécurité intelligence...",
+      "excerpt": "Une actualité chargée qui rappelle que GPT-5.5 Instant est devenu le modèle par défaut de ChatGPT... Les tags:Anthropic cybersécurité intelligence...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "30 millions de ventes visées: le pari colossal d'OpenAI pour bousculer le marché du mobile",
+      "link": "https://www.clubic.com/actualite-611905-millions-de-ventes-visees-le-pari-colossal-d-openai-pour-bousculer-le-marche-du-mobile.html",
+      "url": "https://www.clubic.com/actualite-611905-millions-de-ventes-visees-le-pari-colossal-d-openai-pour-bousculer-le-marche-du-mobile.html",
+      "publishedAt": "2026-05-06T20:46:48.000Z",
+      "date": "2026-05-06T20:46:48.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT (GPT-5.5). Chat dans différentes langues, dont le français...",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT (GPT-5.5). Chat dans différentes langues, dont le français...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI déploie GPT-5.5 Instant: moins d'erreurs, plus de puissance - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/openai-deploie-gpt-5-5-instant-moins-derreurs-plus-de-puissance",
+      "url": "https://www.lebigdata.fr/openai-deploie-gpt-5-5-instant-moins-derreurs-plus-de-puissance",
+      "publishedAt": "2026-05-06T18:53:19.000Z",
+      "date": "2026-05-06T18:53:19.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Ce modèle prend progressivement la place de GPT-5.3 Instant sur l'ensemble des offres ChatGPT.",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Ce modèle prend progressivement la place de GPT-5.3 Instant sur l'ensemble des offres ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Boston Dynamics lève le voile sur son Atlas de production - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/boston-dynamics-leve-le-voile-sur-son-atlas-de-production-un-robot-plus-agile-que-la-plupart-des-athletes-494618.htm",
+      "url": "https://www.zdnet.fr/actualites/boston-dynamics-leve-le-voile-sur-son-atlas-de-production-un-robot-plus-agile-que-la-plupart-des-athletes-494618.htm",
+      "publishedAt": "2026-05-06T18:34:42.000Z",
+      "date": "2026-05-06T18:34:42.000Z",
+      "description": "Depuis l'arrivée de ChatGPT, le nombre de développeurs de logiciels a augmenté de... 18 % à 50 %, selon les sources. Par Joe McKendrick | 05 mai 2026...",
+      "excerpt": "Depuis l'arrivée de ChatGPT, le nombre de développeurs de logiciels a augmenté de... 18 % à 50 %, selon les sources. Par Joe McKendrick | 05 mai 2026...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Apple va payer 250 millions de dollars pour le retard du déploiement de l'IA Siri",
+      "link": "https://fr.dataconomy.com/2026/05/06/apple-va-payer-250-millions-de-dollars-pour-le-retard-du-deploiement-de-lia-siri/",
+      "url": "https://fr.dataconomy.com/2026/05/06/apple-va-payer-250-millions-de-dollars-pour-le-retard-du-deploiement-de-lia-siri/",
+      "publishedAt": "2026-05-06T18:15:30.000Z",
+      "date": "2026-05-06T18:15:30.000Z",
+      "description": "... ChatGPT, mais la compréhension contextuelle attendue de Siri est restée indisponible.... Cisco acquiert la société de cybersécurité Astrix pour...",
+      "excerpt": "... ChatGPT, mais la compréhension contextuelle attendue de Siri est restée indisponible.... Cisco acquiert la société de cybersécurité Astrix pour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "5 façons de rendre vos mises à jour Windows bien moins pénibles - ZDNET",
       "link": "https://www.zdnet.fr/actualites/5-facons-de-rendre-vos-mises-a-jour-windows-bien-moins-penibles-494538.htm",
@@ -57,76 +127,6 @@
       "date": "2026-05-06T17:20:42.000Z",
       "description": "... ChatGPT, Claude ou Gemini. Ces modèles pourront être utilisé pour animer les fonctions d'Apple Intelligence. C'est un virage stratégique inédit...",
       "excerpt": "... ChatGPT, Claude ou Gemini. Ces modèles pourront être utilisé pour animer les fonctions d'Apple Intelligence. C'est un virage stratégique inédit...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI accélère la cadence: son 'smartphone ChatGPT ' pourrait sortir plus vite que prévu",
-      "link": "https://www.rtbf.be/article/openai-accelere-la-cadence-son-smartphone-chatgpt-pourrait-sortir-plus-vite-que-prevu-11720148",
-      "url": "https://www.rtbf.be/article/openai-accelere-la-cadence-son-smartphone-chatgpt-pourrait-sortir-plus-vite-que-prevu-11720148",
-      "publishedAt": "2026-05-06T17:10:24.000Z",
-      "date": "2026-05-06T17:10:24.000Z",
-      "description": "Le smartphone d'OpenAI, pensé autour de ChatGPT, est visiblement devenu une priorité pour l'entreprise. Initialement attendu pour 2028,...",
-      "excerpt": "Le smartphone d'OpenAI, pensé autour de ChatGPT, est visiblement devenu une priorité pour l'entreprise. Initialement attendu pour 2028,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "\"Cet article n'aurait jamais dû être publié\": relayée en masse, une étude vantant les effets de...",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/cet-article-n-aurait-jamais-du-etre-publie-relayee-en-masse-une-etude-vantant-les-effets-de-chat-gpt-sur-l-apprentissage-a-ete-retractee-un-an-apres-sa-publication_AN-202605060732.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/cet-article-n-aurait-jamais-du-etre-publie-relayee-en-masse-une-etude-vantant-les-effets-de-chat-gpt-sur-l-apprentissage-a-ete-retractee-un-an-apres-sa-publication_AN-202605060732.html",
-      "publishedAt": "2026-05-06T16:29:03.000Z",
-      "date": "2026-05-06T16:29:03.000Z",
-      "description": "France et cybersécurité... \"Cet article n'aurait jamais dû être publié\": relayée en masse, une étude vantant les effets de ChatGPT sur l'apprentissage...",
-      "excerpt": "France et cybersécurité... \"Cet article n'aurait jamais dû être publié\": relayée en masse, une étude vantant les effets de ChatGPT sur l'apprentissage...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Samsung One UI 8.5: feuille de route et déploiement dévoilés | Android MT",
-      "link": "https://android-mt.ouest-france.fr/news/android/samsung-one-ui-8-5-feuille-de-route-et-deploiement-devoiles/200885/",
-      "url": "https://android-mt.ouest-france.fr/news/android/samsung-one-ui-8-5-feuille-de-route-et-deploiement-devoiles/200885/",
-      "publishedAt": "2026-05-06T16:23:11.000Z",
-      "date": "2026-05-06T16:23:11.000Z",
-      "description": "... ChatGPT gratuit partage vos données avec des annonceurs, protégez-vous... ChatGPT | Chrome | Cyberghost | Eyezy | Gmail | Google Maps...",
-      "excerpt": "... ChatGPT gratuit partage vos données avec des annonceurs, protégez-vous... ChatGPT | Chrome | Cyberghost | Eyezy | Gmail | Google Maps...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Que change l'intégration par défaut de GPT-5.5 dans ChatGPT? - l'Eclaireur Fnac",
-      "link": "https://leclaireur.fnac.com/article/672048-que-change-lintegration-par-defaut-de-gpt-5-5-dans-chatgpt/",
-      "url": "https://leclaireur.fnac.com/article/672048-que-change-lintegration-par-defaut-de-gpt-5-5-dans-chatgpt/",
-      "publishedAt": "2026-05-06T16:11:44.000Z",
-      "date": "2026-05-06T16:11:44.000Z",
-      "description": "Cette nouvelle version remplace ChatGPT -5.3 Instant qui se chargeait de répondre à vos requêtes les plus triviales.",
-      "excerpt": "Cette nouvelle version remplace ChatGPT -5.3 Instant qui se chargeait de répondre à vos requêtes les plus triviales.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI prépare son propre smartphone IA, et il pourrait arriver bien plus tôt que prévu",
-      "link": "https://siecledigital.fr/2026/05/06/openai-prepare-son-propre-smartphone-ia-et-il-pourrait-arriver-bien-plus-tot-que-prevu/",
-      "url": "https://siecledigital.fr/2026/05/06/openai-prepare-son-propre-smartphone-ia-et-il-pourrait-arriver-bien-plus-tot-que-prevu/",
-      "publishedAt": "2026-05-06T15:44:42.000Z",
-      "date": "2026-05-06T15:44:42.000Z",
-      "description": "À la place, un seul agent ChatGPT orchestrerait tout. Vos messages, vos réservations, votre appareil photo. Apple a greffé Siri sur iOS. Google a...",
-      "excerpt": "À la place, un seul agent ChatGPT orchestrerait tout. Vos messages, vos réservations, votre appareil photo. Apple a greffé Siri sur iOS. Google a...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.5 Instant arrive dans ChatGPT: réponses plus fiables, moins d'hallucinations...",
-      "link": "https://larevuetech.fr/gpt-5-5-instant-arrive-dans-chatgpt-reponses-plus-fiables-moins-dhallucinations-memoire-plus-visible/",
-      "url": "https://larevuetech.fr/gpt-5-5-instant-arrive-dans-chatgpt-reponses-plus-fiables-moins-dhallucinations-memoire-plus-visible/",
-      "publishedAt": "2026-05-06T15:16:44.000Z",
-      "date": "2026-05-06T15:16:44.000Z",
-      "description": "Cybersécurité · Entreprises · Guide · High-Tech · Marketing · Bien-être... GPT-5.5 Instant arrive dans ChatGPT: réponses plus fiables, moins d'...",
-      "excerpt": "Cybersécurité · Entreprises · Guide · High-Tech · Marketing · Bien-être... GPT-5.5 Instant arrive dans ChatGPT: réponses plus fiables, moins d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le modèle par défaut de ChatGPT devient plus malin et plus clair - MacGeneration",
-      "link": "https://www.macg.co/intelligence-artificielle/2026/05/le-modele-par-defaut-de-chatgpt-devient-plus-malin-et-plus-clair-308435",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/05/le-modele-par-defaut-de-chatgpt-devient-plus-malin-et-plus-clair-308435",
-      "publishedAt": "2026-05-06T14:42:43.000Z",
-      "date": "2026-05-06T14:42:43.000Z",
-      "description": "Image OpenAI. Puisque la mémoire est davantage sollicitée, ChatGPT la signalera désormais comme source d'une réponse le cas échéant. Cette nouveauté n...",
-      "excerpt": "Image OpenAI. Puisque la mémoire est davantage sollicitée, ChatGPT la signalera désormais comme source d'une réponse le cas échéant. Cette nouveauté n...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
