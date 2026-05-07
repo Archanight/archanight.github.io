@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T13:28:50.555Z",
+  "generatedAt": "2026-05-07T19:26:20.425Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI lance une option \"contact de confiance\" dans ChatGPT, elle permettra d'alerter un... - BFM",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/open-ai-lance-une-option-contact-de-confiance-dans-chat-gpt-elle-permettra-d-alerter-un-proche-designe-en-cas-de-signaux-de-detresse-d-un-utilisateur_AN-202605070752.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/open-ai-lance-une-option-contact-de-confiance-dans-chat-gpt-elle-permettra-d-alerter-un-proche-designe-en-cas-de-signaux-de-detresse-d-un-utilisateur_AN-202605070752.html",
+      "publishedAt": "2026-05-07T18:03:12.000Z",
+      "date": "2026-05-07T18:03:12.000Z",
+      "description": "France et cybersécurité · Départ de Tim Cook · Actualités Tech · IA · Réseaux... \" ChatGPT continuera d'encourager les utilisateurs à contacter les...",
+      "excerpt": "France et cybersécurité · Départ de Tim Cook · Actualités Tech · IA · Réseaux... \" ChatGPT continuera d'encourager les utilisateurs à contacter les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google veut que tout le monde porte ce bracelet!: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/google-veut-que-tout-le-monde-porte-ce-bracelet-CNT000002p5lFI.html",
+      "url": "https://actu.orange.fr/videos/high-tech/google-veut-que-tout-le-monde-porte-ce-bracelet-CNT000002p5lFI.html",
+      "publishedAt": "2026-05-07T16:25:26.000Z",
+      "date": "2026-05-07T16:25:26.000Z",
+      "description": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
+      "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "la deuxième semaine du procès entre Elon Musk et OpenAI prend des airs de saga tragi... - BFM",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/entre-manoir-hante-mouton-milliards-et-menaces-physiques-la-deuxieme-semaine-du-proces-entre-elon-musk-et-open-ai-prend-des-airs-de-comedie-tragi-comique-stupefiante_AV-202605070633.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/entre-manoir-hante-mouton-milliards-et-menaces-physiques-la-deuxieme-semaine-du-proces-entre-elon-musk-et-open-ai-prend-des-airs-de-comedie-tragi-comique-stupefiante_AV-202605070633.html",
+      "publishedAt": "2026-05-07T15:28:37.000Z",
+      "date": "2026-05-07T15:28:37.000Z",
+      "description": "... ChatGPT s'est détournée de sa mission première et a dévoyé son... France et cybersécurité · Départ de Tim Cook · Actualités Tech · IA · Réseaux...",
+      "excerpt": "... ChatGPT s'est détournée de sa mission première et a dévoyé son... France et cybersécurité · Départ de Tim Cook · Actualités Tech · IA · Réseaux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude Sonnet 4.8 fuite déjà: cette nouvelle IA pourrait inquiéter OpenAI - Menow",
+      "link": "https://www.menow.fr/claude-sonnet-4-8-fuite-deja-cette-nouvelle-ia-pourrait-inquieter-openai/",
+      "url": "https://www.menow.fr/claude-sonnet-4-8-fuite-deja-cette-nouvelle-ia-pourrait-inquieter-openai/",
+      "publishedAt": "2026-05-07T14:40:03.000Z",
+      "date": "2026-05-07T14:40:03.000Z",
+      "description": "En parallèle, Anthropic testerait aussi Claude Jupiter, un autre modèle qui pourrait être lié à des usages en cybersécurité.... A lire: ChatGPT Health...",
+      "excerpt": "En parallèle, Anthropic testerait aussi Claude Jupiter, un autre modèle qui pourrait être lié à des usages en cybersécurité.... A lire: ChatGPT Health...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Images 2.0: points verts, artefacts... comment résoudre les bugs? - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/chatgpt-images-2-0-points-verts-artefacts-comment-resoudre-les-bugs",
+      "url": "https://www.lebigdata.fr/chatgpt-images-2-0-points-verts-artefacts-comment-resoudre-les-bugs",
+      "publishedAt": "2026-05-07T13:03:41.000Z",
+      "date": "2026-05-07T13:03:41.000Z",
+      "description": "Vos créations sur ChatGPT Images 2.0 sont gâchées par des points verts et des artefacts visuels?... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A...",
+      "excerpt": "Vos créations sur ChatGPT Images 2.0 sont gâchées par des points verts et des artefacts visuels?... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT corrige enfin l'un de ses défauts les plus agaçants, et le changement se voit tout de suite",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/chatgpt-corrige-enfin-lun-de-ses-defauts-les-plus-agacants-et-le-changement-se-voit-tout-de-suite",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/chatgpt-corrige-enfin-lun-de-ses-defauts-les-plus-agacants-et-le-changement-se-voit-tout-de-suite",
+      "publishedAt": "2026-05-07T12:15:11.000Z",
+      "date": "2026-05-07T12:15:11.000Z",
+      "description": "OpenAI affirme que GPT-5.5 Instant réduit les hallucinations de 52,5 % · Les réponses de ChatGPT sont désormais plus courtes, plus claires et moins...",
+      "excerpt": "OpenAI affirme que GPT-5.5 Instant réduit les hallucinations de 52,5 % · Les réponses de ChatGPT sont désormais plus courtes, plus claires et moins...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "ChatGPT arrive dans Excel et Google Sheets: ce qu'il faut savoir - Leptidigital",
       "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/chatgpt-integration-excel-google-sheets-89893/",
@@ -68,66 +128,6 @@
       "description": "Mais aussi. GPT-5.5 Instant devient le modèle par défaut de ChatGPT. SpaceX mettrait à...",
       "excerpt": "Mais aussi. GPT-5.5 Instant devient le modèle par défaut de ChatGPT. SpaceX mettrait à...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Ads s'ouvre à tous: OpenAI lance son Ads Manager en self-service (tout ce qu'il faut savoir)",
-      "link": "https://www.leptidigital.fr/webmarketing/chatgpt-ads-self-service-ads-manager-nouveaute-89902/",
-      "url": "https://www.leptidigital.fr/webmarketing/chatgpt-ads-self-service-ads-manager-nouveaute-89902/",
-      "publishedAt": "2026-05-07T08:30:23.000Z",
-      "date": "2026-05-07T08:30:23.000Z",
-      "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... ChatGPT Ads s'ouvre à tous: OpenAI lance son Ads Manager en self...",
-      "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... ChatGPT Ads s'ouvre à tous: OpenAI lance son Ads Manager en self...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT ne sera plus le seul maître à bord d'iOS 27",
-      "link": "https://leclaireur.fnac.com/article/672046-pourra-t-on-bientot-choisir-notre-modele-dia-prefere-dans-lecosysteme-apple/",
-      "url": "https://leclaireur.fnac.com/article/672046-pourra-t-on-bientot-choisir-notre-modele-dia-prefere-dans-lecosysteme-apple/",
-      "publishedAt": "2026-05-07T08:15:58.000Z",
-      "date": "2026-05-07T08:15:58.000Z",
-      "description": "Aujourd'hui intégré à l'assistant Siri, ChatGPT devrait bientôt partager son espace avec des IA concurrentes sur la prochaine version d'iOS.",
-      "excerpt": "Aujourd'hui intégré à l'assistant Siri, ChatGPT devrait bientôt partager son espace avec des IA concurrentes sur la prochaine version d'iOS.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Meta Ads dispose de son propre MCP: ce qu'il faut savoir - Leptidigital",
-      "link": "https://www.leptidigital.fr/reseaux-sociaux/meta-ads-mcp-89857/",
-      "url": "https://www.leptidigital.fr/reseaux-sociaux/meta-ads-mcp-89857/",
-      "publishedAt": "2026-05-07T07:40:31.000Z",
-      "date": "2026-05-07T07:40:31.000Z",
-      "description": "... ChatGPT ou.... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD, confidentialité, données personnelles & privacy.",
-      "excerpt": "... ChatGPT ou.... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD, confidentialité, données personnelles & privacy.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Sam Altman troublé par son IA: GPT-5.5 commence à demander des faveurs - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/sam-altman-trouble-par-son-ia-gpt-5-5-commence-a-demander-des-faveurs",
-      "url": "https://www.lebigdata.fr/sam-altman-trouble-par-son-ia-gpt-5-5-commence-a-demander-des-faveurs",
-      "publishedAt": "2026-05-07T07:22:39.000Z",
-      "date": "2026-05-07T07:22:39.000Z",
-      "description": "Une version allégée, baptisée GPT-5.5 Instant, a d'ailleurs été déployée comme modèle par défaut dans ChatGPT. L'entreprise promet moins d'erreurs...",
-      "excerpt": "Une version allégée, baptisée GPT-5.5 Instant, a d'ailleurs été déployée comme modèle par défaut dans ChatGPT. L'entreprise promet moins d'erreurs...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Révolutionnaire: GPT-5.5 booste votre productivité et libère votre créativité | LCDG",
-      "link": "https://lecafedugeek.fr/revolutionnaire-gpt-5-5-booste-votre-productivite-et-libere-votre-creativite/",
-      "url": "https://lecafedugeek.fr/revolutionnaire-gpt-5-5-booste-votre-productivite-et-libere-votre-creativite/",
-      "publishedAt": "2026-05-07T07:00:52.000Z",
-      "date": "2026-05-07T07:00:52.000Z",
-      "description": "gpt-5 -5. OpenAI continue d'accélérer l'innovation avec une... Sur ChatGPT, la version 'Thinking' se destine clairement aux pros, avec...",
-      "excerpt": "gpt-5 -5. OpenAI continue d'accélérer l'innovation avec une... Sur ChatGPT, la version 'Thinking' se destine clairement aux pros, avec...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI connecte ChatGPT à OpenClaw et accélère la guerre des agents IA - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/368016/openai-chatgpt-integration-openclaw/",
-      "url": "https://www.blog-nouvelles-technologies.fr/368016/openai-chatgpt-integration-openclaw/",
-      "publishedAt": "2026-05-07T06:58:02.000Z",
-      "date": "2026-05-07T06:58:02.000Z",
-      "description": "OpenAI révolutionne l'usage de ChatGPT en l'intégrant à l'agent OpenClaw. Automatisez votre quotidien numérique facilement et à moindre coût.",
-      "excerpt": "OpenAI révolutionne l'usage de ChatGPT en l'intégrant à l'agent OpenClaw. Automatisez votre quotidien numérique facilement et à moindre coût.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
