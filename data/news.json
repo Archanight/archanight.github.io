@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T07:16:27.625Z",
+  "generatedAt": "2026-05-08T13:09:41.756Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,66 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Elon Musk dissout une de ses entreprises!: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/elon-musk-dissout-une-de-ses-entreprises-CNT000002p6atb.html",
+      "url": "https://actu.orange.fr/videos/high-tech/elon-musk-dissout-une-de-ses-entreprises-CNT000002p6atb.html",
+      "publishedAt": "2026-05-08T11:46:33.000Z",
+      "date": "2026-05-08T11:46:33.000Z",
+      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Guerre de l'IA: Musk accuse Apple de favoriser ChatGPT et porte plainte.",
+      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Guerre de l'IA: Musk accuse Apple de favoriser ChatGPT et porte plainte.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance Ads Manager pour gérer ses publicités ChatGPT - Actu Marketing",
+      "link": "https://www.actu-marketing.fr/openai-lance-ads-manager-pour-gerer-ses-publicites-chatgpt/",
+      "url": "https://www.actu-marketing.fr/openai-lance-ads-manager-pour-gerer-ses-publicites-chatgpt/",
+      "publishedAt": "2026-05-08T08:35:40.000Z",
+      "date": "2026-05-08T08:35:40.000Z",
+      "description": "... ChatGPT. Disponible depuis le 5 mai 2026 aux États-Unis, cet outil... GPT-5.5-Cyber d'OpenAI défie Mythos en cybersécurité. OpenAI lance GPT...",
+      "excerpt": "... ChatGPT. Disponible depuis le 5 mai 2026 aux États-Unis, cet outil... GPT-5.5-Cyber d'OpenAI défie Mythos en cybersécurité. OpenAI lance GPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Epic Games Store: deux jeux gratuits atypiques sont à récupérer - Toms Guide",
+      "link": "https://www.tomsguide.fr/epic-games-store-deux-jeux-gratuits-atypiques-sont-a-recuperer/",
+      "url": "https://www.tomsguide.fr/epic-games-store-deux-jeux-gratuits-atypiques-sont-a-recuperer/",
+      "publishedAt": "2026-05-08T08:28:41.000Z",
+      "date": "2026-05-08T08:28:41.000Z",
+      "description": "Trash Goblin - Official 1.0 Release Date Trailer... Les commentaires sont fermés. Les derniers articles. chatgpt données. ChatGPT lance un nouveau...",
+      "excerpt": "Trash Goblin - Official 1.0 Release Date Trailer... Les commentaires sont fermés. Les derniers articles. chatgpt données. ChatGPT lance un nouveau...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "L'IA entre dans la bataille de la cybersécurité: qu'est-ce qui rend GPT-5.5-Cyber ​​si spécial?",
+      "link": "https://www.vietnam.vn/fr/ai-buoc-vao-cuoc-chien-an-ninh-mang-gpt-5-5-cyber-co-gi-dac-biet",
+      "url": "https://www.vietnam.vn/fr/ai-buoc-vao-cuoc-chien-an-ninh-mang-gpt-5-5-cyber-co-gi-dac-biet",
+      "publishedAt": "2026-05-08T08:26:48.000Z",
+      "date": "2026-05-08T08:26:48.000Z",
+      "description": "VHO - OpenAI étend GPT-5.5-Cyber ​​pour la cybersécurité, renforçant les équipes de défense tout en améliorant la vérification et le contrôle des...",
+      "excerpt": "VHO - OpenAI étend GPT-5.5-Cyber ​​pour la cybersécurité, renforçant les équipes de défense tout en améliorant la vérification et le contrôle des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Trusted Contact: la nouvelle fonction de ChatGPT face aux moments les plus sombres - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/trusted-contact-la-nouvelle-fonction-de-chatgpt-face-aux-moments-les-plus-sombres",
+      "url": "https://www.lebigdata.fr/trusted-contact-la-nouvelle-fonction-de-chatgpt-face-aux-moments-les-plus-sombres",
+      "publishedAt": "2026-05-08T07:47:51.000Z",
+      "date": "2026-05-08T07:47:51.000Z",
+      "description": "... ChatGPT... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
+      "excerpt": "... ChatGPT... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Samsung dévoile un data center flottant géant, pendant que son partenaire lié à OpenAI...",
+      "link": "https://global.techradar.com/fr-fr/pro/samsung-devoile-un-data-center-flottant-geant-pendant-que-son-partenaire-lie-a-openai-promet-1-5-gw-en-36-mois",
+      "url": "https://global.techradar.com/fr-fr/pro/samsung-devoile-un-data-center-flottant-geant-pendant-que-son-partenaire-lie-a-openai-promet-1-5-gw-en-36-mois",
+      "publishedAt": "2026-05-08T07:05:50.000Z",
+      "date": "2026-05-08T07:05:50.000Z",
+      "description": "... cybersécurité, d'accès physique et de fiabilité à long terme.... Dernières nouvelles Actualités. ChatGPT -5.5 logo on a smartphone. ChatGPT ChatGPT...",
+      "excerpt": "... cybersécurité, d'accès physique et de fiabilité à long terme.... Dernières nouvelles Actualités. ChatGPT -5.5 logo on a smartphone. ChatGPT ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "OpenAI ouvre davantage GPT-5.5 aux cyberdéfenseurs - Mon Carnet",
       "link": "https://moncarnet.com/2026/05/07/openai-ouvre-davantage-gpt-5-5-aux-cyberdefenseurs/",
       "url": "https://moncarnet.com/2026/05/07/openai-ouvre-davantage-gpt-5-5-aux-cyberdefenseurs/",
@@ -17,6 +77,16 @@
       "date": "2026-05-08T03:45:43.000Z",
       "description": "OpenAI élargit l'accès à une version spécialisée de GPT-5.5 destinée aux professionnels de la cybersécurité. Selon Axios, l'entreprise rend...",
       "excerpt": "OpenAI élargit l'accès à une version spécialisée de GPT-5.5 destinée aux professionnels de la cybersécurité. Selon Axios, l'entreprise rend...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Meta exhorte le Canada à modifier le projet de loi C-22 en raison de préoccupations liées...",
+      "link": "https://www.cryptopolitan.com/fr/meta-urges-canada-to-amend-bill-c-22/",
+      "url": "https://www.cryptopolitan.com/fr/meta-urges-canada-to-amend-bill-c-22/",
+      "publishedAt": "2026-05-08T02:23:47.000Z",
+      "date": "2026-05-08T02:23:47.000Z",
+      "description": "OpenAI lance le système d'alerte ChatGPT après une vague de plaintes pour suicide... cybersécurité des Canadiens. Apple a publié la veille une...",
+      "excerpt": "OpenAI lance le système d'alerte ChatGPT après une vague de plaintes pour suicide... cybersécurité des Canadiens. Apple a publié la veille une...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -57,76 +127,6 @@
       "date": "2026-05-07T22:00:01.000Z",
       "description": "OpenAI: extension de l'accès certifié aux outils de cybersécurité via GPT-5.5 et GPT-5.5-cyber... -Le 07 mai 2026 à 23:56 - Zonebourse Suisse.",
       "excerpt": "OpenAI: extension de l'accès certifié aux outils de cybersécurité via GPT-5.5 et GPT-5.5-cyber... -Le 07 mai 2026 à 23:56 - Zonebourse Suisse.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les premiers modèles d'IA d'OpenAI contrevenaient aux lois canadiennes sur la protection...",
-      "link": "https://infobref.com/enquete-openai-canada-2026-05/",
-      "url": "https://infobref.com/enquete-openai-canada-2026-05/",
-      "publishedAt": "2026-05-07T20:00:43.000Z",
-      "date": "2026-05-07T20:00:43.000Z",
-      "description": "Cybersécurité Internet Justice OpenAI / ChatGPT / Sora. Commencez vos journées avec le meilleur résumé de l'actualité. Recevez par courriel chaque...",
-      "excerpt": "Cybersécurité Internet Justice OpenAI / ChatGPT / Sora. Commencez vos journées avec le meilleur résumé de l'actualité. Recevez par courriel chaque...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI déploie la fonction 'contact de confiance' sur ChatGPT | Zonebourse Suisse",
-      "link": "https://ch.zonebourse.com/actualite-bourse/openai-deploie-la-fonction-contact-de-confiance-sur-chatgpt-ce7f5bdad880f122",
-      "url": "https://ch.zonebourse.com/actualite-bourse/openai-deploie-la-fonction-contact-de-confiance-sur-chatgpt-ce7f5bdad880f122",
-      "publishedAt": "2026-05-07T19:12:15.000Z",
-      "date": "2026-05-07T19:12:15.000Z",
-      "description": "Cybersécurité. Notations Techniques. Actions survendues · Actions... OpenAI déploie la fonction 'contact de confiance' sur ChatGPT. Publié le 07...",
-      "excerpt": "Cybersécurité. Notations Techniques. Actions survendues · Actions... OpenAI déploie la fonction 'contact de confiance' sur ChatGPT. Publié le 07...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance une option \"contact de confiance\" dans ChatGPT, elle permettra d'alerter un... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/open-ai-lance-une-option-contact-de-confiance-dans-chat-gpt-elle-permettra-d-alerter-un-proche-designe-en-cas-de-signaux-de-detresse-d-un-utilisateur_AN-202605070752.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/open-ai-lance-une-option-contact-de-confiance-dans-chat-gpt-elle-permettra-d-alerter-un-proche-designe-en-cas-de-signaux-de-detresse-d-un-utilisateur_AN-202605070752.html",
-      "publishedAt": "2026-05-07T18:03:12.000Z",
-      "date": "2026-05-07T18:03:12.000Z",
-      "description": "France et cybersécurité · Départ de Tim Cook · Actualités Tech · IA · Réseaux... \" ChatGPT continuera d'encourager les utilisateurs à contacter les...",
-      "excerpt": "France et cybersécurité · Départ de Tim Cook · Actualités Tech · IA · Réseaux... \" ChatGPT continuera d'encourager les utilisateurs à contacter les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Enquête sur OpenAI – ChatGPT: plusieurs enjeux soulevés - Courrier Laval",
-      "link": "https://courrierlaval.com/enquete-sur-openai-chatgpt-plusieurs-enjeux-souleves/",
-      "url": "https://courrierlaval.com/enquete-sur-openai-chatgpt-plusieurs-enjeux-souleves/",
-      "publishedAt": "2026-05-07T17:03:29.000Z",
-      "date": "2026-05-07T17:03:29.000Z",
-      "description": "Actualité Canada ChatGPT Courrier Laval cybersécurité En vedette Enjeux Gouvernement du Canada Laval OpenAI Québec sécurité. Partager Facebook...",
-      "excerpt": "Actualité Canada ChatGPT Courrier Laval cybersécurité En vedette Enjeux Gouvernement du Canada Laval OpenAI Québec sécurité. Partager Facebook...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google veut que tout le monde porte ce bracelet!: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/high-tech/google-veut-que-tout-le-monde-porte-ce-bracelet-CNT000002p5lFI.html",
-      "url": "https://actu.orange.fr/videos/high-tech/google-veut-que-tout-le-monde-porte-ce-bracelet-CNT000002p5lFI.html",
-      "publishedAt": "2026-05-07T16:25:26.000Z",
-      "date": "2026-05-07T16:25:26.000Z",
-      "description": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
-      "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.5 Instant arrive dans ChatGPT avec une promesse simple: mieux répondre, sans en faire trop",
-      "link": "https://siecledigital.fr/2026/05/07/gpt-5-5-instant-arrive-dans-chatgpt-avec-une-promesse-simple-mieux-repondre-sans-en-faire-trop/",
-      "url": "https://siecledigital.fr/2026/05/07/gpt-5-5-instant-arrive-dans-chatgpt-avec-une-promesse-simple-mieux-repondre-sans-en-faire-trop/",
-      "publishedAt": "2026-05-07T15:31:48.000Z",
-      "date": "2026-05-07T15:31:48.000Z",
-      "description": "OpenAI déploie GPT-5.5 Instant comme un nouveau moteur par défaut de ChatGPT. Moins d'erreurs factuelles, des réponses plus courtes, une mémoire...",
-      "excerpt": "OpenAI déploie GPT-5.5 Instant comme un nouveau moteur par défaut de ChatGPT. Moins d'erreurs factuelles, des réponses plus courtes, une mémoire...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "la deuxième semaine du procès entre Elon Musk et OpenAI prend des airs de saga tragi... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/entre-manoir-hante-mouton-milliards-et-menaces-physiques-la-deuxieme-semaine-du-proces-entre-elon-musk-et-open-ai-prend-des-airs-de-comedie-tragi-comique-stupefiante_AV-202605070633.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/entre-manoir-hante-mouton-milliards-et-menaces-physiques-la-deuxieme-semaine-du-proces-entre-elon-musk-et-open-ai-prend-des-airs-de-comedie-tragi-comique-stupefiante_AV-202605070633.html",
-      "publishedAt": "2026-05-07T15:28:37.000Z",
-      "date": "2026-05-07T15:28:37.000Z",
-      "description": "... ChatGPT s'est détournée de sa mission première et a dévoyé son... France et cybersécurité · Départ de Tim Cook · Actualités Tech · IA · Réseaux...",
-      "excerpt": "... ChatGPT s'est détournée de sa mission première et a dévoyé son... France et cybersécurité · Départ de Tim Cook · Actualités Tech · IA · Réseaux...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
