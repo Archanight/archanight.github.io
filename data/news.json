@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T02:07:14.377Z",
+  "generatedAt": "2026-05-08T07:16:27.625Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI ouvre davantage GPT-5.5 aux cyberdéfenseurs - Mon Carnet",
+      "link": "https://moncarnet.com/2026/05/07/openai-ouvre-davantage-gpt-5-5-aux-cyberdefenseurs/",
+      "url": "https://moncarnet.com/2026/05/07/openai-ouvre-davantage-gpt-5-5-aux-cyberdefenseurs/",
+      "publishedAt": "2026-05-08T03:45:43.000Z",
+      "date": "2026-05-08T03:45:43.000Z",
+      "description": "OpenAI élargit l'accès à une version spécialisée de GPT-5.5 destinée aux professionnels de la cybersécurité. Selon Axios, l'entreprise rend...",
+      "excerpt": "OpenAI élargit l'accès à une version spécialisée de GPT-5.5 destinée aux professionnels de la cybersécurité. Selon Axios, l'entreprise rend...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA: De la sidération à la prise de conscience - Eco Austral",
+      "link": "https://ecoaustral.com/ia-de-la-sideration-a-la-prise-de-conscience/",
+      "url": "https://ecoaustral.com/ia-de-la-sideration-a-la-prise-de-conscience/",
+      "publishedAt": "2026-05-08T01:48:47.000Z",
+      "date": "2026-05-08T01:48:47.000Z",
+      "description": "Le surgissement de ChatGPT en novembre 2022 a soulevé une vague médiatique qui a parcouru la planète entière. Le terme « d'IA générative » a fait son...",
+      "excerpt": "Le surgissement de ChatGPT en novembre 2022 a soulevé une vague médiatique qui a parcouru la planète entière. Le terme « d'IA générative » a fait son...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI déploie la fonction 'contact de confiance' sur ChatGPT - Zonebourse",
       "link": "https://www.zonebourse.com/actualite-bourse/openai-deploie-la-fonction-contact-de-confiance-sur-chatgpt-ce7f5bdad880f122",
@@ -108,26 +128,6 @@
       "description": "... ChatGPT s'est détournée de sa mission première et a dévoyé son... France et cybersécurité · Départ de Tim Cook · Actualités Tech · IA · Réseaux...",
       "excerpt": "... ChatGPT s'est détournée de sa mission première et a dévoyé son... France et cybersécurité · Départ de Tim Cook · Actualités Tech · IA · Réseaux...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude Sonnet 4.8 fuite déjà: cette nouvelle IA pourrait inquiéter OpenAI - Menow",
-      "link": "https://www.menow.fr/claude-sonnet-4-8-fuite-deja-cette-nouvelle-ia-pourrait-inquieter-openai/",
-      "url": "https://www.menow.fr/claude-sonnet-4-8-fuite-deja-cette-nouvelle-ia-pourrait-inquieter-openai/",
-      "publishedAt": "2026-05-07T14:40:03.000Z",
-      "date": "2026-05-07T14:40:03.000Z",
-      "description": "En parallèle, Anthropic testerait aussi Claude Jupiter, un autre modèle qui pourrait être lié à des usages en cybersécurité.... A lire: ChatGPT Health...",
-      "excerpt": "En parallèle, Anthropic testerait aussi Claude Jupiter, un autre modèle qui pourrait être lié à des usages en cybersécurité.... A lire: ChatGPT Health...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Vulnérabilités, Attaques, Incidents des LLM OpenClaw et Claude - Stormshield",
-      "link": "https://www.stormshield.com/fr/actus/openclaw-claude-risques-et-retrospectives/",
-      "url": "https://www.stormshield.com/fr/actus/openclaw-claude-risques-et-retrospectives/",
-      "publishedAt": "2026-05-07T13:07:49.000Z",
-      "date": "2026-05-07T13:07:49.000Z",
-      "description": "... LLM ( ChatGPT, Claude, Gemini, Grok...). Puis, selon les instructions... 17 mars — CVE -2026-27522: cette CVE a reçu un score CVSS de 7,1 et...",
-      "excerpt": "... LLM ( ChatGPT, Claude, Gemini, Grok...). Puis, selon les instructions... 17 mars — CVE -2026-27522: cette CVE a reçu un score CVSS de 7,1 et...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     }
   ]
 }
