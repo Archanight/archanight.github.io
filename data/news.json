@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T07:43:21.790Z",
+  "generatedAt": "2026-05-09T12:55:04.483Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT se dote d'un contact de confiance en cas de détresse - InfoMagazine Maroc",
+      "link": "https://www.infomagazine.ma/intelligence-artificielle-ia/chatgpt-se-dote-dun-contact-de-confiance-en-cas-de-detresse-14771-2026/",
+      "url": "https://www.infomagazine.ma/intelligence-artificielle-ia/chatgpt-se-dote-dun-contact-de-confiance-en-cas-de-detresse-14771-2026/",
+      "publishedAt": "2026-05-09T10:14:54.000Z",
+      "date": "2026-05-09T10:14:54.000Z",
+      "description": "OpenAI lance « Trusted Contact », une nouvelle fonction de sécurité de ChatGPT destinée aux utilisateurs en situation de détresse psychologique.",
+      "excerpt": "OpenAI lance « Trusted Contact », une nouvelle fonction de sécurité de ChatGPT destinée aux utilisateurs en situation de détresse psychologique.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "GPT-5.5 Instant débarque sur ChatGPT avec moins d'erreurs - Actu Marketing",
+      "link": "https://www.actu-marketing.fr/gpt-5-5-instant-debarque-sur-chatgpt-avec-moins-derreurs/",
+      "url": "https://www.actu-marketing.fr/gpt-5-5-instant-debarque-sur-chatgpt-avec-moins-derreurs/",
+      "publishedAt": "2026-05-09T08:34:01.000Z",
+      "date": "2026-05-09T08:34:01.000Z",
+      "description": "... ChatGPT. Cette mise à jour succède à GPT-5.3 Instant, lancé début... GPT-5.5-Cyber d'OpenAI défie Mythos en cybersécurité · Marketing 4 mai...",
+      "excerpt": "... ChatGPT. Cette mise à jour succède à GPT-5.3 Instant, lancé début... GPT-5.5-Cyber d'OpenAI défie Mythos en cybersécurité · Marketing 4 mai...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "La nouvelle fonction ChatGPT d'OpenAI peut alerter une personne de confiance en cas de...",
       "link": "https://www.notebookcheck.biz/La-nouvelle-fonction-ChatGPT-d-OpenAI-peut-alerter-une-personne-de-confiance-en-cas-de-crise-de-sante-mentale.1292978.0.html",
@@ -107,26 +127,6 @@
       "date": "2026-05-08T16:34:07.000Z",
       "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Une nouvelle fonctionnalité arrive sur ChatGPT. ©OpenAI.",
       "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Une nouvelle fonctionnalité arrive sur ChatGPT. ©OpenAI.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cet opérateur téléphonique va lancer un forfait anti-LGBT centré sur Jésus",
-      "link": "https://www.journaldugeek.com/2026/05/08/cet-operateur-telephonique-va-lancer-un-forfait-anti-lgbt-centre-sur-jesus/",
-      "url": "https://www.journaldugeek.com/2026/05/08/cet-operateur-telephonique-va-lancer-un-forfait-anti-lgbt-centre-sur-jesus/",
-      "publishedAt": "2026-05-08T15:42:46.000Z",
-      "date": "2026-05-08T15:42:46.000Z",
-      "description": "Radiant Mobile propose sa vision très sélective d'internet pour 30 dollars par mois. Chatgpt Ia Radiant Mobile © ChatGPT - IA. La neutralité du net...",
-      "excerpt": "Radiant Mobile propose sa vision très sélective d'internet pour 30 dollars par mois. Chatgpt Ia Radiant Mobile © ChatGPT - IA. La neutralité du net...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le risque est vertigineux: vos conversations avec une IA pourraient devenir un outil de profilage",
-      "link": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-risque-vertigineux-vos-conversations-ia-pourraient-devenir-outil-profilage-134320/",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-risque-vertigineux-vos-conversations-ia-pourraient-devenir-outil-profilage-134320/",
-      "publishedAt": "2026-05-08T14:36:02.000Z",
-      "date": "2026-05-08T14:36:02.000Z",
-      "description": "Cybersécurité... Est-ce qu'avec les interactions et l'historique des conversations, un chatbot comme ChatGPT peut déduire des traits de personnalité?",
-      "excerpt": "Cybersécurité... Est-ce qu'avec les interactions et l'historique des conversations, un chatbot comme ChatGPT peut déduire des traits de personnalité?",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
