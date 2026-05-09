@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T12:55:04.483Z",
+  "generatedAt": "2026-05-09T18:44:53.884Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données...",
+      "link": "https://www.lindependant.fr/2026/05/09/cybersecurite-chatgpt-mistral-claude-grok-perplexity-gemini-gare-aux-donnees-personnelles-et-industrielles-livrees-aux-agents-ia-13362475.php",
+      "url": "https://www.lindependant.fr/2026/05/09/cybersecurite-chatgpt-mistral-claude-grok-perplexity-gemini-gare-aux-donnees-personnelles-et-industrielles-livrees-aux-agents-ia-13362475.php",
+      "publishedAt": "2026-05-09T17:16:29.000Z",
+      "date": "2026-05-09T17:16:29.000Z",
+      "description": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et industrielles livrées aux agents IA. Abonnés.",
+      "excerpt": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et industrielles livrées aux agents IA. Abonnés.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.5 Instant devient le moteur de ChatGPT: moins d'hallucinations, mémoire visible...",
+      "link": "https://www.europe-infos.fr/non-classe/8722/gpt-5-5-instant-devient-le-moteur-de-chatgpt-moins-dhallucinations-memoire-visible-reponses-plus-courtes/",
+      "url": "https://www.europe-infos.fr/non-classe/8722/gpt-5-5-instant-devient-le-moteur-de-chatgpt-moins-dhallucinations-memoire-visible-reponses-plus-courtes/",
+      "publishedAt": "2026-05-09T14:33:18.000Z",
+      "date": "2026-05-09T14:33:18.000Z",
+      "description": "OpenAI bascule ChatGPT sur GPT-5.5 Instant le 5 mai 2026 · OpenAI annonce 52,5% d'hallucinations en moins sur médecine et droit · Les Memory Sources...",
+      "excerpt": "OpenAI bascule ChatGPT sur GPT-5.5 Instant le 5 mai 2026 · OpenAI annonce 52,5% d'hallucinations en moins sur médecine et droit · Les Memory Sources...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "J'ai comparé ChatGPT Images 2.0 et Gemini Nano Banana: voici le modèle qui l'emporte",
+      "link": "https://www.zdnet.fr/guide-achat/jai-compare-chatgpt-images-2-0-et-gemini-nano-banana-voici-le-modele-qui-lemporte-494790.htm",
+      "url": "https://www.zdnet.fr/guide-achat/jai-compare-chatgpt-images-2-0-et-gemini-nano-banana-voici-le-modele-qui-lemporte-494790.htm",
+      "publishedAt": "2026-05-09T14:07:46.000Z",
+      "date": "2026-05-09T14:07:46.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... J'ai comparé ChatGPT Images 2.0 et Gemini Nano Banana: voici le...",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... J'ai comparé ChatGPT Images 2.0 et Gemini Nano Banana: voici le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT se dote d'un contact de confiance en cas de détresse - InfoMagazine Maroc",
       "link": "https://www.infomagazine.ma/intelligence-artificielle-ia/chatgpt-se-dote-dun-contact-de-confiance-en-cas-de-detresse-14771-2026/",
@@ -97,36 +127,6 @@
       "date": "2026-05-08T17:45:53.000Z",
       "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Au-delà de ChatGPT: les outils d'IA les plus utilisés dans les bureaux français.",
       "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Au-delà de ChatGPT: les outils d'IA les plus utilisés dans les bureaux français.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Shivon Zilis testimony exposes hidden dynamics inside the OpenAI-Musk feud - Mint",
-      "link": "https://www.livemint.com/news/world/shivon-zilis-testimony-exposes-hidden-dynamics-inside-the-openai-musk-feud-check-what-she-reveals-11778202446230.html",
-      "url": "https://www.livemint.com/news/world/shivon-zilis-testimony-exposes-hidden-dynamics-inside-the-openai-musk-feud-check-what-she-reveals-11778202446230.html",
-      "publishedAt": "2026-05-08T17:27:23.000Z",
-      "date": "2026-05-08T17:27:23.000Z",
-      "description": "Concern about ChatGPT release. According to a Reuters report, Shivon Zilis noted that there was internal unrest as the company prepared for the...",
-      "excerpt": "Concern about ChatGPT release. According to a Reuters report, Shivon Zilis noted that there was internal unrest as the company prepared for the...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "500,000 copies in one week — this Wild West is insane! #coop #gaming #fps - YouTube",
-      "link": "https://www.youtube.com/watch?v=4nvbEEVdnHQ",
-      "url": "https://www.youtube.com/watch?v=4nvbEEVdnHQ",
-      "publishedAt": "2026-05-08T16:58:49.000Z",
-      "date": "2026-05-08T16:58:49.000Z",
-      "description": "... Release date: April 28, 2026 #FFWPartner #gaming #fps #cowboys... ChatGPT vs Gemini 3 vs Claude Make PSYCHOLOGICAL HORROR From Scratch.",
-      "excerpt": "... Release date: April 28, 2026 #FFWPartner #gaming #fps #cowboys... ChatGPT vs Gemini 3 vs Claude Make PSYCHOLOGICAL HORROR From Scratch.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT pourrait bientôt prévenir un proche en cas de détresse: comment ça marche?",
-      "link": "https://www.clubic.com/actualite-612310-chatgpt-pourrait-bientot-prevenir-un-proche-en-cas-de-detresse-comment-ca-marche.html",
-      "url": "https://www.clubic.com/actualite-612310-chatgpt-pourrait-bientot-prevenir-un-proche-en-cas-de-detresse-comment-ca-marche.html",
-      "publishedAt": "2026-05-08T16:34:07.000Z",
-      "date": "2026-05-08T16:34:07.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Une nouvelle fonctionnalité arrive sur ChatGPT. ©OpenAI.",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Une nouvelle fonctionnalité arrive sur ChatGPT. ©OpenAI.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
