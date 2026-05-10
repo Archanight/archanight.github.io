@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T07:57:11.593Z",
+  "generatedAt": "2026-05-10T12:56:05.530Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Elle a été détruite en 9 secondes par une IA!: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/elle-a-ete-detruite-en-9-secondes-par-une-ia-CNT000002p7oTr.html",
+      "url": "https://actu.orange.fr/videos/high-tech/elle-a-ete-detruite-en-9-secondes-par-une-ia-CNT000002p7oTr.html",
+      "publishedAt": "2026-05-10T09:40:45.000Z",
+      "date": "2026-05-10T09:40:45.000Z",
+      "description": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et... OpenAI révèle le problème de ChatGPT avec les gobelins! #shorts. Tous...",
+      "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et... OpenAI révèle le problème de ChatGPT avec les gobelins! #shorts. Tous...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'IA responsable pénalement, l'idée n'est plus un fantasme - Orange Actu",
+      "link": "https://actu.orange.fr/societe/high-tech/l-ia-responsable-penalement-l-idee-n-est-plus-un-fantasme-CNT000002p74Ui.html",
+      "url": "https://actu.orange.fr/societe/high-tech/l-ia-responsable-penalement-l-idee-n-est-plus-un-fantasme-CNT000002p74Ui.html",
+      "publishedAt": "2026-05-10T08:12:09.000Z",
+      "date": "2026-05-10T08:12:09.000Z",
+      "description": "Selon des éléments recueillis par ses services, Phoenix Ikner, étudiant de l'université de Florida State, a échangé avec ChatGPT avant de tirer...",
+      "excerpt": "Selon des éléments recueillis par ses services, Phoenix Ikner, étudiant de l'université de Florida State, a échangé avec ChatGPT avant de tirer...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI MRC: la nouvelle architecture réseau IA - 1001Web",
       "link": "https://www.1001web.fr/openai-architecture-reseau-supercomputers-163937.html",
@@ -107,26 +127,6 @@
       "date": "2026-05-09T01:23:25.000Z",
       "description": "ChatGPT continuera d'encourager les utilisateurs à contacter les lignes... Michael Allison, 2026-05- 9 ( Update: 2026-05- 9). Cookie Settings",
       "excerpt": "ChatGPT continuera d'encourager les utilisateurs à contacter les lignes... Michael Allison, 2026-05- 9 ( Update: 2026-05- 9). Cookie Settings",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Utiliser des crédits pour une utilisation flexible dans ChatGPT (Free/Go/Plus/Pro)",
-      "link": "https://help.openai.com/fr-ca/articles/12642688-utiliser-des-cr%C3%A9dits-pour-une-utilisation-flexible-dans-chatgpt-freegopluspro",
-      "url": "https://help.openai.com/fr-ca/articles/12642688-utiliser-des-cr%C3%A9dits-pour-une-utilisation-flexible-dans-chatgpt-freegopluspro",
-      "publishedAt": "2026-05-08T19:25:39.000Z",
-      "date": "2026-05-08T19:25:39.000Z",
-      "description": "ChatGPT — Notes de version. Journal des derniers changements, mises à jour et notes de version de ChatGPT · Tarification ChatGPT (Business, Enterprise...",
-      "excerpt": "ChatGPT — Notes de version. Journal des derniers changements, mises à jour et notes de version de ChatGPT · Tarification ChatGPT (Business, Enterprise...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "30 millions d'unités: OpenAI s'apprête à lancer son smartphone révolutionnaire!",
-      "link": "https://www.journaldugeek.com/2026/05/08/30-millions-dunites-openai-sapprete-a-lancer-son-smartphone-revolutionnaire/",
-      "url": "https://www.journaldugeek.com/2026/05/08/30-millions-dunites-openai-sapprete-a-lancer-son-smartphone-revolutionnaire/",
-      "publishedAt": "2026-05-08T19:14:30.000Z",
-      "date": "2026-05-08T19:14:30.000Z",
-      "description": "Après ChatGPT, quel sera le prochain gros projet d'OpenAI, le géant de... 【Industry Check Update 】OpenAI appears to be fast-tracking its...",
-      "excerpt": "Après ChatGPT, quel sera le prochain gros projet d'OpenAI, le géant de... 【Industry Check Update 】OpenAI appears to be fast-tracking its...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
