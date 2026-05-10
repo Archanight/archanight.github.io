@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T18:44:53.884Z",
+  "generatedAt": "2026-05-10T02:01:03.103Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Cybersécurité: \"Un nombre d'attaques incroyable depuis le mois d'août\"… L'IA accélère les...",
+      "link": "https://www.lindependant.fr/2026/05/09/cybersecurite-un-nombre-dattaques-incroyable-depuis-le-mois-daout-lia-accelere-les-vols-de-donnees-cet-expert-alerte-et-donne-des-cles-pour-se-13362058.php",
+      "url": "https://www.lindependant.fr/2026/05/09/cybersecurite-un-nombre-dattaques-incroyable-depuis-le-mois-daout-lia-accelere-les-vols-de-donnees-cet-expert-alerte-et-donne-des-cles-pour-se-13362058.php",
+      "publishedAt": "2026-05-09T23:45:16.000Z",
+      "date": "2026-05-09T23:45:16.000Z",
+      "description": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et industrielles livrées aux agents IA. Créer des...",
+      "excerpt": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et industrielles livrées aux agents IA. Créer des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données...",
       "link": "https://www.lindependant.fr/2026/05/09/cybersecurite-chatgpt-mistral-claude-grok-perplexity-gemini-gare-aux-donnees-personnelles-et-industrielles-livrees-aux-agents-ia-13362475.php",
@@ -37,6 +47,16 @@
       "date": "2026-05-09T14:07:46.000Z",
       "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... J'ai comparé ChatGPT Images 2.0 et Gemini Nano Banana: voici le...",
       "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... J'ai comparé ChatGPT Images 2.0 et Gemini Nano Banana: voici le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT: OpenAI introduit un « contact de confiance » pour les situations de détresse",
+      "link": "https://www.msn.com/fr-xl/actualite/other/chatgpt-openai-introduit-un-contact-de-confiance-pour-les-situations-de-d%C3%A9tresse/ar-AA22HzoN?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "url": "https://www.msn.com/fr-xl/actualite/other/chatgpt-openai-introduit-un-contact-de-confiance-pour-les-situations-de-d%C3%A9tresse/ar-AA22HzoN?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "publishedAt": "2026-05-09T13:37:30.000Z",
+      "date": "2026-05-09T13:37:30.000Z",
+      "description": "... ChatGPT confrontés à des situations de détresse psychologique ou à... Un rapport souligne le rôle de l'IA dans la cybersécurité. Hespress. Un...",
+      "excerpt": "... ChatGPT confrontés à des situations de détresse psychologique ou à... Un rapport souligne le rôle de l'IA dans la cybersécurité. Hespress. Un...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -107,26 +127,6 @@
       "date": "2026-05-08T19:01:07.000Z",
       "description": "Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures... Côté réglementation, l'intégration de ChatGPT soulève des questions non...",
       "excerpt": "Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures... Côté réglementation, l'intégration de ChatGPT soulève des questions non...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pourquoi tout le monde va porter ÇA | Décode: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/high-tech/pourquoi-tout-le-monde-va-porter-ca-decode-CNT000002p6eB0.html",
-      "url": "https://actu.orange.fr/videos/high-tech/pourquoi-tout-le-monde-va-porter-ca-decode-CNT000002p6eB0.html",
-      "publishedAt": "2026-05-08T17:53:04.000Z",
-      "date": "2026-05-08T17:53:04.000Z",
-      "description": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
-      "excerpt": "Cybersécurité et Télésurveillance. Exclu Web Fibre. Conseils et ateliers... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Au-delà de ChatGPT: les outils d'IA les plus utilisés dans les bureaux français - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/au-dela-de-chatgpt-outils-ia-utilises-dans-bureaux-francais",
-      "url": "https://www.lebigdata.fr/au-dela-de-chatgpt-outils-ia-utilises-dans-bureaux-francais",
-      "publishedAt": "2026-05-08T17:45:53.000Z",
-      "date": "2026-05-08T17:45:53.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Au-delà de ChatGPT: les outils d'IA les plus utilisés dans les bureaux français.",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Au-delà de ChatGPT: les outils d'IA les plus utilisés dans les bureaux français.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
