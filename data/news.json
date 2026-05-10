@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T12:56:05.530Z",
+  "generatedAt": "2026-05-10T18:46:58.590Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,36 @@
   "failedSources": [],
   "items": [
     {
+      "title": "ChatGPT: L'IA peut-elle deviner votre personnalité? - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/367904/chatgpt-etude-personnalite-vie-privee/",
+      "url": "https://www.blog-nouvelles-technologies.fr/367904/chatgpt-etude-personnalite-vie-privee/",
+      "publishedAt": "2026-05-10T14:53:26.000Z",
+      "date": "2026-05-10T14:53:26.000Z",
+      "description": "Chaque conversation avec un chatbot semble anodine. Pourtant, une nouvelle étude de l'ETH Zurich montre que nos échanges avec ChatGPT peuvent suffire...",
+      "excerpt": "Chaque conversation avec un chatbot semble anodine. Pourtant, une nouvelle étude de l'ETH Zurich montre que nos échanges avec ChatGPT peuvent suffire...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Cybercriminalité: Comment se prévenir des effets pervers de l'IA - Le Quotidien",
+      "link": "https://www.lequotidien.com.tn/fr/societe/10418-cybercriminalite-comment-se-prevenir-des-effets-pervers-de-l-ia",
+      "url": "https://www.lequotidien.com.tn/fr/societe/10418-cybercriminalite-comment-se-prevenir-des-effets-pervers-de-l-ia",
+      "publishedAt": "2026-05-10T13:01:47.000Z",
+      "date": "2026-05-10T13:01:47.000Z",
+      "description": "... ChatGPT 5, en raison de leur capacité à détecter les failles dans les... cybersécurité. Elle a ajouté que les principales institutions...",
+      "excerpt": "... ChatGPT 5, en raison de leur capacité à détecter les failles dans les... cybersécurité. Elle a ajouté que les principales institutions...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5: le grand FAIL technologique qui va vous faire péter un câble #AI - YouTube",
+      "link": "https://www.youtube.com/watch?v=OzZ7PnGCNco",
+      "url": "https://www.youtube.com/watch?v=OzZ7PnGCNco",
+      "publishedAt": "2026-05-10T10:36:53.000Z",
+      "date": "2026-05-10T10:36:53.000Z",
+      "description": "GPT-5: le grand FAIL technologique qui va vous faire péter un câble #AIFail #TechControversy #OpenAIScandal @oussamaammaroff.",
+      "excerpt": "GPT-5: le grand FAIL technologique qui va vous faire péter un câble #AIFail #TechControversy #OpenAIScandal @oussamaammaroff.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Elle a été détruite en 9 secondes par une IA!: Actualités - Orange Actu",
       "link": "https://actu.orange.fr/videos/high-tech/elle-a-ete-detruite-en-9-secondes-par-une-ia-CNT000002p7oTr.html",
       "url": "https://actu.orange.fr/videos/high-tech/elle-a-ete-detruite-en-9-secondes-par-une-ia-CNT000002p7oTr.html",
@@ -18,6 +48,16 @@
       "description": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et... OpenAI révèle le problème de ChatGPT avec les gobelins! #shorts. Tous...",
       "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et... OpenAI révèle le problème de ChatGPT avec les gobelins! #shorts. Tous...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "PARIS: SEO & IA - La \"Generative Engine Optimization\" (GEO) bouscule les stratégies numériques",
+      "link": "https://presseagence.fr/paris-seo-ia-la-generative-engine-optimization-geo-bouscule-les-strategies-numeriques/",
+      "url": "https://presseagence.fr/paris-seo-ia-la-generative-engine-optimization-geo-bouscule-les-strategies-numeriques/",
+      "publishedAt": "2026-05-10T08:32:03.000Z",
+      "date": "2026-05-10T08:32:03.000Z",
+      "description": "Cette nouvelle approche se concentre sur l'optimisation des contenus pour les moteurs de réponse basés sur l'IA, comme ChatGPT, Gemini ou Perplexity.",
+      "excerpt": "Cette nouvelle approche se concentre sur l'optimisation des contenus pour les moteurs de réponse basés sur l'IA, comme ChatGPT, Gemini ou Perplexity.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "L'IA responsable pénalement, l'idée n'est plus un fantasme - Orange Actu",
@@ -88,46 +128,6 @@
       "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... J'ai comparé ChatGPT Images 2.0 et Gemini Nano Banana: voici le...",
       "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... J'ai comparé ChatGPT Images 2.0 et Gemini Nano Banana: voici le...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: OpenAI introduit un « contact de confiance » pour les situations de détresse",
-      "link": "https://www.msn.com/fr-xl/actualite/other/chatgpt-openai-introduit-un-contact-de-confiance-pour-les-situations-de-d%C3%A9tresse/ar-AA22HzoN?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-      "url": "https://www.msn.com/fr-xl/actualite/other/chatgpt-openai-introduit-un-contact-de-confiance-pour-les-situations-de-d%C3%A9tresse/ar-AA22HzoN?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-      "publishedAt": "2026-05-09T13:37:30.000Z",
-      "date": "2026-05-09T13:37:30.000Z",
-      "description": "... ChatGPT confrontés à des situations de détresse psychologique ou à... Un rapport souligne le rôle de l'IA dans la cybersécurité. Hespress. Un...",
-      "excerpt": "... ChatGPT confrontés à des situations de détresse psychologique ou à... Un rapport souligne le rôle de l'IA dans la cybersécurité. Hespress. Un...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT se dote d'un contact de confiance en cas de détresse - InfoMagazine Maroc",
-      "link": "https://www.infomagazine.ma/intelligence-artificielle-ia/chatgpt-se-dote-dun-contact-de-confiance-en-cas-de-detresse-14771-2026/",
-      "url": "https://www.infomagazine.ma/intelligence-artificielle-ia/chatgpt-se-dote-dun-contact-de-confiance-en-cas-de-detresse-14771-2026/",
-      "publishedAt": "2026-05-09T10:14:54.000Z",
-      "date": "2026-05-09T10:14:54.000Z",
-      "description": "OpenAI lance « Trusted Contact », une nouvelle fonction de sécurité de ChatGPT destinée aux utilisateurs en situation de détresse psychologique.",
-      "excerpt": "OpenAI lance « Trusted Contact », une nouvelle fonction de sécurité de ChatGPT destinée aux utilisateurs en situation de détresse psychologique.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "GPT-5.5 Instant débarque sur ChatGPT avec moins d'erreurs - Actu Marketing",
-      "link": "https://www.actu-marketing.fr/gpt-5-5-instant-debarque-sur-chatgpt-avec-moins-derreurs/",
-      "url": "https://www.actu-marketing.fr/gpt-5-5-instant-debarque-sur-chatgpt-avec-moins-derreurs/",
-      "publishedAt": "2026-05-09T08:34:01.000Z",
-      "date": "2026-05-09T08:34:01.000Z",
-      "description": "... ChatGPT. Cette mise à jour succède à GPT-5.3 Instant, lancé début... GPT-5.5-Cyber d'OpenAI défie Mythos en cybersécurité · Marketing 4 mai...",
-      "excerpt": "... ChatGPT. Cette mise à jour succède à GPT-5.3 Instant, lancé début... GPT-5.5-Cyber d'OpenAI défie Mythos en cybersécurité · Marketing 4 mai...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La nouvelle fonction ChatGPT d'OpenAI peut alerter une personne de confiance en cas de...",
-      "link": "https://www.notebookcheck.biz/La-nouvelle-fonction-ChatGPT-d-OpenAI-peut-alerter-une-personne-de-confiance-en-cas-de-crise-de-sante-mentale.1292978.0.html",
-      "url": "https://www.notebookcheck.biz/La-nouvelle-fonction-ChatGPT-d-OpenAI-peut-alerter-une-personne-de-confiance-en-cas-de-crise-de-sante-mentale.1292978.0.html",
-      "publishedAt": "2026-05-09T01:23:25.000Z",
-      "date": "2026-05-09T01:23:25.000Z",
-      "description": "ChatGPT continuera d'encourager les utilisateurs à contacter les lignes... Michael Allison, 2026-05- 9 ( Update: 2026-05- 9). Cookie Settings",
-      "excerpt": "ChatGPT continuera d'encourager les utilisateurs à contacter les lignes... Michael Allison, 2026-05- 9 ( Update: 2026-05- 9). Cookie Settings",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
