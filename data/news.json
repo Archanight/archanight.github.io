@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T02:01:03.103Z",
+  "generatedAt": "2026-05-10T07:57:11.593Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,16 @@
   "failedSources": [],
   "items": [
     {
+      "title": "OpenAI MRC: la nouvelle architecture réseau IA - 1001Web",
+      "link": "https://www.1001web.fr/openai-architecture-reseau-supercomputers-163937.html",
+      "url": "https://www.1001web.fr/openai-architecture-reseau-supercomputers-163937.html",
+      "publishedAt": "2026-05-10T03:39:16.000Z",
+      "date": "2026-05-10T03:39:16.000Z",
+      "description": "Pour les utilisateurs finaux de ChatGPT, l'effet ne sera pas visible demain, mais il se traduira dans deux ou trois cycles de release: modèles plus...",
+      "excerpt": "Pour les utilisateurs finaux de ChatGPT, l'effet ne sera pas visible demain, mais il se traduira dans deux ou trois cycles de release: modèles plus...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Cybersécurité: \"Un nombre d'attaques incroyable depuis le mois d'août\"… L'IA accélère les...",
       "link": "https://www.lindependant.fr/2026/05/09/cybersecurite-un-nombre-dattaques-incroyable-depuis-le-mois-daout-lia-accelere-les-vols-de-donnees-cet-expert-alerte-et-donne-des-cles-pour-se-13362058.php",
       "url": "https://www.lindependant.fr/2026/05/09/cybersecurite-un-nombre-dattaques-incroyable-depuis-le-mois-daout-lia-accelere-les-vols-de-donnees-cet-expert-alerte-et-donne-des-cles-pour-se-13362058.php",
@@ -18,6 +28,16 @@
       "description": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et industrielles livrées aux agents IA. Créer des...",
       "excerpt": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et industrielles livrées aux agents IA. Créer des...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Perte de mémoire et déclin du raisonnement: un défi à relever! | LesNews",
+      "link": "https://lesnews.ca/intelligence-artificielle/perte-de-memoire-et-declin-du-raisonnement-un-defi-a-relever/",
+      "url": "https://lesnews.ca/intelligence-artificielle/perte-de-memoire-et-declin-du-raisonnement-un-defi-a-relever/",
+      "publishedAt": "2026-05-09T22:50:10.000Z",
+      "date": "2026-05-09T22:50:10.000Z",
+      "description": "L'émergence d'outils d'intelligence artificielle, tels que ChatGPT, transforme notre quotidien. OpenAI, la société qui en détient la propriété...",
+      "excerpt": "L'émergence d'outils d'intelligence artificielle, tels que ChatGPT, transforme notre quotidien. OpenAI, la société qui en détient la propriété...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données...",
@@ -108,26 +128,6 @@
       "description": "Après ChatGPT, quel sera le prochain gros projet d'OpenAI, le géant de... 【Industry Check Update 】OpenAI appears to be fast-tracking its...",
       "excerpt": "Après ChatGPT, quel sera le prochain gros projet d'OpenAI, le géant de... 【Industry Check Update 】OpenAI appears to be fast-tracking its...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Notes from the IAPP Canada: Following Symposium 2026, regulators say ChatGPT training...",
-      "link": "https://iapp.org/news/a/notes-from-the-iapp-canada-following-symposium-2026-regulators-say-chatgpt-training-violated-privacy-laws",
-      "url": "https://iapp.org/news/a/notes-from-the-iapp-canada-following-symposium-2026-regulators-say-chatgpt-training-violated-privacy-laws",
-      "publishedAt": "2026-05-08T19:04:59.000Z",
-      "date": "2026-05-08T19:04:59.000Z",
-      "description": "L'enquête a conclu que les modèles GPT-3.5 et GPT-4 de ChatGPT contrevenaient à la Loi sur la protection des renseignements personnels et les...",
-      "excerpt": "L'enquête a conclu que les modèles GPT-3.5 et GPT-4 de ChatGPT contrevenaient à la Loi sur la protection des renseignements personnels et les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Netflix teste sa propre recherche vocale IA — finis Google Assistant et Alexa",
-      "link": "https://gagadget.com/fr/709193-netflix-teste-sa-propre-recherche-vocale-ia-finis-google-assistant-et-alexa/",
-      "url": "https://gagadget.com/fr/709193-netflix-teste-sa-propre-recherche-vocale-ia-finis-google-assistant-et-alexa/",
-      "publishedAt": "2026-05-08T19:01:07.000Z",
-      "date": "2026-05-08T19:01:07.000Z",
-      "description": "Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures... Côté réglementation, l'intégration de ChatGPT soulève des questions non...",
-      "excerpt": "Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures... Côté réglementation, l'intégration de ChatGPT soulève des questions non...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
