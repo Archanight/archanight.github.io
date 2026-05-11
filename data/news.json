@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T02:10:47.028Z",
+  "generatedAt": "2026-05-11T08:58:30.897Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -18,6 +18,16 @@
       "description": "Chaque conversation avec un chatbot semble anodine. Pourtant, une nouvelle étude de l'ETH Zurich montre que nos échanges avec ChatGPT peuvent suffire...",
       "excerpt": "Chaque conversation avec un chatbot semble anodine. Pourtant, une nouvelle étude de l'ETH Zurich montre que nos échanges avec ChatGPT peuvent suffire...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Suis-je maintenant un \"risque en cybersécurité \"?: r/ ChatGPT - Reddit",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1t7v4jj/am_i_a_cybersecurity_risk_now/?tl=fr",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1t7v4jj/am_i_a_cybersecurity_risk_now/?tl=fr",
+      "publishedAt": "2026-05-10T13:25:43.000Z",
+      "date": "2026-05-10T13:25:43.000Z",
+      "description": "Je suis préoccupé par le fait que le domaine de la cryptographie et de la cybersécurité n'est pas préparé à l'IA... r/ ChatGPT - Chatgpt sait que mon...",
+      "excerpt": "Je suis préoccupé par le fait que le domaine de la cryptographie et de la cybersécurité n'est pas préparé à l'IA... r/ ChatGPT - Chatgpt sait que mon...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "Cybercriminalité: Comment se prévenir des effets pervers de l'IA - Le Quotidien",
@@ -80,6 +90,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
+      "title": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux... - Facebook",
+      "link": "https://www.facebook.com/lindependant.fr/posts/cybers%C3%A9curit%C3%A9-chatgpt-mistral-claude-grok-perplexity-gemini-gare-aux-donn%C3%A9es-per/1398553282305925/",
+      "url": "https://www.facebook.com/lindependant.fr/posts/cybers%C3%A9curit%C3%A9-chatgpt-mistral-claude-grok-perplexity-gemini-gare-aux-donn%C3%A9es-per/1398553282305925/",
+      "publishedAt": "2026-05-10T01:00:56.000Z",
+      "date": "2026-05-10T01:00:56.000Z",
+      "description": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et industrielles livrées aux agents IA ➡️...",
+      "excerpt": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et industrielles livrées aux agents IA ➡️...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Cybersécurité: \"Un nombre d'attaques incroyable depuis le mois d'août\"… L'IA accélère les...",
       "link": "https://www.lindependant.fr/2026/05/09/cybersecurite-un-nombre-dattaques-incroyable-depuis-le-mois-daout-lia-accelere-les-vols-de-donnees-cet-expert-alerte-et-donne-des-cles-pour-se-13362058.php",
       "url": "https://www.lindependant.fr/2026/05/09/cybersecurite-un-nombre-dattaques-incroyable-depuis-le-mois-daout-lia-accelere-les-vols-de-donnees-cet-expert-alerte-et-donne-des-cles-pour-se-13362058.php",
@@ -100,33 +120,13 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données...",
-      "link": "https://www.lindependant.fr/2026/05/09/cybersecurite-chatgpt-mistral-claude-grok-perplexity-gemini-gare-aux-donnees-personnelles-et-industrielles-livrees-aux-agents-ia-13362475.php",
-      "url": "https://www.lindependant.fr/2026/05/09/cybersecurite-chatgpt-mistral-claude-grok-perplexity-gemini-gare-aux-donnees-personnelles-et-industrielles-livrees-aux-agents-ia-13362475.php",
-      "publishedAt": "2026-05-09T17:16:29.000Z",
-      "date": "2026-05-09T17:16:29.000Z",
-      "description": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et industrielles livrées aux agents IA. Abonnés.",
-      "excerpt": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et industrielles livrées aux agents IA. Abonnés.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.5 Instant devient le moteur de ChatGPT: moins d'hallucinations, mémoire visible...",
-      "link": "https://www.europe-infos.fr/non-classe/8722/gpt-5-5-instant-devient-le-moteur-de-chatgpt-moins-dhallucinations-memoire-visible-reponses-plus-courtes/",
-      "url": "https://www.europe-infos.fr/non-classe/8722/gpt-5-5-instant-devient-le-moteur-de-chatgpt-moins-dhallucinations-memoire-visible-reponses-plus-courtes/",
-      "publishedAt": "2026-05-09T14:33:18.000Z",
-      "date": "2026-05-09T14:33:18.000Z",
-      "description": "OpenAI bascule ChatGPT sur GPT-5.5 Instant le 5 mai 2026 · OpenAI annonce 52,5% d'hallucinations en moins sur médecine et droit · Les Memory Sources...",
-      "excerpt": "OpenAI bascule ChatGPT sur GPT-5.5 Instant le 5 mai 2026 · OpenAI annonce 52,5% d'hallucinations en moins sur médecine et droit · Les Memory Sources...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "J'ai comparé ChatGPT Images 2.0 et Gemini Nano Banana: voici le modèle qui l'emporte",
-      "link": "https://www.zdnet.fr/guide-achat/jai-compare-chatgpt-images-2-0-et-gemini-nano-banana-voici-le-modele-qui-lemporte-494790.htm",
-      "url": "https://www.zdnet.fr/guide-achat/jai-compare-chatgpt-images-2-0-et-gemini-nano-banana-voici-le-modele-qui-lemporte-494790.htm",
-      "publishedAt": "2026-05-09T14:07:46.000Z",
-      "date": "2026-05-09T14:07:46.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... J'ai comparé ChatGPT Images 2.0 et Gemini Nano Banana: voici le...",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... J'ai comparé ChatGPT Images 2.0 et Gemini Nano Banana: voici le...",
+      "title": "ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles...",
+      "link": "https://x.com/LIndep_perpi/status/2053152503735173241",
+      "url": "https://x.com/LIndep_perpi/status/2053152503735173241",
+      "publishedAt": "2026-05-09T22:48:24.000Z",
+      "date": "2026-05-09T22:48:24.000Z",
+      "description": "L'Indep Perpignan (@LIndep_perpi). 135 views. Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et...",
+      "excerpt": "L'Indep Perpignan (@LIndep_perpi). 135 views. Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
