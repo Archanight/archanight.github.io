@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T02:06:19.222Z",
+  "generatedAt": "2026-05-12T08:26:28.871Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "voici combien j'ai économisé en traquant mes abonnements fantôme - Les Numériques",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/j-ai-laisse-l-ia-fouiller-mes-comptes-voici-combien-j-ai-economise-en-traquant-mes-abonnements-fantome-n236530.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/j-ai-laisse-l-ia-fouiller-mes-comptes-voici-combien-j-ai-economise-en-traquant-mes-abonnements-fantome-n236530.html",
+      "publishedAt": "2026-05-12T02:01:34.000Z",
+      "date": "2026-05-12T02:01:34.000Z",
+      "description": "Verdict: faut-il vraiment déléguer son budget à une intelligence artificielle? ChatGPT reprend en fin de réponse ses suggestions d'abonnements à...",
+      "excerpt": "Verdict: faut-il vraiment déléguer son budget à une intelligence artificielle? ChatGPT reprend en fin de réponse ses suggestions d'abonnements à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "This AI codes everything all by itself #ia #aitools #ai # chatgpt #glm5.1 #coding #code - YouTube",
+      "link": "https://www.youtube.com/watch?v=oSpqCc48kvc",
+      "url": "https://www.youtube.com/watch?v=oSpqCc48kvc",
+      "publishedAt": "2026-05-11T23:15:44.000Z",
+      "date": "2026-05-11T23:15:44.000Z",
+      "description": "This AI codes everything all by itself #ia #aitools #ai # chatgpt #glm5.... Update from Ukraine | Great! Ukraine Breaks Russia's Attack Momentum.",
+      "excerpt": "This AI codes everything all by itself #ia #aitools #ai # chatgpt #glm5.... Update from Ukraine | Great! Ukraine Breaks Russia's Attack Momentum.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Palo Alto Networks: la faille CVE -2026-0300 activement exploitée - ChannelNews",
       "link": "https://www.channelnews.fr/palo-alto-networks-la-faille-cve-2026-0300-activement-exploitee-156615",
@@ -108,26 +128,6 @@
       "description": "L'Union européenne a décroché son billet pour GPT-5.5-Cyber, le grand modèle de langage d'OpenAI spécialisé dans la cybersécurité.",
       "excerpt": "L'Union européenne a décroché son billet pour GPT-5.5-Cyber, le grand modèle de langage d'OpenAI spécialisé dans la cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Xbox promet de reparler de sa prochaine console, Project Helix, d'ici la fin de l'année",
-      "link": "https://global.techradar.com/fr-fr/gaming/xbox/xbox-promet-de-reparler-de-sa-prochaine-console-project-helix-dici-la-fin-de-lannee",
-      "url": "https://global.techradar.com/fr-fr/gaming/xbox/xbox-promet-de-reparler-de-sa-prochaine-console-project-helix-dici-la-fin-de-lannee",
-      "publishedAt": "2026-05-11T10:21:41.000Z",
-      "date": "2026-05-11T10:21:41.000Z",
-      "description": "La publication est arrivée avant un live stream Game Dev Update organisé par Xbox, qui revenait sur les annonces de la marque lors de la GDC 2026.",
-      "excerpt": "La publication est arrivée avant un live stream Game Dev Update organisé par Xbox, qui revenait sur les annonces de la marque lors de la GDC 2026.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT: L'IA peut-elle deviner votre personnalité? - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/367904/chatgpt-etude-personnalite-vie-privee/",
-      "url": "https://www.blog-nouvelles-technologies.fr/367904/chatgpt-etude-personnalite-vie-privee/",
-      "publishedAt": "2026-05-10T14:53:26.000Z",
-      "date": "2026-05-10T14:53:26.000Z",
-      "description": "Chaque conversation avec un chatbot semble anodine. Pourtant, une nouvelle étude de l'ETH Zurich montre que nos échanges avec ChatGPT peuvent suffire...",
-      "excerpt": "Chaque conversation avec un chatbot semble anodine. Pourtant, une nouvelle étude de l'ETH Zurich montre que nos échanges avec ChatGPT peuvent suffire...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
