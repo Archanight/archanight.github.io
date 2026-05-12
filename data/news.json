@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T19:27:34.471Z",
+  "generatedAt": "2026-05-12T02:06:19.222Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Palo Alto Networks: la faille CVE -2026-0300 activement exploitée - ChannelNews",
+      "link": "https://www.channelnews.fr/palo-alto-networks-la-faille-cve-2026-0300-activement-exploitee-156615",
+      "url": "https://www.channelnews.fr/palo-alto-networks-la-faille-cve-2026-0300-activement-exploitee-156615",
+      "publishedAt": "2026-05-11T22:00:28.000Z",
+      "date": "2026-05-11T22:00:28.000Z",
+      "description": "Google Cloud Next'26: Google complète Gemini Enterprise et lance son « Agent Platform » · Avec les « workspace agents », OpenAI transforme ChatGPT en...",
+      "excerpt": "Google Cloud Next'26: Google complète Gemini Enterprise et lance son « Agent Platform » · Avec les « workspace agents », OpenAI transforme ChatGPT en...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
+      "title": "Le Tech Flash: Apple sur le point de conclure ave Intel, par Léa Benaim - 11/05: Actualités",
+      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-apple-sur-le-point-de-conclure-ave-intel-par-lea-benaim-11-05-CNT000002piV78.html",
+      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-apple-sur-le-point-de-conclure-ave-intel-par-lea-benaim-11-05-CNT000002piV78.html",
+      "publishedAt": "2026-05-11T21:33:15.000Z",
+      "date": "2026-05-11T21:33:15.000Z",
+      "description": "... ChatGPT, et la poursuite du chanteuse Dua Lipa de 15 millions contre... Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et...",
+      "excerpt": "... ChatGPT, et la poursuite du chanteuse Dua Lipa de 15 millions contre... Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Demander de l'aide à ChatGPT pour gérer ses placements - Le Devoir",
+      "link": "https://www.ledevoir.com/economie/979331/demander-aide-chatgpt-gerer-placements",
+      "url": "https://www.ledevoir.com/economie/979331/demander-aide-chatgpt-gerer-placements",
+      "publishedAt": "2026-05-11T20:49:37.000Z",
+      "date": "2026-05-11T20:49:37.000Z",
+      "description": "Alors, l'investisseur autonome a trouvé en ChatGPT et Gemini des acolytes avec qui échanger. Jamais Patrick ne demande aux robots conversationnels de...",
+      "excerpt": "Alors, l'investisseur autonome a trouvé en ChatGPT et Gemini des acolytes avec qui échanger. Jamais Patrick ne demande aux robots conversationnels de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "L'UE indique qu'OpenAI propose de rendre accessible son modèle de cybersécurité, tandis...",
+      "link": "https://www.boursorama.com/actualite-economique/actualites-amp/l-ue-indique-qu-openai-propose-de-rendre-accessible-son-modele-de-cybersecurite-tandis-qu-anthropic-n-en-est-pas-encore-la-26afea767c1ddd3a138a0629e5cb8eb3",
+      "url": "https://www.boursorama.com/actualite-economique/actualites-amp/l-ue-indique-qu-openai-propose-de-rendre-accessible-son-modele-de-cybersecurite-tandis-qu-anthropic-n-en-est-pas-encore-la-26afea767c1ddd3a138a0629e5cb8eb3",
+      "publishedAt": "2026-05-11T17:39:58.000Z",
+      "date": "2026-05-11T17:39:58.000Z",
+      "description": "La lettre d'OpenAI est intervenue un mois après que la Commission européenne a déclaré que le ChatGPT de l'entreprise devait être considéré comme...",
+      "excerpt": "La lettre d'OpenAI est intervenue un mois après que la Commission européenne a déclaré que le ChatGPT de l'entreprise devait être considéré comme...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Jura. « Une première mondiale »: Api & You révolutionne l'achat de coffrets cadeaux avec ChatGPT",
       "link": "https://www.leprogres.fr/economie/2026/05/11/une-premiere-mondiale-api-you-revolutionne-l-achat-de-coffrets-cadeaux-avec-chatgpt",
@@ -28,6 +68,16 @@
       "description": "Une semaine après avoir proposé la Release Candidate pour iOS 26.5... ChatGPT, Gemini ou Claude. Nos vidéos. Tap to unmute. Your browser can't...",
       "excerpt": "Une semaine après avoir proposé la Release Candidate pour iOS 26.5... ChatGPT, Gemini ou Claude. Nos vidéos. Tap to unmute. Your browser can't...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Cybersécurité et données: des enjeux cruciaux de la gestion d'une association - Carenews",
+      "link": "https://www.carenews.com/salesforce-org/news/cybersecurite-et-donnees-des-enjeux-cruciaux-de-la-gestion-d-une-association",
+      "url": "https://www.carenews.com/salesforce-org/news/cybersecurite-et-donnees-des-enjeux-cruciaux-de-la-gestion-d-une-association",
+      "publishedAt": "2026-05-11T16:48:02.000Z",
+      "date": "2026-05-11T16:48:02.000Z",
+      "description": "Notre tendance à demander conseil à ChatGPT et notre utilisation privilégiée du smartphone influencent fortement les comportements en matière de dons.",
+      "excerpt": "Notre tendance à demander conseil à ChatGPT et notre utilisation privilégiée du smartphone influencent fortement les comportements en matière de dons.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "SantExpo: le rendez-vous pour prendre le pouls du secteur de la santé - Big Media",
@@ -77,56 +127,6 @@
       "date": "2026-05-10T14:53:26.000Z",
       "description": "Chaque conversation avec un chatbot semble anodine. Pourtant, une nouvelle étude de l'ETH Zurich montre que nos échanges avec ChatGPT peuvent suffire...",
       "excerpt": "Chaque conversation avec un chatbot semble anodine. Pourtant, une nouvelle étude de l'ETH Zurich montre que nos échanges avec ChatGPT peuvent suffire...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Suis-je maintenant un \"risque en cybersécurité \"?: r/ ChatGPT - Reddit",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1t7v4jj/am_i_a_cybersecurity_risk_now/?tl=fr",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1t7v4jj/am_i_a_cybersecurity_risk_now/?tl=fr",
-      "publishedAt": "2026-05-10T13:25:43.000Z",
-      "date": "2026-05-10T13:25:43.000Z",
-      "description": "Je suis préoccupé par le fait que le domaine de la cryptographie et de la cybersécurité n'est pas préparé à l'IA... r/ ChatGPT - Chatgpt sait que mon...",
-      "excerpt": "Je suis préoccupé par le fait que le domaine de la cryptographie et de la cybersécurité n'est pas préparé à l'IA... r/ ChatGPT - Chatgpt sait que mon...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybercriminalité: Comment se prévenir des effets pervers de l'IA - Le Quotidien",
-      "link": "https://www.lequotidien.com.tn/fr/societe/10418-cybercriminalite-comment-se-prevenir-des-effets-pervers-de-l-ia",
-      "url": "https://www.lequotidien.com.tn/fr/societe/10418-cybercriminalite-comment-se-prevenir-des-effets-pervers-de-l-ia",
-      "publishedAt": "2026-05-10T13:01:47.000Z",
-      "date": "2026-05-10T13:01:47.000Z",
-      "description": "... ChatGPT 5, en raison de leur capacité à détecter les failles dans les... cybersécurité. Elle a ajouté que les principales institutions...",
-      "excerpt": "... ChatGPT 5, en raison de leur capacité à détecter les failles dans les... cybersécurité. Elle a ajouté que les principales institutions...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5: le grand FAIL technologique qui va vous faire péter un câble #AI - YouTube",
-      "link": "https://www.youtube.com/watch?v=OzZ7PnGCNco",
-      "url": "https://www.youtube.com/watch?v=OzZ7PnGCNco",
-      "publishedAt": "2026-05-10T10:36:53.000Z",
-      "date": "2026-05-10T10:36:53.000Z",
-      "description": "GPT-5: le grand FAIL technologique qui va vous faire péter un câble #AIFail #TechControversy #OpenAIScandal @oussamaammaroff.",
-      "excerpt": "GPT-5: le grand FAIL technologique qui va vous faire péter un câble #AIFail #TechControversy #OpenAIScandal @oussamaammaroff.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Elle a été détruite en 9 secondes par une IA!: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/high-tech/elle-a-ete-detruite-en-9-secondes-par-une-ia-CNT000002p7oTr.html",
-      "url": "https://actu.orange.fr/videos/high-tech/elle-a-ete-detruite-en-9-secondes-par-une-ia-CNT000002p7oTr.html",
-      "publishedAt": "2026-05-10T09:40:45.000Z",
-      "date": "2026-05-10T09:40:45.000Z",
-      "description": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et... OpenAI révèle le problème de ChatGPT avec les gobelins! #shorts. Tous...",
-      "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et... OpenAI révèle le problème de ChatGPT avec les gobelins! #shorts. Tous...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "PARIS: SEO & IA - La \"Generative Engine Optimization\" (GEO) bouscule les stratégies numériques",
-      "link": "https://presseagence.fr/paris-seo-ia-la-generative-engine-optimization-geo-bouscule-les-strategies-numeriques/",
-      "url": "https://presseagence.fr/paris-seo-ia-la-generative-engine-optimization-geo-bouscule-les-strategies-numeriques/",
-      "publishedAt": "2026-05-10T08:32:03.000Z",
-      "date": "2026-05-10T08:32:03.000Z",
-      "description": "Cette nouvelle approche se concentre sur l'optimisation des contenus pour les moteurs de réponse basés sur l'IA, comme ChatGPT, Gemini ou Perplexity.",
-      "excerpt": "Cette nouvelle approche se concentre sur l'optimisation des contenus pour les moteurs de réponse basés sur l'IA, comme ChatGPT, Gemini ou Perplexity.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
