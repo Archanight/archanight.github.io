@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T08:33:42.468Z",
+  "generatedAt": "2026-05-13T14:07:33.487Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI lance la plateforme de cybersécurité Daybreak pour concurrencer Anthropic, en...",
+      "link": "https://intelligence-artificielle.developpez.com/actu/383151/OpenAI-lance-la-plateforme-de-cybersecurite-Daybreak-pour-concurrencer-Anthropic-en-utilisant-ses-modeles-GPT-5-5-et-l-agent-Codex-Security-pour-detecter-et-corriger-les-failles-logicielles-avant-les-attaques/",
+      "url": "https://intelligence-artificielle.developpez.com/actu/383151/OpenAI-lance-la-plateforme-de-cybersecurite-Daybreak-pour-concurrencer-Anthropic-en-utilisant-ses-modeles-GPT-5-5-et-l-agent-Codex-Security-pour-detecter-et-corriger-les-failles-logicielles-avant-les-attaques/",
+      "publishedAt": "2026-05-13T10:11:34.000Z",
+      "date": "2026-05-13T10:11:34.000Z",
+      "description": "Cette offensive d'OpenAI intervient dans un contexte de concurrence accrue autour de l'IA appliquée à la cybersécurité.... OpenAI déploie ChatGPT 5.5...",
+      "excerpt": "Cette offensive d'OpenAI intervient dans un contexte de concurrence accrue autour de l'IA appliquée à la cybersécurité.... OpenAI déploie ChatGPT 5.5...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Où vont vos données quand vous utilisez ChatGPT ou Gemini? - Clubic",
+      "link": "https://www.clubic.com/actualite-605305-ou-vont-vos-donnees-quand-vous-utilisez-chatgpt-ou-gemini.html",
+      "url": "https://www.clubic.com/actualite-605305-ou-vont-vos-donnees-quand-vous-utilisez-chatgpt-ou-gemini.html",
+      "publishedAt": "2026-05-13T10:01:52.000Z",
+      "date": "2026-05-13T10:01:52.000Z",
+      "description": "... ChatGPT ou encore Gemini pour brainstormer, faire des recherches... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
+      "excerpt": "... ChatGPT ou encore Gemini pour brainstormer, faire des recherches... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "iOS 27 ou la revanche de Siri: Apple va-t-elle proposer un vrai chatbot? - Mac4Ever",
+      "link": "https://www.mac4ever.com/iphone/196148-ios-27-ou-la-revanche-de-siri-apple-va-t-elle-proposer-un-vrai-chatbot",
+      "url": "https://www.mac4ever.com/iphone/196148-ios-27-ou-la-revanche-de-siri-apple-va-t-elle-proposer-un-vrai-chatbot",
+      "publishedAt": "2026-05-13T09:22:34.000Z",
+      "date": "2026-05-13T09:22:34.000Z",
+      "description": "... ChatGPT, Gemini ou Claude. iOS 27 Siri. Un nouveau geste. Lorsque l'utilisateur activera Siri sur l'iPhone, une animation en forme de pilule...",
+      "excerpt": "... ChatGPT, Gemini ou Claude. iOS 27 Siri. Un nouveau geste. Lorsque l'utilisateur activera Siri sur l'iPhone, une animation en forme de pilule...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Les parents poursuivent OpenAI après que les conseils de ChatGPT auraient conduit à l...",
+      "link": "https://fr.dataconomy.com/2026/05/13/les-parents-poursuivent-openai-apres-que-les-conseils-de-chatgpt-auraient-conduit-a-loverdose-de-leur-fils/",
+      "url": "https://fr.dataconomy.com/2026/05/13/les-parents-poursuivent-openai-apres-que-les-conseils-de-chatgpt-auraient-conduit-a-loverdose-de-leur-fils/",
+      "publishedAt": "2026-05-13T09:01:51.000Z",
+      "date": "2026-05-13T09:01:51.000Z",
+      "description": "Les parents poursuivent OpenAI après que les conseils de ChatGPT auraient conduit à l'overdose de leur fils... cybersécurité de l'IA. Recent Comments.",
+      "excerpt": "Les parents poursuivent OpenAI après que les conseils de ChatGPT auraient conduit à l'overdose de leur fils... cybersécurité de l'IA. Recent Comments.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Apple rattrapé par ses promesses autour de l'IA sur iPhone - Solutions-Numeriques",
+      "link": "https://www.solutions-numeriques.com/apple-rattrape-par-ses-promesses-autour-de-lia-sur-iphone/",
+      "url": "https://www.solutions-numeriques.com/apple-rattrape-par-ses-promesses-autour-de-lia-sur-iphone/",
+      "publishedAt": "2026-05-13T08:50:26.000Z",
+      "date": "2026-05-13T08:50:26.000Z",
+      "description": "Apple a confirmé un partenariat avec OpenAI pour intégrer ChatGPT dans Siri.... Guide Cybersécurité. Découvrez la version numérique · Achetez le...",
+      "excerpt": "Apple a confirmé un partenariat avec OpenAI pour intégrer ChatGPT dans Siri.... Guide Cybersécurité. Découvrez la version numérique · Achetez le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "\"J'ai postulé pour être pape\": utiliser ChatGPT et perdre contact avec la réalité - Orange Actu",
       "link": "https://actu.orange.fr/societe/sante/quot-j-ai-postule-pour-etre-pape-quot-utiliser-chatgpt-et-perdre-contact-avec-la-realite-CNT000002pkwlT.html",
@@ -40,6 +90,26 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Cyberhebdo: l'IA générative avance, nous aussi - LeMagIT",
+      "link": "https://www.lemagit.fr/actualites/366643014/Cyberhebdo-lIA-generative-avance-nous-aussi",
+      "url": "https://www.lemagit.fr/actualites/366643014/Cyberhebdo-lIA-generative-avance-nous-aussi",
+      "publishedAt": "2026-05-13T03:55:27.000Z",
+      "date": "2026-05-13T03:55:27.000Z",
+      "description": "Pour approfondir sur IA appliquée à la cybersécurité · Qu'est-ce qu'un moteur de recommandation? · ChatGPT · IA générative: le New York Times attaque...",
+      "excerpt": "Pour approfondir sur IA appliquée à la cybersécurité · Qu'est-ce qu'un moteur de recommandation? · ChatGPT · IA générative: le New York Times attaque...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI Daybreak: l'IA cyber passe à l'usine à patchs - InformatiqueNews.fr",
+      "link": "https://www.informatiquenews.fr/gpt-5-5-cyber-openai-met-son-puissant-et-risque-modele-de-cyberdefense-sous-bracelet-electronique-111388",
+      "url": "https://www.informatiquenews.fr/gpt-5-5-cyber-openai-met-son-puissant-et-risque-modele-de-cyberdefense-sous-bracelet-electronique-111388",
+      "publishedAt": "2026-05-13T03:09:32.000Z",
+      "date": "2026-05-13T03:09:32.000Z",
+      "description": "Dans un SOC ou une équipe AppSec, c'est beaucoup plus utile. Pendant ce temps, ChatGPT devient plus rapide… et plus personnel. En parallèle de cette...",
+      "excerpt": "Dans un SOC ou une équipe AppSec, c'est beaucoup plus utile. Pendant ce temps, ChatGPT devient plus rapide… et plus personnel. En parallèle de cette...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Le Tech Flash: Google lance Gemini Intelligence, par Léa Benaim - 12/05 - Orange Actu",
       "link": "https://actu.orange.fr/videos/economie/le-tech-flash-google-lance-gemini-intelligence-par-lea-benaim-12-05-CNT000002pjUZH.html",
       "url": "https://actu.orange.fr/videos/economie/le-tech-flash-google-lance-gemini-intelligence-par-lea-benaim-12-05-CNT000002pjUZH.html",
@@ -57,76 +127,6 @@
       "date": "2026-05-12T17:57:04.000Z",
       "description": "... ChatGPT. IMAGES.... Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contactOrange NewsBoutiques OrangeOrange Pro. Retour. Téléphones...",
       "excerpt": "... ChatGPT. IMAGES.... Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contactOrange NewsBoutiques OrangeOrange Pro. Retour. Téléphones...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI visé par une plainte liée à la responsabilité de ChatGPT dans une overdose",
-      "link": "https://ch.zonebourse.com/actualite-bourse/openai-vise-par-une-plainte-liee-a-la-responsabilite-de-chatgpt-dans-une-overdose-ce7f5bded089f02c",
-      "url": "https://ch.zonebourse.com/actualite-bourse/openai-vise-par-une-plainte-liee-a-la-responsabilite-de-chatgpt-dans-une-overdose-ce7f5bded089f02c",
-      "publishedAt": "2026-05-12T17:46:08.000Z",
-      "date": "2026-05-12T17:46:08.000Z",
-      "description": "OpenAI, soutenu par Microsoft, est poursuivi en justice par la famille d'un étudiant affirmant que ChatGPT a causé l'overdose de leur fils.",
-      "excerpt": "OpenAI, soutenu par Microsoft, est poursuivi en justice par la famille d'un étudiant affirmant que ChatGPT a causé l'overdose de leur fils.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pourquoi la nouvelle IA de Mira Murati rend ChatGPT obsolète avec 0,4 seconde de latence",
-      "link": "https://www.lejourguinee.com/pourquoi-la-nouvelle-ia-de-mira-murati-rend-chatgpt-obsolete-avec-04-seconde-de-latence/",
-      "url": "https://www.lejourguinee.com/pourquoi-la-nouvelle-ia-de-mira-murati-rend-chatgpt-obsolete-avec-04-seconde-de-latence/",
-      "publishedAt": "2026-05-12T16:10:48.000Z",
-      "date": "2026-05-12T16:10:48.000Z",
-      "description": "ChatGPT Advanced Voice Mode, Claude Voice, Gemini Live, Siri, Alexa... OpenAI lance Daybreak, son offensive cybersécurité: trouver et...",
-      "excerpt": "ChatGPT Advanced Voice Mode, Claude Voice, Gemini Live, Siri, Alexa... OpenAI lance Daybreak, son offensive cybersécurité: trouver et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: ce prompt révèle comment votre vie sera dans 5 ans - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/chatgpt-ce-prompt-revele-comment-votre-vie-sera-dans-5-ans",
-      "url": "https://www.lebigdata.fr/chatgpt-ce-prompt-revele-comment-votre-vie-sera-dans-5-ans",
-      "publishedAt": "2026-05-12T15:00:35.000Z",
-      "date": "2026-05-12T15:00:35.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT: ce prompt révèle comment votre vie sera dans 5 ans. Tinah F...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT: ce prompt révèle comment votre vie sera dans 5 ans. Tinah F...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Daybreak et GPT-5.5-Cyber: L'arme de destruction massive des vulnérabilités logicielles?",
-      "link": "https://www.itforbusiness.fr/daybreak-et-gpt-5-5-cyber-larme-de-destruction-massive-des-vulnerabilites-logicielles-103637",
-      "url": "https://www.itforbusiness.fr/daybreak-et-gpt-5-5-cyber-larme-de-destruction-massive-des-vulnerabilites-logicielles-103637",
-      "publishedAt": "2026-05-12T14:49:45.000Z",
-      "date": "2026-05-12T14:49:45.000Z",
-      "description": "L'éditeur de ChatGPT propose aux entreprises un programme de... cybersécurité; nous aimerions commencer à travailler avec autant d...",
-      "excerpt": "L'éditeur de ChatGPT propose aux entreprises un programme de... cybersécurité; nous aimerions commencer à travailler avec autant d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI Daybreak: l'IA de GPT-5.5 veut révolutionner la cybersécurité défensive - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/368520/openai-daybreak-cybersecurite-ia-gpt-5/",
-      "url": "https://www.blog-nouvelles-technologies.fr/368520/openai-daybreak-cybersecurite-ia-gpt-5/",
-      "publishedAt": "2026-05-12T13:52:20.000Z",
-      "date": "2026-05-12T13:52:20.000Z",
-      "description": "ChatGPT peut révéler votre personnalité: une étude...",
-      "excerpt": "ChatGPT peut révéler votre personnalité: une étude...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Google veut intégrer Gemini à CarPlay via Google Maps - Mac4Ever",
-      "link": "https://www.mac4ever.com/mobilite/196123-google-veut-integrer-gemini-a-carplay-via-google-maps",
-      "url": "https://www.mac4ever.com/mobilite/196123-google-veut-integrer-gemini-a-carplay-via-google-maps",
-      "publishedAt": "2026-05-12T12:19:33.000Z",
-      "date": "2026-05-12T12:19:33.000Z",
-      "description": "Après ChatGPT, Grok et Perplexity, un nouvel assistant IA pourrait bientôt débarquer dans CarPlay: Gemini. Plusieurs lignes de code découvertes...",
-      "excerpt": "Après ChatGPT, Grok et Perplexity, un nouvel assistant IA pourrait bientôt débarquer dans CarPlay: Gemini. Plusieurs lignes de code découvertes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Ces IA trouvent les brèches de vos apps du quotidien: après Claude Mythos, voici...",
-      "link": "https://www.presse-citron.net/ces-ia-trouvent-les-breches-de-vos-apps-du-quotidien-apres-claude-mythos-voici-daybreak-dopenai/",
-      "url": "https://www.presse-citron.net/ces-ia-trouvent-les-breches-de-vos-apps-du-quotidien-apres-claude-mythos-voici-daybreak-dopenai/",
-      "publishedAt": "2026-05-12T11:11:59.000Z",
-      "date": "2026-05-12T11:11:59.000Z",
-      "description": "... cybersécurité, et qui peut trouver les failles de sécurité des... ChatGPT Claude cybersécurité OpenAI [ Source ]. AdChoices Ad Choices Icon...",
-      "excerpt": "... cybersécurité, et qui peut trouver les failles de sécurité des... ChatGPT Claude cybersécurité OpenAI [ Source ]. AdChoices Ad Choices Icon...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
