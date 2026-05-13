@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T02:12:08.738Z",
+  "generatedAt": "2026-05-13T08:33:42.468Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "\"J'ai postulé pour être pape\": utiliser ChatGPT et perdre contact avec la réalité - Orange Actu",
+      "link": "https://actu.orange.fr/societe/sante/quot-j-ai-postule-pour-etre-pape-quot-utiliser-chatgpt-et-perdre-contact-avec-la-realite-CNT000002pkwlT.html",
+      "url": "https://actu.orange.fr/societe/sante/quot-j-ai-postule-pour-etre-pape-quot-utiliser-chatgpt-et-perdre-contact-avec-la-realite-CNT000002pkwlT.html",
+      "publishedAt": "2026-05-13T06:08:07.000Z",
+      "date": "2026-05-13T06:08:07.000Z",
+      "description": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact... \"J'ai postulé pour être pape\": utiliser ChatGPT et perdre contact avec la...",
+      "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact... \"J'ai postulé pour être pape\": utiliser ChatGPT et perdre contact avec la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA & Cybersécurité: les 11 actus clés du 13 mai 2026",
+      "link": "https://dcod.ch/2026/05/13/ia-cybersecurite-les-11-actus-cles-du-13-mai-2026/",
+      "url": "https://dcod.ch/2026/05/13/ia-cybersecurite-les-11-actus-cles-du-13-mai-2026/",
+      "publishedAt": "2026-05-13T06:02:53.000Z",
+      "date": "2026-05-13T06:02:53.000Z",
+      "description": "OpenAI déploie une fonction Advanced Account Security destinée aux comptes ChatGPT et Codex considérés comme particulièrement exposés aux tentatives...",
+      "excerpt": "OpenAI déploie une fonction Advanced Account Security destinée aux comptes ChatGPT et Codex considérés comme particulièrement exposés aux tentatives...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Il avait contourné les garde-fous de ChatGPT: Denis Shilov lève 9,35 millions d'euros pour...",
+      "link": "https://www.frenchweb.fr/il-avait-contourne-les-garde-fous-de-chatgpt-denis-shilov-leve-935-millions-deuros/461740",
+      "url": "https://www.frenchweb.fr/il-avait-contourne-les-garde-fous-de-chatgpt-denis-shilov-leve-935-millions-deuros/461740",
+      "publishedAt": "2026-05-13T05:52:15.000Z",
+      "date": "2026-05-13T05:52:15.000Z",
+      "description": "Il avait contourné les garde-fous de ChatGPT: Denis Shilov lève 9,35 millions d'euros pour WHITE CIRCLE... cybersécurité, des ressources humaines ou...",
+      "excerpt": "Il avait contourné les garde-fous de ChatGPT: Denis Shilov lève 9,35 millions d'euros pour WHITE CIRCLE... cybersécurité, des ressources humaines ou...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le Tech Flash: Google lance Gemini Intelligence, par Léa Benaim - 12/05 - Orange Actu",
       "link": "https://actu.orange.fr/videos/economie/le-tech-flash-google-lance-gemini-intelligence-par-lea-benaim-12-05-CNT000002pjUZH.html",
@@ -97,36 +127,6 @@
       "date": "2026-05-12T11:11:59.000Z",
       "description": "... cybersécurité, et qui peut trouver les failles de sécurité des... ChatGPT Claude cybersécurité OpenAI [ Source ]. AdChoices Ad Choices Icon...",
       "excerpt": "... cybersécurité, et qui peut trouver les failles de sécurité des... ChatGPT Claude cybersécurité OpenAI [ Source ]. AdChoices Ad Choices Icon...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pour contrer Claude Mythos, OpenAI lance son IA de cyberdéfense - Numerama",
-      "link": "https://www.numerama.com/tech/2251321-pour-contrer-claude-mythos-openai-lance-son-ia-de-cyberdefense.html",
-      "url": "https://www.numerama.com/tech/2251321-pour-contrer-claude-mythos-openai-lance-son-ia-de-cyberdefense.html",
-      "publishedAt": "2026-05-12T10:40:23.000Z",
-      "date": "2026-05-12T10:40:23.000Z",
-      "description": "... cybersécurité avec Claude Mythos, son rival OpenAI vient de riposter. L'entreprise derrière ChatGPT a révélé, le 11 mai 2026, « Daybreak », son IA...",
-      "excerpt": "... cybersécurité avec Claude Mythos, son rival OpenAI vient de riposter. L'entreprise derrière ChatGPT a révélé, le 11 mai 2026, « Daybreak », son IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance Daybreak, l'IA qui détecte et corrige les failles de sécurité en quelques minutes",
-      "link": "https://www.01net.com/actualites/openai-lance-daybreak-lia-qui-detecte-et-corrige-les-failles-de-securite-en-quelques-minutes.html",
-      "url": "https://www.01net.com/actualites/openai-lance-daybreak-lia-qui-detecte-et-corrige-les-failles-de-securite-en-quelques-minutes.html",
-      "publishedAt": "2026-05-12T10:37:35.000Z",
-      "date": "2026-05-12T10:37:35.000Z",
-      "description": "La cybersécurité est devenue l'un des principaux champs de bataille de l'intelligence artificielle. Après Anthropic et son projet Glasswing...",
-      "excerpt": "La cybersécurité est devenue l'un des principaux champs de bataille de l'intelligence artificielle. Après Anthropic et son projet Glasswing...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google a découvert que des cybercriminels ont utilisé l'IA pour exploiter une faille inconnue... - BFM",
-      "link": "https://www.bfmtv.com/tech/actualites/cybersecurite/google-a-decouvert-que-des-cybercriminels-ont-utilise-l-ia-pour-exploiter-une-faille-inconnue-une-premiere-historique-ses-experts-en-cybersecurite-ont-pu-dejouer-l-attaque-a-temps_AV-202605120409.html",
-      "url": "https://www.bfmtv.com/tech/actualites/cybersecurite/google-a-decouvert-que-des-cybercriminels-ont-utilise-l-ia-pour-exploiter-une-faille-inconnue-une-premiere-historique-ses-experts-en-cybersecurite-ont-pu-dejouer-l-attaque-a-temps_AV-202605120409.html",
-      "publishedAt": "2026-05-12T10:06:52.000Z",
-      "date": "2026-05-12T10:06:52.000Z",
-      "description": "France et cybersécurité · Départ de Tim Cook · Actualités Tech · IA... administration système populaire. Depuis le lancement de ChatGPT, les...",
-      "excerpt": "France et cybersécurité · Départ de Tim Cook · Actualités Tech · IA... administration système populaire. Depuis le lancement de ChatGPT, les...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
