@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T02:14:12.822Z",
+  "generatedAt": "2026-05-14T08:27:57.813Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,26 @@
   "failedSources": [],
   "items": [
     {
+      "title": "“Ce n'est que la partie émergée de l'iceberg”, Google alerte sur des hackers aidés par l'IA...",
+      "link": "https://global.techradar.com/fr-fr/pro/security/ce-nest-que-la-partie-emergee-de-liceberg-google-alerte-sur-des-hackers-aides-par-lia-pour-trouver-des-zero-day",
+      "url": "https://global.techradar.com/fr-fr/pro/security/ce-nest-que-la-partie-emergee-de-liceberg-google-alerte-sur-des-hackers-aides-par-lia-pour-trouver-des-zero-day",
+      "publishedAt": "2026-05-14T07:21:08.000Z",
+      "date": "2026-05-14T07:21:08.000Z",
+      "description": "Cette faille zero-day devait probablement servir dans une attaque d'exploitation massive contre un outil d' administration système open source...",
+      "excerpt": "Cette faille zero-day devait probablement servir dans une attaque d'exploitation massive contre un outil d' administration système open source...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "PARIS: Martin PAVANELLO: « Claude contre ChatGPT: le match se joue en entreprise",
+      "link": "https://presseagence.fr/paris-martin-pavanello-claude-contre-chatgpt-le-match-se-joue-en-entreprise/",
+      "url": "https://presseagence.fr/paris-martin-pavanello-claude-contre-chatgpt-le-match-se-joue-en-entreprise/",
+      "publishedAt": "2026-05-14T06:05:56.000Z",
+      "date": "2026-05-14T06:05:56.000Z",
+      "description": "En excellant dans ce domaine, Claude répond au besoin fondamental de la grande majorité des entreprises, de la finance à la cybersécurité. Sur les...",
+      "excerpt": "En excellant dans ce domaine, Claude répond au besoin fondamental de la grande majorité des entreprises, de la finance à la cybersécurité. Sur les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "le SoC 2nm du téléphone IA alimenté par ChatGPT bat l'A20 Pro de l'iPhone 18 Pro et le...",
       "link": "https://www.notebookcheck.biz/le-SoC-2nm-du-telephone-IA-alimente-par-ChatGPT-bat-l-A20-Pro-de-l-iPhone-18-Pro-et-le-Snapdragon-8-Elite-Gen-6-du-Galaxy-S27-Ultra-en-termes-de-GPU.1296321.0.html",
       "url": "https://www.notebookcheck.biz/le-SoC-2nm-du-telephone-IA-alimente-par-ChatGPT-bat-l-A20-Pro-de-l-iPhone-18-Pro-et-le-Snapdragon-8-Elite-Gen-6-du-Galaxy-S27-Ultra-en-termes-de-GPU.1296321.0.html",
@@ -17,7 +37,27 @@
       "date": "2026-05-14T01:04:56.000Z",
       "description": "le SoC 2nm du téléphone IA alimenté par ChatGPT bat l'A20 Pro de l'iPhone 18 Pro et le Snapdragon 8 Elite Gen 6 du Galaxy S27 Ultra en termes de GPU.",
       "excerpt": "le SoC 2nm du téléphone IA alimenté par ChatGPT bat l'A20 Pro de l'iPhone 18 Pro et le Snapdragon 8 Elite Gen 6 du Galaxy S27 Ultra en termes de GPU.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Google prépare enfin sa vraie machine Gemini, avec un Googlebook qui pourrait inaugurer...",
+      "link": "https://global.techradar.com/fr-fr/computing/laptops/google-prepare-enfin-sa-vraie-machine-gemini-avec-un-googlebook-qui-pourrait-inaugurer-le-tout-premier-os-pense-pour-lia",
+      "url": "https://global.techradar.com/fr-fr/computing/laptops/google-prepare-enfin-sa-vraie-machine-gemini-avec-un-googlebook-qui-pourrait-inaugurer-le-tout-premier-os-pense-pour-lia",
+      "publishedAt": "2026-05-14T00:49:47.000Z",
+      "date": "2026-05-14T00:49:47.000Z",
+      "description": "ChatGPT · Appareils photo 2026 · Meilleurs VPN · Informatique · Ordinateurs... Googlebook announcement (Crédit photo: Google). Partager. Copier le...",
+      "excerpt": "ChatGPT · Appareils photo 2026 · Meilleurs VPN · Informatique · Ordinateurs... Googlebook announcement (Crédit photo: Google). Partager. Copier le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Google vient d'enterrer Apple Intelligence et ChatGPT avec GEMINI INTELLIGENCE et c'est violent",
+      "link": "https://www.youtube.com/watch?v=UXi2JZzODcw",
+      "url": "https://www.youtube.com/watch?v=UXi2JZzODcw",
+      "publishedAt": "2026-05-13T23:34:34.000Z",
+      "date": "2026-05-13T23:34:34.000Z",
+      "description": "Google vient d'enterrer Apple Intelligence et ChatGPT avec GEMINI INTELLIGENCE et c'est violent... Samsung has just launched a WORRYING update – All...",
+      "excerpt": "Google vient d'enterrer Apple Intelligence et ChatGPT avec GEMINI INTELLIGENCE et c'est violent... Samsung has just launched a WORRYING update – All...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "iOS 27 offre enfin une app Appareil photo digne des pros et refond Siri de fond en comble",
@@ -27,6 +67,26 @@
       "date": "2026-05-13T22:24:21.000Z",
       "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit... Elle permettrait de basculer entre Siri et des moteurs tiers comme ChatGPT ou Gemini.",
       "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit... Elle permettrait de basculer entre Siri et des moteurs tiers comme ChatGPT ou Gemini.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Étude: 7 milliards de logs analysés: ce que fait vraiment le bot d'OpenAI sur votre site",
+      "link": "https://www.leptidigital.fr/webmarketing/seo/etude-analyse-logs-bot-openai-89921/",
+      "url": "https://www.leptidigital.fr/webmarketing/seo/etude-analyse-logs-bot-openai-89921/",
+      "publishedAt": "2026-05-13T21:31:46.000Z",
+      "date": "2026-05-13T21:31:46.000Z",
+      "description": "ChatGPT -User, Navigation déclenchée après une requête utilisateur... Le chiffre qui intrigue le plus: OpenAI a triplé son crawl depuis GPT-5.",
+      "excerpt": "ChatGPT -User, Navigation déclenchée après une requête utilisateur... Le chiffre qui intrigue le plus: OpenAI a triplé son crawl depuis GPT-5.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Il pensait avoir percé les secrets du Big Bang, être le nouvel Einstein, a postulé pour être...",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/il-pensait-avoir-perce-les-secrets-du-big-bang-etre-le-nouvel-einstein-a-postule-pour-etre-pape-et-sa-femme-l-a-quitte-parlant-jusqu-a-16-heures-par-jour-avec-chat-gpt-comment-ce-canadien-de-53-ans-a-perdu-contact-avec-la-realite_AD-202605130349.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/il-pensait-avoir-perce-les-secrets-du-big-bang-etre-le-nouvel-einstein-a-postule-pour-etre-pape-et-sa-femme-l-a-quitte-parlant-jusqu-a-16-heures-par-jour-avec-chat-gpt-comment-ce-canadien-de-53-ans-a-perdu-contact-avec-la-realite_AD-202605130349.html",
+      "publishedAt": "2026-05-13T19:02:42.000Z",
+      "date": "2026-05-13T19:02:42.000Z",
+      "description": "... ChatGPT, comment ce Canadien de 53 ans a perdu contact avec la réalité... L'entreprise met en avant les données internes qui montrent que GPT-5...",
+      "excerpt": "... ChatGPT, comment ce Canadien de 53 ans a perdu contact avec la réalité... L'entreprise met en avant les données internes qui montrent que GPT-5...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -68,66 +128,6 @@
       "description": "OpenAI ne veut manifestement paschat Le secteur de la cybersécurité... Cela pourrait vous intéresser. ChatGPT logo – Symbole officiel de l'IA chatbot d...",
       "excerpt": "OpenAI ne veut manifestement paschat Le secteur de la cybersécurité... Cela pourrait vous intéresser. ChatGPT logo – Symbole officiel de l'IA chatbot d...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "« Est-ce que j'irai bien? »: un adolescent décède après que ChatGPT lui a conseillé un...",
-      "link": "https://droit.developpez.com/actu/383180/-Est-ce-que-j-irai-bien-un-adolescent-decede-apres-que-ChatGPT-lui-a-conseille-un-melange-mortel-de-drogues-La-flagornerie-a-pousse-l-IA-a-ignorer-les-signes-de-detresse-physique-de-la-victime/",
-      "url": "https://droit.developpez.com/actu/383180/-Est-ce-que-j-irai-bien-un-adolescent-decede-apres-que-ChatGPT-lui-a-conseille-un-melange-mortel-de-drogues-La-flagornerie-a-pousse-l-IA-a-ignorer-les-signes-de-detresse-physique-de-la-victime/",
-      "publishedAt": "2026-05-13T16:37:03.000Z",
-      "date": "2026-05-13T16:37:03.000Z",
-      "description": "ChatGPT est un agent conversationnel développé par OpenAI. Pour générer du texte, il utilise le modèle GPT-5. ChatGPT est capable de répondre à...",
-      "excerpt": "ChatGPT est un agent conversationnel développé par OpenAI. Pour générer du texte, il utilise le modèle GPT-5. ChatGPT est capable de répondre à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Le GEO en 2026: comment votre marque peut apparaître dans les réponses de Claude...",
-      "link": "https://larevuetech.fr/geo-2026-comment-votre-marque-peut-apparaitre-dans-les-reponses-de-claude-chatgpt-perplexity-et-les-autres/",
-      "url": "https://larevuetech.fr/geo-2026-comment-votre-marque-peut-apparaitre-dans-les-reponses-de-claude-chatgpt-perplexity-et-les-autres/",
-      "publishedAt": "2026-05-13T15:58:44.000Z",
-      "date": "2026-05-13T15:58:44.000Z",
-      "description": "Le Generative Engine Optimization permet aux marques d'être citées directement par ChatGPT, Perplexity ou Google AI Overviews dans leurs réponses...",
-      "excerpt": "Le Generative Engine Optimization permet aux marques d'être citées directement par ChatGPT, Perplexity ou Google AI Overviews dans leurs réponses...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "\"Si ChatGPT avait été une personne, il serait derrière les barreaux aujourd'hui\": la famille d...",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/si-chat-gpt-avait-ete-une-personne-il-serait-derriere-les-barreaux-aujourd-hui-la-famille-d-un-etudiant-mort-d-une-overdose-poursuit-open-ai-pour-negligence-et-defaut-de-securite-de-son-chatbot_AV-202605130546.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/si-chat-gpt-avait-ete-une-personne-il-serait-derriere-les-barreaux-aujourd-hui-la-famille-d-un-etudiant-mort-d-une-overdose-poursuit-open-ai-pour-negligence-et-defaut-de-securite-de-son-chatbot_AV-202605130546.html",
-      "publishedAt": "2026-05-13T15:28:01.000Z",
-      "date": "2026-05-13T15:28:01.000Z",
-      "description": "France et cybersécurité · Départ de Tim Cook · Actualités Tech · IA · Réseaux... Elle accuse l'entreprise d'avoir contribué à son décès en fournissant,...",
-      "excerpt": "France et cybersécurité · Départ de Tim Cook · Actualités Tech · IA · Réseaux... Elle accuse l'entreprise d'avoir contribué à son décès en fournissant,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les Meilleurs Brawleur Selon ChatGPT! #brawlstars #supercell #brawl #brawlstarsgame #gaming",
-      "link": "https://www.youtube.com/watch?v=HuxXn6FETGA",
-      "url": "https://www.youtube.com/watch?v=HuxXn6FETGA",
-      "publishedAt": "2026-05-13T15:27:42.000Z",
-      "date": "2026-05-13T15:27:42.000Z",
-      "description": "Les Meilleurs Brawleur Selon ChatGPT! #brawlstars #supercell... 88 FREE REWARDS FROM SUPERCELL ⁉️ BRAWL STARS NEW UPDATE. BOX BS. New.",
-      "excerpt": "Les Meilleurs Brawleur Selon ChatGPT! #brawlstars #supercell... 88 FREE REWARDS FROM SUPERCELL ⁉️ BRAWL STARS NEW UPDATE. BOX BS. New.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI dans la m****: un nouveau procès pour \"mort injustifiée\" vise ChatGPT - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/openai-dans-la-m-un-nouveau-proces-pour-mort-injustifiee-vise-chatgpt",
-      "url": "https://www.lebigdata.fr/openai-dans-la-m-un-nouveau-proces-pour-mort-injustifiee-vise-chatgpt",
-      "publishedAt": "2026-05-13T15:13:01.000Z",
-      "date": "2026-05-13T15:13:01.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... OpenAI dans la m****: un nouveau procès pour « mort injustifiée » vise ChatGPT.",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... OpenAI dans la m****: un nouveau procès pour « mort injustifiée » vise ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment les IA choisissent leurs sources: retour sur le concours GEO GreenRed",
-      "link": "https://www.abondance.com/20260513-2265179-comment-les-ia-choisissent-leurs-sources-retour-sur-le-concours-geo-greenred.html",
-      "url": "https://www.abondance.com/20260513-2265179-comment-les-ia-choisissent-leurs-sources-retour-sur-le-concours-geo-greenred.html",
-      "publishedAt": "2026-05-13T15:07:48.000Z",
-      "date": "2026-05-13T15:07:48.000Z",
-      "description": "Google Update · SEO... Chaque jour, dix requêtes liées à ce terme étaient testées sur ChatGPT, Claude, Mistral, Perplexity et Gemini.",
-      "excerpt": "Google Update · SEO... Chaque jour, dix requêtes liées à ce terme étaient testées sur ChatGPT, Claude, Mistral, Perplexity et Gemini.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
