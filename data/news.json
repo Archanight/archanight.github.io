@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T19:40:39.714Z",
+  "generatedAt": "2026-05-14T02:14:12.822Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "le SoC 2nm du téléphone IA alimenté par ChatGPT bat l'A20 Pro de l'iPhone 18 Pro et le...",
+      "link": "https://www.notebookcheck.biz/le-SoC-2nm-du-telephone-IA-alimente-par-ChatGPT-bat-l-A20-Pro-de-l-iPhone-18-Pro-et-le-Snapdragon-8-Elite-Gen-6-du-Galaxy-S27-Ultra-en-termes-de-GPU.1296321.0.html",
+      "url": "https://www.notebookcheck.biz/le-SoC-2nm-du-telephone-IA-alimente-par-ChatGPT-bat-l-A20-Pro-de-l-iPhone-18-Pro-et-le-Snapdragon-8-Elite-Gen-6-du-Galaxy-S27-Ultra-en-termes-de-GPU.1296321.0.html",
+      "publishedAt": "2026-05-14T01:04:56.000Z",
+      "date": "2026-05-14T01:04:56.000Z",
+      "description": "le SoC 2nm du téléphone IA alimenté par ChatGPT bat l'A20 Pro de l'iPhone 18 Pro et le Snapdragon 8 Elite Gen 6 du Galaxy S27 Ultra en termes de GPU.",
+      "excerpt": "le SoC 2nm du téléphone IA alimenté par ChatGPT bat l'A20 Pro de l'iPhone 18 Pro et le Snapdragon 8 Elite Gen 6 du Galaxy S27 Ultra en termes de GPU.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "iOS 27 offre enfin une app Appareil photo digne des pros et refond Siri de fond en comble",
+      "link": "https://www.clubic.com/actualite-612808-ios-27-offre-enfin-une-app-appareil-photo-digne-des-pros-et-refond-siri-de-fond-en-comble.html",
+      "url": "https://www.clubic.com/actualite-612808-ios-27-offre-enfin-une-app-appareil-photo-digne-des-pros-et-refond-siri-de-fond-en-comble.html",
+      "publishedAt": "2026-05-13T22:24:21.000Z",
+      "date": "2026-05-13T22:24:21.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit... Elle permettrait de basculer entre Siri et des moteurs tiers comme ChatGPT ou Gemini.",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit... Elle permettrait de basculer entre Siri et des moteurs tiers comme ChatGPT ou Gemini.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "\"J'ai postulé pour être pape\": utiliser ChatGPT et perdre contact avec la réalité - LinuxFr.org",
       "link": "https://linuxfr.org/users/vmagnin/liens/j-ai-postule-pour-etre-pape-utiliser-chatgpt-et-perdre-contact-avec-la-realite",
@@ -108,26 +128,6 @@
       "description": "Google Update · SEO... Chaque jour, dix requêtes liées à ce terme étaient testées sur ChatGPT, Claude, Mistral, Perplexity et Gemini.",
       "excerpt": "Google Update · SEO... Chaque jour, dix requêtes liées à ce terme étaient testées sur ChatGPT, Claude, Mistral, Perplexity et Gemini.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "« Si ChatGPT était humain, il serait en prison »: la famille d'un étudiant mort d'overdose...",
-      "link": "https://actu.orange.fr/france/si-chatgpt-etait-humain-il-serait-en-prison-la-famille-d-un-etudiant-mort-d-overdose-porte-plainte-contre-open-ai-magic-CNT000002plgl9.html",
-      "url": "https://actu.orange.fr/france/si-chatgpt-etait-humain-il-serait-en-prison-la-famille-d-un-etudiant-mort-d-overdose-porte-plainte-contre-open-ai-magic-CNT000002plgl9.html",
-      "publishedAt": "2026-05-13T13:50:05.000Z",
-      "date": "2026-05-13T13:50:05.000Z",
-      "description": "La famille d'un étudiant mort d'une overdose porte plainte contre ChatGPT. L'entreprise Open... Cybersécurité et Télésurveillance. Conseils et ateliers.",
-      "excerpt": "La famille d'un étudiant mort d'une overdose porte plainte contre ChatGPT. L'entreprise Open... Cybersécurité et Télésurveillance. Conseils et ateliers.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "un outil gratuit pour mesurer la visibilité de votre marque sur ChatGPT, Perplexity et Gemini",
-      "link": "https://www.leptidigital.fr/webmarketing/hubspot-aeo-grader-outil-gratuit-mesurer-visibilite-marque-chatgpt-perplexity-gemini-90014/",
-      "url": "https://www.leptidigital.fr/webmarketing/hubspot-aeo-grader-outil-gratuit-mesurer-visibilite-marque-chatgpt-perplexity-gemini-90014/",
-      "publishedAt": "2026-05-13T12:36:52.000Z",
-      "date": "2026-05-13T12:36:52.000Z",
-      "description": "Savez-vous comment ChatGPT, Perplexity ou Gemini parlent de votre marque quand un prospect leur pose une question sur votre secteur?",
-      "excerpt": "Savez-vous comment ChatGPT, Perplexity ou Gemini parlent de votre marque quand un prospect leur pose une question sur votre secteur?",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
