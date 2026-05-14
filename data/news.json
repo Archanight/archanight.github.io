@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T08:27:57.813Z",
+  "generatedAt": "2026-05-14T13:45:57.819Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Ouvrir Android aux IA concurrentes: ce que l'UE prépare - Geekinfos",
+      "link": "https://www.geekinfos.fr/2026/05/14/ouvrir-android-ia-concurrentes/",
+      "url": "https://www.geekinfos.fr/2026/05/14/ouvrir-android-ia-concurrentes/",
+      "publishedAt": "2026-05-14T08:13:22.000Z",
+      "date": "2026-05-14T08:13:22.000Z",
+      "description": "... chatgpt dmaeuropeGeminigoogleia mobileinteropérabilité. Article précédent GPT-5.5-Cyber: OpenAI limite son IA de cybersécurité. Vous aimerez aussi...",
+      "excerpt": "... chatgpt dmaeuropeGeminigoogleia mobileinteropérabilité. Article précédent GPT-5.5-Cyber: OpenAI limite son IA de cybersécurité. Vous aimerez aussi...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "“Ce n'est que la partie émergée de l'iceberg”, Google alerte sur des hackers aidés par l'IA...",
       "link": "https://global.techradar.com/fr-fr/pro/security/ce-nest-que-la-partie-emergee-de-liceberg-google-alerte-sur-des-hackers-aides-par-lia-pour-trouver-des-zero-day",
@@ -117,16 +127,6 @@
       "date": "2026-05-13T16:54:35.000Z",
       "description": "France et cybersécurité · Départ de Tim Cook... L'initiateur de ce règlement de comptes reproche aux dirigeants de la start-up derrière ChatGPT...",
       "excerpt": "France et cybersécurité · Départ de Tim Cook... L'initiateur de ce règlement de comptes reproche aux dirigeants de la start-up derrière ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI sort une nouvelle arme: Daybreak a, avec l'aide de GPT-5.5 Recherche de bogues...",
-      "link": "https://www.letemsvetemapplem.eu/fr/2026/05/13/openai-vytahuje-novou-zbran-daybreak-ma-s-pomoci-gpt-5-5-lovit-chyby-v-softwaru/",
-      "url": "https://www.letemsvetemapplem.eu/fr/2026/05/13/openai-vytahuje-novou-zbran-daybreak-ma-s-pomoci-gpt-5-5-lovit-chyby-v-softwaru/",
-      "publishedAt": "2026-05-13T16:41:29.000Z",
-      "date": "2026-05-13T16:41:29.000Z",
-      "description": "OpenAI ne veut manifestement paschat Le secteur de la cybersécurité... Cela pourrait vous intéresser. ChatGPT logo – Symbole officiel de l'IA chatbot d...",
-      "excerpt": "OpenAI ne veut manifestement paschat Le secteur de la cybersécurité... Cela pourrait vous intéresser. ChatGPT logo – Symbole officiel de l'IA chatbot d...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
