@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T19:27:47.896Z",
+  "generatedAt": "2026-05-15T02:12:22.142Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Mythos d'Anthropic aurait aidé à révéler de nouvelles failles de sécurité sur macOS",
+      "link": "https://www.appsystem.fr/255423/mythos-danthropic-aurait-aide-a-reveler-de-nouvelles-failles-de-securite-sur-macos/",
+      "url": "https://www.appsystem.fr/255423/mythos-danthropic-aurait-aide-a-reveler-de-nouvelles-failles-de-securite-sur-macos/",
+      "publishedAt": "2026-05-14T22:33:54.000Z",
+      "date": "2026-05-14T22:33:54.000Z",
+      "description": "... cybersécurité. Les détails techniques ne seraient... Siri et ChatGPT: OpenAI envisagerait une action en justice contre Apple · Léon Galarneau.",
+      "excerpt": "... cybersécurité. Les détails techniques ne seraient... Siri et ChatGPT: OpenAI envisagerait une action en justice contre Apple · Léon Galarneau.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "NASA HPSC: un processeur spatial 500 fois plus puissant pour des sondes plus autonomes",
+      "link": "https://kulturegeek.fr/news-352129/nasa-hpsc-processeur-spatial-500-plus-puissant-sondes-plus-autonomes",
+      "url": "https://kulturegeek.fr/news-352129/nasa-hpsc-processeur-spatial-500-plus-puissant-sondes-plus-autonomes",
+      "publishedAt": "2026-05-14T21:08:04.000Z",
+      "date": "2026-05-14T21:08:04.000Z",
+      "description": "Ce système sur puce ( SOC ) tient dans la paume d'une main et regroupe... image de l'article Déçu de ChatGPT dans Siri, OpenAI envisage d'attaquer...",
+      "excerpt": "Ce système sur puce ( SOC ) tient dans la paume d'une main et regroupe... image de l'article Déçu de ChatGPT dans Siri, OpenAI envisage d'attaquer...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI Кодех энди смартфонларда ҳам ишлайди - Zamin.uz",
+      "link": "https://zamin.uz/fr/technologie/201116-openai-codex-fonctionne-desormais-sur-les-smartphones.html",
+      "url": "https://zamin.uz/fr/technologie/201116-openai-codex-fonctionne-desormais-sur-les-smartphones.html",
+      "publishedAt": "2026-05-14T21:06:49.000Z",
+      "date": "2026-05-14T21:06:49.000Z",
+      "description": "Désormais intégré à l'application ChatGPT, cet outil permet aux... Selon un rapport de la société de cybersécurité. Les hackers nord-coréens...",
+      "excerpt": "Désormais intégré à l'application ChatGPT, cet outil permet aux... Selon un rapport de la société de cybersécurité. Les hackers nord-coréens...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Intel lance une première production de puces iPhone pour Apple, selon Ming-Chi Kuo",
+      "link": "https://www.appsystem.fr/255432/intel-lance-une-premiere-production-de-puces-iphone-pour-apple-selon-ming-chi-kuo/",
+      "url": "https://www.appsystem.fr/255432/intel-lance-une-premiere-production-de-puces-iphone-pour-apple-selon-ming-chi-kuo/",
+      "publishedAt": "2026-05-14T20:22:36.000Z",
+      "date": "2026-05-14T20:22:36.000Z",
+      "description": "... SoC les plus récents. Selon les éléments rapportés, TSMC resterait... Siri et ChatGPT: OpenAI envisagerait une action en justice contre Apple.",
+      "excerpt": "... SoC les plus récents. Selon les éléments rapportés, TSMC resterait... Siri et ChatGPT: OpenAI envisagerait une action en justice contre Apple.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT dans Siri: Altman trouve le deal injuste et voudrait attaquer Apple",
+      "link": "https://www.macg.co/intelligence-artificielle/2026/05/chatgpt-dans-siri-altman-trouve-le-deal-injuste-et-voudrait-attaquer-apple-308589",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/05/chatgpt-dans-siri-altman-trouve-le-deal-injuste-et-voudrait-attaquer-apple-308589",
+      "publishedAt": "2026-05-14T19:36:31.000Z",
+      "date": "2026-05-14T19:36:31.000Z",
+      "description": "ChatGPT dans Siri: Altman trouve le deal injuste et voudrait attaquer Apple... Comment l'IA est en train de forcer les verrous de la cybersécurité.",
+      "excerpt": "ChatGPT dans Siri: Altman trouve le deal injuste et voudrait attaquer Apple... Comment l'IA est en train de forcer les verrous de la cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI Apple компаниясини судга бермоқчи - Zamin.uz",
+      "link": "https://zamin.uz/fr/technologie/201108-openai-envisage-de-poursuivre-apple-en-justice.html",
+      "url": "https://zamin.uz/fr/technologie/201108-openai-envisage-de-poursuivre-apple-en-justice.html",
+      "publishedAt": "2026-05-14T19:35:13.000Z",
+      "date": "2026-05-14T19:35:13.000Z",
+      "description": "Dans le cadre du partenariat annoncé en juin 2024, ChatGPT a été... Selon un rapport de la société de cybersécurité. Les hackers nord-coréens...",
+      "excerpt": "Dans le cadre du partenariat annoncé en juin 2024, ChatGPT a été... Selon un rapport de la société de cybersécurité. Les hackers nord-coréens...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT, Claude, Gemini… cette application centralise vos assistants IA avec une offre à vie - Clubic",
       "link": "https://www.clubic.com/bons-plans-612823-gpt-claude-gemini-reunis-dans-une-seule-appli-l-offre-a-vie-stacksocial-qui-merite-vraiment-qu-on-s-y-arrete.html",
@@ -67,66 +127,6 @@
       "date": "2026-05-14T09:51:26.000Z",
       "description": "Parmi les données les plus surprenantes du rapport figure l'exploit ChatGPT.... OpenAI se...",
       "excerpt": "Parmi les données les plus surprenantes du rapport figure l'exploit ChatGPT.... OpenAI se...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ouvrir Android aux IA concurrentes: ce que l'UE prépare - Geekinfos",
-      "link": "https://www.geekinfos.fr/2026/05/14/ouvrir-android-ia-concurrentes/",
-      "url": "https://www.geekinfos.fr/2026/05/14/ouvrir-android-ia-concurrentes/",
-      "publishedAt": "2026-05-14T08:13:22.000Z",
-      "date": "2026-05-14T08:13:22.000Z",
-      "description": "... chatgpt dmaeuropeGeminigoogleia mobileinteropérabilité. Article précédent GPT-5.5-Cyber: OpenAI limite son IA de cybersécurité. Vous aimerez aussi...",
-      "excerpt": "... chatgpt dmaeuropeGeminigoogleia mobileinteropérabilité. Article précédent GPT-5.5-Cyber: OpenAI limite son IA de cybersécurité. Vous aimerez aussi...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "PARIS: Martin PAVANELLO: « Claude contre ChatGPT: le match se joue en entreprise",
-      "link": "https://presseagence.fr/paris-martin-pavanello-claude-contre-chatgpt-le-match-se-joue-en-entreprise/",
-      "url": "https://presseagence.fr/paris-martin-pavanello-claude-contre-chatgpt-le-match-se-joue-en-entreprise/",
-      "publishedAt": "2026-05-14T06:05:56.000Z",
-      "date": "2026-05-14T06:05:56.000Z",
-      "description": "En excellant dans ce domaine, Claude répond au besoin fondamental de la grande majorité des entreprises, de la finance à la cybersécurité. Sur les...",
-      "excerpt": "En excellant dans ce domaine, Claude répond au besoin fondamental de la grande majorité des entreprises, de la finance à la cybersécurité. Sur les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "le SoC 2nm du téléphone IA alimenté par ChatGPT bat l'A20 Pro de l'iPhone 18 Pro et le...",
-      "link": "https://www.notebookcheck.biz/le-SoC-2nm-du-telephone-IA-alimente-par-ChatGPT-bat-l-A20-Pro-de-l-iPhone-18-Pro-et-le-Snapdragon-8-Elite-Gen-6-du-Galaxy-S27-Ultra-en-termes-de-GPU.1296321.0.html",
-      "url": "https://www.notebookcheck.biz/le-SoC-2nm-du-telephone-IA-alimente-par-ChatGPT-bat-l-A20-Pro-de-l-iPhone-18-Pro-et-le-Snapdragon-8-Elite-Gen-6-du-Galaxy-S27-Ultra-en-termes-de-GPU.1296321.0.html",
-      "publishedAt": "2026-05-14T01:04:56.000Z",
-      "date": "2026-05-14T01:04:56.000Z",
-      "description": "le SoC 2nm du téléphone IA alimenté par ChatGPT bat l'A20 Pro de l'iPhone 18 Pro et le Snapdragon 8 Elite Gen 6 du Galaxy S27 Ultra en termes de GPU.",
-      "excerpt": "le SoC 2nm du téléphone IA alimenté par ChatGPT bat l'A20 Pro de l'iPhone 18 Pro et le Snapdragon 8 Elite Gen 6 du Galaxy S27 Ultra en termes de GPU.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Google prépare enfin sa vraie machine Gemini, avec un Googlebook qui pourrait inaugurer...",
-      "link": "https://global.techradar.com/fr-fr/computing/laptops/google-prepare-enfin-sa-vraie-machine-gemini-avec-un-googlebook-qui-pourrait-inaugurer-le-tout-premier-os-pense-pour-lia",
-      "url": "https://global.techradar.com/fr-fr/computing/laptops/google-prepare-enfin-sa-vraie-machine-gemini-avec-un-googlebook-qui-pourrait-inaugurer-le-tout-premier-os-pense-pour-lia",
-      "publishedAt": "2026-05-14T00:49:47.000Z",
-      "date": "2026-05-14T00:49:47.000Z",
-      "description": "ChatGPT · Appareils photo 2026 · Meilleurs VPN · Informatique · Ordinateurs... Googlebook announcement (Crédit photo: Google). Partager. Copier le...",
-      "excerpt": "ChatGPT · Appareils photo 2026 · Meilleurs VPN · Informatique · Ordinateurs... Googlebook announcement (Crédit photo: Google). Partager. Copier le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Google vient d'enterrer Apple Intelligence et ChatGPT avec GEMINI INTELLIGENCE et c'est violent",
-      "link": "https://www.youtube.com/watch?v=UXi2JZzODcw",
-      "url": "https://www.youtube.com/watch?v=UXi2JZzODcw",
-      "publishedAt": "2026-05-13T23:34:34.000Z",
-      "date": "2026-05-13T23:34:34.000Z",
-      "description": "Google vient d'enterrer Apple Intelligence et ChatGPT avec GEMINI INTELLIGENCE et c'est violent... Samsung has just launched a WORRYING update – All...",
-      "excerpt": "Google vient d'enterrer Apple Intelligence et ChatGPT avec GEMINI INTELLIGENCE et c'est violent... Samsung has just launched a WORRYING update – All...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "iOS 27 offre enfin une app Appareil photo digne des pros et refond Siri de fond en comble",
-      "link": "https://www.clubic.com/actualite-612808-ios-27-offre-enfin-une-app-appareil-photo-digne-des-pros-et-refond-siri-de-fond-en-comble.html",
-      "url": "https://www.clubic.com/actualite-612808-ios-27-offre-enfin-une-app-appareil-photo-digne-des-pros-et-refond-siri-de-fond-en-comble.html",
-      "publishedAt": "2026-05-13T22:24:21.000Z",
-      "date": "2026-05-13T22:24:21.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit... Elle permettrait de basculer entre Siri et des moteurs tiers comme ChatGPT ou Gemini.",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit... Elle permettrait de basculer entre Siri et des moteurs tiers comme ChatGPT ou Gemini.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
