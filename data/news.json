@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T02:12:22.142Z",
+  "generatedAt": "2026-05-15T08:38:23.747Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "IA: pourquoi Claude (Anthropic) s'impose face à ChatGPT (OpenAI) dans le monde professionnel",
+      "link": "https://www.breizh-info.com/2026/05/15/260034/claude-chatgpt/",
+      "url": "https://www.breizh-info.com/2026/05/15/260034/claude-chatgpt/",
+      "publishedAt": "2026-05-15T05:10:29.000Z",
+      "date": "2026-05-15T05:10:29.000Z",
+      "description": "... ChatGPT, développé par la société californienne OpenAI... Mais dans le reste de l'économie — finance, droit, conseil, santé, cybersécurité, fonction...",
+      "excerpt": "... ChatGPT, développé par la société californienne OpenAI... Mais dans le reste de l'économie — finance, droit, conseil, santé, cybersécurité, fonction...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Codex devient disponible dans l'application ChatGPT sur iOS et Android - KultureGeek",
+      "link": "https://kulturegeek.fr/news-352150/codex-disponible-lapplication-chatgpt-ios-android",
+      "url": "https://kulturegeek.fr/news-352150/codex-disponible-lapplication-chatgpt-ios-android",
+      "publishedAt": "2026-05-15T02:41:48.000Z",
+      "date": "2026-05-15T02:41:48.000Z",
+      "description": "GPT-5 -Codex IDE Logiciels · GPT‑5-Codex est disponible: l'IA améliore... Déçu de ChatGPT dans Siri, OpenAI envisage d'attaquer Apple en justice.",
+      "excerpt": "GPT-5 -Codex IDE Logiciels · GPT‑5-Codex est disponible: l'IA améliore... Déçu de ChatGPT dans Siri, OpenAI envisage d'attaquer Apple en justice.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance Codex sur mobile: l'assistant de code accessible depuis iPhone et Android",
+      "link": "https://gagadget.com/fr/710338-openai-lance-codex-sur-mobile-lassistant-de-code-accessible-depuis-iphone-et-android/",
+      "url": "https://gagadget.com/fr/710338-openai-lance-codex-sur-mobile-lassistant-de-code-accessible-depuis-iphone-et-android/",
+      "publishedAt": "2026-05-15T01:43:17.000Z",
+      "date": "2026-05-15T01:43:17.000Z",
+      "description": "OpenAI vient d'ouvrir l'accès mobile à Codex, son assistant de programmation, via l'application ChatGPT sur iOS et Android.",
+      "excerpt": "OpenAI vient d'ouvrir l'accès mobile à Codex, son assistant de programmation, via l'application ChatGPT sur iOS et Android.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Mythos d'Anthropic aurait aidé à révéler de nouvelles failles de sécurité sur macOS",
       "link": "https://www.appsystem.fr/255423/mythos-danthropic-aurait-aide-a-reveler-de-nouvelles-failles-de-securite-sur-macos/",
@@ -97,36 +127,6 @@
       "date": "2026-05-14T14:49:51.000Z",
       "description": "Cette pratique fait grimper les coûts de l'entreprise sans lui rapporter grand-chose. chatGPT malwarebytes tuto. Crédits: 123RF.",
       "excerpt": "Cette pratique fait grimper les coûts de l'entreprise sans lui rapporter grand-chose. chatGPT malwarebytes tuto. Crédits: 123RF.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Dans l'atelier de Manon Bard luthière à Rouen.: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/actu-locale/dans-l-atelier-de-manon-bard-luthiere-a-rouen-CNT000002pmhXb.html",
-      "url": "https://actu.orange.fr/videos/actu-locale/dans-l-atelier-de-manon-bard-luthiere-a-rouen-CNT000002pmhXb.html",
-      "publishedAt": "2026-05-14T14:09:09.000Z",
-      "date": "2026-05-14T14:09:09.000Z",
-      "description": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact... Tous publics. La guerre de l'IA a commencé (Google Bard vs. Bing ChatGPT ).",
-      "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact... Tous publics. La guerre de l'IA a commencé (Google Bard vs. Bing ChatGPT ).",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "“Ce n'est que la partie émergée de l'iceberg”, Google alerte sur des hackers aidés par l'IA...",
-      "link": "https://global.techradar.com/fr-fr/pro/security/ce-nest-que-la-partie-emergee-de-liceberg-google-alerte-sur-des-hackers-aides-par-lia-pour-trouver-des-zero-day",
-      "url": "https://global.techradar.com/fr-fr/pro/security/ce-nest-que-la-partie-emergee-de-liceberg-google-alerte-sur-des-hackers-aides-par-lia-pour-trouver-des-zero-day",
-      "publishedAt": "2026-05-14T13:04:48.000Z",
-      "date": "2026-05-14T13:04:48.000Z",
-      "description": "Pro Les comptes ChatGPT passent à un niveau de sécurité inédit avec l... Googlebook announcement. Laptops Google prépare enfin sa vraie...",
-      "excerpt": "Pro Les comptes ChatGPT passent à un niveau de sécurité inédit avec l... Googlebook announcement. Laptops Google prépare enfin sa vraie...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Google dépasse Apple: l'intelligence artificielle remodèle le classement des marques mondiales",
-      "link": "https://www.smash-marketing.fr/google-depasse-apple-lintelligence-artificielle-remodele-le-classement-des-marques-mondiales/7138/",
-      "url": "https://www.smash-marketing.fr/google-depasse-apple-lintelligence-artificielle-remodele-le-classement-des-marques-mondiales/7138/",
-      "publishedAt": "2026-05-14T09:51:26.000Z",
-      "date": "2026-05-14T09:51:26.000Z",
-      "description": "Parmi les données les plus surprenantes du rapport figure l'exploit ChatGPT.... OpenAI se...",
-      "excerpt": "Parmi les données les plus surprenantes du rapport figure l'exploit ChatGPT.... OpenAI se...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
