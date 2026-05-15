@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T08:38:23.747Z",
+  "generatedAt": "2026-05-15T13:43:16.243Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,86 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "macOS piraté: l'IA Mythos d'Anthropic a exploité des failles encore jamais vues - iPhon.fr",
+      "link": "https://www.iphon.fr/post/macos-pirate-ia-mythos-anthropic-exploite-failles-encore-jamais-vues",
+      "url": "https://www.iphon.fr/post/macos-pirate-ia-mythos-anthropic-exploite-failles-encore-jamais-vues",
+      "publishedAt": "2026-05-15T08:12:19.000Z",
+      "date": "2026-05-15T08:12:19.000Z",
+      "description": "Le Wall Street Journal rapporte que des spécialistes de la cybersécurité... ChatGPT x Siri: Apple et OpenAI déjà au bord du divorce.",
+      "excerpt": "Le Wall Street Journal rapporte que des spécialistes de la cybersécurité... ChatGPT x Siri: Apple et OpenAI déjà au bord du divorce.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI transforme Codex en outil mobile: l'agent codeur s'invite dans l'app ChatGPT",
+      "link": "https://www.blog-nouvelles-technologies.fr/368833/openai-codex-mobile-chatgpt-code-ia/",
+      "url": "https://www.blog-nouvelles-technologies.fr/368833/openai-codex-mobile-chatgpt-code-ia/",
+      "publishedAt": "2026-05-15T08:08:22.000Z",
+      "date": "2026-05-15T08:08:22.000Z",
+      "description": "La fonctionnalité arrive en preview sur iOS et Android pour tous les forfaits ChatGPT, y compris l'offre gratuite et le plan Go. Sur ordinateur, il...",
+      "excerpt": "La fonctionnalité arrive en preview sur iOS et Android pour tous les forfaits ChatGPT, y compris l'offre gratuite et le plan Go. Sur ordinateur, il...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'IA Mythos d'Anthropic est devenue plus puissante en un mois à peine, les experts s'inquiètent",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/l-ia-mythos-d-anthropic-est-devenue-plus-puissante-en-un-mois-a-peine-les-experts-s-inquietent-n255960.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/l-ia-mythos-d-anthropic-est-devenue-plus-puissante-en-un-mois-a-peine-les-experts-s-inquietent-n255960.html",
+      "publishedAt": "2026-05-15T08:07:11.000Z",
+      "date": "2026-05-15T08:07:11.000Z",
+      "description": "L'AISI met aussi en garde sur l'accélération des capacités des modèles d'IA en cybersécurité.... Vous pensiez que ChatGPT marchait mal dans Siri?",
+      "excerpt": "L'AISI met aussi en garde sur l'accélération des capacités des modèles d'IA en cybersécurité.... Vous pensiez que ChatGPT marchait mal dans Siri?",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Codex Mobile code et pilote les Mac depuis un smartphone - MacGeneration",
+      "link": "https://www.macg.co/intelligence-artificielle/2026/05/codex-mobile-code-et-pilote-les-mac-depuis-un-smartphone-308593",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/05/codex-mobile-code-et-pilote-les-mac-depuis-un-smartphone-308593",
+      "publishedAt": "2026-05-15T07:19:48.000Z",
+      "date": "2026-05-15T07:19:48.000Z",
+      "description": "Comment l'IA est en train de forcer les verrous de la cybersécurité... ChatGPT dans Siri: Altman trouve le deal injuste et voudrait attaquer Apple.",
+      "excerpt": "Comment l'IA est en train de forcer les verrous de la cybersécurité... ChatGPT dans Siri: Altman trouve le deal injuste et voudrait attaquer Apple.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA: ChatGPT apprend à détecter les signaux de détresse au fil des conversations, après...",
+      "link": "https://fr.tradingview.com/news/cointribune:f5a9a61a3b858:0/",
+      "url": "https://fr.tradingview.com/news/cointribune:f5a9a61a3b858:0/",
+      "publishedAt": "2026-05-15T06:46:47.000Z",
+      "date": "2026-05-15T06:46:47.000Z",
+      "description": "ChatGPT analyse... L'entreprise envisage d'étendre cette approche IA à d'autres domaines sensibles comme la cybersécurité et la biologie.",
+      "excerpt": "ChatGPT analyse... L'entreprise envisage d'étendre cette approche IA à d'autres domaines sensibles comme la cybersécurité et la biologie.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Codex: plus besoin d'être collé à votre PC, l'IA de code arrive sur mobile - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/codex-plus-besoin-detre-colle-a-votre-pc-lia-de-code-arrive-sur-mobile",
+      "url": "https://www.lebigdata.fr/codex-plus-besoin-detre-colle-a-votre-pc-lia-de-code-arrive-sur-mobile",
+      "publishedAt": "2026-05-15T06:44:52.000Z",
+      "date": "2026-05-15T06:44:52.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Mais avec l'arrivée de Codex sur mobile via l'application ChatGPT, OpenAI tente une approche différente.",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Mais avec l'arrivée de Codex sur mobile via l'application ChatGPT, OpenAI tente une approche différente.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude contre ChatGPT: le match se joue en entreprise - Comarketing-News",
+      "link": "https://comarketing-news.fr/claude-contre-chatgpt-le-match-se-joue-en-entreprise/",
+      "url": "https://comarketing-news.fr/claude-contre-chatgpt-le-match-se-joue-en-entreprise/",
+      "publishedAt": "2026-05-15T06:44:39.000Z",
+      "date": "2026-05-15T06:44:39.000Z",
+      "description": "ChatGPT peut séduire les consommateurs en illimitant leurs... cybersécurité. Le nouveau Microsoft Office. L'analogie qui s'impose est...",
+      "excerpt": "ChatGPT peut séduire les consommateurs en illimitant leurs... cybersécurité. Le nouveau Microsoft Office. L'analogie qui s'impose est...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA: ChatGPT apprend à détecter les signaux de détresse au fil des conversations, après...",
+      "link": "https://www.cointribune.com/ia-chatgpt-apprend-a-detecter-les-signaux-de-detresse-au-fil-des-conversations-apres-plusieurs-drames/",
+      "url": "https://www.cointribune.com/ia-chatgpt-apprend-a-detecter-les-signaux-de-detresse-au-fil-des-conversations-apres-plusieurs-drames/",
+      "publishedAt": "2026-05-15T06:17:54.000Z",
+      "date": "2026-05-15T06:17:54.000Z",
+      "description": "OpenAI ne s'arrête pas là! L'entreprise envisage d'étendre cette approche IA à d'autres domaines sensibles comme la cybersécurité et la biologie.",
+      "excerpt": "OpenAI ne s'arrête pas là! L'entreprise envisage d'étendre cette approche IA à d'autres domaines sensibles comme la cybersécurité et la biologie.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "IA: pourquoi Claude (Anthropic) s'impose face à ChatGPT (OpenAI) dans le monde professionnel",
       "link": "https://www.breizh-info.com/2026/05/15/260034/claude-chatgpt/",
@@ -47,86 +127,6 @@
       "date": "2026-05-14T22:33:54.000Z",
       "description": "... cybersécurité. Les détails techniques ne seraient... Siri et ChatGPT: OpenAI envisagerait une action en justice contre Apple · Léon Galarneau.",
       "excerpt": "... cybersécurité. Les détails techniques ne seraient... Siri et ChatGPT: OpenAI envisagerait une action en justice contre Apple · Léon Galarneau.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "NASA HPSC: un processeur spatial 500 fois plus puissant pour des sondes plus autonomes",
-      "link": "https://kulturegeek.fr/news-352129/nasa-hpsc-processeur-spatial-500-plus-puissant-sondes-plus-autonomes",
-      "url": "https://kulturegeek.fr/news-352129/nasa-hpsc-processeur-spatial-500-plus-puissant-sondes-plus-autonomes",
-      "publishedAt": "2026-05-14T21:08:04.000Z",
-      "date": "2026-05-14T21:08:04.000Z",
-      "description": "Ce système sur puce ( SOC ) tient dans la paume d'une main et regroupe... image de l'article Déçu de ChatGPT dans Siri, OpenAI envisage d'attaquer...",
-      "excerpt": "Ce système sur puce ( SOC ) tient dans la paume d'une main et regroupe... image de l'article Déçu de ChatGPT dans Siri, OpenAI envisage d'attaquer...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI Кодех энди смартфонларда ҳам ишлайди - Zamin.uz",
-      "link": "https://zamin.uz/fr/technologie/201116-openai-codex-fonctionne-desormais-sur-les-smartphones.html",
-      "url": "https://zamin.uz/fr/technologie/201116-openai-codex-fonctionne-desormais-sur-les-smartphones.html",
-      "publishedAt": "2026-05-14T21:06:49.000Z",
-      "date": "2026-05-14T21:06:49.000Z",
-      "description": "Désormais intégré à l'application ChatGPT, cet outil permet aux... Selon un rapport de la société de cybersécurité. Les hackers nord-coréens...",
-      "excerpt": "Désormais intégré à l'application ChatGPT, cet outil permet aux... Selon un rapport de la société de cybersécurité. Les hackers nord-coréens...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Intel lance une première production de puces iPhone pour Apple, selon Ming-Chi Kuo",
-      "link": "https://www.appsystem.fr/255432/intel-lance-une-premiere-production-de-puces-iphone-pour-apple-selon-ming-chi-kuo/",
-      "url": "https://www.appsystem.fr/255432/intel-lance-une-premiere-production-de-puces-iphone-pour-apple-selon-ming-chi-kuo/",
-      "publishedAt": "2026-05-14T20:22:36.000Z",
-      "date": "2026-05-14T20:22:36.000Z",
-      "description": "... SoC les plus récents. Selon les éléments rapportés, TSMC resterait... Siri et ChatGPT: OpenAI envisagerait une action en justice contre Apple.",
-      "excerpt": "... SoC les plus récents. Selon les éléments rapportés, TSMC resterait... Siri et ChatGPT: OpenAI envisagerait une action en justice contre Apple.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT dans Siri: Altman trouve le deal injuste et voudrait attaquer Apple",
-      "link": "https://www.macg.co/intelligence-artificielle/2026/05/chatgpt-dans-siri-altman-trouve-le-deal-injuste-et-voudrait-attaquer-apple-308589",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/05/chatgpt-dans-siri-altman-trouve-le-deal-injuste-et-voudrait-attaquer-apple-308589",
-      "publishedAt": "2026-05-14T19:36:31.000Z",
-      "date": "2026-05-14T19:36:31.000Z",
-      "description": "ChatGPT dans Siri: Altman trouve le deal injuste et voudrait attaquer Apple... Comment l'IA est en train de forcer les verrous de la cybersécurité.",
-      "excerpt": "ChatGPT dans Siri: Altman trouve le deal injuste et voudrait attaquer Apple... Comment l'IA est en train de forcer les verrous de la cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI Apple компаниясини судга бермоқчи - Zamin.uz",
-      "link": "https://zamin.uz/fr/technologie/201108-openai-envisage-de-poursuivre-apple-en-justice.html",
-      "url": "https://zamin.uz/fr/technologie/201108-openai-envisage-de-poursuivre-apple-en-justice.html",
-      "publishedAt": "2026-05-14T19:35:13.000Z",
-      "date": "2026-05-14T19:35:13.000Z",
-      "description": "Dans le cadre du partenariat annoncé en juin 2024, ChatGPT a été... Selon un rapport de la société de cybersécurité. Les hackers nord-coréens...",
-      "excerpt": "Dans le cadre du partenariat annoncé en juin 2024, ChatGPT a été... Selon un rapport de la société de cybersécurité. Les hackers nord-coréens...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT, Claude, Gemini… cette application centralise vos assistants IA avec une offre à vie - Clubic",
-      "link": "https://www.clubic.com/bons-plans-612823-gpt-claude-gemini-reunis-dans-une-seule-appli-l-offre-a-vie-stacksocial-qui-merite-vraiment-qu-on-s-y-arrete.html",
-      "url": "https://www.clubic.com/bons-plans-612823-gpt-claude-gemini-reunis-dans-une-seule-appli-l-offre-a-vie-stacksocial-qui-merite-vraiment-qu-on-s-y-arrete.html",
-      "publishedAt": "2026-05-14T17:41:00.000Z",
-      "date": "2026-05-14T17:41:00.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... GPT-5, Claude, Gemini Pro, Mistral, Llama et une quarantaine d'autres...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... GPT-5, Claude, Gemini Pro, Mistral, Llama et une quarantaine d'autres...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Windows 11: la mise à jour de mai sabote la connexion Wifi de milliers d'utilisateurs",
-      "link": "https://www.buzzarena.com/windows-11-la-mise-a-jour-de-mai-sabote-la-connexion-wifi-de-milliers-dutilisateurs-4554881",
-      "url": "https://www.buzzarena.com/windows-11-la-mise-a-jour-de-mai-sabote-la-connexion-wifi-de-milliers-dutilisateurs-4554881",
-      "publishedAt": "2026-05-14T17:03:51.000Z",
-      "date": "2026-05-14T17:03:51.000Z",
-      "description": "Windows 11 KB5089549. © Image IA d'illustration générée avec ChatGPT / BuzzArena... Microsoft n'a pour le moment reconnu aucun problème sur la page...",
-      "excerpt": "Windows 11 KB5089549. © Image IA d'illustration générée avec ChatGPT / BuzzArena... Microsoft n'a pour le moment reconnu aucun problème sur la page...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Voici comment les salariés d'Amazon trichent sur leurs stats IA pour échapper aux objectifs...",
-      "link": "https://www.phonandroid.com/voici-comment-les-salaries-damazon-trichent-sur-leurs-stats-ia-pour-echapper-aux-objectifs-imposes-par-la-direction.html",
-      "url": "https://www.phonandroid.com/voici-comment-les-salaries-damazon-trichent-sur-leurs-stats-ia-pour-echapper-aux-objectifs-imposes-par-la-direction.html",
-      "publishedAt": "2026-05-14T14:49:51.000Z",
-      "date": "2026-05-14T14:49:51.000Z",
-      "description": "Cette pratique fait grimper les coûts de l'entreprise sans lui rapporter grand-chose. chatGPT malwarebytes tuto. Crédits: 123RF.",
-      "excerpt": "Cette pratique fait grimper les coûts de l'entreprise sans lui rapporter grand-chose. chatGPT malwarebytes tuto. Crédits: 123RF.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
