@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T19:17:39.880Z",
+  "generatedAt": "2026-05-16T02:04:04.821Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "macOS piraté: l'IA Mythos d'Anthropic a exploité des failles encore jamais vues - MacPlus",
+      "link": "https://www.macplus.net/depeche-264756-macos-pirate-ia-mythos-anthropic-exploite-failles-encore-jamais-vues",
+      "url": "https://www.macplus.net/depeche-264756-macos-pirate-ia-mythos-anthropic-exploite-failles-encore-jamais-vues",
+      "publishedAt": "2026-05-15T20:14:17.000Z",
+      "date": "2026-05-15T20:14:17.000Z",
+      "description": "Le Wall Street Journal rapporte que des spécialistes de la cybersécurité... ChatGPT x Siri: Apple et OpenAI déjà au bord du divorce · iPhon.fr. La...",
+      "excerpt": "Le Wall Street Journal rapporte que des spécialistes de la cybersécurité... ChatGPT x Siri: Apple et OpenAI déjà au bord du divorce · iPhon.fr. La...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "CVE -2026-42897: Vulnérabilité de Spoofing dans Exchange OWA - SOC Prime",
+      "link": "https://socprime.com/fr/blog/analyse-de-cve-2026-42897/",
+      "url": "https://socprime.com/fr/blog/analyse-de-cve-2026-42897/",
+      "publishedAt": "2026-05-15T19:28:52.000Z",
+      "date": "2026-05-15T19:28:52.000Z",
+      "description": "CVE -2026-42897: Vulnérabilité de falsification d'Exchange Server OWA... ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des...",
+      "excerpt": "CVE -2026-42897: Vulnérabilité de falsification d'Exchange Server OWA... ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
+      "title": "CVE -2026-20182: Contournement d'authentification Cisco SD-WAN - SOC Prime",
+      "link": "https://socprime.com/fr/blog/cve-2026-20182-analyse/",
+      "url": "https://socprime.com/fr/blog/cve-2026-20182-analyse/",
+      "publishedAt": "2026-05-15T19:28:52.000Z",
+      "date": "2026-05-15T19:28:52.000Z",
+      "description": "ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des Matières. Analyse de CVE -2026-20182; Atténuation du CVE -2026-20182; FAQ.",
+      "excerpt": "ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des Matières. Analyse de CVE -2026-20182; Atténuation du CVE -2026-20182; FAQ.",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
     {
       "title": "OpenAI lance un assistant financier dans ChatGPT, mais pas pour tout le monde",
       "link": "https://www.lebigdata.fr/openai-lance-un-assistant-financier-dans-chatgpt-mais-pas-pour-tout-le-monde",
@@ -97,36 +127,6 @@
       "date": "2026-05-15T14:26:15.000Z",
       "description": "Obtenir des résultats sans vraiment travailler: l'agent IA de ChatGPT vient d'arriver sur mobile et voici comment ça marche... Today's update of Ramp...",
       "excerpt": "Obtenir des résultats sans vraiment travailler: l'agent IA de ChatGPT vient d'arriver sur mobile et voici comment ça marche... Today's update of Ramp...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Codex arrive sur iOS et Android: l'app ChatGPT permet de superviser votre ordinateur à distance",
-      "link": "https://www.numerama.com/tech/2254015-codex-arrive-sur-ios-et-android-lapp-chatgpt-permet-de-superviser-votre-ordinateur-a-distance.html",
-      "url": "https://www.numerama.com/tech/2254015-codex-arrive-sur-ios-et-android-lapp-chatgpt-permet-de-superviser-votre-ordinateur-a-distance.html",
-      "publishedAt": "2026-05-15T14:02:12.000Z",
-      "date": "2026-05-15T14:02:12.000Z",
-      "description": "Le 14 mai 2026, OpenAI a annoncé l'arrivée de Codex sur l'application mobile de ChatGPT. L'agent d'IA, capable de coder et d'automatiser des...",
-      "excerpt": "Le 14 mai 2026, OpenAI a annoncé l'arrivée de Codex sur l'application mobile de ChatGPT. L'agent d'IA, capable de coder et d'automatiser des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI transforme Codex en outil mobile: l'agent codeur s'invite dans l'app ChatGPT",
-      "link": "https://www.blog-nouvelles-technologies.fr/368833/openai-codex-mobile-chatgpt-code-ia/",
-      "url": "https://www.blog-nouvelles-technologies.fr/368833/openai-codex-mobile-chatgpt-code-ia/",
-      "publishedAt": "2026-05-15T13:53:03.000Z",
-      "date": "2026-05-15T13:53:03.000Z",
-      "description": "La fonctionnalité arrive en preview sur iOS et Android pour tous les forfaits ChatGPT, y compris l'offre gratuite et le plan Go. Sur ordinateur, il...",
-      "excerpt": "La fonctionnalité arrive en preview sur iOS et Android pour tous les forfaits ChatGPT, y compris l'offre gratuite et le plan Go. Sur ordinateur, il...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Claude, ChatGPT, Gemini? Why Comparing AI Systems is Not So Simple - Le Figaro",
-      "link": "https://www.lefigaro.fr/en/claude-chatgpt-gemini-why-comparing-ai-systems-is-not-so-simple-20260515",
-      "url": "https://www.lefigaro.fr/en/claude-chatgpt-gemini-why-comparing-ai-systems-is-not-so-simple-20260515",
-      "publishedAt": "2026-05-15T13:51:58.000Z",
-      "date": "2026-05-15T13:51:58.000Z",
-      "description": "Claude Opus 4.7, GPT 5.5, DeepSeek-V4… Each release of a new AI language model is an opportunity for its... ChatGPT. But in reality, the...",
-      "excerpt": "Claude Opus 4.7, GPT 5.5, DeepSeek-V4… Each release of a new AI language model is an opportunity for its... ChatGPT. But in reality, the...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
