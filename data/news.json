@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T02:04:04.821Z",
+  "generatedAt": "2026-05-16T07:50:01.171Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "« ChatGPT, aide-moi à remplir ma déclaration fiscale»: 3 risques concrets face aux conseils de l'IA",
+      "link": "https://www.levif.be/belgique/politique/fiscalite/chatgpt-aide-moi-a-remplir-ma-declaration-fiscale-3-risques-concrets-face-aux-conseils-de-lia/",
+      "url": "https://www.levif.be/belgique/politique/fiscalite/chatgpt-aide-moi-a-remplir-ma-declaration-fiscale-3-risques-concrets-face-aux-conseils-de-lia/",
+      "publishedAt": "2026-05-16T06:26:01.000Z",
+      "date": "2026-05-16T06:26:01.000Z",
+      "description": "« ChatGPT, aide-moi à remplir ma déclaration fiscale»: 3 risques concrets... cybersécurité. Au cours de la discussion, les trois modèles ont...",
+      "excerpt": "« ChatGPT, aide-moi à remplir ma déclaration fiscale»: 3 risques concrets... cybersécurité. Au cours de la discussion, les trois modèles ont...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT peut désormais analyser vos comptes bancaires: ce que propose OpenAI",
+      "link": "https://gagadget.com/fr/710544-chatgpt-peut-desormais-analyser-vos-comptes-bancaires-ce-que-propose-openai/",
+      "url": "https://gagadget.com/fr/710544-chatgpt-peut-desormais-analyser-vos-comptes-bancaires-ce-que-propose-openai/",
+      "publishedAt": "2026-05-16T00:42:51.000Z",
+      "date": "2026-05-16T00:42:51.000Z",
+      "description": "OpenAI vient d'intégrer un outil de finances personnelles directement dans ChatGPT: les abonnés Pro aux États-Unis peuvent désormais connecter...",
+      "excerpt": "OpenAI vient d'intégrer un outil de finances personnelles directement dans ChatGPT: les abonnés Pro aux États-Unis peuvent désormais connecter...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "macOS piraté: l'IA Mythos d'Anthropic a exploité des failles encore jamais vues - MacPlus",
       "link": "https://www.macplus.net/depeche-264756-macos-pirate-ia-mythos-anthropic-exploite-failles-encore-jamais-vues",
@@ -108,26 +128,6 @@
       "description": "... cybersécurité depuis 2008, Sénaporak Lam quitte Metsys pour piloter les... Illustration améliorée à l'aide de ChatGPT Images. Abonnez-vous à...",
       "excerpt": "... cybersécurité depuis 2008, Sénaporak Lam quitte Metsys pour piloter les... Illustration améliorée à l'aide de ChatGPT Images. Abonnez-vous à...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Codex d'OpenAI maintenant sur smartphone: pilotez tout depuis votre poche | Android MT",
-      "link": "https://android-mt.ouest-france.fr/news/codex-dopenai-maintenant-sur-smartphone-pilotez-tout-depuis-votre-poche/201394/",
-      "url": "https://android-mt.ouest-france.fr/news/codex-dopenai-maintenant-sur-smartphone-pilotez-tout-depuis-votre-poche/201394/",
-      "publishedAt": "2026-05-15T14:32:29.000Z",
-      "date": "2026-05-15T14:32:29.000Z",
-      "description": "... ChatGPT sur iPhone, iPad et Android. Une évolution qui change la façon dont les développeurs interagissent avec leurs machines à distance.",
-      "excerpt": "... ChatGPT sur iPhone, iPad et Android. Une évolution qui change la façon dont les développeurs interagissent avec leurs machines à distance.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Obtenir des résultats sans vraiment travailler: l'agent IA de ChatGPT vient d'arriver sur...",
-      "link": "https://www.presse-citron.net/obtenir-des-resultats-sans-vraiment-travailler-lagent-ia-de-chatgpt-vient-darriver-sur-mobile-et-voici-comment-ca-marche/",
-      "url": "https://www.presse-citron.net/obtenir-des-resultats-sans-vraiment-travailler-lagent-ia-de-chatgpt-vient-darriver-sur-mobile-et-voici-comment-ca-marche/",
-      "publishedAt": "2026-05-15T14:26:15.000Z",
-      "date": "2026-05-15T14:26:15.000Z",
-      "description": "Obtenir des résultats sans vraiment travailler: l'agent IA de ChatGPT vient d'arriver sur mobile et voici comment ça marche... Today's update of Ramp...",
-      "excerpt": "Obtenir des résultats sans vraiment travailler: l'agent IA de ChatGPT vient d'arriver sur mobile et voici comment ça marche... Today's update of Ramp...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
