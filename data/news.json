@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T07:50:01.171Z",
+  "generatedAt": "2026-05-16T12:59:42.357Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT Finances: l'IA analyse vos comptes bancaires - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/368866/chatgpt-finances-comptes-bancaires-budget/",
+      "url": "https://www.blog-nouvelles-technologies.fr/368866/chatgpt-finances-comptes-bancaires-budget/",
+      "publishedAt": "2026-05-16T06:53:16.000Z",
+      "date": "2026-05-16T06:53:16.000Z",
+      "description": "ChatGPT peut désormais se connecter à vos comptes pour gérer votre budget! Découvrez comment l'IA d'OpenAI va optimiser vos finances privées ici.",
+      "excerpt": "ChatGPT peut désormais se connecter à vos comptes pour gérer votre budget! Découvrez comment l'IA d'OpenAI va optimiser vos finances privées ici.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "« ChatGPT, aide-moi à remplir ma déclaration fiscale»: 3 risques concrets face aux conseils de l'IA",
       "link": "https://www.levif.be/belgique/politique/fiscalite/chatgpt-aide-moi-a-remplir-ma-declaration-fiscale-3-risques-concrets-face-aux-conseils-de-lia/",
@@ -117,16 +127,6 @@
       "date": "2026-05-15T15:03:37.000Z",
       "description": "L'IA Mythos d'Anthropic progresse à une vitesse qui inquiète les experts en cybersécurité... Comment utiliser ChatGPT avec Apple Intelligence sur...",
       "excerpt": "L'IA Mythos d'Anthropic progresse à une vitesse qui inquiète les experts en cybersécurité... Comment utiliser ChatGPT avec Apple Intelligence sur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Sénaporak Lam prend les rênes du channel France de Trellix - ITforBusiness.fr",
-      "link": "https://www.itforbusiness.fr/senaporak-lam-prend-les-renes-du-channel-france-de-trellix-103774",
-      "url": "https://www.itforbusiness.fr/senaporak-lam-prend-les-renes-du-channel-france-de-trellix-103774",
-      "publishedAt": "2026-05-15T15:01:09.000Z",
-      "date": "2026-05-15T15:01:09.000Z",
-      "description": "... cybersécurité depuis 2008, Sénaporak Lam quitte Metsys pour piloter les... Illustration améliorée à l'aide de ChatGPT Images. Abonnez-vous à...",
-      "excerpt": "... cybersécurité depuis 2008, Sénaporak Lam quitte Metsys pour piloter les... Illustration améliorée à l'aide de ChatGPT Images. Abonnez-vous à...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
