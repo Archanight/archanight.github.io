@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T12:59:42.357Z",
+  "generatedAt": "2026-05-16T18:50:38.044Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Plus besoin de comptable, ChatGPT s'attaque maintenant à la gestion de votre argent",
+      "link": "https://www.phonandroid.com/plus-besoin-de-comptable-chatgpt-sattaque-maintenant-a-la-gestion-de-votre-argent.html",
+      "url": "https://www.phonandroid.com/plus-besoin-de-comptable-chatgpt-sattaque-maintenant-a-la-gestion-de-votre-argent.html",
+      "publishedAt": "2026-05-16T17:31:51.000Z",
+      "date": "2026-05-16T17:31:51.000Z",
+      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités. Actualités: Domotique... Plus besoin de comptable, ChatGPT s'attaque maintenant à la gestion...",
+      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités. Actualités: Domotique... Plus besoin de comptable, ChatGPT s'attaque maintenant à la gestion...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le PDG de Salesforce, Marc Benioff, se lance à fond dans “Awesome” Anthropic avec une...",
+      "link": "https://fr.benzinga.com/latest-news/le-pdg-de-salesforce-marc-benioff-se-lance-a-fond-dans-awesome-anthropic-avec-une-depense-de-300-millions-de-dollars-salue-les-agents-de-codage-je-nai-jamais-ete/",
+      "url": "https://fr.benzinga.com/latest-news/le-pdg-de-salesforce-marc-benioff-se-lance-a-fond-dans-awesome-anthropic-avec-une-depense-de-300-millions-de-dollars-salue-les-agents-de-codage-je-nai-jamais-ete/",
+      "publishedAt": "2026-05-16T09:31:46.000Z",
+      "date": "2026-05-16T09:31:46.000Z",
+      "description": "Ce même mois, le lancement par la société de Claude Code Security a ébranlé les titulaires de la cybersécurité... OpenAI fusionne ChatGPT et...",
+      "excerpt": "Ce même mois, le lancement par la société de Claude Code Security a ébranlé les titulaires de la cybersécurité... OpenAI fusionne ChatGPT et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT Finances: l'IA analyse vos comptes bancaires - BlogNT",
       "link": "https://www.blog-nouvelles-technologies.fr/368866/chatgpt-finances-comptes-bancaires-budget/",
@@ -107,26 +127,6 @@
       "date": "2026-05-15T16:30:39.000Z",
       "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT victime d'un piratage, OpenAI appelle ses utilisateurs sur Mac à...",
       "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT victime d'un piratage, OpenAI appelle ses utilisateurs sur Mac à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI confirme un vol de données: vous devrez mettre à jour ChatGPT et les autres apps...",
-      "link": "https://www.presse-citron.net/openai-vol-de-donnees-vous-devrez-mettre-a-jour-chatgpt/",
-      "url": "https://www.presse-citron.net/openai-vol-de-donnees-vous-devrez-mettre-a-jour-chatgpt/",
-      "publishedAt": "2026-05-15T15:32:21.000Z",
-      "date": "2026-05-15T15:32:21.000Z",
-      "description": "... ChatGPT, Codex, Codex CLI et Atlas. Setra. Publié le 15 mai 2026 à 17 h... Si vous utilisez les applications OpenAI sur macOS, vous devrez faire une...",
-      "excerpt": "... ChatGPT, Codex, Codex CLI et Atlas. Setra. Publié le 15 mai 2026 à 17 h... Si vous utilisez les applications OpenAI sur macOS, vous devrez faire une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "L'IA Mythos devient surpuissante en un mois à peine, sa progression dépasse les prévisions",
-      "link": "https://www.buzzarena.com/lia-mythosdevient-surpuissante-en-un-mois-a-peine-sa-progression-depasse-les-previsions-4554905",
-      "url": "https://www.buzzarena.com/lia-mythosdevient-surpuissante-en-un-mois-a-peine-sa-progression-depasse-les-previsions-4554905",
-      "publishedAt": "2026-05-15T15:03:37.000Z",
-      "date": "2026-05-15T15:03:37.000Z",
-      "description": "L'IA Mythos d'Anthropic progresse à une vitesse qui inquiète les experts en cybersécurité... Comment utiliser ChatGPT avec Apple Intelligence sur...",
-      "excerpt": "L'IA Mythos d'Anthropic progresse à une vitesse qui inquiète les experts en cybersécurité... Comment utiliser ChatGPT avec Apple Intelligence sur...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
