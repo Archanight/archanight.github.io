@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T08:10:13.566Z",
+  "generatedAt": "2026-05-17T12:57:31.687Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Nouvelles améliorations sur ChatGPT - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/nang-cap-moi-tren-chatgpt",
+      "url": "https://www.vietnam.vn/fr/nang-cap-moi-tren-chatgpt",
+      "publishedAt": "2026-05-17T09:08:53.000Z",
+      "date": "2026-05-17T09:08:53.000Z",
+      "description": "Codex, l'assistant de programmation d'OpenAI, vient d'être intégré à l'application ChatGPT... Soc Son d'Asie du Sud-Est. baoquocte-vn Báo Quốc Tế. dans...",
+      "excerpt": "Codex, l'assistant de programmation d'OpenAI, vient d'être intégré à l'application ChatGPT... Soc Son d'Asie du Sud-Est. baoquocte-vn Báo Quốc Tế. dans...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "The View Agadir place l'Aïd El Adha sous le signe du partage - InfoMagazine Maroc",
+      "link": "https://www.infomagazine.ma/hotellerie/the-view-agadir-place-laid-el-adha-sous-le-signe-du-partage-14902-2026/",
+      "url": "https://www.infomagazine.ma/hotellerie/the-view-agadir-place-laid-el-adha-sous-le-signe-du-partage-14902-2026/",
+      "publishedAt": "2026-05-17T08:35:46.000Z",
+      "date": "2026-05-17T08:35:46.000Z",
+      "description": "Cybersécurité · Economie · Automobile · Opérateurs · Inwi · Maroc Telecom... Codex arrive dans l'application ChatGPT sur mobileThe View Agadir place...",
+      "excerpt": "Cybersécurité · Economie · Automobile · Opérateurs · Inwi · Maroc Telecom... Codex arrive dans l'application ChatGPT sur mobileThe View Agadir place...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "xAI vs OpenAI: Elon Musk force Apple à ouvrir la messagerie de Craig Federighi",
+      "link": "https://www.macg.co/aapl/2026/05/xai-vs-openai-elon-musk-force-apple-ouvrir-la-messagerie-de-craig-federighi-308607",
+      "url": "https://www.macg.co/aapl/2026/05/xai-vs-openai-elon-musk-force-apple-ouvrir-la-messagerie-de-craig-federighi-308607",
+      "publishedAt": "2026-05-17T08:05:11.000Z",
+      "date": "2026-05-17T08:05:11.000Z",
+      "description": "ChatGPT dans Siri: Altman trouve le deal injuste et voudrait...",
+      "excerpt": "ChatGPT dans Siri: Altman trouve le deal injuste et voudrait...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Malte offre un an de ChatGPT Plus gratuit à ses citoyens — sous une condition",
+      "link": "https://gagadget.com/fr/710698-malte-offre-un-an-de-chatgpt-plus-gratuit-a-ses-citoyens-sous-une-condition/",
+      "url": "https://gagadget.com/fr/710698-malte-offre-un-an-de-chatgpt-plus-gratuit-a-ses-citoyens-sous-une-condition/",
+      "publishedAt": "2026-05-17T05:55:22.000Z",
+      "date": "2026-05-17T05:55:22.000Z",
+      "description": "Malte vient de signer un accord inédit avec OpenAI: chaque citoyen maltais peut obtenir un an d'accès gratuit à ChatGPT Plus, à condition de...",
+      "excerpt": "Malte vient de signer un accord inédit avec OpenAI: chaque citoyen maltais peut obtenir un an d'accès gratuit à ChatGPT Plus, à condition de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT Images 2.0 Review: Il sait enfin comment épeler - Unite.AI",
       "link": "https://www.unite.ai/fr/chatgpt-images-2-0-review/",
@@ -88,46 +128,6 @@
       "description": "« ChatGPT, aide-moi à remplir ma déclaration fiscale»: 3 risques concrets... cybersécurité. Au cours de la discussion, les trois modèles ont...",
       "excerpt": "« ChatGPT, aide-moi à remplir ma déclaration fiscale»: 3 risques concrets... cybersécurité. Au cours de la discussion, les trois modèles ont...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT peut désormais analyser vos comptes bancaires: ce que propose OpenAI",
-      "link": "https://gagadget.com/fr/710544-chatgpt-peut-desormais-analyser-vos-comptes-bancaires-ce-que-propose-openai/",
-      "url": "https://gagadget.com/fr/710544-chatgpt-peut-desormais-analyser-vos-comptes-bancaires-ce-que-propose-openai/",
-      "publishedAt": "2026-05-16T00:42:51.000Z",
-      "date": "2026-05-16T00:42:51.000Z",
-      "description": "OpenAI vient d'intégrer un outil de finances personnelles directement dans ChatGPT: les abonnés Pro aux États-Unis peuvent désormais connecter...",
-      "excerpt": "OpenAI vient d'intégrer un outil de finances personnelles directement dans ChatGPT: les abonnés Pro aux États-Unis peuvent désormais connecter...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "macOS piraté: l'IA Mythos d'Anthropic a exploité des failles encore jamais vues - MacPlus",
-      "link": "https://www.macplus.net/depeche-264756-macos-pirate-ia-mythos-anthropic-exploite-failles-encore-jamais-vues",
-      "url": "https://www.macplus.net/depeche-264756-macos-pirate-ia-mythos-anthropic-exploite-failles-encore-jamais-vues",
-      "publishedAt": "2026-05-15T20:14:17.000Z",
-      "date": "2026-05-15T20:14:17.000Z",
-      "description": "Le Wall Street Journal rapporte que des spécialistes de la cybersécurité... ChatGPT x Siri: Apple et OpenAI déjà au bord du divorce · iPhon.fr. La...",
-      "excerpt": "Le Wall Street Journal rapporte que des spécialistes de la cybersécurité... ChatGPT x Siri: Apple et OpenAI déjà au bord du divorce · iPhon.fr. La...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "CVE -2026-42897: Vulnérabilité de Spoofing dans Exchange OWA - SOC Prime",
-      "link": "https://socprime.com/fr/blog/analyse-de-cve-2026-42897/",
-      "url": "https://socprime.com/fr/blog/analyse-de-cve-2026-42897/",
-      "publishedAt": "2026-05-15T19:28:52.000Z",
-      "date": "2026-05-15T19:28:52.000Z",
-      "description": "CVE -2026-42897: Vulnérabilité de falsification d'Exchange Server OWA... ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des...",
-      "excerpt": "CVE -2026-42897: Vulnérabilité de falsification d'Exchange Server OWA... ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "CVE -2026-20182: Contournement d'authentification Cisco SD-WAN - SOC Prime",
-      "link": "https://socprime.com/fr/blog/cve-2026-20182-analyse/",
-      "url": "https://socprime.com/fr/blog/cve-2026-20182-analyse/",
-      "publishedAt": "2026-05-15T19:28:52.000Z",
-      "date": "2026-05-15T19:28:52.000Z",
-      "description": "ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des Matières. Analyse de CVE -2026-20182; Atténuation du CVE -2026-20182; FAQ.",
-      "excerpt": "ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des Matières. Analyse de CVE -2026-20182; Atténuation du CVE -2026-20182; FAQ.",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     }
   ]
 }
