@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T02:07:51.511Z",
+  "generatedAt": "2026-05-17T08:10:13.566Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT Images 2.0 Review: Il sait enfin comment épeler - Unite.AI",
+      "link": "https://www.unite.ai/fr/chatgpt-images-2-0-review/",
+      "url": "https://www.unite.ai/fr/chatgpt-images-2-0-review/",
+      "publishedAt": "2026-05-17T05:31:44.000Z",
+      "date": "2026-05-17T05:31:44.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... J'ai commencé par aller à la page de lancement de ChatGPT Images 2.0 sur openai.",
+      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... J'ai commencé par aller à la page de lancement de ChatGPT Images 2.0 sur openai.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude l'aide à retrouver 400 000 € perdus pendant plus d'une décennie - Les Numériques",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/le-plus-beau-jour-de-ma-vie-claude-l-aide-a-retrouver-400-000-perdus-pendant-plus-d-une-decennie-n256027.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/le-plus-beau-jour-de-ma-vie-claude-l-aide-a-retrouver-400-000-perdus-pendant-plus-d-une-decennie-n256027.html",
+      "publishedAt": "2026-05-17T03:23:23.000Z",
+      "date": "2026-05-17T03:23:23.000Z",
+      "description": "ChatGPT pourra accéder à votre compte bancaire, l'IA devient de plus en... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "excerpt": "ChatGPT pourra accéder à votre compte bancaire, l'IA devient de plus en... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Codex arrive dans l'application ChatGPT sur mobile - InfoMagazine Maroc",
       "link": "https://www.infomagazine.ma/high-tech/codex-arrive-dans-lapplication-chatgpt-sur-mobile-14905-2026/",
@@ -108,26 +128,6 @@
       "description": "ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des Matières. Analyse de CVE -2026-20182; Atténuation du CVE -2026-20182; FAQ.",
       "excerpt": "ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des Matières. Analyse de CVE -2026-20182; Atténuation du CVE -2026-20182; FAQ.",
       "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "OpenAI lance un assistant financier dans ChatGPT, mais pas pour tout le monde",
-      "link": "https://www.lebigdata.fr/openai-lance-un-assistant-financier-dans-chatgpt-mais-pas-pour-tout-le-monde",
-      "url": "https://www.lebigdata.fr/openai-lance-un-assistant-financier-dans-chatgpt-mais-pas-pour-tout-le-monde",
-      "publishedAt": "2026-05-15T18:23:26.000Z",
-      "date": "2026-05-15T18:23:26.000Z",
-      "description": "OpenAI teste un nouvel assistant financier intégré à ChatGPT. Cet outil permet à l'IA d'analyser vos dépenses, de suivre vos abonnements ou de...",
-      "excerpt": "OpenAI teste un nouvel assistant financier intégré à ChatGPT. Cet outil permet à l'IA d'analyser vos dépenses, de suivre vos abonnements ou de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT se branche à vos comptes bancaires pour des conseils financiers - KultureGeek",
-      "link": "https://kulturegeek.fr/news-352202/chatgpt-branche-comptes-bancaires-conseils-financiers",
-      "url": "https://kulturegeek.fr/news-352202/chatgpt-branche-comptes-bancaires-conseils-financiers",
-      "publishedAt": "2026-05-15T17:52:09.000Z",
-      "date": "2026-05-15T17:52:09.000Z",
-      "description": "OpenAI permet à ChatGPT de se connecter aux comptes bancaires pour analyser les dépenses, abonnements et portefeuille pour vous conseiller à...",
-      "excerpt": "OpenAI permet à ChatGPT de se connecter aux comptes bancaires pour analyser les dépenses, abonnements et portefeuille pour vous conseiller à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
