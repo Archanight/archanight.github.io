@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T18:50:38.044Z",
+  "generatedAt": "2026-05-17T02:07:51.511Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Codex arrive dans l'application ChatGPT sur mobile - InfoMagazine Maroc",
+      "link": "https://www.infomagazine.ma/high-tech/codex-arrive-dans-lapplication-chatgpt-sur-mobile-14905-2026/",
+      "url": "https://www.infomagazine.ma/high-tech/codex-arrive-dans-lapplication-chatgpt-sur-mobile-14905-2026/",
+      "publishedAt": "2026-05-16T21:15:58.000Z",
+      "date": "2026-05-16T21:15:58.000Z",
+      "description": "Cybersécurité · Economie · Automobile · Opérateurs · Inwi · Maroc Telecom · Orange... Codex arrive dans l'application ChatGPT sur mobile.",
+      "excerpt": "Cybersécurité · Economie · Automobile · Opérateurs · Inwi · Maroc Telecom · Orange... Codex arrive dans l'application ChatGPT sur mobile.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Plus besoin de comptable, ChatGPT s'attaque maintenant à la gestion de votre argent",
       "link": "https://www.phonandroid.com/plus-besoin-de-comptable-chatgpt-sattaque-maintenant-a-la-gestion-de-votre-argent.html",
@@ -28,6 +38,16 @@
       "description": "Ce même mois, le lancement par la société de Claude Code Security a ébranlé les titulaires de la cybersécurité... OpenAI fusionne ChatGPT et...",
       "excerpt": "Ce même mois, le lancement par la société de Claude Code Security a ébranlé les titulaires de la cybersécurité... OpenAI fusionne ChatGPT et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "I compared ChatGPT, Gemini, and Claude to recreate a LEGO phone stand from #Shorts",
+      "link": "https://www.youtube.com/watch?v=13PLPVRsbcY",
+      "url": "https://www.youtube.com/watch?v=13PLPVRsbcY",
+      "publishedAt": "2026-05-16T08:56:02.000Z",
+      "date": "2026-05-16T08:56:02.000Z",
+      "description": "J'ai comparé ChatGPT, Gemini et Claude pour recréer un support de téléphone LEGO à partir #Shorts.",
+      "excerpt": "J'ai comparé ChatGPT, Gemini et Claude pour recréer un support de téléphone LEGO à partir #Shorts.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "ChatGPT Finances: l'IA analyse vos comptes bancaires - BlogNT",
@@ -108,26 +128,6 @@
       "description": "OpenAI permet à ChatGPT de se connecter aux comptes bancaires pour analyser les dépenses, abonnements et portefeuille pour vous conseiller à...",
       "excerpt": "OpenAI permet à ChatGPT de se connecter aux comptes bancaires pour analyser les dépenses, abonnements et portefeuille pour vous conseiller à...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "IA à l'université: les étudiants obtiennent de meilleures notes... mais apprendraient moins",
-      "link": "https://kulturegeek.fr/news-352194/ia-luniversite-etudiants-obtiennent-meilleures-notes-apprendraient",
-      "url": "https://kulturegeek.fr/news-352194/ia-luniversite-etudiants-obtiennent-meilleures-notes-apprendraient",
-      "publishedAt": "2026-05-15T17:09:44.000Z",
-      "date": "2026-05-15T17:09:44.000Z",
-      "description": "Des « A » en forte hausse depuis ChatGPT. Le chercheur Igor Chirikov a analysé plus de 500 000 notes d'étudiants, réparties dans 84 départements d...",
-      "excerpt": "Des « A » en forte hausse depuis ChatGPT. Le chercheur Igor Chirikov a analysé plus de 500 000 notes d'étudiants, réparties dans 84 départements d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT victime d'un piratage, OpenAI appelle ses utilisateurs sur Mac à mettre à jour l'application",
-      "link": "https://www.phonandroid.com/chatgpt-victime-dun-piratage-openai-appelle-ses-utilisateurs-sur-mac-a-mettre-a-jour-lapplication.html",
-      "url": "https://www.phonandroid.com/chatgpt-victime-dun-piratage-openai-appelle-ses-utilisateurs-sur-mac-a-mettre-a-jour-lapplication.html",
-      "publishedAt": "2026-05-15T16:30:39.000Z",
-      "date": "2026-05-15T16:30:39.000Z",
-      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT victime d'un piratage, OpenAI appelle ses utilisateurs sur Mac à...",
-      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT victime d'un piratage, OpenAI appelle ses utilisateurs sur Mac à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
