@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T19:25:19.728Z",
+  "generatedAt": "2026-05-19T02:28:14.747Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Apple et OpenAI face à xAI: Craig Federighi impliqué dans le procès antitrust autour de Grok",
+      "link": "https://iphoneaddict.fr/post/news-428687-apple-openai-face-xai-craig-federighi-implique-proces-antitrust-autour-grok",
+      "url": "https://iphoneaddict.fr/post/news-428687-apple-openai-face-xai-craig-federighi-implique-proces-antitrust-autour-grok",
+      "publishedAt": "2026-05-18T22:07:33.000Z",
+      "date": "2026-05-18T22:07:33.000Z",
+      "description": "... ChatGPT dans Apple Intelligence. Federighi considéré comme détenteur d'informations clés. Pour rappel, xAI accuse Apple et OpenAI d'avoir conclu un...",
+      "excerpt": "... ChatGPT dans Apple Intelligence. Federighi considéré comme détenteur d'informations clés. Pour rappel, xAI accuse Apple et OpenAI d'avoir conclu un...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "La pub arrive dans ChatGPT: ce que ça change pour vous",
+      "link": "https://stephanelarue.com/pub-chatgpt-openai-ads-manager/",
+      "url": "https://stephanelarue.com/pub-chatgpt-openai-ads-manager/",
+      "publishedAt": "2026-05-18T21:44:16.000Z",
+      "date": "2026-05-18T21:44:16.000Z",
+      "description": "Cisco Talos cybersécurité · La pub arrive dans ChatGPT: ce que ça change pour vous · Ads...",
+      "excerpt": "Cisco Talos cybersécurité · La pub arrive dans ChatGPT: ce que ça change pour vous · Ads...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Elon Musk perd son procès contre OpenAI - 18/05: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/economie/elon-musk-perd-son-proces-contre-openai-18-05-CNT000002ppygz.html",
+      "url": "https://actu.orange.fr/videos/economie/elon-musk-perd-son-proces-contre-openai-18-05-CNT000002ppygz.html",
+      "publishedAt": "2026-05-18T20:58:26.000Z",
+      "date": "2026-05-18T20:58:26.000Z",
+      "description": "... ChatGPT sur l'iPhone, les dernières informations sur la refonte de Siri... Cybersécurité et Télésurveillance. Live Shopping Google. Conseils...",
+      "excerpt": "... ChatGPT sur l'iPhone, les dernières informations sur la refonte de Siri... Cybersécurité et Télésurveillance. Live Shopping Google. Conseils...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "iOS 27 et la nouvelle app Siri: entre confidentialité et mémoire illimitée, Apple a fait son choix",
       "link": "https://www.iphon.fr/post/ios-27-nouvelle-app-siri-confidentialite-memoire-illimitee-apple-choix",
@@ -98,36 +128,6 @@
       "description": "ChatGPT ou Gemini vont-ils changer le casting de la prochaine présidentielle?... Cybersécurité · Société · Télécoms · Auto · Médias · Politique &...",
       "excerpt": "ChatGPT ou Gemini vont-ils changer le casting de la prochaine présidentielle?... Cybersécurité · Société · Télécoms · Auto · Médias · Politique &...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité: l'IA contourne déjà l'authentification multi-facteurs - Servicesmobiles.fr",
-      "link": "https://www.servicesmobiles.fr/cybersecurite-lia-contourne-deja-lauthentification-multi-facteurs-112086",
-      "url": "https://www.servicesmobiles.fr/cybersecurite-lia-contourne-deja-lauthentification-multi-facteurs-112086",
-      "publishedAt": "2026-05-18T15:01:19.000Z",
-      "date": "2026-05-18T15:01:19.000Z",
-      "description": "Cybersécurité: l'IA contourne déjà l'authentification multi-facteurs... OpenAI prépare une super app IA autour de ChatGPT · Honor Robot Phone...",
-      "excerpt": "Cybersécurité: l'IA contourne déjà l'authentification multi-facteurs... OpenAI prépare une super app IA autour de ChatGPT · Honor Robot Phone...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Poèmes peu inspirés, militantisme vitupérant et théories du complot: quand les agents IA... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/poemes-peu-inspires-militantisme-vituperant-et-theories-du-complot-quand-les-agents-ia-prennent-le-controle-de-stations-radio-l-antenne-tourne-au-fiasco_AV-202605180502.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/poemes-peu-inspires-militantisme-vituperant-et-theories-du-complot-quand-les-agents-ia-prennent-le-controle-de-stations-radio-l-antenne-tourne-au-fiasco_AV-202605180502.html",
-      "publishedAt": "2026-05-18T14:22:32.000Z",
-      "date": "2026-05-18T14:22:32.000Z",
-      "description": "La start-up Andon Labs a confié la gestion de quatre stations de radio à ChatGPT, Claude, Gemini ou Grok... France et cybersécurité · Départ de...",
-      "excerpt": "La start-up Andon Labs a confié la gestion de quatre stations de radio à ChatGPT, Claude, Gemini ou Grok... France et cybersécurité · Départ de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des employés de Meta protestent contre le logiciel qui piste leur activité ( update )",
-      "link": "https://www.ictjournal.ch/news/2026-05-18/des-employes-de-meta-protestent-contre-le-logiciel-qui-piste-leur-activite-update",
-      "url": "https://www.ictjournal.ch/news/2026-05-18/des-employes-de-meta-protestent-contre-le-logiciel-qui-piste-leur-activite-update",
-      "publishedAt": "2026-05-18T13:18:29.000Z",
-      "date": "2026-05-18T13:18:29.000Z",
-      "description": "Une pétition en ligne circule déjà. (Source: Netzmedien / ChatGPT Images 2.0). (Source: Netzmedien / ChatGPT Images 2.0). Mise à jour du 18 mai 2026...",
-      "excerpt": "Une pétition en ligne circule déjà. (Source: Netzmedien / ChatGPT Images 2.0). (Source: Netzmedien / ChatGPT Images 2.0). Mise à jour du 18 mai 2026...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
