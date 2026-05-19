@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T08:59:04.608Z",
+  "generatedAt": "2026-05-19T14:37:30.924Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Elon Musk débouté sèchement face à Sam Altman et OpenAI: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/monde/elon-musk-deboute-sechement-face-a-sam-altman-et-openai-CNT000002pqFhM.html",
+      "url": "https://actu.orange.fr/videos/monde/elon-musk-deboute-sechement-face-a-sam-altman-et-openai-CNT000002pqFhM.html",
+      "publishedAt": "2026-05-19T10:20:44.000Z",
+      "date": "2026-05-19T10:20:44.000Z",
+      "description": "Elon Musk a perdu son bras de fer judiciaire contre OpenAI. Le milliardaire accusait l'entreprise derrière ChatGPT... Cybersécurité et Télésurveillance.",
+      "excerpt": "Elon Musk a perdu son bras de fer judiciaire contre OpenAI. Le milliardaire accusait l'entreprise derrière ChatGPT... Cybersécurité et Télésurveillance.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI et Dell rapprochent Codex des données d'entreprise sur site et en environnement hybride",
+      "link": "https://itsocial.fr/cloud-infrastructure-it/cloud-infrastructure-it-actualites/openai-et-dell-rapprochent-codex-des-donnees-dentreprise-sur-site-et-en-environnement-hybride/",
+      "url": "https://itsocial.fr/cloud-infrastructure-it/cloud-infrastructure-it-actualites/openai-et-dell-rapprochent-codex-des-donnees-dentreprise-sur-site-et-en-environnement-hybride/",
+      "publishedAt": "2026-05-19T09:24:31.000Z",
+      "date": "2026-05-19T09:24:31.000Z",
+      "description": "... ChatGPT Enterprise, les API OpenAI et Dell AI... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
+      "excerpt": "... ChatGPT Enterprise, les API OpenAI et Dell AI... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "iOS 27: Siri a deux ans de retard sur l'IA… et Apple va nous sortir une version bêta",
+      "link": "https://www.lebigdata.fr/ios-27-siri-a-deux-ans-de-retard-sur-lia-et-apple-va-nous-sortir-une-version-beta",
+      "url": "https://www.lebigdata.fr/ios-27-siri-a-deux-ans-de-retard-sur-lia-et-apple-va-nous-sortir-une-version-beta",
+      "publishedAt": "2026-05-19T07:12:26.000Z",
+      "date": "2026-05-19T07:12:26.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Pendant que Siri continue sa longue séance de remise en forme, des outils comme Google Gemini ou ChatGPT ont...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Pendant que Siri continue sa longue séance de remise en forme, des outils comme Google Gemini ou ChatGPT ont...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Coup dur pour Elon Musk: le milliardaire perd son procès face à OpenAI qu'il accusait de...",
       "link": "https://www.lindependant.fr/2026/05/19/coup-dur-pour-elon-musk-le-milliardaire-perd-son-proces-face-a-openai-quil-accusait-de-derives-commerciales-avec-chatgpt-et-lui-reclamait-134-13378062.php",
@@ -98,36 +128,6 @@
       "description": "Elon Musk a perdu son retentissant procès en Californie contre OpenAI: le milliardaire accusait les créateurs de ChatGPT... Cybersécurité et...",
       "excerpt": "Elon Musk a perdu son retentissant procès en Californie contre OpenAI: le milliardaire accusait les créateurs de ChatGPT... Cybersécurité et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI signe avec Malte et offre ChatGPT Plus gratuit à ses 540 000 résidents - Clubic",
-      "link": "https://www.clubic.com/actualite-613147-openai-signe-avec-malte-et-offre-chatgpt-plus-gratuit-a-ses-540-000-residents.html",
-      "url": "https://www.clubic.com/actualite-613147-openai-signe-avec-malte-et-offre-chatgpt-plus-gratuit-a-ses-540-000-residents.html",
-      "publishedAt": "2026-05-18T18:05:22.000Z",
-      "date": "2026-05-18T18:05:22.000Z",
-      "description": "OpenAI a signé un accord avec le gouvernement maltais pour donner à tous les résidents du pays un accès gratuit à ChatGPT Plus pendant un an.",
-      "excerpt": "OpenAI a signé un accord avec le gouvernement maltais pour donner à tous les résidents du pays un accès gratuit à ChatGPT Plus pendant un an.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "« La triche est devenue omniprésente »: le bouleversement de l'enseignement par l'IA vécu...",
-      "link": "https://www.challenges.fr/entreprise/tech-numerique/la-triche-est-devenue-omnipresente-le-bouleversement-de-lenseignement-par-lia-vecu-de-linterieur-par-un-etudiant-de-stanford_643469",
-      "url": "https://www.challenges.fr/entreprise/tech-numerique/la-triche-est-devenue-omnipresente-le-bouleversement-de-lenseignement-par-lia-vecu-de-linterieur-par-un-etudiant-de-stanford_643469",
-      "publishedAt": "2026-05-18T17:30:58.000Z",
-      "date": "2026-05-18T17:30:58.000Z",
-      "description": "Entré à l'université américaine de Stanford seulement deux mois avant l'arrivée de ChatGPT... Les Assises de la cybersécurité · PRNewswire · Speak...",
-      "excerpt": "Entré à l'université américaine de Stanford seulement deux mois avant l'arrivée de ChatGPT... Les Assises de la cybersécurité · PRNewswire · Speak...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Microsoft veut mettre fin aux pilotes défaillants sur Windows 11 - s2pmag",
-      "link": "https://s2pmag.ch/microsoft-veut-mettre-fin-aux-pilotes-defaillants-sur-windows-11/",
-      "url": "https://s2pmag.ch/microsoft-veut-mettre-fin-aux-pilotes-defaillants-sur-windows-11/",
-      "publishedAt": "2026-05-18T17:30:36.000Z",
-      "date": "2026-05-18T17:30:36.000Z",
-      "description": "... Update. Avec l'arrivée du nouveau système baptisé « Cloud-Initiated... Précédent ChatGPT veut désormais gérer vos finances personnelles en connectant...",
-      "excerpt": "... Update. Avec l'arrivée du nouveau système baptisé « Cloud-Initiated... Précédent ChatGPT veut désormais gérer vos finances personnelles en connectant...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
