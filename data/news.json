@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T14:37:30.924Z",
+  "generatedAt": "2026-05-19T19:42:52.871Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Apple Preparing Siri Revamp With Auto-Deleting Chats - La Nouvelle Tribune",
+      "link": "https://lnt.ma/apple-preparing-siri-revamp-with-auto-deleting-chats/",
+      "url": "https://lnt.ma/apple-preparing-siri-revamp-with-auto-deleting-chats/",
+      "publishedAt": "2026-05-19T18:55:10.000Z",
+      "date": "2026-05-19T18:55:10.000Z",
+      "description": "similar to ChatGPT. —. Privacy will be a key focus,. with Apple... over their personal data. —. In summary: Apple's next Siri update could introduce.",
+      "excerpt": "similar to ChatGPT. —. Privacy will be a key focus,. with Apple... over their personal data. —. In summary: Apple's next Siri update could introduce.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Google Gemini change complètement de design: ChatGPT et Claude perdent un gros avantage",
+      "link": "https://www.numerama.com/tech/2256049-google-gemini-change-completement-de-design-chatgpt-et-claude-perdent-un-gros-avantage.html",
+      "url": "https://www.numerama.com/tech/2256049-google-gemini-change-completement-de-design-chatgpt-et-claude-perdent-un-gros-avantage.html",
+      "publishedAt": "2026-05-19T18:22:05.000Z",
+      "date": "2026-05-19T18:22:05.000Z",
+      "description": "... ChatGPT et Claude. Les interfaces interactives ne sont plus... Cybersécurité: une formation pour devenir le maillon fort de son entreprise...",
+      "excerpt": "... ChatGPT et Claude. Les interfaces interactives ne sont plus... Cybersécurité: une formation pour devenir le maillon fort de son entreprise...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT veut désormais se brancher à vos comptes bancaires, et l'idée soulève déjà pas...",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/chatgpt-veut-desormais-se-brancher-a-vos-comptes-bancaires-et-lidee-souleve-deja-pas-mal-de-questions",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/chatgpt-veut-desormais-se-brancher-a-vos-comptes-bancaires-et-lidee-souleve-deja-pas-mal-de-questions",
+      "publishedAt": "2026-05-19T13:06:09.000Z",
+      "date": "2026-05-19T13:06:09.000Z",
+      "description": "Dernières nouvelles ChatGPT. A birthday party for ChatGPT -4o. ChatGPT OpenAI a tourné la page GPT-4o, mais ses fans, eux, vont jusqu'à célébrer son...",
+      "excerpt": "Dernières nouvelles ChatGPT. A birthday party for ChatGPT -4o. ChatGPT OpenAI a tourné la page GPT-4o, mais ses fans, eux, vont jusqu'à célébrer son...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Elon Musk débouté sèchement face à Sam Altman et OpenAI: Actualités - Orange Actu",
       "link": "https://actu.orange.fr/videos/monde/elon-musk-deboute-sechement-face-a-sam-altman-et-openai-CNT000002pqFhM.html",
@@ -50,6 +80,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "ChatGPT: Overview of Its Development and Impact on AI (ENG101) - Studocu ID",
+      "link": "https://www.studocu.id/id/document/universite-du-quebec-a-montreal/critical-analysis-of-the-advertising-phenomenon/chat-gpt-desole/113640075",
+      "url": "https://www.studocu.id/id/document/universite-du-quebec-a-montreal/critical-analysis-of-the-advertising-phenomenon/chat-gpt-desole/113640075",
+      "publishedAt": "2026-05-19T06:34:07.000Z",
+      "date": "2026-05-19T06:34:07.000Z",
+      "description": "... release spurred the release of competing products, including Gemini... GPT- 4, GPT-4o and GPT-4o mini, that were fine-tuned to target...",
+      "excerpt": "... release spurred the release of competing products, including Gemini... GPT- 4, GPT-4o and GPT-4o mini, that were fine-tuned to target...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Après la santé, OpenAI dote ChatGPT d'une nouvelle fonctionnalité pour la gestion des...",
       "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/apres-la-sante-openai-dote-chatgpt-dune-nouvelle-fonctionnalite-pour-la-gestion-des-finances-personnelles.VRMRFOSX7BD5JAUNYIVQC54PTI.html",
       "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/apres-la-sante-openai-dote-chatgpt-dune-nouvelle-fonctionnalite-pour-la-gestion-des-finances-personnelles.VRMRFOSX7BD5JAUNYIVQC54PTI.html",
@@ -87,46 +127,6 @@
       "date": "2026-05-18T21:44:16.000Z",
       "description": "Cisco Talos cybersécurité · La pub arrive dans ChatGPT: ce que ça change pour vous · Ads...",
       "excerpt": "Cisco Talos cybersécurité · La pub arrive dans ChatGPT: ce que ça change pour vous · Ads...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Elon Musk perd son procès contre OpenAI - 18/05: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/economie/elon-musk-perd-son-proces-contre-openai-18-05-CNT000002ppygz.html",
-      "url": "https://actu.orange.fr/videos/economie/elon-musk-perd-son-proces-contre-openai-18-05-CNT000002ppygz.html",
-      "publishedAt": "2026-05-18T20:58:26.000Z",
-      "date": "2026-05-18T20:58:26.000Z",
-      "description": "... ChatGPT sur l'iPhone, les dernières informations sur la refonte de Siri... Cybersécurité et Télésurveillance. Live Shopping Google. Conseils...",
-      "excerpt": "... ChatGPT sur l'iPhone, les dernières informations sur la refonte de Siri... Cybersécurité et Télésurveillance. Live Shopping Google. Conseils...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "iOS 27 et la nouvelle app Siri: entre confidentialité et mémoire illimitée, Apple a fait son choix",
-      "link": "https://www.iphon.fr/post/ios-27-nouvelle-app-siri-confidentialite-memoire-illimitee-apple-choix",
-      "url": "https://www.iphon.fr/post/ios-27-nouvelle-app-siri-confidentialite-memoire-illimitee-apple-choix",
-      "publishedAt": "2026-05-18T18:49:43.000Z",
-      "date": "2026-05-18T18:49:43.000Z",
-      "description": "La confidentialité serait le mot d'ordre de l'app inspirée de ChatGPT. Le Siri d'iOS 27 ne conservera pas vos conversations comme les autres chatbots...",
-      "excerpt": "La confidentialité serait le mot d'ordre de l'app inspirée de ChatGPT. Le Siri d'iOS 27 ne conservera pas vos conversations comme les autres chatbots...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI a tourné la page GPT-4o, mais ses fans, eux, vont jusqu'à célébrer son anniversaire...",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/openai-a-tourne-la-page-gpt-4o-mais-ses-fans-eux-vont-jusqua-celebrer-son-anniversaire-sur-un-ecran-geant-a-times-square",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/openai-a-tourne-la-page-gpt-4o-mais-ses-fans-eux-vont-jusqua-celebrer-son-anniversaire-sur-un-ecran-geant-a-times-square",
-      "publishedAt": "2026-05-18T18:49:20.000Z",
-      "date": "2026-05-18T18:49:20.000Z",
-      "description": "A birthday party for ChatGPT -4o.... OpenAI a remplacé GPT-4o il y a plusieurs mois, mais certains utilisateurs n'ont toujours pas tourné la page. Ils...",
-      "excerpt": "A birthday party for ChatGPT -4o.... OpenAI a remplacé GPT-4o il y a plusieurs mois, mais certains utilisateurs n'ont toujours pas tourné la page. Ils...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Un jury californien déboute Musk de ses poursuites contre OpenAI - Orange Actu",
-      "link": "https://actu.orange.fr/societe/high-tech/un-jury-californien-deboute-musk-de-ses-poursuites-contre-openai-CNT000002poS5v.html",
-      "url": "https://actu.orange.fr/societe/high-tech/un-jury-californien-deboute-musk-de-ses-poursuites-contre-openai-CNT000002poS5v.html",
-      "publishedAt": "2026-05-18T18:23:58.000Z",
-      "date": "2026-05-18T18:23:58.000Z",
-      "description": "Elon Musk a perdu son retentissant procès en Californie contre OpenAI: le milliardaire accusait les créateurs de ChatGPT... Cybersécurité et...",
-      "excerpt": "Elon Musk a perdu son retentissant procès en Californie contre OpenAI: le milliardaire accusait les créateurs de ChatGPT... Cybersécurité et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
