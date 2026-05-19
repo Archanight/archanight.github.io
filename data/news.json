@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T02:28:14.747Z",
+  "generatedAt": "2026-05-19T08:59:04.608Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Coup dur pour Elon Musk: le milliardaire perd son procès face à OpenAI qu'il accusait de...",
+      "link": "https://www.lindependant.fr/2026/05/19/coup-dur-pour-elon-musk-le-milliardaire-perd-son-proces-face-a-openai-quil-accusait-de-derives-commerciales-avec-chatgpt-et-lui-reclamait-134-13378062.php",
+      "url": "https://www.lindependant.fr/2026/05/19/coup-dur-pour-elon-musk-le-milliardaire-perd-son-proces-face-a-openai-quil-accusait-de-derives-commerciales-avec-chatgpt-et-lui-reclamait-134-13378062.php",
+      "publishedAt": "2026-05-19T06:40:57.000Z",
+      "date": "2026-05-19T06:40:57.000Z",
+      "description": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et industrielles livrées aux agents IA; 5...",
+      "excerpt": "Cybersécurité: ChatGPT, Mistral, Claude, Grok, Perplexity, Gemini… Gare aux données personnelles et industrielles livrées aux agents IA; 5...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Après la santé, OpenAI dote ChatGPT d'une nouvelle fonctionnalité pour la gestion des...",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/apres-la-sante-openai-dote-chatgpt-dune-nouvelle-fonctionnalite-pour-la-gestion-des-finances-personnelles.VRMRFOSX7BD5JAUNYIVQC54PTI.html",
+      "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/apres-la-sante-openai-dote-chatgpt-dune-nouvelle-fonctionnalite-pour-la-gestion-des-finances-personnelles.VRMRFOSX7BD5JAUNYIVQC54PTI.html",
+      "publishedAt": "2026-05-19T04:52:29.000Z",
+      "date": "2026-05-19T04:52:29.000Z",
+      "description": "OpenAI veut capitaliser sur les 200 millions d'utilisateurs qui posaient déjà des questions financières à ChatGPT... cybersécurité · Action collective...",
+      "excerpt": "OpenAI veut capitaliser sur les 200 millions d'utilisateurs qui posaient déjà des questions financières à ChatGPT... cybersécurité · Action collective...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Musk perd sa grande bataille judiciaire contre les créateurs de ChatGPT - Orange Actu",
+      "link": "https://actu.orange.fr/economie/musk-perd-sa-grande-bataille-judiciaire-contre-les-createurs-de-chatgpt-CNT000002poS5v.html",
+      "url": "https://actu.orange.fr/economie/musk-perd-sa-grande-bataille-judiciaire-contre-les-createurs-de-chatgpt-CNT000002poS5v.html",
+      "publishedAt": "2026-05-19T04:11:46.000Z",
+      "date": "2026-05-19T04:11:46.000Z",
+      "description": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact... Dix ans après sa création, ChatGPT est utilisé par plus de 900 millions de...",
+      "excerpt": "Cybersécurité et Télésurveillance. Conseils et ateliers. Aide et contact... Dix ans après sa création, ChatGPT est utilisé par plus de 900 millions de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Apple et OpenAI face à xAI: Craig Federighi impliqué dans le procès antitrust autour de Grok",
       "link": "https://iphoneaddict.fr/post/news-428687-apple-openai-face-xai-craig-federighi-implique-proces-antitrust-autour-grok",
@@ -98,36 +128,6 @@
       "description": "... Update. Avec l'arrivée du nouveau système baptisé « Cloud-Initiated... Précédent ChatGPT veut désormais gérer vos finances personnelles en connectant...",
       "excerpt": "... Update. Avec l'arrivée du nouveau système baptisé « Cloud-Initiated... Précédent ChatGPT veut désormais gérer vos finances personnelles en connectant...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Le conflit auquel personne ne s'attend: Apple et OpenAI, créateur de ChatGPT, seraient au...",
-      "link": "https://www.presse-citron.net/le-conflit-auquel-personne-ne-sattend-apple-et-openai-createur-de-chatgpt-seraient-au-bord-du-proces/",
-      "url": "https://www.presse-citron.net/le-conflit-auquel-personne-ne-sattend-apple-et-openai-createur-de-chatgpt-seraient-au-bord-du-proces/",
-      "publishedAt": "2026-05-18T17:18:29.000Z",
-      "date": "2026-05-18T17:18:29.000Z",
-      "description": "Pour rappel, les deux entreprises se sont associées en 2024 pour intégrer des fonctionnalités de ChatGPT sur l'iPhone. Setra. Publié le 18 mai 2026 à...",
-      "excerpt": "Pour rappel, les deux entreprises se sont associées en 2024 pour intégrer des fonctionnalités de ChatGPT sur l'iPhone. Setra. Publié le 18 mai 2026 à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Laisser ChatGPT fouiller votre compte en banque: génial ou dangereux? - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/laisser-chatgpt-fouiller-votre-compte-en-banque-genial-ou-dangereux",
-      "url": "https://www.lebigdata.fr/laisser-chatgpt-fouiller-votre-compte-en-banque-genial-ou-dangereux",
-      "publishedAt": "2026-05-18T15:30:06.000Z",
-      "date": "2026-05-18T15:30:06.000Z",
-      "description": "ChatGPT peut désormais accéder à votre compte en banque pour analyser vos dépenses... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
-      "excerpt": "ChatGPT peut désormais accéder à votre compte en banque pour analyser vos dépenses... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Présidentielle 2027: ChatGPT ou Gemini pourrait « influencer l'ultime choix de plusieurs...",
-      "link": "https://www.01net.com/actualites/presidentielle-2027-chatgpt-ou-gemini-pourrait-influencer-lultime-choix-de-plusieurs-millions-de-francais-selon-cette-etude.html",
-      "url": "https://www.01net.com/actualites/presidentielle-2027-chatgpt-ou-gemini-pourrait-influencer-lultime-choix-de-plusieurs-millions-de-francais-selon-cette-etude.html",
-      "publishedAt": "2026-05-18T15:22:11.000Z",
-      "date": "2026-05-18T15:22:11.000Z",
-      "description": "ChatGPT ou Gemini vont-ils changer le casting de la prochaine présidentielle?... Cybersécurité · Société · Télécoms · Auto · Médias · Politique &...",
-      "excerpt": "ChatGPT ou Gemini vont-ils changer le casting de la prochaine présidentielle?... Cybersécurité · Société · Télécoms · Auto · Médias · Politique &...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
