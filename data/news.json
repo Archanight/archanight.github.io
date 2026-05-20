@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T02:28:34.527Z",
+  "generatedAt": "2026-05-20T08:53:39.118Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Ces deux nouveautés IA Shopify vont plaire aux professionnels du e-commerce: ce qu'il faut savoir",
+      "link": "https://www.leptidigital.fr/e-commerce/nouveautes-ia-shopify-89980/",
+      "url": "https://www.leptidigital.fr/e-commerce/nouveautes-ia-shopify-89980/",
+      "publishedAt": "2026-05-20T07:40:31.000Z",
+      "date": "2026-05-20T07:40:31.000Z",
+      "description": "Et si piloter une boutique e-commerce devenait aussi simple qu'envoyer un message dans ChatGPT ou Claude? Shopify vient d'annoncer deux...",
+      "excerpt": "Et si piloter une boutique e-commerce devenait aussi simple qu'envoyer un message dans ChatGPT ou Claude? Shopify vient d'annoncer deux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google Gemini иловасини янгилаб, ChatGPT ва Claude билан рақобатни кучайтирди - Zamin.uz",
+      "link": "https://zamin.uz/fr/technologie/202083-google-met-a-jour-l-application-gemini-et-intensifie-la-concurrence-avec-chatgpt-et-claude.html",
+      "url": "https://zamin.uz/fr/technologie/202083-google-met-a-jour-l-application-gemini-et-intensifie-la-concurrence-avec-chatgpt-et-claude.html",
+      "publishedAt": "2026-05-20T03:59:37.000Z",
+      "date": "2026-05-20T03:59:37.000Z",
+      "description": "Google met à jour l'application Gemini et intensifie la concurrence avec ChatGPT et Claude... De jeune hacker à fondateur en cybersécurité: Ocean lève...",
+      "excerpt": "Google met à jour l'application Gemini et intensifie la concurrence avec ChatGPT et Claude... De jeune hacker à fondateur en cybersécurité: Ocean lève...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le nombre d'élèves performants a augmenté depuis l'introduction de ChatGPT. - Vietnam.vn",
       "link": "https://www.vietnam.vn/fr/sinh-vien-gioi-gia-tang-ke-tu-khi-chatgpt-xuat-hien",
@@ -108,26 +128,6 @@
       "description": "Dernières nouvelles ChatGPT. A birthday party for ChatGPT -4o. ChatGPT OpenAI a tourné la page GPT-4o, mais ses fans, eux, vont jusqu'à célébrer son...",
       "excerpt": "Dernières nouvelles ChatGPT. A birthday party for ChatGPT -4o. ChatGPT OpenAI a tourné la page GPT-4o, mais ses fans, eux, vont jusqu'à célébrer son...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Elon Musk débouté sèchement face à Sam Altman et OpenAI: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/monde/elon-musk-deboute-sechement-face-a-sam-altman-et-openai-CNT000002pqFhM.html",
-      "url": "https://actu.orange.fr/videos/monde/elon-musk-deboute-sechement-face-a-sam-altman-et-openai-CNT000002pqFhM.html",
-      "publishedAt": "2026-05-19T10:20:44.000Z",
-      "date": "2026-05-19T10:20:44.000Z",
-      "description": "Elon Musk a perdu son bras de fer judiciaire contre OpenAI. Le milliardaire accusait l'entreprise derrière ChatGPT... Cybersécurité et Télésurveillance.",
-      "excerpt": "Elon Musk a perdu son bras de fer judiciaire contre OpenAI. Le milliardaire accusait l'entreprise derrière ChatGPT... Cybersécurité et Télésurveillance.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI et Dell rapprochent Codex des données d'entreprise sur site et en environnement hybride",
-      "link": "https://itsocial.fr/cloud-infrastructure-it/cloud-infrastructure-it-actualites/openai-et-dell-rapprochent-codex-des-donnees-dentreprise-sur-site-et-en-environnement-hybride/",
-      "url": "https://itsocial.fr/cloud-infrastructure-it/cloud-infrastructure-it-actualites/openai-et-dell-rapprochent-codex-des-donnees-dentreprise-sur-site-et-en-environnement-hybride/",
-      "publishedAt": "2026-05-19T09:24:31.000Z",
-      "date": "2026-05-19T09:24:31.000Z",
-      "description": "... ChatGPT Enterprise, les API OpenAI et Dell AI... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "excerpt": "... ChatGPT Enterprise, les API OpenAI et Dell AI... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
