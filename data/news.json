@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T14:41:36.895Z",
+  "generatedAt": "2026-05-21T19:43:21.904Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,116 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Canva complète son tour des IA: après Claude et ChatGPT, c'est Gemini qui fait son entrée",
+      "link": "https://www.01net.com/actualites/canva-complete-son-tour-des-ia-apres-claude-et-chatgpt-cest-gemini-qui-fait-son-entree.html",
+      "url": "https://www.01net.com/actualites/canva-complete-son-tour-des-ia-apres-claude-et-chatgpt-cest-gemini-qui-fait-son-entree.html",
+      "publishedAt": "2026-05-21T16:14:08.000Z",
+      "date": "2026-05-21T16:14:08.000Z",
+      "description": "Canva complète son tour des IA: après Claude et ChatGPT, c'est Gemini qui fait son entrée... Cybersécurité · Société · Télécoms · Auto · Médias...",
+      "excerpt": "Canva complète son tour des IA: après Claude et ChatGPT, c'est Gemini qui fait son entrée... Cybersécurité · Société · Télécoms · Auto · Médias...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT vient de résoudre un problème mathématique vieux de près de 100 ans",
+      "link": "https://www.journaldugeek.com/2026/05/21/chatgpt-vient-de-resoudre-un-probleme-mathematique-vieux-de-pres-de-100-ans/",
+      "url": "https://www.journaldugeek.com/2026/05/21/chatgpt-vient-de-resoudre-un-probleme-mathematique-vieux-de-pres-de-100-ans/",
+      "publishedAt": "2026-05-21T16:07:37.000Z",
+      "date": "2026-05-21T16:07:37.000Z",
+      "description": "GPT-5.2, le dernier modèle d'OpenAI, a réussi à produire une... Rapport cybersécurité 2024. Qui est First VPN, le VPN des hackers, qui a été...",
+      "excerpt": "GPT-5.2, le dernier modèle d'OpenAI, a réussi à produire une... Rapport cybersécurité 2024. Qui est First VPN, le VPN des hackers, qui a été...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA: ChatGPT veut s'occuper de votre compte bancaire (et c'est flippant) - Journal du Geek",
+      "link": "https://www.journaldugeek.com/2026/05/21/ia-chatgpt-veut-soccuper-de-votre-compte-bancaire-et-cest-flippant/",
+      "url": "https://www.journaldugeek.com/2026/05/21/ia-chatgpt-veut-soccuper-de-votre-compte-bancaire-et-cest-flippant/",
+      "publishedAt": "2026-05-21T15:08:19.000Z",
+      "date": "2026-05-21T15:08:19.000Z",
+      "description": "ChatGPT redirige alors vers Plaid, le partenaire technique qui... Rapport cybersécurité 2024. Qui est First VPN, le VPN des hackers, qui a...",
+      "excerpt": "ChatGPT redirige alors vers Plaid, le partenaire technique qui... Rapport cybersécurité 2024. Qui est First VPN, le VPN des hackers, qui a...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Faux scandales, candidats imaginaires: ChatGPT et consorts ont désinformé les électeurs... - BFM",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/faux-scandales-candidats-imaginaires-chat-gpt-et-consorts-ont-desinforme-les-electeurs-ecossais-et-gallois-selon-une-etude-le-gouvernement-britannique-appelle-a-faire-de-la-lutte-contre-cette-menace-une-priorite-absolue_AV-202605210510.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/faux-scandales-candidats-imaginaires-chat-gpt-et-consorts-ont-desinforme-les-electeurs-ecossais-et-gallois-selon-une-etude-le-gouvernement-britannique-appelle-a-faire-de-la-lutte-contre-cette-menace-une-priorite-absolue_AV-202605210510.html",
+      "publishedAt": "2026-05-21T14:49:59.000Z",
+      "date": "2026-05-21T14:49:59.000Z",
+      "description": "France et cybersécurité · Actualités Tech · IA · Réseaux sociaux... ChatGPT à l'ouest, Grok bon élève. Les résultats sont sans appel: dans l'étude...",
+      "excerpt": "France et cybersécurité · Actualités Tech · IA · Réseaux sociaux... ChatGPT à l'ouest, Grok bon élève. Les résultats sont sans appel: dans l'étude...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT obtient le meilleur score aux examens d'entrée des universités de Tokyo et de Kyoto.",
+      "link": "https://www.vietnam.vn/fr/tin-quoc-te-ngay-28-4-chatgpt-dat-thu-khoa-ky-thi-dau-vao-dai-hoc-tokyo-va-kyoto",
+      "url": "https://www.vietnam.vn/fr/tin-quoc-te-ngay-28-4-chatgpt-dat-thu-khoa-ky-thi-dau-vao-dai-hoc-tokyo-va-kyoto",
+      "publishedAt": "2026-05-21T14:39:29.000Z",
+      "date": "2026-05-21T14:39:29.000Z",
+      "description": "ChatGPT obtient le meilleur score aux examens d'entrée des... Loi sur la cybersécurité 2025: Un « bouclier » contre la menace des...",
+      "excerpt": "ChatGPT obtient le meilleur score aux examens d'entrée des... Loi sur la cybersécurité 2025: Un « bouclier » contre la menace des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI ( ChatGPT ) vient de résoudre un problème de géométrie vieux de 80 ans",
+      "link": "https://www.numerama.com/tech/2257419-aucune-hesitation-une-ia-dopenai-a-terrasse-un-probleme-de-geometrie-vieux-de-80-ans.html",
+      "url": "https://www.numerama.com/tech/2257419-aucune-hesitation-une-ia-dopenai-a-terrasse-un-probleme-de-geometrie-vieux-de-80-ans.html",
+      "publishedAt": "2026-05-21T14:37:28.000Z",
+      "date": "2026-05-21T14:37:28.000Z",
+      "description": "Le modèle d'IA GPT-5.2 Pro a résolu plusieurs problèmes de mathématiques,.",
+      "excerpt": "Le modèle d'IA GPT-5.2 Pro a résolu plusieurs problèmes de mathématiques,.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Nvidia promet des drivers stables dans ses notes, les PC continuent de planter",
+      "link": "https://charlestech.fr/nvidia-promet-drivers-stables-notes-pc-continuent-planter/",
+      "url": "https://charlestech.fr/nvidia-promet-drivers-stables-notes-pc-continuent-planter/",
+      "publishedAt": "2026-05-21T14:34:06.000Z",
+      "date": "2026-05-21T14:34:06.000Z",
+      "description": "La situation illustre un glissement notable: les notes de version... ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que...",
+      "excerpt": "La situation illustre un glissement notable: les notes de version... ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Étude GEO: Combien de temps faut-il attendre pour être cité par les IA? - Leptidigital",
+      "link": "https://www.leptidigital.fr/webmarketing/seo/etude-geo-temps-attente-citation-ia-90093/",
+      "url": "https://www.leptidigital.fr/webmarketing/seo/etude-geo-temps-attente-citation-ia-90093/",
+      "publishedAt": "2026-05-21T13:36:34.000Z",
+      "date": "2026-05-21T13:36:34.000Z",
+      "description": "Une étude publiée par l'équipe de Profound révèle qu'un contenu marketing met en médiane 6,81 jours avant d'être cité dans ChatGPT, Claude ou Gemini.",
+      "excerpt": "Une étude publiée par l'équipe de Profound révèle qu'un contenu marketing met en médiane 6,81 jours avant d'être cité dans ChatGPT, Claude ou Gemini.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "YouTube Premium est désormais inclus gratuitement dans l'abonnement Google AI Pro",
+      "link": "https://www.lacremedugaming.fr/high-tech/youtube-premium-est-desormais-inclus-gratuitement-dans-labonnement-google-ai-pro-214573.html",
+      "url": "https://www.lacremedugaming.fr/high-tech/youtube-premium-est-desormais-inclus-gratuitement-dans-labonnement-google-ai-pro-214573.html",
+      "publishedAt": "2026-05-21T13:33:14.000Z",
+      "date": "2026-05-21T13:33:14.000Z",
+      "description": "À 21,99 € par mois, Google AI Pro inclut désormais YouTube Premium Lite en France et bouscule ChatGPT Plus avec un bundle IA + YouTube très...",
+      "excerpt": "À 21,99 € par mois, Google AI Pro inclut désormais YouTube Premium Lite en France et bouscule ChatGPT Plus avec un bundle IA + YouTube très...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "92 000 attaques par maliciels déguisés en outils d'IA depuis janvier 2026 - IT SOCIAL",
+      "link": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/92-000-attaques-par-maliciels-deguises-en-outils-dia-depuis-janvier-2026/",
+      "url": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/92-000-attaques-par-maliciels-deguises-en-outils-dia-depuis-janvier-2026/",
+      "publishedAt": "2026-05-21T13:26:47.000Z",
+      "date": "2026-05-21T13:26:47.000Z",
+      "description": "Cybersécurité Cybersécurité - Actualités 92 000 attaques par maliciels... Les fausses applications ChatGPT ont représenté 49 % des attaques...",
+      "excerpt": "Cybersécurité Cybersécurité - Actualités 92 000 attaques par maliciels... Les fausses applications ChatGPT ont représenté 49 % des attaques...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "«IA piégée»: de faux ChatGPT et Claude infiltrent les systèmes et volent des données",
+      "link": "https://www.cnews.fr/monde/2026-05-21/ia-piegee-de-faux-chatgpt-et-claude-infiltrent-les-systemes-et-volent-des-donnees",
+      "url": "https://www.cnews.fr/monde/2026-05-21/ia-piegee-de-faux-chatgpt-et-claude-infiltrent-les-systemes-et-volent-des-donnees",
+      "publishedAt": "2026-05-21T13:10:26.000Z",
+      "date": "2026-05-21T13:10:26.000Z",
+      "description": "Telles sont en substance les conclusions de l'étude du spécialiste en cybersécurité Kaspersky. Plus de 92.000 attaques, dissimulées derrière de...",
+      "excerpt": "Telles sont en substance les conclusions de l'étude du spécialiste en cybersécurité Kaspersky. Plus de 92.000 attaques, dissimulées derrière de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Klarna lance une application de recherche d'achats basée sur l'IA dans ChatGPT",
       "link": "https://www.businesswire.com/news/home/20260520264378/fr",
       "url": "https://www.businesswire.com/news/home/20260520264378/fr",
@@ -18,116 +128,6 @@
       "description": "Avec l'application Klarna Shopping Search sur ChatGPT, il leur suffit de décrire ce qu'ils recherchent pour voir instantanément s'afficher des...",
       "excerpt": "Avec l'application Klarna Shopping Search sur ChatGPT, il leur suffit de décrire ce qu'ils recherchent pour voir instantanément s'afficher des...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT -OpenAI phone specs, release date leak: 2nm MediaTek SoC, LPDDR6 RAM, UFS...",
-      "link": "https://www.notebookcheck.biz/ChatGPT-OpenAI-phone-specs-release-date-leak-2nm-MediaTek-SoC-LPDDR6-RAM-UFS-5-0-storage-more.1301855.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-OpenAI-phone-specs-release-date-leak-2nm-MediaTek-SoC-LPDDR6-RAM-UFS-5-0-storage-more.1301855.0.html",
-      "publishedAt": "2026-05-20T21:39:54.000Z",
-      "date": "2026-05-20T21:39:54.000Z",
-      "description": "ChatGPT -OpenAI phone specs, release date leak: 2nm MediaTek SoC, LPDDR6 RAM, UFS 5.0 storage, more. OpenAI espère vendre au moins 30 millions de...",
-      "excerpt": "ChatGPT -OpenAI phone specs, release date leak: 2nm MediaTek SoC, LPDDR6 RAM, UFS 5.0 storage, more. OpenAI espère vendre au moins 30 millions de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Elon Musk vs ChatGPT: résumé express #shorts - YouTube",
-      "link": "https://www.youtube.com/watch?v=W6qJGy1rpQk",
-      "url": "https://www.youtube.com/watch?v=W6qJGy1rpQk",
-      "publishedAt": "2026-05-20T17:46:38.000Z",
-      "date": "2026-05-20T17:46:38.000Z",
-      "description": "Elon Musk attaque OpenAI, créateur de ChatGPT, pour avoir créé Grok, son concurrent. Mais la justice a rejeté sa plainte, le délai de recours...",
-      "excerpt": "Elon Musk attaque OpenAI, créateur de ChatGPT, pour avoir créé Grok, son concurrent. Mais la justice a rejeté sa plainte, le délai de recours...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Cette licence avec toutes les IA à vie coûte moins cher qu'un mois de ChatGPT Plus! (-89%)",
-      "link": "https://www.clubic.com/bons-plans-613273-pour-ne-plus-payer-d-abonnements-ia-separes-1min-ai-atteint-son-tarif-le-plus-bas.html",
-      "url": "https://www.clubic.com/bons-plans-613273-pour-ne-plus-payer-d-abonnements-ia-separes-1min-ai-atteint-son-tarif-le-plus-bas.html",
-      "publishedAt": "2026-05-20T17:16:07.000Z",
-      "date": "2026-05-20T17:16:07.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... GPT-5, Claude, Gemini Pro, Mistral et une quarantaine d'autres sont...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... GPT-5, Claude, Gemini Pro, Mistral et une quarantaine d'autres sont...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ingérence, manipulation du vote... Les chatbots IA ( ChatGPT et Gemini) sont sous haute...",
-      "link": "https://www.01net.com/actualites/ingerence-manipulation-du-vote-les-chatbots-ia-chatgpt-et-gemini-sont-sous-haute-surveillance-de-larcom.html",
-      "url": "https://www.01net.com/actualites/ingerence-manipulation-du-vote-les-chatbots-ia-chatgpt-et-gemini-sont-sous-haute-surveillance-de-larcom.html",
-      "publishedAt": "2026-05-20T15:16:16.000Z",
-      "date": "2026-05-20T15:16:16.000Z",
-      "description": "ChatGPT et Gemini sont dans le collimateur de l'Arcom: le... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "excerpt": "ChatGPT et Gemini sont dans le collimateur de l'Arcom: le... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Andrej Karpathy, co-fondateur d'OpenAI, rejoint Anthropic - KultureGeek",
-      "link": "https://kulturegeek.fr/news-352442/andrej-karpathy-co-fondateur-dopenai-rejoint-anthropic",
-      "url": "https://kulturegeek.fr/news-352442/andrej-karpathy-co-fondateur-dopenai-rejoint-anthropic",
-      "publishedAt": "2026-05-20T14:52:51.000Z",
-      "date": "2026-05-20T14:52:51.000Z",
-      "description": "Personal update: I've joined Anthropic. I think the next few years at... ChatGPT, Gemini et Grok. Le recrutement de Karpathy ne garantit...",
-      "excerpt": "Personal update: I've joined Anthropic. I think the next few years at... ChatGPT, Gemini et Grok. Le recrutement de Karpathy ne garantit...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Ne vous faites plus avoir: les images de ChatGPT ont désormais une \"marque\" - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/ne-vous-faites-plus-avoir-les-images-de-chatgpt-ont-desormais-une-marque",
-      "url": "https://www.lebigdata.fr/ne-vous-faites-plus-avoir-les-images-de-chatgpt-ont-desormais-une-marque",
-      "publishedAt": "2026-05-20T14:43:41.000Z",
-      "date": "2026-05-20T14:43:41.000Z",
-      "description": "OpenAI ajoute SynthID aux images de ChatGPT pour identifier les contenus créés par IA grâce à un tatouage invisible.",
-      "excerpt": "OpenAI ajoute SynthID aux images de ChatGPT pour identifier les contenus créés par IA grâce à un tatouage invisible.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "En direct de Santexpo 2026: Shadow IT, IA et cybersécurité … - DSIH",
-      "link": "https://dsih.fr/articles/6293/en-direct-de-santexpo-2026-shadow-it-ia-et-cybersecurite-de-limportance-dune-formation-complete-des-soignants",
-      "url": "https://dsih.fr/articles/6293/en-direct-de-santexpo-2026-shadow-it-ia-et-cybersecurite-de-limportance-dune-formation-complete-des-soignants",
-      "publishedAt": "2026-05-20T14:39:48.000Z",
-      "date": "2026-05-20T14:39:48.000Z",
-      "description": "... Chatgpt en santé# Cybersécurité hospitalière. Avez-vous apprécié ce contenu? A lire également. Illustration En direct de SantExpo: Phénix® Care...",
-      "excerpt": "... Chatgpt en santé# Cybersécurité hospitalière. Avez-vous apprécié ce contenu? A lire également. Illustration En direct de SantExpo: Phénix® Care...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Ads Manager: l'outil que vous attendez pour gérer vos campagnes publicitaires",
-      "link": "https://www.lebigdata.fr/chatgpt-ads-manager-loutil-que-vous-attendez-pour-gerer-vos-campagnes-publicitaires",
-      "url": "https://www.lebigdata.fr/chatgpt-ads-manager-loutil-que-vous-attendez-pour-gerer-vos-campagnes-publicitaires",
-      "publishedAt": "2026-05-20T14:21:51.000Z",
-      "date": "2026-05-20T14:21:51.000Z",
-      "description": "ChatGPT Ads Manager a récemment fait son entrée sur le marché américain... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
-      "excerpt": "ChatGPT Ads Manager a récemment fait son entrée sur le marché américain... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance un outil pour identifier les images créées par ChatGPT - BDM",
-      "link": "https://www.blogdumoderateur.com/openai-outil-identifier-images-chatgpt/",
-      "url": "https://www.blogdumoderateur.com/openai-outil-identifier-images-chatgpt/",
-      "publishedAt": "2026-05-20T13:42:02.000Z",
-      "date": "2026-05-20T13:42:02.000Z",
-      "description": "... ChatGPT. D'autre part, SynthID, un filigrane invisible développé... Cybersécurité: qu'est-ce que Daybreak, la nouvelle initiative d'OpenAI...",
-      "excerpt": "... ChatGPT. D'autre part, SynthID, un filigrane invisible développé... Cybersécurité: qu'est-ce que Daybreak, la nouvelle initiative d'OpenAI...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT devient nettement plus fiable quand il apprend à ne plus se faire confiance",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/chatgpt-devient-nettement-plus-fiable-quand-il-apprend-a-ne-plus-se-faire-confiance",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/chatgpt-devient-nettement-plus-fiable-quand-il-apprend-a-ne-plus-se-faire-confiance",
-      "publishedAt": "2026-05-20T13:28:50.000Z",
-      "date": "2026-05-20T13:28:50.000Z",
-      "description": "A birthday party for ChatGPT -4o. ChatGPT OpenAI a tourné la page GPT-4o, mais ses fans, eux, vont jusqu'à célébrer son anniversaire sur un écran géant...",
-      "excerpt": "A birthday party for ChatGPT -4o. ChatGPT OpenAI a tourné la page GPT-4o, mais ses fans, eux, vont jusqu'à célébrer son anniversaire sur un écran géant...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Les entreprises russes confrontées au problème de l'intelligence artificielle \"fantôme\"",
-      "link": "https://zamin.uz/fr/technologie/202233-les-entreprises-russes-confrontees-au-probleme-de-l-intelligence-artificielle-fantome.html",
-      "url": "https://zamin.uz/fr/technologie/202233-les-entreprises-russes-confrontees-au-probleme-de-l-intelligence-artificielle-fantome.html",
-      "publishedAt": "2026-05-20T12:05:01.000Z",
-      "date": "2026-05-20T12:05:01.000Z",
-      "description": "... cybersécurité. Intelligence ArtificielleTechnologie CybersécuritéChatGPT Russie · +... Suivre Zamin.uz sur Google. Telegram Lisez “Zamin” sur Telegram...",
-      "excerpt": "... cybersécurité. Intelligence ArtificielleTechnologie CybersécuritéChatGPT Russie · +... Suivre Zamin.uz sur Google. Telegram Lisez “Zamin” sur Telegram...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
