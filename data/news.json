@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T20:01:52.970Z",
+  "generatedAt": "2026-05-21T02:28:51.560Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT -OpenAI phone specs, release date leak: 2nm MediaTek SoC, LPDDR6 RAM, UFS...",
+      "link": "https://www.notebookcheck.biz/ChatGPT-OpenAI-phone-specs-release-date-leak-2nm-MediaTek-SoC-LPDDR6-RAM-UFS-5-0-storage-more.1301855.0.html",
+      "url": "https://www.notebookcheck.biz/ChatGPT-OpenAI-phone-specs-release-date-leak-2nm-MediaTek-SoC-LPDDR6-RAM-UFS-5-0-storage-more.1301855.0.html",
+      "publishedAt": "2026-05-20T21:39:54.000Z",
+      "date": "2026-05-20T21:39:54.000Z",
+      "description": "ChatGPT -OpenAI phone specs, release date leak: 2nm MediaTek SoC, LPDDR6 RAM, UFS 5.0 storage, more. OpenAI espère vendre au moins 30 millions de...",
+      "excerpt": "ChatGPT -OpenAI phone specs, release date leak: 2nm MediaTek SoC, LPDDR6 RAM, UFS 5.0 storage, more. OpenAI espère vendre au moins 30 millions de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Elon Musk vs ChatGPT: résumé express #shorts - YouTube",
       "link": "https://www.youtube.com/watch?v=W6qJGy1rpQk",
@@ -117,16 +127,6 @@
       "date": "2026-05-20T10:00:49.000Z",
       "description": "HubSpot AEO Sensor: comment cet outil gratuit mesure la volatilité des moteurs IA ( ChatGPT... Cybersécurité · Web analytics · WordPress · Webdesign...",
       "excerpt": "HubSpot AEO Sensor: comment cet outil gratuit mesure la volatilité des moteurs IA ( ChatGPT... Cybersécurité · Web analytics · WordPress · Webdesign...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ces deux nouveautés IA Shopify vont plaire aux professionnels du e-commerce: ce qu'il faut savoir",
-      "link": "https://www.leptidigital.fr/e-commerce/nouveautes-ia-shopify-89980/",
-      "url": "https://www.leptidigital.fr/e-commerce/nouveautes-ia-shopify-89980/",
-      "publishedAt": "2026-05-20T07:40:31.000Z",
-      "date": "2026-05-20T07:40:31.000Z",
-      "description": "Et si piloter une boutique e-commerce devenait aussi simple qu'envoyer un message dans ChatGPT ou Claude? Shopify vient d'annoncer deux...",
-      "excerpt": "Et si piloter une boutique e-commerce devenait aussi simple qu'envoyer un message dans ChatGPT ou Claude? Shopify vient d'annoncer deux...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
