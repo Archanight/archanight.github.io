@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T02:28:51.560Z",
+  "generatedAt": "2026-05-21T08:56:53.356Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Klarna lance une application de recherche d'achats basée sur l'IA dans ChatGPT",
+      "link": "https://www.businesswire.com/news/home/20260520264378/fr",
+      "url": "https://www.businesswire.com/news/home/20260520264378/fr",
+      "publishedAt": "2026-05-21T07:17:01.000Z",
+      "date": "2026-05-21T07:17:01.000Z",
+      "description": "Avec l'application Klarna Shopping Search sur ChatGPT, il leur suffit de décrire ce qu'ils recherchent pour voir instantanément s'afficher des...",
+      "excerpt": "Avec l'application Klarna Shopping Search sur ChatGPT, il leur suffit de décrire ce qu'ils recherchent pour voir instantanément s'afficher des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "ChatGPT -OpenAI phone specs, release date leak: 2nm MediaTek SoC, LPDDR6 RAM, UFS...",
       "link": "https://www.notebookcheck.biz/ChatGPT-OpenAI-phone-specs-release-date-leak-2nm-MediaTek-SoC-LPDDR6-RAM-UFS-5-0-storage-more.1301855.0.html",
@@ -117,16 +127,6 @@
       "date": "2026-05-20T12:05:01.000Z",
       "description": "... cybersécurité. Intelligence ArtificielleTechnologie CybersécuritéChatGPT Russie · +... Suivre Zamin.uz sur Google. Telegram Lisez “Zamin” sur Telegram...",
       "excerpt": "... cybersécurité. Intelligence ArtificielleTechnologie CybersécuritéChatGPT Russie · +... Suivre Zamin.uz sur Google. Telegram Lisez “Zamin” sur Telegram...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "HubSpot AEO Sensor: l'outil gratuit qui mesure la volatilité de votre visibilité IA - Leptidigital",
-      "link": "https://www.leptidigital.fr/webmarketing/seo/hubspot-aeo-sensor-outil-gratuit-mesure-volatilite-visibilite-ia-90113/",
-      "url": "https://www.leptidigital.fr/webmarketing/seo/hubspot-aeo-sensor-outil-gratuit-mesure-volatilite-visibilite-ia-90113/",
-      "publishedAt": "2026-05-20T10:00:49.000Z",
-      "date": "2026-05-20T10:00:49.000Z",
-      "description": "HubSpot AEO Sensor: comment cet outil gratuit mesure la volatilité des moteurs IA ( ChatGPT... Cybersécurité · Web analytics · WordPress · Webdesign...",
-      "excerpt": "HubSpot AEO Sensor: comment cet outil gratuit mesure la volatilité des moteurs IA ( ChatGPT... Cybersécurité · Web analytics · WordPress · Webdesign...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
