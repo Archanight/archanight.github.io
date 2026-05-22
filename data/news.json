@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T14:17:16.192Z",
+  "generatedAt": "2026-05-22T19:23:00.038Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le phishing sur mobile représente désormais une menace plus importante que celui par e-mail",
+      "link": "https://www.zdnet.fr/actualites/le-phishing-sur-mobile-represente-desormais-une-menace-plus-importante-que-celui-par-e-mail-comment-se-proteger-495383.htm",
+      "url": "https://www.zdnet.fr/actualites/le-phishing-sur-mobile-represente-desormais-une-menace-plus-importante-que-celui-par-e-mail-comment-se-proteger-495383.htm",
+      "publishedAt": "2026-05-22T16:43:43.000Z",
+      "date": "2026-05-22T16:43:43.000Z",
+      "description": "Les pirates se tournent vers les SMS et les appels téléphoniques à mesure que les systèmes de protection des e-mails s'améliorent.",
+      "excerpt": "Les pirates se tournent vers les SMS et les appels téléphoniques à mesure que les systèmes de protection des e-mails s'améliorent.",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
     {
       "title": "OpenAI: une IA a résolu un problème de maths irrésolu depuis 1946... en toute autonomie",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/openai-une-ia-a-resolu-un-probleme-de-maths-irresolu-depuis-1946-en-toute-autonomie-n256294.html",
@@ -20,6 +30,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
+      "title": "Le logiciel ChatGPT est-il responsable de l'explosion des notes A dans les universités américaines?",
+      "link": "https://www.vietnam.vn/fr/chatgpt-khien-diem-a-bung-no-o-dai-hoc-my",
+      "url": "https://www.vietnam.vn/fr/chatgpt-khien-diem-a-bung-no-o-dai-hoc-my",
+      "publishedAt": "2026-05-22T10:39:37.000Z",
+      "date": "2026-05-22T10:39:37.000Z",
+      "description": "L'essor de ChatGPT suscite un débat majeur dans l'enseignement supérieur, car de plus en plus de recherches suggèrent que l'IA pourrait contribuer à...",
+      "excerpt": "L'essor de ChatGPT suscite un débat majeur dans l'enseignement supérieur, car de plus en plus de recherches suggèrent que l'IA pourrait contribuer à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Google a publié par erreur les détails d'une faille qui touche des dizaines de navigateurs...",
       "link": "https://www.bfmtv.com/tech/cybersecurite/google-a-publie-par-erreur-les-details-d-une-faille-qui-touche-des-dizaines-de-navigateurs-comme-chrome-edge-ou-opera-des-millions-d-ordinateurs-sont-menaces-de-devenir-des-pc-zombies_AN-202605220388.html",
       "url": "https://www.bfmtv.com/tech/cybersecurite/google-a-publie-par-erreur-les-details-d-une-faille-qui-touche-des-dizaines-de-navigateurs-comme-chrome-edge-ou-opera-des-millions-d-ordinateurs-sont-menaces-de-devenir-des-pc-zombies_AN-202605220388.html",
@@ -27,6 +47,16 @@
       "date": "2026-05-22T10:24:55.000Z",
       "description": "... ChatGPT Atlas. Cette vulnérabilité, permettrait de surveiller un... France et cybersécurité · Actualités Tech · IA · Réseaux sociaux · Cybersécurité...",
       "excerpt": "... ChatGPT Atlas. Cette vulnérabilité, permettrait de surveiller un... France et cybersécurité · Actualités Tech · IA · Réseaux sociaux · Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Gemini intègre bientôt Capcut pour monter vos vidéos à l'aide d'un simple prompt",
+      "link": "https://www.phonandroid.com/gemini-integre-bientot-capcut-pour-monter-vos-videos-a-laide-dun-simple-prompt.html",
+      "url": "https://www.phonandroid.com/gemini-integre-bientot-capcut-pour-monter-vos-videos-a-laide-dun-simple-prompt.html",
+      "publishedAt": "2026-05-22T09:41:16.000Z",
+      "date": "2026-05-22T09:41:16.000Z",
+      "description": "Cybersécurité... Si l'on ajoute à cela la nouvelle formule d'abonnement qui s'aligne directement sur celle de ChatGPT, la stratégie de Google est on ne...",
+      "excerpt": "Cybersécurité... Si l'on ajoute à cela la nouvelle formule d'abonnement qui s'aligne directement sur celle de ChatGPT, la stratégie de Google est on ne...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -97,36 +127,6 @@
       "date": "2026-05-21T16:14:08.000Z",
       "description": "Canva complète son tour des IA: après Claude et ChatGPT, c'est Gemini qui fait son entrée... Cybersécurité · Société · Télécoms · Auto · Médias...",
       "excerpt": "Canva complète son tour des IA: après Claude et ChatGPT, c'est Gemini qui fait son entrée... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT vient de résoudre un problème mathématique vieux de près de 100 ans",
-      "link": "https://www.journaldugeek.com/2026/05/21/chatgpt-vient-de-resoudre-un-probleme-mathematique-vieux-de-pres-de-100-ans/",
-      "url": "https://www.journaldugeek.com/2026/05/21/chatgpt-vient-de-resoudre-un-probleme-mathematique-vieux-de-pres-de-100-ans/",
-      "publishedAt": "2026-05-21T16:07:37.000Z",
-      "date": "2026-05-21T16:07:37.000Z",
-      "description": "GPT-5.2, le dernier modèle d'OpenAI, a réussi à produire une... Rapport cybersécurité 2024. Qui est First VPN, le VPN des hackers, qui a été...",
-      "excerpt": "GPT-5.2, le dernier modèle d'OpenAI, a réussi à produire une... Rapport cybersécurité 2024. Qui est First VPN, le VPN des hackers, qui a été...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA: ChatGPT veut s'occuper de votre compte bancaire (et c'est flippant) - Journal du Geek",
-      "link": "https://www.journaldugeek.com/2026/05/21/ia-chatgpt-veut-soccuper-de-votre-compte-bancaire-et-cest-flippant/",
-      "url": "https://www.journaldugeek.com/2026/05/21/ia-chatgpt-veut-soccuper-de-votre-compte-bancaire-et-cest-flippant/",
-      "publishedAt": "2026-05-21T15:08:19.000Z",
-      "date": "2026-05-21T15:08:19.000Z",
-      "description": "ChatGPT redirige alors vers Plaid, le partenaire technique qui... Rapport cybersécurité 2024. Qui est First VPN, le VPN des hackers, qui a...",
-      "excerpt": "ChatGPT redirige alors vers Plaid, le partenaire technique qui... Rapport cybersécurité 2024. Qui est First VPN, le VPN des hackers, qui a...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Faux scandales, candidats imaginaires: ChatGPT et consorts ont désinformé les électeurs... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/faux-scandales-candidats-imaginaires-chat-gpt-et-consorts-ont-desinforme-les-electeurs-ecossais-et-gallois-selon-une-etude-le-gouvernement-britannique-appelle-a-faire-de-la-lutte-contre-cette-menace-une-priorite-absolue_AV-202605210510.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/faux-scandales-candidats-imaginaires-chat-gpt-et-consorts-ont-desinforme-les-electeurs-ecossais-et-gallois-selon-une-etude-le-gouvernement-britannique-appelle-a-faire-de-la-lutte-contre-cette-menace-une-priorite-absolue_AV-202605210510.html",
-      "publishedAt": "2026-05-21T14:49:59.000Z",
-      "date": "2026-05-21T14:49:59.000Z",
-      "description": "France et cybersécurité · Actualités Tech · IA · Réseaux sociaux... ChatGPT à l'ouest, Grok bon élève. Les résultats sont sans appel: dans l'étude...",
-      "excerpt": "France et cybersécurité · Actualités Tech · IA · Réseaux sociaux... ChatGPT à l'ouest, Grok bon élève. Les résultats sont sans appel: dans l'étude...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
