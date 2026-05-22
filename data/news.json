@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T19:43:21.904Z",
+  "generatedAt": "2026-05-22T02:30:38.096Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Pour la première fois, une IA parvient à pirater des serveurs et à se répliquer seule, alertant...",
+      "link": "https://www.science-et-vie.com/technos-et-futur/pour-la-premiere-fois-une-ia-parvient-a-pirater-des-serveurs-et-a-se-repliquer-seule-alertant-les-experts-en-cybersecurite-240266.html",
+      "url": "https://www.science-et-vie.com/technos-et-futur/pour-la-premiere-fois-une-ia-parvient-a-pirater-des-serveurs-et-a-se-repliquer-seule-alertant-les-experts-en-cybersecurite-240266.html",
+      "publishedAt": "2026-05-21T21:03:42.000Z",
+      "date": "2026-05-21T21:03:42.000Z",
+      "description": "Pour la première fois, une IA parvient à pirater des serveurs et à se répliquer seule, alertant les experts en cybersécurité... GPT-5. En un an...",
+      "excerpt": "Pour la première fois, une IA parvient à pirater des serveurs et à se répliquer seule, alertant les experts en cybersécurité... GPT-5. En un an...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Canva complète son tour des IA: après Claude et ChatGPT, c'est Gemini qui fait son entrée",
       "link": "https://www.01net.com/actualites/canva-complete-son-tour-des-ia-apres-claude-et-chatgpt-cest-gemini-qui-fait-son-entree.html",
@@ -118,16 +128,6 @@
       "description": "Telles sont en substance les conclusions de l'étude du spécialiste en cybersécurité Kaspersky. Plus de 92.000 attaques, dissimulées derrière de...",
       "excerpt": "Telles sont en substance les conclusions de l'étude du spécialiste en cybersécurité Kaspersky. Plus de 92.000 attaques, dissimulées derrière de...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Klarna lance une application de recherche d'achats basée sur l'IA dans ChatGPT",
-      "link": "https://www.businesswire.com/news/home/20260520264378/fr",
-      "url": "https://www.businesswire.com/news/home/20260520264378/fr",
-      "publishedAt": "2026-05-21T07:17:01.000Z",
-      "date": "2026-05-21T07:17:01.000Z",
-      "description": "Avec l'application Klarna Shopping Search sur ChatGPT, il leur suffit de décrire ce qu'ils recherchent pour voir instantanément s'afficher des...",
-      "excerpt": "Avec l'application Klarna Shopping Search sur ChatGPT, il leur suffit de décrire ce qu'ils recherchent pour voir instantanément s'afficher des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
