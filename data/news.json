@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T13:02:09.750Z",
+  "generatedAt": "2026-05-23T18:56:35.318Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Marre de payer ChatGPT, Claude et Gemini séparément? 1minAI tombe à son prix le plus bas",
+      "link": "https://www.clubic.com/bons-plans-613888-marre-de-payer-chatgpt-claude-et-gemini-separement-1minai-tombe-a-son-prix-le-plus-bas.html",
+      "url": "https://www.clubic.com/bons-plans-613888-marre-de-payer-chatgpt-claude-et-gemini-separement-1minai-tombe-a-son-prix-le-plus-bas.html",
+      "publishedAt": "2026-05-23T16:12:17.000Z",
+      "date": "2026-05-23T16:12:17.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Claude ChatGPT - © Shutterstock. C'est...",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Claude ChatGPT - © Shutterstock. C'est...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Ce nouveau virus contourne la double authentification et vole vos données sans se faire repérer",
+      "link": "https://www.01net.com/actualites/ce-nouveau-virus-contourne-la-double-authentification-et-vole-vos-donnees-sans-se-faire-reperer.html",
+      "url": "https://www.01net.com/actualites/ce-nouveau-virus-contourne-la-double-authentification-et-vole-vos-donnees-sans-se-faire-reperer.html",
+      "publishedAt": "2026-05-23T14:32:10.000Z",
+      "date": "2026-05-23T14:32:10.000Z",
+      "description": "Cybersécurité · Google. Une erreur de Google met en danger des millions d... Malware Android Virus Clique écrit © 01net avec ChatGPT. Un nouveau...",
+      "excerpt": "Cybersécurité · Google. Une erreur de Google met en danger des millions d... Malware Android Virus Clique écrit © 01net avec ChatGPT. Un nouveau...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le phishing sur mobile représente désormais une menace plus importante que celui par e-mail",
       "link": "https://www.zdnet.fr/actualites/le-phishing-sur-mobile-represente-desormais-une-menace-plus-importante-que-celui-par-e-mail-comment-se-proteger-495383.htm",
@@ -108,26 +128,6 @@
       "description": "... ChatGPT to prepare a masala watchlist for me; AI suggests 50 movies... Mohanlal is celebrating his 66th birthday with the release of his film, Drishyam...",
       "excerpt": "... ChatGPT to prepare a masala watchlist for me; AI suggests 50 movies... Mohanlal is celebrating his 66th birthday with the release of his film, Drishyam...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Pour la première fois, une IA parvient à pirater des serveurs et à se répliquer seule, alertant...",
-      "link": "https://www.science-et-vie.com/technos-et-futur/pour-la-premiere-fois-une-ia-parvient-a-pirater-des-serveurs-et-a-se-repliquer-seule-alertant-les-experts-en-cybersecurite-240266.html",
-      "url": "https://www.science-et-vie.com/technos-et-futur/pour-la-premiere-fois-une-ia-parvient-a-pirater-des-serveurs-et-a-se-repliquer-seule-alertant-les-experts-en-cybersecurite-240266.html",
-      "publishedAt": "2026-05-21T21:03:42.000Z",
-      "date": "2026-05-21T21:03:42.000Z",
-      "description": "Pour la première fois, une IA parvient à pirater des serveurs et à se répliquer seule, alertant les experts en cybersécurité... GPT-5. En un an...",
-      "excerpt": "Pour la première fois, une IA parvient à pirater des serveurs et à se répliquer seule, alertant les experts en cybersécurité... GPT-5. En un an...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Canva complète son tour des IA: après Claude et ChatGPT, c'est Gemini qui fait son entrée",
-      "link": "https://www.01net.com/actualites/canva-complete-son-tour-des-ia-apres-claude-et-chatgpt-cest-gemini-qui-fait-son-entree.html",
-      "url": "https://www.01net.com/actualites/canva-complete-son-tour-des-ia-apres-claude-et-chatgpt-cest-gemini-qui-fait-son-entree.html",
-      "publishedAt": "2026-05-21T16:14:08.000Z",
-      "date": "2026-05-21T16:14:08.000Z",
-      "description": "Canva complète son tour des IA: après Claude et ChatGPT, c'est Gemini qui fait son entrée... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "excerpt": "Canva complète son tour des IA: après Claude et ChatGPT, c'est Gemini qui fait son entrée... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
