@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T08:17:33.998Z",
+  "generatedAt": "2026-05-24T13:01:13.360Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "KPMG déploie Claude pour 276 000 collaborateurs - VU Magazine",
+      "link": "https://afffect.fr/blog/kpmg-deploie-claude-pour-276-000-collaborateurs",
+      "url": "https://afffect.fr/blog/kpmg-deploie-claude-pour-276-000-collaborateurs",
+      "publishedAt": "2026-05-24T08:28:18.000Z",
+      "date": "2026-05-24T08:28:18.000Z",
+      "description": "Digital Gateway au cœur du déploiement IA · Cybersécurité et private equity · Un volet recherche avec l'université du Texas · L'actualité Social Media",
+      "excerpt": "Digital Gateway au cœur du déploiement IA · Cybersécurité et private equity · Un volet recherche avec l'université du Texas · L'actualité Social Media",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Trump a abandonné un plan clé sur l'IA: quelles conséquences pour les utilisateurs de ChatGPT?",
+      "link": "https://www.servicesmobiles.fr/trump-a-abandonne-un-plan-cle-sur-lia-quelles-consequences-pour-les-utilisateurs-de-chatgpt-112205",
+      "url": "https://www.servicesmobiles.fr/trump-a-abandonne-un-plan-cle-sur-lia-quelles-consequences-pour-les-utilisateurs-de-chatgpt-112205",
+      "publishedAt": "2026-05-24T08:02:16.000Z",
+      "date": "2026-05-24T08:02:16.000Z",
+      "description": "Trump a abandonné un plan clé sur l'IA: quelles conséquences pour les utilisateurs de ChatGPT?... cybersécurité et de sécurité nationale. L'...",
+      "excerpt": "Trump a abandonné un plan clé sur l'IA: quelles conséquences pour les utilisateurs de ChatGPT?... cybersécurité et de sécurité nationale. L'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT s'intègre à PowerPoint: générez vos slides avec l'IA dès maintenant",
       "link": "https://charlestech.fr/chatgpt-integre-powerpoint-generez-vos-slides-l-ia/",
@@ -108,26 +128,6 @@
       "description": "Good news: ChatGPT can now create and edit presentations directly in PowerPoint. Build, update, understand, and polish presentations directly in...",
       "excerpt": "Good news: ChatGPT can now create and edit presentations directly in PowerPoint. Build, update, understand, and polish presentations directly in...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Ce plugin WordPress vole les cartes bancaires sur des milliers de boutiques en ligne",
-      "link": "https://linformation.ma/news/high-tech/ce-plugin-wordpress-vole-les-cartes-bancaires-sur-des-milliers-de-boutiques-en-ligne/64099",
-      "url": "https://linformation.ma/news/high-tech/ce-plugin-wordpress-vole-les-cartes-bancaires-sur-des-milliers-de-boutiques-en-ligne/64099",
-      "publishedAt": "2026-05-22T06:09:17.000Z",
-      "date": "2026-05-22T06:09:17.000Z",
-      "description": "La faille, référencée CVE-2026-47100 (score de sévérité CVSS 8.7 sur 10), a été documentée le 14 mai 2026 par l'équipe de cybersécurité e-commerce...",
-      "excerpt": "La faille, référencée CVE-2026-47100 (score de sévérité CVSS 8.7 sur 10), a été documentée le 14 mai 2026 par l'équipe de cybersécurité e-commerce...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT et Gemini deviennent de nouvelles sources de trafic sur Google Analytics.",
-      "link": "https://www.vietnam.vn/fr/chatgpt-gemini-tro-thanh-nguon-traffic-moi-tren-google-analytics",
-      "url": "https://www.vietnam.vn/fr/chatgpt-gemini-tro-thanh-nguon-traffic-moi-tren-google-analytics",
-      "publishedAt": "2026-05-22T06:08:05.000Z",
-      "date": "2026-05-22T06:08:05.000Z",
-      "description": "Le trafic provenant de ChatGPT, Gemini et Claude augmente rapidement, ce qui engendre une nouvelle concurrence dans le domaine du référencement et...",
-      "excerpt": "Le trafic provenant de ChatGPT, Gemini et Claude augmente rapidement, ce qui engendre une nouvelle concurrence dans le domaine du référencement et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
