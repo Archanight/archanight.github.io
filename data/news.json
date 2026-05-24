@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T18:56:35.318Z",
+  "generatedAt": "2026-05-24T02:26:31.965Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT s'intègre à PowerPoint: générez vos slides avec l'IA dès maintenant",
+      "link": "https://charlestech.fr/chatgpt-integre-powerpoint-generez-vos-slides-l-ia/",
+      "url": "https://charlestech.fr/chatgpt-integre-powerpoint-generez-vos-slides-l-ia/",
+      "publishedAt": "2026-05-23T20:08:55.000Z",
+      "date": "2026-05-23T20:08:55.000Z",
+      "description": "D'autres articles intéressants · ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu · De la publicité dans ChatGPT?",
+      "excerpt": "D'autres articles intéressants · ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu · De la publicité dans ChatGPT?",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Marre de payer ChatGPT, Claude et Gemini séparément? 1minAI tombe à son prix le plus bas",
       "link": "https://www.clubic.com/bons-plans-613888-marre-de-payer-chatgpt-claude-et-gemini-separement-1minai-tombe-a-son-prix-le-plus-bas.html",
@@ -118,16 +128,6 @@
       "description": "Le trafic provenant de ChatGPT, Gemini et Claude augmente rapidement, ce qui engendre une nouvelle concurrence dans le domaine du référencement et...",
       "excerpt": "Le trafic provenant de ChatGPT, Gemini et Claude augmente rapidement, ce qui engendre une nouvelle concurrence dans le domaine du référencement et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Entertainment News Today LIVE Updates on May 21, 2026: Cannes films 'too serious': I... - Mint",
-      "link": "https://www.livemint.com/entertainment/todays-entertainment-latest-news-on-may-21-2026-live-updates-11779327758871.html",
-      "url": "https://www.livemint.com/entertainment/todays-entertainment-latest-news-on-may-21-2026-live-updates-11779327758871.html",
-      "publishedAt": "2026-05-22T02:53:13.000Z",
-      "date": "2026-05-22T02:53:13.000Z",
-      "description": "... ChatGPT to prepare a masala watchlist for me; AI suggests 50 movies... Mohanlal is celebrating his 66th birthday with the release of his film, Drishyam...",
-      "excerpt": "... ChatGPT to prepare a masala watchlist for me; AI suggests 50 movies... Mohanlal is celebrating his 66th birthday with the release of his film, Drishyam...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
