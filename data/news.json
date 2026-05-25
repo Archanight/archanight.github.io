@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T19:02:43.229Z",
+  "generatedAt": "2026-05-25T02:34:35.698Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Ils veulent ressembler à leur avatar ChatGPT grâce à la chirurgie esthétique, les médecins...",
+      "link": "https://www.phonandroid.com/ils-veulent-ressembler-a-leur-avatar-chatgpt-grace-a-la-chirurgie-esthetique-les-medecins-hallucinent.html",
+      "url": "https://www.phonandroid.com/ils-veulent-ressembler-a-leur-avatar-chatgpt-grace-a-la-chirurgie-esthetique-les-medecins-hallucinent.html",
+      "publishedAt": "2026-05-24T19:46:37.000Z",
+      "date": "2026-05-24T19:46:37.000Z",
+      "description": "Certaines personnes demandent aux chirurgiens esthétiques de ressembler à leurs avatars d'IA ChatGPT, les professionnels s... Cybersécurité · eSIM avec...",
+      "excerpt": "Certaines personnes demandent aux chirurgiens esthétiques de ressembler à leurs avatars d'IA ChatGPT, les professionnels s... Cybersécurité · eSIM avec...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le Chromecast original rend l'âme en masse, 13 ans après son lancement - Charles Tech",
       "link": "https://charlestech.fr/chromecast-original-rend-l-ame-masse-13-ans-apres-lancement/",
@@ -48,6 +58,26 @@
       "description": "Selon le spécialiste de la cybersécurité Kaspersky, plus de 92 000... Les copies de ChatGPT concentrent à elles seules près de la moitié des...",
       "excerpt": "Selon le spécialiste de la cybersécurité Kaspersky, plus de 92 000... Les copies de ChatGPT concentrent à elles seules près de la moitié des...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT installe l'application Codex sans mon consentement après la dernière mise à jour",
+      "link": "https://www.reddit.com/r/assholedesign/comments/1tm69lp/chatgpt_installs_the_codex_app_without_my_consent/?tl=fr",
+      "url": "https://www.reddit.com/r/assholedesign/comments/1tm69lp/chatgpt_installs_the_codex_app_without_my_consent/?tl=fr",
+      "publishedAt": "2026-05-24T09:35:10.000Z",
+      "date": "2026-05-24T09:35:10.000Z",
+      "description": "À propos de ChatGPT Atlas – Notes de version · r/ChatGPTAtlas. • -27 j. À propos de ChatGPT Atlas – Notes de version. 12 upvotes · 9 commentaires...",
+      "excerpt": "À propos de ChatGPT Atlas – Notes de version · r/ChatGPTAtlas. • -27 j. À propos de ChatGPT Atlas – Notes de version. 12 upvotes · 9 commentaires...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "How A ChatGPT Obsession Nearly Ruined One Man's Life - Times Now",
+      "link": "https://www.timesnownews.com/technology-science/how-a-chatgpt-obsession-nearly-ruined-one-mans-life-article-154386669",
+      "url": "https://www.timesnownews.com/technology-science/how-a-chatgpt-obsession-nearly-ruined-one-mans-life-article-154386669",
+      "publishedAt": "2026-05-24T08:54:39.000Z",
+      "date": "2026-05-24T08:54:39.000Z",
+      "description": "According to WSJ, he customised OpenAI's older GPT-4o chatbot to behave in a more affectionate and admiring way. He even gave the AI a name...",
+      "excerpt": "According to WSJ, he customised OpenAI's older GPT-4o chatbot to behave in a more affectionate and admiring way. He even gave the AI a name...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "KPMG déploie Claude pour 276 000 collaborateurs - VU Magazine",
@@ -97,36 +127,6 @@
       "date": "2026-05-23T14:32:10.000Z",
       "description": "Cybersécurité · Google. Une erreur de Google met en danger des millions d... Malware Android Virus Clique écrit © 01net avec ChatGPT. Un nouveau...",
       "excerpt": "Cybersécurité · Google. Une erreur de Google met en danger des millions d... Malware Android Virus Clique écrit © 01net avec ChatGPT. Un nouveau...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le phishing sur mobile représente désormais une menace plus importante que celui par e-mail",
-      "link": "https://www.zdnet.fr/actualites/le-phishing-sur-mobile-represente-desormais-une-menace-plus-importante-que-celui-par-e-mail-comment-se-proteger-495383.htm",
-      "url": "https://www.zdnet.fr/actualites/le-phishing-sur-mobile-represente-desormais-une-menace-plus-importante-que-celui-par-e-mail-comment-se-proteger-495383.htm",
-      "publishedAt": "2026-05-22T16:43:43.000Z",
-      "date": "2026-05-22T16:43:43.000Z",
-      "description": "Les pirates se tournent vers les SMS et les appels téléphoniques à mesure que les systèmes de protection des e-mails s'améliorent.",
-      "excerpt": "Les pirates se tournent vers les SMS et les appels téléphoniques à mesure que les systèmes de protection des e-mails s'améliorent.",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "OpenAI: une IA a résolu un problème de maths irrésolu depuis 1946... en toute autonomie",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/openai-une-ia-a-resolu-un-probleme-de-maths-irresolu-depuis-1946-en-toute-autonomie-n256294.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/openai-une-ia-a-resolu-un-probleme-de-maths-irresolu-depuis-1946-en-toute-autonomie-n256294.html",
-      "publishedAt": "2026-05-22T12:02:06.000Z",
-      "date": "2026-05-22T12:02:06.000Z",
-      "description": "En octobre 2025, OpenAI avait revendiqué la résolution de dix problèmes d'Erdős par GPT-5...... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez...",
-      "excerpt": "En octobre 2025, OpenAI avait revendiqué la résolution de dix problèmes d'Erdős par GPT-5...... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Le logiciel ChatGPT est-il responsable de l'explosion des notes A dans les universités américaines?",
-      "link": "https://www.vietnam.vn/fr/chatgpt-khien-diem-a-bung-no-o-dai-hoc-my",
-      "url": "https://www.vietnam.vn/fr/chatgpt-khien-diem-a-bung-no-o-dai-hoc-my",
-      "publishedAt": "2026-05-22T10:39:37.000Z",
-      "date": "2026-05-22T10:39:37.000Z",
-      "description": "L'essor de ChatGPT suscite un débat majeur dans l'enseignement supérieur, car de plus en plus de recherches suggèrent que l'IA pourrait contribuer à...",
-      "excerpt": "L'essor de ChatGPT suscite un débat majeur dans l'enseignement supérieur, car de plus en plus de recherches suggèrent que l'IA pourrait contribuer à...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
