@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T09:49:29.905Z",
+  "generatedAt": "2026-05-25T14:34:53.079Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Des sons inaudibles cachés dans des podcasts peuvent aider les hackers à pirater votre...",
+      "link": "https://www.papergeek.fr/des-sons-inaudibles-caches-dans-des-podcasts-peuvent-aider-les-hackers-a-pirater-votre-telephone-faites-attention-2471663/amp",
+      "url": "https://www.papergeek.fr/des-sons-inaudibles-caches-dans-des-podcasts-peuvent-aider-les-hackers-a-pirater-votre-telephone-faites-attention-2471663/amp",
+      "publishedAt": "2026-05-25T07:39:18.000Z",
+      "date": "2026-05-25T07:39:18.000Z",
+      "description": "La rédaction vous conseille: ChatGPT: OpenAI veut maintenant vous aider à gérer votre argent · Cybersécurité: des hackers utilisent l'IA pour...",
+      "excerpt": "La rédaction vous conseille: ChatGPT: OpenAI veut maintenant vous aider à gérer votre argent · Cybersécurité: des hackers utilisent l'IA pour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Chez Pizza Hut, l'IA tourne au fiasco, par Anthony Morel - 25/05: Actualités - Orange",
+      "link": "https://actu.orange.fr/videos/economie/culture-ia-chez-pizza-hut-l-ia-tourne-au-fiasco-par-anthony-morel-25-05-CNT000002pA3V3.html",
+      "url": "https://actu.orange.fr/videos/economie/culture-ia-chez-pizza-hut-l-ia-tourne-au-fiasco-par-anthony-morel-25-05-CNT000002pA3V3.html",
+      "publishedAt": "2026-05-25T07:02:07.000Z",
+      "date": "2026-05-25T07:02:07.000Z",
+      "description": "Cybersécurité et Télésurveillance. Journées Maison Protégée. Conseils... Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel - 25/11.",
+      "excerpt": "Cybersécurité et Télésurveillance. Journées Maison Protégée. Conseils... Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel - 25/11.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Ils veulent ressembler à leur avatar ChatGPT grâce à la chirurgie esthétique, les médecins...",
       "link": "https://www.phonandroid.com/ils-veulent-ressembler-a-leur-avatar-chatgpt-grace-a-la-chirurgie-esthetique-les-medecins-hallucinent.html",
@@ -107,26 +127,6 @@
       "date": "2026-05-23T20:08:55.000Z",
       "description": "D'autres articles intéressants · ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu · De la publicité dans ChatGPT?",
       "excerpt": "D'autres articles intéressants · ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu · De la publicité dans ChatGPT?",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Marre de payer ChatGPT, Claude et Gemini séparément? 1minAI tombe à son prix le plus bas",
-      "link": "https://www.clubic.com/bons-plans-613888-marre-de-payer-chatgpt-claude-et-gemini-separement-1minai-tombe-a-son-prix-le-plus-bas.html",
-      "url": "https://www.clubic.com/bons-plans-613888-marre-de-payer-chatgpt-claude-et-gemini-separement-1minai-tombe-a-son-prix-le-plus-bas.html",
-      "publishedAt": "2026-05-23T16:12:17.000Z",
-      "date": "2026-05-23T16:12:17.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Claude ChatGPT - © Shutterstock. C'est...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Claude ChatGPT - © Shutterstock. C'est...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ce nouveau virus contourne la double authentification et vole vos données sans se faire repérer",
-      "link": "https://www.01net.com/actualites/ce-nouveau-virus-contourne-la-double-authentification-et-vole-vos-donnees-sans-se-faire-reperer.html",
-      "url": "https://www.01net.com/actualites/ce-nouveau-virus-contourne-la-double-authentification-et-vole-vos-donnees-sans-se-faire-reperer.html",
-      "publishedAt": "2026-05-23T14:32:10.000Z",
-      "date": "2026-05-23T14:32:10.000Z",
-      "description": "Cybersécurité · Google. Une erreur de Google met en danger des millions d... Malware Android Virus Clique écrit © 01net avec ChatGPT. Un nouveau...",
-      "excerpt": "Cybersécurité · Google. Une erreur de Google met en danger des millions d... Malware Android Virus Clique écrit © 01net avec ChatGPT. Un nouveau...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
