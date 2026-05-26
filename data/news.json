@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T14:45:46.521Z",
+  "generatedAt": "2026-05-26T19:56:41.995Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le Japon obtient un accès exclusif au nouvel outil de cybersécurité d'OpenAI, en plein débat...",
+      "link": "https://www.cryptopolitan.com/fr/openai-debuts-ai-cyber-security-in-japan/",
+      "url": "https://www.cryptopolitan.com/fr/openai-debuts-ai-cyber-security-in-japan/",
+      "publishedAt": "2026-05-26T19:03:53.000Z",
+      "date": "2026-05-26T19:03:53.000Z",
+      "description": "OpenAI, le développeur de ChatGPT, a conclu une présentation... cybersécurité. Le 21 mai, la société a présenté plusieurs de ses programmes...",
+      "excerpt": "OpenAI, le développeur de ChatGPT, a conclu une présentation... cybersécurité. Le 21 mai, la société a présenté plusieurs de ses programmes...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment avoir Alexa+ pour 6,99 euros par mois au lieu de 22,99 euros par mois? - Numerama",
+      "link": "https://www.numerama.com/tech/2260225-comment-avoir-alexa-pour-699-euros-par-mois-au-lieu-de-2299-euros-par-mois.html",
+      "url": "https://www.numerama.com/tech/2260225-comment-avoir-alexa-pour-699-euros-par-mois-au-lieu-de-2299-euros-par-mois.html",
+      "publishedAt": "2026-05-26T17:35:12.000Z",
+      "date": "2026-05-26T17:35:12.000Z",
+      "description": "Amazon facture l'abonnement Alexa+ au tarif de 22,99 euros par mois en France, soit autant que ses concurrents directs ChatGPT Plus, Gemini Pro ou...",
+      "excerpt": "Amazon facture l'abonnement Alexa+ au tarif de 22,99 euros par mois en France, soit autant que ses concurrents directs ChatGPT Plus, Gemini Pro ou...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Wikidata: la base que ChatGPT consulte pour parler d'une marque, et que personne n'optimise",
+      "link": "https://www.journaldunet.com/seo/1550253-wikidata-la-base-que-chatgpt-consulte-pour-parler-d-une-marque-et-que-personne-n-optimise/",
+      "url": "https://www.journaldunet.com/seo/1550253-wikidata-la-base-que-chatgpt-consulte-pour-parler-d-une-marque-et-que-personne-n-optimise/",
+      "publishedAt": "2026-05-26T15:19:22.000Z",
+      "date": "2026-05-26T15:19:22.000Z",
+      "description": "Cybersécurité · Robotique · Cloud · Economie · IA News · Tech · Media / Adtech... Wikidata: la base que ChatGPT consulte pour parler d'une marque, et...",
+      "excerpt": "Cybersécurité · Robotique · Cloud · Economie · IA News · Tech · Media / Adtech... Wikidata: la base que ChatGPT consulte pour parler d'une marque, et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Telegate AG (ETR:TGT) | 11880 Solutions AG innove avec l'intégration de ChatGPT",
       "link": "https://www.webdisclosure.com/article/telegate-ag-etr-tgt-11880-solutions-ag-innove-avec-lintegration-de-chatgpt-P05n8mynLmd",
@@ -97,36 +127,6 @@
       "date": "2026-05-25T14:31:49.000Z",
       "description": "... ChatGPT Health, une nouvelle version de son agent... Les experts en cybersécurité tirent la sonnette d'alarme face à une menace croissante.",
       "excerpt": "... ChatGPT Health, une nouvelle version de son agent... Les experts en cybersécurité tirent la sonnette d'alarme face à une menace croissante.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des sons inaudibles cachés dans des podcasts peuvent aider les hackers à pirater votre...",
-      "link": "https://www.papergeek.fr/des-sons-inaudibles-caches-dans-des-podcasts-peuvent-aider-les-hackers-a-pirater-votre-telephone-faites-attention-2471663/amp",
-      "url": "https://www.papergeek.fr/des-sons-inaudibles-caches-dans-des-podcasts-peuvent-aider-les-hackers-a-pirater-votre-telephone-faites-attention-2471663/amp",
-      "publishedAt": "2026-05-25T07:39:18.000Z",
-      "date": "2026-05-25T07:39:18.000Z",
-      "description": "La rédaction vous conseille: ChatGPT: OpenAI veut maintenant vous aider à gérer votre argent · Cybersécurité: des hackers utilisent l'IA pour...",
-      "excerpt": "La rédaction vous conseille: ChatGPT: OpenAI veut maintenant vous aider à gérer votre argent · Cybersécurité: des hackers utilisent l'IA pour...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Chez Pizza Hut, l'IA tourne au fiasco, par Anthony Morel - 25/05: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/economie/culture-ia-chez-pizza-hut-l-ia-tourne-au-fiasco-par-anthony-morel-25-05-CNT000002pA3V3.html",
-      "url": "https://actu.orange.fr/videos/economie/culture-ia-chez-pizza-hut-l-ia-tourne-au-fiasco-par-anthony-morel-25-05-CNT000002pA3V3.html",
-      "publishedAt": "2026-05-25T07:02:07.000Z",
-      "date": "2026-05-25T07:02:07.000Z",
-      "description": "Cybersécurité et Télésurveillance. Journées Maison Protégée. Conseils... Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel - 25/11.",
-      "excerpt": "Cybersécurité et Télésurveillance. Journées Maison Protégée. Conseils... Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel - 25/11.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des sons inaudibles cachés dans des podcasts peuvent aider les hackers à pirater votre...",
-      "link": "https://www.papergeek.fr/des-sons-inaudibles-caches-dans-des-podcasts-peuvent-aider-les-hackers-a-pirater-votre-telephone-faites-attention-2471663",
-      "url": "https://www.papergeek.fr/des-sons-inaudibles-caches-dans-des-podcasts-peuvent-aider-les-hackers-a-pirater-votre-telephone-faites-attention-2471663",
-      "publishedAt": "2026-05-25T06:46:10.000Z",
-      "date": "2026-05-25T06:46:10.000Z",
-      "description": "D'ailleurs, ChatGPT lui-même vous propose de gérer votre argent.... Cybersécurité: des hackers utilisent l'IA pour rendre leurs malwares indétectables...",
-      "excerpt": "D'ailleurs, ChatGPT lui-même vous propose de gérer votre argent.... Cybersécurité: des hackers utilisent l'IA pour rendre leurs malwares indétectables...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
