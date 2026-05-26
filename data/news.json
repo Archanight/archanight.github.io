@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T09:36:18.821Z",
+  "generatedAt": "2026-05-26T14:45:46.521Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,16 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Telegate AG (ETR:TGT) | 11880 Solutions AG innove avec l'intégration de ChatGPT",
+      "link": "https://www.webdisclosure.com/article/telegate-ag-etr-tgt-11880-solutions-ag-innove-avec-lintegration-de-chatgpt-P05n8mynLmd",
+      "url": "https://www.webdisclosure.com/article/telegate-ag-etr-tgt-11880-solutions-ag-innove-avec-lintegration-de-chatgpt-P05n8mynLmd",
+      "publishedAt": "2026-05-26T12:13:35.000Z",
+      "date": "2026-05-26T12:13:35.000Z",
+      "description": "11880 Solutions AG a annoncé l'intégration de sa plateforme d'avis clients, werkenntdenBESTEN, à ChatGPT.... Click here to consult the press release on...",
+      "excerpt": "11880 Solutions AG a annoncé l'intégration de sa plateforme d'avis clients, werkenntdenBESTEN, à ChatGPT.... Click here to consult the press release on...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "ChatGPT arrive dans PowerPoint pour automatiser la création de slides - BDM",
       "link": "https://www.blogdumoderateur.com/chatgpt-powerpoint-automatiser-creation-slides/",
       "url": "https://www.blogdumoderateur.com/chatgpt-powerpoint-automatiser-creation-slides/",
@@ -18,6 +28,16 @@
       "description": "Codex s'invite dans l'application ChatGPT sur iOS et Android · OpenAI. Cybersécurité: qu'est-ce que Daybreak, la nouvelle initiative d'OpenAI?",
       "excerpt": "Codex s'invite dans l'application ChatGPT sur iOS et Android · OpenAI. Cybersécurité: qu'est-ce que Daybreak, la nouvelle initiative d'OpenAI?",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Gemini: un utilisateur payant atteint le quota de 5 heures avec un seul prompt - Toms Guide",
+      "link": "https://www.tomsguide.fr/gemini-un-utilisateur-payant-atteint-le-quota-de-5-heures-avec-un-seul-prompt/",
+      "url": "https://www.tomsguide.fr/gemini-un-utilisateur-payant-atteint-le-quota-de-5-heures-avec-un-seul-prompt/",
+      "publishedAt": "2026-05-26T08:52:45.000Z",
+      "date": "2026-05-26T08:52:45.000Z",
+      "description": "Unbearable update byu/throwaway50cent_ inGeminiAI. Si Claude... ChatGPT, Gemini: générez des images parfaites grâce à ce prompt infaillible.",
+      "excerpt": "Unbearable update byu/throwaway50cent_ inGeminiAI. Si Claude... ChatGPT, Gemini: générez des images parfaites grâce à ce prompt infaillible.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "L'IA menace les banques européennes, alerte la BCE - NLTO",
@@ -107,26 +127,6 @@
       "date": "2026-05-25T06:46:10.000Z",
       "description": "D'ailleurs, ChatGPT lui-même vous propose de gérer votre argent.... Cybersécurité: des hackers utilisent l'IA pour rendre leurs malwares indétectables...",
       "excerpt": "D'ailleurs, ChatGPT lui-même vous propose de gérer votre argent.... Cybersécurité: des hackers utilisent l'IA pour rendre leurs malwares indétectables...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ils veulent ressembler à leur avatar ChatGPT grâce à la chirurgie esthétique, les médecins...",
-      "link": "https://www.phonandroid.com/ils-veulent-ressembler-a-leur-avatar-chatgpt-grace-a-la-chirurgie-esthetique-les-medecins-hallucinent.html",
-      "url": "https://www.phonandroid.com/ils-veulent-ressembler-a-leur-avatar-chatgpt-grace-a-la-chirurgie-esthetique-les-medecins-hallucinent.html",
-      "publishedAt": "2026-05-24T19:46:37.000Z",
-      "date": "2026-05-24T19:46:37.000Z",
-      "description": "Certaines personnes demandent aux chirurgiens esthétiques de ressembler à leurs avatars d'IA ChatGPT, les professionnels s... Cybersécurité · eSIM avec...",
-      "excerpt": "Certaines personnes demandent aux chirurgiens esthétiques de ressembler à leurs avatars d'IA ChatGPT, les professionnels s... Cybersécurité · eSIM avec...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le Chromecast original rend l'âme en masse, 13 ans après son lancement - Charles Tech",
-      "link": "https://charlestech.fr/chromecast-original-rend-l-ame-masse-13-ans-apres-lancement/",
-      "url": "https://charlestech.fr/chromecast-original-rend-l-ame-masse-13-ans-apres-lancement/",
-      "publishedAt": "2026-05-24T18:10:59.000Z",
-      "date": "2026-05-24T18:10:59.000Z",
-      "description": "ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu. Une vague de pannes signalée sur Reddit et au-delà. Les...",
-      "excerpt": "ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu. Une vague de pannes signalée sur Reddit et au-delà. Les...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
