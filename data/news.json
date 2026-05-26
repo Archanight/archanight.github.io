@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T02:14:27.819Z",
+  "generatedAt": "2026-05-26T09:36:18.821Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT arrive dans PowerPoint pour automatiser la création de slides - BDM",
+      "link": "https://www.blogdumoderateur.com/chatgpt-powerpoint-automatiser-creation-slides/",
+      "url": "https://www.blogdumoderateur.com/chatgpt-powerpoint-automatiser-creation-slides/",
+      "publishedAt": "2026-05-26T08:54:06.000Z",
+      "date": "2026-05-26T08:54:06.000Z",
+      "description": "Codex s'invite dans l'application ChatGPT sur iOS et Android · OpenAI. Cybersécurité: qu'est-ce que Daybreak, la nouvelle initiative d'OpenAI?",
+      "excerpt": "Codex s'invite dans l'application ChatGPT sur iOS et Android · OpenAI. Cybersécurité: qu'est-ce que Daybreak, la nouvelle initiative d'OpenAI?",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'IA menace les banques européennes, alerte la BCE - NLTO",
+      "link": "https://www.nlto.fr/lia-menace-les-banques-europeennes-alerte-la-bce/",
+      "url": "https://www.nlto.fr/lia-menace-les-banques-europeennes-alerte-la-bce/",
+      "publishedAt": "2026-05-26T07:39:03.000Z",
+      "date": "2026-05-26T07:39:03.000Z",
+      "description": "» Une accélération proprement vertigineuse, qui bouleverse les fondements mêmes sur lesquels repose la cybersécurité bancaire traditionnelle — des...",
+      "excerpt": "» Une accélération proprement vertigineuse, qui bouleverse les fondements mêmes sur lesquels repose la cybersécurité bancaire traditionnelle — des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Sam Altman, créateur de ChatGPT, affirme vouloir « protéger » internet de l'IA - Gènéthique",
+      "link": "https://genethique.org/certificat-dhumanite-sam-altman-createur-de-chatgpt-affirme-vouloir-proteger-internet-de-lia/",
+      "url": "https://genethique.org/certificat-dhumanite-sam-altman-createur-de-chatgpt-affirme-vouloir-proteger-internet-de-lia/",
+      "publishedAt": "2026-05-26T07:03:31.000Z",
+      "date": "2026-05-26T07:03:31.000Z",
+      "description": "En 2024, selon la société de cybersécurité Imperva, les bots, ces logiciels automatiques qui imitent les écrits et conversations des personnes,...",
+      "excerpt": "En 2024, selon la société de cybersécurité Imperva, les bots, ces logiciels automatiques qui imitent les écrits et conversations des personnes,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Il s'est fait embaucher deux fois avec un faux visage généré par IA | La Tribune",
+      "link": "https://www.pressreader.com/france/la-tribune-france/20260526/281719801238617",
+      "url": "https://www.pressreader.com/france/la-tribune-france/20260526/281719801238617",
+      "publishedAt": "2026-05-25T21:55:47.000Z",
+      "date": "2026-05-25T21:55:47.000Z",
+      "description": "Faux visage, fausse voix, faux CV généré par IA: un conseiller en cybersécurité... ChatGPT · LinkedIn · Microsoft Teams · Jamie Morris · Google...",
+      "excerpt": "Faux visage, fausse voix, faux CV généré par IA: un conseiller en cybersécurité... ChatGPT · LinkedIn · Microsoft Teams · Jamie Morris · Google...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Pourquoi les réglages par défaut de Forza Horizon 6 plombent votre PC - Charles Tech",
       "link": "https://charlestech.fr/pourquoi-reglages-defaut-forza-horizon-6-plombent-votre-pc/",
@@ -27,6 +67,16 @@
       "date": "2026-05-25T16:10:58.000Z",
       "description": "Je veux dire pour ton assistant personnel et ton assistant de travail. Pour t'aider avec ce dont tu as besoin? J'ai utilisé ChatGPT pendant longtemps...",
       "excerpt": "Je veux dire pour ton assistant personnel et ton assistant de travail. Pour t'aider avec ce dont tu as besoin? J'ai utilisé ChatGPT pendant longtemps...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment questionner ChatGPT sur sa santé? - MSN",
+      "link": "https://www.msn.com/fr-xl/afrique-du-nord/actualite/comment-questionner-chatgpt-sur-sa-sant%C3%A9/ar-AA240zrD",
+      "url": "https://www.msn.com/fr-xl/afrique-du-nord/actualite/comment-questionner-chatgpt-sur-sa-sant%C3%A9/ar-AA240zrD",
+      "publishedAt": "2026-05-25T14:31:49.000Z",
+      "date": "2026-05-25T14:31:49.000Z",
+      "description": "... ChatGPT Health, une nouvelle version de son agent... Les experts en cybersécurité tirent la sonnette d'alarme face à une menace croissante.",
+      "excerpt": "... ChatGPT Health, une nouvelle version de son agent... Les experts en cybersécurité tirent la sonnette d'alarme face à une menace croissante.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -50,6 +100,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Des sons inaudibles cachés dans des podcasts peuvent aider les hackers à pirater votre...",
+      "link": "https://www.papergeek.fr/des-sons-inaudibles-caches-dans-des-podcasts-peuvent-aider-les-hackers-a-pirater-votre-telephone-faites-attention-2471663",
+      "url": "https://www.papergeek.fr/des-sons-inaudibles-caches-dans-des-podcasts-peuvent-aider-les-hackers-a-pirater-votre-telephone-faites-attention-2471663",
+      "publishedAt": "2026-05-25T06:46:10.000Z",
+      "date": "2026-05-25T06:46:10.000Z",
+      "description": "D'ailleurs, ChatGPT lui-même vous propose de gérer votre argent.... Cybersécurité: des hackers utilisent l'IA pour rendre leurs malwares indétectables...",
+      "excerpt": "D'ailleurs, ChatGPT lui-même vous propose de gérer votre argent.... Cybersécurité: des hackers utilisent l'IA pour rendre leurs malwares indétectables...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Ils veulent ressembler à leur avatar ChatGPT grâce à la chirurgie esthétique, les médecins...",
       "link": "https://www.phonandroid.com/ils-veulent-ressembler-a-leur-avatar-chatgpt-grace-a-la-chirurgie-esthetique-les-medecins-hallucinent.html",
       "url": "https://www.phonandroid.com/ils-veulent-ressembler-a-leur-avatar-chatgpt-grace-a-la-chirurgie-esthetique-les-medecins-hallucinent.html",
@@ -67,66 +127,6 @@
       "date": "2026-05-24T18:10:59.000Z",
       "description": "ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu. Une vague de pannes signalée sur Reddit et au-delà. Les...",
       "excerpt": "ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu. Une vague de pannes signalée sur Reddit et au-delà. Les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Siri AI: Apple active discrètement un mystérieux site web lié à l'IA générative - Mac4Ever",
-      "link": "https://www.mac4ever.com/ia/196318-siri-ai-apple-active-discretement-un-mysterieux-site-web-lie-a-l-ia-generative",
-      "url": "https://www.mac4ever.com/ia/196318-siri-ai-apple-active-discretement-un-mysterieux-site-web-lie-a-l-ia-generative",
-      "publishedAt": "2026-05-24T17:47:32.000Z",
-      "date": "2026-05-24T17:47:32.000Z",
-      "description": "En effet, GenAI est aujourd'hui devenu l'abréviation largement utilisée pour désigner Generative AI, popularisée notamment par OpenAI avec ChatGPT, ou...",
-      "excerpt": "En effet, GenAI est aujourd'hui devenu l'abréviation largement utilisée pour désigner Generative AI, popularisée notamment par OpenAI avec ChatGPT, ou...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comprendre pourquoi ChatGPT ne fonctionne pas sur mon PC: un guide pratique",
-      "link": "https://www.techmeup.fr/30378/chatgpt-ne-fonctionne-pc/",
-      "url": "https://www.techmeup.fr/30378/chatgpt-ne-fonctionne-pc/",
-      "publishedAt": "2026-05-24T13:43:34.000Z",
-      "date": "2026-05-24T13:43:34.000Z",
-      "description": "Les technologies de l'intelligence artificielle, particulièrement les plateformes de chatbot telles que ChatGPT, ont pris une place prépondérante...",
-      "excerpt": "Les technologies de l'intelligence artificielle, particulièrement les plateformes de chatbot telles que ChatGPT, ont pris une place prépondérante...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA: des clones malveillants de ChatGPT et Claude se propagent pour espionner les utilisateurs",
-      "link": "https://www.valeursactuelles.com/economie/ia-des-clones-malveillants-de-chatgpt-et-claude-se-propagent-pour-espionner-les-utilisateurs",
-      "url": "https://www.valeursactuelles.com/economie/ia-des-clones-malveillants-de-chatgpt-et-claude-se-propagent-pour-espionner-les-utilisateurs",
-      "publishedAt": "2026-05-24T13:18:30.000Z",
-      "date": "2026-05-24T13:18:30.000Z",
-      "description": "Selon le spécialiste de la cybersécurité Kaspersky, plus de 92 000... Les copies de ChatGPT concentrent à elles seules près de la moitié des...",
-      "excerpt": "Selon le spécialiste de la cybersécurité Kaspersky, plus de 92 000... Les copies de ChatGPT concentrent à elles seules près de la moitié des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT installe l'application Codex sans mon consentement après la dernière mise à jour",
-      "link": "https://www.reddit.com/r/assholedesign/comments/1tm69lp/chatgpt_installs_the_codex_app_without_my_consent/?tl=fr",
-      "url": "https://www.reddit.com/r/assholedesign/comments/1tm69lp/chatgpt_installs_the_codex_app_without_my_consent/?tl=fr",
-      "publishedAt": "2026-05-24T09:35:10.000Z",
-      "date": "2026-05-24T09:35:10.000Z",
-      "description": "À propos de ChatGPT Atlas – Notes de version · r/ChatGPTAtlas. • -27 j. À propos de ChatGPT Atlas – Notes de version. 12 upvotes · 9 commentaires...",
-      "excerpt": "À propos de ChatGPT Atlas – Notes de version · r/ChatGPTAtlas. • -27 j. À propos de ChatGPT Atlas – Notes de version. 12 upvotes · 9 commentaires...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "How A ChatGPT Obsession Nearly Ruined One Man's Life - Times Now",
-      "link": "https://www.timesnownews.com/technology-science/how-a-chatgpt-obsession-nearly-ruined-one-mans-life-article-154386669",
-      "url": "https://www.timesnownews.com/technology-science/how-a-chatgpt-obsession-nearly-ruined-one-mans-life-article-154386669",
-      "publishedAt": "2026-05-24T08:54:39.000Z",
-      "date": "2026-05-24T08:54:39.000Z",
-      "description": "According to WSJ, he customised OpenAI's older GPT-4o chatbot to behave in a more affectionate and admiring way. He even gave the AI a name...",
-      "excerpt": "According to WSJ, he customised OpenAI's older GPT-4o chatbot to behave in a more affectionate and admiring way. He even gave the AI a name...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "KPMG déploie Claude pour 276 000 collaborateurs - VU Magazine",
-      "link": "https://afffect.fr/blog/kpmg-deploie-claude-pour-276-000-collaborateurs",
-      "url": "https://afffect.fr/blog/kpmg-deploie-claude-pour-276-000-collaborateurs",
-      "publishedAt": "2026-05-24T08:28:18.000Z",
-      "date": "2026-05-24T08:28:18.000Z",
-      "description": "Digital Gateway au cœur du déploiement IA · Cybersécurité et private equity · Un volet recherche avec l'université du Texas · L'actualité Social Media",
-      "excerpt": "Digital Gateway au cœur du déploiement IA · Cybersécurité et private equity · Un volet recherche avec l'université du Texas · L'actualité Social Media",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
