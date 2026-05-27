@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T19:56:41.995Z",
+  "generatedAt": "2026-05-27T02:34:04.084Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le Tech Flash: Amazon, Alexa+ arrive en France avec Mistral, par Léa Benaim - 26/05",
+      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-amazon-alexa-arrive-en-france-avec-mistral-par-lea-benaim-26-05-CNT000002pBB5C.html",
+      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-amazon-alexa-arrive-en-france-avec-mistral-par-lea-benaim-26-05-CNT000002pBB5C.html",
+      "publishedAt": "2026-05-26T22:47:38.000Z",
+      "date": "2026-05-26T22:47:38.000Z",
+      "description": "Cybersécurité et Télésurveillance. Journées Maison Protégée... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/10.",
+      "excerpt": "Cybersécurité et Télésurveillance. Journées Maison Protégée... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/10.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le Japon obtient un accès exclusif au nouvel outil de cybersécurité d'OpenAI, en plein débat...",
       "link": "https://www.cryptopolitan.com/fr/openai-debuts-ai-cyber-security-in-japan/",
@@ -30,6 +40,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Chatgpt peut maintenant devenir ton propre styliste personnel #shorts - YouTube",
+      "link": "https://www.youtube.com/watch?v=0MqpkHm15Bg",
+      "url": "https://www.youtube.com/watch?v=0MqpkHm15Bg",
+      "publishedAt": "2026-05-26T15:43:00.000Z",
+      "date": "2026-05-26T15:43:00.000Z",
+      "description": "This content isn't available. Chatgpt peut maintenant devenir ton propre styliste personnel ✨ #shorts... Update from Ukraine | Ukraine Starts a Massive...",
+      "excerpt": "This content isn't available. Chatgpt peut maintenant devenir ton propre styliste personnel ✨ #shorts... Update from Ukraine | Ukraine Starts a Massive...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Wikidata: la base que ChatGPT consulte pour parler d'une marque, et que personne n'optimise",
       "link": "https://www.journaldunet.com/seo/1550253-wikidata-la-base-que-chatgpt-consulte-pour-parler-d-une-marque-et-que-personne-n-optimise/",
       "url": "https://www.journaldunet.com/seo/1550253-wikidata-la-base-que-chatgpt-consulte-pour-parler-d-une-marque-et-que-personne-n-optimise/",
@@ -38,6 +58,26 @@
       "description": "Cybersécurité · Robotique · Cloud · Economie · IA News · Tech · Media / Adtech... Wikidata: la base que ChatGPT consulte pour parler d'une marque, et...",
       "excerpt": "Cybersécurité · Robotique · Cloud · Economie · IA News · Tech · Media / Adtech... Wikidata: la base que ChatGPT consulte pour parler d'une marque, et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Midjourney vs DALL-E 2026: V7 vs GPT-Image-1 [Testé] - Tech Insider",
+      "link": "https://tech-insider.org/fr/midjourney-vs-dall-e-2026/",
+      "url": "https://tech-insider.org/fr/midjourney-vs-dall-e-2026/",
+      "publishedAt": "2026-05-26T14:15:55.000Z",
+      "date": "2026-05-26T14:15:55.000Z",
+      "description": "Son abonnement Basic à 10 $/mois reste deux fois moins cher que ChatGPT Plus pour qui veut un volume modéré d'images.... GPT-5 — le moteur comprend...",
+      "excerpt": "Son abonnement Basic à 10 $/mois reste deux fois moins cher que ChatGPT Plus pour qui veut un volume modéré d'images.... GPT-5 — le moteur comprend...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Erreur 403: r/ ChatGPT - Reddit",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1tmqym8/error_403/?tl=fr",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1tmqym8/error_403/?tl=fr",
+      "publishedAt": "2026-05-26T13:55:15.000Z",
+      "date": "2026-05-26T13:55:15.000Z",
+      "description": "Erreur 403. Other. r/ ChatGPT - Sign in failed Failed to update user data: Please try again.",
+      "excerpt": "Erreur 403. Other. r/ ChatGPT - Sign in failed Failed to update user data: Please try again.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Telegate AG (ETR:TGT) | 11880 Solutions AG innove avec l'intégration de ChatGPT",
@@ -87,46 +127,6 @@
       "date": "2026-05-26T07:03:31.000Z",
       "description": "En 2024, selon la société de cybersécurité Imperva, les bots, ces logiciels automatiques qui imitent les écrits et conversations des personnes,...",
       "excerpt": "En 2024, selon la société de cybersécurité Imperva, les bots, ces logiciels automatiques qui imitent les écrits et conversations des personnes,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Il s'est fait embaucher deux fois avec un faux visage généré par IA | La Tribune",
-      "link": "https://www.pressreader.com/france/la-tribune-france/20260526/281719801238617",
-      "url": "https://www.pressreader.com/france/la-tribune-france/20260526/281719801238617",
-      "publishedAt": "2026-05-25T21:55:47.000Z",
-      "date": "2026-05-25T21:55:47.000Z",
-      "description": "Faux visage, fausse voix, faux CV généré par IA: un conseiller en cybersécurité... ChatGPT · LinkedIn · Microsoft Teams · Jamie Morris · Google...",
-      "excerpt": "Faux visage, fausse voix, faux CV généré par IA: un conseiller en cybersécurité... ChatGPT · LinkedIn · Microsoft Teams · Jamie Morris · Google...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pourquoi les réglages par défaut de Forza Horizon 6 plombent votre PC - Charles Tech",
-      "link": "https://charlestech.fr/pourquoi-reglages-defaut-forza-horizon-6-plombent-votre-pc/",
-      "url": "https://charlestech.fr/pourquoi-reglages-defaut-forza-horizon-6-plombent-votre-pc/",
-      "publishedAt": "2026-05-25T17:45:41.000Z",
-      "date": "2026-05-25T17:45:41.000Z",
-      "description": "ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu... L'Europe va investir pour quadrupler la production de SoC.",
-      "excerpt": "ChatGPT: sa plus grande mise à jour GPT-5 pourrait arriver bien plus tôt que prévu... L'Europe va investir pour quadrupler la production de SoC.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT / Claude / Copilot?: r/ sysadmin - Reddit",
-      "link": "https://www.reddit.com/r/sysadmin/comments/1tn1p1t/chatgpt_claude_copilot/?tl=fr",
-      "url": "https://www.reddit.com/r/sysadmin/comments/1tn1p1t/chatgpt_claude_copilot/?tl=fr",
-      "publishedAt": "2026-05-25T16:10:58.000Z",
-      "date": "2026-05-25T16:10:58.000Z",
-      "description": "Je veux dire pour ton assistant personnel et ton assistant de travail. Pour t'aider avec ce dont tu as besoin? J'ai utilisé ChatGPT pendant longtemps...",
-      "excerpt": "Je veux dire pour ton assistant personnel et ton assistant de travail. Pour t'aider avec ce dont tu as besoin? J'ai utilisé ChatGPT pendant longtemps...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment questionner ChatGPT sur sa santé? - MSN",
-      "link": "https://www.msn.com/fr-xl/afrique-du-nord/actualite/comment-questionner-chatgpt-sur-sa-sant%C3%A9/ar-AA240zrD",
-      "url": "https://www.msn.com/fr-xl/afrique-du-nord/actualite/comment-questionner-chatgpt-sur-sa-sant%C3%A9/ar-AA240zrD",
-      "publishedAt": "2026-05-25T14:31:49.000Z",
-      "date": "2026-05-25T14:31:49.000Z",
-      "description": "... ChatGPT Health, une nouvelle version de son agent... Les experts en cybersécurité tirent la sonnette d'alarme face à une menace croissante.",
-      "excerpt": "... ChatGPT Health, une nouvelle version de son agent... Les experts en cybersécurité tirent la sonnette d'alarme face à une menace croissante.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
