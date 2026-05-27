@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T14:54:58.105Z",
+  "generatedAt": "2026-05-27T20:00:30.969Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,86 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Fujitsu intègre OpenAI à sa stratégie IA pour les entreprises japonaises - Brief IA",
+      "link": "https://www.briefia.fr/article/fujitsu-integre-openai-a-sa-strategie-ia-pour-les-entreprises-japonaises",
+      "url": "https://www.briefia.fr/article/fujitsu-integre-openai-a-sa-strategie-ia-pour-les-entreprises-japonaises",
+      "publishedAt": "2026-05-27T18:08:10.000Z",
+      "date": "2026-05-27T18:08:10.000Z",
+      "description": "Le groupe veut intégrer ChatGPT Enterprise et Codex à ses services afin d'automatiser davantage les opérations et renforcer la cybersécurité. Il...",
+      "excerpt": "Le groupe veut intégrer ChatGPT Enterprise et Codex à ses services afin d'automatiser davantage les opérations et renforcer la cybersécurité. Il...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT est plus lent que d'habitude? OpenAI reconnaît des problèmes - PhonAndroid",
+      "link": "https://www.phonandroid.com/chatgpt-est-plus-lent-que-dhabitude-openai-reconnait-des-problemes.html",
+      "url": "https://www.phonandroid.com/chatgpt-est-plus-lent-que-dhabitude-openai-reconnait-des-problemes.html",
+      "publishedAt": "2026-05-27T16:28:47.000Z",
+      "date": "2026-05-27T16:28:47.000Z",
+      "description": "ChatGPT rencontre des problèmes de latence, se traduisant par une vitesse... Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-...",
+      "excerpt": "ChatGPT rencontre des problèmes de latence, se traduisant par une vitesse... Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La cybersécurité à l'ère de l'IA, entre menaces et opportunités: les bons choix à faire en Bourse",
+      "link": "https://investir.lesechos.fr/marches-indices/enquetes/la-cybersecurite-a-lere-de-lia-entre-menaces-et-opportunites-2233562",
+      "url": "https://investir.lesechos.fr/marches-indices/enquetes/la-cybersecurite-a-lere-de-lia-entre-menaces-et-opportunites-2233562",
+      "publishedAt": "2026-05-27T15:00:03.000Z",
+      "date": "2026-05-27T15:00:03.000Z",
+      "description": "La cybersécurité à l'ère de l'IA, entre menaces et opportunités... Trois ans et demi après la sortie de la première version de ChatGPT, la...",
+      "excerpt": "La cybersécurité à l'ère de l'IA, entre menaces et opportunités... Trois ans et demi après la sortie de la première version de ChatGPT, la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Sam Altman change d'avis: l'IA ne devrait pas provoquer d'apocalypse sur le marché du...",
+      "link": "https://www.01net.com/actualites/sam-altman-change-davis-lia-ne-devrait-pas-provoquer-dapocalypse-sur-le-marche-du-travail-pour-linstant.html",
+      "url": "https://www.01net.com/actualites/sam-altman-change-davis-lia-ne-devrait-pas-provoquer-dapocalypse-sur-le-marche-du-travail-pour-linstant.html",
+      "publishedAt": "2026-05-27T14:30:50.000Z",
+      "date": "2026-05-27T14:30:50.000Z",
+      "description": "Le créateur de ChatGPT dénonce par ailleurs le phénomène de... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
+      "excerpt": "Le créateur de ChatGPT dénonce par ailleurs le phénomène de... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude détrône ChatGPT en entreprise - LeMagIT",
+      "link": "https://www.lemagit.fr/actualites/366643692/Claude-detrone-ChatGPT-en-entreprise",
+      "url": "https://www.lemagit.fr/actualites/366643692/Claude-detrone-ChatGPT-en-entreprise",
+      "publishedAt": "2026-05-27T13:59:54.000Z",
+      "date": "2026-05-27T13:59:54.000Z",
+      "description": "Claude détrône ChatGPT en entreprise. Le marché de l'IA est en... Dossier: l'IA agentique, chamboule-tout des chaînes DevOps. GaétanRaoul.",
+      "excerpt": "Claude détrône ChatGPT en entreprise. Le marché de l'IA est en... Dossier: l'IA agentique, chamboule-tout des chaînes DevOps. GaétanRaoul.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Elle prend le contrôle de ton corps!: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/elle-prend-le-controle-de-ton-corps-CNT000002pCKz7.html",
+      "url": "https://actu.orange.fr/videos/high-tech/elle-prend-le-controle-de-ton-corps-CNT000002pCKz7.html",
+      "publishedAt": "2026-05-27T11:39:41.000Z",
+      "date": "2026-05-27T11:39:41.000Z",
+      "description": "Cybersécurité et Télésurveillance. Apple Watch Fête des mères... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics. Ce...",
+      "excerpt": "Cybersécurité et Télésurveillance. Apple Watch Fête des mères... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics. Ce...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un magasin entièrement géré par une IA?!: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/un-magasin-entierement-gere-par-une-ia-CNT000002pCKzg.html",
+      "url": "https://actu.orange.fr/videos/high-tech/un-magasin-entierement-gere-par-une-ia-CNT000002pCKzg.html",
+      "publishedAt": "2026-05-27T11:39:41.000Z",
+      "date": "2026-05-27T11:39:41.000Z",
+      "description": "Cybersécurité et Télésurveillance. Apple Watch Fête des mères. Conseils... Le ChatGPT de la langue des signes. Tous publics. Ce site permet aux...",
+      "excerpt": "Cybersécurité et Télésurveillance. Apple Watch Fête des mères. Conseils... Le ChatGPT de la langue des signes. Tous publics. Ce site permet aux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Une iA résout (encore) un problème de maths: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/une-ia-resout-encore-un-probleme-de-maths-CNT000002pCGh7.html",
+      "url": "https://actu.orange.fr/videos/high-tech/une-ia-resout-encore-un-probleme-de-maths-CNT000002pCGh7.html",
+      "publishedAt": "2026-05-27T09:23:37.000Z",
+      "date": "2026-05-27T09:23:37.000Z",
+      "description": "Cybersécurité et Télésurveillance. Apple Watch Fête des mères... OpenAI révèle le problème de ChatGPT avec les gobelins! #shorts. Tous...",
+      "excerpt": "Cybersécurité et Télésurveillance. Apple Watch Fête des mères... OpenAI révèle le problème de ChatGPT avec les gobelins! #shorts. Tous...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Windows 11 se met à jour et règle des problèmes que vous ne soupçonniez même pas",
       "link": "https://www.tomsguide.fr/windows-11-se-met-a-jour-et-regle-des-problemes-que-vous-ne-soupconniez-meme-pas/",
@@ -47,86 +127,6 @@
       "date": "2026-05-26T17:35:12.000Z",
       "description": "Amazon facture l'abonnement Alexa+ au tarif de 22,99 euros par mois en France, soit autant que ses concurrents directs ChatGPT Plus, Gemini Pro ou...",
       "excerpt": "Amazon facture l'abonnement Alexa+ au tarif de 22,99 euros par mois en France, soit autant que ses concurrents directs ChatGPT Plus, Gemini Pro ou...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Chatgpt peut maintenant devenir ton propre styliste personnel #shorts - YouTube",
-      "link": "https://www.youtube.com/watch?v=0MqpkHm15Bg",
-      "url": "https://www.youtube.com/watch?v=0MqpkHm15Bg",
-      "publishedAt": "2026-05-26T15:43:00.000Z",
-      "date": "2026-05-26T15:43:00.000Z",
-      "description": "This content isn't available. Chatgpt peut maintenant devenir ton propre styliste personnel ✨ #shorts... Update from Ukraine | Ukraine Starts a Massive...",
-      "excerpt": "This content isn't available. Chatgpt peut maintenant devenir ton propre styliste personnel ✨ #shorts... Update from Ukraine | Ukraine Starts a Massive...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Wikidata: la base que ChatGPT consulte pour parler d'une marque, et que personne n'optimise",
-      "link": "https://www.journaldunet.com/seo/1550253-wikidata-la-base-que-chatgpt-consulte-pour-parler-d-une-marque-et-que-personne-n-optimise/",
-      "url": "https://www.journaldunet.com/seo/1550253-wikidata-la-base-que-chatgpt-consulte-pour-parler-d-une-marque-et-que-personne-n-optimise/",
-      "publishedAt": "2026-05-26T15:19:22.000Z",
-      "date": "2026-05-26T15:19:22.000Z",
-      "description": "Cybersécurité · Robotique · Cloud · Economie · IA News · Tech · Media / Adtech... Wikidata: la base que ChatGPT consulte pour parler d'une marque, et...",
-      "excerpt": "Cybersécurité · Robotique · Cloud · Economie · IA News · Tech · Media / Adtech... Wikidata: la base que ChatGPT consulte pour parler d'une marque, et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Midjourney vs DALL-E 2026: V7 vs GPT-Image-1 [Testé] - Tech Insider",
-      "link": "https://tech-insider.org/fr/midjourney-vs-dall-e-2026/",
-      "url": "https://tech-insider.org/fr/midjourney-vs-dall-e-2026/",
-      "publishedAt": "2026-05-26T14:15:55.000Z",
-      "date": "2026-05-26T14:15:55.000Z",
-      "description": "Son abonnement Basic à 10 $/mois reste deux fois moins cher que ChatGPT Plus pour qui veut un volume modéré d'images.... GPT-5 — le moteur comprend...",
-      "excerpt": "Son abonnement Basic à 10 $/mois reste deux fois moins cher que ChatGPT Plus pour qui veut un volume modéré d'images.... GPT-5 — le moteur comprend...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Erreur 403: r/ ChatGPT - Reddit",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1tmqym8/error_403/?tl=fr",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1tmqym8/error_403/?tl=fr",
-      "publishedAt": "2026-05-26T13:55:15.000Z",
-      "date": "2026-05-26T13:55:15.000Z",
-      "description": "Erreur 403. Other. r/ ChatGPT - Sign in failed Failed to update user data: Please try again.",
-      "excerpt": "Erreur 403. Other. r/ ChatGPT - Sign in failed Failed to update user data: Please try again.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Telegate AG (ETR:TGT) | 11880 Solutions AG innove avec l'intégration de ChatGPT",
-      "link": "https://www.webdisclosure.com/article/telegate-ag-etr-tgt-11880-solutions-ag-innove-avec-lintegration-de-chatgpt-P05n8mynLmd",
-      "url": "https://www.webdisclosure.com/article/telegate-ag-etr-tgt-11880-solutions-ag-innove-avec-lintegration-de-chatgpt-P05n8mynLmd",
-      "publishedAt": "2026-05-26T12:13:35.000Z",
-      "date": "2026-05-26T12:13:35.000Z",
-      "description": "11880 Solutions AG a annoncé l'intégration de sa plateforme d'avis clients, werkenntdenBESTEN, à ChatGPT.... Click here to consult the press release on...",
-      "excerpt": "11880 Solutions AG a annoncé l'intégration de sa plateforme d'avis clients, werkenntdenBESTEN, à ChatGPT.... Click here to consult the press release on...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT arrive dans PowerPoint pour automatiser la création de slides - BDM",
-      "link": "https://www.blogdumoderateur.com/chatgpt-powerpoint-automatiser-creation-slides/",
-      "url": "https://www.blogdumoderateur.com/chatgpt-powerpoint-automatiser-creation-slides/",
-      "publishedAt": "2026-05-26T08:54:06.000Z",
-      "date": "2026-05-26T08:54:06.000Z",
-      "description": "Codex s'invite dans l'application ChatGPT sur iOS et Android · OpenAI. Cybersécurité: qu'est-ce que Daybreak, la nouvelle initiative d'OpenAI?",
-      "excerpt": "Codex s'invite dans l'application ChatGPT sur iOS et Android · OpenAI. Cybersécurité: qu'est-ce que Daybreak, la nouvelle initiative d'OpenAI?",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Gemini: un utilisateur payant atteint le quota de 5 heures avec un seul prompt - Toms Guide",
-      "link": "https://www.tomsguide.fr/gemini-un-utilisateur-payant-atteint-le-quota-de-5-heures-avec-un-seul-prompt/",
-      "url": "https://www.tomsguide.fr/gemini-un-utilisateur-payant-atteint-le-quota-de-5-heures-avec-un-seul-prompt/",
-      "publishedAt": "2026-05-26T08:52:45.000Z",
-      "date": "2026-05-26T08:52:45.000Z",
-      "description": "Unbearable update byu/throwaway50cent_ inGeminiAI. Si Claude... ChatGPT, Gemini: générez des images parfaites grâce à ce prompt infaillible.",
-      "excerpt": "Unbearable update byu/throwaway50cent_ inGeminiAI. Si Claude... ChatGPT, Gemini: générez des images parfaites grâce à ce prompt infaillible.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "L'IA menace les banques européennes, alerte la BCE - NLTO",
-      "link": "https://www.nlto.fr/lia-menace-les-banques-europeennes-alerte-la-bce/",
-      "url": "https://www.nlto.fr/lia-menace-les-banques-europeennes-alerte-la-bce/",
-      "publishedAt": "2026-05-26T07:39:03.000Z",
-      "date": "2026-05-26T07:39:03.000Z",
-      "description": "» Une accélération proprement vertigineuse, qui bouleverse les fondements mêmes sur lesquels repose la cybersécurité bancaire traditionnelle — des...",
-      "excerpt": "» Une accélération proprement vertigineuse, qui bouleverse les fondements mêmes sur lesquels repose la cybersécurité bancaire traditionnelle — des...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
