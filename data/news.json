@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T02:34:04.084Z",
+  "generatedAt": "2026-05-27T09:28:59.930Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Windows 11 se met à jour et règle des problèmes que vous ne soupçonniez même pas",
+      "link": "https://www.tomsguide.fr/windows-11-se-met-a-jour-et-regle-des-problemes-que-vous-ne-soupconniez-meme-pas/",
+      "url": "https://www.tomsguide.fr/windows-11-se-met-a-jour-et-regle-des-problemes-que-vous-ne-soupconniez-meme-pas/",
+      "publishedAt": "2026-05-27T07:05:31.000Z",
+      "date": "2026-05-27T07:05:31.000Z",
+      "description": "La mise à jour non sécuritaire de mai 2026 vient d'atterrir dans Windows Update.... ChatGPT est-il fiable sur la santé? 91,3 % de ses réponses...",
+      "excerpt": "La mise à jour non sécuritaire de mai 2026 vient d'atterrir dans Windows Update.... ChatGPT est-il fiable sur la santé? 91,3 % de ses réponses...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Le Tech Flash: Amazon, Alexa+ arrive en France avec Mistral, par Léa Benaim - 26/05",
       "link": "https://actu.orange.fr/videos/economie/le-tech-flash-amazon-alexa-arrive-en-france-avec-mistral-par-lea-benaim-26-05-CNT000002pBB5C.html",
@@ -117,16 +127,6 @@
       "date": "2026-05-26T07:39:03.000Z",
       "description": "» Une accélération proprement vertigineuse, qui bouleverse les fondements mêmes sur lesquels repose la cybersécurité bancaire traditionnelle — des...",
       "excerpt": "» Une accélération proprement vertigineuse, qui bouleverse les fondements mêmes sur lesquels repose la cybersécurité bancaire traditionnelle — des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Sam Altman, créateur de ChatGPT, affirme vouloir « protéger » internet de l'IA - Gènéthique",
-      "link": "https://genethique.org/certificat-dhumanite-sam-altman-createur-de-chatgpt-affirme-vouloir-proteger-internet-de-lia/",
-      "url": "https://genethique.org/certificat-dhumanite-sam-altman-createur-de-chatgpt-affirme-vouloir-proteger-internet-de-lia/",
-      "publishedAt": "2026-05-26T07:03:31.000Z",
-      "date": "2026-05-26T07:03:31.000Z",
-      "description": "En 2024, selon la société de cybersécurité Imperva, les bots, ces logiciels automatiques qui imitent les écrits et conversations des personnes,...",
-      "excerpt": "En 2024, selon la société de cybersécurité Imperva, les bots, ces logiciels automatiques qui imitent les écrits et conversations des personnes,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
