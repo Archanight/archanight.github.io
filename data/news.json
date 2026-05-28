@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T20:00:30.969Z",
+  "generatedAt": "2026-05-28T02:09:45.783Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Anthropic dépasse OpenAI en revenus: Claude s'impose face à ChatGPT - gagadget.com",
+      "link": "https://gagadget.com/fr/712446-anthropic-depasse-openai-en-revenus-claude-simpose-face-a-chatgpt/",
+      "url": "https://gagadget.com/fr/712446-anthropic-depasse-openai-en-revenus-claude-simpose-face-a-chatgpt/",
+      "publishedAt": "2026-05-27T19:52:49.000Z",
+      "date": "2026-05-27T19:52:49.000Z",
+      "description": "Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures · Militaire... Pour les entreprises qui hésitent encore entre Claude et ChatGPT, le...",
+      "excerpt": "Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures · Militaire... Pour les entreprises qui hésitent encore entre Claude et ChatGPT, le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "4 étapes faciles pour transférer votre mémoire ChatGPT vers Claude | TechCabal",
+      "link": "https://techcabal.com/fr/2026/05/27/4-%C3%A9tapes-faciles-pour-transf%C3%A9rer-votre-m%C3%A9moire-chatgpt-vers-Claude/",
+      "url": "https://techcabal.com/fr/2026/05/27/4-%C3%A9tapes-faciles-pour-transf%C3%A9rer-votre-m%C3%A9moire-chatgpt-vers-Claude/",
+      "publishedAt": "2026-05-27T19:48:33.000Z",
+      "date": "2026-05-27T19:48:33.000Z",
+      "description": "Vous pouvez transférer facilement votre historique numérique vers Claude en exportant vos données ChatGPT. Cet article détaille la procédure en 4...",
+      "excerpt": "Vous pouvez transférer facilement votre historique numérique vers Claude en exportant vos données ChatGPT. Cet article détaille la procédure en 4...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI construit un nouveau type de machine publicitaire. Les premières données... - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-construit-un-nouveau-type-de-machine-publicitaire-les-premieres-donnees-s",
+      "url": "https://www.briefia.fr/article/openai-construit-un-nouveau-type-de-machine-publicitaire-les-premieres-donnees-s",
+      "publishedAt": "2026-05-27T18:09:52.000Z",
+      "date": "2026-05-27T18:09:52.000Z",
+      "description": "2Les premières données montrent que les annonces ChatGPT performent bien et sont bien accueillies par les utilisateurs. 3Cette approche menace le...",
+      "excerpt": "2Les premières données montrent que les annonces ChatGPT performent bien et sont bien accueillies par les utilisateurs. 3Cette approche menace le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Fujitsu intègre OpenAI à sa stratégie IA pour les entreprises japonaises - Brief IA",
       "link": "https://www.briefia.fr/article/fujitsu-integre-openai-a-sa-strategie-ia-pour-les-entreprises-japonaises",
@@ -98,36 +128,6 @@
       "description": "La mise à jour non sécuritaire de mai 2026 vient d'atterrir dans Windows Update.... ChatGPT est-il fiable sur la santé? 91,3 % de ses réponses...",
       "excerpt": "La mise à jour non sécuritaire de mai 2026 vient d'atterrir dans Windows Update.... ChatGPT est-il fiable sur la santé? 91,3 % de ses réponses...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Le Tech Flash: Amazon, Alexa+ arrive en France avec Mistral, par Léa Benaim - 26/05",
-      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-amazon-alexa-arrive-en-france-avec-mistral-par-lea-benaim-26-05-CNT000002pBB5C.html",
-      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-amazon-alexa-arrive-en-france-avec-mistral-par-lea-benaim-26-05-CNT000002pBB5C.html",
-      "publishedAt": "2026-05-26T22:47:38.000Z",
-      "date": "2026-05-26T22:47:38.000Z",
-      "description": "Cybersécurité et Télésurveillance. Journées Maison Protégée... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/10.",
-      "excerpt": "Cybersécurité et Télésurveillance. Journées Maison Protégée... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/10.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le Japon obtient un accès exclusif au nouvel outil de cybersécurité d'OpenAI, en plein débat...",
-      "link": "https://www.cryptopolitan.com/fr/openai-debuts-ai-cyber-security-in-japan/",
-      "url": "https://www.cryptopolitan.com/fr/openai-debuts-ai-cyber-security-in-japan/",
-      "publishedAt": "2026-05-26T19:03:53.000Z",
-      "date": "2026-05-26T19:03:53.000Z",
-      "description": "OpenAI, le développeur de ChatGPT, a conclu une présentation... cybersécurité. Le 21 mai, la société a présenté plusieurs de ses programmes...",
-      "excerpt": "OpenAI, le développeur de ChatGPT, a conclu une présentation... cybersécurité. Le 21 mai, la société a présenté plusieurs de ses programmes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment avoir Alexa+ pour 6,99 euros par mois au lieu de 22,99 euros par mois? - Numerama",
-      "link": "https://www.numerama.com/tech/2260225-comment-avoir-alexa-pour-699-euros-par-mois-au-lieu-de-2299-euros-par-mois.html",
-      "url": "https://www.numerama.com/tech/2260225-comment-avoir-alexa-pour-699-euros-par-mois-au-lieu-de-2299-euros-par-mois.html",
-      "publishedAt": "2026-05-26T17:35:12.000Z",
-      "date": "2026-05-26T17:35:12.000Z",
-      "description": "Amazon facture l'abonnement Alexa+ au tarif de 22,99 euros par mois en France, soit autant que ses concurrents directs ChatGPT Plus, Gemini Pro ou...",
-      "excerpt": "Amazon facture l'abonnement Alexa+ au tarif de 22,99 euros par mois en France, soit autant que ses concurrents directs ChatGPT Plus, Gemini Pro ou...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
