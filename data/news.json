@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T15:28:40.118Z",
+  "generatedAt": "2026-05-28T20:05:53.531Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Pourquoi Paris est devenu le principal rival de la Silicon Valley en matière d'intelligence artificielle",
+      "link": "https://zamin.uz/fr/technologie/203917-pourquoi-paris-est-devenu-le-principal-rival-de-la-silicon-valley-en-matiere-d-intelligence-artificielle.html",
+      "url": "https://zamin.uz/fr/technologie/203917-pourquoi-paris-est-devenu-le-principal-rival-de-la-silicon-valley-en-matiere-d-intelligence-artificielle.html",
+      "publishedAt": "2026-05-28T18:05:36.000Z",
+      "date": "2026-05-28T18:05:36.000Z",
+      "description": "Si l'accent était mis il y a un an sur les chatbots et les outils comme ChatGPT, l'attention se porte désormais sur l'infrastructure, la cybersécurité...",
+      "excerpt": "Si l'accent était mis il y a un an sur les chatbots et les outils comme ChatGPT, l'attention se porte désormais sur l'infrastructure, la cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Apple refond Siri pour iOS 27: une app dédiée face à ChatGPT - Stéphane Larue",
+      "link": "https://stephanelarue.com/apple-refond-siri-pour-ios-27-une-app-dediee-face-a-chatgpt/",
+      "url": "https://stephanelarue.com/apple-refond-siri-pour-ios-27-une-app-dediee-face-a-chatgpt/",
+      "publishedAt": "2026-05-28T16:35:57.000Z",
+      "date": "2026-05-28T16:35:57.000Z",
+      "description": "Apple prépare une app Siri autonome pour iOS 27, propulsée par Google Gemini, pour concurrencer ChatGPT. Nouvelles fonctions de retouche photo IA.",
+      "excerpt": "Apple prépare une app Siri autonome pour iOS 27, propulsée par Google Gemini, pour concurrencer ChatGPT. Nouvelles fonctions de retouche photo IA.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un aperçu de la nouvelle application Siri révèle les plans d'Apple pour rivaliser avec...",
+      "link": "https://www.briefia.fr/article/un-apercu-de-la-nouvelle-application-siri-revele-les-plans-d-apple-pour-rivalise",
+      "url": "https://www.briefia.fr/article/un-apercu-de-la-nouvelle-application-siri-revele-les-plans-d-apple-pour-rivalise",
+      "publishedAt": "2026-05-28T16:03:24.000Z",
+      "date": "2026-05-28T16:03:24.000Z",
+      "description": "Alors que ChatGPT compte désormais 900 millions d'utilisateurs actifs hebdomadaires, la base d'installation d'Apple (tous les appareils, pas seulement...",
+      "excerpt": "Alors que ChatGPT compte désormais 900 millions d'utilisateurs actifs hebdomadaires, la base d'installation d'Apple (tous les appareils, pas seulement...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "BFM Crypto, le Club: Puis-je acheter des cryptos depuis ChatGPT - 28/05 - Orange Actu",
+      "link": "https://actu.orange.fr/videos/economie/bfm-crypto-le-club-puis-je-acheter-des-cryptos-depuis-chatgpt-28-05-CNT000002pE5RN.html",
+      "url": "https://actu.orange.fr/videos/economie/bfm-crypto-le-club-puis-je-acheter-des-cryptos-depuis-chatgpt-28-05-CNT000002pE5RN.html",
+      "publishedAt": "2026-05-28T15:49:51.000Z",
+      "date": "2026-05-28T15:49:51.000Z",
+      "description": "... ChatGPT, et les autres questions des auditeurs, ont été abordés par... Cybersécurité et Télésurveillance. Maillots de l'Équipe de France à...",
+      "excerpt": "... ChatGPT, et les autres questions des auditeurs, ont été abordés par... Cybersécurité et Télésurveillance. Maillots de l'Équipe de France à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "iOS 27: nouveautés, date de sortie, iPhone compatibles… tout ce que l'on sait - Numerama",
+      "link": "https://www.numerama.com/tech/2262023-ios-27-nouveautes-date-de-sortie-iphone-compatibles.html",
+      "url": "https://www.numerama.com/tech/2262023-ios-27-nouveautes-date-de-sortie-iphone-compatibles.html",
+      "publishedAt": "2026-05-28T15:41:37.000Z",
+      "date": "2026-05-28T15:41:37.000Z",
+      "description": "Version Release Candidate: début septembre, le jour de l'annonce des... ChatGPT ou Gemini. Il est probable que l'accord avec Google ne...",
+      "excerpt": "Version Release Candidate: début septembre, le jour de l'annonce des... ChatGPT ou Gemini. Il est probable que l'accord avec Google ne...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Les actualités à noter selon Fasken: Protection des renseignements personnels et...",
+      "link": "https://www.fasken.com/fr/knowledge/2026/05/faskens-noteworthy-news",
+      "url": "https://www.fasken.com/fr/knowledge/2026/05/faskens-noteworthy-news",
+      "publishedAt": "2026-05-28T14:12:48.000Z",
+      "date": "2026-05-28T14:12:48.000Z",
+      "description": "Bulletin Protection des renseignements confidentiels, vie privée et cybersécurité. 28 mai 2026. Ce bulletin mensuel a été préparé par le groupe...",
+      "excerpt": "Bulletin Protection des renseignements confidentiels, vie privée et cybersécurité. 28 mai 2026. Ce bulletin mensuel a été préparé par le groupe...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "iOS 27: voici à quoi va ressembler votre iPhone dans quelques mois - Linternaute.com",
       "link": "https://www.linternaute.com/hightech/mobile/10586256-ios-27-voici-a-quoi-va-ressembler-votre-iphone-dans-quelques-mois/",
@@ -67,66 +127,6 @@
       "date": "2026-05-27T19:48:33.000Z",
       "description": "Vous pouvez transférer facilement votre historique numérique vers Claude en exportant vos données ChatGPT. Cet article détaille la procédure en 4...",
       "excerpt": "Vous pouvez transférer facilement votre historique numérique vers Claude en exportant vos données ChatGPT. Cet article détaille la procédure en 4...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI construit un nouveau type de machine publicitaire. Les premières données... - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-construit-un-nouveau-type-de-machine-publicitaire-les-premieres-donnees-s",
-      "url": "https://www.briefia.fr/article/openai-construit-un-nouveau-type-de-machine-publicitaire-les-premieres-donnees-s",
-      "publishedAt": "2026-05-27T18:09:52.000Z",
-      "date": "2026-05-27T18:09:52.000Z",
-      "description": "2Les premières données montrent que les annonces ChatGPT performent bien et sont bien accueillies par les utilisateurs. 3Cette approche menace le...",
-      "excerpt": "2Les premières données montrent que les annonces ChatGPT performent bien et sont bien accueillies par les utilisateurs. 3Cette approche menace le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Fujitsu intègre OpenAI à sa stratégie IA pour les entreprises japonaises - Brief IA",
-      "link": "https://www.briefia.fr/article/fujitsu-integre-openai-a-sa-strategie-ia-pour-les-entreprises-japonaises",
-      "url": "https://www.briefia.fr/article/fujitsu-integre-openai-a-sa-strategie-ia-pour-les-entreprises-japonaises",
-      "publishedAt": "2026-05-27T18:08:10.000Z",
-      "date": "2026-05-27T18:08:10.000Z",
-      "description": "Le groupe veut intégrer ChatGPT Enterprise et Codex à ses services afin d'automatiser davantage les opérations et renforcer la cybersécurité. Il...",
-      "excerpt": "Le groupe veut intégrer ChatGPT Enterprise et Codex à ses services afin d'automatiser davantage les opérations et renforcer la cybersécurité. Il...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT est plus lent que d'habitude? OpenAI reconnaît des problèmes - PhonAndroid",
-      "link": "https://www.phonandroid.com/chatgpt-est-plus-lent-que-dhabitude-openai-reconnait-des-problemes.html",
-      "url": "https://www.phonandroid.com/chatgpt-est-plus-lent-que-dhabitude-openai-reconnait-des-problemes.html",
-      "publishedAt": "2026-05-27T16:28:47.000Z",
-      "date": "2026-05-27T16:28:47.000Z",
-      "description": "ChatGPT rencontre des problèmes de latence, se traduisant par une vitesse... Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-...",
-      "excerpt": "ChatGPT rencontre des problèmes de latence, se traduisant par une vitesse... Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La cybersécurité à l'ère de l'IA, entre menaces et opportunités: les bons choix à faire en Bourse",
-      "link": "https://investir.lesechos.fr/marches-indices/enquetes/la-cybersecurite-a-lere-de-lia-entre-menaces-et-opportunites-2233562",
-      "url": "https://investir.lesechos.fr/marches-indices/enquetes/la-cybersecurite-a-lere-de-lia-entre-menaces-et-opportunites-2233562",
-      "publishedAt": "2026-05-27T15:00:03.000Z",
-      "date": "2026-05-27T15:00:03.000Z",
-      "description": "La cybersécurité à l'ère de l'IA, entre menaces et opportunités... Trois ans et demi après la sortie de la première version de ChatGPT, la...",
-      "excerpt": "La cybersécurité à l'ère de l'IA, entre menaces et opportunités... Trois ans et demi après la sortie de la première version de ChatGPT, la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Sam Altman change d'avis: l'IA ne devrait pas provoquer d'apocalypse sur le marché du...",
-      "link": "https://www.01net.com/actualites/sam-altman-change-davis-lia-ne-devrait-pas-provoquer-dapocalypse-sur-le-marche-du-travail-pour-linstant.html",
-      "url": "https://www.01net.com/actualites/sam-altman-change-davis-lia-ne-devrait-pas-provoquer-dapocalypse-sur-le-marche-du-travail-pour-linstant.html",
-      "publishedAt": "2026-05-27T14:30:50.000Z",
-      "date": "2026-05-27T14:30:50.000Z",
-      "description": "Le créateur de ChatGPT dénonce par ailleurs le phénomène de... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "excerpt": "Le créateur de ChatGPT dénonce par ailleurs le phénomène de... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude détrône ChatGPT en entreprise - LeMagIT",
-      "link": "https://www.lemagit.fr/actualites/366643692/Claude-detrone-ChatGPT-en-entreprise",
-      "url": "https://www.lemagit.fr/actualites/366643692/Claude-detrone-ChatGPT-en-entreprise",
-      "publishedAt": "2026-05-27T13:59:54.000Z",
-      "date": "2026-05-27T13:59:54.000Z",
-      "description": "Claude détrône ChatGPT en entreprise. Le marché de l'IA est en... Dossier: l'IA agentique, chamboule-tout des chaînes DevOps. GaétanRaoul.",
-      "excerpt": "Claude détrône ChatGPT en entreprise. Le marché de l'IA est en... Dossier: l'IA agentique, chamboule-tout des chaînes DevOps. GaétanRaoul.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
