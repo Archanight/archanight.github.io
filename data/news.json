@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T09:45:11.621Z",
+  "generatedAt": "2026-05-28T15:28:40.118Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "iOS 27: voici à quoi va ressembler votre iPhone dans quelques mois - Linternaute.com",
+      "link": "https://www.linternaute.com/hightech/mobile/10586256-ios-27-voici-a-quoi-va-ressembler-votre-iphone-dans-quelques-mois/",
+      "url": "https://www.linternaute.com/hightech/mobile/10586256-ios-27-voici-a-quoi-va-ressembler-votre-iphone-dans-quelques-mois/",
+      "publishedAt": "2026-05-28T12:42:54.000Z",
+      "date": "2026-05-28T12:42:54.000Z",
+      "description": "Très en retard sur le sujet par rapport à des géants comme ChatGPT, Google Gemini ou Claude AI, la firme de Cupertino travaille en secret sur de...",
+      "excerpt": "Très en retard sur le sujet par rapport à des géants comme ChatGPT, Google Gemini ou Claude AI, la firme de Cupertino travaille en secret sur de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "IBM annonce un investissement de 5 milliards de dollars dans la cybersécurité - 28/05/2026 à 12:55",
+      "link": "https://www.boursorama.com/bourse/actualites-amp/ibm-annonce-un-investissement-de-5-milliards-de-dollars-dans-la-cybersecurite-186eed9de77530f3c2fa655836ea5766",
+      "url": "https://www.boursorama.com/bourse/actualites-amp/ibm-annonce-un-investissement-de-5-milliards-de-dollars-dans-la-cybersecurite-186eed9de77530f3c2fa655836ea5766",
+      "publishedAt": "2026-05-28T11:01:31.000Z",
+      "date": "2026-05-28T11:01:31.000Z",
+      "description": "... cybersécurité face au développement rapide des capacités de... Le groupe américain, rival d'OpenAI et de son agent conversationnel ChatGPT...",
+      "excerpt": "... cybersécurité face au développement rapide des capacités de... Le groupe américain, rival d'OpenAI et de son agent conversationnel ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Mise à jour de ChatGPT: le trafic référent issu du GEO de nouveau en hausse?",
+      "link": "https://www.leptidigital.fr/webmarketing/seo/mise-a-jour-chatgpt-trafic-referent-geo-hausse-90411/",
+      "url": "https://www.leptidigital.fr/webmarketing/seo/mise-a-jour-chatgpt-trafic-referent-geo-hausse-90411/",
+      "publishedAt": "2026-05-28T09:31:13.000Z",
+      "date": "2026-05-28T09:31:13.000Z",
+      "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Mise à jour de ChatGPT: le trafic référent issu du GEO de nouveau en...",
+      "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Mise à jour de ChatGPT: le trafic référent issu du GEO de nouveau en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment forcer ChatGPT à crawler votre site web? (Et analyser les résultats) - Leptidigital",
+      "link": "https://www.leptidigital.fr/webmarketing/seo/forcer-chatgpt-crawler-site-web-90158/",
+      "url": "https://www.leptidigital.fr/webmarketing/seo/forcer-chatgpt-crawler-site-web-90158/",
+      "publishedAt": "2026-05-28T07:46:01.000Z",
+      "date": "2026-05-28T07:46:01.000Z",
+      "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Comment forcer ChatGPT à crawler votre site web pour que vous...",
+      "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Comment forcer ChatGPT à crawler votre site web pour que vous...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Anthropic dépasse OpenAI en revenus: Claude s'impose face à ChatGPT - gagadget.com",
       "link": "https://gagadget.com/fr/712446-anthropic-depasse-openai-en-revenus-claude-simpose-face-a-chatgpt/",
@@ -87,46 +127,6 @@
       "date": "2026-05-27T13:59:54.000Z",
       "description": "Claude détrône ChatGPT en entreprise. Le marché de l'IA est en... Dossier: l'IA agentique, chamboule-tout des chaînes DevOps. GaétanRaoul.",
       "excerpt": "Claude détrône ChatGPT en entreprise. Le marché de l'IA est en... Dossier: l'IA agentique, chamboule-tout des chaînes DevOps. GaétanRaoul.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Elle prend le contrôle de ton corps!: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/high-tech/elle-prend-le-controle-de-ton-corps-CNT000002pCKz7.html",
-      "url": "https://actu.orange.fr/videos/high-tech/elle-prend-le-controle-de-ton-corps-CNT000002pCKz7.html",
-      "publishedAt": "2026-05-27T11:39:41.000Z",
-      "date": "2026-05-27T11:39:41.000Z",
-      "description": "Cybersécurité et Télésurveillance. Apple Watch Fête des mères... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics. Ce...",
-      "excerpt": "Cybersécurité et Télésurveillance. Apple Watch Fête des mères... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics. Ce...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un magasin entièrement géré par une IA?!: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/high-tech/un-magasin-entierement-gere-par-une-ia-CNT000002pCKzg.html",
-      "url": "https://actu.orange.fr/videos/high-tech/un-magasin-entierement-gere-par-une-ia-CNT000002pCKzg.html",
-      "publishedAt": "2026-05-27T11:39:41.000Z",
-      "date": "2026-05-27T11:39:41.000Z",
-      "description": "Cybersécurité et Télésurveillance. Apple Watch Fête des mères. Conseils... Le ChatGPT de la langue des signes. Tous publics. Ce site permet aux...",
-      "excerpt": "Cybersécurité et Télésurveillance. Apple Watch Fête des mères. Conseils... Le ChatGPT de la langue des signes. Tous publics. Ce site permet aux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "CVE -2026-48095: Faille de Débordement de Tas 7-Zip - SOC Prime",
-      "link": "https://socprime.com/fr/blog/cve-2026-48095-faille-depassement-de-tampon-tas-7-zip/",
-      "url": "https://socprime.com/fr/blog/cve-2026-48095-faille-depassement-de-tampon-tas-7-zip/",
-      "publishedAt": "2026-05-27T11:02:57.000Z",
-      "date": "2026-05-27T11:02:57.000Z",
-      "description": "ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des Matières. Analyse de CVE -2026-48095; Atténuation de CVE -2026-48095; FAQ.",
-      "excerpt": "ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des Matières. Analyse de CVE -2026-48095; Atténuation de CVE -2026-48095; FAQ.",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "Une iA résout (encore) un problème de maths: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/high-tech/une-ia-resout-encore-un-probleme-de-maths-CNT000002pCGh7.html",
-      "url": "https://actu.orange.fr/videos/high-tech/une-ia-resout-encore-un-probleme-de-maths-CNT000002pCGh7.html",
-      "publishedAt": "2026-05-27T09:23:37.000Z",
-      "date": "2026-05-27T09:23:37.000Z",
-      "description": "Cybersécurité et Télésurveillance. Apple Watch Fête des mères... OpenAI révèle le problème de ChatGPT avec les gobelins! #shorts. Tous...",
-      "excerpt": "Cybersécurité et Télésurveillance. Apple Watch Fête des mères... OpenAI révèle le problème de ChatGPT avec les gobelins! #shorts. Tous...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
