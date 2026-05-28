@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T02:09:45.783Z",
+  "generatedAt": "2026-05-28T09:45:11.621Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -110,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "CVE -2026-48095: Faille de Débordement de Tas 7-Zip - SOC Prime",
+      "link": "https://socprime.com/fr/blog/cve-2026-48095-faille-depassement-de-tampon-tas-7-zip/",
+      "url": "https://socprime.com/fr/blog/cve-2026-48095-faille-depassement-de-tampon-tas-7-zip/",
+      "publishedAt": "2026-05-27T11:02:57.000Z",
+      "date": "2026-05-27T11:02:57.000Z",
+      "description": "ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des Matières. Analyse de CVE -2026-48095; Atténuation de CVE -2026-48095; FAQ.",
+      "excerpt": "ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des Matières. Analyse de CVE -2026-48095; Atténuation de CVE -2026-48095; FAQ.",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
       "title": "Une iA résout (encore) un problème de maths: Actualités - Orange Actu",
       "link": "https://actu.orange.fr/videos/high-tech/une-ia-resout-encore-un-probleme-de-maths-CNT000002pCGh7.html",
       "url": "https://actu.orange.fr/videos/high-tech/une-ia-resout-encore-un-probleme-de-maths-CNT000002pCGh7.html",
@@ -118,16 +128,6 @@
       "description": "Cybersécurité et Télésurveillance. Apple Watch Fête des mères... OpenAI révèle le problème de ChatGPT avec les gobelins! #shorts. Tous...",
       "excerpt": "Cybersécurité et Télésurveillance. Apple Watch Fête des mères... OpenAI révèle le problème de ChatGPT avec les gobelins! #shorts. Tous...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Windows 11 se met à jour et règle des problèmes que vous ne soupçonniez même pas",
-      "link": "https://www.tomsguide.fr/windows-11-se-met-a-jour-et-regle-des-problemes-que-vous-ne-soupconniez-meme-pas/",
-      "url": "https://www.tomsguide.fr/windows-11-se-met-a-jour-et-regle-des-problemes-que-vous-ne-soupconniez-meme-pas/",
-      "publishedAt": "2026-05-27T07:05:31.000Z",
-      "date": "2026-05-27T07:05:31.000Z",
-      "description": "La mise à jour non sécuritaire de mai 2026 vient d'atterrir dans Windows Update.... ChatGPT est-il fiable sur la santé? 91,3 % de ses réponses...",
-      "excerpt": "La mise à jour non sécuritaire de mai 2026 vient d'atterrir dans Windows Update.... ChatGPT est-il fiable sur la santé? 91,3 % de ses réponses...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
