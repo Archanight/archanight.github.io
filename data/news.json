@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T02:13:34.572Z",
+  "generatedAt": "2026-05-29T09:36:15.989Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -18,6 +18,16 @@
       "description": "Le cauchemar devient réalité pour OpenAI. Anthropic, fondé par un ancien de la startup de Sam Altman, dépasse celui à qui l'on doit ChatGPT en...",
       "excerpt": "Le cauchemar devient réalité pour OpenAI. Anthropic, fondé par un ancien de la startup de Sam Altman, dépasse celui à qui l'on doit ChatGPT en...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT dans les projets logiciels pour booster votre cycle de DevOps | marymart.com",
+      "link": "https://www.marymart.com/fr/articles/chatgpt-dans-les-projets-logiciels-pour-booster-votre-cycle-de-devops--s1-D512830987",
+      "url": "https://www.marymart.com/fr/articles/chatgpt-dans-les-projets-logiciels-pour-booster-votre-cycle-de-devops--s1-D512830987",
+      "publishedAt": "2026-05-28T19:20:12.000Z",
+      "date": "2026-05-28T19:20:12.000Z",
+      "description": "Accélérez vos déploiements grâce à l'IA conversationnelleIntégrez ChatGPT dans vos pipelines DevOps pour automatiser la génération de fichiers de...",
+      "excerpt": "Accélérez vos déploiements grâce à l'IA conversationnelleIntégrez ChatGPT dans vos pipelines DevOps pour automatiser la génération de fichiers de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "update sur chatgpt: r/scratch - Reddit",
@@ -117,16 +127,6 @@
       "date": "2026-05-28T11:01:31.000Z",
       "description": "... cybersécurité face au développement rapide des capacités de... Le groupe américain, rival d'OpenAI et de son agent conversationnel ChatGPT...",
       "excerpt": "... cybersécurité face au développement rapide des capacités de... Le groupe américain, rival d'OpenAI et de son agent conversationnel ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Mise à jour de ChatGPT: le trafic référent issu du GEO de nouveau en hausse?",
-      "link": "https://www.leptidigital.fr/webmarketing/seo/mise-a-jour-chatgpt-trafic-referent-geo-hausse-90411/",
-      "url": "https://www.leptidigital.fr/webmarketing/seo/mise-a-jour-chatgpt-trafic-referent-geo-hausse-90411/",
-      "publishedAt": "2026-05-28T09:31:13.000Z",
-      "date": "2026-05-28T09:31:13.000Z",
-      "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Mise à jour de ChatGPT: le trafic référent issu du GEO de nouveau en...",
-      "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Mise à jour de ChatGPT: le trafic référent issu du GEO de nouveau en...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
