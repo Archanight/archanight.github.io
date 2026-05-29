@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T09:36:15.989Z",
+  "generatedAt": "2026-05-29T14:40:26.772Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Anthropic annonce la sortie de la redoutable IA “Mythos” et lève 65 Mds $ pour une... - Presse-citron",
+      "link": "https://www.presse-citron.net/anthropic-sortie-mythos-et-leve-65-mds-pour-valorisation-965-mds/",
+      "url": "https://www.presse-citron.net/anthropic-sortie-mythos-et-leve-65-mds-pour-valorisation-965-mds/",
+      "publishedAt": "2026-05-29T09:48:41.000Z",
+      "date": "2026-05-29T09:48:41.000Z",
+      "description": "... à une nouvelle levée de fonds, Anthropic dépasse désormais la valorisation d'OpenAI, malgré le fait que ChatGPT compte plus d'utilisateurs que Claude.",
+      "excerpt": "... à une nouvelle levée de fonds, Anthropic dépasse désormais la valorisation d'OpenAI, malgré le fait que ChatGPT compte plus d'utilisateurs que Claude.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "5 jours pour accéder à GPT-5, Claude et Gemini sans abonnement: voici l'offre à vie 1min.AI - Clubic",
+      "link": "https://www.clubic.com/bons-plans-614359-jours-pour-acceder-a-gpt-5-claude-et-gemini-sans-abonnement-l-offre-a-vie-1min-ai.html",
+      "url": "https://www.clubic.com/bons-plans-614359-jours-pour-acceder-a-gpt-5-claude-et-gemini-sans-abonnement-l-offre-a-vie-1min-ai.html",
+      "publishedAt": "2026-05-29T09:35:24.000Z",
+      "date": "2026-05-29T09:35:24.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Payer ChatGPT, puis Claude, puis Gemini... la facture mensuelle des...",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Payer ChatGPT, puis Claude, puis Gemini... la facture mensuelle des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "iPhone 18 Pro: caméra, IA, Siri, une fuite choc révèle les nouveautés d'iOS 27 plusieurs mois trop tôt",
+      "link": "https://www.lacremedugaming.fr/high-tech/iphone-18-pro-camera-ia-siri-une-fuite-choc-revele-les-nouveautes-dios-27-plusieurs-mois-trop-tot-215330.html",
+      "url": "https://www.lacremedugaming.fr/high-tech/iphone-18-pro-camera-ia-siri-une-fuite-choc-revele-les-nouveautes-dios-27-plusieurs-mois-trop-tot-215330.html",
+      "publishedAt": "2026-05-29T08:36:18.000Z",
+      "date": "2026-05-29T08:36:18.000Z",
+      "description": "... ChatGPT. Autre point majeur: Apple testerait des intégrations directes avec des modèles tiers comme Google Gemini, OpenAI ChatGPT ou Anthropic Claude...",
+      "excerpt": "... ChatGPT. Autre point majeur: Apple testerait des intégrations directes avec des modèles tiers comme Google Gemini, OpenAI ChatGPT ou Anthropic Claude...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Anthropic redevient le roi de l'IA: Claude se place devant ChatGPT et Gemini grâce à Opus 4.8",
+      "link": "https://www.journaldugeek.com/2026/05/29/anthropic-redevient-le-roi-de-lia-claude-se-place-devant-chatgpt-et-openai-grace-a-opus-4-8/",
+      "url": "https://www.journaldugeek.com/2026/05/29/anthropic-redevient-le-roi-de-lia-claude-se-place-devant-chatgpt-et-openai-grace-a-opus-4-8/",
+      "publishedAt": "2026-05-29T08:28:07.000Z",
+      "date": "2026-05-29T08:28:07.000Z",
+      "description": "... ChatGPT... À cause de ses compétences avancées en cybersécurité, ce modèle est...",
+      "excerpt": "... ChatGPT... À cause de ses compétences avancées en cybersécurité, ce modèle est...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment bien détecter si une image a été générée via ChatGPT Images 2? - Leptidigital",
+      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/detecter-image-ia-chatgpt-images-2-90404/",
+      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/detecter-image-ia-chatgpt-images-2-90404/",
+      "publishedAt": "2026-05-29T08:21:29.000Z",
+      "date": "2026-05-29T08:21:29.000Z",
+      "description": "Le système analyse si elle contient des signaux indiquant qu'elle a été produite via ChatGPT, l'API OpenAI ou Codex.... cybersécurité, je suis un...",
+      "excerpt": "Le système analyse si elle contient des signaux indiquant qu'elle a été produite via ChatGPT, l'API OpenAI ou Codex.... cybersécurité, je suis un...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "[Tribune] Éditeurs juridiques et IA: ils ne sont pas morts, ils se suicident.",
+      "link": "https://www.village-justice.com/articles/editeurs-juridiques-ils-sont-pas-morts-ils-suicident,57518.html",
+      "url": "https://www.village-justice.com/articles/editeurs-juridiques-ils-sont-pas-morts-ils-suicident,57518.html",
+      "publishedAt": "2026-05-29T06:28:20.000Z",
+      "date": "2026-05-29T06:28:20.000Z",
+      "description": "Les éditeurs juridiques aiment présenter l'intelligence artificielle comme une menace extérieure. ChatGPT hallucine. Claude n'est pas spécialisé en...",
+      "excerpt": "Les éditeurs juridiques aiment présenter l'intelligence artificielle comme une menace extérieure. ChatGPT hallucine. Claude n'est pas spécialisé en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "La valorisation d'Anthropic dépasse celle d'OpenAI, Claude menace la suprématie de ChatGPT",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/la-valorisation-d-anthropic-depasse-celle-d-openai-claude-menace-la-suprematie-de-chatgpt-n256684.html",
@@ -67,66 +127,6 @@
       "date": "2026-05-28T16:35:57.000Z",
       "description": "Apple prépare une app Siri autonome pour iOS 27, propulsée par Google Gemini, pour concurrencer ChatGPT. Nouvelles fonctions de retouche photo IA.",
       "excerpt": "Apple prépare une app Siri autonome pour iOS 27, propulsée par Google Gemini, pour concurrencer ChatGPT. Nouvelles fonctions de retouche photo IA.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un aperçu de la nouvelle application Siri révèle les plans d'Apple pour rivaliser avec...",
-      "link": "https://www.briefia.fr/article/un-apercu-de-la-nouvelle-application-siri-revele-les-plans-d-apple-pour-rivalise",
-      "url": "https://www.briefia.fr/article/un-apercu-de-la-nouvelle-application-siri-revele-les-plans-d-apple-pour-rivalise",
-      "publishedAt": "2026-05-28T16:03:24.000Z",
-      "date": "2026-05-28T16:03:24.000Z",
-      "description": "Alors que ChatGPT compte désormais 900 millions d'utilisateurs actifs hebdomadaires, la base d'installation d'Apple (tous les appareils, pas seulement...",
-      "excerpt": "Alors que ChatGPT compte désormais 900 millions d'utilisateurs actifs hebdomadaires, la base d'installation d'Apple (tous les appareils, pas seulement...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "BFM Crypto, le Club: Puis-je acheter des cryptos depuis ChatGPT - 28/05 - Orange Actu",
-      "link": "https://actu.orange.fr/videos/economie/bfm-crypto-le-club-puis-je-acheter-des-cryptos-depuis-chatgpt-28-05-CNT000002pE5RN.html",
-      "url": "https://actu.orange.fr/videos/economie/bfm-crypto-le-club-puis-je-acheter-des-cryptos-depuis-chatgpt-28-05-CNT000002pE5RN.html",
-      "publishedAt": "2026-05-28T15:49:51.000Z",
-      "date": "2026-05-28T15:49:51.000Z",
-      "description": "... ChatGPT, et les autres questions des auditeurs, ont été abordés par... Cybersécurité et Télésurveillance. Maillots de l'Équipe de France à...",
-      "excerpt": "... ChatGPT, et les autres questions des auditeurs, ont été abordés par... Cybersécurité et Télésurveillance. Maillots de l'Équipe de France à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "iOS 27: nouveautés, date de sortie, iPhone compatibles… tout ce que l'on sait - Numerama",
-      "link": "https://www.numerama.com/tech/2262023-ios-27-nouveautes-date-de-sortie-iphone-compatibles.html",
-      "url": "https://www.numerama.com/tech/2262023-ios-27-nouveautes-date-de-sortie-iphone-compatibles.html",
-      "publishedAt": "2026-05-28T15:41:37.000Z",
-      "date": "2026-05-28T15:41:37.000Z",
-      "description": "Version Release Candidate: début septembre, le jour de l'annonce des... ChatGPT ou Gemini. Il est probable que l'accord avec Google ne...",
-      "excerpt": "Version Release Candidate: début septembre, le jour de l'annonce des... ChatGPT ou Gemini. Il est probable que l'accord avec Google ne...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Les actualités à noter selon Fasken: Protection des renseignements personnels et...",
-      "link": "https://www.fasken.com/fr/knowledge/2026/05/faskens-noteworthy-news",
-      "url": "https://www.fasken.com/fr/knowledge/2026/05/faskens-noteworthy-news",
-      "publishedAt": "2026-05-28T14:12:48.000Z",
-      "date": "2026-05-28T14:12:48.000Z",
-      "description": "Bulletin Protection des renseignements confidentiels, vie privée et cybersécurité. 28 mai 2026. Ce bulletin mensuel a été préparé par le groupe...",
-      "excerpt": "Bulletin Protection des renseignements confidentiels, vie privée et cybersécurité. 28 mai 2026. Ce bulletin mensuel a été préparé par le groupe...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "iOS 27: voici à quoi va ressembler votre iPhone dans quelques mois - Linternaute.com",
-      "link": "https://www.linternaute.com/hightech/mobile/10586256-ios-27-voici-a-quoi-va-ressembler-votre-iphone-dans-quelques-mois/",
-      "url": "https://www.linternaute.com/hightech/mobile/10586256-ios-27-voici-a-quoi-va-ressembler-votre-iphone-dans-quelques-mois/",
-      "publishedAt": "2026-05-28T12:42:54.000Z",
-      "date": "2026-05-28T12:42:54.000Z",
-      "description": "Très en retard sur le sujet par rapport à des géants comme ChatGPT, Google Gemini ou Claude AI, la firme de Cupertino travaille en secret sur de...",
-      "excerpt": "Très en retard sur le sujet par rapport à des géants comme ChatGPT, Google Gemini ou Claude AI, la firme de Cupertino travaille en secret sur de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "IBM annonce un investissement de 5 milliards de dollars dans la cybersécurité - 28/05/2026 à 12:55",
-      "link": "https://www.boursorama.com/bourse/actualites-amp/ibm-annonce-un-investissement-de-5-milliards-de-dollars-dans-la-cybersecurite-186eed9de77530f3c2fa655836ea5766",
-      "url": "https://www.boursorama.com/bourse/actualites-amp/ibm-annonce-un-investissement-de-5-milliards-de-dollars-dans-la-cybersecurite-186eed9de77530f3c2fa655836ea5766",
-      "publishedAt": "2026-05-28T11:01:31.000Z",
-      "date": "2026-05-28T11:01:31.000Z",
-      "description": "... cybersécurité face au développement rapide des capacités de... Le groupe américain, rival d'OpenAI et de son agent conversationnel ChatGPT...",
-      "excerpt": "... cybersécurité face au développement rapide des capacités de... Le groupe américain, rival d'OpenAI et de son agent conversationnel ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
