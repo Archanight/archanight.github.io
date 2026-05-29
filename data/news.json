@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T20:05:53.531Z",
+  "generatedAt": "2026-05-29T02:13:34.572Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "La valorisation d'Anthropic dépasse celle d'OpenAI, Claude menace la suprématie de ChatGPT",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/la-valorisation-d-anthropic-depasse-celle-d-openai-claude-menace-la-suprematie-de-chatgpt-n256684.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/la-valorisation-d-anthropic-depasse-celle-d-openai-claude-menace-la-suprematie-de-chatgpt-n256684.html",
+      "publishedAt": "2026-05-28T20:24:22.000Z",
+      "date": "2026-05-28T20:24:22.000Z",
+      "description": "Le cauchemar devient réalité pour OpenAI. Anthropic, fondé par un ancien de la startup de Sam Altman, dépasse celui à qui l'on doit ChatGPT en...",
+      "excerpt": "Le cauchemar devient réalité pour OpenAI. Anthropic, fondé par un ancien de la startup de Sam Altman, dépasse celui à qui l'on doit ChatGPT en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "update sur chatgpt: r/scratch - Reddit",
+      "link": "https://www.reddit.com/r/scratch/comments/1tpwcdi/update_on_chatgpt/?tl=fr",
+      "url": "https://www.reddit.com/r/scratch/comments/1tpwcdi/update_on_chatgpt/?tl=fr",
+      "publishedAt": "2026-05-28T18:58:42.000Z",
+      "date": "2026-05-28T18:58:42.000Z",
+      "description": "Il fonctionne avec open ai ChatGPT et est connecté au serveur python. Cependant, il est configuré de manière à ne nécessiter aucune installation, donc...",
+      "excerpt": "Il fonctionne avec open ai ChatGPT et est connecté au serveur python. Cependant, il est configuré de manière à ne nécessiter aucune installation, donc...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "L'incroyable virage technologique et créatif de Webedia-Elephant pour conquérir nos mobiles",
+      "link": "https://stephanelarue.com/lincroyable-virage-technologique-et-creatif-de-webedia-elephant-pour-conquerir-nos-mobiles/",
+      "url": "https://stephanelarue.com/lincroyable-virage-technologique-et-creatif-de-webedia-elephant-pour-conquerir-nos-mobiles/",
+      "publishedAt": "2026-05-28T18:20:51.000Z",
+      "date": "2026-05-28T18:20:51.000Z",
+      "description": "Apple refond Siri pour iOS 27: une app dédiée face à ChatGPT · Apple ChatGPT.",
+      "excerpt": "Apple refond Siri pour iOS 27: une app dédiée face à ChatGPT · Apple ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Pourquoi Paris est devenu le principal rival de la Silicon Valley en matière d'intelligence artificielle",
       "link": "https://zamin.uz/fr/technologie/203917-pourquoi-paris-est-devenu-le-principal-rival-de-la-silicon-valley-en-matiere-d-intelligence-artificielle.html",
@@ -97,36 +127,6 @@
       "date": "2026-05-28T09:31:13.000Z",
       "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Mise à jour de ChatGPT: le trafic référent issu du GEO de nouveau en...",
       "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Mise à jour de ChatGPT: le trafic référent issu du GEO de nouveau en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment forcer ChatGPT à crawler votre site web? (Et analyser les résultats) - Leptidigital",
-      "link": "https://www.leptidigital.fr/webmarketing/seo/forcer-chatgpt-crawler-site-web-90158/",
-      "url": "https://www.leptidigital.fr/webmarketing/seo/forcer-chatgpt-crawler-site-web-90158/",
-      "publishedAt": "2026-05-28T07:46:01.000Z",
-      "date": "2026-05-28T07:46:01.000Z",
-      "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Comment forcer ChatGPT à crawler votre site web pour que vous...",
-      "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Comment forcer ChatGPT à crawler votre site web pour que vous...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic dépasse OpenAI en revenus: Claude s'impose face à ChatGPT - gagadget.com",
-      "link": "https://gagadget.com/fr/712446-anthropic-depasse-openai-en-revenus-claude-simpose-face-a-chatgpt/",
-      "url": "https://gagadget.com/fr/712446-anthropic-depasse-openai-en-revenus-claude-simpose-face-a-chatgpt/",
-      "publishedAt": "2026-05-27T19:52:49.000Z",
-      "date": "2026-05-27T19:52:49.000Z",
-      "description": "Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures · Militaire... Pour les entreprises qui hésitent encore entre Claude et ChatGPT, le...",
-      "excerpt": "Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures · Militaire... Pour les entreprises qui hésitent encore entre Claude et ChatGPT, le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "4 étapes faciles pour transférer votre mémoire ChatGPT vers Claude | TechCabal",
-      "link": "https://techcabal.com/fr/2026/05/27/4-%C3%A9tapes-faciles-pour-transf%C3%A9rer-votre-m%C3%A9moire-chatgpt-vers-Claude/",
-      "url": "https://techcabal.com/fr/2026/05/27/4-%C3%A9tapes-faciles-pour-transf%C3%A9rer-votre-m%C3%A9moire-chatgpt-vers-Claude/",
-      "publishedAt": "2026-05-27T19:48:33.000Z",
-      "date": "2026-05-27T19:48:33.000Z",
-      "description": "Vous pouvez transférer facilement votre historique numérique vers Claude en exportant vos données ChatGPT. Cet article détaille la procédure en 4...",
-      "excerpt": "Vous pouvez transférer facilement votre historique numérique vers Claude en exportant vos données ChatGPT. Cet article détaille la procédure en 4...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
