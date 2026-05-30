@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T20:08:29.872Z",
+  "generatedAt": "2026-05-30T02:09:32.688Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT peut désormais gérer votre portefeuille et vos comptes bancaires: OpenAI lance...",
+      "link": "https://www.notebookcheck.biz/ChatGPT-peut-desormais-gerer-votre-portefeuille-et-vos-comptes-bancaires-OpenAI-lance-des-outils-de-gestion-des-finances-personnelles.1310985.0.html",
+      "url": "https://www.notebookcheck.biz/ChatGPT-peut-desormais-gerer-votre-portefeuille-et-vos-comptes-bancaires-OpenAI-lance-des-outils-de-gestion-des-finances-personnelles.1310985.0.html",
+      "publishedAt": "2026-05-30T01:35:57.000Z",
+      "date": "2026-05-30T01:35:57.000Z",
+      "description": "OpenAI espère vendre au moins 30 millions de téléphones dotés d'IA. ChatGPT -OpenAI phone specs, release date leak: 2nm MediaTek SoC, LPDDR6 RAM, UFS...",
+      "excerpt": "OpenAI espère vendre au moins 30 millions de téléphones dotés d'IA. ChatGPT -OpenAI phone specs, release date leak: 2nm MediaTek SoC, LPDDR6 RAM, UFS...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Ce que pourrait devenir iOS 27 si Apple place Siri au centre de tout - Charles Tech",
+      "link": "https://charlestech.fr/pourrait-devenir-ios-27-si-apple-place-siri-centre-tout/",
+      "url": "https://charlestech.fr/pourrait-devenir-ios-27-si-apple-place-siri-centre-tout/",
+      "publishedAt": "2026-05-29T19:17:24.000Z",
+      "date": "2026-05-29T19:17:24.000Z",
+      "description": "Une nouvelle place dans l'interface · Un chatbot natif concurrent de ChatGPT · Appareil photo et photos retravaillés · Un Siri plus contextuel.",
+      "excerpt": "Une nouvelle place dans l'interface · Un chatbot natif concurrent de ChatGPT · Appareil photo et photos retravaillés · Un Siri plus contextuel.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Les 3 plus grandes banques du Japon obtiennent un accès à OpenAI pour lutter contre les...",
       "link": "https://coinfomania.com/fr/les-3-plus-grandes-banques-du-japon-obtiennent-un-acces-a-openai-pour-lutter-contre-les-cyberattaques/",
@@ -107,26 +127,6 @@
       "date": "2026-05-29T08:28:07.000Z",
       "description": "... ChatGPT... À cause de ses compétences avancées en cybersécurité, ce modèle est...",
       "excerpt": "... ChatGPT... À cause de ses compétences avancées en cybersécurité, ce modèle est...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment bien détecter si une image a été générée via ChatGPT Images 2? - Leptidigital",
-      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/detecter-image-ia-chatgpt-images-2-90404/",
-      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/detecter-image-ia-chatgpt-images-2-90404/",
-      "publishedAt": "2026-05-29T08:21:29.000Z",
-      "date": "2026-05-29T08:21:29.000Z",
-      "description": "Le système analyse si elle contient des signaux indiquant qu'elle a été produite via ChatGPT, l'API OpenAI ou Codex.... cybersécurité, je suis un...",
-      "excerpt": "Le système analyse si elle contient des signaux indiquant qu'elle a été produite via ChatGPT, l'API OpenAI ou Codex.... cybersécurité, je suis un...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "[Tribune] Éditeurs juridiques et IA: ils ne sont pas morts, ils se suicident.",
-      "link": "https://www.village-justice.com/articles/editeurs-juridiques-ils-sont-pas-morts-ils-suicident,57518.html",
-      "url": "https://www.village-justice.com/articles/editeurs-juridiques-ils-sont-pas-morts-ils-suicident,57518.html",
-      "publishedAt": "2026-05-29T06:28:20.000Z",
-      "date": "2026-05-29T06:28:20.000Z",
-      "description": "Les éditeurs juridiques aiment présenter l'intelligence artificielle comme une menace extérieure. ChatGPT hallucine. Claude n'est pas spécialisé en...",
-      "excerpt": "Les éditeurs juridiques aiment présenter l'intelligence artificielle comme une menace extérieure. ChatGPT hallucine. Claude n'est pas spécialisé en...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
