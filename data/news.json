@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T08:16:43.298Z",
+  "generatedAt": "2026-05-30T13:04:02.031Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,14 +10,34 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Vous cherchez ChatGPT sur Google? Attention à cette nouvelle arnaque - PhonAndroid",
+      "link": "https://www.phonandroid.com/vous-cherchez-chatgpt-sur-google-attention-a-cette-nouvelle-arnaque.html",
+      "url": "https://www.phonandroid.com/vous-cherchez-chatgpt-sur-google-attention-a-cette-nouvelle-arnaque.html",
+      "publishedAt": "2026-05-30T10:03:24.000Z",
+      "date": "2026-05-30T10:03:24.000Z",
+      "description": "Méfiez-vous de ceux qui se feraient passer pour ChatGPT. Des chercheurs en cybersécurité ont en effet découvert une nouvelle arnaque qui permet aux...",
+      "excerpt": "Méfiez-vous de ceux qui se feraient passer pour ChatGPT. Des chercheurs en cybersécurité ont en effet découvert une nouvelle arnaque qui permet aux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "ChatGPT peut désormais gérer votre portefeuille et vos comptes bancaires: OpenAI lance...",
       "link": "https://www.notebookcheck.biz/ChatGPT-peut-desormais-gerer-votre-portefeuille-et-vos-comptes-bancaires-OpenAI-lance-des-outils-de-gestion-des-finances-personnelles.1310985.0.html",
       "url": "https://www.notebookcheck.biz/ChatGPT-peut-desormais-gerer-votre-portefeuille-et-vos-comptes-bancaires-OpenAI-lance-des-outils-de-gestion-des-finances-personnelles.1310985.0.html",
-      "publishedAt": "2026-05-30T01:35:57.000Z",
-      "date": "2026-05-30T01:35:57.000Z",
-      "description": "OpenAI espère vendre au moins 30 millions de téléphones dotés d'IA. ChatGPT -OpenAI phone specs, release date leak: 2nm MediaTek SoC, LPDDR6 RAM, UFS...",
-      "excerpt": "OpenAI espère vendre au moins 30 millions de téléphones dotés d'IA. ChatGPT -OpenAI phone specs, release date leak: 2nm MediaTek SoC, LPDDR6 RAM, UFS...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "publishedAt": "2026-05-30T07:35:57.000Z",
+      "date": "2026-05-30T07:35:57.000Z",
+      "description": "ChatGPT propose désormais un ensemble d'outils de finances personnelles avec intégration bancaire. Les utilisateurs de ChatGPT Pro peuvent désormais...",
+      "excerpt": "ChatGPT propose désormais un ensemble d'outils de finances personnelles avec intégration bancaire. Les utilisateurs de ChatGPT Pro peuvent désormais...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT lance une fonctionnalité de table des matières pour les longues conversations",
+      "link": "https://phemex.com/fr/news/article/chatgpt-launches-tableofcontents-feature-for-long-conversations-86801",
+      "url": "https://phemex.com/fr/news/article/chatgpt-launches-tableofcontents-feature-for-long-conversations-86801",
+      "publishedAt": "2026-05-30T05:46:56.000Z",
+      "date": "2026-05-30T05:46:56.000Z",
+      "description": "ChatGPT propose une table des matières pour naviguer... 2026/05/21 12:30 · Grok Build publiera des notes de version quotidiennes 2026/05/19 20:58...",
+      "excerpt": "ChatGPT propose une table des matières pour naviguer... 2026/05/21 12:30 · Grok Build publiera des notes de version quotidiennes 2026/05/19 20:58...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Ce que pourrait devenir iOS 27 si Apple place Siri au centre de tout - Charles Tech",
@@ -107,26 +127,6 @@
       "date": "2026-05-29T08:36:18.000Z",
       "description": "... ChatGPT. Autre point majeur: Apple testerait des intégrations directes avec des modèles tiers comme Google Gemini, OpenAI ChatGPT ou Anthropic Claude...",
       "excerpt": "... ChatGPT. Autre point majeur: Apple testerait des intégrations directes avec des modèles tiers comme Google Gemini, OpenAI ChatGPT ou Anthropic Claude...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI supprimera les modèles OpenAI o3 et GPT-4.5 de ChatGPT - KuCoin",
-      "link": "https://www.kucoin.com/fr/news/flash/openai-to-retire-openai-o3-and-gpt-4-5-models-from-chatgpt",
-      "url": "https://www.kucoin.com/fr/news/flash/openai-to-retire-openai-o3-and-gpt-4-5-models-from-chatgpt",
-      "publishedAt": "2026-05-29T08:28:17.000Z",
-      "date": "2026-05-29T08:28:17.000Z",
-      "description": "ME AI message, selon la surveillance de Beating, OpenAI a annoncé dans ses dernières notes de version ( Release Notes ) de ChatGPT qu'il retirerait...",
-      "excerpt": "ME AI message, selon la surveillance de Beating, OpenAI a annoncé dans ses dernières notes de version ( Release Notes ) de ChatGPT qu'il retirerait...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Anthropic redevient le roi de l'IA: Claude se place devant ChatGPT et Gemini grâce à Opus 4.8",
-      "link": "https://www.journaldugeek.com/2026/05/29/anthropic-redevient-le-roi-de-lia-claude-se-place-devant-chatgpt-et-openai-grace-a-opus-4-8/",
-      "url": "https://www.journaldugeek.com/2026/05/29/anthropic-redevient-le-roi-de-lia-claude-se-place-devant-chatgpt-et-openai-grace-a-opus-4-8/",
-      "publishedAt": "2026-05-29T08:28:07.000Z",
-      "date": "2026-05-29T08:28:07.000Z",
-      "description": "... ChatGPT... À cause de ses compétences avancées en cybersécurité, ce modèle est...",
-      "excerpt": "... ChatGPT... À cause de ses compétences avancées en cybersécurité, ce modèle est...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
