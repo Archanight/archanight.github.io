@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T13:04:02.031Z",
+  "generatedAt": "2026-05-30T18:59:12.283Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Faux ChatGPT et Claude: 92 000 attaques via de fausses IA en 2026 - AlexiTauzin.com",
+      "link": "https://alexitauzin.com/faux-chatgpt-et-claude-92-000-attaques-via-de-fausses-ia/",
+      "url": "https://alexitauzin.com/faux-chatgpt-et-claude-92-000-attaques-via-de-fausses-ia/",
+      "publishedAt": "2026-05-30T14:34:24.000Z",
+      "date": "2026-05-30T14:34:24.000Z",
+      "description": "Le vrai site est chat.openai.com. Verifiez toujours l'URL. Ne cliquez jamais sur un lien depuis un email ou un reseau social.... ChatGPT: chat.openai.",
+      "excerpt": "Le vrai site est chat.openai.com. Verifiez toujours l'URL. Ne cliquez jamais sur un lien depuis un email ou un reseau social.... ChatGPT: chat.openai.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Vous cherchez ChatGPT sur Google? Attention à cette nouvelle arnaque - PhonAndroid",
       "link": "https://www.phonandroid.com/vous-cherchez-chatgpt-sur-google-attention-a-cette-nouvelle-arnaque.html",
@@ -30,6 +40,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
+      "title": "Adieu GPT-4: OpenAI tourne définitivement la page - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/adieu-gpt-4-openai-tourne-definitivement-la-page",
+      "url": "https://www.lebigdata.fr/adieu-gpt-4-openai-tourne-definitivement-la-page",
+      "publishedAt": "2026-05-30T06:42:27.000Z",
+      "date": "2026-05-30T06:42:27.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Avec le retrait de GPT-4.5, le dernier représentant de cette génération quitte ChatGPT.",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Avec le retrait de GPT-4.5, le dernier représentant de cette génération quitte ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "ChatGPT lance une fonctionnalité de table des matières pour les longues conversations",
       "link": "https://phemex.com/fr/news/article/chatgpt-launches-tableofcontents-feature-for-long-conversations-86801",
       "url": "https://phemex.com/fr/news/article/chatgpt-launches-tableofcontents-feature-for-long-conversations-86801",
@@ -38,6 +58,16 @@
       "description": "ChatGPT propose une table des matières pour naviguer... 2026/05/21 12:30 · Grok Build publiera des notes de version quotidiennes 2026/05/19 20:58...",
       "excerpt": "ChatGPT propose une table des matières pour naviguer... 2026/05/21 12:30 · Grok Build publiera des notes de version quotidiennes 2026/05/19 20:58...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "AI bitcoin price prediction: Can BTC reach $1M by 2035? - MSN",
+      "link": "https://www.msn.com/fr-ch/finance/marches/ai-bitcoin-price-prediction-can-btc-reach-1m-by-2035/ar-AA24lfWY",
+      "url": "https://www.msn.com/fr-ch/finance/marches/ai-bitcoin-price-prediction-can-btc-reach-1m-by-2035/ar-AA24lfWY",
+      "publishedAt": "2026-05-30T03:59:02.000Z",
+      "date": "2026-05-30T03:59:02.000Z",
+      "description": "... cybersécurité... ChatGPT: A $1M Bitcoin May Partly Mean a Weaker Dollar.",
+      "excerpt": "... cybersécurité... ChatGPT: A $1M Bitcoin May Partly Mean a Weaker Dollar.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "Ce que pourrait devenir iOS 27 si Apple place Siri au centre de tout - Charles Tech",
@@ -97,36 +127,6 @@
       "date": "2026-05-29T12:54:52.000Z",
       "description": "Longtemps restée dans l'ombre de ChatGPT, Anthropic vient de prendre sa revanche.... Cybersécurité bancaire: Les banques européennes sous pression...",
       "excerpt": "Longtemps restée dans l'ombre de ChatGPT, Anthropic vient de prendre sa revanche.... Cybersécurité bancaire: Les banques européennes sous pression...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic annonce la sortie de la redoutable IA “Mythos” et lève 65 Mds $ pour une... - Presse-citron",
-      "link": "https://www.presse-citron.net/anthropic-sortie-mythos-et-leve-65-mds-pour-valorisation-965-mds/",
-      "url": "https://www.presse-citron.net/anthropic-sortie-mythos-et-leve-65-mds-pour-valorisation-965-mds/",
-      "publishedAt": "2026-05-29T09:48:41.000Z",
-      "date": "2026-05-29T09:48:41.000Z",
-      "description": "... à une nouvelle levée de fonds, Anthropic dépasse désormais la valorisation d'OpenAI, malgré le fait que ChatGPT compte plus d'utilisateurs que Claude.",
-      "excerpt": "... à une nouvelle levée de fonds, Anthropic dépasse désormais la valorisation d'OpenAI, malgré le fait que ChatGPT compte plus d'utilisateurs que Claude.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "5 jours pour accéder à GPT-5, Claude et Gemini sans abonnement: voici l'offre à vie 1min.AI - Clubic",
-      "link": "https://www.clubic.com/bons-plans-614359-jours-pour-acceder-a-gpt-5-claude-et-gemini-sans-abonnement-l-offre-a-vie-1min-ai.html",
-      "url": "https://www.clubic.com/bons-plans-614359-jours-pour-acceder-a-gpt-5-claude-et-gemini-sans-abonnement-l-offre-a-vie-1min-ai.html",
-      "publishedAt": "2026-05-29T09:35:24.000Z",
-      "date": "2026-05-29T09:35:24.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Payer ChatGPT, puis Claude, puis Gemini... la facture mensuelle des...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Payer ChatGPT, puis Claude, puis Gemini... la facture mensuelle des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "iPhone 18 Pro: caméra, IA, Siri, une fuite choc révèle les nouveautés d'iOS 27 plusieurs mois trop tôt",
-      "link": "https://www.lacremedugaming.fr/high-tech/iphone-18-pro-camera-ia-siri-une-fuite-choc-revele-les-nouveautes-dios-27-plusieurs-mois-trop-tot-215330.html",
-      "url": "https://www.lacremedugaming.fr/high-tech/iphone-18-pro-camera-ia-siri-une-fuite-choc-revele-les-nouveautes-dios-27-plusieurs-mois-trop-tot-215330.html",
-      "publishedAt": "2026-05-29T08:36:18.000Z",
-      "date": "2026-05-29T08:36:18.000Z",
-      "description": "... ChatGPT. Autre point majeur: Apple testerait des intégrations directes avec des modèles tiers comme Google Gemini, OpenAI ChatGPT ou Anthropic Claude...",
-      "excerpt": "... ChatGPT. Autre point majeur: Apple testerait des intégrations directes avec des modèles tiers comme Google Gemini, OpenAI ChatGPT ou Anthropic Claude...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
