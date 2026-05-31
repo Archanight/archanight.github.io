@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T18:59:12.283Z",
+  "generatedAt": "2026-05-31T02:35:11.195Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Spotify enrichit son application avec plusieurs nouveautés attendues - Toms Guide",
+      "link": "https://www.tomsguide.fr/spotify-enrichit-son-application-avec-plusieurs-nouveautes-attendues/",
+      "url": "https://www.tomsguide.fr/spotify-enrichit-son-application-avec-plusieurs-nouveautes-attendues/",
+      "publishedAt": "2026-05-30T20:45:38.000Z",
+      "date": "2026-05-30T20:45:38.000Z",
+      "description": "... update are you trying first? pic.twitter.com/jc2T7O0On7. — Spotify... ChatGPT est au ralenti, OpenAI confirme une dégradation du service. 27...",
+      "excerpt": "... update are you trying first? pic.twitter.com/jc2T7O0On7. — Spotify... ChatGPT est au ralenti, OpenAI confirme une dégradation du service. 27...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Microsoft One Copilot: la super-app qui va unifier toute l'IA de Microsoft - AlexiTauzin.com",
+      "link": "https://alexitauzin.com/microsoft-one-copilot-super-app-unification-ia-2026/",
+      "url": "https://alexitauzin.com/microsoft-one-copilot-super-app-unification-ia-2026/",
+      "publishedAt": "2026-05-30T18:24:26.000Z",
+      "date": "2026-05-30T18:24:26.000Z",
+      "description": "Expert en cybersécurité et technologies IA. Passionné... OpenAI prépare sa propre super-app qui unifiera ChatGPT, Codex et le navigateur Atlas.",
+      "excerpt": "Expert en cybersécurité et technologies IA. Passionné... OpenAI prépare sa propre super-app qui unifiera ChatGPT, Codex et le navigateur Atlas.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Faux ChatGPT et Claude: 92 000 attaques via de fausses IA en 2026 - AlexiTauzin.com",
       "link": "https://alexitauzin.com/faux-chatgpt-et-claude-92-000-attaques-via-de-fausses-ia/",
@@ -107,26 +127,6 @@
       "date": "2026-05-29T15:05:02.000Z",
       "description": "... ChatGPT a vu sa population entière disparaître en une semaine. Les... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
       "excerpt": "... ChatGPT a vu sa population entière disparaître en une semaine. Les... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Apple prépare un Siri façon ChatGPT, et les premières images viennent de fuiter",
-      "link": "https://siecledigital.fr/2026/05/29/apple-prepare-un-siri-facon-chatgpt-et-les-premieres-images-viennent-de-fuiter/",
-      "url": "https://siecledigital.fr/2026/05/29/apple-prepare-un-siri-facon-chatgpt-et-les-premieres-images-viennent-de-fuiter/",
-      "publishedAt": "2026-05-29T13:41:59.000Z",
-      "date": "2026-05-29T13:41:59.000Z",
-      "description": "... ChatGPT et potentiellement changer la façon dont deux milliards d'appareils Apple fonctionnent. Rien que ça! Depuis deux ans, Apple…",
-      "excerpt": "... ChatGPT et potentiellement changer la façon dont deux milliards d'appareils Apple fonctionnent. Rien que ça! Depuis deux ans, Apple…",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Claude détrône ChatGPT: Anthropic devient la start-up d'IA la plus valorisée du monde",
-      "link": "https://www.21news.be/claude-detrone-chatgpt-anthropic-devient-la-start-up-dia-la-plus-valorisee-du-monde/",
-      "url": "https://www.21news.be/claude-detrone-chatgpt-anthropic-devient-la-start-up-dia-la-plus-valorisee-du-monde/",
-      "publishedAt": "2026-05-29T12:54:52.000Z",
-      "date": "2026-05-29T12:54:52.000Z",
-      "description": "Longtemps restée dans l'ombre de ChatGPT, Anthropic vient de prendre sa revanche.... Cybersécurité bancaire: Les banques européennes sous pression...",
-      "excerpt": "Longtemps restée dans l'ombre de ChatGPT, Anthropic vient de prendre sa revanche.... Cybersécurité bancaire: Les banques européennes sous pression...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
