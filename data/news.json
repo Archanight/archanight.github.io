@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T08:34:17.961Z",
+  "generatedAt": "2026-05-31T13:15:44.342Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Google has just launched Gemini 3. - YouTube",
+      "link": "https://www.youtube.com/watch?v=oqja3FT6-0M",
+      "url": "https://www.youtube.com/watch?v=oqja3FT6-0M",
+      "publishedAt": "2026-05-31T05:19:18.000Z",
+      "date": "2026-05-31T05:19:18.000Z",
+      "description": "... ChatGPT pour recevoir ma formation IA gratuite d'1h Abonnez-vous Demain... it's not “an update.” It's a game-changer. In the benchmarks? It...",
+      "excerpt": "... ChatGPT pour recevoir ma formation IA gratuite d'1h Abonnez-vous Demain... it's not “an update.” It's a game-changer. In the benchmarks? It...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Spotify enrichit son application avec plusieurs nouveautés attendues - Toms Guide",
       "link": "https://www.tomsguide.fr/spotify-enrichit-son-application-avec-plusieurs-nouveautes-attendues/",
@@ -117,16 +127,6 @@
       "date": "2026-05-29T16:04:47.000Z",
       "description": "GPT-5; Claude (Sonnet / Opus selon disponibilité); Gemini; Mistral; Llama; ChatGPT Plus: environ 20–23 € par mois; Claude Pro: environ 20 € par mois...",
       "excerpt": "GPT-5; Claude (Sonnet / Opus selon disponibilité); Gemini; Mistral; Llama; ChatGPT Plus: environ 20–23 € par mois; Claude Pro: environ 20 € par mois...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ils ont créé des villes gérées par IA - Korben",
-      "link": "https://korben.info/ils-ont-cree-des-villes-gerees-par-ia.html",
-      "url": "https://korben.info/ils-ont-cree-des-villes-gerees-par-ia.html",
-      "publishedAt": "2026-05-29T15:05:02.000Z",
-      "date": "2026-05-29T15:05:02.000Z",
-      "description": "... ChatGPT a vu sa population entière disparaître en une semaine. Les... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
-      "excerpt": "... ChatGPT a vu sa population entière disparaître en une semaine. Les... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
