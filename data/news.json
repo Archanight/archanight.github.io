@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T13:15:44.342Z",
+  "generatedAt": "2026-05-31T19:02:57.645Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "L'arme secrète de Téhéran: Quand les hackers iraniens retournent l'intelligence artificielle...",
+      "link": "https://elwatan.dz/larme-secrete-de-teheran-quand-les-hackers-iraniens-retournent-lintelligence-artificielle-americaine-contre-loccident/",
+      "url": "https://elwatan.dz/larme-secrete-de-teheran-quand-les-hackers-iraniens-retournent-lintelligence-artificielle-americaine-contre-loccident/",
+      "publishedAt": "2026-05-31T12:29:10.000Z",
+      "date": "2026-05-31T12:29:10.000Z",
+      "description": "«Nous observons des signes indiquant qu'ils utilisent des requêtes IA tout au long de leur processus», confie un analyste en cybersécurité au sein d'...",
+      "excerpt": "«Nous observons des signes indiquant qu'ils utilisent des requêtes IA tout au long de leur processus», confie un analyste en cybersécurité au sein d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Une offre GEO chez Onclusive - Image - CB News",
+      "link": "https://www.cbnews.fr/digital/offre-geo-chez-onclusive",
+      "url": "https://www.cbnews.fr/digital/offre-geo-chez-onclusive",
+      "publishedAt": "2026-05-31T10:21:53.000Z",
+      "date": "2026-05-31T10:21:53.000Z",
+      "description": "Intégré à la plateforme unifiée Onclusive et à Onclusive Social, la solution analyse cinq IA génératives: Gemini, ChatGPT, Grok, Claude et Perplexity...",
+      "excerpt": "Intégré à la plateforme unifiée Onclusive et à Onclusive Social, la solution analyse cinq IA génératives: Gemini, ChatGPT, Grok, Claude et Perplexity...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA Révolutionne: ChatGPT image, les Nouveautés Incroyables #shorts - YouTube",
+      "link": "https://www.youtube.com/watch?v=KtsKXGjWxMk",
+      "url": "https://www.youtube.com/watch?v=KtsKXGjWxMk",
+      "publishedAt": "2026-05-31T08:19:02.000Z",
+      "date": "2026-05-31T08:19:02.000Z",
+      "description": "DALL-E intégré à ChatGPT redéfinit la création visuelle. Opportunités pour les associations, mais défis pour les graphistes.",
+      "excerpt": "DALL-E intégré à ChatGPT redéfinit la création visuelle. Opportunités pour les associations, mais défis pour les graphistes.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Google has just launched Gemini 3. - YouTube",
       "link": "https://www.youtube.com/watch?v=oqja3FT6-0M",
@@ -97,36 +127,6 @@
       "date": "2026-05-30T03:59:02.000Z",
       "description": "... cybersécurité... ChatGPT: A $1M Bitcoin May Partly Mean a Weaker Dollar.",
       "excerpt": "... cybersécurité... ChatGPT: A $1M Bitcoin May Partly Mean a Weaker Dollar.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ce que pourrait devenir iOS 27 si Apple place Siri au centre de tout - Charles Tech",
-      "link": "https://charlestech.fr/pourrait-devenir-ios-27-si-apple-place-siri-centre-tout/",
-      "url": "https://charlestech.fr/pourrait-devenir-ios-27-si-apple-place-siri-centre-tout/",
-      "publishedAt": "2026-05-29T19:17:24.000Z",
-      "date": "2026-05-29T19:17:24.000Z",
-      "description": "Une nouvelle place dans l'interface · Un chatbot natif concurrent de ChatGPT · Appareil photo et photos retravaillés · Un Siri plus contextuel.",
-      "excerpt": "Une nouvelle place dans l'interface · Un chatbot natif concurrent de ChatGPT · Appareil photo et photos retravaillés · Un Siri plus contextuel.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Les 3 plus grandes banques du Japon obtiennent un accès à OpenAI pour lutter contre les...",
-      "link": "https://coinfomania.com/fr/les-3-plus-grandes-banques-du-japon-obtiennent-un-acces-a-openai-pour-lutter-contre-les-cyberattaques/",
-      "url": "https://coinfomania.com/fr/les-3-plus-grandes-banques-du-japon-obtiennent-un-acces-a-openai-pour-lutter-contre-les-cyberattaques/",
-      "publishedAt": "2026-05-29T18:24:04.000Z",
-      "date": "2026-05-29T18:24:04.000Z",
-      "description": "... cybersécurité et… pic.twitter.com/T3tBzPIb0W. — The Crypto Times... Le projet intègre des services financiers dans ChatGPT via l'écosystème d'...",
-      "excerpt": "... cybersécurité et… pic.twitter.com/T3tBzPIb0W. — The Crypto Times... Le projet intègre des services financiers dans ChatGPT via l'écosystème d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5, Claude et Gemini sans abonnement pendant 3 jours, cette offre à vie pourrait vous intéresser",
-      "link": "https://www.lacremedugaming.fr/actus/gpt-5-claude-et-gemini-sans-abonnement-pendant-3-jours-cette-offre-a-vie-pourrait-vous-interesser-215372.html",
-      "url": "https://www.lacremedugaming.fr/actus/gpt-5-claude-et-gemini-sans-abonnement-pendant-3-jours-cette-offre-a-vie-pourrait-vous-interesser-215372.html",
-      "publishedAt": "2026-05-29T16:04:47.000Z",
-      "date": "2026-05-29T16:04:47.000Z",
-      "description": "GPT-5; Claude (Sonnet / Opus selon disponibilité); Gemini; Mistral; Llama; ChatGPT Plus: environ 20–23 € par mois; Claude Pro: environ 20 € par mois...",
-      "excerpt": "GPT-5; Claude (Sonnet / Opus selon disponibilité); Gemini; Mistral; Llama; ChatGPT Plus: environ 20–23 € par mois; Claude Pro: environ 20 € par mois...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
