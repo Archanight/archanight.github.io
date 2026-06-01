@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T11:09:34.920Z",
+  "generatedAt": "2026-06-01T17:18:03.593Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,14 +10,54 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Les assistants IA créent un nouveau défi de visibilité pour les entreprises suisses",
+      "link": "https://www.ictjournal.ch/etudes/2026-06-01/les-assistants-ia-creent-un-nouveau-defi-de-visibilite-pour-les-entreprises",
+      "url": "https://www.ictjournal.ch/etudes/2026-06-01/les-assistants-ia-creent-un-nouveau-defi-de-visibilite-pour-les-entreprises",
+      "publishedAt": "2026-06-01T15:29:26.000Z",
+      "date": "2026-06-01T15:29:26.000Z",
+      "description": "ChatGPT, Gemini, Perplexity et Google AI Mode ne mettent pas en avant... cybersécurité: Genev'Hack. 09. juin 2026 - 13:00 à 17:30. Hôtel...",
+      "excerpt": "ChatGPT, Gemini, Perplexity et Google AI Mode ne mettent pas en avant... cybersécurité: Genev'Hack. 09. juin 2026 - 13:00 à 17:30. Hôtel...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Ce qui se passe quand ChatGPT accède à vos Google Sheets est inquiétant - Charles Tech",
+      "link": "https://charlestech.fr/passe-quand-chatgpt-accede-vos-google-sheets-est-inquietant/",
+      "url": "https://charlestech.fr/passe-quand-chatgpt-accede-vos-google-sheets-est-inquietant/",
+      "publishedAt": "2026-06-01T13:33:08.000Z",
+      "date": "2026-06-01T13:33:08.000Z",
+      "description": "L'extension ChatGPT pour Google Sheets permet à un attaquant d'exfiltrer des classeurs entiers via une injection de prompt cachée dans une feuille...",
+      "excerpt": "L'extension ChatGPT pour Google Sheets permet à un attaquant d'exfiltrer des classeurs entiers via une injection de prompt cachée dans une feuille...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "ChatGPT: OpenAI supprime discrètement ces deux modèles historiques - 01net.com",
       "link": "https://www.01net.com/actualites/chatgpt-openai-supprime-discretement-ces-deux-modeles-historiques.html",
       "url": "https://www.01net.com/actualites/chatgpt-openai-supprime-discretement-ces-deux-modeles-historiques.html",
-      "publishedAt": "2026-06-01T10:28:31.000Z",
-      "date": "2026-06-01T10:28:31.000Z",
-      "description": "OpenAI tourne définitivement la page de la génération GPT-4 en retirant les derniers modèles encore accessibles dans ChatGPT... Cybersécurité · Société...",
-      "excerpt": "OpenAI tourne définitivement la page de la génération GPT-4 en retirant les derniers modèles encore accessibles dans ChatGPT... Cybersécurité · Société...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "publishedAt": "2026-06-01T11:55:44.000Z",
+      "date": "2026-06-01T11:55:44.000Z",
+      "description": "OpenAI tourne définitivement la page de la génération GPT-4 en retirant les derniers modèles encore accessibles dans ChatGPT... Les notes de version...",
+      "excerpt": "OpenAI tourne définitivement la page de la génération GPT-4 en retirant les derniers modèles encore accessibles dans ChatGPT... Les notes de version...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Windows 11: la mise à jour de mai est débloquée, téléchargez le correctif - Toms Guide",
+      "link": "https://www.tomsguide.fr/windows-11-la-mise-a-jour-de-mai-est-debloquee-telechargez-le-correctif/",
+      "url": "https://www.tomsguide.fr/windows-11-la-mise-a-jour-de-mai-est-debloquee-telechargez-le-correctif/",
+      "publishedAt": "2026-06-01T09:44:09.000Z",
+      "date": "2026-06-01T09:44:09.000Z",
+      "description": "a finalement déployé un correctif que vous pouvez récupérer directement depuis Windows Update... Ce département français interdit ChatGPT et...",
+      "excerpt": "a finalement déployé un correctif que vous pouvez récupérer directement depuis Windows Update... Ce département français interdit ChatGPT et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ce département français bannit ChatGPT et Gemini, mais impose Microsoft Copilot à ses agents",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/souverainete-numerique-ce-departement-francais-bannit-chatgpt-et-gemini-mais-impose-microsoft-copilot-a-ses-agents-n256825.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/souverainete-numerique-ce-departement-francais-bannit-chatgpt-et-gemini-mais-impose-microsoft-copilot-a-ses-agents-n256825.html",
+      "publishedAt": "2026-06-01T09:43:53.000Z",
+      "date": "2026-06-01T09:43:53.000Z",
+      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Siri rattrape enfin ce retard qu'on lui reproche depuis des années - PhonAndroid",
@@ -28,6 +68,16 @@
       "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum... ChatGPT, Gemini ou Claude proposent cette continuité entre appareils depuis...",
       "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum... ChatGPT, Gemini ou Claude proposent cette continuité entre appareils depuis...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Anthropic nears $1trln valuation after fresh funding round - TradingView",
+      "link": "https://fr.tradingview.com/news/reuters.com,2026-06-01:newsml_Zaw2Qxw9c:0-anthropic-nears-1trln-valuation-after-fresh-funding-round/",
+      "url": "https://fr.tradingview.com/news/reuters.com,2026-06-01:newsml_Zaw2Qxw9c:0-anthropic-nears-1trln-valuation-after-fresh-funding-round/",
+      "publishedAt": "2026-06-01T06:04:48.000Z",
+      "date": "2026-06-01T06:04:48.000Z",
+      "description": "In comparison, rival OpenAI—which triggered the current AI boom in 2022 with the release of ChatGPT —was recently valued at approximately $730 billion...",
+      "excerpt": "In comparison, rival OpenAI—which triggered the current AI boom in 2022 with the release of ChatGPT —was recently valued at approximately $730 billion...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Analyse de la cybersécurité Q1 2026: Focus sur le paysage des menaces macOS",
@@ -77,56 +127,6 @@
       "date": "2026-05-31T10:21:53.000Z",
       "description": "Intégré à la plateforme unifiée Onclusive et à Onclusive Social, la solution analyse cinq IA génératives: Gemini, ChatGPT, Grok, Claude et Perplexity...",
       "excerpt": "Intégré à la plateforme unifiée Onclusive et à Onclusive Social, la solution analyse cinq IA génératives: Gemini, ChatGPT, Grok, Claude et Perplexity...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA Révolutionne: ChatGPT image, les Nouveautés Incroyables #shorts - YouTube",
-      "link": "https://www.youtube.com/watch?v=KtsKXGjWxMk",
-      "url": "https://www.youtube.com/watch?v=KtsKXGjWxMk",
-      "publishedAt": "2026-05-31T08:19:02.000Z",
-      "date": "2026-05-31T08:19:02.000Z",
-      "description": "DALL-E intégré à ChatGPT redéfinit la création visuelle. Opportunités pour les associations, mais défis pour les graphistes.",
-      "excerpt": "DALL-E intégré à ChatGPT redéfinit la création visuelle. Opportunités pour les associations, mais défis pour les graphistes.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Google has just launched Gemini 3. - YouTube",
-      "link": "https://www.youtube.com/watch?v=oqja3FT6-0M",
-      "url": "https://www.youtube.com/watch?v=oqja3FT6-0M",
-      "publishedAt": "2026-05-31T05:19:18.000Z",
-      "date": "2026-05-31T05:19:18.000Z",
-      "description": "... ChatGPT pour recevoir ma formation IA gratuite d'1h Abonnez-vous Demain... it's not “an update.” It's a game-changer. In the benchmarks? It...",
-      "excerpt": "... ChatGPT pour recevoir ma formation IA gratuite d'1h Abonnez-vous Demain... it's not “an update.” It's a game-changer. In the benchmarks? It...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Spotify enrichit son application avec plusieurs nouveautés attendues - Toms Guide",
-      "link": "https://www.tomsguide.fr/spotify-enrichit-son-application-avec-plusieurs-nouveautes-attendues/",
-      "url": "https://www.tomsguide.fr/spotify-enrichit-son-application-avec-plusieurs-nouveautes-attendues/",
-      "publishedAt": "2026-05-30T20:45:38.000Z",
-      "date": "2026-05-30T20:45:38.000Z",
-      "description": "... update are you trying first? pic.twitter.com/jc2T7O0On7. — Spotify... ChatGPT est au ralenti, OpenAI confirme une dégradation du service. 27...",
-      "excerpt": "... update are you trying first? pic.twitter.com/jc2T7O0On7. — Spotify... ChatGPT est au ralenti, OpenAI confirme une dégradation du service. 27...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Microsoft One Copilot: la super-app qui va unifier toute l'IA de Microsoft - AlexiTauzin.com",
-      "link": "https://alexitauzin.com/microsoft-one-copilot-super-app-unification-ia-2026/",
-      "url": "https://alexitauzin.com/microsoft-one-copilot-super-app-unification-ia-2026/",
-      "publishedAt": "2026-05-30T18:24:26.000Z",
-      "date": "2026-05-30T18:24:26.000Z",
-      "description": "Expert en cybersécurité et technologies IA. Passionné... OpenAI prépare sa propre super-app qui unifiera ChatGPT, Codex et le navigateur Atlas.",
-      "excerpt": "Expert en cybersécurité et technologies IA. Passionné... OpenAI prépare sa propre super-app qui unifiera ChatGPT, Codex et le navigateur Atlas.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Faux ChatGPT et Claude: 92 000 attaques via de fausses IA en 2026 - AlexiTauzin.com",
-      "link": "https://alexitauzin.com/faux-chatgpt-et-claude-92-000-attaques-via-de-fausses-ia/",
-      "url": "https://alexitauzin.com/faux-chatgpt-et-claude-92-000-attaques-via-de-fausses-ia/",
-      "publishedAt": "2026-05-30T14:34:24.000Z",
-      "date": "2026-05-30T14:34:24.000Z",
-      "description": "Le vrai site est chat.openai.com. Verifiez toujours l'URL. Ne cliquez jamais sur un lien depuis un email ou un reseau social.... ChatGPT: chat.openai.",
-      "excerpt": "Le vrai site est chat.openai.com. Verifiez toujours l'URL. Ne cliquez jamais sur un lien depuis un email ou un reseau social.... ChatGPT: chat.openai.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
