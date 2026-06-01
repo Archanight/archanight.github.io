@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T17:18:03.593Z",
+  "generatedAt": "2026-06-01T21:21:11.266Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "La Floride attaque OpenAI et son patron Sam Altman pour mise en danger de jeunes utilisateurs",
+      "link": "https://actu.orange.fr/societe/high-tech/la-floride-attaque-openai-et-son-patron-sam-altman-pour-mise-en-danger-de-jeunes-utilisateurs-CNT000002pHQBm.html",
+      "url": "https://actu.orange.fr/societe/high-tech/la-floride-attaque-openai-et-son-patron-sam-altman-pour-mise-en-danger-de-jeunes-utilisateurs-CNT000002pHQBm.html",
+      "publishedAt": "2026-06-01T17:52:37.000Z",
+      "date": "2026-06-01T17:52:37.000Z",
+      "description": "Le procureur de Floride a assigné lundi OpenAI et son patron Sam Altman, accusant leur interface ChatGPT... Cybersécurité et Télésurveillance.",
+      "excerpt": "Le procureur de Floride a assigné lundi OpenAI et son patron Sam Altman, accusant leur interface ChatGPT... Cybersécurité et Télésurveillance.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "PewDiePie lance Odysseus, un espace de travail IA gratuit | GAMES.GG",
+      "link": "https://games.gg/fr/news/pewdiepie-lance-odysseus-un-espace-de-travail-ia-gratuit-face-%C3%A0-chatgpt/",
+      "url": "https://games.gg/fr/news/pewdiepie-lance-odysseus-un-espace-de-travail-ia-gratuit-face-%C3%A0-chatgpt/",
+      "publishedAt": "2026-06-01T17:38:24.000Z",
+      "date": "2026-06-01T17:38:24.000Z",
+      "description": "Découvrez Odysseus, l'espace de travail IA gratuit et auto-hébergé lancé par PewDiePie pour concurrencer ChatGPT sans dépendance au cloud ni...",
+      "excerpt": "Découvrez Odysseus, l'espace de travail IA gratuit et auto-hébergé lancé par PewDiePie pour concurrencer ChatGPT sans dépendance au cloud ni...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Vulnérabilité de ChatGPT - Cybersécurité B2B",
+      "link": "https://b2b-cyber-security.de/fr/vuln%C3%A9rabilit%C3%A9-dans-chatgpt/",
+      "url": "https://b2b-cyber-security.de/fr/vuln%C3%A9rabilit%C3%A9-dans-chatgpt/",
+      "publishedAt": "2026-06-01T16:40:58.000Z",
+      "date": "2026-06-01T16:40:58.000Z",
+      "description": "Des chercheurs en sécurité de Check Point Research ont découvert une faille de sécurité jusqu'alors inconnue dans ChatGPT... cybersécurité pour les...",
+      "excerpt": "Des chercheurs en sécurité de Check Point Research ont découvert une faille de sécurité jusqu'alors inconnue dans ChatGPT... cybersécurité pour les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Did ChatGPT make him a MILLIONAIRE?! - YouTube",
+      "link": "https://www.youtube.com/watch?v=VX0uhNEvmqI",
+      "url": "https://www.youtube.com/watch?v=VX0uhNEvmqI",
+      "publishedAt": "2026-06-01T16:34:09.000Z",
+      "date": "2026-06-01T16:34:09.000Z",
+      "description": "Cette personne est devenue millionnaire grâce à ChatGPT?! Au départ, personne n'y croyait… Une idée toute simple L'intelligence...",
+      "excerpt": "Cette personne est devenue millionnaire grâce à ChatGPT?! Au départ, personne n'y croyait… Une idée toute simple L'intelligence...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Cybersécurité: les failles cachées d'Israël | Watch - MSN",
+      "link": "https://www.msn.com/fr-xl/actualite/other/cybers%C3%A9curit%C3%A9-les-failles-cach%C3%A9es-d-isra%C3%ABl/vi-AA24uKaN",
+      "url": "https://www.msn.com/fr-xl/actualite/other/cybers%C3%A9curit%C3%A9-les-failles-cach%C3%A9es-d-isra%C3%ABl/vi-AA24uKaN",
+      "publishedAt": "2026-06-01T16:21:11.000Z",
+      "date": "2026-06-01T16:21:11.000Z",
+      "description": "Cybersécurité: les failles cachées d'Israël. Posted: 31 mai 2026 | Last... ChatGPT trop complaisant? Quand l'IA menace notre sens moral. L...",
+      "excerpt": "Cybersécurité: les failles cachées d'Israël. Posted: 31 mai 2026 | Last... ChatGPT trop complaisant? Quand l'IA menace notre sens moral. L...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Les assistants IA créent un nouveau défi de visibilité pour les entreprises suisses",
       "link": "https://www.ictjournal.ch/etudes/2026-06-01/les-assistants-ia-creent-un-nouveau-defi-de-visibilite-pour-les-entreprises",
@@ -78,56 +128,6 @@
       "description": "In comparison, rival OpenAI—which triggered the current AI boom in 2022 with the release of ChatGPT —was recently valued at approximately $730 billion...",
       "excerpt": "In comparison, rival OpenAI—which triggered the current AI boom in 2022 with the release of ChatGPT —was recently valued at approximately $730 billion...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Analyse de la cybersécurité Q1 2026: Focus sur le paysage des menaces macOS",
-      "link": "https://www.app4phone.fr/article-209927/analyse-de-la-cybersecurite-q1-2026-focus-sur-le-paysage-des-menaces-macos",
-      "url": "https://www.app4phone.fr/article-209927/analyse-de-la-cybersecurite-q1-2026-focus-sur-le-paysage-des-menaces-macos",
-      "publishedAt": "2026-06-01T00:32:42.000Z",
-      "date": "2026-06-01T00:32:42.000Z",
-      "description": "Analyse de la cybersécurité Q1 2026: Focus sur le paysage des menaces macOS... ChatGPT ou d'autres applications. Des acteurs malveillants exploitent...",
-      "excerpt": "Analyse de la cybersécurité Q1 2026: Focus sur le paysage des menaces macOS... ChatGPT ou d'autres applications. Des acteurs malveillants exploitent...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude vs ChatGPT 2026: 87,6% vs 82,7% Bench [Testé] - Tech Insider",
-      "link": "https://tech-insider.org/fr/claude-vs-chatgpt-2026-2/",
-      "url": "https://tech-insider.org/fr/claude-vs-chatgpt-2026-2/",
-      "publishedAt": "2026-05-31T22:00:18.000Z",
-      "date": "2026-05-31T22:00:18.000Z",
-      "description": "L'écosystème API GPT-5 reste segmenté en gpt-5, gpt-5 -mini et gpt-5 -pro... cybersécurité interdits, selon l'annonce officielle du 16 avril 2026.",
-      "excerpt": "L'écosystème API GPT-5 reste segmenté en gpt-5, gpt-5 -mini et gpt-5 -pro... cybersécurité interdits, selon l'annonce officielle du 16 avril 2026.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI retirera GPT-4.5 et o3 de ChatGPT: deux dates à retenir pour les utilisateurs",
-      "link": "https://www.menow.fr/openai-retirera-gpt-4-5-et-o3-de-chatgpt-deux-dates-a-retenir-pour-les-utilisateurs/",
-      "url": "https://www.menow.fr/openai-retirera-gpt-4-5-et-o3-de-chatgpt-deux-dates-a-retenir-pour-les-utilisateurs/",
-      "publishedAt": "2026-05-31T19:32:17.000Z",
-      "date": "2026-05-31T19:32:17.000Z",
-      "description": "OpenAI retirera deux anciens modèles de ChatGPT dans les prochains mois. GPT-4.5 disparaîtra de l'interface web et mobile le 27 juin 2026,...",
-      "excerpt": "OpenAI retirera deux anciens modèles de ChatGPT dans les prochains mois. GPT-4.5 disparaîtra de l'interface web et mobile le 27 juin 2026,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "L'arme secrète de Téhéran: Quand les hackers iraniens retournent l'intelligence artificielle...",
-      "link": "https://elwatan.dz/larme-secrete-de-teheran-quand-les-hackers-iraniens-retournent-lintelligence-artificielle-americaine-contre-loccident/",
-      "url": "https://elwatan.dz/larme-secrete-de-teheran-quand-les-hackers-iraniens-retournent-lintelligence-artificielle-americaine-contre-loccident/",
-      "publishedAt": "2026-05-31T12:29:10.000Z",
-      "date": "2026-05-31T12:29:10.000Z",
-      "description": "«Nous observons des signes indiquant qu'ils utilisent des requêtes IA tout au long de leur processus», confie un analyste en cybersécurité au sein d'...",
-      "excerpt": "«Nous observons des signes indiquant qu'ils utilisent des requêtes IA tout au long de leur processus», confie un analyste en cybersécurité au sein d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Une offre GEO chez Onclusive - Image - CB News",
-      "link": "https://www.cbnews.fr/digital/offre-geo-chez-onclusive",
-      "url": "https://www.cbnews.fr/digital/offre-geo-chez-onclusive",
-      "publishedAt": "2026-05-31T10:21:53.000Z",
-      "date": "2026-05-31T10:21:53.000Z",
-      "description": "Intégré à la plateforme unifiée Onclusive et à Onclusive Social, la solution analyse cinq IA génératives: Gemini, ChatGPT, Grok, Claude et Perplexity...",
-      "excerpt": "Intégré à la plateforme unifiée Onclusive et à Onclusive Social, la solution analyse cinq IA génératives: Gemini, ChatGPT, Grok, Claude et Perplexity...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
