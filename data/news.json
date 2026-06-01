@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T02:44:36.263Z",
+  "generatedAt": "2026-06-01T11:09:34.920Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT: OpenAI supprime discrètement ces deux modèles historiques - 01net.com",
+      "link": "https://www.01net.com/actualites/chatgpt-openai-supprime-discretement-ces-deux-modeles-historiques.html",
+      "url": "https://www.01net.com/actualites/chatgpt-openai-supprime-discretement-ces-deux-modeles-historiques.html",
+      "publishedAt": "2026-06-01T10:28:31.000Z",
+      "date": "2026-06-01T10:28:31.000Z",
+      "description": "OpenAI tourne définitivement la page de la génération GPT-4 en retirant les derniers modèles encore accessibles dans ChatGPT... Cybersécurité · Société...",
+      "excerpt": "OpenAI tourne définitivement la page de la génération GPT-4 en retirant les derniers modèles encore accessibles dans ChatGPT... Cybersécurité · Société...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Siri rattrape enfin ce retard qu'on lui reproche depuis des années - PhonAndroid",
+      "link": "https://www.phonandroid.com/siri-rattrape-enfin-ce-retard-quon-lui-reproche-depuis-des-annees.html",
+      "url": "https://www.phonandroid.com/siri-rattrape-enfin-ce-retard-quon-lui-reproche-depuis-des-annees.html",
+      "publishedAt": "2026-06-01T08:22:45.000Z",
+      "date": "2026-06-01T08:22:45.000Z",
+      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum... ChatGPT, Gemini ou Claude proposent cette continuité entre appareils depuis...",
+      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum... ChatGPT, Gemini ou Claude proposent cette continuité entre appareils depuis...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Analyse de la cybersécurité Q1 2026: Focus sur le paysage des menaces macOS",
       "link": "https://www.app4phone.fr/article-209927/analyse-de-la-cybersecurite-q1-2026-focus-sur-le-paysage-des-menaces-macos",
@@ -108,26 +128,6 @@
       "description": "Le vrai site est chat.openai.com. Verifiez toujours l'URL. Ne cliquez jamais sur un lien depuis un email ou un reseau social.... ChatGPT: chat.openai.",
       "excerpt": "Le vrai site est chat.openai.com. Verifiez toujours l'URL. Ne cliquez jamais sur un lien depuis un email ou un reseau social.... ChatGPT: chat.openai.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Vous cherchez ChatGPT sur Google? Attention à cette nouvelle arnaque - PhonAndroid",
-      "link": "https://www.phonandroid.com/vous-cherchez-chatgpt-sur-google-attention-a-cette-nouvelle-arnaque.html",
-      "url": "https://www.phonandroid.com/vous-cherchez-chatgpt-sur-google-attention-a-cette-nouvelle-arnaque.html",
-      "publishedAt": "2026-05-30T10:03:24.000Z",
-      "date": "2026-05-30T10:03:24.000Z",
-      "description": "Méfiez-vous de ceux qui se feraient passer pour ChatGPT. Des chercheurs en cybersécurité ont en effet découvert une nouvelle arnaque qui permet aux...",
-      "excerpt": "Méfiez-vous de ceux qui se feraient passer pour ChatGPT. Des chercheurs en cybersécurité ont en effet découvert une nouvelle arnaque qui permet aux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT peut désormais gérer votre portefeuille et vos comptes bancaires: OpenAI lance...",
-      "link": "https://www.notebookcheck.biz/ChatGPT-peut-desormais-gerer-votre-portefeuille-et-vos-comptes-bancaires-OpenAI-lance-des-outils-de-gestion-des-finances-personnelles.1310985.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-peut-desormais-gerer-votre-portefeuille-et-vos-comptes-bancaires-OpenAI-lance-des-outils-de-gestion-des-finances-personnelles.1310985.0.html",
-      "publishedAt": "2026-05-30T07:35:57.000Z",
-      "date": "2026-05-30T07:35:57.000Z",
-      "description": "ChatGPT propose désormais un ensemble d'outils de finances personnelles avec intégration bancaire. Les utilisateurs de ChatGPT Pro peuvent désormais...",
-      "excerpt": "ChatGPT propose désormais un ensemble d'outils de finances personnelles avec intégration bancaire. Les utilisateurs de ChatGPT Pro peuvent désormais...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
