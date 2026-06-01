@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T19:02:57.645Z",
+  "generatedAt": "2026-06-01T02:44:36.263Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Analyse de la cybersécurité Q1 2026: Focus sur le paysage des menaces macOS",
+      "link": "https://www.app4phone.fr/article-209927/analyse-de-la-cybersecurite-q1-2026-focus-sur-le-paysage-des-menaces-macos",
+      "url": "https://www.app4phone.fr/article-209927/analyse-de-la-cybersecurite-q1-2026-focus-sur-le-paysage-des-menaces-macos",
+      "publishedAt": "2026-06-01T00:32:42.000Z",
+      "date": "2026-06-01T00:32:42.000Z",
+      "description": "Analyse de la cybersécurité Q1 2026: Focus sur le paysage des menaces macOS... ChatGPT ou d'autres applications. Des acteurs malveillants exploitent...",
+      "excerpt": "Analyse de la cybersécurité Q1 2026: Focus sur le paysage des menaces macOS... ChatGPT ou d'autres applications. Des acteurs malveillants exploitent...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude vs ChatGPT 2026: 87,6% vs 82,7% Bench [Testé] - Tech Insider",
+      "link": "https://tech-insider.org/fr/claude-vs-chatgpt-2026-2/",
+      "url": "https://tech-insider.org/fr/claude-vs-chatgpt-2026-2/",
+      "publishedAt": "2026-05-31T22:00:18.000Z",
+      "date": "2026-05-31T22:00:18.000Z",
+      "description": "L'écosystème API GPT-5 reste segmenté en gpt-5, gpt-5 -mini et gpt-5 -pro... cybersécurité interdits, selon l'annonce officielle du 16 avril 2026.",
+      "excerpt": "L'écosystème API GPT-5 reste segmenté en gpt-5, gpt-5 -mini et gpt-5 -pro... cybersécurité interdits, selon l'annonce officielle du 16 avril 2026.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI retirera GPT-4.5 et o3 de ChatGPT: deux dates à retenir pour les utilisateurs",
+      "link": "https://www.menow.fr/openai-retirera-gpt-4-5-et-o3-de-chatgpt-deux-dates-a-retenir-pour-les-utilisateurs/",
+      "url": "https://www.menow.fr/openai-retirera-gpt-4-5-et-o3-de-chatgpt-deux-dates-a-retenir-pour-les-utilisateurs/",
+      "publishedAt": "2026-05-31T19:32:17.000Z",
+      "date": "2026-05-31T19:32:17.000Z",
+      "description": "OpenAI retirera deux anciens modèles de ChatGPT dans les prochains mois. GPT-4.5 disparaîtra de l'interface web et mobile le 27 juin 2026,...",
+      "excerpt": "OpenAI retirera deux anciens modèles de ChatGPT dans les prochains mois. GPT-4.5 disparaîtra de l'interface web et mobile le 27 juin 2026,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "L'arme secrète de Téhéran: Quand les hackers iraniens retournent l'intelligence artificielle...",
       "link": "https://elwatan.dz/larme-secrete-de-teheran-quand-les-hackers-iraniens-retournent-lintelligence-artificielle-americaine-contre-loccident/",
@@ -98,36 +128,6 @@
       "description": "ChatGPT propose désormais un ensemble d'outils de finances personnelles avec intégration bancaire. Les utilisateurs de ChatGPT Pro peuvent désormais...",
       "excerpt": "ChatGPT propose désormais un ensemble d'outils de finances personnelles avec intégration bancaire. Les utilisateurs de ChatGPT Pro peuvent désormais...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Adieu GPT-4: OpenAI tourne définitivement la page - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/adieu-gpt-4-openai-tourne-definitivement-la-page",
-      "url": "https://www.lebigdata.fr/adieu-gpt-4-openai-tourne-definitivement-la-page",
-      "publishedAt": "2026-05-30T06:42:27.000Z",
-      "date": "2026-05-30T06:42:27.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Avec le retrait de GPT-4.5, le dernier représentant de cette génération quitte ChatGPT.",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Avec le retrait de GPT-4.5, le dernier représentant de cette génération quitte ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT lance une fonctionnalité de table des matières pour les longues conversations",
-      "link": "https://phemex.com/fr/news/article/chatgpt-launches-tableofcontents-feature-for-long-conversations-86801",
-      "url": "https://phemex.com/fr/news/article/chatgpt-launches-tableofcontents-feature-for-long-conversations-86801",
-      "publishedAt": "2026-05-30T05:46:56.000Z",
-      "date": "2026-05-30T05:46:56.000Z",
-      "description": "ChatGPT propose une table des matières pour naviguer... 2026/05/21 12:30 · Grok Build publiera des notes de version quotidiennes 2026/05/19 20:58...",
-      "excerpt": "ChatGPT propose une table des matières pour naviguer... 2026/05/21 12:30 · Grok Build publiera des notes de version quotidiennes 2026/05/19 20:58...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "AI bitcoin price prediction: Can BTC reach $1M by 2035? - MSN",
-      "link": "https://www.msn.com/fr-ch/finance/marches/ai-bitcoin-price-prediction-can-btc-reach-1m-by-2035/ar-AA24lfWY",
-      "url": "https://www.msn.com/fr-ch/finance/marches/ai-bitcoin-price-prediction-can-btc-reach-1m-by-2035/ar-AA24lfWY",
-      "publishedAt": "2026-05-30T03:59:02.000Z",
-      "date": "2026-05-30T03:59:02.000Z",
-      "description": "... cybersécurité... ChatGPT: A $1M Bitcoin May Partly Mean a Weaker Dollar.",
-      "excerpt": "... cybersécurité... ChatGPT: A $1M Bitcoin May Partly Mean a Weaker Dollar.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
