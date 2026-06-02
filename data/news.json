@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:01:05.804Z",
+  "generatedAt": "2026-06-02T20:35:00.917Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Comment l'Iran utilise ChatGPT et Gemini pour mener ses cyberattaques contre Israël et les...",
+      "link": "https://www.parismatch.com/actu/international/comment-liran-utilise-chatgpt-et-gemini-pour-mener-ses-cyberattaques-contre-israel-et-les-etats-unis-270097",
+      "url": "https://www.parismatch.com/actu/international/comment-liran-utilise-chatgpt-et-gemini-pour-mener-ses-cyberattaques-contre-israel-et-les-etats-unis-270097",
+      "publishedAt": "2026-06-02T19:40:49.000Z",
+      "date": "2026-06-02T19:40:49.000Z",
+      "description": "Selon le Financial Times, des groupes liés à l'Iran s'appuient sur ChatGPT... cybersécurité et des enquêtes menées par les entreprises technologiques...",
+      "excerpt": "Selon le Financial Times, des groupes liés à l'Iran s'appuient sur ChatGPT... cybersécurité et des enquêtes menées par les entreprises technologiques...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Citations Changed After GPT-5.5, SISTRIX Data Shows - SkyWeb3 Agency",
+      "link": "https://skyweb3agency.com/chatgpt-citations-changed-after-gpt-5-5-sistrix-data-shows/",
+      "url": "https://skyweb3agency.com/chatgpt-citations-changed-after-gpt-5-5-sistrix-data-shows/",
+      "publishedAt": "2026-06-02T16:33:20.000Z",
+      "date": "2026-06-02T16:33:20.000Z",
+      "description": "... ChatGPT responses found that citation patterns changed after ChatGPT... The company describes the event as a “ ChatGPT Core Update,” comparing it to the...",
+      "excerpt": "... ChatGPT responses found that citation patterns changed after ChatGPT... The company describes the event as a “ ChatGPT Core Update,” comparing it to the...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Les utilisateurs d'IA ont trouvé la faille: GPT-5, Claude et Gemini réunis pour le prix d'un fast-food",
+      "link": "https://www.cridutroll.fr/les-utilisateurs-dia-ont-trouve-la-faille-gpt-5-claude-et-gemini-reunis-pour-le-prix-dun-fast-food/",
+      "url": "https://www.cridutroll.fr/les-utilisateurs-dia-ont-trouve-la-faille-gpt-5-claude-et-gemini-reunis-pour-le-prix-dun-fast-food/",
+      "publishedAt": "2026-06-02T16:09:49.000Z",
+      "date": "2026-06-02T16:09:49.000Z",
+      "description": "Vous pensiez Claude ou ChatGPT imbattable? Après Gemini 3.1 Pro, vous... cybersécurité qui repousse les limites des malwares mobiles. Le...",
+      "excerpt": "Vous pensiez Claude ou ChatGPT imbattable? Après Gemini 3.1 Pro, vous... cybersécurité qui repousse les limites des malwares mobiles. Le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude Mythos arrive pour tous, Anthropic prépare une sortie très risquée - BuzzArena",
+      "link": "https://www.buzzarena.com/claude-mythos-arrive-pour-tous-anthropic-prepare-une-sortie-tres-risquee-4555762",
+      "url": "https://www.buzzarena.com/claude-mythos-arrive-pour-tous-anthropic-prepare-une-sortie-tres-risquee-4555762",
+      "publishedAt": "2026-06-02T16:02:24.000Z",
+      "date": "2026-06-02T16:02:24.000Z",
+      "description": "Cette puissance explique aussi pourquoi la progression de Mythos inquiète déjà les experts en cybersécurité.... Adieu ChatGPT: Anthropic est...",
+      "excerpt": "Cette puissance explique aussi pourquoi la progression de Mythos inquiète déjà les experts en cybersécurité.... Adieu ChatGPT: Anthropic est...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "l'IA est en train de décimer des centaines de start-up lancées avant ChatGPT - Les Numériques",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/perturbees-ou-mortes-l-ia-est-en-train-de-decimer-des-centaines-de-start-up-lancees-avant-chatgpt-n256886.html",
@@ -60,6 +100,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
+      "title": "\"Sam Altman ne devrait pas concevoir ces produits pour être addictifs\": en Floride, OpenAI et...",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/sam-altman-ne-devrait-pas-concevoir-ces-produits-pour-etre-addictifs-en-floride-open-ai-et-son-cofondateur-sont-accuses-de-faire-passer-leurs-profits-avant-la-securite-des-jeunes-utilisateurs_AD-202606020572.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/sam-altman-ne-devrait-pas-concevoir-ces-produits-pour-etre-addictifs-en-floride-open-ai-et-son-cofondateur-sont-accuses-de-faire-passer-leurs-profits-avant-la-securite-des-jeunes-utilisateurs_AD-202606020572.html",
+      "publishedAt": "2026-06-02T14:05:46.000Z",
+      "date": "2026-06-02T14:05:46.000Z",
+      "description": "Le procureur de Floride a assigné lundi OpenAI et son patron Sam Altman, accusant leur interface ChatGPT de mettre en danger de jeunes utilisateurs...",
+      "excerpt": "Le procureur de Floride a assigné lundi OpenAI et son patron Sam Altman, accusant leur interface ChatGPT de mettre en danger de jeunes utilisateurs...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Strava se branche directement sur Claude, mais snobe ChatGPT et Gemini - Numerama",
       "link": "https://www.numerama.com/tech/2264543-strava-se-branche-directement-sur-claude-mais-snobe-chatgpt-et-gemini.html",
       "url": "https://www.numerama.com/tech/2264543-strava-se-branche-directement-sur-claude-mais-snobe-chatgpt-et-gemini.html",
@@ -77,56 +127,6 @@
       "date": "2026-06-02T12:50:41.000Z",
       "description": "Le Conseil départemental d'Indre-et-Loire vient d'interdire à ses agents l'utilisation de ChatGPT et de Gemini dans le cadre professionnel.",
       "excerpt": "Le Conseil départemental d'Indre-et-Loire vient d'interdire à ses agents l'utilisation de ChatGPT et de Gemini dans le cadre professionnel.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La Floride poursuit OpenAI et Sam Altman pour les risques de ChatGPT sur les mineurs",
-      "link": "https://entrevue.fr/intelligence-artificielle-sciences-tech/la-floride-poursuit-openai-et-sam-altman-pour-les-risques-de-chatgpt-sur-les-mineurs/",
-      "url": "https://entrevue.fr/intelligence-artificielle-sciences-tech/la-floride-poursuit-openai-et-sam-altman-pour-les-risques-de-chatgpt-sur-les-mineurs/",
-      "publishedAt": "2026-06-02T12:47:28.000Z",
-      "date": "2026-06-02T12:47:28.000Z",
-      "description": "Cybersécurité · Espace · Gadgets & smartphones · Intelligence artificielle... ChatGPT de présenter des risques pour les jeunes utilisateurs. Les...",
-      "excerpt": "Cybersécurité · Espace · Gadgets & smartphones · Intelligence artificielle... ChatGPT de présenter des risques pour les jeunes utilisateurs. Les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "How Google plans to regain control of AI - TelQuel",
-      "link": "https://telquel.ma/2026/06/02/how-google-plans-to-regain-control-of-ai_1991823",
-      "url": "https://telquel.ma/2026/06/02/how-google-plans-to-regain-control-of-ai_1991823",
-      "publishedAt": "2026-06-02T11:18:39.000Z",
-      "date": "2026-06-02T11:18:39.000Z",
-      "description": "In November 2022, ChatGPT relegated the Mountain View company to the role of an outsider.... Second major announcement: Gemini Omni. Whereas...",
-      "excerpt": "In November 2022, ChatGPT relegated the Mountain View company to the role of an outsider.... Second major announcement: Gemini Omni. Whereas...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Floride contre OpenAI: Sam Altman visé personnellement dans une plainte inédite",
-      "link": "https://www.mac4ever.com/ia/196468-floride-contre-openai-sam-altman-vise-personnellement-dans-une-plainte-inedite",
-      "url": "https://www.mac4ever.com/ia/196468-floride-contre-openai-sam-altman-vise-personnellement-dans-une-plainte-inedite",
-      "publishedAt": "2026-06-02T11:18:16.000Z",
-      "date": "2026-06-02T11:18:16.000Z",
-      "description": "... ChatGPT. Plusieurs fusillades et suicides sont cités. C'est la première... Selon les notes de version publiées par Apple, iOS 26.5.1 corrige...",
-      "excerpt": "... ChatGPT. Plusieurs fusillades et suicides sont cités. C'est la première... Selon les notes de version publiées par Apple, iOS 26.5.1 corrige...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT dans PowerPoint: quels cas d'usages concrets? - Leptidigital",
-      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/chatgpt-powerpoint-cas-usages-concrets-90457/",
-      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/chatgpt-powerpoint-cas-usages-concrets-90457/",
-      "publishedAt": "2026-06-02T09:34:12.000Z",
-      "date": "2026-06-02T09:34:12.000Z",
-      "description": "ChatGPT s'intègre directement désormais dans PowerPoint via un add... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD...",
-      "excerpt": "ChatGPT s'intègre directement désormais dans PowerPoint via un add... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment les Pays-Bas ont traqué un botnet caché dans 17 millions d'appareils",
-      "link": "https://charlestech.fr/comment-pays-bas-ont-traque-botnet-cache-17-millions/",
-      "url": "https://charlestech.fr/comment-pays-bas-ont-traque-botnet-cache-17-millions/",
-      "publishedAt": "2026-06-01T21:15:44.000Z",
-      "date": "2026-06-01T21:15:44.000Z",
-      "description": "L'opération a été menée conjointement par la police nationale néerlandaise (Politie) et le Centre national de cybersécurité (NCSC). Elle a conduit à...",
-      "excerpt": "L'opération a été menée conjointement par la police nationale néerlandaise (Politie) et le Centre national de cybersécurité (NCSC). Elle a conduit à...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
