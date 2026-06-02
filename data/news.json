@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T21:21:11.266Z",
+  "generatedAt": "2026-06-02T02:41:56.296Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Comment les Pays-Bas ont traqué un botnet caché dans 17 millions d'appareils",
+      "link": "https://charlestech.fr/comment-pays-bas-ont-traque-botnet-cache-17-millions/",
+      "url": "https://charlestech.fr/comment-pays-bas-ont-traque-botnet-cache-17-millions/",
+      "publishedAt": "2026-06-01T21:15:44.000Z",
+      "date": "2026-06-01T21:15:44.000Z",
+      "description": "L'opération a été menée conjointement par la police nationale néerlandaise (Politie) et le Centre national de cybersécurité (NCSC). Elle a conduit à...",
+      "excerpt": "L'opération a été menée conjointement par la police nationale néerlandaise (Politie) et le Centre national de cybersécurité (NCSC). Elle a conduit à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "La Floride attaque OpenAI et son patron Sam Altman pour mise en danger de jeunes utilisateurs",
       "link": "https://actu.orange.fr/societe/high-tech/la-floride-attaque-openai-et-son-patron-sam-altman-pour-mise-en-danger-de-jeunes-utilisateurs-CNT000002pHQBm.html",
@@ -118,16 +128,6 @@
       "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum... ChatGPT, Gemini ou Claude proposent cette continuité entre appareils depuis...",
       "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum... ChatGPT, Gemini ou Claude proposent cette continuité entre appareils depuis...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic nears $1trln valuation after fresh funding round - TradingView",
-      "link": "https://fr.tradingview.com/news/reuters.com,2026-06-01:newsml_Zaw2Qxw9c:0-anthropic-nears-1trln-valuation-after-fresh-funding-round/",
-      "url": "https://fr.tradingview.com/news/reuters.com,2026-06-01:newsml_Zaw2Qxw9c:0-anthropic-nears-1trln-valuation-after-fresh-funding-round/",
-      "publishedAt": "2026-06-01T06:04:48.000Z",
-      "date": "2026-06-01T06:04:48.000Z",
-      "description": "In comparison, rival OpenAI—which triggered the current AI boom in 2022 with the release of ChatGPT —was recently valued at approximately $730 billion...",
-      "excerpt": "In comparison, rival OpenAI—which triggered the current AI boom in 2022 with the release of ChatGPT —was recently valued at approximately $730 billion...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
