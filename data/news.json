@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T02:50:33.867Z",
+  "generatedAt": "2026-06-03T10:43:22.850Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "IA & Cybersécurité: les 15 actus clés du 3 juin 2026",
+      "link": "https://dcod.ch/2026/06/03/ia-cybersecurite-les-15-actus-cles-du-3-juin-2026/",
+      "url": "https://dcod.ch/2026/06/03/ia-cybersecurite-les-15-actus-cles-du-3-juin-2026/",
+      "publishedAt": "2026-06-03T06:03:09.000Z",
+      "date": "2026-06-03T06:03:09.000Z",
+      "description": "Soutenez le site pour l'aider à couvrir ses frais techniques. ☕ Contribuer aux frais. Etiquettes. Anthropic · ChatGPT · Claude Opus · DuckDuckGo...",
+      "excerpt": "Soutenez le site pour l'aider à couvrir ses frais techniques. ☕ Contribuer aux frais. Etiquettes. Anthropic · ChatGPT · Claude Opus · DuckDuckGo...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Trump demande à contrôler les IA avant leur sortie, la dangerosité de Mythos fait peur à Washington",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/trump-demande-a-controler-les-ia-avant-leur-sortie-la-dangerosite-de-mythos-fait-peur-a-washington-n256935.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/trump-demande-a-controler-les-ia-avant-leur-sortie-la-dangerosite-de-mythos-fait-peur-a-washington-n256935.html",
+      "publishedAt": "2026-06-03T04:32:21.000Z",
+      "date": "2026-06-03T04:32:21.000Z",
+      "description": "Le but est d'évaluer leurs capacités en cybersécurité et de protéger les infrastructures sensibles comme les banques et les hôpitaux.... ChatGPT...",
+      "excerpt": "Le but est d'évaluer leurs capacités en cybersécurité et de protéger les infrastructures sensibles comme les banques et les hôpitaux.... ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le navigateur est désormais la première ligne de défense pour la sécurité de l'IA",
+      "link": "https://www.netcost-security.fr/actualites/273764/le-navigateur-est-desormais-la-premiere-ligne-de-defense-pour-la-securite-de-lia/",
+      "url": "https://www.netcost-security.fr/actualites/273764/le-navigateur-est-desormais-la-premiere-ligne-de-defense-pour-la-securite-de-lia/",
+      "publishedAt": "2026-06-02T23:01:24.000Z",
+      "date": "2026-06-02T23:01:24.000Z",
+      "description": "Les kits de phishing sont copiés, modifiés et mis sur le marché plus vite que jamais.... Et les outils d'IA corporatifs comme Claude, ChatGPT...",
+      "excerpt": "Les kits de phishing sont copiés, modifiés et mis sur le marché plus vite que jamais.... Et les outils d'IA corporatifs comme Claude, ChatGPT...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
     {
       "title": "Le Tech Flash: Data center, STMicro double ses objectifs par Léa Benaim - 02/06",
       "link": "https://actu.orange.fr/videos/economie/le-tech-flash-data-center-stmicro-double-ses-objectifs-par-lea-benaim-02-06-CNT000002pIQJv.html",
@@ -98,36 +128,6 @@
       "description": "Cybersécurité: Anthropic ouvre les portes de son IA \"super-hacker... J'ai abandonné ChatGPT au profit d'une IA gratuite, privée et locale...",
       "excerpt": "Cybersécurité: Anthropic ouvre les portes de son IA \"super-hacker... J'ai abandonné ChatGPT au profit d'une IA gratuite, privée et locale...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: l'application gagne un geste malin pour passer rapidement d'un modèle à l'autre",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-l-application-gagne-un-geste-malin-pour-passer-rapidement-d-un-modele-a-l-autre-n256885.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-l-application-gagne-un-geste-malin-pour-passer-rapidement-d-un-modele-a-l-autre-n256885.html",
-      "publishedAt": "2026-06-02T14:43:57.000Z",
-      "date": "2026-06-02T14:43:57.000Z",
-      "description": "OpenAI vient d'améliorer son application ChatGPT en facilitant drastiquement le passage d'un modèle à un autre sur smartphone... Les Nums, l' Update.",
-      "excerpt": "OpenAI vient d'améliorer son application ChatGPT en facilitant drastiquement le passage d'un modèle à un autre sur smartphone... Les Nums, l' Update.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Claude ne fonctionne pas? Anthropic confirme une panne avec son IA - Numerama",
-      "link": "https://www.numerama.com/tech/2264593-claude-ne-fonctionne-pas-anthropic-confirme-une-panne-avec-son-ia.html",
-      "url": "https://www.numerama.com/tech/2264593-claude-ne-fonctionne-pas-anthropic-confirme-une-panne-avec-son-ia.html",
-      "publishedAt": "2026-06-02T14:25:26.000Z",
-      "date": "2026-06-02T14:25:26.000Z",
-      "description": "... ChatGPT, Gemini ou Mistral Flow, récemment renommé. Pour aller plus... Pour contrer Claude Mythos, OpenAI lance Daybreak...",
-      "excerpt": "... ChatGPT, Gemini ou Mistral Flow, récemment renommé. Pour aller plus... Pour contrer Claude Mythos, OpenAI lance Daybreak...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un réseau de tromperies: la Floride poursuit OpenAI pour des préoccupations de sécurité...",
-      "link": "https://www.briefia.fr/article/un-reseau-de-tromperies-la-floride-poursuit-openai-pour-des-preoccupations-de-se",
-      "url": "https://www.briefia.fr/article/un-reseau-de-tromperies-la-floride-poursuit-openai-pour-des-preoccupations-de-se",
-      "publishedAt": "2026-06-02T14:12:30.000Z",
-      "date": "2026-06-02T14:12:30.000Z",
-      "description": "La Floride allègue qu'OpenAI a menti sur la fiabilité de ChatGPT, son adéquation pour les enfants et promeut une utilisation prolongée qui conduit à...",
-      "excerpt": "La Floride allègue qu'OpenAI a menti sur la fiabilité de ChatGPT, son adéquation pour les enfants et promeut une utilisation prolongée qui conduit à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
