@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T10:43:22.850Z",
+  "generatedAt": "2026-06-03T16:18:11.448Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT et les sources santé en France - La Vie Numerique",
+      "link": "https://lavienumerique.com/communiques-de-press/49000/chatgpt-et-les-sources-sante-en-france",
+      "url": "https://lavienumerique.com/communiques-de-press/49000/chatgpt-et-les-sources-sante-en-france",
+      "publishedAt": "2026-06-03T13:44:29.000Z",
+      "date": "2026-06-03T13:44:29.000Z",
+      "description": "ChatGPT et les sources santé en France... Pour tirer dans le même sens, Microsoft annonce aujourd'hui la pré- release de Popfly son propre studio de...",
+      "excerpt": "ChatGPT et les sources santé en France... Pour tirer dans le même sens, Microsoft annonce aujourd'hui la pré- release de Popfly son propre studio de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI tourne discrètement la page GPT-4 dans ChatGPT, et c'est toute une époque de l'IA...",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/openai-tourne-discretement-la-page-gpt-4-dans-chatgpt-et-cest-toute-une-epoque-de-lia-qui-sefface",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/openai-tourne-discretement-la-page-gpt-4-dans-chatgpt-et-cest-toute-une-epoque-de-lia-qui-sefface",
+      "publishedAt": "2026-06-03T13:03:56.000Z",
+      "date": "2026-06-03T13:03:56.000Z",
+      "description": "Aujourd'hui, lorsque les utilisateurs débattent pour savoir si GPT-4, GPT-4o, GPT-5 ou les derniers modèles de raisonnement sont « meilleurs », la...",
+      "excerpt": "Aujourd'hui, lorsque les utilisateurs débattent pour savoir si GPT-4, GPT-4o, GPT-5 ou les derniers modèles de raisonnement sont « meilleurs », la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT multiplie par 14 ses liens vers les marques: ce que révèle une étude sur 140 000 réponses",
+      "link": "https://www.abondance.com/20260603-2366870-chatgpt-liens-sites-marques-etude-qwairy.html",
+      "url": "https://www.abondance.com/20260603-2366870-chatgpt-liens-sites-marques-etude-qwairy.html",
+      "publishedAt": "2026-06-03T12:01:32.000Z",
+      "date": "2026-06-03T12:01:32.000Z",
+      "description": "Ce qu'il faut retenir: Le 7 mai 2026, le taux de réponses ChatGPT contenant un lien vers le site d'une marque est passé de 0,4 % à 6,2 % en une...",
+      "excerpt": "Ce qu'il faut retenir: Le 7 mai 2026, le taux de réponses ChatGPT contenant un lien vers le site d'une marque est passé de 0,4 % à 6,2 % en une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "IA & Cybersécurité: les 15 actus clés du 3 juin 2026",
       "link": "https://dcod.ch/2026/06/03/ia-cybersecurite-les-15-actus-cles-du-3-juin-2026/",
@@ -28,6 +58,16 @@
       "description": "Le but est d'évaluer leurs capacités en cybersécurité et de protéger les infrastructures sensibles comme les banques et les hôpitaux.... ChatGPT...",
       "excerpt": "Le but est d'évaluer leurs capacités en cybersécurité et de protéger les infrastructures sensibles comme les banques et les hôpitaux.... ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT franchit le milliard d'utilisateurs mensuels tandis que Claude grignote l... - MEXC Exchange",
+      "link": "https://www.mexc.com/fr/news/1126220",
+      "url": "https://www.mexc.com/fr/news/1126220",
+      "publishedAt": "2026-06-03T04:16:59.000Z",
+      "date": "2026-06-03T04:16:59.000Z",
+      "description": "ChatGPT a dépassé 1 milliard d'utilisateurs actifs mensuels mondiaux en mai, devenant l'application la plus rapide à atteindre ce chiffre,...",
+      "excerpt": "ChatGPT a dépassé 1 milliard d'utilisateurs actifs mensuels mondiaux en mai, devenant l'application la plus rapide à atteindre ce chiffre,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Le navigateur est désormais la première ligne de défense pour la sécurité de l'IA",
@@ -80,53 +120,13 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "ChatGPT Citations Changed After GPT-5.5, SISTRIX Data Shows - SkyWeb3 Agency",
-      "link": "https://skyweb3agency.com/chatgpt-citations-changed-after-gpt-5-5-sistrix-data-shows/",
-      "url": "https://skyweb3agency.com/chatgpt-citations-changed-after-gpt-5-5-sistrix-data-shows/",
-      "publishedAt": "2026-06-02T16:33:20.000Z",
-      "date": "2026-06-02T16:33:20.000Z",
-      "description": "... ChatGPT responses found that citation patterns changed after ChatGPT... The company describes the event as a “ ChatGPT Core Update,” comparing it to the...",
-      "excerpt": "... ChatGPT responses found that citation patterns changed after ChatGPT... The company describes the event as a “ ChatGPT Core Update,” comparing it to the...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Les utilisateurs d'IA ont trouvé la faille: GPT-5, Claude et Gemini réunis pour le prix d'un fast-food",
-      "link": "https://www.cridutroll.fr/les-utilisateurs-dia-ont-trouve-la-faille-gpt-5-claude-et-gemini-reunis-pour-le-prix-dun-fast-food/",
-      "url": "https://www.cridutroll.fr/les-utilisateurs-dia-ont-trouve-la-faille-gpt-5-claude-et-gemini-reunis-pour-le-prix-dun-fast-food/",
-      "publishedAt": "2026-06-02T16:09:49.000Z",
-      "date": "2026-06-02T16:09:49.000Z",
-      "description": "Vous pensiez Claude ou ChatGPT imbattable? Après Gemini 3.1 Pro, vous... cybersécurité qui repousse les limites des malwares mobiles. Le...",
-      "excerpt": "Vous pensiez Claude ou ChatGPT imbattable? Après Gemini 3.1 Pro, vous... cybersécurité qui repousse les limites des malwares mobiles. Le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude Mythos arrive pour tous, Anthropic prépare une sortie très risquée - BuzzArena",
-      "link": "https://www.buzzarena.com/claude-mythos-arrive-pour-tous-anthropic-prepare-une-sortie-tres-risquee-4555762",
-      "url": "https://www.buzzarena.com/claude-mythos-arrive-pour-tous-anthropic-prepare-une-sortie-tres-risquee-4555762",
-      "publishedAt": "2026-06-02T16:02:24.000Z",
-      "date": "2026-06-02T16:02:24.000Z",
-      "description": "Cette puissance explique aussi pourquoi la progression de Mythos inquiète déjà les experts en cybersécurité.... Adieu ChatGPT: Anthropic est...",
-      "excerpt": "Cette puissance explique aussi pourquoi la progression de Mythos inquiète déjà les experts en cybersécurité.... Adieu ChatGPT: Anthropic est...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "l'IA est en train de décimer des centaines de start-up lancées avant ChatGPT - Les Numériques",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/perturbees-ou-mortes-l-ia-est-en-train-de-decimer-des-centaines-de-start-up-lancees-avant-chatgpt-n256886.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/perturbees-ou-mortes-l-ia-est-en-train-de-decimer-des-centaines-de-start-up-lancees-avant-chatgpt-n256886.html",
-      "publishedAt": "2026-06-02T15:11:59.000Z",
-      "date": "2026-06-02T15:11:59.000Z",
-      "description": "... ChatGPT, selon une enquête de CNBC s'appuyant sur les données de... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
-      "excerpt": "... ChatGPT, selon une enquête de CNBC s'appuyant sur les données de... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Cybersécurité: Anthropic ouvre les portes de son IA \"super-hacker\" Mythos à l'Europe",
-      "link": "https://www.zdnet.fr/actualites/cybersecurite-anthropic-ouvre-les-portes-de-son-ia-super-hacker-mythos-a-leurope-495980.htm",
-      "url": "https://www.zdnet.fr/actualites/cybersecurite-anthropic-ouvre-les-portes-de-son-ia-super-hacker-mythos-a-leurope-495980.htm",
-      "publishedAt": "2026-06-02T14:44:33.000Z",
-      "date": "2026-06-02T14:44:33.000Z",
-      "description": "Cybersécurité: Anthropic ouvre les portes de son IA \"super-hacker... J'ai abandonné ChatGPT au profit d'une IA gratuite, privée et locale...",
-      "excerpt": "Cybersécurité: Anthropic ouvre les portes de son IA \"super-hacker... J'ai abandonné ChatGPT au profit d'une IA gratuite, privée et locale...",
+      "title": "Floride contre OpenAI: Sam Altman visé personnellement dans une plainte inédite",
+      "link": "https://www.mac4ever.com/ia/196468-floride-contre-openai-sam-altman-vise-personnellement-dans-une-plainte-inedite",
+      "url": "https://www.mac4ever.com/ia/196468-floride-contre-openai-sam-altman-vise-personnellement-dans-une-plainte-inedite",
+      "publishedAt": "2026-06-02T17:02:22.000Z",
+      "date": "2026-06-02T17:02:22.000Z",
+      "description": "... ChatGPT. Plusieurs fusillades et suicides sont cités. C'est la première... cybersécurité. Pour eux, les modèles les plus performants sont...",
+      "excerpt": "... ChatGPT. Plusieurs fusillades et suicides sont cités. C'est la première... cybersécurité. Pour eux, les modèles les plus performants sont...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
