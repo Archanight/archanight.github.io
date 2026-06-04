@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T09:43:19.048Z",
+  "generatedAt": "2026-06-04T14:36:23.444Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Pour booster Siri, Apple met de côté son infrastructure cloud maison et fait confiance à Google",
+      "link": "https://www.clubic.com/actualite-615313-pour-booster-siri-apple-met-de-cote-son-infrastructure-cloud-maison-et-fait-confiance-a-google.html",
+      "url": "https://www.clubic.com/actualite-615313-pour-booster-siri-apple-met-de-cote-son-infrastructure-cloud-maison-et-fait-confiance-a-google.html",
+      "publishedAt": "2026-06-04T12:22:48.000Z",
+      "date": "2026-06-04T12:22:48.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Comment Siri va jongler entre Gemini et...",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Comment Siri va jongler entre Gemini et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le FSB russe s'enflamme: une opération d'espionnage massive, mais aucune preuve tangible!",
+      "link": "https://www.journaldugeek.com/2026/06/04/le-fsb-russe-senflamme-une-operation-despionnage-massive-mais-aucune-preuve-tangible/",
+      "url": "https://www.journaldugeek.com/2026/06/04/le-fsb-russe-senflamme-une-operation-despionnage-massive-mais-aucune-preuve-tangible/",
+      "publishedAt": "2026-06-04T10:42:25.000Z",
+      "date": "2026-06-04T10:42:25.000Z",
+      "description": "Pas une seule preuve à l'appui, une habitude bien rodée pour l'agence russe. Fsb Chatgpt © ChatGPT - IA... cybersécurité espionnageFSBiPhoneKasperskynsa...",
+      "excerpt": "Pas une seule preuve à l'appui, une habitude bien rodée pour l'agence russe. Fsb Chatgpt © ChatGPT - IA... cybersécurité espionnageFSBiPhoneKasperskynsa...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Microsoft veut prouver qu'elle peut faire de l'IA sans OpenAI - MacGeneration",
+      "link": "https://www.macg.co/ailleurs/2026/06/microsoft-veut-prouver-quelle-peut-faire-de-lia-sans-openai-308969",
+      "url": "https://www.macg.co/ailleurs/2026/06/microsoft-veut-prouver-quelle-peut-faire-de-lia-sans-openai-308969",
+      "publishedAt": "2026-06-04T10:38:33.000Z",
+      "date": "2026-06-04T10:38:33.000Z",
+      "description": "... cybersécurité ou encore des agents intégrés à Copilot. Microsoft a... OpenAI active la bibliothèque de fichiers de ChatGPT en Europe · image...",
+      "excerpt": "... cybersécurité ou encore des agents intégrés à Copilot. Microsoft a... OpenAI active la bibliothèque de fichiers de ChatGPT en Europe · image...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Comment l'Iran exploite-t-il l'IA développée par l'Occident? - Kapitalis",
       "link": "https://kapitalis.com/tunisie/2026/06/04/comment-liran-exploite-t-il-lia-developpee-par-loccident/",
@@ -97,36 +127,6 @@
       "date": "2026-06-03T16:26:30.000Z",
       "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Entre ChatGPT Plus, Claude Pro, Gemini Advanced ou encore les outils de...",
       "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Entre ChatGPT Plus, Claude Pro, Gemini Advanced ou encore les outils de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT passe le milliard, mais son rival numéro un grandit dix fois plus vite - 01net.com",
-      "link": "https://www.01net.com/actualites/chatgpt-passe-le-milliard-mais-son-rival-numero-un-grandit-dix-fois-plus-vite.html",
-      "url": "https://www.01net.com/actualites/chatgpt-passe-le-milliard-mais-son-rival-numero-un-grandit-dix-fois-plus-vite.html",
-      "publishedAt": "2026-06-03T16:11:46.000Z",
-      "date": "2026-06-03T16:11:46.000Z",
-      "description": "ChatGPT passe le milliard, mais son rival numéro un grandit dix fois plus vite... Cybersécurité · Société · Télécoms · Auto · Médias · Politique &...",
-      "excerpt": "ChatGPT passe le milliard, mais son rival numéro un grandit dix fois plus vite... Cybersécurité · Société · Télécoms · Auto · Médias · Politique &...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Jailbreak ChatGPT 2026: DAN v13+, Echo Chamber + Storytelling – ça marche encore",
-      "link": "https://www.briefia.fr/article/jailbreak-chatgpt-2026-dan-v13-echo-chamber-storytelling-ca-marche-encore",
-      "url": "https://www.briefia.fr/article/jailbreak-chatgpt-2026-dan-v13-echo-chamber-storytelling-ca-marche-encore",
-      "publishedAt": "2026-06-03T16:07:45.000Z",
-      "date": "2026-06-03T16:07:45.000Z",
-      "description": "Le jailbreak de ChatGPT reste un sujet de débat dans les communautés technologiques en 2026. 2026 marque une évolution continue des techniques de...",
-      "excerpt": "Le jailbreak de ChatGPT reste un sujet de débat dans les communautés technologiques en 2026. 2026 marque une évolution continue des techniques de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Jailbreak ChatGPT 2026: DAN v13+, Echo Chamber + Storytelling – ça marche encore",
-      "link": "https://www.lebigdata.fr/jailbreak-chatgpt-2026-dan-v13-echo-chamber-storytelling-ca-marche-encore",
-      "url": "https://www.lebigdata.fr/jailbreak-chatgpt-2026-dan-v13-echo-chamber-storytelling-ca-marche-encore",
-      "publishedAt": "2026-06-03T14:39:55.000Z",
-      "date": "2026-06-03T14:39:55.000Z",
-      "description": "... cybersécurité est loin d'être terminée. Le jailbreak ChatGPT est l... Est-ce que le mode DAN v13+ valide le jailbreak ChatGPT 2026 sur GPT-5?",
-      "excerpt": "... cybersécurité est loin d'être terminée. Le jailbreak ChatGPT est l... Est-ce que le mode DAN v13+ valide le jailbreak ChatGPT 2026 sur GPT-5?",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
