@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T02:46:04.275Z",
+  "generatedAt": "2026-06-04T09:43:19.048Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Comment l'Iran exploite-t-il l'IA développée par l'Occident? - Kapitalis",
+      "link": "https://kapitalis.com/tunisie/2026/06/04/comment-liran-exploite-t-il-lia-developpee-par-loccident/",
+      "url": "https://kapitalis.com/tunisie/2026/06/04/comment-liran-exploite-t-il-lia-developpee-par-loccident/",
+      "publishedAt": "2026-06-04T07:50:54.000Z",
+      "date": "2026-06-04T07:50:54.000Z",
+      "description": "... cybersécurité et des entreprises technologiques. «Nous constatons des indices montrant qu'ils utilisent l'IA à chaque étape dans les opérations de...",
+      "excerpt": "... cybersécurité et des entreprises technologiques. «Nous constatons des indices montrant qu'ils utilisent l'IA à chaque étape dans les opérations de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI va fusionner Codex et ChatGPT … et la super app va (peut-être) arriver aujourd'hui",
+      "link": "https://www.lebigdata.fr/openai-va-fusionner-codex-et-chatgpt-et-la-super-app-va-peut-etre-arriver-aujourdhui",
+      "url": "https://www.lebigdata.fr/openai-va-fusionner-codex-et-chatgpt-et-la-super-app-va-peut-etre-arriver-aujourdhui",
+      "publishedAt": "2026-06-04T06:22:39.000Z",
+      "date": "2026-06-04T06:22:39.000Z",
+      "description": "Avez-vous déjà entendu la nouvelle? OpenAI envisagerait de réunir Codex et ChatGPT au sein d'une seule et même plateforme.",
+      "excerpt": "Avez-vous déjà entendu la nouvelle? OpenAI envisagerait de réunir Codex et ChatGPT au sein d'une seule et même plateforme.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Se former à l'IA pour rester dans la course: pourquoi les salariés n'ont plus le choix",
+      "link": "https://www.challenges.fr/grandes-ecoles/se-former-a-lia-pour-rester-dans-la-course-pourquoi-les-salaries-nont-plus-le-choix_643852",
+      "url": "https://www.challenges.fr/grandes-ecoles/se-former-a-lia-pour-rester-dans-la-course-pourquoi-les-salaries-nont-plus-le-choix_643852",
+      "publishedAt": "2026-06-04T06:14:56.000Z",
+      "date": "2026-06-04T06:14:56.000Z",
+      "description": "L'utilisation de chatbots intelligents comme Claude et ChatGPT bouleverse déjà des métiers et menace... Les Assises de la cybersécurité.",
+      "excerpt": "L'utilisation de chatbots intelligents comme Claude et ChatGPT bouleverse déjà des métiers et menace... Les Assises de la cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT et les sources santé en France - ITRgames",
       "link": "https://itrgames.com/communiques-de-press/49000/chatgpt-et-les-sources-sante-en-france",
@@ -98,36 +128,6 @@
       "description": "... cybersécurité est loin d'être terminée. Le jailbreak ChatGPT est l... Est-ce que le mode DAN v13+ valide le jailbreak ChatGPT 2026 sur GPT-5?",
       "excerpt": "... cybersécurité est loin d'être terminée. Le jailbreak ChatGPT est l... Est-ce que le mode DAN v13+ valide le jailbreak ChatGPT 2026 sur GPT-5?",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT et les sources santé en France - La Vie Numerique",
-      "link": "https://lavienumerique.com/communiques-de-press/49000/chatgpt-et-les-sources-sante-en-france",
-      "url": "https://lavienumerique.com/communiques-de-press/49000/chatgpt-et-les-sources-sante-en-france",
-      "publishedAt": "2026-06-03T13:44:29.000Z",
-      "date": "2026-06-03T13:44:29.000Z",
-      "description": "ChatGPT et les sources santé en France... Pour tirer dans le même sens, Microsoft annonce aujourd'hui la pré- release de Popfly son propre studio de...",
-      "excerpt": "ChatGPT et les sources santé en France... Pour tirer dans le même sens, Microsoft annonce aujourd'hui la pré- release de Popfly son propre studio de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Moins de trois ans après son lancement, ChatGPT franchit le milliard d'utilisateurs actifs...",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/moins-de-trois-ans-apres-son-lancement-chatgpt-franchit-le-milliard-dutilisateurs-actifs-mensuels-dans-le-monde.J4O6VWM5MVHPRBBIQBBD3LTPVM.html",
-      "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/moins-de-trois-ans-apres-son-lancement-chatgpt-franchit-le-milliard-dutilisateurs-actifs-mensuels-dans-le-monde.J4O6VWM5MVHPRBBIQBBD3LTPVM.html",
-      "publishedAt": "2026-06-03T13:19:18.000Z",
-      "date": "2026-06-03T13:19:18.000Z",
-      "description": "ChatGPT a franchi le cap du milliard d'utilisateurs actifs mensuels en... Cybersécurité · Big Tech · Robotique · Cloud. Se connecter. Se connecter.",
-      "excerpt": "ChatGPT a franchi le cap du milliard d'utilisateurs actifs mensuels en... Cybersécurité · Big Tech · Robotique · Cloud. Se connecter. Se connecter.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI tourne discrètement la page GPT-4 dans ChatGPT, et c'est toute une époque de l'IA...",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/openai-tourne-discretement-la-page-gpt-4-dans-chatgpt-et-cest-toute-une-epoque-de-lia-qui-sefface",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/openai-tourne-discretement-la-page-gpt-4-dans-chatgpt-et-cest-toute-une-epoque-de-lia-qui-sefface",
-      "publishedAt": "2026-06-03T13:03:56.000Z",
-      "date": "2026-06-03T13:03:56.000Z",
-      "description": "Aujourd'hui, lorsque les utilisateurs débattent pour savoir si GPT-4, GPT-4o, GPT-5 ou les derniers modèles de raisonnement sont « meilleurs », la...",
-      "excerpt": "Aujourd'hui, lorsque les utilisateurs débattent pour savoir si GPT-4, GPT-4o, GPT-5 ou les derniers modèles de raisonnement sont « meilleurs », la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
