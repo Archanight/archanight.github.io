@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T14:36:23.444Z",
+  "generatedAt": "2026-06-04T19:54:06.408Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI lance les clés de sécurité Yubico pour protéger votre ChatGPT - AlexiTauzin.com",
+      "link": "https://alexitauzin.com/openai-lance-les-cles-de-securite-yubico-pour-proteger-votre-chatgpt/",
+      "url": "https://alexitauzin.com/openai-lance-les-cles-de-securite-yubico-pour-proteger-votre-chatgpt/",
+      "publishedAt": "2026-06-04T17:02:01.000Z",
+      "date": "2026-06-04T17:02:01.000Z",
+      "description": "OpenAI et Yubico lancent des clés de sécurité anti-phishing pour ChatGPT. Mais attention: perdez votre clé et vos conversations disparaissent.",
+      "excerpt": "OpenAI et Yubico lancent des clés de sécurité anti-phishing pour ChatGPT. Mais attention: perdez votre clé et vos conversations disparaissent.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Quatre étudiants sur cinq l'utilisent: face au fléau ChatGPT, le collectif Scientifiques en... - BFM",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/quatre-etudiants-sur-cinq-l-utilisent-face-au-fleau-chat-gpt-le-collectif-scientifiques-en-rebellion-prone-la-creation-d-un-label-universitaire-sans-ia-generative-sur-la-base-d-un-engagement-moral-commun_AD-202606040626.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/quatre-etudiants-sur-cinq-l-utilisent-face-au-fleau-chat-gpt-le-collectif-scientifiques-en-rebellion-prone-la-creation-d-un-label-universitaire-sans-ia-generative-sur-la-base-d-un-engagement-moral-commun_AD-202606040626.html",
+      "publishedAt": "2026-06-04T15:20:30.000Z",
+      "date": "2026-06-04T15:20:30.000Z",
+      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... Quatre étudiants sur cinq l'utilisent: face au fléau ChatGPT, le...",
+      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... Quatre étudiants sur cinq l'utilisent: face au fléau ChatGPT, le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Des sites Web peuvent tomber en 10 secondes: la nouvelle technique qui contourne les... - Futura",
+      "link": "https://www.futura-sciences.com/tech/actualites/cybersecurite-sites-web-peuvent-tomber-10-secondes-nouvelle-technique-contourne-defenses-affole-experts-135038/",
+      "url": "https://www.futura-sciences.com/tech/actualites/cybersecurite-sites-web-peuvent-tomber-10-secondes-nouvelle-technique-contourne-defenses-affole-experts-135038/",
+      "publishedAt": "2026-06-04T15:17:58.000Z",
+      "date": "2026-06-04T15:17:58.000Z",
+      "description": "Un seul ordinateur pour tout faire planter.... C'est justement la nouveauté que la société californienne de cybersécurité Calif vient de documenter.",
+      "excerpt": "Un seul ordinateur pour tout faire planter.... C'est justement la nouveauté que la société californienne de cybersécurité Calif vient de documenter.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment des entreprises manipulent ChatGPT et Google via Reddit - Numerama",
+      "link": "https://www.numerama.com/tech/2267267-la-vitamine-d-merite-t-elle-vraiment-tout-cet-engouement-comment-reddit-est-devenu-le-vecteur-prefere-des-empoisonneurs-dia.html",
+      "url": "https://www.numerama.com/tech/2267267-la-vitamine-d-merite-t-elle-vraiment-tout-cet-engouement-comment-reddit-est-devenu-le-vecteur-prefere-des-empoisonneurs-dia.html",
+      "publishedAt": "2026-06-04T13:43:08.000Z",
+      "date": "2026-06-04T13:43:08.000Z",
+      "description": "... ChatGPT et de la recherche IA de Google. C'est un post de modération qui... Et ce n'est pas le seul réseau social à souffrir de cette mutation.",
+      "excerpt": "... ChatGPT et de la recherche IA de Google. C'est un post de modération qui... Et ce n'est pas le seul réseau social à souffrir de cette mutation.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT atteint le milliard d'utilisateurs mensuels, un cap symbolique pour OpenAI",
+      "link": "https://siecledigital.fr/2026/06/04/chatgpt-atteint-le-milliard-dutilisateurs-mensuels-un-cap-symbolique-pour-openai/",
+      "url": "https://siecledigital.fr/2026/06/04/chatgpt-atteint-le-milliard-dutilisateurs-mensuels-un-cap-symbolique-pour-openai/",
+      "publishedAt": "2026-06-04T12:53:31.000Z",
+      "date": "2026-06-04T12:53:31.000Z",
+      "description": "Des mastodontes comme TikTok ou Instagram ont eu besoin de cinq à huit ans pour rassembler autant de monde. ChatGPT... Cybersécurité · IT · Médias...",
+      "excerpt": "Des mastodontes comme TikTok ou Instagram ont eu besoin de cinq à huit ans pour rassembler autant de monde. ChatGPT... Cybersécurité · IT · Médias...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Pour booster Siri, Apple met de côté son infrastructure cloud maison et fait confiance à Google",
       "link": "https://www.clubic.com/actualite-615313-pour-booster-siri-apple-met-de-cote-son-infrastructure-cloud-maison-et-fait-confiance-a-google.html",
@@ -70,64 +120,14 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "ChatGPT et les sources santé en France - ITRgames",
-      "link": "https://itrgames.com/communiques-de-press/49000/chatgpt-et-les-sources-sante-en-france",
-      "url": "https://itrgames.com/communiques-de-press/49000/chatgpt-et-les-sources-sante-en-france",
-      "publishedAt": "2026-06-03T19:43:37.000Z",
-      "date": "2026-06-03T19:43:37.000Z",
-      "description": "ChatGPT et les sources santé en France. mercredi 03 juin 2026. Une étude... Cybersécurité: l'IA s'impose, la supply chain s'expose · Asus...",
-      "excerpt": "ChatGPT et les sources santé en France. mercredi 03 juin 2026. Une étude... Cybersécurité: l'IA s'impose, la supply chain s'expose · Asus...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pour ses cyberattaques, l'Iran mise sur ChatGPT ou Gemini - Le Temps",
-      "link": "https://www.letemps.ch/monde/pour-ses-cyberattaques-l-iran-mise-sur-chatgpt-ou-gemini",
-      "url": "https://www.letemps.ch/monde/pour-ses-cyberattaques-l-iran-mise-sur-chatgpt-ou-gemini",
-      "publishedAt": "2026-06-03T18:28:35.000Z",
-      "date": "2026-06-03T18:28:35.000Z",
-      "description": "... ChatGPT d'OpenAI.... Dans son rapport de février dernier, le Google Threat Intelligence Group (GTIG), l'unité de recherche sur la cybersécurité...",
-      "excerpt": "... ChatGPT d'OpenAI.... Dans son rapport de février dernier, le Google Threat Intelligence Group (GTIG), l'unité de recherche sur la cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Trump ne craint pas les IA comme Mythos et signe un décret d'encadrement peu contraignant",
-      "link": "https://www.buzzarena.com/trump-ne-craint-pas-les-ia-comme-mythos-et-signe-un-decret-dencadrement-peu-contraignant-4555783",
-      "url": "https://www.buzzarena.com/trump-ne-craint-pas-les-ia-comme-mythos-et-signe-un-decret-dencadrement-peu-contraignant-4555783",
-      "publishedAt": "2026-06-03T18:00:11.000Z",
-      "date": "2026-06-03T18:00:11.000Z",
-      "description": "OpenAI ( ChatGPT ) ou encore Anthropic (Claude) ont donc les mains libres.... La cybersécurité n'est plus la même et en Europe, le secteur...",
-      "excerpt": "OpenAI ( ChatGPT ) ou encore Anthropic (Claude) ont donc les mains libres.... La cybersécurité n'est plus la même et en Europe, le secteur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Tu as activé ChatGPT dans Sheets? Une cellule piégée vide ton compte - YouTube",
-      "link": "https://www.youtube.com/watch?v=wcnQcQaje_Q",
-      "url": "https://www.youtube.com/watch?v=wcnQcQaje_Q",
-      "publishedAt": "2026-06-03T17:53:15.000Z",
-      "date": "2026-06-03T17:53:15.000Z",
-      "description": "... Vulnerability: Shocking... ChatGPT Statistics 2026: Users, Revenue, and Enterprise Adoption.” https://www.secondtalent.com/resources/ chatgpt...",
-      "excerpt": "... Vulnerability: Shocking... ChatGPT Statistics 2026: Users, Revenue, and Enterprise Adoption.” https://www.secondtalent.com/resources/ chatgpt...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "Objectif 1 000 milliards: comment Anthropic entend à nouveau briser les ambitions de toute...",
-      "link": "https://www.challenges.fr/entreprise/tech-numerique/objectif-1-000-milliards-comment-anthropic-entend-a-nouveau-briser-les-ambitions-de-toute-puissance-du-pere-de-chatgpt_643880",
-      "url": "https://www.challenges.fr/entreprise/tech-numerique/objectif-1-000-milliards-comment-anthropic-entend-a-nouveau-briser-les-ambitions-de-toute-puissance-du-pere-de-chatgpt_643880",
-      "publishedAt": "2026-06-03T16:31:56.000Z",
-      "date": "2026-06-03T16:31:56.000Z",
-      "description": "Objectif 1 000 milliards: comment Anthropic entend à nouveau briser les ambitions de toute-puissance du « père » de ChatGPT. Alors qu'OpenAI était...",
-      "excerpt": "Objectif 1 000 milliards: comment Anthropic entend à nouveau briser les ambitions de toute-puissance du « père » de ChatGPT. Alors qu'OpenAI était...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5, Claude et Gemini sans abonnement: l'offre à vie de 1minAI revient à moins de 26 €",
-      "link": "https://www.clubic.com/bons-plans-615034-gpt-5-claude-et-gemini-sans-abonnement-l-offre-a-vie-de-1minai-revient-a-moins-de-27.html",
-      "url": "https://www.clubic.com/bons-plans-615034-gpt-5-claude-et-gemini-sans-abonnement-l-offre-a-vie-de-1minai-revient-a-moins-de-27.html",
-      "publishedAt": "2026-06-03T16:26:30.000Z",
-      "date": "2026-06-03T16:26:30.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Entre ChatGPT Plus, Claude Pro, Gemini Advanced ou encore les outils de...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Entre ChatGPT Plus, Claude Pro, Gemini Advanced ou encore les outils de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "title": "Managing active sessions in ChatGPT - OpenAI Help Center",
+      "link": "https://help.openai.com/fr-ca/articles/20001257-managing-active-sessions-in-chatgpt",
+      "url": "https://help.openai.com/fr-ca/articles/20001257-managing-active-sessions-in-chatgpt",
+      "publishedAt": "2026-06-04T01:27:49.000Z",
+      "date": "2026-06-04T01:27:49.000Z",
+      "description": "ChatGPT — Notes de version. Un journal des plus récentes mises à jour et notes de version de ChatGPT · ChatGPT Enterprise et Edu - Notes de version.",
+      "excerpt": "ChatGPT — Notes de version. Un journal des plus récentes mises à jour et notes de version de ChatGPT · ChatGPT Enterprise et Edu - Notes de version.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
