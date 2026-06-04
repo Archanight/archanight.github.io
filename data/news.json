@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T20:47:04.508Z",
+  "generatedAt": "2026-06-04T02:46:04.275Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT et les sources santé en France - ITRgames",
+      "link": "https://itrgames.com/communiques-de-press/49000/chatgpt-et-les-sources-sante-en-france",
+      "url": "https://itrgames.com/communiques-de-press/49000/chatgpt-et-les-sources-sante-en-france",
+      "publishedAt": "2026-06-03T19:43:37.000Z",
+      "date": "2026-06-03T19:43:37.000Z",
+      "description": "ChatGPT et les sources santé en France. mercredi 03 juin 2026. Une étude... Cybersécurité: l'IA s'impose, la supply chain s'expose · Asus...",
+      "excerpt": "ChatGPT et les sources santé en France. mercredi 03 juin 2026. Une étude... Cybersécurité: l'IA s'impose, la supply chain s'expose · Asus...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Pour ses cyberattaques, l'Iran mise sur ChatGPT ou Gemini - Le Temps",
       "link": "https://www.letemps.ch/monde/pour-ses-cyberattaques-l-iran-mise-sur-chatgpt-ou-gemini",
@@ -28,6 +38,16 @@
       "description": "OpenAI ( ChatGPT ) ou encore Anthropic (Claude) ont donc les mains libres.... La cybersécurité n'est plus la même et en Europe, le secteur...",
       "excerpt": "OpenAI ( ChatGPT ) ou encore Anthropic (Claude) ont donc les mains libres.... La cybersécurité n'est plus la même et en Europe, le secteur...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Tu as activé ChatGPT dans Sheets? Une cellule piégée vide ton compte - YouTube",
+      "link": "https://www.youtube.com/watch?v=wcnQcQaje_Q",
+      "url": "https://www.youtube.com/watch?v=wcnQcQaje_Q",
+      "publishedAt": "2026-06-03T17:53:15.000Z",
+      "date": "2026-06-03T17:53:15.000Z",
+      "description": "... Vulnerability: Shocking... ChatGPT Statistics 2026: Users, Revenue, and Enterprise Adoption.” https://www.secondtalent.com/resources/ chatgpt...",
+      "excerpt": "... Vulnerability: Shocking... ChatGPT Statistics 2026: Users, Revenue, and Enterprise Adoption.” https://www.secondtalent.com/resources/ chatgpt...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     },
     {
       "title": "Objectif 1 000 milliards: comment Anthropic entend à nouveau briser les ambitions de toute...",
@@ -108,26 +128,6 @@
       "description": "Aujourd'hui, lorsque les utilisateurs débattent pour savoir si GPT-4, GPT-4o, GPT-5 ou les derniers modèles de raisonnement sont « meilleurs », la...",
       "excerpt": "Aujourd'hui, lorsque les utilisateurs débattent pour savoir si GPT-4, GPT-4o, GPT-5 ou les derniers modèles de raisonnement sont « meilleurs », la...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "La Floride attaque OpenAI et Sam Altman pour mise en danger des jeunes utilisateurs",
-      "link": "https://siecledigital.fr/2026/06/03/la-floride-attaque-openai-et-sam-altman-pour-mise-en-danger-des-jeunes-utilisateurs/",
-      "url": "https://siecledigital.fr/2026/06/03/la-floride-attaque-openai-et-sam-altman-pour-mise-en-danger-des-jeunes-utilisateurs/",
-      "publishedAt": "2026-06-03T12:53:03.000Z",
-      "date": "2026-06-03T12:53:03.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux... Le procureur général James Uthmeier accuse le créateur de ChatGPT d'avoir volontairement ignoré les risques.",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux... Le procureur général James Uthmeier accuse le créateur de ChatGPT d'avoir volontairement ignoré les risques.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les IA génératives ne citent plus les mêmes sources, les marques doivent s'adapter",
-      "link": "https://siecledigital.fr/2026/06/03/les-ia-generatives-ne-citent-plus-les-memes-sources-et-les-marques-doivent-sadapter/",
-      "url": "https://siecledigital.fr/2026/06/03/les-ia-generatives-ne-citent-plus-les-memes-sources-et-les-marques-doivent-sadapter/",
-      "publishedAt": "2026-06-03T12:33:04.000Z",
-      "date": "2026-06-03T12:33:04.000Z",
-      "description": "ChatGPT a divisé par presque deux sa dépendance aux médias et aux réseaux sociaux... Cybersécurité · IT · Médias · Réseaux sociaux · Outils.",
-      "excerpt": "ChatGPT a divisé par presque deux sa dépendance aux médias et aux réseaux sociaux... Cybersécurité · IT · Médias · Réseaux sociaux · Outils.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
