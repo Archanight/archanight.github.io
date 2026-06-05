@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T02:32:51.636Z",
+  "generatedAt": "2026-06-05T09:31:06.674Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI refond la mémoire de ChatGPT avec Dreaming - IT SOCIAL",
+      "link": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/openai-refond-la-memoire-de-chatgpt-avec-dreaming-deploye-dabord-aux-abonnes-plus-et-pro-americains/",
+      "url": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/openai-refond-la-memoire-de-chatgpt-avec-dreaming-deploye-dabord-aux-abonnes-plus-et-pro-americains/",
+      "publishedAt": "2026-06-05T07:55:52.000Z",
+      "date": "2026-06-05T07:55:52.000Z",
+      "description": "... ChatGPT. OpenAI déploie Dreaming, un système... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
+      "excerpt": "... ChatGPT. OpenAI déploie Dreaming, un système... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT ajoute une des meilleures fonctions payantes à la version gratuite - 01net.com",
+      "link": "https://www.01net.com/actualites/chatgpt-ajoute-une-des-meilleures-fonctions-payantes-a-la-version-gratuite.html",
+      "url": "https://www.01net.com/actualites/chatgpt-ajoute-une-des-meilleures-fonctions-payantes-a-la-version-gratuite.html",
+      "publishedAt": "2026-06-05T06:18:38.000Z",
+      "date": "2026-06-05T06:18:38.000Z",
+      "description": "OpenAI lance Dreaming V3, une nouvelle version de la mémoire de ChatGPT qui retient désormais vos préférences automatiquement... Cybersécurité...",
+      "excerpt": "OpenAI lance Dreaming V3, une nouvelle version de la mémoire de ChatGPT qui retient désormais vos préférences automatiquement... Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cybersécurité: un ver propulsé par l'IA se propage seul | Android MT",
+      "link": "https://android-mt.ouest-france.fr/news/cybersecurite-un-ver-propulse-par-lia-se-propage-seul/203073/",
+      "url": "https://android-mt.ouest-france.fr/news/cybersecurite-un-ver-propulse-par-lia-se-propage-seul/203073/",
+      "publishedAt": "2026-06-05T04:20:57.000Z",
+      "date": "2026-06-05T04:20:57.000Z",
+      "description": "Cybersécurité: un ver propulsé par l'IA se propage seul. Richard... ChatGPT | Chrome | Cyberghost | Eyezy | Gmail | Google Maps | Instagram...",
+      "excerpt": "Cybersécurité: un ver propulsé par l'IA se propage seul. Richard... ChatGPT | Chrome | Cyberghost | Eyezy | Gmail | Google Maps | Instagram...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'IA de Meta censée tout changer sera en retard et c'est à cause de ChatGPT - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/lia-de-meta-censee-tout-changer-sera-en-retard-et-cest-a-cause-de-chatgpt",
+      "url": "https://www.lebigdata.fr/lia-de-meta-censee-tout-changer-sera-en-retard-et-cest-a-cause-de-chatgpt",
+      "publishedAt": "2026-06-05T02:20:00.000Z",
+      "date": "2026-06-05T02:20:00.000Z",
+      "description": "Meta repousse encore Muse Spark car l'IA bien que multimodale peine à rivaliser avec ChatGPT, Gemini et Anthropic.",
+      "excerpt": "Meta repousse encore Muse Spark car l'IA bien que multimodale peine à rivaliser avec ChatGPT, Gemini et Anthropic.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le Tech Flash: ChatGPT passe le milliard d'utilisateurs, par Léa Benaim - 04/06: Actualités",
       "link": "https://actu.orange.fr/videos/economie/le-tech-flash-chatgpt-passe-le-milliard-d-utilisateurs-par-lea-benaim-04-06-CNT000002pLrml.html",
@@ -27,6 +67,16 @@
       "date": "2026-06-04T21:28:33.000Z",
       "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat... C'est là que le \" ChatGPT du RN\" entre en jeu. Il doit être déployé dans...",
       "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat... C'est là que le \" ChatGPT du RN\" entre en jeu. Il doit être déployé dans...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT franchit le milliard d'utilisateurs - Economie Matin",
+      "link": "https://www.economiematin.fr/chatgpt-milliard-utilisateurs",
+      "url": "https://www.economiematin.fr/chatgpt-milliard-utilisateurs",
+      "publishedAt": "2026-06-04T21:06:32.000Z",
+      "date": "2026-06-04T21:06:32.000Z",
+      "description": "ChatGPT franchit le cap historique du milliard d'utilisateurs en... Cybersécurité; Numérique. Une arnaque sophistiquée exploite les données...",
+      "excerpt": "ChatGPT franchit le cap historique du milliard d'utilisateurs en... Cybersécurité; Numérique. Une arnaque sophistiquée exploite les données...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -78,56 +128,6 @@
       "description": "Le Big Data: ChatGPT Images 2.0: Ils ont enfin corrigé CE défaut qui rendait. Business il y a 1 mois. ChatGPT Images...",
       "excerpt": "Le Big Data: ChatGPT Images 2.0: Ils ont enfin corrigé CE défaut qui rendait. Business il y a 1 mois. ChatGPT Images...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT a-t-il vraiment dépassé le milliard d'utilisateurs mensuels? - l'Eclaireur Fnac",
-      "link": "https://leclaireur.fnac.com/article/677024-chatgpt-a-t-il-vraiment-depasse-le-milliard-dutilisateurs-mensuels/",
-      "url": "https://leclaireur.fnac.com/article/677024-chatgpt-a-t-il-vraiment-depasse-le-milliard-dutilisateurs-mensuels/",
-      "publishedAt": "2026-06-04T15:44:36.000Z",
-      "date": "2026-06-04T15:44:36.000Z",
-      "description": "Le milliard franchi par ChatGPT. Il faut d'abord comprendre de quoi l'on parle. Sensor Tower est un cabinet d'analyse spécialisé dans les applications...",
-      "excerpt": "Le milliard franchi par ChatGPT. Il faut d'abord comprendre de quoi l'on parle. Sensor Tower est un cabinet d'analyse spécialisé dans les applications...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Quatre étudiants sur cinq l'utilisent: face au fléau ChatGPT, le collectif Scientifiques en... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/quatre-etudiants-sur-cinq-l-utilisent-face-au-fleau-chat-gpt-le-collectif-scientifiques-en-rebellion-prone-la-creation-d-un-label-universitaire-sans-ia-generative-sur-la-base-d-un-engagement-moral-commun_AD-202606040626.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/quatre-etudiants-sur-cinq-l-utilisent-face-au-fleau-chat-gpt-le-collectif-scientifiques-en-rebellion-prone-la-creation-d-un-label-universitaire-sans-ia-generative-sur-la-base-d-un-engagement-moral-commun_AD-202606040626.html",
-      "publishedAt": "2026-06-04T15:20:30.000Z",
-      "date": "2026-06-04T15:20:30.000Z",
-      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... Quatre étudiants sur cinq l'utilisent: face au fléau ChatGPT, le...",
-      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... Quatre étudiants sur cinq l'utilisent: face au fléau ChatGPT, le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des sites Web peuvent tomber en 10 secondes: la nouvelle technique qui contourne les... - Futura",
-      "link": "https://www.futura-sciences.com/tech/actualites/cybersecurite-sites-web-peuvent-tomber-10-secondes-nouvelle-technique-contourne-defenses-affole-experts-135038/",
-      "url": "https://www.futura-sciences.com/tech/actualites/cybersecurite-sites-web-peuvent-tomber-10-secondes-nouvelle-technique-contourne-defenses-affole-experts-135038/",
-      "publishedAt": "2026-06-04T15:17:58.000Z",
-      "date": "2026-06-04T15:17:58.000Z",
-      "description": "Un seul ordinateur pour tout faire planter.... C'est justement la nouveauté que la société californienne de cybersécurité Calif vient de documenter.",
-      "excerpt": "Un seul ordinateur pour tout faire planter.... C'est justement la nouveauté que la société californienne de cybersécurité Calif vient de documenter.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT atteint le milliard d'utilisateurs mensuels, un cap symbolique pour OpenAI",
-      "link": "https://siecledigital.fr/2026/06/04/chatgpt-atteint-le-milliard-dutilisateurs-mensuels-un-cap-symbolique-pour-openai/",
-      "url": "https://siecledigital.fr/2026/06/04/chatgpt-atteint-le-milliard-dutilisateurs-mensuels-un-cap-symbolique-pour-openai/",
-      "publishedAt": "2026-06-04T12:53:31.000Z",
-      "date": "2026-06-04T12:53:31.000Z",
-      "description": "Des mastodontes comme TikTok ou Instagram ont eu besoin de cinq à huit ans pour rassembler autant de monde. ChatGPT... Cybersécurité · IT · Médias...",
-      "excerpt": "Des mastodontes comme TikTok ou Instagram ont eu besoin de cinq à huit ans pour rassembler autant de monde. ChatGPT... Cybersécurité · IT · Médias...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pour booster Siri, Apple met de côté son infrastructure cloud maison et fait confiance à Google",
-      "link": "https://www.clubic.com/actualite-615313-pour-booster-siri-apple-met-de-cote-son-infrastructure-cloud-maison-et-fait-confiance-a-google.html",
-      "url": "https://www.clubic.com/actualite-615313-pour-booster-siri-apple-met-de-cote-son-infrastructure-cloud-maison-et-fait-confiance-a-google.html",
-      "publishedAt": "2026-06-04T12:22:48.000Z",
-      "date": "2026-06-04T12:22:48.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Comment Siri va jongler entre Gemini et...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Comment Siri va jongler entre Gemini et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
