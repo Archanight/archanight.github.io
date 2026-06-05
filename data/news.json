@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T09:31:06.674Z",
+  "generatedAt": "2026-06-05T14:25:47.262Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,86 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Cyberespionnage: LinkedIn détourné pour recruter en ligne | Android MT",
+      "link": "https://android-mt.ouest-france.fr/news/cyberespionnage-linkedin-detourne-pour-recruter-en-ligne/203077/",
+      "url": "https://android-mt.ouest-france.fr/news/cyberespionnage-linkedin-detourne-pour-recruter-en-ligne/203077/",
+      "publishedAt": "2026-06-05T10:19:35.000Z",
+      "date": "2026-06-05T10:19:35.000Z",
+      "description": "... Cybersécurité: un ver propulsé par l'IA se propage seul.",
+      "excerpt": "... Cybersécurité: un ver propulsé par l'IA se propage seul.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Frédéric Lutard, DSI de Stallergenes Greer, Prix DSIN Cybersécurité - ITforBusiness.fr",
+      "link": "https://www.itforbusiness.fr/frederic-lutard-dsi-de-stallergenes-greer-prix-dsin-cybersecurite-104516",
+      "url": "https://www.itforbusiness.fr/frederic-lutard-dsi-de-stallergenes-greer-prix-dsin-cybersecurite-104516",
+      "publishedAt": "2026-06-05T10:04:01.000Z",
+      "date": "2026-06-05T10:04:01.000Z",
+      "description": "Frédéric Lutard fait de la cybersécurité un levier de résilience... Accès à Albert ( ChatGPT for IT). +. Contenus réservés à la communauté d...",
+      "excerpt": "Frédéric Lutard fait de la cybersécurité un levier de résilience... Accès à Albert ( ChatGPT for IT). +. Contenus réservés à la communauté d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT ajoute une des meilleures fonctions payantes à la version gratuite - 01net.com",
+      "link": "https://www.01net.com/actualites/chatgpt-ajoute-une-des-meilleures-fonctions-payantes-a-la-version-gratuite.html",
+      "url": "https://www.01net.com/actualites/chatgpt-ajoute-une-des-meilleures-fonctions-payantes-a-la-version-gratuite.html",
+      "publishedAt": "2026-06-05T09:31:38.000Z",
+      "date": "2026-06-05T09:31:38.000Z",
+      "description": "OpenAI lance Dreaming V3, une nouvelle version de la mémoire de ChatGPT qui retient désormais vos préférences automatiquement.",
+      "excerpt": "OpenAI lance Dreaming V3, une nouvelle version de la mémoire de ChatGPT qui retient désormais vos préférences automatiquement.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Whispeak détecte les deepfakes vocaux en moins d'une seconde - Les Smart Grids",
+      "link": "https://les-smartgrids.fr/whispeak-detecte-les-deepfakes-vocaux-en-moins-dune-seconde/",
+      "url": "https://les-smartgrids.fr/whispeak-detecte-les-deepfakes-vocaux-en-moins-dune-seconde/",
+      "publishedAt": "2026-06-05T09:25:34.000Z",
+      "date": "2026-06-05T09:25:34.000Z",
+      "description": "Cybersécurité: l'État lance un MOOC pour former les...",
+      "excerpt": "Cybersécurité: l'État lance un MOOC pour former les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT se souvient mieux de vous, même en version gratuite - Frandroid",
+      "link": "https://www.frandroid.com/marques/openai/3127911_chatgpt-se-souvient-mieux-de-vous-meme-en-version-gratuite",
+      "url": "https://www.frandroid.com/marques/openai/3127911_chatgpt-se-souvient-mieux-de-vous-meme-en-version-gratuite",
+      "publishedAt": "2026-06-05T08:58:56.000Z",
+      "date": "2026-06-05T08:58:56.000Z",
+      "description": "ChatGPT (OpenAI) Intelligence artificielle PC Produits Smartphones Société ChatGPT... microsoft-365-copilot- gpt-5 -1536.",
+      "excerpt": "ChatGPT (OpenAI) Intelligence artificielle PC Produits Smartphones Société ChatGPT... microsoft-365-copilot- gpt-5 -1536.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Un test psychologique classique met ChatGPT en échec, et l'AGI pourrait en payer le prix",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/un-test-psychologique-classique-met-chatgpt-en-echec-et-lagi-pourrait-en-payer-le-prix",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/un-test-psychologique-classique-met-chatgpt-en-echec-et-lagi-pourrait-en-payer-le-prix",
+      "publishedAt": "2026-06-05T08:52:59.000Z",
+      "date": "2026-06-05T08:52:59.000Z",
+      "description": "La recherche consiste à tester l'effet dit « Stroop » avec GPT-4o et Claude 3.5 Sonnet.... ChatGPT OpenAI tourne discrètement la page GPT-4 dans...",
+      "excerpt": "La recherche consiste à tester l'effet dit « Stroop » avec GPT-4o et Claude 3.5 Sonnet.... ChatGPT OpenAI tourne discrètement la page GPT-4 dans...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT Dreaming: la mise à jour de sa mémoire magique - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/371357/chatgpt-dreaming-memoire-ia/",
+      "url": "https://www.blog-nouvelles-technologies.fr/371357/chatgpt-dreaming-memoire-ia/",
+      "publishedAt": "2026-06-05T08:09:30.000Z",
+      "date": "2026-06-05T08:09:30.000Z",
+      "description": "Découvrez Dreaming, la nouvelle mémoire magique de ChatGPT! L'IA apprend enfin à vous connaître pour vous simplifier la vie.",
+      "excerpt": "Découvrez Dreaming, la nouvelle mémoire magique de ChatGPT! L'IA apprend enfin à vous connaître pour vous simplifier la vie.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Cette attaque DDoS d'un nouveau genre pourrait casser Internet - PhonAndroid",
+      "link": "https://www.phonandroid.com/cette-attaque-ddos-dun-nouveau-genre-pourrait-casser-internet.html",
+      "url": "https://www.phonandroid.com/cette-attaque-ddos-dun-nouveau-genre-pourrait-casser-internet.html",
+      "publishedAt": "2026-06-05T08:06:34.000Z",
+      "date": "2026-06-05T08:06:34.000Z",
+      "description": "En utilisant l'IA Codex d'OpenAI, des chercheurs en cybersécurité ont découvert une nouvelle attaque DDoS particulièrement puissante... ChatGPT “, lit-...",
+      "excerpt": "En utilisant l'IA Codex d'OpenAI, des chercheurs en cybersécurité ont découvert une nouvelle attaque DDoS particulièrement puissante... ChatGPT “, lit-...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI refond la mémoire de ChatGPT avec Dreaming - IT SOCIAL",
       "link": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/openai-refond-la-memoire-de-chatgpt-avec-dreaming-deploye-dabord-aux-abonnes-plus-et-pro-americains/",
@@ -20,113 +100,33 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "ChatGPT ajoute une des meilleures fonctions payantes à la version gratuite - 01net.com",
-      "link": "https://www.01net.com/actualites/chatgpt-ajoute-une-des-meilleures-fonctions-payantes-a-la-version-gratuite.html",
-      "url": "https://www.01net.com/actualites/chatgpt-ajoute-une-des-meilleures-fonctions-payantes-a-la-version-gratuite.html",
-      "publishedAt": "2026-06-05T06:18:38.000Z",
-      "date": "2026-06-05T06:18:38.000Z",
-      "description": "OpenAI lance Dreaming V3, une nouvelle version de la mémoire de ChatGPT qui retient désormais vos préférences automatiquement... Cybersécurité...",
-      "excerpt": "OpenAI lance Dreaming V3, une nouvelle version de la mémoire de ChatGPT qui retient désormais vos préférences automatiquement... Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité: un ver propulsé par l'IA se propage seul | Android MT",
-      "link": "https://android-mt.ouest-france.fr/news/cybersecurite-un-ver-propulse-par-lia-se-propage-seul/203073/",
-      "url": "https://android-mt.ouest-france.fr/news/cybersecurite-un-ver-propulse-par-lia-se-propage-seul/203073/",
-      "publishedAt": "2026-06-05T04:20:57.000Z",
-      "date": "2026-06-05T04:20:57.000Z",
-      "description": "Cybersécurité: un ver propulsé par l'IA se propage seul. Richard... ChatGPT | Chrome | Cyberghost | Eyezy | Gmail | Google Maps | Instagram...",
-      "excerpt": "Cybersécurité: un ver propulsé par l'IA se propage seul. Richard... ChatGPT | Chrome | Cyberghost | Eyezy | Gmail | Google Maps | Instagram...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'IA de Meta censée tout changer sera en retard et c'est à cause de ChatGPT - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/lia-de-meta-censee-tout-changer-sera-en-retard-et-cest-a-cause-de-chatgpt",
-      "url": "https://www.lebigdata.fr/lia-de-meta-censee-tout-changer-sera-en-retard-et-cest-a-cause-de-chatgpt",
-      "publishedAt": "2026-06-05T02:20:00.000Z",
-      "date": "2026-06-05T02:20:00.000Z",
-      "description": "Meta repousse encore Muse Spark car l'IA bien que multimodale peine à rivaliser avec ChatGPT, Gemini et Anthropic.",
-      "excerpt": "Meta repousse encore Muse Spark car l'IA bien que multimodale peine à rivaliser avec ChatGPT, Gemini et Anthropic.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le Tech Flash: ChatGPT passe le milliard d'utilisateurs, par Léa Benaim - 04/06: Actualités",
-      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-chatgpt-passe-le-milliard-d-utilisateurs-par-lea-benaim-04-06-CNT000002pLrml.html",
-      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-chatgpt-passe-le-milliard-d-utilisateurs-par-lea-benaim-04-06-CNT000002pLrml.html",
-      "publishedAt": "2026-06-04T21:45:30.000Z",
-      "date": "2026-06-04T21:45:30.000Z",
-      "description": "Ce jeudi 4 juin, dans Le Tech Flash, Léa Benaim s'est penchée sur le milliard d'utilisateurs actifs mensuels de ChatGPT... Cybersécurité et...",
-      "excerpt": "Ce jeudi 4 juin, dans Le Tech Flash, Léa Benaim s'est penchée sur le milliard d'utilisateurs actifs mensuels de ChatGPT... Cybersécurité et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Présidentielle 2027: le Rassemblement national va lancer un chatbot IA, il sera destiné à... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/presidentielle-2027-le-rassemblement-national-va-lancer-un-chatbot-ia-il-sera-destine-a-ses-cadres-et-militants-pour-leur-permettre-de-mieux-maitriser-le-programme-et-de-riposter-en-une-demi-seconde_AN-202606040537.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/presidentielle-2027-le-rassemblement-national-va-lancer-un-chatbot-ia-il-sera-destine-a-ses-cadres-et-militants-pour-leur-permettre-de-mieux-maitriser-le-programme-et-de-riposter-en-une-demi-seconde_AN-202606040537.html",
-      "publishedAt": "2026-06-04T21:28:33.000Z",
-      "date": "2026-06-04T21:28:33.000Z",
-      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat... C'est là que le \" ChatGPT du RN\" entre en jeu. Il doit être déployé dans...",
-      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat... C'est là que le \" ChatGPT du RN\" entre en jeu. Il doit être déployé dans...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT franchit le milliard d'utilisateurs - Economie Matin",
-      "link": "https://www.economiematin.fr/chatgpt-milliard-utilisateurs",
-      "url": "https://www.economiematin.fr/chatgpt-milliard-utilisateurs",
-      "publishedAt": "2026-06-04T21:06:32.000Z",
-      "date": "2026-06-04T21:06:32.000Z",
-      "description": "ChatGPT franchit le cap historique du milliard d'utilisateurs en... Cybersécurité; Numérique. Une arnaque sophistiquée exploite les données...",
-      "excerpt": "ChatGPT franchit le cap historique du milliard d'utilisateurs en... Cybersécurité; Numérique. Une arnaque sophistiquée exploite les données...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Se former à l'IA pour rester dans la course: pourquoi les salariés n'ont plus le choix",
-      "link": "https://www.challenges.fr/grandes-ecoles/se-former-a-lia-pour-rester-dans-la-course-pourquoi-les-salaries-nont-plus-le-choix_643852",
-      "url": "https://www.challenges.fr/grandes-ecoles/se-former-a-lia-pour-rester-dans-la-course-pourquoi-les-salaries-nont-plus-le-choix_643852",
-      "publishedAt": "2026-06-04T20:26:39.000Z",
-      "date": "2026-06-04T20:26:39.000Z",
-      "description": "MBA, masters ou certificats abondent. L'utilisation de chatbots intelligents comme Claude et ChatGPT bouleverse déjà des métiers et menace.",
-      "excerpt": "MBA, masters ou certificats abondent. L'utilisation de chatbots intelligents comme Claude et ChatGPT bouleverse déjà des métiers et menace.",
+      "title": "Switch 2: batterie amovible et lancement européen en 2027 | Android MT - Ouest-France",
+      "link": "https://android-mt.ouest-france.fr/news/switch-2-batterie-amovible-et-lancement-europeen-en-2027/203079/",
+      "url": "https://android-mt.ouest-france.fr/news/switch-2-batterie-amovible-et-lancement-europeen-en-2027/203079/",
+      "publishedAt": "2026-06-05T06:45:55.000Z",
+      "date": "2026-06-05T06:45:55.000Z",
+      "description": "Nintendo has confirmed it will release a new version of the Switch 2... ChatGPT: 8 astuces pour passer du niveau débutant à expert.",
+      "excerpt": "Nintendo has confirmed it will release a new version of the Switch 2... ChatGPT: 8 astuces pour passer du niveau débutant à expert.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "comment Reddit est devenu le vecteur préféré des empoisonneurs d'IA - Numerama",
-      "link": "https://www.numerama.com/tech/2267267-la-vitamine-d-merite-t-elle-vraiment-tout-cet-engouement-comment-reddit-est-devenu-le-vecteur-prefere-des-empoisonneurs-dia.html",
-      "url": "https://www.numerama.com/tech/2267267-la-vitamine-d-merite-t-elle-vraiment-tout-cet-engouement-comment-reddit-est-devenu-le-vecteur-prefere-des-empoisonneurs-dia.html",
-      "publishedAt": "2026-06-04T19:32:54.000Z",
-      "date": "2026-06-04T19:32:54.000Z",
-      "description": "... ChatGPT et de la recherche IA de Google. C'est un post de modération qui a mis le sujet en lumière. Fin mai 2026, les modérateurs du subreddit r...",
-      "excerpt": "... ChatGPT et de la recherche IA de Google. C'est un post de modération qui a mis le sujet en lumière. Fin mai 2026, les modérateurs du subreddit r...",
+      "title": "\"La plus aboutie des mémoires\": ChatGPT lance Dreaming V3, l'IA se souviendra de tout de vous",
+      "link": "https://www.buzzarena.com/la-plus-aboutie-des-memoires-chatgpt-lance-dreaming-v3-lia-se-souviendra-de-tout-de-vous-4555835",
+      "url": "https://www.buzzarena.com/la-plus-aboutie-des-memoires-chatgpt-lance-dreaming-v3-lia-se-souviendra-de-tout-de-vous-4555835",
+      "publishedAt": "2026-06-05T06:02:12.000Z",
+      "date": "2026-06-05T06:02:12.000Z",
+      "description": "OpenAI a revu en profondeur la mémoire de ChatGPT. La start-up de Sam Altman a lancé une nouvelle architecture appelée Dreaming V3 pour retenir...",
+      "excerpt": "OpenAI a revu en profondeur la mémoire de ChatGPT. La start-up de Sam Altman a lancé une nouvelle architecture appelée Dreaming V3 pour retenir...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "ChatGPT supprime deux modèles que ses utilisateurs aimaient plus que les nouveaux",
-      "link": "https://www.tuxboard.com/chatgpt-supprime-deux-modeles-que-ses-utilisateurs-aimaient-plus-que-les-nouveaux/",
-      "url": "https://www.tuxboard.com/chatgpt-supprime-deux-modeles-que-ses-utilisateurs-aimaient-plus-que-les-nouveaux/",
-      "publishedAt": "2026-06-04T17:55:48.000Z",
-      "date": "2026-06-04T17:55:48.000Z",
-      "description": "... GPT-4. Ce « nettoyage » technique n'a rien de surprenant dans une... Ce sursis avait duré jusqu'à ce que GPT-5 soit suffisamment mature pour s'imposer.",
-      "excerpt": "... GPT-4. Ce « nettoyage » technique n'a rien de surprenant dans une... Ce sursis avait duré jusqu'à ce que GPT-5 soit suffisamment mature pour s'imposer.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI lance les clés de sécurité Yubico pour protéger votre ChatGPT - AlexiTauzin.com",
-      "link": "https://alexitauzin.com/openai-lance-les-cles-de-securite-yubico-pour-proteger-votre-chatgpt/",
-      "url": "https://alexitauzin.com/openai-lance-les-cles-de-securite-yubico-pour-proteger-votre-chatgpt/",
-      "publishedAt": "2026-06-04T17:02:01.000Z",
-      "date": "2026-06-04T17:02:01.000Z",
-      "description": "OpenAI et Yubico lancent des clés de sécurité anti-phishing pour ChatGPT. Mais attention: perdez votre clé et vos conversations disparaissent.",
-      "excerpt": "OpenAI et Yubico lancent des clés de sécurité anti-phishing pour ChatGPT. Mais attention: perdez votre clé et vos conversations disparaissent.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ideogram 4.0 affiche des performances record: le nouveau roi des IA d'image open source",
-      "link": "https://www.briefia.fr/article/ideogram-4-0-affiche-des-performances-record-le-nouveau-roi-des-ia-d-image-open",
-      "url": "https://www.briefia.fr/article/ideogram-4-0-affiche-des-performances-record-le-nouveau-roi-des-ia-d-image-open",
-      "publishedAt": "2026-06-04T16:11:46.000Z",
-      "date": "2026-06-04T16:11:46.000Z",
-      "description": "Le Big Data: ChatGPT Images 2.0: Ils ont enfin corrigé CE défaut qui rendait. Business il y a 1 mois. ChatGPT Images...",
-      "excerpt": "Le Big Data: ChatGPT Images 2.0: Ils ont enfin corrigé CE défaut qui rendait. Business il y a 1 mois. ChatGPT Images...",
+      "title": "ChatGPT \"rêve\" de vous: OpenAI déploie une mémoire qui n'oublie plus rien",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-reve-de-vous-openai-deploie-une-memoire-qui-n-oublie-plus-rien-n257073.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-reve-de-vous-openai-deploie-une-memoire-qui-n-oublie-plus-rien-n257073.html",
+      "publishedAt": "2026-06-05T05:45:48.000Z",
+      "date": "2026-06-05T05:45:48.000Z",
+      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris Google. Commenter. Aymeric Geoffre-Rouland. Pilote de l'actu et journaliste...",
+      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris Google. Commenter. Aymeric Geoffre-Rouland. Pilote de l'actu et journaliste...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
