@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T13:09:22.059Z",
+  "generatedAt": "2026-06-06T19:05:31.076Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Lunettes Meta: la reconnaissance faciale dort déjà dans l'app - Stéphane Larue",
+      "link": "https://stephanelarue.com/lunettes-meta-la-reconnaissance-faciale-dort-deja-dans-l-app/",
+      "url": "https://stephanelarue.com/lunettes-meta-la-reconnaissance-faciale-dort-deja-dans-l-app/",
+      "publishedAt": "2026-06-06T15:33:30.000Z",
+      "date": "2026-06-06T15:33:30.000Z",
+      "description": "ChatGPT... CYBER Cybersécurité · 3 min. Lunettes Meta: la reconnaissance faciale...",
+      "excerpt": "ChatGPT... CYBER Cybersécurité · 3 min. Lunettes Meta: la reconnaissance faciale...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT étend de manière inattendue son outil de sécurité amélioré, le mode de verrouillage.",
+      "link": "https://www.vietnam.vn/fr/chatgpt-bat-ngo-mo-rong-cong-cu-bao-mat-nang-cao-lockdown-mode",
+      "url": "https://www.vietnam.vn/fr/chatgpt-bat-ngo-mo-rong-cong-cu-bao-mat-nang-cao-lockdown-mode",
+      "publishedAt": "2026-06-06T12:40:17.000Z",
+      "date": "2026-06-06T12:40:17.000Z",
+      "description": "... cybersécurité, OpenAI a officiellement étendu son outil de sécurité avancé « Mode de verrouillage » à tous les comptes ChatGPT personnels (y...",
+      "excerpt": "... cybersécurité, OpenAI a officiellement étendu son outil de sécurité avancé « Mode de verrouillage » à tous les comptes ChatGPT personnels (y...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment une attaque sur la chaîne logistique a transformé Hola Browser en piège",
+      "link": "https://charlestech.fr/comment-attaque-chaine-logistique-transforme-hola-browser/",
+      "url": "https://charlestech.fr/comment-attaque-chaine-logistique-transforme-hola-browser/",
+      "publishedAt": "2026-06-06T12:40:02.000Z",
+      "date": "2026-06-06T12:40:02.000Z",
+      "description": "ChatGPT · Grok · Perplexity · Claude. Sommaire... La société de cybersécurité Sygnia avait également détecté la brèche de façon indépendante.",
+      "excerpt": "ChatGPT · Grok · Perplexity · Claude. Sommaire... La société de cybersécurité Sygnia avait également détecté la brèche de façon indépendante.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT vs Gemini: Quelle IA générative choisir? #shorts - YouTube",
+      "link": "https://www.youtube.com/watch?v=n7G3N0j37-k",
+      "url": "https://www.youtube.com/watch?v=n7G3N0j37-k",
+      "publishedAt": "2026-06-06T12:09:38.000Z",
+      "date": "2026-06-06T12:09:38.000Z",
+      "description": "... ChatGPT #Gemini # Cybersécurité.",
+      "excerpt": "... ChatGPT #Gemini # Cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Social Media Opens Corporate Networks to World of Woes - Features - News & Reviews",
+      "link": "https://www.eweek.com/fr/news/social-media-opens-corporate-networks-to-world-of-woes/",
+      "url": "https://www.eweek.com/fr/news/social-media-opens-corporate-networks-to-world-of-woes/",
+      "publishedAt": "2026-06-06T08:32:33.000Z",
+      "date": "2026-06-06T08:32:33.000Z",
+      "description": "... Cybersécurité Cybersécurité · Applications Applications · Gestion IT... ChatGPT Features: Scheduled Tasks, Image Creation, and More. Learn 10...",
+      "excerpt": "... Cybersécurité Cybersécurité · Applications Applications · Gestion IT... ChatGPT Features: Scheduled Tasks, Image Creation, and More. Learn 10...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Hot Wheels Infinite Rush dévoilé au Summer Game Fest: Milestone passe au monde ouvert",
       "link": "https://stephanelarue.com/hot-wheels-infinite-rush-devoile-summer-game-fest-milestone-monde-ouvert/",
@@ -78,56 +128,6 @@
       "description": "Essayez ChatGPT (s'ouvre dans une nouvelle fenêtre) Connexion. Créer des... Notes de version. Plateforme API. Présentation de la plateforme...",
       "excerpt": "Essayez ChatGPT (s'ouvre dans une nouvelle fenêtre) Connexion. Créer des... Notes de version. Plateforme API. Présentation de la plateforme...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT améliore sa mémoire pour se souvenir de vos préférences et de vos habitudes",
-      "link": "https://www.commentcamarche.net/applis-sites/applications/38079-memoire-chatgpt/",
-      "url": "https://www.commentcamarche.net/applis-sites/applications/38079-memoire-chatgpt/",
-      "publishedAt": "2026-06-05T19:58:50.000Z",
-      "date": "2026-06-05T19:58:50.000Z",
-      "description": "ChatGPT se dote d'une meilleure mémoire, y compris pour les utilisateurs gratuits. Le robot conversationnel retiendra automatiquement les éléments...",
-      "excerpt": "ChatGPT se dote d'une meilleure mémoire, y compris pour les utilisateurs gratuits. Le robot conversationnel retiendra automatiquement les éléments...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "CVE -2026-49975: Attaque par déni de service HTTP/2 Bomb - SOC Prime",
-      "link": "https://socprime.com/fr/blog/analyse-cve-2026-49975/",
-      "url": "https://socprime.com/fr/blog/analyse-cve-2026-49975/",
-      "publishedAt": "2026-06-05T19:12:29.000Z",
-      "date": "2026-06-05T19:12:29.000Z",
-      "description": "ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des Matières. Analyse de CVE -2026-49975; Atténuation de CVE -2026-49975; FAQ.",
-      "excerpt": "ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des Matières. Analyse de CVE -2026-49975; Atténuation de CVE -2026-49975; FAQ.",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "OpenAI booste la mémoire de ChatGPT: les comptes gratuits en profitent aussi",
-      "link": "https://charlestech.fr/openai-booste-memoire-chatgpt-comptes-gratuits-profitent/",
-      "url": "https://charlestech.fr/openai-booste-memoire-chatgpt-comptes-gratuits-profitent/",
-      "publishedAt": "2026-06-05T17:21:09.000Z",
-      "date": "2026-06-05T17:21:09.000Z",
-      "description": "OpenAI déploie une mise à jour significative du système de mémoire de ChatGPT. Cette évolution touche aussi bien les abonnés payants que,...",
-      "excerpt": "OpenAI déploie une mise à jour significative du système de mémoire de ChatGPT. Cette évolution touche aussi bien les abonnés payants que,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Claude Mythos inquiète déjà, Anthropic veut ralentir les IA les plus puissantes - BuzzArena",
-      "link": "https://www.buzzarena.com/claude-mythos-inquiete-deja-anthropic-veut-ralentir-les-ia-les-plus-puissantes-4555874",
-      "url": "https://www.buzzarena.com/claude-mythos-inquiete-deja-anthropic-veut-ralentir-les-ia-les-plus-puissantes-4555874",
-      "publishedAt": "2026-06-05T16:19:38.000Z",
-      "date": "2026-06-05T16:19:38.000Z",
-      "description": "Le paradoxe est énorme puisque l'alerte arrive au moment où Claude Mythos fait déjà trembler la cybersécurité.... Adieu ChatGPT: Anthropic est...",
-      "excerpt": "Le paradoxe est énorme puisque l'alerte arrive au moment où Claude Mythos fait déjà trembler la cybersécurité.... Adieu ChatGPT: Anthropic est...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La prochaine pandémie sera-t-elle causée par un bioterroriste aidé de ChatGPT? Les... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/la-prochaine-pandemie-sera-t-elle-causee-par-un-bioterroriste-aide-de-chat-gpt-les-patrons-de-l-ia-tirent-la-sonnette-d-alarme-face-aux-risques-biologiques-lies-a-leurs-modeles-de-pointe_AN-202606050728.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/la-prochaine-pandemie-sera-t-elle-causee-par-un-bioterroriste-aide-de-chat-gpt-les-patrons-de-l-ia-tirent-la-sonnette-d-alarme-face-aux-risques-biologiques-lies-a-leurs-modeles-de-pointe_AN-202606050728.html",
-      "publishedAt": "2026-06-05T16:08:45.000Z",
-      "date": "2026-06-05T16:08:45.000Z",
-      "description": "La prochaine pandémie sera-t-elle causée par un bioterroriste aidé de ChatGPT? Les patrons de l'IA tirent la sonnette d'alarme face aux risques...",
-      "excerpt": "La prochaine pandémie sera-t-elle causée par un bioterroriste aidé de ChatGPT? Les patrons de l'IA tirent la sonnette d'alarme face aux risques...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
