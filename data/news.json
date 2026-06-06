@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T02:12:20.713Z",
+  "generatedAt": "2026-06-06T08:24:02.195Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,36 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Comment ChatGPT a trouvé la panne de notre MacBook Air en 10 minutes - 01net.com",
+      "link": "https://www.01net.com/astuces/comment-chatgpt-a-trouve-la-panne-de-mon-macbook-air-en-10-minutes.html",
+      "url": "https://www.01net.com/astuces/comment-chatgpt-a-trouve-la-panne-de-mon-macbook-air-en-10-minutes.html",
+      "publishedAt": "2026-06-06T06:41:15.000Z",
+      "date": "2026-06-06T06:41:15.000Z",
+      "description": "En lui expliquant les symptômes d'un Mac en panne, ChatGPT a trouvé la panne en moins de 10 minutes... Cybersécurité · Société · Télécoms · Auto...",
+      "excerpt": "En lui expliquant les symptômes d'un Mac en panne, ChatGPT a trouvé la panne en moins de 10 minutes... Cybersécurité · Société · Télécoms · Auto...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Santé, une aide pour les médecins et les patients mais est‑ce fiable? Quid de la... - RTBF",
+      "link": "https://www.rtbf.be/article/chatgpt-sante-une-aide-pour-les-medecins-et-les-patients-mais-est-ce-fiable-quid-de-la-confidentialite-et-du-secret-medical-11734616",
+      "url": "https://www.rtbf.be/article/chatgpt-sante-une-aide-pour-les-medecins-et-les-patients-mais-est-ce-fiable-quid-de-la-confidentialite-et-du-secret-medical-11734616",
+      "publishedAt": "2026-06-06T06:28:59.000Z",
+      "date": "2026-06-06T06:28:59.000Z",
+      "description": "ChatGPT Santé, une aide pour les médecins et les patients mais est... cybersécurité? Intelligence artificielle. 31 mai 2026 à 08:00 • Temps...",
+      "excerpt": "ChatGPT Santé, une aide pour les médecins et les patients mais est... cybersécurité? Intelligence artificielle. 31 mai 2026 à 08:00 • Temps...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Nouvelle mémoire, ChatGPT ne vous oubliera pas! | Android MT - Ouest-France",
+      "link": "https://android-mt.ouest-france.fr/news/nouvelle-memoire-chatgpt-ne-vous-oubliera-pas/203146/",
+      "url": "https://android-mt.ouest-france.fr/news/nouvelle-memoire-chatgpt-ne-vous-oubliera-pas/203146/",
+      "publishedAt": "2026-06-06T05:15:34.000Z",
+      "date": "2026-06-06T05:15:34.000Z",
+      "description": "OpenAI franchit un nouveau cap avec une architecture mémoire inédite pour ChatGPT. Plus intelligente, plus précise et bientôt accessible à tous...",
+      "excerpt": "OpenAI franchit un nouveau cap avec une architecture mémoire inédite pour ChatGPT. Plus intelligente, plus précise et bientôt accessible à tous...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Siri boosté à l'IA, iOS 27, dernière keynote de Tim Cook: qu'attendre de la WWDC 2026",
       "link": "https://www.clubic.com/actualite-615604-siri-booste-a-l-ia-ios-27-derniere-keynote-de-tim-cook-qu-attendre-de-la-wwdc-2026.html",
       "url": "https://www.clubic.com/actualite-615604-siri-booste-a-l-ia-ios-27-derniere-keynote-de-tim-cook-qu-attendre-de-la-wwdc-2026.html",
@@ -18,6 +48,16 @@
       "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone... Aujourd'hui, c'est ChatGPT qui prend le relais quand Siri atteint ses limites.",
       "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone... Aujourd'hui, c'est ChatGPT qui prend le relais quand Siri atteint ses limites.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Créer des agents fiscaux autoaméliorés avec Codex | OpenAI",
+      "link": "https://openai.com/fr-CA/index/building-self-improving-tax-agents-with-codex/",
+      "url": "https://openai.com/fr-CA/index/building-self-improving-tax-agents-with-codex/",
+      "publishedAt": "2026-06-05T23:21:57.000Z",
+      "date": "2026-06-05T23:21:57.000Z",
+      "description": "Essayez ChatGPT (s'ouvre dans une nouvelle fenêtre) Connexion. Créer des... Notes de version. Plateforme API. Présentation de la plateforme...",
+      "excerpt": "Essayez ChatGPT (s'ouvre dans une nouvelle fenêtre) Connexion. Créer des... Notes de version. Plateforme API. Présentation de la plateforme...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "ChatGPT améliore sa mémoire pour se souvenir de vos préférences et de vos habitudes",
@@ -70,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "#GEO Le 1er \" ChatGPT Core Update \" À l'image du SEO, les modèles d'IA évoluent...",
+      "link": "https://x.com/audreytipsfr/status/2062918380336619782",
+      "url": "https://x.com/audreytipsfr/status/2062918380336619782",
+      "publishedAt": "2026-06-05T15:51:02.000Z",
+      "date": "2026-06-05T15:51:02.000Z",
+      "description": "Audrey Tips (@audreytipsfr). 16 views. #GEO Le 1er \" ChatGPT Core Update \" À l'image du SEO, les modèles d'IA évoluent ChatGPT attribue 25 à 35...",
+      "excerpt": "Audrey Tips (@audreytipsfr). 16 views. #GEO Le 1er \" ChatGPT Core Update \" À l'image du SEO, les modèles d'IA évoluent ChatGPT attribue 25 à 35...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Android: une faille exploitée malgré 124 correctifs",
       "link": "https://android-mt.ouest-france.fr/news/android-une-faille-exploitee-malgre-124-correctifs/203065/",
       "url": "https://android-mt.ouest-france.fr/news/android-une-faille-exploitee-malgre-124-correctifs/203065/",
@@ -77,56 +127,6 @@
       "date": "2026-06-05T14:24:16.000Z",
       "description": "Le lendemain de la publication du bulletin Google, le 2 juin 2026, l'agence américaine de cybersécurité CISA a ajouté CVE-2025-48595 à son...",
       "excerpt": "Le lendemain de la publication du bulletin Google, le 2 juin 2026, l'agence américaine de cybersécurité CISA a ajouté CVE-2025-48595 à son...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Qui informe les Français via les assistants d'IA: le baromètre Havas Market chiffre deux...",
-      "link": "https://itsocial.fr/contenus/articles-decideurs/qui-informe-les-francais-via-les-assistants-dia-le-barometre-havas-market-chiffre-deux-hierarchies-de-sources-opposees/",
-      "url": "https://itsocial.fr/contenus/articles-decideurs/qui-informe-les-francais-via-les-assistants-dia-le-barometre-havas-market-chiffre-deux-hierarchies-de-sources-opposees/",
-      "publishedAt": "2026-06-05T13:46:36.000Z",
-      "date": "2026-06-05T13:46:36.000Z",
-      "description": "... ChatGPT vers les institutions publiques, tandis... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "excerpt": "... ChatGPT vers les institutions publiques, tandis... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI se conformera à l'ordre de révision préalable au lancement du modèle d'IA de Trump.",
-      "link": "https://fr.qz.com/openai-trump-ai-modle-examen-commande-060526",
-      "url": "https://fr.qz.com/openai-trump-ai-modle-examen-commande-060526",
-      "publishedAt": "2026-06-05T13:11:13.000Z",
-      "date": "2026-06-05T13:11:13.000Z",
-      "description": "Un cadre a déclaré que le créateur de ChatGPT prend ses... cybersécurité de leurs modèles de premier plan avant tout déploiement plus large.",
-      "excerpt": "Un cadre a déclaré que le créateur de ChatGPT prend ses... cybersécurité de leurs modèles de premier plan avant tout déploiement plus large.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI améliore la mémoire de ChatGPT pour les utilisateurs gratuits - Mac4Ever",
-      "link": "https://www.mac4ever.com/ia/196538-openai-ameliore-la-memoire-de-chatgpt-pour-les-utilisateurs-gratuits",
-      "url": "https://www.mac4ever.com/ia/196538-openai-ameliore-la-memoire-de-chatgpt-pour-les-utilisateurs-gratuits",
-      "publishedAt": "2026-06-05T12:34:55.000Z",
-      "date": "2026-06-05T12:34:55.000Z",
-      "description": "OpenAI continue de faire évoluer ChatGPT vers un véritable assistant personnel capable de mieux connaître ses utilisateurs au fil du temps.",
-      "excerpt": "OpenAI continue de faire évoluer ChatGPT vers un véritable assistant personnel capable de mieux connaître ses utilisateurs au fil du temps.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Cyberespionnage: LinkedIn détourné pour recruter en ligne | Android MT",
-      "link": "https://android-mt.ouest-france.fr/news/cyberespionnage-linkedin-detourne-pour-recruter-en-ligne/203077/",
-      "url": "https://android-mt.ouest-france.fr/news/cyberespionnage-linkedin-detourne-pour-recruter-en-ligne/203077/",
-      "publishedAt": "2026-06-05T10:19:35.000Z",
-      "date": "2026-06-05T10:19:35.000Z",
-      "description": "... Cybersécurité: un ver propulsé par l'IA se propage seul.",
-      "excerpt": "... Cybersécurité: un ver propulsé par l'IA se propage seul.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Frédéric Lutard, DSI de Stallergenes Greer, Prix DSIN Cybersécurité - ITforBusiness.fr",
-      "link": "https://www.itforbusiness.fr/frederic-lutard-dsi-de-stallergenes-greer-prix-dsin-cybersecurite-104516",
-      "url": "https://www.itforbusiness.fr/frederic-lutard-dsi-de-stallergenes-greer-prix-dsin-cybersecurite-104516",
-      "publishedAt": "2026-06-05T10:04:01.000Z",
-      "date": "2026-06-05T10:04:01.000Z",
-      "description": "Frédéric Lutard fait de la cybersécurité un levier de résilience... Accès à Albert ( ChatGPT for IT). +. Contenus réservés à la communauté d...",
-      "excerpt": "Frédéric Lutard fait de la cybersécurité un levier de résilience... Accès à Albert ( ChatGPT for IT). +. Contenus réservés à la communauté d...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
