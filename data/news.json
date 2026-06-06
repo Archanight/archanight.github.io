@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T08:24:02.195Z",
+  "generatedAt": "2026-06-06T13:09:22.059Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Hot Wheels Infinite Rush dévoilé au Summer Game Fest: Milestone passe au monde ouvert",
+      "link": "https://stephanelarue.com/hot-wheels-infinite-rush-devoile-summer-game-fest-milestone-monde-ouvert/",
+      "url": "https://stephanelarue.com/hot-wheels-infinite-rush-devoile-summer-game-fest-milestone-monde-ouvert/",
+      "publishedAt": "2026-06-06T08:24:23.000Z",
+      "date": "2026-06-06T08:24:23.000Z",
+      "description": "ChatGPT: OpenAI déploie Dreaming V3, sa nouvelle mémoire · assistant IA ChatGPT · Hot...",
+      "excerpt": "ChatGPT: OpenAI déploie Dreaming V3, sa nouvelle mémoire · assistant IA ChatGPT · Hot...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Comment ChatGPT a trouvé la panne de notre MacBook Air en 10 minutes - 01net.com",
       "link": "https://www.01net.com/astuces/comment-chatgpt-a-trouve-la-panne-de-mon-macbook-air-en-10-minutes.html",
@@ -38,6 +48,16 @@
       "description": "OpenAI franchit un nouveau cap avec une architecture mémoire inédite pour ChatGPT. Plus intelligente, plus précise et bientôt accessible à tous...",
       "excerpt": "OpenAI franchit un nouveau cap avec une architecture mémoire inédite pour ChatGPT. Plus intelligente, plus précise et bientôt accessible à tous...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Microsoft Windows 7 Release Candidate Arrives for Some - Most Must Wait - eWeek",
+      "link": "https://www.eweek.com/fr/news/microsoft-windows-7-release-candidate-arrives-for-some-most-must-wait/",
+      "url": "https://www.eweek.com/fr/news/microsoft-windows-7-release-candidate-arrives-for-some-most-must-wait/",
+      "publishedAt": "2026-06-06T05:11:55.000Z",
+      "date": "2026-06-06T05:11:55.000Z",
+      "description": "Aminu Abdullahi · ChatGPT homepage seen through a magnifying glass.",
+      "excerpt": "Aminu Abdullahi · ChatGPT homepage seen through a magnifying glass.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Siri boosté à l'IA, iOS 27, dernière keynote de Tim Cook: qu'attendre de la WWDC 2026",
@@ -107,26 +127,6 @@
       "date": "2026-06-05T16:08:45.000Z",
       "description": "La prochaine pandémie sera-t-elle causée par un bioterroriste aidé de ChatGPT? Les patrons de l'IA tirent la sonnette d'alarme face aux risques...",
       "excerpt": "La prochaine pandémie sera-t-elle causée par un bioterroriste aidé de ChatGPT? Les patrons de l'IA tirent la sonnette d'alarme face aux risques...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "#GEO Le 1er \" ChatGPT Core Update \" À l'image du SEO, les modèles d'IA évoluent...",
-      "link": "https://x.com/audreytipsfr/status/2062918380336619782",
-      "url": "https://x.com/audreytipsfr/status/2062918380336619782",
-      "publishedAt": "2026-06-05T15:51:02.000Z",
-      "date": "2026-06-05T15:51:02.000Z",
-      "description": "Audrey Tips (@audreytipsfr). 16 views. #GEO Le 1er \" ChatGPT Core Update \" À l'image du SEO, les modèles d'IA évoluent ChatGPT attribue 25 à 35...",
-      "excerpt": "Audrey Tips (@audreytipsfr). 16 views. #GEO Le 1er \" ChatGPT Core Update \" À l'image du SEO, les modèles d'IA évoluent ChatGPT attribue 25 à 35...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Android: une faille exploitée malgré 124 correctifs",
-      "link": "https://android-mt.ouest-france.fr/news/android-une-faille-exploitee-malgre-124-correctifs/203065/",
-      "url": "https://android-mt.ouest-france.fr/news/android-une-faille-exploitee-malgre-124-correctifs/203065/",
-      "publishedAt": "2026-06-05T14:24:16.000Z",
-      "date": "2026-06-05T14:24:16.000Z",
-      "description": "Le lendemain de la publication du bulletin Google, le 2 juin 2026, l'agence américaine de cybersécurité CISA a ajouté CVE-2025-48595 à son...",
-      "excerpt": "Le lendemain de la publication du bulletin Google, le 2 juin 2026, l'agence américaine de cybersécurité CISA a ajouté CVE-2025-48595 à son...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
