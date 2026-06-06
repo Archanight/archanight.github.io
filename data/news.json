@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T19:41:50.713Z",
+  "generatedAt": "2026-06-06T02:12:20.713Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Siri boosté à l'IA, iOS 27, dernière keynote de Tim Cook: qu'attendre de la WWDC 2026",
+      "link": "https://www.clubic.com/actualite-615604-siri-booste-a-l-ia-ios-27-derniere-keynote-de-tim-cook-qu-attendre-de-la-wwdc-2026.html",
+      "url": "https://www.clubic.com/actualite-615604-siri-booste-a-l-ia-ios-27-derniere-keynote-de-tim-cook-qu-attendre-de-la-wwdc-2026.html",
+      "publishedAt": "2026-06-06T00:00:21.000Z",
+      "date": "2026-06-06T00:00:21.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone... Aujourd'hui, c'est ChatGPT qui prend le relais quand Siri atteint ses limites.",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone... Aujourd'hui, c'est ChatGPT qui prend le relais quand Siri atteint ses limites.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT améliore sa mémoire pour se souvenir de vos préférences et de vos habitudes",
+      "link": "https://www.commentcamarche.net/applis-sites/applications/38079-memoire-chatgpt/",
+      "url": "https://www.commentcamarche.net/applis-sites/applications/38079-memoire-chatgpt/",
+      "publishedAt": "2026-06-05T19:58:50.000Z",
+      "date": "2026-06-05T19:58:50.000Z",
+      "description": "ChatGPT se dote d'une meilleure mémoire, y compris pour les utilisateurs gratuits. Le robot conversationnel retiendra automatiquement les éléments...",
+      "excerpt": "ChatGPT se dote d'une meilleure mémoire, y compris pour les utilisateurs gratuits. Le robot conversationnel retiendra automatiquement les éléments...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "CVE -2026-49975: Attaque par déni de service HTTP/2 Bomb - SOC Prime",
+      "link": "https://socprime.com/fr/blog/analyse-cve-2026-49975/",
+      "url": "https://socprime.com/fr/blog/analyse-cve-2026-49975/",
+      "publishedAt": "2026-06-05T19:12:29.000Z",
+      "date": "2026-06-05T19:12:29.000Z",
+      "description": "ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des Matières. Analyse de CVE -2026-49975; Atténuation de CVE -2026-49975; FAQ.",
+      "excerpt": "ChatGPT icon · Perplexity icon · ClaudeAI icon · Gemini icon. Table des Matières. Analyse de CVE -2026-49975; Atténuation de CVE -2026-49975; FAQ.",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
+      "title": "OpenAI booste la mémoire de ChatGPT: les comptes gratuits en profitent aussi",
+      "link": "https://charlestech.fr/openai-booste-memoire-chatgpt-comptes-gratuits-profitent/",
+      "url": "https://charlestech.fr/openai-booste-memoire-chatgpt-comptes-gratuits-profitent/",
+      "publishedAt": "2026-06-05T17:21:09.000Z",
+      "date": "2026-06-05T17:21:09.000Z",
+      "description": "OpenAI déploie une mise à jour significative du système de mémoire de ChatGPT. Cette évolution touche aussi bien les abonnés payants que,...",
+      "excerpt": "OpenAI déploie une mise à jour significative du système de mémoire de ChatGPT. Cette évolution touche aussi bien les abonnés payants que,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Claude Mythos inquiète déjà, Anthropic veut ralentir les IA les plus puissantes - BuzzArena",
       "link": "https://www.buzzarena.com/claude-mythos-inquiete-deja-anthropic-veut-ralentir-les-ia-les-plus-puissantes-4555874",
@@ -88,46 +128,6 @@
       "description": "Frédéric Lutard fait de la cybersécurité un levier de résilience... Accès à Albert ( ChatGPT for IT). +. Contenus réservés à la communauté d...",
       "excerpt": "Frédéric Lutard fait de la cybersécurité un levier de résilience... Accès à Albert ( ChatGPT for IT). +. Contenus réservés à la communauté d...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT ajoute une des meilleures fonctions payantes à la version gratuite - 01net.com",
-      "link": "https://www.01net.com/actualites/chatgpt-ajoute-une-des-meilleures-fonctions-payantes-a-la-version-gratuite.html",
-      "url": "https://www.01net.com/actualites/chatgpt-ajoute-une-des-meilleures-fonctions-payantes-a-la-version-gratuite.html",
-      "publishedAt": "2026-06-05T09:31:38.000Z",
-      "date": "2026-06-05T09:31:38.000Z",
-      "description": "OpenAI lance Dreaming V3, une nouvelle version de la mémoire de ChatGPT qui retient désormais vos préférences automatiquement.",
-      "excerpt": "OpenAI lance Dreaming V3, une nouvelle version de la mémoire de ChatGPT qui retient désormais vos préférences automatiquement.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Whispeak détecte les deepfakes vocaux en moins d'une seconde - Les Smart Grids",
-      "link": "https://les-smartgrids.fr/whispeak-detecte-les-deepfakes-vocaux-en-moins-dune-seconde/",
-      "url": "https://les-smartgrids.fr/whispeak-detecte-les-deepfakes-vocaux-en-moins-dune-seconde/",
-      "publishedAt": "2026-06-05T09:25:34.000Z",
-      "date": "2026-06-05T09:25:34.000Z",
-      "description": "Cybersécurité: l'État lance un MOOC pour former les...",
-      "excerpt": "Cybersécurité: l'État lance un MOOC pour former les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT se souvient mieux de vous, même en version gratuite - Frandroid",
-      "link": "https://www.frandroid.com/marques/openai/3127911_chatgpt-se-souvient-mieux-de-vous-meme-en-version-gratuite",
-      "url": "https://www.frandroid.com/marques/openai/3127911_chatgpt-se-souvient-mieux-de-vous-meme-en-version-gratuite",
-      "publishedAt": "2026-06-05T08:58:56.000Z",
-      "date": "2026-06-05T08:58:56.000Z",
-      "description": "ChatGPT (OpenAI) Intelligence artificielle PC Produits Smartphones Société ChatGPT... microsoft-365-copilot- gpt-5 -1536.",
-      "excerpt": "ChatGPT (OpenAI) Intelligence artificielle PC Produits Smartphones Société ChatGPT... microsoft-365-copilot- gpt-5 -1536.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Un test psychologique classique met ChatGPT en échec, et l'AGI pourrait en payer le prix",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/un-test-psychologique-classique-met-chatgpt-en-echec-et-lagi-pourrait-en-payer-le-prix",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/un-test-psychologique-classique-met-chatgpt-en-echec-et-lagi-pourrait-en-payer-le-prix",
-      "publishedAt": "2026-06-05T08:52:59.000Z",
-      "date": "2026-06-05T08:52:59.000Z",
-      "description": "La recherche consiste à tester l'effet dit « Stroop » avec GPT-4o et Claude 3.5 Sonnet.... ChatGPT OpenAI tourne discrètement la page GPT-4 dans...",
-      "excerpt": "La recherche consiste à tester l'effet dit « Stroop » avec GPT-4o et Claude 3.5 Sonnet.... ChatGPT OpenAI tourne discrètement la page GPT-4 dans...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
