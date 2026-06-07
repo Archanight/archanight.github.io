@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T02:38:00.699Z",
+  "generatedAt": "2026-06-07T08:45:09.477Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI projette de transformer ChatGPT en 'superapp' avant son introduction en bourse, selon le FT",
+      "link": "https://ch.zonebourse.com/actualite-bourse/openai-projette-de-transformer-chatgpt-en-superapp-avant-son-introduction-en-bourse-selon-le-ft-ce7f5dd2dd8cf22d",
+      "url": "https://ch.zonebourse.com/actualite-bourse/openai-projette-de-transformer-chatgpt-en-superapp-avant-son-introduction-en-bourse-selon-le-ft-ce7f5dd2dd8cf22d",
+      "publishedAt": "2026-06-07T04:25:40.000Z",
+      "date": "2026-06-07T04:25:40.000Z",
+      "description": "Cybersécurité · L'Amérique en PEA. Palmarès. Palmarès Cotations. Variations... OpenAI projette de transformer ChatGPT en 'superapp' avant son...",
+      "excerpt": "Cybersécurité · L'Amérique en PEA. Palmarès. Palmarès Cotations. Variations... OpenAI projette de transformer ChatGPT en 'superapp' avant son...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI lance le mode Lockdown pour se protéger contre les cyberattaques - Zamin.uz",
       "link": "https://zamin.uz/fr/technologie/205735-openai-lance-le-mode-lockdown-pour-se-proteger-contre-les-cyberattaques.html",
@@ -118,16 +128,6 @@
       "description": "... Cybersécurité Cybersécurité · Applications Applications · Gestion IT... ChatGPT Features: Scheduled Tasks, Image Creation, and More. Learn 10...",
       "excerpt": "... Cybersécurité Cybersécurité · Applications Applications · Gestion IT... ChatGPT Features: Scheduled Tasks, Image Creation, and More. Learn 10...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Hot Wheels Infinite Rush dévoilé au Summer Game Fest: Milestone passe au monde ouvert",
-      "link": "https://stephanelarue.com/hot-wheels-infinite-rush-devoile-summer-game-fest-milestone-monde-ouvert/",
-      "url": "https://stephanelarue.com/hot-wheels-infinite-rush-devoile-summer-game-fest-milestone-monde-ouvert/",
-      "publishedAt": "2026-06-06T08:24:23.000Z",
-      "date": "2026-06-06T08:24:23.000Z",
-      "description": "ChatGPT: OpenAI déploie Dreaming V3, sa nouvelle mémoire · assistant IA ChatGPT · Hot...",
-      "excerpt": "ChatGPT: OpenAI déploie Dreaming V3, sa nouvelle mémoire · assistant IA ChatGPT · Hot...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
