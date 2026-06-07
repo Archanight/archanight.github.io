@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T13:22:21.383Z",
+  "generatedAt": "2026-06-07T19:06:34.966Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Age of Empires II est aussi conscient que votre ChatGPT - Korben",
+      "link": "https://korben.info/age-of-empires-2-llm-attributs-humains.html",
+      "url": "https://korben.info/age-of-empires-2-llm-attributs-humains.html",
+      "publishedAt": "2026-06-07T13:12:08.000Z",
+      "date": "2026-06-07T13:12:08.000Z",
+      "description": "Vous connaissez ce refrain qu'on entend partout dans la presse, comme quoi ChatGPT... Cybersécurité · Développement · Hardware & DIY · Intelligence...",
+      "excerpt": "Vous connaissez ce refrain qu'on entend partout dans la presse, comme quoi ChatGPT... Cybersécurité · Développement · Hardware & DIY · Intelligence...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT devient plus sûr: OpenAI déploie une fonction de sécurité indispensable",
       "link": "https://www.phonandroid.com/chatgpt-devient-plus-sur-openai-deploie-une-fonction-de-securite-indispensable.html",
@@ -117,16 +127,6 @@
       "date": "2026-06-06T19:09:42.000Z",
       "description": "Actu · Cybersécurité · 3 min · ChatGPT: OpenAI déploie Dreaming V3, sa nouvelle mémoire. Actu · Intelligence artificielle · 3 min · Hot Wheels...",
       "excerpt": "Actu · Cybersécurité · 3 min · ChatGPT: OpenAI déploie Dreaming V3, sa nouvelle mémoire. Actu · Intelligence artificielle · 3 min · Hot Wheels...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: OpenAI déploie Dreaming V3, sa nouvelle mémoire - Stéphane Larue",
-      "link": "https://stephanelarue.com/chatgpt-openai-deploie-dreaming-v3-sa-nouvelle-memoire/",
-      "url": "https://stephanelarue.com/chatgpt-openai-deploie-dreaming-v3-sa-nouvelle-memoire/",
-      "publishedAt": "2026-06-06T19:09:23.000Z",
-      "date": "2026-06-06T19:09:23.000Z",
-      "description": "La concurrence ne reste pas spectatrice: Apple présentera lundi, lors de la WWDC, un Siri qui défie ChatGPT sur son propre terrain. À retenir.",
-      "excerpt": "La concurrence ne reste pas spectatrice: Apple présentera lundi, lors de la WWDC, un Siri qui défie ChatGPT sur son propre terrain. À retenir.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
