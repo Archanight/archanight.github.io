@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T15:30:09.639Z",
+  "generatedAt": "2026-06-08T20:01:22.723Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Apple Intelligence: une nouvelle version dévoilée pour iOS 27, voilà enfin l'IA qu'il manquait...",
+      "link": "https://www.phonandroid.com/apple-intelligence-une-nouvelle-version-devoilee-pour-ios-27-voila-enfin-lia-quil-manquait-aux-iphone.html",
+      "url": "https://www.phonandroid.com/apple-intelligence-une-nouvelle-version-devoilee-pour-ios-27-voila-enfin-lia-quil-manquait-aux-iphone.html",
+      "publishedAt": "2026-06-08T18:47:57.000Z",
+      "date": "2026-06-08T18:47:57.000Z",
+      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Cette fois, elle tourne le dos à ChatGPT en s'associant à son principal...",
+      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Cette fois, elle tourne le dos à ChatGPT en s'associant à son principal...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI, soutenu par Microsoft, prévoit une refonte majeure de ChatGPT et élargit ses...",
+      "link": "https://ch.zonebourse.com/actualite-bourse/openai-soutenu-par-microsoft-prevoit-une-refonte-majeure-de-chatgpt-et-elargit-ses-horizons-au-del-ce7f5dd2d188f125",
+      "url": "https://ch.zonebourse.com/actualite-bourse/openai-soutenu-par-microsoft-prevoit-une-refonte-majeure-de-chatgpt-et-elargit-ses-horizons-au-del-ce7f5dd2d188f125",
+      "publishedAt": "2026-06-08T15:57:04.000Z",
+      "date": "2026-06-08T15:57:04.000Z",
+      "description": "Cybersécurité · Au pied du Mont-Blanc · L'Alimentation de demain · La... OpenAI, soutenu par Microsoft, prévoit une refonte majeure de ChatGPT et...",
+      "excerpt": "Cybersécurité · Au pied du Mont-Blanc · L'Alimentation de demain · La... OpenAI, soutenu par Microsoft, prévoit une refonte majeure de ChatGPT et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI veut faire de ChatGPT une super app! - Mac4Ever",
+      "link": "https://www.mac4ever.com/ia/196574-openai-veut-faire-de-chatgpt-une-super-app",
+      "url": "https://www.mac4ever.com/ia/196574-openai-veut-faire-de-chatgpt-une-super-app",
+      "publishedAt": "2026-06-08T15:33:19.000Z",
+      "date": "2026-06-08T15:33:19.000Z",
+      "description": "OpenAI prépare une nouvelle transformation majeure de ChatGPT. Selon le Financial Times, l'entreprise travaille sur une version profondément...",
+      "excerpt": "OpenAI prépare une nouvelle transformation majeure de ChatGPT. Selon le Financial Times, l'entreprise travaille sur une version profondément...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Agents IA, programmation, shopping… Comment OpenAI se prépare à transformer ChatGPT en",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/agents-ia-programmation-shopping-comment-openai-se-prepare-a-transformer-chatgpt-en-super-application-20260608",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/agents-ia-programmation-shopping-comment-openai-se-prepare-a-transformer-chatgpt-en-super-application-20260608",
+      "publishedAt": "2026-06-08T15:31:36.000Z",
+      "date": "2026-06-08T15:31:36.000Z",
+      "description": "C'est la plus grande refonte de ChatGPT depuis son lancement qui se prépare en coulisses au siège d'OpenAI, à San Francisco. Face à la concurrence...",
+      "excerpt": "C'est la plus grande refonte de ChatGPT depuis son lancement qui se prépare en coulisses au siège d'OpenAI, à San Francisco. Face à la concurrence...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI déploie « Dreaming », une nouvelle architecture de mémoire à long terme pour ChatGPT",
+      "link": "https://www.zdnet.fr/actualites/openai-deploie-dreaming-une-nouvelle-architecture-de-memoire-a-long-terme-pour-chatgpt-496341.htm",
+      "url": "https://www.zdnet.fr/actualites/openai-deploie-dreaming-une-nouvelle-architecture-de-memoire-a-long-terme-pour-chatgpt-496341.htm",
+      "publishedAt": "2026-06-08T15:29:39.000Z",
+      "date": "2026-06-08T15:29:39.000Z",
+      "description": "Une IA véritablement persistante à l'échelle de l'entreprise. En transformant la mémoire de ChatGPT d'un carnet de notes statique en un système de...",
+      "excerpt": "Une IA véritablement persistante à l'échelle de l'entreprise. En transformant la mémoire de ChatGPT d'un carnet de notes statique en un système de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Assistants IA: ChatGPT recule, Gemini et Claude montent - Stéphane Larue",
       "link": "https://stephanelarue.com/assistants-ia-chatgpt-recule-gemini-et-claude-montent/",
@@ -60,16 +110,6 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "OpenAI déploie « Dreaming », une nouvelle architecture de mémoire à long terme pour ChatGPT",
-      "link": "https://www.zdnet.fr/actualites/openai-deploie-dreaming-une-nouvelle-architecture-de-memoire-a-long-terme-pour-chatgpt-496341.htm",
-      "url": "https://www.zdnet.fr/actualites/openai-deploie-dreaming-une-nouvelle-architecture-de-memoire-a-long-terme-pour-chatgpt-496341.htm",
-      "publishedAt": "2026-06-08T13:59:39.000Z",
-      "date": "2026-06-08T13:59:39.000Z",
-      "description": "En transformant la mémoire de ChatGPT d'un carnet de notes statique en un système de synthèse dynamique et asynchrone, OpenAI pose les bases d'une IA...",
-      "excerpt": "En transformant la mémoire de ChatGPT d'un carnet de notes statique en un système de synthèse dynamique et asynchrone, OpenAI pose les bases d'une IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
       "title": "Tous sur Mistral: Donald Trump confirme que les États-Unis pourraient devenir actionnaires...",
       "link": "https://www.presse-citron.net/donald-trump-confirme-etats-unis-pourraient-devenir-actionnaires-laboratoires-ia-openai-chatgpt/",
       "url": "https://www.presse-citron.net/donald-trump-confirme-etats-unis-pourraient-devenir-actionnaires-laboratoires-ia-openai-chatgpt/",
@@ -87,46 +127,6 @@
       "date": "2026-06-08T12:06:54.000Z",
       "description": "... ChatGPT.... Une démarche qui illustre l'importance croissante de la cybersécurité dans l'évolution des plateformes d'intelligence artificielle.",
       "excerpt": "... ChatGPT.... Une démarche qui illustre l'importance croissante de la cybersécurité dans l'évolution des plateformes d'intelligence artificielle.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI prépare la plus grande transformation de ChatGPT depuis son lancement",
-      "link": "https://www.cointribune.com/openai-prepare-la-plus-grande-transformation-de-chatgpt-depuis-son-lancement/",
-      "url": "https://www.cointribune.com/openai-prepare-la-plus-grande-transformation-de-chatgpt-depuis-son-lancement/",
-      "publishedAt": "2026-06-08T12:03:23.000Z",
-      "date": "2026-06-08T12:03:23.000Z",
-      "description": "OpenAI prépare la plus grande refonte de ChatGPT: agents IA, codage et intégrations réunis dans une seule plateforme... Cybersécurité · Actu Wallet.",
-      "excerpt": "OpenAI prépare la plus grande refonte de ChatGPT: agents IA, codage et intégrations réunis dans une seule plateforme... Cybersécurité · Actu Wallet.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "\"Le chatbot est mort\": OpenAI continue d'avancer sur sa \"super app\" - Clubic",
-      "link": "https://www.clubic.com/actualite-615817-le-chatbot-est-mort-openai-continue-d-avancer-sur-sa-super-app.html",
-      "url": "https://www.clubic.com/actualite-615817-le-chatbot-est-mort-openai-continue-d-avancer-sur-sa-super-app.html",
-      "publishedAt": "2026-06-08T11:24:55.000Z",
-      "date": "2026-06-08T11:24:55.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT. Le chatbot compte près d'un milliard d'utilisateurs, mais la...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT. Le chatbot compte près d'un milliard d'utilisateurs, mais la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Faille Instagram: le bouton « Mot de passe oublié » a divulgué des numéros de téléphone...",
-      "link": "https://www.01net.com/actualites/faille-instagram-le-bouton-mot-de-passe-oublie-a-divulgue-des-numeros-de-telephone-et-des-adresses-mail.html",
-      "url": "https://www.01net.com/actualites/faille-instagram-le-bouton-mot-de-passe-oublie-a-divulgue-des-numeros-de-telephone-et-des-adresses-mail.html",
-      "publishedAt": "2026-06-08T10:53:52.000Z",
-      "date": "2026-06-08T10:53:52.000Z",
-      "description": "Le compte @vxunderground, très suivi dans le milieu de la cybersécurité... ChatGPT se verrouille contre les cyberattaques: ce nouveau mode va...",
-      "excerpt": "Le compte @vxunderground, très suivi dans le milieu de la cybersécurité... ChatGPT se verrouille contre les cyberattaques: ce nouveau mode va...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Mode verrouillé ChatGPT: à quoi sert la nouvelle option de sécurité? - Numerama",
-      "link": "https://www.numerama.com/cyberguerre/2270181-pour-empecher-les-fuites-de-donnees-chatgpt-lance-un-mode-verrouille-voici-ce-quil-bloque-et-ce-quil-ne-bloque-pas.html",
-      "url": "https://www.numerama.com/cyberguerre/2270181-pour-empecher-les-fuites-de-donnees-chatgpt-lance-un-mode-verrouille-voici-ce-quil-bloque-et-ce-quil-ne-bloque-pas.html",
-      "publishedAt": "2026-06-08T10:33:29.000Z",
-      "date": "2026-06-08T10:33:29.000Z",
-      "description": "Pour activer le Lockdown Mode et les sessions actives, rendez-vous dans les onglets Paramètres > Sécurité dans ChatGPT.... cybersécurité · Fuites de...",
-      "excerpt": "Pour activer le Lockdown Mode et les sessions actives, rendez-vous dans les onglets Paramètres > Sécurité dans ChatGPT.... cybersécurité · Fuites de...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
