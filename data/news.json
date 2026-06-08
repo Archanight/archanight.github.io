@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T02:42:39.593Z",
+  "generatedAt": "2026-06-08T10:17:46.402Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,96 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Accusé d'avoir négligé sa sécurité, « Voyageurs du monde » sous la menace d'une lourde amende",
+      "link": "https://www.zdnet.fr/actualites/accuse-davoir-neglige-sa-securite-voyageurs-du-monde-sous-la-menace-dune-lourde-amende-496285.htm",
+      "url": "https://www.zdnet.fr/actualites/accuse-davoir-neglige-sa-securite-voyageurs-du-monde-sous-la-menace-dune-lourde-amende-496285.htm",
+      "publishedAt": "2026-06-08T08:07:57.000Z",
+      "date": "2026-06-08T08:07:57.000Z",
+      "description": "ZDNET Morning 08/06/2026: SFR vendu, WWDC 2026: comment suivre la conf, ChatGPT se réinvente en super-application,... CNIL · Cyberattaque...",
+      "excerpt": "ZDNET Morning 08/06/2026: SFR vendu, WWDC 2026: comment suivre la conf, ChatGPT se réinvente en super-application,... CNIL · Cyberattaque...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ZDNET Morning 08/06/2026: SFR vendu, WWDC 2026: comment suivre la conf, ChatGPT...",
+      "link": "https://www.zdnet.fr/actualites/zdnet-morning-08-06-2026-sfr-vendu-wwdc-2026-comment-suivre-la-conf-chatgpt-se-reinvente-en-super-application-496336.htm",
+      "url": "https://www.zdnet.fr/actualites/zdnet-morning-08-06-2026-sfr-vendu-wwdc-2026-comment-suivre-la-conf-chatgpt-se-reinvente-en-super-application-496336.htm",
+      "publishedAt": "2026-06-08T07:49:56.000Z",
+      "date": "2026-06-08T07:49:56.000Z",
+      "description": "ChatGPT se réinvente en super-application avant son introduction en Bourse - OpenAI accélère sa mutation technologique en intégrant des agents...",
+      "excerpt": "ChatGPT se réinvente en super-application avant son introduction en Bourse - OpenAI accélère sa mutation technologique en intégrant des agents...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI déploie le mode Lockdown comme protection supplémentaire contre les attaques...",
+      "link": "https://itdaily.fr/nouvelles/securite/openai-mode-lockdown-protection-attaques-injection-requetes/",
+      "url": "https://itdaily.fr/nouvelles/securite/openai-mode-lockdown-protection-attaques-injection-requetes/",
+      "publishedAt": "2026-06-08T07:47:46.000Z",
+      "date": "2026-06-08T07:47:46.000Z",
+      "description": "OpenAI introduit le mode Lockdown pour les utilisateurs de ChatGPT afin de limiter le risque d'exfiltration de données via l'injection de...",
+      "excerpt": "OpenAI introduit le mode Lockdown pour les utilisateurs de ChatGPT afin de limiter le risque d'exfiltration de données via l'injection de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI transforme ChatGPT en super-app à l'approche de son introduction en Bourse",
+      "link": "https://www.zdnet.fr/actualites/openai-transforme-chatgpt-en-super-app-a-lapproche-de-son-introduction-en-bourse-496324.htm",
+      "url": "https://www.zdnet.fr/actualites/openai-transforme-chatgpt-en-super-app-a-lapproche-de-son-introduction-en-bourse-496324.htm",
+      "publishedAt": "2026-06-08T07:33:36.000Z",
+      "date": "2026-06-08T07:33:36.000Z",
+      "description": "La société s'apprête à mener la transformation la plus radicale de ChatGPT en une super-application capable d'exécuter des tâches complexes de manière...",
+      "excerpt": "La société s'apprête à mener la transformation la plus radicale de ChatGPT en une super-application capable d'exécuter des tâches complexes de manière...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Culture IA: IA, faut-il appuyer sur pause? par Anthony Morel - 08/06: Actualités - Orange",
+      "link": "https://actu.orange.fr/videos/economie/culture-ia-ia-faut-il-appuyer-sur-pause-par-anthony-morel-08-06-CNT000002pPOmt.html",
+      "url": "https://actu.orange.fr/videos/economie/culture-ia-ia-faut-il-appuyer-sur-pause-par-anthony-morel-08-06-CNT000002pPOmt.html",
+      "publishedAt": "2026-06-08T07:01:07.000Z",
+      "date": "2026-06-08T07:01:07.000Z",
+      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte... Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel - 25/11.",
+      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte... Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel - 25/11.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Trump World Eyes Buying Into OpenAI—And That Could Turn ChatGPT Into a Quasi-State Asset",
+      "link": "https://www.greenworks.lu/english/trump-world-eyes-buying-into-openai-and-that-could-turn-chatgpt-into-a-quasi-state-asset/605845/",
+      "url": "https://www.greenworks.lu/english/trump-world-eyes-buying-into-openai-and-that-could-turn-chatgpt-into-a-quasi-state-asset/605845/",
+      "publishedAt": "2026-06-08T06:36:01.000Z",
+      "date": "2026-06-08T06:36:01.000Z",
+      "description": "Trump World Eyes Buying Into OpenAI—And That Could Turn ChatGPT Into a Quasi-State Asset... Google Got the OK to Release 32 Million GMO Mosquitoes in...",
+      "excerpt": "Trump World Eyes Buying Into OpenAI—And That Could Turn ChatGPT Into a Quasi-State Asset... Google Got the OK to Release 32 Million GMO Mosquitoes in...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI veut transformer ChatGPT en « super app »: la fin du simple chatbot approche - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/371533/chatgpt-assistant-personnel-ia/",
+      "url": "https://www.blog-nouvelles-technologies.fr/371533/chatgpt-assistant-personnel-ia/",
+      "publishedAt": "2026-06-08T06:34:47.000Z",
+      "date": "2026-06-08T06:34:47.000Z",
+      "description": "Découvrez le futur ChatGPT! OpenAI prépare un assistant magique capable de gérer votre vie quotidienne et vos tâches à votre place.",
+      "excerpt": "Découvrez le futur ChatGPT! OpenAI prépare un assistant magique capable de gérer votre vie quotidienne et vos tâches à votre place.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Voici ce qu'une IA a révélé sur ce manuscrit!: Actualités - Orange",
+      "link": "https://actu.orange.fr/videos/high-tech/voici-ce-qu-une-ia-a-revele-sur-ce-manuscrit-CNT000002pPLTC.html",
+      "url": "https://actu.orange.fr/videos/high-tech/voici-ce-qu-une-ia-a-revele-sur-ce-manuscrit-CNT000002pPLTC.html",
+      "publishedAt": "2026-06-08T02:40:55.000Z",
+      "date": "2026-06-08T02:40:55.000Z",
+      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte... Le ChatGPT de la langue des signes. Tous publics. OpenAI révèle le...",
+      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte... Le ChatGPT de la langue des signes. Tous publics. OpenAI révèle le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT devient une super-appli: ce que prépare OpenAI pour juin 2026 - Gagadget.com",
+      "link": "https://gagadget.com/fr/713969-chatgpt-devient-une-super-appli-ce-que-prepare-openai-pour-juin-2026/",
+      "url": "https://gagadget.com/fr/713969-chatgpt-devient-une-super-appli-ce-que-prepare-openai-pour-juin-2026/",
+      "publishedAt": "2026-06-08T00:38:55.000Z",
+      "date": "2026-06-08T00:38:55.000Z",
+      "description": "OpenAI prépare sa plus grande refonte de ChatGPT depuis le lancement du service, selon le Financial Times... Cybersécurité · Espace et science...",
+      "excerpt": "OpenAI prépare sa plus grande refonte de ChatGPT depuis le lancement du service, selon le Financial Times... Cybersécurité · Espace et science...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "WWDC 2026: Apple dévoile son nouveau Siri lundi à 19h - Stéphane Larue",
       "link": "https://stephanelarue.com/wwdc-2026-apple-devoile-son-nouveau-siri-lundi-a-19h/",
@@ -38,96 +128,6 @@
       "description": "Cela signifie transformer ChatGPT en une porte d'entrée menant les utilisateurs gratuits vers des produits qu'ils pourraient réellement payer, comme...",
       "excerpt": "Cela signifie transformer ChatGPT en une porte d'entrée menant les utilisateurs gratuits vers des produits qu'ils pourraient réellement payer, comme...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Age of Empires II est aussi conscient que votre ChatGPT - Korben",
-      "link": "https://korben.info/age-of-empires-2-llm-attributs-humains.html",
-      "url": "https://korben.info/age-of-empires-2-llm-attributs-humains.html",
-      "publishedAt": "2026-06-07T13:12:08.000Z",
-      "date": "2026-06-07T13:12:08.000Z",
-      "description": "Vous connaissez ce refrain qu'on entend partout dans la presse, comme quoi ChatGPT... Cybersécurité · Développement · Hardware & DIY · Intelligence...",
-      "excerpt": "Vous connaissez ce refrain qu'on entend partout dans la presse, comme quoi ChatGPT... Cybersécurité · Développement · Hardware & DIY · Intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT devient plus sûr: OpenAI déploie une fonction de sécurité indispensable",
-      "link": "https://www.phonandroid.com/chatgpt-devient-plus-sur-openai-deploie-une-fonction-de-securite-indispensable.html",
-      "url": "https://www.phonandroid.com/chatgpt-devient-plus-sur-openai-deploie-une-fonction-de-securite-indispensable.html",
-      "publishedAt": "2026-06-07T11:12:50.000Z",
-      "date": "2026-06-07T11:12:50.000Z",
-      "description": "OpenAI est en train de déployer le Lockdown Mode de ChatGPT pour l'ensemble des utilisateurs. Une fonction de sécurité indispensable... Cybersécurité...",
-      "excerpt": "OpenAI est en train de déployer le Lockdown Mode de ChatGPT pour l'ensemble des utilisateurs. Une fonction de sécurité indispensable... Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Penser l'intelligence artificielle autrement, par Jean-Claude Heudin - Futura Sciences",
-      "link": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-penser-intelligence-artificielle-autrement-jean-claude-heudin-134878/",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-penser-intelligence-artificielle-autrement-jean-claude-heudin-134878/",
-      "publishedAt": "2026-06-07T10:23:40.000Z",
-      "date": "2026-06-07T10:23:40.000Z",
-      "description": "Cybersécurité · Intelligence artificielle · Accueil · tech... Voici ce qu'elle a découvert en laissant ChatGPT planifier ses journées heure par heure.",
-      "excerpt": "Cybersécurité · Intelligence artificielle · Accueil · tech... Voici ce qu'elle a découvert en laissant ChatGPT planifier ses journées heure par heure.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Refonte majeure de ChatGPT: OpenAI veut en faire une « super app » dans un secteur en ébullition",
-      "link": "https://www.lorientlejour.com/article/1537322/refonte-majeure-de-chatgpt-openai-veut-en-faire-une-super-app-dans-un-secteur-en-ebullition.html",
-      "url": "https://www.lorientlejour.com/article/1537322/refonte-majeure-de-chatgpt-openai-veut-en-faire-une-super-app-dans-un-secteur-en-ebullition.html",
-      "publishedAt": "2026-06-07T09:54:09.000Z",
-      "date": "2026-06-07T09:54:09.000Z",
-      "description": "OpenAI et son rival Anthropic, qui teste actuellement son nouveau module spécialisé dans la cybersécurité, se préparent à des introductions en...",
-      "excerpt": "OpenAI et son rival Anthropic, qui teste actuellement son nouveau module spécialisé dans la cybersécurité, se préparent à des introductions en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ce navigateur open source ferme ses contributions, le code généré par IA sème trop le chaos",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/ce-navigateur-open-source-ferme-ses-contributions-le-code-genere-par-ia-seme-trop-le-chaos-n257158.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/ce-navigateur-open-source-ferme-ses-contributions-le-code-genere-par-ia-seme-trop-le-chaos-n257158.html",
-      "publishedAt": "2026-06-07T09:22:00.000Z",
-      "date": "2026-06-07T09:22:00.000Z",
-      "description": "Ladybird is moving into a new phase as we work toward our first alpha release.... ChatGPT, Gemini), c'est le chaos. Andreas Kling résume le...",
-      "excerpt": "Ladybird is moving into a new phase as we work toward our first alpha release.... ChatGPT, Gemini), c'est le chaos. Andreas Kling résume le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Sommeil, repas, trajets: ces 7 prompts ChatGPT vont vous sauver des fortes chaleurs",
-      "link": "https://www.lesnumeriques.com/sante-sport/sommeil-repas-trajets-ces-7-prompts-chatgpt-vont-vous-sauver-des-fortes-chaleurs-n257084.html",
-      "url": "https://www.lesnumeriques.com/sante-sport/sommeil-repas-trajets-ces-7-prompts-chatgpt-vont-vous-sauver-des-fortes-chaleurs-n257084.html",
-      "publishedAt": "2026-06-07T09:03:42.000Z",
-      "date": "2026-06-07T09:03:42.000Z",
-      "description": "Les fortes chaleurs approchent à grands pas et ChatGPT pourrait bien vous aider au quotidien pour faire redescendre la température.",
-      "excerpt": "Les fortes chaleurs approchent à grands pas et ChatGPT pourrait bien vous aider au quotidien pour faire redescendre la température.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI projette de transformer ChatGPT en 'superapp' avant son introduction en bourse, selon le FT",
-      "link": "https://ch.zonebourse.com/actualite-bourse/openai-projette-de-transformer-chatgpt-en-superapp-avant-son-introduction-en-bourse-selon-le-ft-ce7f5dd2dd8cf22d",
-      "url": "https://ch.zonebourse.com/actualite-bourse/openai-projette-de-transformer-chatgpt-en-superapp-avant-son-introduction-en-bourse-selon-le-ft-ce7f5dd2dd8cf22d",
-      "publishedAt": "2026-06-07T04:25:40.000Z",
-      "date": "2026-06-07T04:25:40.000Z",
-      "description": "Cybersécurité · L'Amérique en PEA. Palmarès. Palmarès Cotations. Variations... OpenAI projette de transformer ChatGPT en 'superapp' avant son...",
-      "excerpt": "Cybersécurité · L'Amérique en PEA. Palmarès. Palmarès Cotations. Variations... OpenAI projette de transformer ChatGPT en 'superapp' avant son...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance le mode Lockdown pour se protéger contre les cyberattaques - Zamin.uz",
-      "link": "https://zamin.uz/fr/technologie/205735-openai-lance-le-mode-lockdown-pour-se-proteger-contre-les-cyberattaques.html",
-      "url": "https://zamin.uz/fr/technologie/205735-openai-lance-le-mode-lockdown-pour-se-proteger-contre-les-cyberattaques.html",
-      "publishedAt": "2026-06-06T21:13:37.000Z",
-      "date": "2026-06-06T21:13:37.000Z",
-      "description": "Actuellement, cette fonctionnalité est déployée progressivement pour ChatGPT Business et certains comptes personnels. OpenAI ChatGPTCybersécurité...",
-      "excerpt": "Actuellement, cette fonctionnalité est déployée progressivement pour ChatGPT Business et certains comptes personnels. OpenAI ChatGPTCybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Rsync 3.4.3 corrige 6 failles mais casse des sauvegardes, l'IA dans le code met les admins en colère",
-      "link": "https://larevuetech.fr/rsync-3-4-3-corrige-6-failles-mais-casse-des-sauvegardes-lia-dans-le-code-met-les-admins-en-colere/",
-      "url": "https://larevuetech.fr/rsync-3-4-3-corrige-6-failles-mais-casse-des-sauvegardes-lia-dans-le-code-met-les-admins-en-colere/",
-      "publishedAt": "2026-06-06T19:27:54.000Z",
-      "date": "2026-06-06T19:27:54.000Z",
-      "description": "Une fois que certains acteurs, distributions, admins, équipes SRE... ChatGPT met Siri au tapis: comment profiter du meilleur des deux...",
-      "excerpt": "Une fois que certains acteurs, distributions, admins, équipes SRE... ChatGPT met Siri au tapis: comment profiter du meilleur des deux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
