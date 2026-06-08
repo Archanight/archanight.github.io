@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T19:06:34.966Z",
+  "generatedAt": "2026-06-08T02:42:39.593Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "WWDC 2026: Apple dévoile son nouveau Siri lundi à 19h - Stéphane Larue",
+      "link": "https://stephanelarue.com/wwdc-2026-apple-devoile-son-nouveau-siri-lundi-a-19h/",
+      "url": "https://stephanelarue.com/wwdc-2026-apple-devoile-son-nouveau-siri-lundi-a-19h/",
+      "publishedAt": "2026-06-07T20:29:01.000Z",
+      "date": "2026-06-07T20:29:01.000Z",
+      "description": "Apple ouvrirait même Siri à la concurrence: ChatGPT, Claude ou Gemini... Actu · Cybersécurité · 3 min · ChatGPT: OpenAI déploie Dreaming V3...",
+      "excerpt": "Apple ouvrirait même Siri à la concurrence: ChatGPT, Claude ou Gemini... Actu · Cybersécurité · 3 min · ChatGPT: OpenAI déploie Dreaming V3...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'IA hallucine et c'est important de savoir comment ça marche - Watson",
+      "link": "https://www.watson.ch/fr/suisse/technologie/958113244-l-ia-hallucine-et-c-est-important-de-savoir-comment-ca-marche",
+      "url": "https://www.watson.ch/fr/suisse/technologie/958113244-l-ia-hallucine-et-c-est-important-de-savoir-comment-ca-marche",
+      "publishedAt": "2026-06-07T19:47:20.000Z",
+      "date": "2026-06-07T19:47:20.000Z",
+      "description": "Cette technique porte le nom de «red teaming» dans le milieu de la cybersécurité.... ChatGPT, qui a même validé et encouragé sa démarche désespérée.",
+      "excerpt": "Cette technique porte le nom de «red teaming» dans le milieu de la cybersécurité.... ChatGPT, qui a même validé et encouragé sa démarche désespérée.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI travaille toujours sur cette 'super application' - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-travaille-toujours-sur-cette-super-application",
+      "url": "https://www.briefia.fr/article/openai-travaille-toujours-sur-cette-super-application",
+      "publishedAt": "2026-06-07T18:07:24.000Z",
+      "date": "2026-06-07T18:07:24.000Z",
+      "description": "Cela signifie transformer ChatGPT en une porte d'entrée menant les utilisateurs gratuits vers des produits qu'ils pourraient réellement payer, comme...",
+      "excerpt": "Cela signifie transformer ChatGPT en une porte d'entrée menant les utilisateurs gratuits vers des produits qu'ils pourraient réellement payer, comme...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Age of Empires II est aussi conscient que votre ChatGPT - Korben",
       "link": "https://korben.info/age-of-empires-2-llm-attributs-humains.html",
@@ -97,36 +127,6 @@
       "date": "2026-06-06T19:27:54.000Z",
       "description": "Une fois que certains acteurs, distributions, admins, équipes SRE... ChatGPT met Siri au tapis: comment profiter du meilleur des deux...",
       "excerpt": "Une fois que certains acteurs, distributions, admins, équipes SRE... ChatGPT met Siri au tapis: comment profiter du meilleur des deux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic lance le modèle secret Claude Mythos pour l'Agence de sécurité nationale américaine",
-      "link": "https://zamin.uz/fr/technologie/205687-anthropic-lance-le-modele-secret-claude-mythos-pour-l-agence-de-securite-nationale-americaine.html",
-      "url": "https://zamin.uz/fr/technologie/205687-anthropic-lance-le-modele-secret-claude-mythos-pour-l-agence-de-securite-nationale-americaine.html",
-      "publishedAt": "2026-06-06T19:17:16.000Z",
-      "date": "2026-06-06T19:17:16.000Z",
-      "description": "Bien qu'officiellement, il soit question de besoins en cybersécurité... ChatGPT devient l'application à la croissance la plus rapide de l'histoire.",
-      "excerpt": "Bien qu'officiellement, il soit question de besoins en cybersécurité... ChatGPT devient l'application à la croissance la plus rapide de l'histoire.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Kaspersky prévoit la fabrication d'appareils hors de Russie - Zamin.uz",
-      "link": "https://zamin.uz/fr/technologie/205678-kaspersky-prevoit-la-fabrication-d-appareils-hors-de-russie.html",
-      "url": "https://zamin.uz/fr/technologie/205678-kaspersky-prevoit-la-fabrication-d-appareils-hors-de-russie.html",
-      "publishedAt": "2026-06-06T19:17:15.000Z",
-      "date": "2026-06-06T19:17:15.000Z",
-      "description": "Auparavant, Eugene Kaspersky avait également annoncé un projet de smartphone inviolable. KasperskyTechnologieKasperskyOSInde Cybersécurité... ChatGPT...",
-      "excerpt": "Auparavant, Eugene Kaspersky avait également annoncé un projet de smartphone inviolable. KasperskyTechnologieKasperskyOSInde Cybersécurité... ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Final Fantasy VII Revelation officialisé au Summer Game Fest - Stéphane Larue",
-      "link": "https://stephanelarue.com/final-fantasy-vii-revelation-officialise-summer-game-fest-chapitre-final-printemps-2027/",
-      "url": "https://stephanelarue.com/final-fantasy-vii-revelation-officialise-summer-game-fest-chapitre-final-printemps-2027/",
-      "publishedAt": "2026-06-06T19:09:42.000Z",
-      "date": "2026-06-06T19:09:42.000Z",
-      "description": "Actu · Cybersécurité · 3 min · ChatGPT: OpenAI déploie Dreaming V3, sa nouvelle mémoire. Actu · Intelligence artificielle · 3 min · Hot Wheels...",
-      "excerpt": "Actu · Cybersécurité · 3 min · ChatGPT: OpenAI déploie Dreaming V3, sa nouvelle mémoire. Actu · Intelligence artificielle · 3 min · Hot Wheels...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
