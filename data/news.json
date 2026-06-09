@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:01:22.723Z",
+  "generatedAt": "2026-06-09T02:09:18.493Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,36 @@
   "failedSources": [],
   "items": [
     {
+      "title": "IA: une semaine après Anthropic, OpenAI dépose son projet d'introduction en Bourse",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20260609-ia-une-semaine-apr%C3%A8s-anthropic-openai-d%C3%A9pose-son-projet-d-introduction-en-bourse",
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20260609-ia-une-semaine-apr%C3%A8s-anthropic-openai-d%C3%A9pose-son-projet-d-introduction-en-bourse",
+      "publishedAt": "2026-06-09T00:39:03.000Z",
+      "date": "2026-06-09T00:39:03.000Z",
+      "description": "OpenAI, à l'origine de ChatGPT, a annoncé lundi 8 juin avoir \"récemment... Au nom de la cybersécurité, Donald Trump finit par réguler l'IA.",
+      "excerpt": "OpenAI, à l'origine de ChatGPT, a annoncé lundi 8 juin avoir \"récemment... Au nom de la cybersécurité, Donald Trump finit par réguler l'IA.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA: OpenAI balise le chemin vers Wall Street, au coude-à-coude avec Anthropic",
+      "link": "https://actu.orange.fr/economie/ia-openai-balise-le-chemin-vers-wall-street-au-coude-a-coude-avec-anthropic-CNT000002pQs1M.html",
+      "url": "https://actu.orange.fr/economie/ia-openai-balise-le-chemin-vers-wall-street-au-coude-a-coude-avec-anthropic-CNT000002pQs1M.html",
+      "publishedAt": "2026-06-09T00:06:41.000Z",
+      "date": "2026-06-09T00:06:41.000Z",
+      "description": "OpenAI, à l'origine de ChatGPT, a annoncé lundi avoir \"... Cybersécurité et Télésurveillance. Fibre: mise en service offerte.",
+      "excerpt": "OpenAI, à l'origine de ChatGPT, a annoncé lundi avoir \"... Cybersécurité et Télésurveillance. Fibre: mise en service offerte.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Suspicion de match truqué: une enquête de l'ITIA vise une star du circuit ATP",
+      "link": "https://fr.tennistemple.com/actu/suspicion-de-match-truque-une-enquete-de-litia/r9JH",
+      "url": "https://fr.tennistemple.com/actu/suspicion-de-match-truque-une-enquete-de-litia/r9JH",
+      "publishedAt": "2026-06-08T21:28:47.000Z",
+      "date": "2026-06-08T21:28:47.000Z",
+      "description": "Update ChatGPT sur les ATP 250, c'est lui qui dit \"Je\" et curieusement Tsitsipas est le seul à ressortir... J'ai essayé de raisonner à partir des...",
+      "excerpt": "Update ChatGPT sur les ATP 250, c'est lui qui dit \"Je\" et curieusement Tsitsipas est le seul à ressortir... J'ai essayé de raisonner à partir des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Apple Intelligence: une nouvelle version dévoilée pour iOS 27, voilà enfin l'IA qu'il manquait...",
       "link": "https://www.phonandroid.com/apple-intelligence-une-nouvelle-version-devoilee-pour-ios-27-voila-enfin-lia-quil-manquait-aux-iphone.html",
       "url": "https://www.phonandroid.com/apple-intelligence-une-nouvelle-version-devoilee-pour-ios-27-voila-enfin-lia-quil-manquait-aux-iphone.html",
@@ -18,6 +48,16 @@
       "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Cette fois, elle tourne le dos à ChatGPT en s'associant à son principal...",
       "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Cette fois, elle tourne le dos à ChatGPT en s'associant à son principal...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI prévoit de transformer son chatbot en une \"super-app\" dotée d'agents IA destinée à...",
+      "link": "https://intelligence-artificielle.developpez.com/actu/383972/-ChatGPT-est-mort-OpenAI-prevoit-de-transformer-son-chatbot-en-une-super-app-dotee-d-agents-IA-destinee-a-un-usage-quotidien-afin-de-generer-davantage-de-revenus-et-de-sauver-OpenAI-du-desastre-financier/",
+      "url": "https://intelligence-artificielle.developpez.com/actu/383972/-ChatGPT-est-mort-OpenAI-prevoit-de-transformer-son-chatbot-en-une-super-app-dotee-d-agents-IA-destinee-a-un-usage-quotidien-afin-de-generer-davantage-de-revenus-et-de-sauver-OpenAI-du-desastre-financier/",
+      "publishedAt": "2026-06-08T18:22:24.000Z",
+      "date": "2026-06-08T18:22:24.000Z",
+      "description": "OpenAI prévoit de transformer ChatGPT en une « super-application » alimentée par l'intelligence artificielle (IA) combinant des capacités de...",
+      "excerpt": "OpenAI prévoit de transformer ChatGPT en une « super-application » alimentée par l'intelligence artificielle (IA) combinant des capacités de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "OpenAI, soutenu par Microsoft, prévoit une refonte majeure de ChatGPT et élargit ses...",
@@ -87,46 +127,6 @@
       "date": "2026-06-08T14:41:23.000Z",
       "description": "Un prompt repéré en mai 2026 sur X consiste à demander à ChatGPT de restaurer une image... sans joindre quoi que ce soit.",
       "excerpt": "Un prompt repéré en mai 2026 sur X consiste à demander à ChatGPT de restaurer une image... sans joindre quoi que ce soit.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI veut faire de ChatGPT une super-app tournée vers les entreprises",
-      "link": "https://www.solutions-numeriques.com/openai-veut-faire-de-chatgpt-une-super-app-tournee-vers-les-entreprises/",
-      "url": "https://www.solutions-numeriques.com/openai-veut-faire-de-chatgpt-une-super-app-tournee-vers-les-entreprises/",
-      "publishedAt": "2026-06-08T14:33:57.000Z",
-      "date": "2026-06-08T14:33:57.000Z",
-      "description": "Une chose est sûre, le paysage de l'IA générative n'a plus grand-chose à voir avec celui des débuts de ChatGPT.... Guide Cybersécurité. Découvrez la...",
-      "excerpt": "Une chose est sûre, le paysage de l'IA générative n'a plus grand-chose à voir avec celui des débuts de ChatGPT.... Guide Cybersécurité. Découvrez la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA générative, la facture des tokens devient un enjeu pour les entreprises",
-      "link": "https://www.solutions-numeriques.com/ia-generative-la-facture-des-tokens-devient-un-enjeu-pour-les-entreprises/",
-      "url": "https://www.solutions-numeriques.com/ia-generative-la-facture-des-tokens-devient-un-enjeu-pour-les-entreprises/",
-      "publishedAt": "2026-06-08T14:33:56.000Z",
-      "date": "2026-06-08T14:33:56.000Z",
-      "description": "➜ OpenAI veut faire de ChatGPT une super-app tournée vers les entreprises... Rapport 2025 sur la main-d'œuvre en cybersécurité Le Rapport 2025 sur la...",
-      "excerpt": "➜ OpenAI veut faire de ChatGPT une super-app tournée vers les entreprises... Rapport 2025 sur la main-d'œuvre en cybersécurité Le Rapport 2025 sur la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Tous sur Mistral: Donald Trump confirme que les États-Unis pourraient devenir actionnaires...",
-      "link": "https://www.presse-citron.net/donald-trump-confirme-etats-unis-pourraient-devenir-actionnaires-laboratoires-ia-openai-chatgpt/",
-      "url": "https://www.presse-citron.net/donald-trump-confirme-etats-unis-pourraient-devenir-actionnaires-laboratoires-ia-openai-chatgpt/",
-      "publishedAt": "2026-06-08T12:47:57.000Z",
-      "date": "2026-06-08T12:47:57.000Z",
-      "description": "... signer un décret qui demande à ces acteurs un accès anticipé aux nouveaux modèles d'IA, pour évaluer les compétences en termes de cybersécurité.",
-      "excerpt": "... signer un décret qui demande à ces acteurs un accès anticipé aux nouveaux modèles d'IA, pour évaluer les compétences en termes de cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI renforce la sécurité de ChatGPT avec un mode de protection avancé - Fredzone",
-      "link": "https://www.fredzone.org/openai-renforce-la-securite-de-chatgpt-avec-un-mode-de-protection-avance/",
-      "url": "https://www.fredzone.org/openai-renforce-la-securite-de-chatgpt-avec-un-mode-de-protection-avance/",
-      "publishedAt": "2026-06-08T12:06:54.000Z",
-      "date": "2026-06-08T12:06:54.000Z",
-      "description": "... ChatGPT.... Une démarche qui illustre l'importance croissante de la cybersécurité dans l'évolution des plateformes d'intelligence artificielle.",
-      "excerpt": "... ChatGPT.... Une démarche qui illustre l'importance croissante de la cybersécurité dans l'évolution des plateformes d'intelligence artificielle.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
