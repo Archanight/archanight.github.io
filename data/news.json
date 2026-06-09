@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T02:09:18.493Z",
+  "generatedAt": "2026-06-09T09:23:41.212Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -20,6 +20,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Meta confirms: critical vulnerability in account recovery tool exposed over 20K Instagram users",
+      "link": "https://cybernews.com/privacy/meta-critical-vulnerability-tool-20k-instagram-user/",
+      "url": "https://cybernews.com/privacy/meta-critical-vulnerability-tool-20k-instagram-user/",
+      "publishedAt": "2026-06-09T00:34:12.000Z",
+      "date": "2026-06-09T00:34:12.000Z",
+      "description": "... vulnerability in an Instagram account recovery support tool, also... OpenAI plans biggest ChatGPT overhaul ahead of listing. ADVERTISEMENT...",
+      "excerpt": "... vulnerability in an Instagram account recovery support tool, also... OpenAI plans biggest ChatGPT overhaul ahead of listing. ADVERTISEMENT...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
       "title": "IA: OpenAI balise le chemin vers Wall Street, au coude-à-coude avec Anthropic",
       "link": "https://actu.orange.fr/economie/ia-openai-balise-le-chemin-vers-wall-street-au-coude-a-coude-avec-anthropic-CNT000002pQs1M.html",
       "url": "https://actu.orange.fr/economie/ia-openai-balise-le-chemin-vers-wall-street-au-coude-a-coude-avec-anthropic-CNT000002pQs1M.html",
@@ -28,6 +38,16 @@
       "description": "OpenAI, à l'origine de ChatGPT, a annoncé lundi avoir \"... Cybersécurité et Télésurveillance. Fibre: mise en service offerte.",
       "excerpt": "OpenAI, à l'origine de ChatGPT, a annoncé lundi avoir \"... Cybersécurité et Télésurveillance. Fibre: mise en service offerte.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT évolue: voici comment verrouiller votre compte, vos données et vos secrets",
+      "link": "https://www.briefia.fr/article/chatgpt-evolue-voici-comment-verrouiller-votre-compte-vos-donnees-et-vos-secrets",
+      "url": "https://www.briefia.fr/article/chatgpt-evolue-voici-comment-verrouiller-votre-compte-vos-donnees-et-vos-secrets",
+      "publishedAt": "2026-06-08T22:13:46.000Z",
+      "date": "2026-06-08T22:13:46.000Z",
+      "description": "OpenAI introduit un mode de verrouillage pour les comptes ChatGPT afin de renforcer la sécurité des données. • Ce mode de sécurité vise à réduire...",
+      "excerpt": "OpenAI introduit un mode de verrouillage pour les comptes ChatGPT afin de renforcer la sécurité des données. • Ce mode de sécurité vise à réduire...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Suspicion de match truqué: une enquête de l'ITIA vise une star du circuit ATP",
@@ -107,26 +127,6 @@
       "date": "2026-06-08T15:22:39.000Z",
       "description": "ChatGPT reste en tete des assistants IA avec 54... Lunettes Meta: la reconnaissance faciale dort déjà dans l'app. Actu · Cybersécurité · 3 min.",
       "excerpt": "ChatGPT reste en tete des assistants IA avec 54... Lunettes Meta: la reconnaissance faciale dort déjà dans l'app. Actu · Cybersécurité · 3 min.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Essayez cette invite dans ChatGTP et Gemini, le résultat est étonnant - PhonAndroid",
-      "link": "https://www.phonandroid.com/essayez-cette-invite-dans-chatgtp-et-gemini-le-resultat-est-etonnant.html",
-      "url": "https://www.phonandroid.com/essayez-cette-invite-dans-chatgtp-et-gemini-le-resultat-est-etonnant.html",
-      "publishedAt": "2026-06-08T14:59:11.000Z",
-      "date": "2026-06-08T14:59:11.000Z",
-      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... chatgpt generer image. Crédit: Phonandroid via ChatGPT. Si les IA sont...",
-      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... chatgpt generer image. Crédit: Phonandroid via ChatGPT. Si les IA sont...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ne demandez pas à ChatGPT ou Gemini de restaurer une image vide, ou attendez-vous au pire",
-      "link": "https://www.numerama.com/tech/2270543-ne-demandez-pas-a-chatgpt-ou-gemini-de-restaurer-une-image-vide-ou-attendez-vous-au-pire.html",
-      "url": "https://www.numerama.com/tech/2270543-ne-demandez-pas-a-chatgpt-ou-gemini-de-restaurer-une-image-vide-ou-attendez-vous-au-pire.html",
-      "publishedAt": "2026-06-08T14:41:23.000Z",
-      "date": "2026-06-08T14:41:23.000Z",
-      "description": "Un prompt repéré en mai 2026 sur X consiste à demander à ChatGPT de restaurer une image... sans joindre quoi que ce soit.",
-      "excerpt": "Un prompt repéré en mai 2026 sur X consiste à demander à ChatGPT de restaurer une image... sans joindre quoi que ce soit.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
