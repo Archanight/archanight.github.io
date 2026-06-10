@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T09:40:18.992Z",
+  "generatedAt": "2026-06-10T14:54:02.075Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,56 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Voici à quoi les étudiants utilisent vraiment l'IA, et ce n'est pas pour tricher - PhonAndroid",
+      "link": "https://www.phonandroid.com/voici-a-quoi-les-etudiants-utilisent-vraiment-lia-et-ce-nest-pas-pour-tricher.html",
+      "url": "https://www.phonandroid.com/voici-a-quoi-les-etudiants-utilisent-vraiment-lia-et-ce-nest-pas-pour-tricher.html",
+      "publishedAt": "2026-06-10T12:45:09.000Z",
+      "date": "2026-06-10T12:45:09.000Z",
+      "description": "Leurs usages réels n'ont presque rien à voir avec cette réputation. ChatGPT. Crédits: 123RF. L'intelligence artificielle s'est imposée très...",
+      "excerpt": "Leurs usages réels n'ont presque rien à voir avec cette réputation. ChatGPT. Crédits: 123RF. L'intelligence artificielle s'est imposée très...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "WhatsApp a 5 jours pour s'ouvrir aux IA concurrentes, Meta risque une amende colossale",
+      "link": "https://www.01net.com/actualites/whatsapp-a-5-jours-pour-souvrir-aux-ia-concurrentes-meta-risque-une-amende-colossale.html",
+      "url": "https://www.01net.com/actualites/whatsapp-a-5-jours-pour-souvrir-aux-ia-concurrentes-meta-risque-une-amende-colossale.html",
+      "publishedAt": "2026-06-10T12:26:35.000Z",
+      "date": "2026-06-10T12:26:35.000Z",
+      "description": "L'institution européenne a ordonné à Meta de rouvrir WhatsApp Business aux IA concurrentes, comme ChatGPT, sous 5 jours ouvrables.... Cybersécurité...",
+      "excerpt": "L'institution européenne a ordonné à Meta de rouvrir WhatsApp Business aux IA concurrentes, comme ChatGPT, sous 5 jours ouvrables.... Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment OpenAI veut adapter ChatGPT aux besoins des entreprises - ICTjournal",
+      "link": "https://www.ictjournal.ch/news/2026-06-10/comment-openai-veut-adapter-chatgpt-aux-besoins-des-entreprises",
+      "url": "https://www.ictjournal.ch/news/2026-06-10/comment-openai-veut-adapter-chatgpt-aux-besoins-des-entreprises",
+      "publishedAt": "2026-06-10T11:44:15.000Z",
+      "date": "2026-06-10T11:44:15.000Z",
+      "description": "OpenAI prévoit de repenser ChatGPT en profondeur afin de mieux répondre aux attentes des clients professionnels... Cybersécurité 2026 · Intelligence...",
+      "excerpt": "OpenAI prévoit de repenser ChatGPT en profondeur afin de mieux répondre aux attentes des clients professionnels... Cybersécurité 2026 · Intelligence...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Meta AI contre ChatGPT: l'Europe dégaine une arme juridique rarement utilisée pour...",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/meta-ai-contre-chatgpt-leurope-degaine-une-arme-juridique-rarement-utilisee-pour-empecher-meta-de-verrouiller-whatsapp.QU2CNI7IGVHCHDORGYOCJTQLBY.html",
+      "url": "https://www.usine-digitale.fr/intelligence-artificielle/meta-ai-contre-chatgpt-leurope-degaine-une-arme-juridique-rarement-utilisee-pour-empecher-meta-de-verrouiller-whatsapp.QU2CNI7IGVHCHDORGYOCJTQLBY.html",
+      "publishedAt": "2026-06-10T09:49:02.000Z",
+      "date": "2026-06-10T09:49:02.000Z",
+      "description": "La Commission européenne a ordonné à Meta de rétablir gratuitement l'accès à WhatsApp pour les assistants IA concurrents, tels que ChatGPT ou...",
+      "excerpt": "La Commission européenne a ordonné à Meta de rétablir gratuitement l'accès à WhatsApp pour les assistants IA concurrents, tels que ChatGPT ou...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GEO: 5 actions concrètes pour faire citer votre marque par les IA (et comment le mesurer)",
+      "link": "https://www.carnetdebord.info/geo-5-actions-concretes-pour-faire-citer-votre-marque-par-les-ia-et-comment-le-mesurer/",
+      "url": "https://www.carnetdebord.info/geo-5-actions-concretes-pour-faire-citer-votre-marque-par-les-ia-et-comment-le-mesurer/",
+      "publishedAt": "2026-06-10T09:30:40.000Z",
+      "date": "2026-06-10T09:30:40.000Z",
+      "description": "Cybersécurité · Marketing · Formations... Pour faire citer votre marque par ChatGPT, Perplexity ou Gemini, il faut activer d'autres leviers.",
+      "excerpt": "Cybersécurité · Marketing · Formations... Pour faire citer votre marque par ChatGPT, Perplexity ou Gemini, il faut activer d'autres leviers.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Vous allez pouvoir réutiliser ChatGPT gratuitement dans WhatsApp grâce à cette décision...",
       "link": "https://www.phonandroid.com/vous-allez-pouvoir-reutiliser-chatgpt-gratuitement-dans-whatsapp-grace-a-cette-decision-europeenne.html",
       "url": "https://www.phonandroid.com/vous-allez-pouvoir-reutiliser-chatgpt-gratuitement-dans-whatsapp-grace-a-cette-decision-europeenne.html",
@@ -17,6 +67,16 @@
       "date": "2026-06-10T08:29:47.000Z",
       "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Vous allez pouvoir réutiliser ChatGPT gratuitement dans WhatsApp grâce à...",
       "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Vous allez pouvoir réutiliser ChatGPT gratuitement dans WhatsApp grâce à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "[GALERIE] CSU choque, 500 000 utilisateurs de ChatGPT indignés. - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/gallery-csu-gay-soc-500-000-nguoi-dung-chatgpt-giao-su-noi-gian",
+      "url": "https://www.vietnam.vn/fr/gallery-csu-gay-soc-500-000-nguoi-dung-chatgpt-giao-su-noi-gian",
+      "publishedAt": "2026-06-10T07:55:07.000Z",
+      "date": "2026-06-10T07:55:07.000Z",
+      "description": "Source: https://khoahocdoisong.vn/gallery-csu-gay- soc -500000-nguoi-dung- chatgpt -giao-su-noi-gian-post2149103593.html. Follow Vietnam.vn on. Google.",
+      "excerpt": "Source: https://khoahocdoisong.vn/gallery-csu-gay- soc -500000-nguoi-dung- chatgpt -giao-su-noi-gian-post2149103593.html. Follow Vietnam.vn on. Google.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -67,66 +127,6 @@
       "date": "2026-06-10T03:27:31.000Z",
       "description": "OpenAI, à l'origine de ChatGPT, a annoncé lundi avoir « récemment » déposé son projet d'introduction en Bourse.",
       "excerpt": "OpenAI, à l'origine de ChatGPT, a annoncé lundi avoir « récemment » déposé son projet d'introduction en Bourse.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "SpaceX, OpenAI, Anthropic… En 2026, les géants de l'IA veulent avoir la cote - Libération",
-      "link": "https://www.liberation.fr/economie/economie-numerique/spacex-openai-anthropic-en-2026-les-geants-de-lia-veulent-avoir-la-cote-20260609_MWUVJX2B5FFJPBHYP35ZJ6MDTM/",
-      "url": "https://www.liberation.fr/economie/economie-numerique/spacex-openai-anthropic-en-2026-les-geants-de-lia-veulent-avoir-la-cote-20260609_MWUVJX2B5FFJPBHYP35ZJ6MDTM/",
-      "publishedAt": "2026-06-10T02:33:44.000Z",
-      "date": "2026-06-10T02:33:44.000Z",
-      "description": "Alors que la société d'Elon Musk se prépare à entrer en Bourse, les entreprises de ChatGPT... cybersécurité et les risques biologiques. 9 juin...",
-      "excerpt": "Alors que la société d'Elon Musk se prépare à entrer en Bourse, les entreprises de ChatGPT... cybersécurité et les risques biologiques. 9 juin...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic rend publique son IA la plus puissante... avec des limites pour la cybersécurité et...",
-      "link": "https://www.pesesurstart.com/2026/06/09/anthropic-rend-publique-son-ia-la-plus-puissante-avec-des-limites-pour-la-cybersecurite-et-les-risques-biologiques-1",
-      "url": "https://www.pesesurstart.com/2026/06/09/anthropic-rend-publique-son-ia-la-plus-puissante-avec-des-limites-pour-la-cybersecurite-et-les-risques-biologiques-1",
-      "publishedAt": "2026-06-10T00:07:50.000Z",
-      "date": "2026-06-10T00:07:50.000Z",
-      "description": "Anthropic rend publique son IA la plus puissante... avec des limites pour la cybersécurité et les risques biologiques... ChatGPT peut contacter un ami...",
-      "excerpt": "Anthropic rend publique son IA la plus puissante... avec des limites pour la cybersécurité et les risques biologiques... ChatGPT peut contacter un ami...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La super IA la plus intelligente au monde vient d'être lancée, surpassant de loin Gemini et ChatGPT.",
-      "link": "https://www.vietnam.vn/fr/sieu-ai-thong-minh-nhat-the-gioi-vua-ra-mat-bo-xa-gemini-chatgpt",
-      "url": "https://www.vietnam.vn/fr/sieu-ai-thong-minh-nhat-the-gioi-vua-ra-mat-bo-xa-gemini-chatgpt",
-      "publishedAt": "2026-06-09T19:12:26.000Z",
-      "date": "2026-06-09T19:12:26.000Z",
-      "description": "Apple lance une nouvelle génération de son assistant vocal Siri intégrant l'intelligence artificielle. La nouvelle version, baptisée Siri AI, permet à...",
-      "excerpt": "Apple lance une nouvelle génération de son assistant vocal Siri intégrant l'intelligence artificielle. La nouvelle version, baptisée Siri AI, permet à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Assistants shopping IA: faut-il déjà optimiser ses fiches produit pour ChatGPT et Perplexity",
-      "link": "https://www.info-ecommerce.fr/assistants-shopping-ia-optimiser-fiches-produit-chatgpt-perplexity/",
-      "url": "https://www.info-ecommerce.fr/assistants-shopping-ia-optimiser-fiches-produit-chatgpt-perplexity/",
-      "publishedAt": "2026-06-09T18:10:50.000Z",
-      "date": "2026-06-09T18:10:50.000Z",
-      "description": "Une recherche produit qui commence dans ChatGPT, Perplexity ou Google AI Mode ne passe plus par le moteur de recherche classique.",
-      "excerpt": "Une recherche produit qui commence dans ChatGPT, Perplexity ou Google AI Mode ne passe plus par le moteur de recherche classique.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Cyberattaques: les 15 incidents majeurs du 9 juin 2026",
-      "link": "https://dcod.ch/2026/06/09/cyberattaques-les-15-incidents-majeurs-du-9-juin-2026/",
-      "url": "https://dcod.ch/2026/06/09/cyberattaques-les-15-incidents-majeurs-du-9-juin-2026/",
-      "publishedAt": "2026-06-09T18:01:14.000Z",
-      "date": "2026-06-09T18:01:14.000Z",
-      "description": "L'essentiel Cybersécurité, IA & Tech. Rejoignez la communauté. 3 fois par semaine, recevez l'analyse des tendances par Marc Barbezat. Pas de spam,...",
-      "excerpt": "L'essentiel Cybersécurité, IA & Tech. Rejoignez la communauté. 3 fois par semaine, recevez l'analyse des tendances par Marc Barbezat. Pas de spam,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic rend publique son IA la plus puissante, bridée pour la cybersécurité et les risques...",
-      "link": "https://fr.tradingview.com/news/afp:4cd3616763091:0/",
-      "url": "https://fr.tradingview.com/news/afp:4cd3616763091:0/",
-      "publishedAt": "2026-06-09T17:47:51.000Z",
-      "date": "2026-06-09T17:47:51.000Z",
-      "description": "... cybersécurité et les risques d'attaque biologique et chi... OpenAI, le rival d'Anthropic, est sur le point de dévoiler la version 5.6 de son ChatGPT.",
-      "excerpt": "... cybersécurité et les risques d'attaque biologique et chi... OpenAI, le rival d'Anthropic, est sur le point de dévoiler la version 5.6 de son ChatGPT.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
