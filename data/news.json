@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T02:33:10.889Z",
+  "generatedAt": "2026-06-10T09:40:18.992Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,76 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Vous allez pouvoir réutiliser ChatGPT gratuitement dans WhatsApp grâce à cette décision...",
+      "link": "https://www.phonandroid.com/vous-allez-pouvoir-reutiliser-chatgpt-gratuitement-dans-whatsapp-grace-a-cette-decision-europeenne.html",
+      "url": "https://www.phonandroid.com/vous-allez-pouvoir-reutiliser-chatgpt-gratuitement-dans-whatsapp-grace-a-cette-decision-europeenne.html",
+      "publishedAt": "2026-06-10T08:29:47.000Z",
+      "date": "2026-06-10T08:29:47.000Z",
+      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Vous allez pouvoir réutiliser ChatGPT gratuitement dans WhatsApp grâce à...",
+      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Vous allez pouvoir réutiliser ChatGPT gratuitement dans WhatsApp grâce à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI contre Anthropic: quatre graphiques pour comprendre la rivalité entre les deux...",
+      "link": "https://www.lesechos.fr/tech-medias/intelligence-artificielle/openai-contre-anthropic-quatre-graphiques-pour-comprendre-la-rivalite-entre-les-deux-champions-de-lia-2235984",
+      "url": "https://www.lesechos.fr/tech-medias/intelligence-artificielle/openai-contre-anthropic-quatre-graphiques-pour-comprendre-la-rivalite-entre-les-deux-champions-de-lia-2235984",
+      "publishedAt": "2026-06-10T06:45:47.000Z",
+      "date": "2026-06-10T06:45:47.000Z",
+      "description": "Les start-up derrière ChatGPT et Claude Code, les mieux valorisées de la planète, se livrent une intense bataille pour tenter de séduire les...",
+      "excerpt": "Les start-up derrière ChatGPT et Claude Code, les mieux valorisées de la planète, se livrent une intense bataille pour tenter de séduire les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude Fable 5 Anthropic: la nouvelle IA surdouée - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/371984/claude-fable-5-anthropic-ia/",
+      "url": "https://www.blog-nouvelles-technologies.fr/371984/claude-fable-5-anthropic-ia/",
+      "publishedAt": "2026-06-10T06:21:59.000Z",
+      "date": "2026-06-10T06:21:59.000Z",
+      "description": "Siri devient une vraie application: Apple transforme son...",
+      "excerpt": "Siri devient une vraie application: Apple transforme son...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA & Cybersécurité: les 13 actus clés du 10 juin 2026",
+      "link": "https://dcod.ch/2026/06/10/ia-cybersecurite-les-13-actus-cles-du-10-juin-2026/",
+      "url": "https://dcod.ch/2026/06/10/ia-cybersecurite-les-13-actus-cles-du-10-juin-2026/",
+      "publishedAt": "2026-06-10T06:02:03.000Z",
+      "date": "2026-06-10T06:02:03.000Z",
+      "description": "Le nouveau mode de verrouillage de ChatGPT limite les outils susceptibles de permettre l'exfiltration de données. The Hacker News.",
+      "excerpt": "Le nouveau mode de verrouillage de ChatGPT limite les outils susceptibles de permettre l'exfiltration de données. The Hacker News.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Samsung veut supprimer une étape agaçante pour parler aux IA: cette nouveauté pourrait...",
+      "link": "https://www.01net.com/actualites/samsung-veut-supprimer-une-etape-agacante-pour-parler-aux-ia-cette-nouveaute-pourrait-faire-la-difference.html",
+      "url": "https://www.01net.com/actualites/samsung-veut-supprimer-une-etape-agacante-pour-parler-aux-ia-cette-nouveaute-pourrait-faire-la-difference.html",
+      "publishedAt": "2026-06-10T05:25:29.000Z",
+      "date": "2026-06-10T05:25:29.000Z",
+      "description": "... ChatGPT et Siri... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences · Tests · Smartphone & mobile · Tablette et...",
+      "excerpt": "... ChatGPT et Siri... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences · Tests · Smartphone & mobile · Tablette et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Après SpaceX et Anthropic, au tour d'OpenAI de préparer son entrée en bourse",
+      "link": "https://www.tvanouvelles.ca/2026/06/09/apres-spacex-et-anthropic-au-tour-dopenai-de-preparer-son-entree-en-bourse",
+      "url": "https://www.tvanouvelles.ca/2026/06/09/apres-spacex-et-anthropic-au-tour-dopenai-de-preparer-son-entree-en-bourse",
+      "publishedAt": "2026-06-10T03:27:31.000Z",
+      "date": "2026-06-10T03:27:31.000Z",
+      "description": "OpenAI, à l'origine de ChatGPT, a annoncé lundi avoir « récemment » déposé son projet d'introduction en Bourse.",
+      "excerpt": "OpenAI, à l'origine de ChatGPT, a annoncé lundi avoir « récemment » déposé son projet d'introduction en Bourse.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "SpaceX, OpenAI, Anthropic… En 2026, les géants de l'IA veulent avoir la cote - Libération",
+      "link": "https://www.liberation.fr/economie/economie-numerique/spacex-openai-anthropic-en-2026-les-geants-de-lia-veulent-avoir-la-cote-20260609_MWUVJX2B5FFJPBHYP35ZJ6MDTM/",
+      "url": "https://www.liberation.fr/economie/economie-numerique/spacex-openai-anthropic-en-2026-les-geants-de-lia-veulent-avoir-la-cote-20260609_MWUVJX2B5FFJPBHYP35ZJ6MDTM/",
+      "publishedAt": "2026-06-10T02:33:44.000Z",
+      "date": "2026-06-10T02:33:44.000Z",
+      "description": "Alors que la société d'Elon Musk se prépare à entrer en Bourse, les entreprises de ChatGPT... cybersécurité et les risques biologiques. 9 juin...",
+      "excerpt": "Alors que la société d'Elon Musk se prépare à entrer en Bourse, les entreprises de ChatGPT... cybersécurité et les risques biologiques. 9 juin...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Anthropic rend publique son IA la plus puissante... avec des limites pour la cybersécurité et...",
       "link": "https://www.pesesurstart.com/2026/06/09/anthropic-rend-publique-son-ia-la-plus-puissante-avec-des-limites-pour-la-cybersecurite-et-les-risques-biologiques-1",
@@ -57,76 +127,6 @@
       "date": "2026-06-09T17:47:51.000Z",
       "description": "... cybersécurité et les risques d'attaque biologique et chi... OpenAI, le rival d'Anthropic, est sur le point de dévoiler la version 5.6 de son ChatGPT.",
       "excerpt": "... cybersécurité et les risques d'attaque biologique et chi... OpenAI, le rival d'Anthropic, est sur le point de dévoiler la version 5.6 de son ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic rend publique son IA la plus puissante, bridée pour des raisons de sécurité",
-      "link": "https://www.boursorama.com/actualite-economique/actualites-amp/anthropic-rend-publique-son-ia-la-plus-puissante-bridee-pour-des-raisons-de-securite-d48cc4644fa9d6044d7e1ecf84389ca2",
-      "url": "https://www.boursorama.com/actualite-economique/actualites-amp/anthropic-rend-publique-son-ia-la-plus-puissante-bridee-pour-des-raisons-de-securite-d48cc4644fa9d6044d7e1ecf84389ca2",
-      "publishedAt": "2026-06-09T17:37:19.000Z",
-      "date": "2026-06-09T17:37:19.000Z",
-      "description": "... ChatGPT. Attaques biologiques? Jusqu'ici, Anthropic justifiait de restreindre l'accès à Mythos uniquement pour les risques de cybersécurité. Avec...",
-      "excerpt": "... ChatGPT. Attaques biologiques? Jusqu'ici, Anthropic justifiait de restreindre l'accès à Mythos uniquement pour les risques de cybersécurité. Avec...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dépose une demande d'introduction en bourse dans le cadre d'une opération qui...",
-      "link": "https://intelligence-artificielle.developpez.com/actu/384015/OpenAI-depose-une-demande-d-introduction-en-bourse-dans-le-cadre-d-une-operation-qui-pourrait-valoriser-le-createur-de-ChatGPT-a-plus-de-1-000-milliards-meme-si-elle-ne-prevoit-pas-de-benefices-avant-2030/",
-      "url": "https://intelligence-artificielle.developpez.com/actu/384015/OpenAI-depose-une-demande-d-introduction-en-bourse-dans-le-cadre-d-une-operation-qui-pourrait-valoriser-le-createur-de-ChatGPT-a-plus-de-1-000-milliards-meme-si-elle-ne-prevoit-pas-de-benefices-avant-2030/",
-      "publishedAt": "2026-06-09T16:54:03.000Z",
-      "date": "2026-06-09T16:54:03.000Z",
-      "description": "OpenAI, la société à l'origine de ChatGPT, a déposé en toute confidentialité une demande d'introduction en bourse aux États-Unis.",
-      "excerpt": "OpenAI, la société à l'origine de ChatGPT, a déposé en toute confidentialité une demande d'introduction en bourse aux États-Unis.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Comment le nouveau mode Verrouillage de ChatGPT vous protège contre le vol de...",
-      "link": "https://www.zdnet.fr/actualites/comment-le-nouveau-mode-verrouillage-de-chatgpt-vous-protege-contre-le-vol-de-donnees-et-quelles-sont-ses-autres-fonctionnalites-496475.htm",
-      "url": "https://www.zdnet.fr/actualites/comment-le-nouveau-mode-verrouillage-de-chatgpt-vous-protege-contre-le-vol-de-donnees-et-quelles-sont-ses-autres-fonctionnalites-496475.htm",
-      "publishedAt": "2026-06-09T16:45:35.000Z",
-      "date": "2026-06-09T16:45:35.000Z",
-      "description": "Bien qu'accessible à tous les utilisateurs de ChatGPT, cette option est conçue pour les personnes et les organisations qui traitent des informations...",
-      "excerpt": "Bien qu'accessible à tous les utilisateurs de ChatGPT, cette option est conçue pour les personnes et les organisations qui traitent des informations...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Siri AI bloqué en Europe: Apple accuse le DMA de priver les utilisateurs de ses nouvelles fonctions",
-      "link": "https://www.mac4ever.com/ia/196595-siri-ai-bloque-en-europe-apple-accuse-le-dma-de-priver-les-utilisateurs-de-ses-nouvelles-fonctions",
-      "url": "https://www.mac4ever.com/ia/196595-siri-ai-bloque-en-europe-apple-accuse-le-dma-de-priver-les-utilisateurs-de-ses-nouvelles-fonctions",
-      "publishedAt": "2026-06-09T16:20:20.000Z",
-      "date": "2026-06-09T16:20:20.000Z",
-      "description": "L'entreprise souligne que plusieurs chercheurs en cybersécurité... ChatGPT super app. ChatGPT ne veut plus être seulement un chatbot. Depuis...",
-      "excerpt": "L'entreprise souligne que plusieurs chercheurs en cybersécurité... ChatGPT super app. ChatGPT ne veut plus être seulement un chatbot. Depuis...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI a déposé son projet d'introduction en Bourse, une semaine après Anthropic",
-      "link": "https://www.lemonde.fr/pixels/article/2026/06/09/openai-se-positionne-pour-une-entree-en-bourse_6699918_4408996.html",
-      "url": "https://www.lemonde.fr/pixels/article/2026/06/09/openai-se-positionne-pour-une-entree-en-bourse_6699918_4408996.html",
-      "publishedAt": "2026-06-09T16:18:20.000Z",
-      "date": "2026-06-09T16:18:20.000Z",
-      "description": "Votre vigie du numérique: communautés en ligne, cybersécurité, jeux vidéo, intelligence artificielle…... ChatGPT ont entamé une profonde...",
-      "excerpt": "Votre vigie du numérique: communautés en ligne, cybersécurité, jeux vidéo, intelligence artificielle…... ChatGPT ont entamé une profonde...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Apple: le nouveau Siri est-il enfin meilleur que ChatGPT? | Brief IA",
-      "link": "https://www.briefia.fr/article/apple-le-nouveau-siri-est-il-enfin-meilleur-que-chatgpt",
-      "url": "https://www.briefia.fr/article/apple-le-nouveau-siri-est-il-enfin-meilleur-que-chatgpt",
-      "publishedAt": "2026-06-09T16:14:01.000Z",
-      "date": "2026-06-09T16:14:01.000Z",
-      "description": "Apple a repensé Siri pour le rendre plus compétitif face à ChatGPT. • Siri AI pourrait révolutionner l'expérience utilisateur avec des...",
-      "excerpt": "Apple a repensé Siri pour le rendre plus compétitif face à ChatGPT. • Siri AI pourrait révolutionner l'expérience utilisateur avec des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "IPO d'OpenAI: ChatGPT veut devenir la super-app de l'IA - InformatiqueNews.fr",
-      "link": "https://www.informatiquenews.fr/apres-anthropic-openai-aussi-avance-vers-son-ipo-111882",
-      "url": "https://www.informatiquenews.fr/apres-anthropic-openai-aussi-avance-vers-son-ipo-111882",
-      "publishedAt": "2026-06-09T15:01:05.000Z",
-      "date": "2026-06-09T15:01:05.000Z",
-      "description": "Dossier cybersécurité 5/5. Des IA pour défendre les entreprises: avenir... ChatGPT et les produits grand public (on est en plein dedans).",
-      "excerpt": "Dossier cybersécurité 5/5. Des IA pour défendre les entreprises: avenir... ChatGPT et les produits grand public (on est en plein dedans).",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
