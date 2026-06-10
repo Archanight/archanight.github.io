@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T19:56:12.534Z",
+  "generatedAt": "2026-06-10T02:33:10.889Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Anthropic rend publique son IA la plus puissante... avec des limites pour la cybersécurité et...",
+      "link": "https://www.pesesurstart.com/2026/06/09/anthropic-rend-publique-son-ia-la-plus-puissante-avec-des-limites-pour-la-cybersecurite-et-les-risques-biologiques-1",
+      "url": "https://www.pesesurstart.com/2026/06/09/anthropic-rend-publique-son-ia-la-plus-puissante-avec-des-limites-pour-la-cybersecurite-et-les-risques-biologiques-1",
+      "publishedAt": "2026-06-10T00:07:50.000Z",
+      "date": "2026-06-10T00:07:50.000Z",
+      "description": "Anthropic rend publique son IA la plus puissante... avec des limites pour la cybersécurité et les risques biologiques... ChatGPT peut contacter un ami...",
+      "excerpt": "Anthropic rend publique son IA la plus puissante... avec des limites pour la cybersécurité et les risques biologiques... ChatGPT peut contacter un ami...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La super IA la plus intelligente au monde vient d'être lancée, surpassant de loin Gemini et ChatGPT.",
+      "link": "https://www.vietnam.vn/fr/sieu-ai-thong-minh-nhat-the-gioi-vua-ra-mat-bo-xa-gemini-chatgpt",
+      "url": "https://www.vietnam.vn/fr/sieu-ai-thong-minh-nhat-the-gioi-vua-ra-mat-bo-xa-gemini-chatgpt",
+      "publishedAt": "2026-06-09T19:12:26.000Z",
+      "date": "2026-06-09T19:12:26.000Z",
+      "description": "Apple lance une nouvelle génération de son assistant vocal Siri intégrant l'intelligence artificielle. La nouvelle version, baptisée Siri AI, permet à...",
+      "excerpt": "Apple lance une nouvelle génération de son assistant vocal Siri intégrant l'intelligence artificielle. La nouvelle version, baptisée Siri AI, permet à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Assistants shopping IA: faut-il déjà optimiser ses fiches produit pour ChatGPT et Perplexity",
       "link": "https://www.info-ecommerce.fr/assistants-shopping-ia-optimiser-fiches-produit-chatgpt-perplexity/",
@@ -37,6 +57,16 @@
       "date": "2026-06-09T17:47:51.000Z",
       "description": "... cybersécurité et les risques d'attaque biologique et chi... OpenAI, le rival d'Anthropic, est sur le point de dévoiler la version 5.6 de son ChatGPT.",
       "excerpt": "... cybersécurité et les risques d'attaque biologique et chi... OpenAI, le rival d'Anthropic, est sur le point de dévoiler la version 5.6 de son ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Anthropic rend publique son IA la plus puissante, bridée pour des raisons de sécurité",
+      "link": "https://www.boursorama.com/actualite-economique/actualites-amp/anthropic-rend-publique-son-ia-la-plus-puissante-bridee-pour-des-raisons-de-securite-d48cc4644fa9d6044d7e1ecf84389ca2",
+      "url": "https://www.boursorama.com/actualite-economique/actualites-amp/anthropic-rend-publique-son-ia-la-plus-puissante-bridee-pour-des-raisons-de-securite-d48cc4644fa9d6044d7e1ecf84389ca2",
+      "publishedAt": "2026-06-09T17:37:19.000Z",
+      "date": "2026-06-09T17:37:19.000Z",
+      "description": "... ChatGPT. Attaques biologiques? Jusqu'ici, Anthropic justifiait de restreindre l'accès à Mythos uniquement pour les risques de cybersécurité. Avec...",
+      "excerpt": "... ChatGPT. Attaques biologiques? Jusqu'ici, Anthropic justifiait de restreindre l'accès à Mythos uniquement pour les risques de cybersécurité. Avec...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -97,36 +127,6 @@
       "date": "2026-06-09T15:01:05.000Z",
       "description": "Dossier cybersécurité 5/5. Des IA pour défendre les entreprises: avenir... ChatGPT et les produits grand public (on est en plein dedans).",
       "excerpt": "Dossier cybersécurité 5/5. Des IA pour défendre les entreprises: avenir... ChatGPT et les produits grand public (on est en plein dedans).",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Après SpaceX et Anthropic, au tour d'OpenAI de préparer son entrée en bourse | JDM",
-      "link": "https://www.journaldemontreal.com/2026/06/09/apres-spacex-et-anthropic-au-tour-dopenai-de-preparer-son-entree-en-bourse",
-      "url": "https://www.journaldemontreal.com/2026/06/09/apres-spacex-et-anthropic-au-tour-dopenai-de-preparer-son-entree-en-bourse",
-      "publishedAt": "2026-06-09T14:54:01.000Z",
-      "date": "2026-06-09T14:54:01.000Z",
-      "description": "OpenAI, à l'origine de ChatGPT, a annoncé lundi avoir « récemment » déposé son projet d'introduction en Bourse.",
-      "excerpt": "OpenAI, à l'origine de ChatGPT, a annoncé lundi avoir « récemment » déposé son projet d'introduction en Bourse.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Le mode Lockdown de ChatGPT verrouille la fuite de données - DCOD | Cybersécurité",
-      "link": "https://dcod.ch/2026/06/09/mode-lockdown-chatgpt/",
-      "url": "https://dcod.ch/2026/06/09/mode-lockdown-chatgpt/",
-      "publishedAt": "2026-06-09T14:31:16.000Z",
-      "date": "2026-06-09T14:31:16.000Z",
-      "description": "... ChatGPT Qu'est-ce que le mode Lockdown de ChatGPT?Le mode Lockdown... Veille stratégique Cybersécurité, IA & Tech. Produite par Marc...",
-      "excerpt": "... ChatGPT Qu'est-ce que le mode Lockdown de ChatGPT?Le mode Lockdown... Veille stratégique Cybersécurité, IA & Tech. Produite par Marc...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le nouveau Siri expliqué: cinq modèles maison, le vrai rôle de Google Gemini et des GPU Nvidia",
-      "link": "https://www.numerama.com/tech/2271475-le-nouveau-siri-explique-cinq-modeles-maison-le-vrai-role-de-google-gemini-et-des-gpu-nvidia.html",
-      "url": "https://www.numerama.com/tech/2271475-le-nouveau-siri-explique-cinq-modeles-maison-le-vrai-role-de-google-gemini-et-des-gpu-nvidia.html",
-      "publishedAt": "2026-06-09T14:29:55.000Z",
-      "date": "2026-06-09T14:29:55.000Z",
-      "description": "Apple dévoile un nouveau Siri propulsé par un vrai modèle de langage avec une application façon ChatGPT, intègre de l'IA partout dans ses systèmes,...",
-      "excerpt": "Apple dévoile un nouveau Siri propulsé par un vrai modèle de langage avec une application façon ChatGPT, intègre de l'IA partout dans ses systèmes,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
