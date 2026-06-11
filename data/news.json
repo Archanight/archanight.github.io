@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T15:35:42.961Z",
+  "generatedAt": "2026-06-11T20:10:01.692Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,96 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI baisse ses prix: ChatGPT va coûter moins cher - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/372231/openai-baisse-prix-chatgpt/",
+      "url": "https://www.blog-nouvelles-technologies.fr/372231/openai-baisse-prix-chatgpt/",
+      "publishedAt": "2026-06-11T18:55:17.000Z",
+      "date": "2026-06-11T18:55:17.000Z",
+      "description": "Bonne nouvelle! OpenAI prépare une baisse de prix magique pour ChatGPT. Découvrez l'astuce de luxe pour réduire votre budget IA. Cliquez vite!",
+      "excerpt": "Bonne nouvelle! OpenAI prépare une baisse de prix magique pour ChatGPT. Découvrez l'astuce de luxe pour réduire votre budget IA. Cliquez vite!",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Des messages anti-IA générés avec ChatGPT: OpenAI pointe la Chine du doigt | Brief IA",
+      "link": "https://www.briefia.fr/article/des-messages-anti-ia-generes-avec-chatgpt-openai-pointe-la-chine-du-doigt",
+      "url": "https://www.briefia.fr/article/des-messages-anti-ia-generes-avec-chatgpt-openai-pointe-la-chine-du-doigt",
+      "publishedAt": "2026-06-11T18:09:46.000Z",
+      "date": "2026-06-11T18:09:46.000Z",
+      "description": "OpenAI a banni deux groupes de comptes ChatGPT basés en Chine pour avoir diffusé des messages anti-IA. • Ces groupes ont opéré de fin 2025 à début...",
+      "excerpt": "OpenAI a banni deux groupes de comptes ChatGPT basés en Chine pour avoir diffusé des messages anti-IA. • Ces groupes ont opéré de fin 2025 à début...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Qui va gagner la Coupe du Monde 2026? On a posé la question à 5 IA, voici leurs pronostics",
+      "link": "https://www.01net.com/actualites/qui-va-gagner-coupe-monde-2026-pose-question-cinq-ia-voici-pronostics.html",
+      "url": "https://www.01net.com/actualites/qui-va-gagner-coupe-monde-2026-pose-question-cinq-ia-voici-pronostics.html",
+      "publishedAt": "2026-06-11T17:32:20.000Z",
+      "date": "2026-06-11T17:32:20.000Z",
+      "description": "En miroir de ChatGPT, Gemini estime que Kylian Mbappé marquera un total de 9 buts durant le tournoi, notamment lors de la finale contre l'équipe...",
+      "excerpt": "En miroir de ChatGPT, Gemini estime que Kylian Mbappé marquera un total de 9 buts durant le tournoi, notamment lors de la finale contre l'équipe...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Commerce agentique: OpenAI signe avec Visa - Silicon.fr",
+      "link": "https://www.silicon.fr/business-1367/commerce-agentique-openai-signe-avec-visa-227619",
+      "url": "https://www.silicon.fr/business-1367/commerce-agentique-openai-signe-avec-visa-227619",
+      "publishedAt": "2026-06-11T16:30:58.000Z",
+      "date": "2026-06-11T16:30:58.000Z",
+      "description": "Concrètement, les achats réalisés via ChatGPT ou d'autres interfaces OpenAI pourront s'appuyer sur le réseau Visa. Les transactions s'effectueront...",
+      "excerpt": "Concrètement, les achats réalisés via ChatGPT ou d'autres interfaces OpenAI pourront s'appuyer sur le réseau Visa. Les transactions s'effectueront...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Visa veut permettre à l'IA de dépenser votre argent à votre place - Clubic",
+      "link": "https://www.clubic.com/actualite-616453-visa-veut-permettre-a-l-ia-de-depenser-votre-argent-a-votre-place.html",
+      "url": "https://www.clubic.com/actualite-616453-visa-veut-permettre-a-l-ia-de-depenser-votre-argent-a-votre-place.html",
+      "publishedAt": "2026-06-11T15:34:13.000Z",
+      "date": "2026-06-11T15:34:13.000Z",
+      "description": "Visa et OpenAI ont signé un accord pour intégrer le réseau de paiement Visa dans ChatGPT... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN...",
+      "excerpt": "Visa et OpenAI ont signé un accord pour intégrer le réseau de paiement Visa dans ChatGPT... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA: OpenAI envisage de casser les prix des tokens face à Anthropic - KultureGeek",
+      "link": "https://kulturegeek.fr/news-353507/ia-openai-envisage-casser-prix-tokens-face-anthropic",
+      "url": "https://kulturegeek.fr/news-353507/ia-openai-envisage-casser-prix-tokens-face-anthropic",
+      "publishedAt": "2026-06-11T15:08:50.000Z",
+      "date": "2026-06-11T15:08:50.000Z",
+      "description": "... ChatGPT. En réponse, OpenAI a fait de Codex l'une de ses priorités... SFR ajoute une protection de cybersécurité à ses clients fibre. 2 Juin...",
+      "excerpt": "... ChatGPT. En réponse, OpenAI a fait de Codex l'une de ses priorités... SFR ajoute une protection de cybersécurité à ses clients fibre. 2 Juin...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cockpyt AI: mesurer la visibilité de marque dans les IA - La Revue Tech",
+      "link": "https://larevuetech.fr/cockpyt-ai-la-solution-francaise-qui-mesure-la-visibilite-des-marques-dans-chatgpt-perplexity-et-gemini/",
+      "url": "https://larevuetech.fr/cockpyt-ai-la-solution-francaise-qui-mesure-la-visibilite-des-marques-dans-chatgpt-perplexity-et-gemini/",
+      "publishedAt": "2026-06-11T14:38:08.000Z",
+      "date": "2026-06-11T14:38:08.000Z",
+      "description": "Cockpyt AI relie les données de visibilité IA aux visites réelles issues de ChatGPT, Perplexity, Gemini et Grok via Google Analytics 4. 🛠️ Philosophie...",
+      "excerpt": "Cockpyt AI relie les données de visibilité IA aux visites réelles issues de ChatGPT, Perplexity, Gemini et Grok via Google Analytics 4. 🛠️ Philosophie...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "IA: une semaine après Anthropic, OpenAI dépose son projet d'introduction en Bourse - AOL",
+      "link": "https://www.aol.com/articles/ia-openai-balise-chemin-wall-000516000.html",
+      "url": "https://www.aol.com/articles/ia-openai-balise-chemin-wall-000516000.html",
+      "publishedAt": "2026-06-11T14:37:40.000Z",
+      "date": "2026-06-11T14:37:40.000Z",
+      "description": "Founded a decade ago, OpenAI kicked off the modern AI boom with the release of ChatGPT in 2022. The chatbot, capable of conversing in natural language...",
+      "excerpt": "Founded a decade ago, OpenAI kicked off the modern AI boom with the release of ChatGPT in 2022. The chatbot, capable of conversing in natural language...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT Visa: l'IA magique qui paye vos achats - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/372228/chatgpt-visa-achat-ia-shopping/",
+      "url": "https://www.blog-nouvelles-technologies.fr/372228/chatgpt-visa-achat-ia-shopping/",
+      "publishedAt": "2026-06-11T14:35:45.000Z",
+      "date": "2026-06-11T14:35:45.000Z",
+      "description": "OpenAI et Visa préparent les achats autonomes via ChatGPT: vers une nouvelle ère du commerce IA... ChatGPT veut passer du conseil à l'action.",
+      "excerpt": "OpenAI et Visa préparent les achats autonomes via ChatGPT: vers une nouvelle ère du commerce IA... ChatGPT veut passer du conseil à l'action.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Pour reprendre des parts de marché à Anthropic, OpenAI pourrait faire chuter les tarifs de ChatGPT",
       "link": "https://www.clubic.com/actualite-616471-pour-reprendre-des-parts-de-marche-a-anthropic-openai-pourrait-faire-chuter-les-tarifs-de-chatgpt.html",
@@ -30,104 +120,14 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Visa intègre son réseau de paiement à ChatGPT pour révolutionner les achats en ligne",
-      "link": "https://www.journaldeleconomie.fr/visa-paiement-chatgpt-achats-ligne/",
-      "url": "https://www.journaldeleconomie.fr/visa-paiement-chatgpt-achats-ligne/",
-      "publishedAt": "2026-06-11T13:34:09.000Z",
-      "date": "2026-06-11T13:34:09.000Z",
-      "description": "Visa vient d'intégrer son réseau de paiement mondial à ChatGPT, permettant aux agents d'intelligence artificielle d'effectuer des achats autonomes...",
-      "excerpt": "Visa vient d'intégrer son réseau de paiement mondial à ChatGPT, permettant aux agents d'intelligence artificielle d'effectuer des achats autonomes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Êtes-vous prêt à laisser ChatGPT payer avec votre carte Visa? OpenAI vient de signer un...",
-      "link": "https://www.phonandroid.com/etes-vous-pret-a-laisser-chatgpt-payer-avec-votre-carte-visa-openai-vient-de-signer-un-accord-inattendu.html",
-      "url": "https://www.phonandroid.com/etes-vous-pret-a-laisser-chatgpt-payer-avec-votre-carte-visa-openai-vient-de-signer-un-accord-inattendu.html",
-      "publishedAt": "2026-06-11T13:15:54.000Z",
-      "date": "2026-06-11T13:15:54.000Z",
-      "description": "Un accord inattendu entre OpenAI et Visa ouvre la voie à un ChatGPT capable de payer vos courses à votre place... Cybersécurité · eSIM avec · Streaming...",
-      "excerpt": "Un accord inattendu entre OpenAI et Visa ouvre la voie à un ChatGPT capable de payer vos courses à votre place... Cybersécurité · eSIM avec · Streaming...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA et santé: ce que vous devez savoir avant de demander un avis médical à ChatGPT",
-      "link": "https://www.welivesecurity.com/fr/vie-privee/ia-et-sante-ce-que-vous-devez-savoir-avant-de-demander-un-avis-medical-a-chatgpt/",
-      "url": "https://www.welivesecurity.com/fr/vie-privee/ia-et-sante-ce-que-vous-devez-savoir-avant-de-demander-un-avis-medical-a-chatgpt/",
-      "publishedAt": "2026-06-11T12:47:22.000Z",
-      "date": "2026-06-11T12:47:22.000Z",
-      "description": "... cybersécurité We Live ProgrèsCOVID-19VidéosJournée anti logiciels... IA et santé: ce que vous devez savoir avant de demander un avis médical à ChatGPT.",
-      "excerpt": "... cybersécurité We Live ProgrèsCOVID-19VidéosJournée anti logiciels... IA et santé: ce que vous devez savoir avant de demander un avis médical à ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA et manipulation de l'information: le nouveau terrain de jeu du marketing invisible",
-      "link": "https://moncarnet.com/2026/06/11/ia-et-manipulation-de-linformation-le-nouveau-terrain-de-jeu-du-marketing-invisible/",
-      "url": "https://moncarnet.com/2026/06/11/ia-et-manipulation-de-linformation-le-nouveau-terrain-de-jeu-du-marketing-invisible/",
-      "publishedAt": "2026-06-11T12:29:23.000Z",
-      "date": "2026-06-11T12:29:23.000Z",
-      "description": "... ChatGPT ou Google AI. Cette stratégie soulève des questions... Les menaces en cybersécurité pour 2025 12 décembre 2024 Dans \" Cybersécurité \".",
-      "excerpt": "... ChatGPT ou Google AI. Cette stratégie soulève des questions... Les menaces en cybersécurité pour 2025 12 décembre 2024 Dans \" Cybersécurité \".",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Perplexity vs ChatGPT 2026: 93,9% SimpleQA [Testé] - Tech Insider",
-      "link": "https://tech-insider.org/fr/perplexity-vs-chatgpt-2026-3/",
-      "url": "https://tech-insider.org/fr/perplexity-vs-chatgpt-2026-3/",
-      "publishedAt": "2026-06-11T12:23:46.000Z",
-      "date": "2026-06-11T12:23:46.000Z",
-      "description": "ChatGPT, grâce au raisonnement de la famille GPT-5, à l'éditeur Canvas... cybersécurité, cloud, matériel et les tendances qui comptent.",
-      "excerpt": "ChatGPT, grâce au raisonnement de la famille GPT-5, à l'éditeur Canvas... cybersécurité, cloud, matériel et les tendances qui comptent.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI démasque une opération d'ingérence qu'il attribue à la Chine - Brief IA",
-      "link": "https://www.briefia.fr/article/ils-utilisaient-chatgpt-pour-attaquer-chatgpt-openai-demasque-une-operation-d-in",
-      "url": "https://www.briefia.fr/article/ils-utilisaient-chatgpt-pour-attaquer-chatgpt-openai-demasque-une-operation-d-in",
-      "publishedAt": "2026-06-11T12:14:37.000Z",
-      "date": "2026-06-11T12:14:37.000Z",
-      "description": "Presse-citron: Ils utilisaient ChatGPT pour attaquer ChatGPT: OpenAI démasque une opération d... cybersécurité. • L'implication du...",
-      "excerpt": "Presse-citron: Ils utilisaient ChatGPT pour attaquer ChatGPT: OpenAI démasque une opération d... cybersécurité. • L'implication du...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT vs Gemini vs Claude: parts de marché 2026 - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/372090/chatgpt-gemini-claude-parts-marche-ia/",
-      "url": "https://www.blog-nouvelles-technologies.fr/372090/chatgpt-gemini-claude-parts-marche-ia/",
-      "publishedAt": "2026-06-11T12:09:59.000Z",
-      "date": "2026-06-11T12:09:59.000Z",
-      "description": "Découvrez qui domine le marché entre ChatGPT, Gemini et Claude! Plongez au cœur de la révolution de l'IA sans clic pour relooker votre quotidien.",
-      "excerpt": "Découvrez qui domine le marché entre ChatGPT, Gemini et Claude! Plongez au cœur de la révolution de l'IA sans clic pour relooker votre quotidien.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6 OpenAI: la mise à jour magique de ChatGPT - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/372204/gpt-5-6-openai-chatgpt-mise-a-jour/",
-      "url": "https://www.blog-nouvelles-technologies.fr/372204/gpt-5-6-openai-chatgpt-mise-a-jour/",
-      "publishedAt": "2026-06-11T08:29:01.000Z",
-      "date": "2026-06-11T08:29:01.000Z",
-      "description": "Découvrez GPT-5.6 d'OpenAI! L'astuce magique pour rendre ChatGPT plus rapide et relooker votre confort quotidien. Cliquez vite pour tout savoir!",
-      "excerpt": "Découvrez GPT-5.6 d'OpenAI! L'astuce magique pour rendre ChatGPT plus rapide et relooker votre confort quotidien. Cliquez vite pour tout savoir!",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ce que ChatGPT a résolu en quelques minutes terrifie les astrophysiciens du monde entier",
-      "link": "https://www.phonandroid.com/ce-que-chatgpt-a-resolu-en-quelques-minutes-terrifie-les-astrophysiciens-du-monde-entier.html",
-      "url": "https://www.phonandroid.com/ce-que-chatgpt-a-resolu-en-quelques-minutes-terrifie-les-astrophysiciens-du-monde-entier.html",
-      "publishedAt": "2026-06-11T07:15:37.000Z",
-      "date": "2026-06-11T07:15:37.000Z",
-      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Ce que ChatGPT a résolu en quelques minutes terrifie les astrophysiciens...",
-      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Ce que ChatGPT a résolu en quelques minutes terrifie les astrophysiciens...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Culture IA: Un mondial 2026 sous le signe de la tech, par Anthony Morel - 11/06: Actualités",
-      "link": "https://actu.orange.fr/videos/economie/culture-ia-un-mondial-2026-sous-le-signe-de-la-tech-par-anthony-morel-11-06-CNT000002pTPIY.html",
-      "url": "https://actu.orange.fr/videos/economie/culture-ia-un-mondial-2026-sous-le-signe-de-la-tech-par-anthony-morel-11-06-CNT000002pTPIY.html",
-      "publishedAt": "2026-06-11T06:59:01.000Z",
-      "date": "2026-06-11T06:59:01.000Z",
-      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte... Tous publics. Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel - 25/...",
-      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte... Tous publics. Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel - 25/...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "title": "on a opposé ChatGPT, Gemini et Claude, et leur pronostic pour la finale va vous surprendre",
+      "link": "https://www.lesnumeriques.com/societe-numerique/coupe-du-monde-on-a-oppose-chatgpt-gemini-et-claude-et-leur-pronostic-pour-la-finale-va-vous-surprendre-n257356.html",
+      "url": "https://www.lesnumeriques.com/societe-numerique/coupe-du-monde-on-a-oppose-chatgpt-gemini-et-claude-et-leur-pronostic-pour-la-finale-va-vous-surprendre-n257356.html",
+      "publishedAt": "2026-06-11T14:11:56.000Z",
+      "date": "2026-06-11T14:11:56.000Z",
+      "description": "Coupe du monde: on a opposé ChatGPT, Gemini et Claude, et leur pronostic pour la finale va vous surprendre... Les Nums, l' Update. sponsorisé. #04 avec...",
+      "excerpt": "Coupe du monde: on a opposé ChatGPT, Gemini et Claude, et leur pronostic pour la finale va vous surprendre... Les Nums, l' Update. sponsorisé. #04 avec...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
