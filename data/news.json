@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T20:10:01.692Z",
+  "generatedAt": "2026-06-12T02:38:55.032Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Lifesight Launches MCP to Bring Unified Marketing Measurement Directly Into Claude and ChatGPT",
+      "link": "https://www.newsfilecorp.com/release/300944/Lifesight-Launches-MCP-to-Bring-Unified-Marketing-Measurement-Directly-Into-Claude-and-ChatGPT?lang=fr",
+      "url": "https://www.newsfilecorp.com/release/300944/Lifesight-Launches-MCP-to-Bring-Unified-Marketing-Measurement-Directly-Into-Claude-and-ChatGPT?lang=fr",
+      "publishedAt": "2026-06-11T22:20:08.000Z",
+      "date": "2026-06-11T22:20:08.000Z",
+      "description": "... ChatGPT (Custom Connectors) with... To view the source version of this press release, please visit https://www.newsfilecorp.com/ release /300944.",
+      "excerpt": "... ChatGPT (Custom Connectors) with... To view the source version of this press release, please visit https://www.newsfilecorp.com/ release /300944.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "OpenAI baisse ses prix: ChatGPT va coûter moins cher - BlogNT",
       "link": "https://www.blog-nouvelles-technologies.fr/372231/openai-baisse-prix-chatgpt/",
@@ -48,6 +58,16 @@
       "description": "Concrètement, les achats réalisés via ChatGPT ou d'autres interfaces OpenAI pourront s'appuyer sur le réseau Visa. Les transactions s'effectueront...",
       "excerpt": "Concrètement, les achats réalisés via ChatGPT ou d'autres interfaces OpenAI pourront s'appuyer sur le réseau Visa. Les transactions s'effectueront...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Ces IA ont prédit les résultats des poules?!: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/ces-ia-ont-predit-les-resultats-des-poules-CNT000002pUvxy.html",
+      "url": "https://actu.orange.fr/videos/high-tech/ces-ia-ont-predit-les-resultats-des-poules-CNT000002pUvxy.html",
+      "publishedAt": "2026-06-11T16:07:26.000Z",
+      "date": "2026-06-11T16:07:26.000Z",
+      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Le ChatGPT de la langue des signes. Tous publics. C'est quoi cette...",
+      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Le ChatGPT de la langue des signes. Tous publics. C'est quoi cette...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "Visa veut permettre à l'IA de dépenser votre argent à votre place - Clubic",
@@ -108,26 +128,6 @@
       "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN gratuit android · Meilleur antivirus · Antivirus gratuit · Antivirus Mac. Top...",
       "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN gratuit android · Meilleur antivirus · Antivirus gratuit · Antivirus Mac. Top...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des messages anti-IA générés avec ChatGPT: OpenAI pointe la Chine du doigt - Clubic",
-      "link": "https://www.clubic.com/actualite-616357-des-messages-anti-ia-generes-avec-chatgpt-openai-pointe-la-chine-du-doigt.html",
-      "url": "https://www.clubic.com/actualite-616357-des-messages-anti-ia-generes-avec-chatgpt-openai-pointe-la-chine-du-doigt.html",
-      "publishedAt": "2026-06-11T14:18:43.000Z",
-      "date": "2026-06-11T14:18:43.000Z",
-      "description": "Les opérateurs ont cherché à y prendre pied. Entre mai 2024 et juin 2025, Data Center Watch, programme de recherche de la société de cybersécurité 10a...",
-      "excerpt": "Les opérateurs ont cherché à y prendre pied. Entre mai 2024 et juin 2025, Data Center Watch, programme de recherche de la société de cybersécurité 10a...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "on a opposé ChatGPT, Gemini et Claude, et leur pronostic pour la finale va vous surprendre",
-      "link": "https://www.lesnumeriques.com/societe-numerique/coupe-du-monde-on-a-oppose-chatgpt-gemini-et-claude-et-leur-pronostic-pour-la-finale-va-vous-surprendre-n257356.html",
-      "url": "https://www.lesnumeriques.com/societe-numerique/coupe-du-monde-on-a-oppose-chatgpt-gemini-et-claude-et-leur-pronostic-pour-la-finale-va-vous-surprendre-n257356.html",
-      "publishedAt": "2026-06-11T14:11:56.000Z",
-      "date": "2026-06-11T14:11:56.000Z",
-      "description": "Coupe du monde: on a opposé ChatGPT, Gemini et Claude, et leur pronostic pour la finale va vous surprendre... Les Nums, l' Update. sponsorisé. #04 avec...",
-      "excerpt": "Coupe du monde: on a opposé ChatGPT, Gemini et Claude, et leur pronostic pour la finale va vous surprendre... Les Nums, l' Update. sponsorisé. #04 avec...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
