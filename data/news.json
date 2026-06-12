@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T14:35:40.245Z",
+  "generatedAt": "2026-06-12T19:53:35.290Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "L'opposition des Américains aux data centers semble de plus en plus forte, c'est parce qu'ils...",
+      "link": "https://www.bfmtv.com/tech/cybersecurite/l-opposition-des-americains-aux-data-centers-semble-de-plus-en-plus-forte-c-est-parce-qu-ils-ont-ete-manipules-par-la-chine-explique-open-ai_AN-202606120656.html",
+      "url": "https://www.bfmtv.com/tech/cybersecurite/l-opposition-des-americains-aux-data-centers-semble-de-plus-en-plus-forte-c-est-parce-qu-ils-ont-ete-manipules-par-la-chine-explique-open-ai_AN-202606120656.html",
+      "publishedAt": "2026-06-12T15:09:32.000Z",
+      "date": "2026-06-12T15:09:32.000Z",
+      "description": "Selon OpenAI, la Chine aurait utilisé le chatbot développé par l'entreprise, ChatGPT... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides...",
+      "excerpt": "Selon OpenAI, la Chine aurait utilisé le chatbot développé par l'entreprise, ChatGPT... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Voici pourquoi vous ne devriez pas choisir une clinique esthétique avec l'IA - Numerama",
+      "link": "https://www.numerama.com/tech/2274105-voici-pourquoi-vous-ne-devriez-pas-choisir-une-clinique-esthetique-avec-une-ia.html",
+      "url": "https://www.numerama.com/tech/2274105-voici-pourquoi-vous-ne-devriez-pas-choisir-une-clinique-esthetique-avec-une-ia.html",
+      "publishedAt": "2026-06-12T14:17:34.000Z",
+      "date": "2026-06-12T14:17:34.000Z",
+      "description": "Une étude de l'Observatoire de la visibilité IA publiée en juin 2026 a passé au crible 6 438 sources citées par ChatGPT... The Social Reckoning...",
+      "excerpt": "Une étude de l'Observatoire de la visibilité IA publiée en juin 2026 a passé au crible 6 438 sources citées par ChatGPT... The Social Reckoning...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Fable 5, GPT-5 et la gouvernance des modèles: ce que la controverse Anthropic dit aux...",
       "link": "https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-articles/fable-5-gpt-5-et-la-gouvernance-des-modeles-ce-que-la-controverse-anthropic-dit-aux-directions-informatiques/",
@@ -47,6 +67,16 @@
       "date": "2026-06-12T09:39:58.000Z",
       "description": "ChatGPT peut désormais chercher des images sur le web: quels cas d... cybersécurité, je suis un professionnel de nature discrète qui n'aime...",
       "excerpt": "ChatGPT peut désormais chercher des images sur le web: quels cas d... cybersécurité, je suis un professionnel de nature discrète qui n'aime...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT aide une femme suicidaire à en finir, sa mère attaque OpenAI - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/chatgpt-aide-une-femme-suicidaire-a-en-finir-sa-mere-attaque-openai",
+      "url": "https://www.lebigdata.fr/chatgpt-aide-une-femme-suicidaire-a-en-finir-sa-mere-attaque-openai",
+      "publishedAt": "2026-06-12T09:32:35.000Z",
+      "date": "2026-06-12T09:32:35.000Z",
+      "description": "Encore une fois, OpenAI est souillée dans une affaire sensible à cause de ChatGPT. Une mère canadienne vient de déposer une plainte.",
+      "excerpt": "Encore une fois, OpenAI est souillée dans une affaire sensible à cause de ChatGPT. Une mère canadienne vient de déposer une plainte.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -98,36 +128,6 @@
       "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Tous publics. Le Tech Flash: OpenAI lance \"Traduire avec ChatGPT \", par Léa...",
       "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Tous publics. Le Tech Flash: OpenAI lance \"Traduire avec ChatGPT \", par Léa...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Lifesight Launches MCP to Bring Unified Marketing Measurement Directly Into Claude and ChatGPT",
-      "link": "https://www.newsfilecorp.com/release/300944/Lifesight-Launches-MCP-to-Bring-Unified-Marketing-Measurement-Directly-Into-Claude-and-ChatGPT?lang=fr",
-      "url": "https://www.newsfilecorp.com/release/300944/Lifesight-Launches-MCP-to-Bring-Unified-Marketing-Measurement-Directly-Into-Claude-and-ChatGPT?lang=fr",
-      "publishedAt": "2026-06-11T22:20:08.000Z",
-      "date": "2026-06-11T22:20:08.000Z",
-      "description": "... ChatGPT (Custom Connectors) with... To view the source version of this press release, please visit https://www.newsfilecorp.com/ release /300944.",
-      "excerpt": "... ChatGPT (Custom Connectors) with... To view the source version of this press release, please visit https://www.newsfilecorp.com/ release /300944.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI baisse ses prix: ChatGPT va coûter moins cher - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/372231/openai-baisse-prix-chatgpt/",
-      "url": "https://www.blog-nouvelles-technologies.fr/372231/openai-baisse-prix-chatgpt/",
-      "publishedAt": "2026-06-11T18:55:17.000Z",
-      "date": "2026-06-11T18:55:17.000Z",
-      "description": "Bonne nouvelle! OpenAI prépare une baisse de prix magique pour ChatGPT. Découvrez l'astuce de luxe pour réduire votre budget IA. Cliquez vite!",
-      "excerpt": "Bonne nouvelle! OpenAI prépare une baisse de prix magique pour ChatGPT. Découvrez l'astuce de luxe pour réduire votre budget IA. Cliquez vite!",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Des messages anti-IA générés avec ChatGPT: OpenAI pointe la Chine du doigt | Brief IA",
-      "link": "https://www.briefia.fr/article/des-messages-anti-ia-generes-avec-chatgpt-openai-pointe-la-chine-du-doigt",
-      "url": "https://www.briefia.fr/article/des-messages-anti-ia-generes-avec-chatgpt-openai-pointe-la-chine-du-doigt",
-      "publishedAt": "2026-06-11T18:09:46.000Z",
-      "date": "2026-06-11T18:09:46.000Z",
-      "description": "OpenAI a banni deux groupes de comptes ChatGPT basés en Chine pour avoir diffusé des messages anti-IA. • Ces groupes ont opéré de fin 2025 à début...",
-      "excerpt": "OpenAI a banni deux groupes de comptes ChatGPT basés en Chine pour avoir diffusé des messages anti-IA. • Ces groupes ont opéré de fin 2025 à début...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
