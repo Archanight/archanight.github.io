@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T02:38:55.032Z",
+  "generatedAt": "2026-06-12T09:56:45.863Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Une mère poursuit OpenAI, affirmant que ChatGPT a encouragé le suicide de sa fille",
+      "link": "https://www.zonebourse.com/actualite-bourse/une-mere-poursuit-openai-affirmant-que-chatgpt-a-encourage-le-suicide-de-sa-fille-ce7f5cd8db81fe22",
+      "url": "https://www.zonebourse.com/actualite-bourse/une-mere-poursuit-openai-affirmant-que-chatgpt-a-encourage-le-suicide-de-sa-fille-ce7f5cd8db81fe22",
+      "publishedAt": "2026-06-12T07:27:16.000Z",
+      "date": "2026-06-12T07:27:16.000Z",
+      "description": "... ChatGPT a encouragé sa fille à se suicider. Il s'agit de... -Le 11... Cybersécurité · Basket-ball Américain · L'Etat Actionnaire · Jeux vidéo et...",
+      "excerpt": "... ChatGPT a encouragé sa fille à se suicider. Il s'agit de... -Le 11... Cybersécurité · Basket-ball Américain · L'Etat Actionnaire · Jeux vidéo et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "« Elle ne comprend pas nécessairement ce qu'il y a derrière un échange »: pourquoi l'IA ne...",
+      "link": "https://www.lesechos.fr/tech-medias/intelligence-artificielle/elle-ne-comprend-pas-necessairement-ce-quil-y-a-derriere-un-echange-pourquoi-lia-ne-va-pas-tout-de-suite-remplacer-les-humains-2236472",
+      "url": "https://www.lesechos.fr/tech-medias/intelligence-artificielle/elle-ne-comprend-pas-necessairement-ce-quil-y-a-derriere-un-echange-pourquoi-lia-ne-va-pas-tout-de-suite-remplacer-les-humains-2236472",
+      "publishedAt": "2026-06-12T05:04:59.000Z",
+      "date": "2026-06-12T05:04:59.000Z",
+      "description": "Cybersécurité · Intelligence... Nourdine Bihmane dénonce également le discours alarmiste autour de l'IA depuis l'arrivée de ChatGPT fin 2022.",
+      "excerpt": "Cybersécurité · Intelligence... Nourdine Bihmane dénonce également le discours alarmiste autour de l'IA depuis l'arrivée de ChatGPT fin 2022.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le Tech Flash: OpenAI va casser ses prix, par Léa Benaim - 11/06: Actualités - Orange",
+      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-openai-va-casser-ses-prix-par-lea-benaim-11-06-CNT000002pUJwF.html",
+      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-openai-va-casser-ses-prix-par-lea-benaim-11-06-CNT000002pUJwF.html",
+      "publishedAt": "2026-06-12T00:58:30.000Z",
+      "date": "2026-06-12T00:58:30.000Z",
+      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Tous publics. Le Tech Flash: OpenAI lance \"Traduire avec ChatGPT \", par Léa...",
+      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Tous publics. Le Tech Flash: OpenAI lance \"Traduire avec ChatGPT \", par Léa...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Lifesight Launches MCP to Bring Unified Marketing Measurement Directly Into Claude and ChatGPT",
       "link": "https://www.newsfilecorp.com/release/300944/Lifesight-Launches-MCP-to-Bring-Unified-Marketing-Measurement-Directly-Into-Claude-and-ChatGPT?lang=fr",
@@ -98,36 +128,6 @@
       "description": "Cockpyt AI relie les données de visibilité IA aux visites réelles issues de ChatGPT, Perplexity, Gemini et Grok via Google Analytics 4. 🛠️ Philosophie...",
       "excerpt": "Cockpyt AI relie les données de visibilité IA aux visites réelles issues de ChatGPT, Perplexity, Gemini et Grok via Google Analytics 4. 🛠️ Philosophie...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "IA: une semaine après Anthropic, OpenAI dépose son projet d'introduction en Bourse - AOL",
-      "link": "https://www.aol.com/articles/ia-openai-balise-chemin-wall-000516000.html",
-      "url": "https://www.aol.com/articles/ia-openai-balise-chemin-wall-000516000.html",
-      "publishedAt": "2026-06-11T14:37:40.000Z",
-      "date": "2026-06-11T14:37:40.000Z",
-      "description": "Founded a decade ago, OpenAI kicked off the modern AI boom with the release of ChatGPT in 2022. The chatbot, capable of conversing in natural language...",
-      "excerpt": "Founded a decade ago, OpenAI kicked off the modern AI boom with the release of ChatGPT in 2022. The chatbot, capable of conversing in natural language...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT Visa: l'IA magique qui paye vos achats - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/372228/chatgpt-visa-achat-ia-shopping/",
-      "url": "https://www.blog-nouvelles-technologies.fr/372228/chatgpt-visa-achat-ia-shopping/",
-      "publishedAt": "2026-06-11T14:35:45.000Z",
-      "date": "2026-06-11T14:35:45.000Z",
-      "description": "OpenAI et Visa préparent les achats autonomes via ChatGPT: vers une nouvelle ère du commerce IA... ChatGPT veut passer du conseil à l'action.",
-      "excerpt": "OpenAI et Visa préparent les achats autonomes via ChatGPT: vers une nouvelle ère du commerce IA... ChatGPT veut passer du conseil à l'action.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Pour reprendre des parts de marché à Anthropic, OpenAI pourrait faire chuter les tarifs de ChatGPT",
-      "link": "https://www.clubic.com/actualite-616471-pour-reprendre-des-parts-de-marche-a-anthropic-openai-pourrait-faire-chuter-les-tarifs-de-chatgpt.html",
-      "url": "https://www.clubic.com/actualite-616471-pour-reprendre-des-parts-de-marche-a-anthropic-openai-pourrait-faire-chuter-les-tarifs-de-chatgpt.html",
-      "publishedAt": "2026-06-11T14:28:45.000Z",
-      "date": "2026-06-11T14:28:45.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN gratuit android · Meilleur antivirus · Antivirus gratuit · Antivirus Mac. Top...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN gratuit android · Meilleur antivirus · Antivirus gratuit · Antivirus Mac. Top...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
