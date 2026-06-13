@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T08:47:05.472Z",
+  "generatedAt": "2026-06-13T13:26:34.782Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT: OpenAI revoit le choix des modèles en six niveaux - Stéphane Larue",
+      "link": "https://stephanelarue.com/chatgpt-openai-revoit-le-choix-des-modeles-en-six-niveaux/",
+      "url": "https://stephanelarue.com/chatgpt-openai-revoit-le-choix-des-modeles-en-six-niveaux/",
+      "publishedAt": "2026-06-13T12:42:46.000Z",
+      "date": "2026-06-13T12:42:46.000Z",
+      "description": "Le changement a été activé le 10 juin, selon les notes de version publiées par l'éditeur. Il remplace le système en place depuis le milieu de l...",
+      "excerpt": "Le changement a été activé le 10 juin, selon les notes de version publiées par l'éditeur. Il remplace le système en place depuis le milieu de l...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Enquête de plusieurs États américains sur OpenAI et l'utilisation de ChatGPT",
+      "link": "https://www.tvanouvelles.ca/2026/06/12/enquete-de-plusieurs-etats-americains-sur-openai-et-lutilisation-de-chatgpt",
+      "url": "https://www.tvanouvelles.ca/2026/06/12/enquete-de-plusieurs-etats-americains-sur-openai-et-lutilisation-de-chatgpt",
+      "publishedAt": "2026-06-13T08:36:55.000Z",
+      "date": "2026-06-13T08:36:55.000Z",
+      "description": "Selon le Wall Street Journal, la requête concerne des données sur les utilisateurs de son interface d'intelligence artificielle (IA), ChatGPT, en...",
+      "excerpt": "Selon le Wall Street Journal, la requête concerne des données sur les utilisateurs de son interface d'intelligence artificielle (IA), ChatGPT, en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Enquête de plusieurs Etats américains sur OpenAI et l'utilisation de ChatGPT - LaLibre.be",
       "link": "https://www.lalibre.be/economie/digital/2026/06/13/enquete-de-plusieurs-etats-americains-sur-openai-et-lutilisation-de-chatgpt-lia-est-une-technologie-nouvelle-et-puissante-GJZ4KI7WCJBVFPYIRI2MFQEYV4/",
@@ -107,26 +127,6 @@
       "date": "2026-06-12T11:13:25.000Z",
       "description": "... ChatGPT. \"Il m'a dit: 'quand le carburant flambe, le consommateur se... Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +...",
       "excerpt": "... ChatGPT. \"Il m'a dit: 'quand le carburant flambe, le consommateur se... Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT peut désormais chercher des images sur le web: quels cas d'usages concrets...",
-      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/chatgpt-recherche-images-web-cas-usages-pros-90645/",
-      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/chatgpt-recherche-images-web-cas-usages-pros-90645/",
-      "publishedAt": "2026-06-12T09:39:58.000Z",
-      "date": "2026-06-12T09:39:58.000Z",
-      "description": "ChatGPT peut désormais chercher des images sur le web: quels cas d... cybersécurité, je suis un professionnel de nature discrète qui n'aime...",
-      "excerpt": "ChatGPT peut désormais chercher des images sur le web: quels cas d... cybersécurité, je suis un professionnel de nature discrète qui n'aime...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT aide une femme suicidaire à en finir, sa mère attaque OpenAI - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/chatgpt-aide-une-femme-suicidaire-a-en-finir-sa-mere-attaque-openai",
-      "url": "https://www.lebigdata.fr/chatgpt-aide-une-femme-suicidaire-a-en-finir-sa-mere-attaque-openai",
-      "publishedAt": "2026-06-12T09:32:35.000Z",
-      "date": "2026-06-12T09:32:35.000Z",
-      "description": "Encore une fois, OpenAI est souillée dans une affaire sensible à cause de ChatGPT. Une mère canadienne vient de déposer une plainte.",
-      "excerpt": "Encore une fois, OpenAI est souillée dans une affaire sensible à cause de ChatGPT. Une mère canadienne vient de déposer une plainte.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
