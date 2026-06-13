@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T02:31:47.362Z",
+  "generatedAt": "2026-06-13T08:47:05.472Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Enquête de plusieurs Etats américains sur OpenAI et l'utilisation de ChatGPT - LaLibre.be",
+      "link": "https://www.lalibre.be/economie/digital/2026/06/13/enquete-de-plusieurs-etats-americains-sur-openai-et-lutilisation-de-chatgpt-lia-est-une-technologie-nouvelle-et-puissante-GJZ4KI7WCJBVFPYIRI2MFQEYV4/",
+      "url": "https://www.lalibre.be/economie/digital/2026/06/13/enquete-de-plusieurs-etats-americains-sur-openai-et-lutilisation-de-chatgpt-lia-est-une-technologie-nouvelle-et-puissante-GJZ4KI7WCJBVFPYIRI2MFQEYV4/",
+      "publishedAt": "2026-06-13T06:26:28.000Z",
+      "date": "2026-06-13T06:26:28.000Z",
+      "description": "Enquête de plusieurs Etats américains sur OpenAI et l'utilisation de ChatGPT: \"L'IA est une technologie nouvelle et puissante\"... cybersécurité et les...",
+      "excerpt": "Enquête de plusieurs Etats américains sur OpenAI et l'utilisation de ChatGPT: \"L'IA est une technologie nouvelle et puissante\"... cybersécurité et les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI visé par une enquête de plusieurs États sur l'utilisation de ChatGPT - Le Figaro",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/openai-vise-par-une-enquete-de-plusieurs-etats-sur-l-utilisation-de-chatgpt-20260613",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/openai-vise-par-une-enquete-de-plusieurs-etats-sur-l-utilisation-de-chatgpt-20260613",
+      "publishedAt": "2026-06-13T02:43:37.000Z",
+      "date": "2026-06-13T02:43:37.000Z",
+      "description": "Selon le Wall Street Journal, la requête concerne des données sur les utilisateurs de son interface d'intelligence artificielle (IA) ChatGPT,...",
+      "excerpt": "Selon le Wall Street Journal, la requête concerne des données sur les utilisateurs de son interface d'intelligence artificielle (IA) ChatGPT,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Google sous pression: René Mayrhofer démissionne en dénonçant les contrats militaires",
+      "link": "https://les-smartgrids.fr/google-demission-contrats-militaires/",
+      "url": "https://les-smartgrids.fr/google-demission-contrats-militaires/",
+      "publishedAt": "2026-06-13T01:20:11.000Z",
+      "date": "2026-06-13T01:20:11.000Z",
+      "description": "Pour ce spécialiste de la cybersécurité, Android représentait « l'un des projets technologiques les plus passionnants au monde » au sein d'une...",
+      "excerpt": "Pour ce spécialiste de la cybersécurité, Android représentait « l'un des projets technologiques les plus passionnants au monde » au sein d'une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT atteint 1 milliard d'utilisateurs alors que l'adoption mondiale de l'IA augmente...",
       "link": "https://fr.dataconomy.com/2026/06/12/chatgpt-atteint-1-milliard-dutilisateurs-alors-que-ladoption-mondiale-de-lia-augmente-malgre-les-reactions-negatives/",
@@ -97,36 +127,6 @@
       "date": "2026-06-12T09:32:35.000Z",
       "description": "Encore une fois, OpenAI est souillée dans une affaire sensible à cause de ChatGPT. Une mère canadienne vient de déposer une plainte.",
       "excerpt": "Encore une fois, OpenAI est souillée dans une affaire sensible à cause de ChatGPT. Une mère canadienne vient de déposer une plainte.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6 pourrait arriver ce mois-ci alors qu'OpenAI se prépare pour Wall Street",
-      "link": "https://yellow.com/fr/news/gpt-56-pourrait-arriver-ce-mois-ci-alors-qu%E2%80%99openai-se-pr%C3%A9pare-pour-wall-street",
-      "url": "https://yellow.com/fr/news/gpt-56-pourrait-arriver-ce-mois-ci-alors-qu%E2%80%99openai-se-pr%C3%A9pare-pour-wall-street",
-      "publishedAt": "2026-06-12T08:41:16.000Z",
-      "date": "2026-06-12T08:41:16.000Z",
-      "description": "Un nouveau modèle phare pourrait être lancé dans les...",
-      "excerpt": "Un nouveau modèle phare pourrait être lancé dans les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Anthropic reconnaît un mauvais arbitrage sur les garde-fous invisibles de Fable 5 - it social",
-      "link": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/anthropic-reconnait-un-mauvais-arbitrage-sur-les-garde-fous-invisibles-de-claude-fable-5/",
-      "url": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/anthropic-reconnait-un-mauvais-arbitrage-sur-les-garde-fous-invisibles-de-claude-fable-5/",
-      "publishedAt": "2026-06-12T08:40:22.000Z",
-      "date": "2026-06-12T08:40:22.000Z",
-      "description": "Le routage de sécurité, un standard depuis GPT-5. L'aiguillage d'une... cybersécurité informatique | automatisation des processus | internet 5G | cloud...",
-      "excerpt": "Le routage de sécurité, un standard depuis GPT-5. L'aiguillage d'une... cybersécurité informatique | automatisation des processus | internet 5G | cloud...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Une mère poursuit OpenAI, affirmant que ChatGPT a encouragé le suicide de sa fille",
-      "link": "https://www.zonebourse.com/actualite-bourse/une-mere-poursuit-openai-affirmant-que-chatgpt-a-encourage-le-suicide-de-sa-fille-ce7f5cd8db81fe22",
-      "url": "https://www.zonebourse.com/actualite-bourse/une-mere-poursuit-openai-affirmant-que-chatgpt-a-encourage-le-suicide-de-sa-fille-ce7f5cd8db81fe22",
-      "publishedAt": "2026-06-12T07:27:16.000Z",
-      "date": "2026-06-12T07:27:16.000Z",
-      "description": "... ChatGPT a encouragé sa fille à se suicider. Il s'agit de... -Le 11... Cybersécurité · Basket-ball Américain · L'Etat Actionnaire · Jeux vidéo et...",
-      "excerpt": "... ChatGPT a encouragé sa fille à se suicider. Il s'agit de... -Le 11... Cybersécurité · Basket-ball Américain · L'Etat Actionnaire · Jeux vidéo et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
