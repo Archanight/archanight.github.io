@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T19:08:41.468Z",
+  "generatedAt": "2026-06-14T02:43:19.244Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT continue de faire face à des pressions juridiques aux États-Unis. - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/chatgpt-tiep-tuc-doi-mat-ap-luc-phap-ly-tai-my",
+      "url": "https://www.vietnam.vn/fr/chatgpt-tiep-tuc-doi-mat-ap-luc-phap-ly-tai-my",
+      "publishedAt": "2026-06-14T02:10:55.000Z",
+      "date": "2026-06-14T02:10:55.000Z",
+      "description": "VTV.vn - Des États américains demandent à OpenAI de fournir davantage d'informations sur le fonctionnement de ChatGPT et les mesures de protection...",
+      "excerpt": "VTV.vn - Des États américains demandent à OpenAI de fournir davantage d'informations sur le fonctionnement de ChatGPT et les mesures de protection...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT: OpenAI revoit le choix des modèles en six niveaux - Stéphane Larue",
       "link": "https://stephanelarue.com/chatgpt-openai-revoit-le-choix-des-modeles-en-six-niveaux/",
@@ -70,6 +80,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Google poursuit un réseau chinois de phishing utilisant l'IA, tandis que le FBI saisit... - Cryptopolitan",
+      "link": "https://www.cryptopolitan.com/fr/google-sues-chinese-ai-phishing-ring-outsider-enterprise/",
+      "url": "https://www.cryptopolitan.com/fr/google-sues-chinese-ai-phishing-ring-outsider-enterprise/",
+      "publishedAt": "2026-06-13T05:36:51.000Z",
+      "date": "2026-06-13T05:36:51.000Z",
+      "description": "chat gpt. 5 applications ingénieuses de ChatGPT et ce que vous devriez en faire. Il y a 3 ans, John Palmer, technicien. solutions basées sur l'IA...",
+      "excerpt": "chat gpt. 5 applications ingénieuses de ChatGPT et ce que vous devriez en faire. Il y a 3 ans, John Palmer, technicien. solutions basées sur l'IA...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
       "title": "OpenAI visé par une enquête de plusieurs États sur l'utilisation de ChatGPT - Le Figaro",
       "link": "https://www.lefigaro.fr/secteur/high-tech/openai-vise-par-une-enquete-de-plusieurs-etats-sur-l-utilisation-de-chatgpt-20260613",
       "url": "https://www.lefigaro.fr/secteur/high-tech/openai-vise-par-une-enquete-de-plusieurs-etats-sur-l-utilisation-de-chatgpt-20260613",
@@ -108,26 +128,6 @@
       "description": "Fini les blocages sur ChatGPT Codex! Découvrez l'astuce magique d'OpenAI pour recharger vos limites et booster votre confort quotidien.",
       "excerpt": "Fini les blocages sur ChatGPT Codex! Découvrez l'astuce magique d'OpenAI pour recharger vos limites et booster votre confort quotidien.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "L'opposition des Américains aux data centers semble de plus en plus forte, c'est parce qu'ils...",
-      "link": "https://www.bfmtv.com/tech/cybersecurite/l-opposition-des-americains-aux-data-centers-semble-de-plus-en-plus-forte-c-est-parce-qu-ils-ont-ete-manipules-par-la-chine-explique-open-ai_AN-202606120656.html",
-      "url": "https://www.bfmtv.com/tech/cybersecurite/l-opposition-des-americains-aux-data-centers-semble-de-plus-en-plus-forte-c-est-parce-qu-ils-ont-ete-manipules-par-la-chine-explique-open-ai_AN-202606120656.html",
-      "publishedAt": "2026-06-12T15:09:32.000Z",
-      "date": "2026-06-12T15:09:32.000Z",
-      "description": "Selon OpenAI, la Chine aurait utilisé le chatbot développé par l'entreprise, ChatGPT... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides...",
-      "excerpt": "Selon OpenAI, la Chine aurait utilisé le chatbot développé par l'entreprise, ChatGPT... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Voici pourquoi vous ne devriez pas choisir une clinique esthétique avec l'IA - Numerama",
-      "link": "https://www.numerama.com/tech/2274105-voici-pourquoi-vous-ne-devriez-pas-choisir-une-clinique-esthetique-avec-une-ia.html",
-      "url": "https://www.numerama.com/tech/2274105-voici-pourquoi-vous-ne-devriez-pas-choisir-une-clinique-esthetique-avec-une-ia.html",
-      "publishedAt": "2026-06-12T14:17:34.000Z",
-      "date": "2026-06-12T14:17:34.000Z",
-      "description": "Une étude de l'Observatoire de la visibilité IA publiée en juin 2026 a passé au crible 6 438 sources citées par ChatGPT... The Social Reckoning...",
-      "excerpt": "Une étude de l'Observatoire de la visibilité IA publiée en juin 2026 a passé au crible 6 438 sources citées par ChatGPT... The Social Reckoning...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
