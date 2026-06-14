@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T13:29:13.457Z",
+  "generatedAt": "2026-06-14T19:09:32.347Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT consomme plus d'eau que vous ne l'imaginez, les chiffres sont inquiétants",
+      "link": "https://www.phonandroid.com/chatgpt-consomme-plus-deau-que-vous-ne-limaginez-les-chiffres-sont-inquietants.html",
+      "url": "https://www.phonandroid.com/chatgpt-consomme-plus-deau-que-vous-ne-limaginez-les-chiffres-sont-inquietants.html",
+      "publishedAt": "2026-06-14T15:10:25.000Z",
+      "date": "2026-06-14T15:10:25.000Z",
+      "description": "L'intelligence artificielle ne consomme pas que de l'énergie. En effet, une IA telle que ChatGPT consomme de l'eau. Beaucoup d... Cybersécurité · eSIM...",
+      "excerpt": "L'intelligence artificielle ne consomme pas que de l'énergie. En effet, une IA telle que ChatGPT consomme de l'eau. Beaucoup d... Cybersécurité · eSIM...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Voici pourquoi ChatGPT et les autres IA sont encore très loin du cerveau humain",
       "link": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-voici-chatgpt-autres-ia-sont-encore-tres-loin-cerveau-humain-135337/",
@@ -118,16 +128,6 @@
       "description": "Enquête de plusieurs Etats américains sur OpenAI et l'utilisation de ChatGPT: \"L'IA est une technologie nouvelle et puissante\"... cybersécurité et les...",
       "excerpt": "Enquête de plusieurs Etats américains sur OpenAI et l'utilisation de ChatGPT: \"L'IA est une technologie nouvelle et puissante\"... cybersécurité et les...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google poursuit un réseau chinois de phishing utilisant l'IA, tandis que le FBI saisit... - Cryptopolitan",
-      "link": "https://www.cryptopolitan.com/fr/google-sues-chinese-ai-phishing-ring-outsider-enterprise/",
-      "url": "https://www.cryptopolitan.com/fr/google-sues-chinese-ai-phishing-ring-outsider-enterprise/",
-      "publishedAt": "2026-06-13T05:36:51.000Z",
-      "date": "2026-06-13T05:36:51.000Z",
-      "description": "chat gpt. 5 applications ingénieuses de ChatGPT et ce que vous devriez en faire. Il y a 3 ans, John Palmer, technicien. solutions basées sur l'IA...",
-      "excerpt": "chat gpt. 5 applications ingénieuses de ChatGPT et ce que vous devriez en faire. Il y a 3 ans, John Palmer, technicien. solutions basées sur l'IA...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     }
   ]
 }
