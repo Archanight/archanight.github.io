@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T16:59:04.050Z",
+  "generatedAt": "2026-06-15T20:45:26.443Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Il découvre une faille dangereuse mais AMD refuse de le récompenser - Toms Guide",
+      "link": "https://www.tomsguide.fr/il-decouvre-une-faille-dangereuse-mais-amd-refuse-de-le-recompenser/",
+      "url": "https://www.tomsguide.fr/il-decouvre-une-faille-dangereuse-mais-amd-refuse-de-le-recompenser/",
+      "publishedAt": "2026-06-15T17:06:20.000Z",
+      "date": "2026-06-15T17:06:20.000Z",
+      "description": "Un chercheur en cybersécurité a découvert une faille critique dans un... ChatGPT pourrait bientôt coûter beaucoup moins cher. 11 juin 2026 15...",
+      "excerpt": "Un chercheur en cybersécurité a découvert une faille critique dans un... ChatGPT pourrait bientôt coûter beaucoup moins cher. 11 juin 2026 15...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "cette fonctionnalité qu'Apple n'a pas précisé à la WWDC devrait pourtant bien arriver avec iOS 27",
       "link": "https://www.clubic.com/actualite-617026-siri-cette-fonctionnalite-qu-apple-n-a-pas-precise-a-la-wwdc-devrait-pourtant-bien-arriver-avec-ios-27.html",
@@ -117,16 +127,6 @@
       "date": "2026-06-15T09:12:58.000Z",
       "description": "... Siri. Contrairement à l'intégration actuelle de ChatGPT, négociée spécifiquement entre Apple et OpenAI, ce nouveau système reposerait sur une API...",
       "excerpt": "... Siri. Contrairement à l'intégration actuelle de ChatGPT, négociée spécifiquement entre Apple et OpenAI, ce nouveau système reposerait sur une API...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Repenser le SEO B2B à l'ère de l'IA: l'importance stratégique de la perception - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/seo-b2b-cyril-bladier",
-      "url": "https://www.lebigdata.fr/seo-b2b-cyril-bladier",
-      "publishedAt": "2026-06-15T09:08:30.000Z",
-      "date": "2026-06-15T09:08:30.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... L'avènement des intelligences artificielles génératives (IAG) telles que ChatGPT, Gemini ou Perplexity ne se...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... L'avènement des intelligences artificielles génératives (IAG) telles que ChatGPT, Gemini ou Perplexity ne se...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
