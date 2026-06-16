@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T02:50:00.536Z",
+  "generatedAt": "2026-06-16T10:54:22.565Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT accusé de mettre les utilisateurs en danger, 42 États américains attaquent OpenAI",
+      "link": "https://siecledigital.fr/2026/06/16/chatgpt-accuse-de-mettre-les-utilisateurs-en-danger-42-etats-americains-attaquent-openai/",
+      "url": "https://siecledigital.fr/2026/06/16/chatgpt-accuse-de-mettre-les-utilisateurs-en-danger-42-etats-americains-attaquent-openai/",
+      "publishedAt": "2026-06-16T09:19:43.000Z",
+      "date": "2026-06-16T09:19:43.000Z",
+      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT accusé de...",
+      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT accusé de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Yogosha a finalement trouvé son repreneur - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/yogosha-a-finalement-trouve-son-repreneur-496938.htm",
+      "url": "https://www.zdnet.fr/actualites/yogosha-a-finalement-trouve-son-repreneur-496938.htm",
+      "publishedAt": "2026-06-16T07:48:02.000Z",
+      "date": "2026-06-16T07:48:02.000Z",
+      "description": "... Devops. Le groupe Creative revendique environ 300 salariés en France et 30 millions d'euro de chiffre d'affaire. Récemment, le groupe a acquis...",
+      "excerpt": "... Devops. Le groupe Creative revendique environ 300 salariés en France et 30 millions d'euro de chiffre d'affaire. Récemment, le groupe a acquis...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Elon Musk essuie un nouveau revers judiciaire face à OpenAI: la plainte déposée par xAI rejetée",
+      "link": "https://www.zdnet.fr/actualites/elon-musk-essuie-un-nouveau-revers-judiciaire-face-a-openai-la-plainte-deposee-par-xai-rejetee-496944.htm",
+      "url": "https://www.zdnet.fr/actualites/elon-musk-essuie-un-nouveau-revers-judiciaire-face-a-openai-la-plainte-deposee-par-xai-rejetee-496944.htm",
+      "publishedAt": "2026-06-16T06:01:20.000Z",
+      "date": "2026-06-16T06:01:20.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Créatrices d'Avenir: un nouveau club dédié aux femmes entrepreneures - Big média",
+      "link": "https://bigmedia.bpifrance.fr/nos-actualites/creatrices-davenir-un-nouveau-club-dedie-aux-femmes-entrepreneures",
+      "url": "https://bigmedia.bpifrance.fr/nos-actualites/creatrices-davenir-un-nouveau-club-dedie-aux-femmes-entrepreneures",
+      "publishedAt": "2026-06-16T05:05:18.000Z",
+      "date": "2026-06-16T05:05:18.000Z",
+      "description": "Cybersécurité, défense: le programme de Big média à VivaTech · Climat... logo ChatGPT · logo Perplexity · logo Claude. Creatrices d'avenir ©. Alors...",
+      "excerpt": "Cybersécurité, défense: le programme de Big média à VivaTech · Climat... logo ChatGPT · logo Perplexity · logo Claude. Creatrices d'avenir ©. Alors...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "92 000 attaques utilisant de faux services d'IA diffusent 15 000 échantillons de logiciels malveillants",
       "link": "https://b2b-cyber-security.de/fr/92-000-attaques-utilisant-de-faux-services-d%27IA-distribuent-15-000-%C3%A9chantillons-de-logiciels-malveillants/",
@@ -88,46 +128,6 @@
       "description": "Cybersécurité · El Niño · SpaceX · Coupe du monde de football · Météo · Disclosure Day · Accueil · tech · questions-reponses · ChatGPT: comment...",
       "excerpt": "Cybersécurité · El Niño · SpaceX · Coupe du monde de football · Météo · Disclosure Day · Accueil · tech · questions-reponses · ChatGPT: comment...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le courtier April veut faire de ChatGPT un nouveau canal de distribution pour l'assurance",
-      "link": "https://www.larevuedudigital.com/le-courtier-april-veut-faire-de-chatgpt-un-nouveau-canal-de-distribution-pour-lassurance/",
-      "url": "https://www.larevuedudigital.com/le-courtier-april-veut-faire-de-chatgpt-un-nouveau-canal-de-distribution-pour-lassurance/",
-      "publishedAt": "2026-06-15T11:49:55.000Z",
-      "date": "2026-06-15T11:49:55.000Z",
-      "description": "... Social. Informatique. DSI · Sécurité · IT · Internet des objets · Intelligence artificielle · Big Data · Projet Agilité · Projet Devops · Web Design.",
-      "excerpt": "... Social. Informatique. DSI · Sécurité · IT · Internet des objets · Intelligence artificielle · Big Data · Projet Agilité · Projet Devops · Web Design.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "April vend de l'assurance dans ChatGPT, la conversation devient un canal de distribution",
-      "link": "https://itsocial.fr/metiers/metiers-actualites/april-vend-de-lassurance-dans-chatgpt-la-conversation-devient-un-canal-de-distribution/",
-      "url": "https://itsocial.fr/metiers/metiers-actualites/april-vend-de-lassurance-dans-chatgpt-la-conversation-devient-un-canal-de-distribution/",
-      "publishedAt": "2026-06-15T10:26:07.000Z",
-      "date": "2026-06-15T10:26:07.000Z",
-      "description": "Fable 5, GPT-5 et la gouvernance des modèles: ce que...... cybersécurité informatique | automatisation des processus | internet 5G | cloud...",
-      "excerpt": "Fable 5, GPT-5 et la gouvernance des modèles: ce que...... cybersécurité informatique | automatisation des processus | internet 5G | cloud...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Voici pourquoi votre cerveau n'aimerait pas du tout que vous abusiez de ChatGPT",
-      "link": "https://www.phonandroid.com/voici-pourquoi-votre-cerveau-naimerait-pas-du-tout-que-vous-abusiez-de-chatgpt.html",
-      "url": "https://www.phonandroid.com/voici-pourquoi-votre-cerveau-naimerait-pas-du-tout-que-vous-abusiez-de-chatgpt.html",
-      "publishedAt": "2026-06-15T10:18:12.000Z",
-      "date": "2026-06-15T10:18:12.000Z",
-      "description": "Les images recueillies montrent un effet inattendu sur certaines fonctions mentales. ChatGPT. Crédits: Adobe Stock. Les assistants conversationnels...",
-      "excerpt": "Les images recueillies montrent un effet inattendu sur certaines fonctions mentales. ChatGPT. Crédits: Adobe Stock. Les assistants conversationnels...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "iOS 27: Siri pourrait enfin s'ouvrir à ChatGPT, Gemini et Claude - Menow",
-      "link": "https://www.menow.fr/ios-27-siri-pourrait-enfin-souvrir-a-chatgpt-gemini-et-claude/",
-      "url": "https://www.menow.fr/ios-27-siri-pourrait-enfin-souvrir-a-chatgpt-gemini-et-claude/",
-      "publishedAt": "2026-06-15T09:22:12.000Z",
-      "date": "2026-06-15T09:22:12.000Z",
-      "description": "Avec iOS 27, les chatbots tiers pourraient passer par les Extensions API. Cette solution permettrait à des services comme ChatGPT, Gemini ou Claude d'...",
-      "excerpt": "Avec iOS 27, les chatbots tiers pourraient passer par les Extensions API. Cette solution permettrait à des services comme ChatGPT, Gemini ou Claude d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
