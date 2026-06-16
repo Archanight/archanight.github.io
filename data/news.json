@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T16:24:34.803Z",
+  "generatedAt": "2026-06-16T20:39:11.128Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le pied sur l'accélérateur vers Wall Street, OpenAI et Anthropic parlent de freiner l'IA",
+      "link": "https://quid.ma/science-tech/le-pied-sur-l-accelerateur-vers-wall-street-openai-et-anthropic-parlent-de-freiner-lia",
+      "url": "https://quid.ma/science-tech/le-pied-sur-l-accelerateur-vers-wall-street-openai-et-anthropic-parlent-de-freiner-lia",
+      "publishedAt": "2026-06-16T19:39:38.000Z",
+      "date": "2026-06-16T19:39:38.000Z",
+      "description": "Les deux laboratoires de San Francisco, à l'origine de ChatGPT et Claude, décrivent un même point de bascule: l'\"auto-amélioration récursive\", stade...",
+      "excerpt": "Les deux laboratoires de San Francisco, à l'origine de ChatGPT et Claude, décrivent un même point de bascule: l'\"auto-amélioration récursive\", stade...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "VivaTech 2026: Albert, le coach virtuel en cybersécurité de vos collaborateurs - Le Parisien",
+      "link": "https://www.leparisien.fr/economie/entreprise/vivatech-2026-albert-le-coach-virtuel-en-cybersecurite-de-vos-collaborateurs-16-06-2026-2STD2TMYPFFTNARVGLNPNSMJJM.php",
+      "url": "https://www.leparisien.fr/economie/entreprise/vivatech-2026-albert-le-coach-virtuel-en-cybersecurite-de-vos-collaborateurs-16-06-2026-2STD2TMYPFFTNARVGLNPNSMJJM.php",
+      "publishedAt": "2026-06-16T18:54:30.000Z",
+      "date": "2026-06-16T18:54:30.000Z",
+      "description": "... cybersécurité. LP/Jean-Baptiste Quentin. Lire dans l'app. Offrir... ChatGPT, qu'il développe Riot (qui veut dire émeute en anglais), sa 2e...",
+      "excerpt": "... cybersécurité. LP/Jean-Baptiste Quentin. Lire dans l'app. Offrir... ChatGPT, qu'il développe Riot (qui veut dire émeute en anglais), sa 2e...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Faut-il interdire ChatGPT et les chatbots IA aux mineurs - JDW - Le Journal du Web",
       "link": "https://www.journalduweb.org/interdire-chatgpt-chatbots-ia-mineurs/",
@@ -60,6 +80,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Pour une IA souveraine, le Gouvernement déploie son ChatGPT français dans l'administration - CCM",
+      "link": "https://www.commentcamarche.net/informatique/intelligence-artificielle/38181-ia-souveraine-le-gouvernement-deploie-son-chatgpt-francais-dans-l-administration/",
+      "url": "https://www.commentcamarche.net/informatique/intelligence-artificielle/38181-ia-souveraine-le-gouvernement-deploie-son-chatgpt-francais-dans-l-administration/",
+      "publishedAt": "2026-06-16T12:11:03.000Z",
+      "date": "2026-06-16T12:11:03.000Z",
+      "description": "Il s'agit d'un agent conversationnel similaire à ChatGPT ou Claude, mais destiné aux fonctionnaires.... cybersécurité. L'Assistant a déjà été...",
+      "excerpt": "Il s'agit d'un agent conversationnel similaire à ChatGPT ou Claude, mais destiné aux fonctionnaires.... cybersécurité. L'Assistant a déjà été...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Reach insuffisant, CTR faible, CPC bas… ChatGPT Ads n'est pas encore au niveau - JDN",
       "link": "https://www.journaldunet.com/adtech/1551477-reach-insuffisant-ctr-faible-cpc-bas-le-premier-retour-d-experience-de-performics-publicis-sur-chatgpt-pour-un-annonceur-francais/",
       "url": "https://www.journaldunet.com/adtech/1551477-reach-insuffisant-ctr-faible-cpc-bas-le-premier-retour-d-experience-de-performics-publicis-sur-chatgpt-pour-un-annonceur-francais/",
@@ -97,36 +127,6 @@
       "date": "2026-06-16T06:01:20.000Z",
       "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
       "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: nouveau sélecteur de modèles et mémoire doublée - DomoAndGeek",
-      "link": "https://domoandgeek.fr/chatgpt-selecteur-modeles-memoire-doublee/",
-      "url": "https://domoandgeek.fr/chatgpt-selecteur-modeles-memoire-doublee/",
-      "publishedAt": "2026-06-16T05:36:23.000Z",
-      "date": "2026-06-16T05:36:23.000Z",
-      "description": "... notes de version publiées par OpenAI et relayées par les outils... Depuis le 12 juin, le modèle GPT-5.2 n'est plus proposé dans ChatGPT. L...",
-      "excerpt": "... notes de version publiées par OpenAI et relayées par les outils... Depuis le 12 juin, le modèle GPT-5.2 n'est plus proposé dans ChatGPT. L...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Créatrices d'Avenir: un nouveau club dédié aux femmes entrepreneures - Big média",
-      "link": "https://bigmedia.bpifrance.fr/nos-actualites/creatrices-davenir-un-nouveau-club-dedie-aux-femmes-entrepreneures",
-      "url": "https://bigmedia.bpifrance.fr/nos-actualites/creatrices-davenir-un-nouveau-club-dedie-aux-femmes-entrepreneures",
-      "publishedAt": "2026-06-16T05:05:18.000Z",
-      "date": "2026-06-16T05:05:18.000Z",
-      "description": "Cybersécurité, défense: le programme de Big média à VivaTech · Climat... logo ChatGPT · logo Perplexity · logo Claude. Creatrices d'avenir ©. Alors...",
-      "excerpt": "Cybersécurité, défense: le programme de Big média à VivaTech · Climat... logo ChatGPT · logo Perplexity · logo Claude. Creatrices d'avenir ©. Alors...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "92 000 attaques utilisant de faux services d'IA diffusent 15 000 échantillons de logiciels malveillants",
-      "link": "https://b2b-cyber-security.de/fr/92-000-attaques-utilisant-de-faux-services-d%27IA-distribuent-15-000-%C3%A9chantillons-de-logiciels-malveillants/",
-      "url": "https://b2b-cyber-security.de/fr/92-000-attaques-utilisant-de-faux-services-d%27IA-distribuent-15-000-%C3%A9chantillons-de-logiciels-malveillants/",
-      "publishedAt": "2026-06-15T23:55:16.000Z",
-      "date": "2026-06-15T23:55:16.000Z",
-      "description": "Près de la moitié des attaques enregistrées impliquaient de fausses applications ChatGPT (49 %), suivies par Claude et Gemini, qui représentent...",
-      "excerpt": "Près de la moitié des attaques enregistrées impliquaient de fausses applications ChatGPT (49 %), suivies par Claude et Gemini, qui représentent...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
