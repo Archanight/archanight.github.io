@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T20:45:26.443Z",
+  "generatedAt": "2026-06-16T02:50:00.536Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "92 000 attaques utilisant de faux services d'IA diffusent 15 000 échantillons de logiciels malveillants",
+      "link": "https://b2b-cyber-security.de/fr/92-000-attaques-utilisant-de-faux-services-d%27IA-distribuent-15-000-%C3%A9chantillons-de-logiciels-malveillants/",
+      "url": "https://b2b-cyber-security.de/fr/92-000-attaques-utilisant-de-faux-services-d%27IA-distribuent-15-000-%C3%A9chantillons-de-logiciels-malveillants/",
+      "publishedAt": "2026-06-15T23:55:16.000Z",
+      "date": "2026-06-15T23:55:16.000Z",
+      "description": "Près de la moitié des attaques enregistrées impliquaient de fausses applications ChatGPT (49 %), suivies par Claude et Gemini, qui représentent...",
+      "excerpt": "Près de la moitié des attaques enregistrées impliquaient de fausses applications ChatGPT (49 %), suivies par Claude et Gemini, qui représentent...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google intente une action en justice pour une opération de phishing assistée par IA abusant...",
+      "link": "https://fr.dataconomy.com/2026/06/15/google-intente-une-action-en-justice-pour-une-operation-de-phishing-assistee-par-ia-abusant-de-gemini/",
+      "url": "https://fr.dataconomy.com/2026/06/15/google-intente-une-action-en-justice-pour-une-operation-de-phishing-assistee-par-ia-abusant-de-gemini/",
+      "publishedAt": "2026-06-15T22:04:08.000Z",
+      "date": "2026-06-15T22:04:08.000Z",
+      "description": "ChatGPT atteint 1 milliard d'utilisateurs alors que l'adoption...",
+      "excerpt": "ChatGPT atteint 1 milliard d'utilisateurs alors que l'adoption...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
     {
       "title": "Il découvre une faille dangereuse mais AMD refuse de le récompenser - Toms Guide",
       "link": "https://www.tomsguide.fr/il-decouvre-une-faille-dangereuse-mais-amd-refuse-de-le-recompenser/",
@@ -108,26 +128,6 @@
       "description": "Avec iOS 27, les chatbots tiers pourraient passer par les Extensions API. Cette solution permettrait à des services comme ChatGPT, Gemini ou Claude d'...",
       "excerpt": "Avec iOS 27, les chatbots tiers pourraient passer par les Extensions API. Cette solution permettrait à des services comme ChatGPT, Gemini ou Claude d'...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "APRIL révolutionne le secteur de l'assurance grâce à l'intégration de ChatGPT.",
-      "link": "https://www.webdisclosure.com/article/april-epa-apr-april-revolutionne-le-secteur-de-lassurance-grace-a-lintegration-de-chatgpt-8STQ0bHaYPk",
-      "url": "https://www.webdisclosure.com/article/april-epa-apr-april-revolutionne-le-secteur-de-lassurance-grace-a-lintegration-de-chatgpt-8STQ0bHaYPk",
-      "publishedAt": "2026-06-15T09:14:20.000Z",
-      "date": "2026-06-15T09:14:20.000Z",
-      "description": "APRIL a dévoilé son application innovante APRIL Moto au sein de ChatGPT d'OpenAI, une avancée majeure dans le secteur de l'assurance.",
-      "excerpt": "APRIL a dévoilé son application innovante APRIL Moto au sein de ChatGPT d'OpenAI, une avancée majeure dans le secteur de l'assurance.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "iOS 27: Apple prépare encore trois nouveautés majeures pour septembre - Mac4Ever",
-      "link": "https://www.mac4ever.com/iphone/196702-ios-27-apple-prepare-encore-trois-nouveautes-majeures-pour-septembre",
-      "url": "https://www.mac4ever.com/iphone/196702-ios-27-apple-prepare-encore-trois-nouveautes-majeures-pour-septembre",
-      "publishedAt": "2026-06-15T09:12:58.000Z",
-      "date": "2026-06-15T09:12:58.000Z",
-      "description": "... Siri. Contrairement à l'intégration actuelle de ChatGPT, négociée spécifiquement entre Apple et OpenAI, ce nouveau système reposerait sur une API...",
-      "excerpt": "... Siri. Contrairement à l'intégration actuelle de ChatGPT, négociée spécifiquement entre Apple et OpenAI, ce nouveau système reposerait sur une API...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
