@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T10:54:22.565Z",
+  "generatedAt": "2026-06-16T16:24:34.803Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Faut-il interdire ChatGPT et les chatbots IA aux mineurs - JDW - Le Journal du Web",
+      "link": "https://www.journalduweb.org/interdire-chatgpt-chatbots-ia-mineurs/",
+      "url": "https://www.journalduweb.org/interdire-chatgpt-chatbots-ia-mineurs/",
+      "publishedAt": "2026-06-16T14:43:46.000Z",
+      "date": "2026-06-16T14:43:46.000Z",
+      "description": "iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6 mai 2026. bmw robots usines · IA & Robotique · BMW veut déployer des robots...",
+      "excerpt": "iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6 mai 2026. bmw robots usines · IA & Robotique · BMW veut déployer des robots...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Transcription, traduction, automatisation... C'est quoi \"L'Assistant\", le ChatGPT souverain de... - RTL",
+      "link": "https://www.rtl.fr/actu/sciences-tech/transcription-traduction-automatisation-c-est-quoi-l-assistant-le-chatgpt-souverain-de-l-etat-qui-doit-faire-gagner-du-temps-aux-agents-de-la-fonction-publique-7900646805",
+      "url": "https://www.rtl.fr/actu/sciences-tech/transcription-traduction-automatisation-c-est-quoi-l-assistant-le-chatgpt-souverain-de-l-etat-qui-doit-faire-gagner-du-temps-aux-agents-de-la-fonction-publique-7900646805",
+      "publishedAt": "2026-06-16T14:34:27.000Z",
+      "date": "2026-06-16T14:34:27.000Z",
+      "description": "\"C'est l'équivalent de ChatGPT mais en version souveraine... Cybersécurité · Ils sont soupçonnés d'avoir volé les données de dizaines...",
+      "excerpt": "\"C'est l'équivalent de ChatGPT mais en version souveraine... Cybersécurité · Ils sont soupçonnés d'avoir volé les données de dizaines...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cyberattaque IDOR: 550 000 comptes gouvernementaux volés - Les Smart Grids",
+      "link": "https://les-smartgrids.fr/cyberattaque-idor-comment-550-000-comptes-gouvernementaux-ont-ete-derobes-en-quelques-heures/",
+      "url": "https://les-smartgrids.fr/cyberattaque-idor-comment-550-000-comptes-gouvernementaux-ont-ete-derobes-en-quelques-heures/",
+      "publishedAt": "2026-06-16T13:43:54.000Z",
+      "date": "2026-06-16T13:43:54.000Z",
+      "description": "Analyse technique d'une vulnérabilité basique qui révèle les lacunes structurelles de la cybersécurité publique française.",
+      "excerpt": "Analyse technique d'une vulnérabilité basique qui révèle les lacunes structurelles de la cybersécurité publique française.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le Chaton Fat: qu'est-ce que cette IA française qui dépasserait même ChatGPT?",
+      "link": "https://www.linternaute.com/hightech/internet/10712446-le-chaton-fat-qu-est-ce-que-cette-ia-francaise-qui-depasserait-meme-chatgpt/",
+      "url": "https://www.linternaute.com/hightech/internet/10712446-le-chaton-fat-qu-est-ce-que-cette-ia-francaise-qui-depasserait-meme-chatgpt/",
+      "publishedAt": "2026-06-16T12:53:46.000Z",
+      "date": "2026-06-16T12:53:46.000Z",
+      "description": "Le Chaton Fat: qu'est-ce que cette IA française qui dépasserait même ChatGPT?... release of Le Chaton Fat - 30T MoE with 256 experts - 1M context...",
+      "excerpt": "Le Chaton Fat: qu'est-ce que cette IA française qui dépasserait même ChatGPT?... release of Le Chaton Fat - 30T MoE with 256 experts - 1M context...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Chatbot souverain: défi cybersécurité après l'ANTS - Les Smart Grids",
+      "link": "https://les-smartgrids.fr/chatbot-souverain-cybersecurite-ants/",
+      "url": "https://les-smartgrids.fr/chatbot-souverain-cybersecurite-ants/",
+      "publishedAt": "2026-06-16T12:42:37.000Z",
+      "date": "2026-06-16T12:42:37.000Z",
+      "description": "David Amiel le décrit comme « l'équivalent de ChatGPT mais en version... Une faille qui révèle les carences structurelles de la cybersécurité...",
+      "excerpt": "David Amiel le décrit comme « l'équivalent de ChatGPT mais en version... Une faille qui révèle les carences structurelles de la cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Reach insuffisant, CTR faible, CPC bas… ChatGPT Ads n'est pas encore au niveau - JDN",
+      "link": "https://www.journaldunet.com/adtech/1551477-reach-insuffisant-ctr-faible-cpc-bas-le-premier-retour-d-experience-de-performics-publicis-sur-chatgpt-pour-un-annonceur-francais/",
+      "url": "https://www.journaldunet.com/adtech/1551477-reach-insuffisant-ctr-faible-cpc-bas-le-premier-retour-d-experience-de-performics-publicis-sur-chatgpt-pour-un-annonceur-francais/",
+      "publishedAt": "2026-06-16T11:38:27.000Z",
+      "date": "2026-06-16T11:38:27.000Z",
+      "description": "Cybersécurité · Robotique · Cloud · Economie · Adtech · Big data · Carrière · Fintech... ChatGPT Ads n'est pas encore au niveau.",
+      "excerpt": "Cybersécurité · Robotique · Cloud · Economie · Adtech · Big data · Carrière · Fintech... ChatGPT Ads n'est pas encore au niveau.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT accusé de mettre les utilisateurs en danger, 42 États américains attaquent OpenAI",
       "link": "https://siecledigital.fr/2026/06/16/chatgpt-accuse-de-mettre-les-utilisateurs-en-danger-42-etats-americains-attaquent-openai/",
@@ -40,6 +100,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "ChatGPT: nouveau sélecteur de modèles et mémoire doublée - DomoAndGeek",
+      "link": "https://domoandgeek.fr/chatgpt-selecteur-modeles-memoire-doublee/",
+      "url": "https://domoandgeek.fr/chatgpt-selecteur-modeles-memoire-doublee/",
+      "publishedAt": "2026-06-16T05:36:23.000Z",
+      "date": "2026-06-16T05:36:23.000Z",
+      "description": "... notes de version publiées par OpenAI et relayées par les outils... Depuis le 12 juin, le modèle GPT-5.2 n'est plus proposé dans ChatGPT. L...",
+      "excerpt": "... notes de version publiées par OpenAI et relayées par les outils... Depuis le 12 juin, le modèle GPT-5.2 n'est plus proposé dans ChatGPT. L...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Créatrices d'Avenir: un nouveau club dédié aux femmes entrepreneures - Big média",
       "link": "https://bigmedia.bpifrance.fr/nos-actualites/creatrices-davenir-un-nouveau-club-dedie-aux-femmes-entrepreneures",
       "url": "https://bigmedia.bpifrance.fr/nos-actualites/creatrices-davenir-un-nouveau-club-dedie-aux-femmes-entrepreneures",
@@ -57,76 +127,6 @@
       "date": "2026-06-15T23:55:16.000Z",
       "description": "Près de la moitié des attaques enregistrées impliquaient de fausses applications ChatGPT (49 %), suivies par Claude et Gemini, qui représentent...",
       "excerpt": "Près de la moitié des attaques enregistrées impliquaient de fausses applications ChatGPT (49 %), suivies par Claude et Gemini, qui représentent...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google intente une action en justice pour une opération de phishing assistée par IA abusant...",
-      "link": "https://fr.dataconomy.com/2026/06/15/google-intente-une-action-en-justice-pour-une-operation-de-phishing-assistee-par-ia-abusant-de-gemini/",
-      "url": "https://fr.dataconomy.com/2026/06/15/google-intente-une-action-en-justice-pour-une-operation-de-phishing-assistee-par-ia-abusant-de-gemini/",
-      "publishedAt": "2026-06-15T22:04:08.000Z",
-      "date": "2026-06-15T22:04:08.000Z",
-      "description": "ChatGPT atteint 1 milliard d'utilisateurs alors que l'adoption...",
-      "excerpt": "ChatGPT atteint 1 milliard d'utilisateurs alors que l'adoption...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "Il découvre une faille dangereuse mais AMD refuse de le récompenser - Toms Guide",
-      "link": "https://www.tomsguide.fr/il-decouvre-une-faille-dangereuse-mais-amd-refuse-de-le-recompenser/",
-      "url": "https://www.tomsguide.fr/il-decouvre-une-faille-dangereuse-mais-amd-refuse-de-le-recompenser/",
-      "publishedAt": "2026-06-15T17:06:20.000Z",
-      "date": "2026-06-15T17:06:20.000Z",
-      "description": "Un chercheur en cybersécurité a découvert une faille critique dans un... ChatGPT pourrait bientôt coûter beaucoup moins cher. 11 juin 2026 15...",
-      "excerpt": "Un chercheur en cybersécurité a découvert une faille critique dans un... ChatGPT pourrait bientôt coûter beaucoup moins cher. 11 juin 2026 15...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "cette fonctionnalité qu'Apple n'a pas précisé à la WWDC devrait pourtant bien arriver avec iOS 27",
-      "link": "https://www.clubic.com/actualite-617026-siri-cette-fonctionnalite-qu-apple-n-a-pas-precise-a-la-wwdc-devrait-pourtant-bien-arriver-avec-ios-27.html",
-      "url": "https://www.clubic.com/actualite-617026-siri-cette-fonctionnalite-qu-apple-n-a-pas-precise-a-la-wwdc-devrait-pourtant-bien-arriver-avec-ios-27.html",
-      "publishedAt": "2026-06-15T16:13:42.000Z",
-      "date": "2026-06-15T16:13:42.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN gratuit... Siri et ChatGPT, mais dont la liste pourrait s'allonger. Des...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN gratuit... Siri et ChatGPT, mais dont la liste pourrait s'allonger. Des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Siri AI n'est que le début: Apple pourrait construire son propre OpenClaw - Clubic",
-      "link": "https://www.clubic.com/actualite-616999-siri-ai-n-est-que-le-debut-apple-pourrait-construire-son-propre-openclaw.html",
-      "url": "https://www.clubic.com/actualite-616999-siri-ai-n-est-que-le-debut-apple-pourrait-construire-son-propre-openclaw.html",
-      "publishedAt": "2026-06-15T15:08:39.000Z",
-      "date": "2026-06-15T15:08:39.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Pour sauver Siri, Apple...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Pour sauver Siri, Apple...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pharmacie hospitalière: les IA génératives grand public restent peu fiables (études françaises)",
-      "link": "https://www.ticsante.com/story?ID=8300",
-      "url": "https://www.ticsante.com/story?ID=8300",
-      "publishedAt": "2026-06-15T15:05:27.000Z",
-      "date": "2026-06-15T15:05:27.000Z",
-      "description": "Quatre LLM ont été évalués sur 40 médicaments tirés au sort du livret thérapeutique hospitalier: ChatGPT... Cybersécurité: des signalements en...",
-      "excerpt": "Quatre LLM ont été évalués sur 40 médicaments tirés au sort du livret thérapeutique hospitalier: ChatGPT... Cybersécurité: des signalements en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Lancement de l'application April Moto dans ChatGPT - Zonebourse",
-      "link": "https://www.zonebourse.com/actualite-bourse/lancement-de-l-application-april-moto-dans-chatgpt-ce7f5cdedd8fff20",
-      "url": "https://www.zonebourse.com/actualite-bourse/lancement-de-l-application-april-moto-dans-chatgpt-ce7f5cdedd8fff20",
-      "publishedAt": "2026-06-15T13:15:22.000Z",
-      "date": "2026-06-15T13:15:22.000Z",
-      "description": "Dernières actualités sur Microsoft Corporation. Lancement de l'application April Moto dans ChatGPT. 15:13 Zonebourse. Social Buzz: les valeurs de...",
-      "excerpt": "Dernières actualités sur Microsoft Corporation. Lancement de l'application April Moto dans ChatGPT. 15:13 Zonebourse. Social Buzz: les valeurs de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: comment masquer des éléments de la barre des tâches - Futura Sciences",
-      "link": "https://www.futura-sciences.com/tech/questions-reponses/chatgpt-chatgpt-masquer-elements-barre-taches-25414/",
-      "url": "https://www.futura-sciences.com/tech/questions-reponses/chatgpt-chatgpt-masquer-elements-barre-taches-25414/",
-      "publishedAt": "2026-06-15T12:54:37.000Z",
-      "date": "2026-06-15T12:54:37.000Z",
-      "description": "Cybersécurité · El Niño · SpaceX · Coupe du monde de football · Météo · Disclosure Day · Accueil · tech · questions-reponses · ChatGPT: comment...",
-      "excerpt": "Cybersécurité · El Niño · SpaceX · Coupe du monde de football · Météo · Disclosure Day · Accueil · tech · questions-reponses · ChatGPT: comment...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
