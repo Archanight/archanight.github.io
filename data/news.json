@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T20:39:11.128Z",
+  "generatedAt": "2026-06-17T02:46:38.947Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI rétablit Codex après une panne due à des erreurs élevées - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-retablit-codex-apres-une-panne-due-a-des-erreurs-elevees",
+      "url": "https://www.briefia.fr/article/openai-retablit-codex-apres-une-panne-due-a-des-erreurs-elevees",
+      "publishedAt": "2026-06-16T22:13:29.000Z",
+      "date": "2026-06-16T22:13:29.000Z",
+      "description": "OpenAI a lancé GPT-5.4-Cyber, une version de ChatGPT dédiée à la cybersécurité, ciblant les experts du domaine. • Ce modèle peut analyser des...",
+      "excerpt": "OpenAI a lancé GPT-5.4-Cyber, une version de ChatGPT dédiée à la cybersécurité, ciblant les experts du domaine. • Ce modèle peut analyser des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le pied sur l'accélérateur vers Wall Street, OpenAI et Anthropic parlent de freiner l'IA",
       "link": "https://quid.ma/science-tech/le-pied-sur-l-accelerateur-vers-wall-street-openai-et-anthropic-parlent-de-freiner-lia",
@@ -117,16 +127,6 @@
       "date": "2026-06-16T07:48:02.000Z",
       "description": "... Devops. Le groupe Creative revendique environ 300 salariés en France et 30 millions d'euro de chiffre d'affaire. Récemment, le groupe a acquis...",
       "excerpt": "... Devops. Le groupe Creative revendique environ 300 salariés en France et 30 millions d'euro de chiffre d'affaire. Récemment, le groupe a acquis...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Elon Musk essuie un nouveau revers judiciaire face à OpenAI: la plainte déposée par xAI rejetée",
-      "link": "https://www.zdnet.fr/actualites/elon-musk-essuie-un-nouveau-revers-judiciaire-face-a-openai-la-plainte-deposee-par-xai-rejetee-496944.htm",
-      "url": "https://www.zdnet.fr/actualites/elon-musk-essuie-un-nouveau-revers-judiciaire-face-a-openai-la-plainte-deposee-par-xai-rejetee-496944.htm",
-      "publishedAt": "2026-06-16T06:01:20.000Z",
-      "date": "2026-06-16T06:01:20.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
