@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T02:46:38.947Z",
+  "generatedAt": "2026-06-17T10:26:09.896Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Alternatives à ChatGPT à envisager en 2026 - ExpressVPN",
+      "link": "https://www.expressvpn.com/fr/blog/alternatives-a-chatgpt/",
+      "url": "https://www.expressvpn.com/fr/blog/alternatives-a-chatgpt/",
+      "publishedAt": "2026-06-17T01:12:20.000Z",
+      "date": "2026-06-17T01:12:20.000Z",
+      "description": "ChatGPT... Les utilisateurs de Perplexity Pro peuvent également choisir entre plusieurs modèles d'IA, notamment GPT-5.2, Claude Sonnet 4.6 et Gemini...",
+      "excerpt": "ChatGPT... Les utilisateurs de Perplexity Pro peuvent également choisir entre plusieurs modèles d'IA, notamment GPT-5.2, Claude Sonnet 4.6 et Gemini...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI rétablit Codex après une panne due à des erreurs élevées - Brief IA",
       "link": "https://www.briefia.fr/article/openai-retablit-codex-apres-une-panne-due-a-des-erreurs-elevees",
@@ -38,6 +48,26 @@
       "description": "... cybersécurité. LP/Jean-Baptiste Quentin. Lire dans l'app. Offrir... ChatGPT, qu'il développe Riot (qui veut dire émeute en anglais), sa 2e...",
       "excerpt": "... cybersécurité. LP/Jean-Baptiste Quentin. Lire dans l'app. Offrir... ChatGPT, qu'il développe Riot (qui veut dire émeute en anglais), sa 2e...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google et FBI neutralisent un réseau de phishing chinois - Brief IA",
+      "link": "https://www.briefia.fr/article/ces-hackers-chinois-utilisent-gemini-pour-pieger-des-tas-de-gens-google-riposte",
+      "url": "https://www.briefia.fr/article/ces-hackers-chinois-utilisent-gemini-pour-pieger-des-tas-de-gens-google-riposte",
+      "publishedAt": "2026-06-16T18:12:06.000Z",
+      "date": "2026-06-16T18:12:06.000Z",
+      "description": "OpenAI a lancé l'Advanced Account Security pour protéger les utilisateurs de ChatGPT contre le phishing. • Yubico s'associe à OpenAI pour...",
+      "excerpt": "OpenAI a lancé l'Advanced Account Security pour protéger les utilisateurs de ChatGPT contre le phishing. • Yubico s'associe à OpenAI pour...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
+      "title": "Would ChatGPT Health Recognize Your Medical Emergency? New Study Raises Doubts",
+      "link": "https://www.eweek.com/fr/news/chatgpt-health-missed-emergencies-study/",
+      "url": "https://www.eweek.com/fr/news/chatgpt-health-missed-emergencies-study/",
+      "publishedAt": "2026-06-16T17:08:06.000Z",
+      "date": "2026-06-16T17:08:06.000Z",
+      "description": "Would ChatGPT Health Recognize Your Medical Emergency?... Google sued Outsider Enterprise, alleging the group used Gemini to create phishing sites and...",
+      "excerpt": "Would ChatGPT Health Recognize Your Medical Emergency?... Google sued Outsider Enterprise, alleging the group used Gemini to create phishing sites and...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     },
     {
       "title": "Faut-il interdire ChatGPT et les chatbots IA aux mineurs - JDW - Le Journal du Web",
@@ -97,36 +127,6 @@
       "date": "2026-06-16T12:11:03.000Z",
       "description": "Il s'agit d'un agent conversationnel similaire à ChatGPT ou Claude, mais destiné aux fonctionnaires.... cybersécurité. L'Assistant a déjà été...",
       "excerpt": "Il s'agit d'un agent conversationnel similaire à ChatGPT ou Claude, mais destiné aux fonctionnaires.... cybersécurité. L'Assistant a déjà été...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Reach insuffisant, CTR faible, CPC bas… ChatGPT Ads n'est pas encore au niveau - JDN",
-      "link": "https://www.journaldunet.com/adtech/1551477-reach-insuffisant-ctr-faible-cpc-bas-le-premier-retour-d-experience-de-performics-publicis-sur-chatgpt-pour-un-annonceur-francais/",
-      "url": "https://www.journaldunet.com/adtech/1551477-reach-insuffisant-ctr-faible-cpc-bas-le-premier-retour-d-experience-de-performics-publicis-sur-chatgpt-pour-un-annonceur-francais/",
-      "publishedAt": "2026-06-16T11:38:27.000Z",
-      "date": "2026-06-16T11:38:27.000Z",
-      "description": "Cybersécurité · Robotique · Cloud · Economie · Adtech · Big data · Carrière · Fintech... ChatGPT Ads n'est pas encore au niveau.",
-      "excerpt": "Cybersécurité · Robotique · Cloud · Economie · Adtech · Big data · Carrière · Fintech... ChatGPT Ads n'est pas encore au niveau.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT accusé de mettre les utilisateurs en danger, 42 États américains attaquent OpenAI",
-      "link": "https://siecledigital.fr/2026/06/16/chatgpt-accuse-de-mettre-les-utilisateurs-en-danger-42-etats-americains-attaquent-openai/",
-      "url": "https://siecledigital.fr/2026/06/16/chatgpt-accuse-de-mettre-les-utilisateurs-en-danger-42-etats-americains-attaquent-openai/",
-      "publishedAt": "2026-06-16T09:19:43.000Z",
-      "date": "2026-06-16T09:19:43.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT accusé de...",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT accusé de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Yogosha a finalement trouvé son repreneur - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/yogosha-a-finalement-trouve-son-repreneur-496938.htm",
-      "url": "https://www.zdnet.fr/actualites/yogosha-a-finalement-trouve-son-repreneur-496938.htm",
-      "publishedAt": "2026-06-16T07:48:02.000Z",
-      "date": "2026-06-16T07:48:02.000Z",
-      "description": "... Devops. Le groupe Creative revendique environ 300 salariés en France et 30 millions d'euro de chiffre d'affaire. Récemment, le groupe a acquis...",
-      "excerpt": "... Devops. Le groupe Creative revendique environ 300 salariés en France et 30 millions d'euro de chiffre d'affaire. Récemment, le groupe a acquis...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
