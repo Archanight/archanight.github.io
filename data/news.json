@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T14:51:59.585Z",
+  "generatedAt": "2026-06-17T20:00:35.063Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,106 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Pourquoi OpenAI veut transformer ChatGPT en plateforme « tout en un » - Le Monde",
+      "link": "https://www.lemonde.fr/economie/article/2026/06/17/pourquoi-openai-veut-transformer-chatgpt-en-plateforme-tout-en-un_6704199_3234.html",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/17/pourquoi-openai-veut-transformer-chatgpt-en-plateforme-tout-en-un_6704199_3234.html",
+      "publishedAt": "2026-06-17T17:15:44.000Z",
+      "date": "2026-06-17T17:15:44.000Z",
+      "description": "... ChatGPT. Avec une telle stratégie, « ils n'espèrent pas convertir le... Cybersécurité: Orange et Crédit agricole en discussion pour avoir...",
+      "excerpt": "... ChatGPT. Avec une telle stratégie, « ils n'espèrent pas convertir le... Cybersécurité: Orange et Crédit agricole en discussion pour avoir...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Après le suicide d'une utilisatrice de ChatGPT, OpenAI est la cible d'une nouvelle plainte",
+      "link": "https://www.01net.com/actualites/openai-de-nouveau-poursuivi-apres-suicide-utilisatrice-chatgpt.html",
+      "url": "https://www.01net.com/actualites/openai-de-nouveau-poursuivi-apres-suicide-utilisatrice-chatgpt.html",
+      "publishedAt": "2026-06-17T16:56:25.000Z",
+      "date": "2026-06-17T16:56:25.000Z",
+      "description": "Après le suicide d'une utilisatrice de ChatGPT, OpenAI est la cible d'une nouvelle plainte... Cybersécurité · Société · Télécoms · Auto · Médias...",
+      "excerpt": "Après le suicide d'une utilisatrice de ChatGPT, OpenAI est la cible d'une nouvelle plainte... Cybersécurité · Société · Télécoms · Auto · Médias...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT ne détient plus la majorité du marché de l'IA, c'est une première historique",
+      "link": "https://www.01net.com/actualites/chatgpt-ne-detient-plus-la-majorite-du-marche-de-lia-cest-une-premiere-historique.html",
+      "url": "https://www.01net.com/actualites/chatgpt-ne-detient-plus-la-majorite-du-marche-de-lia-cest-une-premiere-historique.html",
+      "publishedAt": "2026-06-17T16:26:43.000Z",
+      "date": "2026-06-17T16:26:43.000Z",
+      "description": "Pendant des mois, ChatGPT a représenté plus d'un assistant IA sur deux dans le monde. Ce n... Cybersécurité · Société · Télécoms · Auto · Médias...",
+      "excerpt": "Pendant des mois, ChatGPT a représenté plus d'un assistant IA sur deux dans le monde. Ce n... Cybersécurité · Société · Télécoms · Auto · Médias...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le timing est cruel: la Chine dévoile GLM-5.2, un modèle gratuit qui rivalise avec Claude...",
+      "link": "https://www.numerama.com/tech/2278511-le-timing-est-cruel-la-chine-devoile-glm-5-2-un-modele-gratuit-qui-rivalise-avec-claude-opus-4-8-et-gpt-5-5.html",
+      "url": "https://www.numerama.com/tech/2278511-le-timing-est-cruel-la-chine-devoile-glm-5-2-un-modele-gratuit-qui-rivalise-avec-claude-opus-4-8-et-gpt-5-5.html",
+      "publishedAt": "2026-06-17T14:36:35.000Z",
+      "date": "2026-06-17T14:36:35.000Z",
+      "description": "Source: Montage Numerama avec ChatGPT. Ponytail, l'agent IA qui cherche à optimiser votre code en limitant...",
+      "excerpt": "Source: Montage Numerama avec ChatGPT. Ponytail, l'agent IA qui cherche à optimiser votre code en limitant...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Arrêtez d'utiliser ChatGPT: OpenAI mise tout sur Codex - Numerama",
+      "link": "https://www.numerama.com/tech/2277913-arretez-dutiliser-chatgpt-openai-mise-tout-sur-codex.html",
+      "url": "https://www.numerama.com/tech/2277913-arretez-dutiliser-chatgpt-openai-mise-tout-sur-codex.html",
+      "publishedAt": "2026-06-17T14:01:12.000Z",
+      "date": "2026-06-17T14:01:12.000Z",
+      "description": "... ChatGPT. OpenAI pense qu'à l'ère des IA agentiques, Codex incarne plus l'avenir qu'un simple chatbot. Et si le futur d'OpenAI n'était pas ChatGPT?",
+      "excerpt": "... ChatGPT. OpenAI pense qu'à l'ère des IA agentiques, Codex incarne plus l'avenir qu'un simple chatbot. Et si le futur d'OpenAI n'était pas ChatGPT?",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La domination écrasante de ChatGPT s'effondre, et un nom revient sans cesse",
+      "link": "https://www.phonandroid.com/la-domination-ecrasante-de-chatgpt-seffondre-et-un-nom-revient-sans-cesse.html",
+      "url": "https://www.phonandroid.com/la-domination-ecrasante-de-chatgpt-seffondre-et-un-nom-revient-sans-cesse.html",
+      "publishedAt": "2026-06-17T13:54:19.000Z",
+      "date": "2026-06-17T13:54:19.000Z",
+      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Google avance ses pions et menace ChatGPT avec Gemini, son propre...",
+      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Google avance ses pions et menace ChatGPT avec Gemini, son propre...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Anthropic Fable et Mythos bloqués: la fronde des experts en cybersécurité - Leptidigital",
+      "link": "https://www.leptidigital.fr/securite-informatique/anthropic-fable-mythos-bloques-fronde-experts-cybersecurite-90737/",
+      "url": "https://www.leptidigital.fr/securite-informatique/anthropic-fable-mythos-bloques-fronde-experts-cybersecurite-90737/",
+      "publishedAt": "2026-06-17T13:14:20.000Z",
+      "date": "2026-06-17T13:14:20.000Z",
+      "description": "Vous aimez Claude pour le marketing? Vous allez adorer Supasst Vous aimez ChatGPT... GPT-5.5 ou des modèles chinois ouverts font la même chose. Leur...",
+      "excerpt": "Vous aimez Claude pour le marketing? Vous allez adorer Supasst Vous aimez ChatGPT... GPT-5.5 ou des modèles chinois ouverts font la même chose. Leur...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les internautes s'informent désormais davantage sur les réseaux sociaux que via les...",
+      "link": "https://siecledigital.fr/2026/06/17/les-internautes-sinforment-desormais-davantage-sur-les-reseaux-sociaux-que-via-les-medias-traditionnels/",
+      "url": "https://siecledigital.fr/2026/06/17/les-internautes-sinforment-desormais-davantage-sur-les-reseaux-sociaux-que-via-les-medias-traditionnels/",
+      "publishedAt": "2026-06-17T12:52:14.000Z",
+      "date": "2026-06-17T12:52:14.000Z",
+      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... Quand Google déploie ses Information Agents et que ChatGPT résume les...",
+      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... Quand Google déploie ses Information Agents et que ChatGPT résume les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Une IA française surpuissante?: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/une-ia-francaise-surpuissante-CNT000002q1R37.html",
+      "url": "https://actu.orange.fr/videos/high-tech/une-ia-francaise-surpuissante-CNT000002q1R37.html",
+      "publishedAt": "2026-06-17T11:34:57.000Z",
+      "date": "2026-06-17T11:34:57.000Z",
+      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics. GTA...",
+      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics. GTA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Tuto pour humaniser ton texte avec l'IA en 5 minutes #study #ia # chatgpt #studytips",
+      "link": "https://www.youtube.com/watch?v=3B6a2PL9_a0",
+      "url": "https://www.youtube.com/watch?v=3B6a2PL9_a0",
+      "publishedAt": "2026-06-17T10:33:47.000Z",
+      "date": "2026-06-17T10:33:47.000Z",
+      "description": "... chatgpt #studytips. 547 views · 40... RAW VIDEO: Perkins police release bodycam footage of Kimberly Coates, teacher accused of being drunk.",
+      "excerpt": "... chatgpt #studytips. 547 views · 40... RAW VIDEO: Perkins police release bodycam footage of Kimberly Coates, teacher accused of being drunk.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Alternatives à ChatGPT à envisager en 2026 - ExpressVPN",
       "link": "https://www.expressvpn.com/fr/blog/alternatives-a-chatgpt/",
@@ -27,106 +127,6 @@
       "date": "2026-06-16T22:13:29.000Z",
       "description": "OpenAI a lancé GPT-5.4-Cyber, une version de ChatGPT dédiée à la cybersécurité, ciblant les experts du domaine. • Ce modèle peut analyser des...",
       "excerpt": "OpenAI a lancé GPT-5.4-Cyber, une version de ChatGPT dédiée à la cybersécurité, ciblant les experts du domaine. • Ce modèle peut analyser des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le pied sur l'accélérateur vers Wall Street, OpenAI et Anthropic parlent de freiner l'IA",
-      "link": "https://quid.ma/science-tech/le-pied-sur-l-accelerateur-vers-wall-street-openai-et-anthropic-parlent-de-freiner-lia",
-      "url": "https://quid.ma/science-tech/le-pied-sur-l-accelerateur-vers-wall-street-openai-et-anthropic-parlent-de-freiner-lia",
-      "publishedAt": "2026-06-16T19:39:38.000Z",
-      "date": "2026-06-16T19:39:38.000Z",
-      "description": "Les deux laboratoires de San Francisco, à l'origine de ChatGPT et Claude, décrivent un même point de bascule: l'\"auto-amélioration récursive\", stade...",
-      "excerpt": "Les deux laboratoires de San Francisco, à l'origine de ChatGPT et Claude, décrivent un même point de bascule: l'\"auto-amélioration récursive\", stade...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "VivaTech 2026: Albert, le coach virtuel en cybersécurité de vos collaborateurs - Le Parisien",
-      "link": "https://www.leparisien.fr/economie/entreprise/vivatech-2026-albert-le-coach-virtuel-en-cybersecurite-de-vos-collaborateurs-16-06-2026-2STD2TMYPFFTNARVGLNPNSMJJM.php",
-      "url": "https://www.leparisien.fr/economie/entreprise/vivatech-2026-albert-le-coach-virtuel-en-cybersecurite-de-vos-collaborateurs-16-06-2026-2STD2TMYPFFTNARVGLNPNSMJJM.php",
-      "publishedAt": "2026-06-16T18:54:30.000Z",
-      "date": "2026-06-16T18:54:30.000Z",
-      "description": "... cybersécurité. LP/Jean-Baptiste Quentin. Lire dans l'app. Offrir... ChatGPT, qu'il développe Riot (qui veut dire émeute en anglais), sa 2e...",
-      "excerpt": "... cybersécurité. LP/Jean-Baptiste Quentin. Lire dans l'app. Offrir... ChatGPT, qu'il développe Riot (qui veut dire émeute en anglais), sa 2e...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google et FBI neutralisent un réseau de phishing chinois - Brief IA",
-      "link": "https://www.briefia.fr/article/ces-hackers-chinois-utilisent-gemini-pour-pieger-des-tas-de-gens-google-riposte",
-      "url": "https://www.briefia.fr/article/ces-hackers-chinois-utilisent-gemini-pour-pieger-des-tas-de-gens-google-riposte",
-      "publishedAt": "2026-06-16T18:12:06.000Z",
-      "date": "2026-06-16T18:12:06.000Z",
-      "description": "OpenAI a lancé l'Advanced Account Security pour protéger les utilisateurs de ChatGPT contre le phishing. • Yubico s'associe à OpenAI pour...",
-      "excerpt": "OpenAI a lancé l'Advanced Account Security pour protéger les utilisateurs de ChatGPT contre le phishing. • Yubico s'associe à OpenAI pour...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "Would ChatGPT Health Recognize Your Medical Emergency? New Study Raises Doubts",
-      "link": "https://www.eweek.com/fr/news/chatgpt-health-missed-emergencies-study/",
-      "url": "https://www.eweek.com/fr/news/chatgpt-health-missed-emergencies-study/",
-      "publishedAt": "2026-06-16T17:08:06.000Z",
-      "date": "2026-06-16T17:08:06.000Z",
-      "description": "Would ChatGPT Health Recognize Your Medical Emergency?... Google sued Outsider Enterprise, alleging the group used Gemini to create phishing sites and...",
-      "excerpt": "Would ChatGPT Health Recognize Your Medical Emergency?... Google sued Outsider Enterprise, alleging the group used Gemini to create phishing sites and...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "Faut-il interdire ChatGPT et les chatbots IA aux mineurs - JDW - Le Journal du Web",
-      "link": "https://www.journalduweb.org/interdire-chatgpt-chatbots-ia-mineurs/",
-      "url": "https://www.journalduweb.org/interdire-chatgpt-chatbots-ia-mineurs/",
-      "publishedAt": "2026-06-16T14:43:46.000Z",
-      "date": "2026-06-16T14:43:46.000Z",
-      "description": "iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6 mai 2026. bmw robots usines · IA & Robotique · BMW veut déployer des robots...",
-      "excerpt": "iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6 mai 2026. bmw robots usines · IA & Robotique · BMW veut déployer des robots...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Transcription, traduction, automatisation... C'est quoi \"L'Assistant\", le ChatGPT souverain de... - RTL",
-      "link": "https://www.rtl.fr/actu/sciences-tech/transcription-traduction-automatisation-c-est-quoi-l-assistant-le-chatgpt-souverain-de-l-etat-qui-doit-faire-gagner-du-temps-aux-agents-de-la-fonction-publique-7900646805",
-      "url": "https://www.rtl.fr/actu/sciences-tech/transcription-traduction-automatisation-c-est-quoi-l-assistant-le-chatgpt-souverain-de-l-etat-qui-doit-faire-gagner-du-temps-aux-agents-de-la-fonction-publique-7900646805",
-      "publishedAt": "2026-06-16T14:34:27.000Z",
-      "date": "2026-06-16T14:34:27.000Z",
-      "description": "\"C'est l'équivalent de ChatGPT mais en version souveraine... Cybersécurité · Ils sont soupçonnés d'avoir volé les données de dizaines...",
-      "excerpt": "\"C'est l'équivalent de ChatGPT mais en version souveraine... Cybersécurité · Ils sont soupçonnés d'avoir volé les données de dizaines...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cyberattaque IDOR: 550 000 comptes gouvernementaux volés - Les Smart Grids",
-      "link": "https://les-smartgrids.fr/cyberattaque-idor-comment-550-000-comptes-gouvernementaux-ont-ete-derobes-en-quelques-heures/",
-      "url": "https://les-smartgrids.fr/cyberattaque-idor-comment-550-000-comptes-gouvernementaux-ont-ete-derobes-en-quelques-heures/",
-      "publishedAt": "2026-06-16T13:43:54.000Z",
-      "date": "2026-06-16T13:43:54.000Z",
-      "description": "Analyse technique d'une vulnérabilité basique qui révèle les lacunes structurelles de la cybersécurité publique française.",
-      "excerpt": "Analyse technique d'une vulnérabilité basique qui révèle les lacunes structurelles de la cybersécurité publique française.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le Chaton Fat: qu'est-ce que cette IA française qui dépasserait même ChatGPT?",
-      "link": "https://www.linternaute.com/hightech/internet/10712446-le-chaton-fat-qu-est-ce-que-cette-ia-francaise-qui-depasserait-meme-chatgpt/",
-      "url": "https://www.linternaute.com/hightech/internet/10712446-le-chaton-fat-qu-est-ce-que-cette-ia-francaise-qui-depasserait-meme-chatgpt/",
-      "publishedAt": "2026-06-16T12:53:46.000Z",
-      "date": "2026-06-16T12:53:46.000Z",
-      "description": "Le Chaton Fat: qu'est-ce que cette IA française qui dépasserait même ChatGPT?... release of Le Chaton Fat - 30T MoE with 256 experts - 1M context...",
-      "excerpt": "Le Chaton Fat: qu'est-ce que cette IA française qui dépasserait même ChatGPT?... release of Le Chaton Fat - 30T MoE with 256 experts - 1M context...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Chatbot souverain: défi cybersécurité après l'ANTS - Les Smart Grids",
-      "link": "https://les-smartgrids.fr/chatbot-souverain-cybersecurite-ants/",
-      "url": "https://les-smartgrids.fr/chatbot-souverain-cybersecurite-ants/",
-      "publishedAt": "2026-06-16T12:42:37.000Z",
-      "date": "2026-06-16T12:42:37.000Z",
-      "description": "David Amiel le décrit comme « l'équivalent de ChatGPT mais en version... Une faille qui révèle les carences structurelles de la cybersécurité...",
-      "excerpt": "David Amiel le décrit comme « l'équivalent de ChatGPT mais en version... Une faille qui révèle les carences structurelles de la cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pour une IA souveraine, le Gouvernement déploie son ChatGPT français dans l'administration - CCM",
-      "link": "https://www.commentcamarche.net/informatique/intelligence-artificielle/38181-ia-souveraine-le-gouvernement-deploie-son-chatgpt-francais-dans-l-administration/",
-      "url": "https://www.commentcamarche.net/informatique/intelligence-artificielle/38181-ia-souveraine-le-gouvernement-deploie-son-chatgpt-francais-dans-l-administration/",
-      "publishedAt": "2026-06-16T12:11:03.000Z",
-      "date": "2026-06-16T12:11:03.000Z",
-      "description": "Il s'agit d'un agent conversationnel similaire à ChatGPT ou Claude, mais destiné aux fonctionnaires.... cybersécurité. L'Assistant a déjà été...",
-      "excerpt": "Il s'agit d'un agent conversationnel similaire à ChatGPT ou Claude, mais destiné aux fonctionnaires.... cybersécurité. L'Assistant a déjà été...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
