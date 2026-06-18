@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T14:47:33.601Z",
+  "generatedAt": "2026-06-18T20:11:32.965Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Qwen 2.5 surpasse ChatGPT: le pari gagnant d'un serveur IA local | Brief IA",
+      "link": "https://www.briefia.fr/article/qwen-2-5-surpasse-chatgpt-le-pari-gagnant-d-un-serveur-ia-local",
+      "url": "https://www.briefia.fr/article/qwen-2-5-surpasse-chatgpt-le-pari-gagnant-d-un-serveur-ia-local",
+      "publishedAt": "2026-06-18T18:09:24.000Z",
+      "date": "2026-06-18T18:09:24.000Z",
+      "description": "Qwen 2.5 surpasse ChatGPT: le pari gagnant d'un serveur IA local · 2.5 Coder 32B a surpassé GPT-4o avec un score de 92,9 sur HumanEval, révélant des...",
+      "excerpt": "Qwen 2.5 surpasse ChatGPT: le pari gagnant d'un serveur IA local · 2.5 Coder 32B a surpassé GPT-4o avec un score de 92,9 sur HumanEval, révélant des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "CrowdStrike et AWS poussent la sécurité cloud dopée à l'IA: vers des SOC plus automatisés? | JDW",
+      "link": "https://www.journalduweb.org/crowdstrike-aws-securite-cloud-ia-soc-automatises/",
+      "url": "https://www.journalduweb.org/crowdstrike-aws-securite-cloud-ia-soc-automatises/",
+      "publishedAt": "2026-06-18T17:01:05.000Z",
+      "date": "2026-06-18T17:01:05.000Z",
+      "description": "ChatGPT intégration Calculatrice. Informatique & Cybersécurité Tech & Innovations · Installer ChatGPT sur une calculatrice, c'est possible! Voici...",
+      "excerpt": "ChatGPT intégration Calculatrice. Informatique & Cybersécurité Tech & Innovations · Installer ChatGPT sur une calculatrice, c'est possible! Voici...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI s'apprête à lancer l'affichage publicitaire sur ChatGPT pour les utilisateurs japonais",
+      "link": "https://www.zonebourse.com/actualite-bourse/openai-s-apprete-a-lancer-l-affichage-publicitaire-sur-chatgpt-pour-les-utilisateurs-japonais-ce7f5cdddc8afe26",
+      "url": "https://www.zonebourse.com/actualite-bourse/openai-s-apprete-a-lancer-l-affichage-publicitaire-sur-chatgpt-pour-les-utilisateurs-japonais-ce7f5cdddc8afe26",
+      "publishedAt": "2026-06-18T16:30:22.000Z",
+      "date": "2026-06-18T16:30:22.000Z",
+      "description": "OpenAI, la start-up soutenue par Microsoft, prévoit de commencer prochainement à diffuser des publicités sur ChatGPT pour ses utilisateurs au...",
+      "excerpt": "OpenAI, la start-up soutenue par Microsoft, prévoit de commencer prochainement à diffuser des publicités sur ChatGPT pour ses utilisateurs au...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Votre texte généré par IA semble parfait? Méfiez-vous - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/votre-texte-genere-par-ia-semble-parfait-mefiez-vous",
+      "url": "https://www.lebigdata.fr/votre-texte-genere-par-ia-semble-parfait-mefiez-vous",
+      "publishedAt": "2026-06-18T15:25:01.000Z",
+      "date": "2026-06-18T15:25:01.000Z",
+      "description": "ChatGPT et Claude produisent des textes fluides, mais une étude alerte... LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data...",
+      "excerpt": "ChatGPT et Claude produisent des textes fluides, mais une étude alerte... LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT et Copilot: défi d'identité vérifiée en entreprise - Brief IA",
       "link": "https://www.briefia.fr/article/chatgpt-et-copilot-defi-d-identite-verifiee-en-entreprise",
@@ -87,46 +127,6 @@
       "date": "2026-06-18T05:00:07.000Z",
       "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Cette présence massive explique la montée de Reddit dans les réponses de ChatGPT, Gemini...",
       "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Cette présence massive explique la montée de Reddit dans les réponses de ChatGPT, Gemini...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude coûte trop cher: Microsoft pourrait glisser l'IA chinoise DeepSeek dans Copilot",
-      "link": "https://www.01net.com/actualites/claude-coute-trop-cher-microsoft-pourrait-glisser-lia-chinoise-deepseek-dans-copilot.html",
-      "url": "https://www.01net.com/actualites/claude-coute-trop-cher-microsoft-pourrait-glisser-lia-chinoise-deepseek-dans-copilot.html",
-      "publishedAt": "2026-06-18T02:04:37.000Z",
-      "date": "2026-06-18T02:04:37.000Z",
-      "description": "ChatGPT ne détient plus la majorité du marché de l'IA, c'est une... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "excerpt": "ChatGPT ne détient plus la majorité du marché de l'IA, c'est une... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT détient désormais moins de 50 % du marché des assistants IA - Notebookcheck",
-      "link": "https://www.notebookcheck.biz/ChatGPT-detient-desormais-moins-de-50-du-marche-des-assistants-IA.1324283.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-detient-desormais-moins-de-50-du-marche-des-assistants-IA.1324283.0.html",
-      "publishedAt": "2026-06-18T01:49:57.000Z",
-      "date": "2026-06-18T01:49:57.000Z",
-      "description": "Les premiers téléphones équipés du Dimensity 9600 devraient être lancés à l'automne 2026. le SoC 2nm du téléphone IA alimenté par ChatGPT bat l...",
-      "excerpt": "Les premiers téléphones équipés du Dimensity 9600 devraient être lancés à l'automne 2026. le SoC 2nm du téléphone IA alimenté par ChatGPT bat l...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Panne de Character AI provoque un pic de recherches alors que la plateforme tombe en...",
-      "link": "https://yellow.com/fr/news/panne-de-character-ai-provoque-un-pic-de-recherches-alors-que-la-plateforme-tombe-en-panne-dans-le-monde-entier",
-      "url": "https://yellow.com/fr/news/panne-de-character-ai-provoque-un-pic-de-recherches-alors-que-la-plateforme-tombe-en-panne-dans-le-monde-entier",
-      "publishedAt": "2026-06-18T00:37:25.000Z",
-      "date": "2026-06-18T00:37:25.000Z",
-      "description": "ChatGPT atteint un milliard d'utilisateurs mensuels sur...",
-      "excerpt": "ChatGPT atteint un milliard d'utilisateurs mensuels sur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pourquoi OpenAI veut transformer ChatGPT en plateforme « tout en un » - Le Monde",
-      "link": "https://www.lemonde.fr/economie/article/2026/06/17/pourquoi-openai-veut-transformer-chatgpt-en-plateforme-tout-en-un_6704199_3234.html",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/17/pourquoi-openai-veut-transformer-chatgpt-en-plateforme-tout-en-un_6704199_3234.html",
-      "publishedAt": "2026-06-17T17:15:44.000Z",
-      "date": "2026-06-17T17:15:44.000Z",
-      "description": "... ChatGPT. Avec une telle stratégie, « ils n'espèrent pas convertir le... Cybersécurité: Orange et Crédit agricole en discussion pour avoir...",
-      "excerpt": "... ChatGPT. Avec une telle stratégie, « ils n'espèrent pas convertir le... Cybersécurité: Orange et Crédit agricole en discussion pour avoir...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
