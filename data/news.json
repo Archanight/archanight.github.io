@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T10:05:15.746Z",
+  "generatedAt": "2026-06-18T14:47:33.601Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,46 @@
   "failedSources": [],
   "items": [
     {
+      "title": "ChatGPT et Copilot: défi d'identité vérifiée en entreprise - Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-et-copilot-defi-d-identite-verifiee-en-entreprise",
+      "url": "https://www.briefia.fr/article/chatgpt-et-copilot-defi-d-identite-verifiee-en-entreprise",
+      "publishedAt": "2026-06-18T12:09:28.000Z",
+      "date": "2026-06-18T12:09:28.000Z",
+      "description": "... ChatGPT Enterprise et Copilot Studio... GPT-5.4-Cyber introduit des outils avancés pour contrer les menaces émergentes en cybersécurité.",
+      "excerpt": "... ChatGPT Enterprise et Copilot Studio... GPT-5.4-Cyber introduit des outils avancés pour contrer les menaces émergentes en cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Copilot: l'IA de Microsoft faciliterait grandement le travail des hackers, voici pourquoi",
+      "link": "https://www.papergeek.fr/copilot-lia-de-microsoft-faciliterait-grandement-le-travail-des-hackers-voici-pourquoi-2471836/amp",
+      "url": "https://www.papergeek.fr/copilot-lia-de-microsoft-faciliterait-grandement-le-travail-des-hackers-voici-pourquoi-2471836/amp",
+      "publishedAt": "2026-06-18T10:11:45.000Z",
+      "date": "2026-06-18T10:11:45.000Z",
+      "description": "Des chercheurs en cybersécurité ont en effet détourné l'IA de Microsoft... On a par exemple pu voir un virus généré par ChatGPT être en mesure de...",
+      "excerpt": "Des chercheurs en cybersécurité ont en effet détourné l'IA de Microsoft... On a par exemple pu voir un virus généré par ChatGPT être en mesure de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GEO et SEO: voici pourquoi être bien référencé sur Brave Search devient crucial en 2026",
+      "link": "https://www.leptidigital.fr/webmarketing/seo/geo-seo-pourquoi-etre-bien-reference-brave-search-crucial-90754/",
+      "url": "https://www.leptidigital.fr/webmarketing/seo/geo-seo-pourquoi-etre-bien-reference-brave-search-crucial-90754/",
+      "publishedAt": "2026-06-18T08:08:44.000Z",
+      "date": "2026-06-18T08:08:44.000Z",
+      "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN... ChatGPT et Bing. Claude déclenche une recherche web dans seulement 36,6...",
+      "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN... ChatGPT et Bing. Claude déclenche une recherche web dans seulement 36,6...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT est (de très loin) l'IA préférée des Françaises et Français - Frandroid",
+      "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3145507_chatgpt-est-de-tres-loin-lia-preferee-des-francaises-et-francais",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3145507_chatgpt-est-de-tres-loin-lia-preferee-des-francaises-et-francais",
+      "publishedAt": "2026-06-18T07:51:41.000Z",
+      "date": "2026-06-18T07:51:41.000Z",
+      "description": "ChatGPT est (de très loin) l'IA préférée des Françaises et Français... Processeurs ( SoC ) · BYD, Tesla, Google, AMD: Samsung serait le grand...",
+      "excerpt": "ChatGPT est (de très loin) l'IA préférée des Françaises et Français... Processeurs ( SoC ) · BYD, Tesla, Google, AMD: Samsung serait le grand...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Les agents IA promettent des gains de productivité, mais leur coût devient un casse-tête...",
       "link": "https://www.challenges.fr/monde/les-agents-ia-promettent-des-gains-de-productivite-mais-leur-cout-devient-un-casse-tete-pour-les-entreprises_644281",
       "url": "https://www.challenges.fr/monde/les-agents-ia-promettent-des-gains-de-productivite-mais-leur-cout-devient-un-casse-tete-pour-les-entreprises_644281",
@@ -17,6 +57,16 @@
       "date": "2026-06-18T06:17:30.000Z",
       "description": "Anthropic est une entreprise d'IA créée par des anciens de Chatgpt.... Les Assises de la cybersécurité · PRNewswire · Speak & Act · Au Cœur de l'Éco.",
       "excerpt": "Anthropic est une entreprise d'IA créée par des anciens de Chatgpt.... Les Assises de la cybersécurité · PRNewswire · Speak & Act · Au Cœur de l'Éco.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un essor vertigineux à financer | Challenges - PressReader",
+      "link": "https://www.pressreader.com/france/challenges/20260618/281848650305352",
+      "url": "https://www.pressreader.com/france/challenges/20260618/281848650305352",
+      "publishedAt": "2026-06-18T05:50:05.000Z",
+      "date": "2026-06-18T05:50:05.000Z",
+      "description": "2026-06-18 - François Vaneeckhoutte Business · Tech · OpenAI · Anthropic · ChatGPT · SpaceX · Amazon · Donald Trump · Washington.",
+      "excerpt": "2026-06-18 - François Vaneeckhoutte Business · Tech · OpenAI · Anthropic · ChatGPT · SpaceX · Amazon · Donald Trump · Washington.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -77,56 +127,6 @@
       "date": "2026-06-17T17:15:44.000Z",
       "description": "... ChatGPT. Avec une telle stratégie, « ils n'espèrent pas convertir le... Cybersécurité: Orange et Crédit agricole en discussion pour avoir...",
       "excerpt": "... ChatGPT. Avec une telle stratégie, « ils n'espèrent pas convertir le... Cybersécurité: Orange et Crédit agricole en discussion pour avoir...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Après le suicide d'une utilisatrice de ChatGPT, OpenAI est la cible d'une nouvelle plainte",
-      "link": "https://www.01net.com/actualites/openai-de-nouveau-poursuivi-apres-suicide-utilisatrice-chatgpt.html",
-      "url": "https://www.01net.com/actualites/openai-de-nouveau-poursuivi-apres-suicide-utilisatrice-chatgpt.html",
-      "publishedAt": "2026-06-17T16:56:25.000Z",
-      "date": "2026-06-17T16:56:25.000Z",
-      "description": "Après le suicide d'une utilisatrice de ChatGPT, OpenAI est la cible d'une nouvelle plainte... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "excerpt": "Après le suicide d'une utilisatrice de ChatGPT, OpenAI est la cible d'une nouvelle plainte... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT ne détient plus la majorité du marché de l'IA, c'est une première historique",
-      "link": "https://www.01net.com/actualites/chatgpt-ne-detient-plus-la-majorite-du-marche-de-lia-cest-une-premiere-historique.html",
-      "url": "https://www.01net.com/actualites/chatgpt-ne-detient-plus-la-majorite-du-marche-de-lia-cest-une-premiere-historique.html",
-      "publishedAt": "2026-06-17T16:26:43.000Z",
-      "date": "2026-06-17T16:26:43.000Z",
-      "description": "Pendant des mois, ChatGPT a représenté plus d'un assistant IA sur deux dans le monde. Ce n... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "excerpt": "Pendant des mois, ChatGPT a représenté plus d'un assistant IA sur deux dans le monde. Ce n... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le timing est cruel: la Chine dévoile GLM-5.2, un modèle gratuit qui rivalise avec Claude...",
-      "link": "https://www.numerama.com/tech/2278511-le-timing-est-cruel-la-chine-devoile-glm-5-2-un-modele-gratuit-qui-rivalise-avec-claude-opus-4-8-et-gpt-5-5.html",
-      "url": "https://www.numerama.com/tech/2278511-le-timing-est-cruel-la-chine-devoile-glm-5-2-un-modele-gratuit-qui-rivalise-avec-claude-opus-4-8-et-gpt-5-5.html",
-      "publishedAt": "2026-06-17T14:36:35.000Z",
-      "date": "2026-06-17T14:36:35.000Z",
-      "description": "Source: Montage Numerama avec ChatGPT. Ponytail, l'agent IA qui cherche à optimiser votre code en limitant...",
-      "excerpt": "Source: Montage Numerama avec ChatGPT. Ponytail, l'agent IA qui cherche à optimiser votre code en limitant...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Arrêtez d'utiliser ChatGPT: OpenAI mise tout sur Codex - Numerama",
-      "link": "https://www.numerama.com/tech/2277913-arretez-dutiliser-chatgpt-openai-mise-tout-sur-codex.html",
-      "url": "https://www.numerama.com/tech/2277913-arretez-dutiliser-chatgpt-openai-mise-tout-sur-codex.html",
-      "publishedAt": "2026-06-17T14:01:12.000Z",
-      "date": "2026-06-17T14:01:12.000Z",
-      "description": "... ChatGPT. OpenAI pense qu'à l'ère des IA agentiques, Codex incarne plus l'avenir qu'un simple chatbot. Et si le futur d'OpenAI n'était pas ChatGPT?",
-      "excerpt": "... ChatGPT. OpenAI pense qu'à l'ère des IA agentiques, Codex incarne plus l'avenir qu'un simple chatbot. Et si le futur d'OpenAI n'était pas ChatGPT?",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La domination écrasante de ChatGPT s'effondre, et un nom revient sans cesse",
-      "link": "https://www.phonandroid.com/la-domination-ecrasante-de-chatgpt-seffondre-et-un-nom-revient-sans-cesse.html",
-      "url": "https://www.phonandroid.com/la-domination-ecrasante-de-chatgpt-seffondre-et-un-nom-revient-sans-cesse.html",
-      "publishedAt": "2026-06-17T13:54:19.000Z",
-      "date": "2026-06-17T13:54:19.000Z",
-      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Google avance ses pions et menace ChatGPT avec Gemini, son propre...",
-      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Google avance ses pions et menace ChatGPT avec Gemini, son propre...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
