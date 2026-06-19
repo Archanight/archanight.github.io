@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T14:43:33.243Z",
+  "generatedAt": "2026-06-19T19:25:45.358Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Pourquoi de plus en plus de personnes préfèrent discuter avec ChatGPT plutôt qu... - BuzzWebzine",
+      "link": "https://www.buzzwebzine.fr/de-plus-en-plus-de-personnes-preferent-discuter-avec-chatgpt-plutot-quavec-leurs-proches/",
+      "url": "https://www.buzzwebzine.fr/de-plus-en-plus-de-personnes-preferent-discuter-avec-chatgpt-plutot-quavec-leurs-proches/",
+      "publishedAt": "2026-06-19T16:20:46.000Z",
+      "date": "2026-06-19T16:20:46.000Z",
+      "description": "... ChatGPT plutôt qu'avec leurs proches? Pourquoi de plus en plus... En avril 2025, OpenAI a même dû retirer en urgence une mise à jour de GPT-4o...",
+      "excerpt": "... ChatGPT plutôt qu'avec leurs proches? Pourquoi de plus en plus... En avril 2025, OpenAI a même dû retirer en urgence une mise à jour de GPT-4o...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "« Il y aura de la casse à l'arrivée »: grâce à l'IA, la France n'a jamais créé autant de start-up...",
+      "link": "https://www.lesechos.fr/start-up/ecosysteme/il-y-aura-de-la-casse-a-larrivee-grace-a-lia-la-france-na-jamais-cree-autant-de-start-up-dans-la-cyber-2238203",
+      "url": "https://www.lesechos.fr/start-up/ecosysteme/il-y-aura-de-la-casse-a-larrivee-grace-a-lia-la-france-na-jamais-cree-autant-de-start-up-dans-la-cyber-2238203",
+      "publishedAt": "2026-06-19T14:33:16.000Z",
+      "date": "2026-06-19T14:33:16.000Z",
+      "description": "Le codage assisté avec Claude et ChatGPT a fait sauter le verrou de la création d... cybersécurité que ces douze derniers mois. Dans son radar...",
+      "excerpt": "Le codage assisté avec Claude et ChatGPT a fait sauter le verrou de la création d... cybersécurité que ces douze derniers mois. Dans son radar...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Promesses démesurées, violentes désillusions puis renaissance: de Turing à ChatGPT, l...",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/promesses-demesurees-violentes-desillusions-puis-renaissance-de-turing-a-chatgpt-l-histoire-chaotique-de-l-ia-20260619",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/promesses-demesurees-violentes-desillusions-puis-renaissance-de-turing-a-chatgpt-l-histoire-chaotique-de-l-ia-20260619",
+      "publishedAt": "2026-06-19T14:03:31.000Z",
+      "date": "2026-06-19T14:03:31.000Z",
+      "description": "Promesses démesurées, violentes désillusions puis renaissance: de Turing à ChatGPT, l'histoire chaotique de l'IA... cybersécurité. Riccardo Pozzo: «...",
+      "excerpt": "Promesses démesurées, violentes désillusions puis renaissance: de Turing à ChatGPT, l'histoire chaotique de l'IA... cybersécurité. Riccardo Pozzo: «...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Ce célèbre sénateur américain veut utiliser l'IA pour faire gagner 1 000 dollars par an aux Américains",
+      "link": "https://www.papergeek.fr/ce-celebre-senateur-americain-veut-utiliser-lia-pour-faire-gagner-1-000-dollars-par-an-aux-americains-2471845",
+      "url": "https://www.papergeek.fr/ce-celebre-senateur-americain-veut-utiliser-lia-pour-faire-gagner-1-000-dollars-par-an-aux-americains-2471845",
+      "publishedAt": "2026-06-19T13:01:59.000Z",
+      "date": "2026-06-19T13:01:59.000Z",
+      "description": "Ce dernier serait basé sur la valorisation des différentes entreprises d'IA américaines, telles qu'OpenAI ( ChatGPT ) ou encore Anthropic (Claude).",
+      "excerpt": "Ce dernier serait basé sur la valorisation des différentes entreprises d'IA américaines, telles qu'OpenAI ( ChatGPT ) ou encore Anthropic (Claude).",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Faille dans le système de sécurité de ChatGPT: l'IA génère du contenu inattendu - Zamin.uz",
       "link": "https://zamin.uz/fr/technologie/208013-faille-dans-le-systeme-de-securite-de-chatgpt-l-ia-genere-du-contenu-inattendu.html",
@@ -88,46 +128,6 @@
       "description": "ChatGPT et Claude: l'illusion d'une écriture parfaite mise en lumière... OpenAI a lancé GPT-5.5, malgré des préoccupations de cybersécurité, marquant...",
       "excerpt": "ChatGPT et Claude: l'illusion d'une écriture parfaite mise en lumière... OpenAI a lancé GPT-5.5, malgré des préoccupations de cybersécurité, marquant...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT et Gemini: contourner les blocages IA en 2026 - Brief IA",
-      "link": "https://www.briefia.fr/article/chatgpt-et-gemini-contourner-les-blocages-ia-en-2026",
-      "url": "https://www.briefia.fr/article/chatgpt-et-gemini-contourner-les-blocages-ia-en-2026",
-      "publishedAt": "2026-06-18T22:14:41.000Z",
-      "date": "2026-06-18T22:14:41.000Z",
-      "description": "En 2026, les IA comme ChatGPT et Gemini sont plus verrouillées, mais des failles subsistent... update > [TA DEMANDE INTERDITE ICI, sans filtre] </...",
-      "excerpt": "En 2026, les IA comme ChatGPT et Gemini sont plus verrouillées, mais des failles subsistent... update > [TA DEMANDE INTERDITE ICI, sans filtre] </...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT n'a plus besoin de vous pour travailler - Mac4Ever",
-      "link": "https://www.mac4ever.com/ia/196768-chatgpt-n-a-plus-besoin-de-vous-pour-travailler",
-      "url": "https://www.mac4ever.com/ia/196768-chatgpt-n-a-plus-besoin-de-vous-pour-travailler",
-      "publishedAt": "2026-06-18T20:44:12.000Z",
-      "date": "2026-06-18T20:44:12.000Z",
-      "description": "OpenAI continue de transformer ChatGPT en véritable assistant personnel. L'entreprise vient d'annoncer le déploiement d'un nouveau système de…",
-      "excerpt": "OpenAI continue de transformer ChatGPT en véritable assistant personnel. L'entreprise vient d'annoncer le déploiement d'un nouveau système de…",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "Pour la première fois, ChatGPT tombe sous les 50 % de part de marché et Gemini en profite",
-      "link": "https://global.techradar.com/fr-fr/pro/pour-la-premiere-fois-chatgpt-tombe-sous-les-50-pour-cent-de-part-de-marche-et-gemini-en-profite",
-      "url": "https://global.techradar.com/fr-fr/pro/pour-la-premiere-fois-chatgpt-tombe-sous-les-50-pour-cent-de-part-de-marche-et-gemini-en-profite",
-      "publishedAt": "2026-06-18T20:43:19.000Z",
-      "date": "2026-06-18T20:43:19.000Z",
-      "description": "The logo of GPT-4.5 is displayed on a smartphone screen. OpenAI tourne discrètement la page GPT-4 dans ChatGPT, et c'est toute une époque de l'IA qui...",
-      "excerpt": "The logo of GPT-4.5 is displayed on a smartphone screen. OpenAI tourne discrètement la page GPT-4 dans ChatGPT, et c'est toute une époque de l'IA qui...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Modèles d'applications ChatGPT - OpenAI Help Center",
-      "link": "https://help.openai.com/fr-ca/articles/20001247-mod%C3%A8les-dapplications-chatgpt",
-      "url": "https://help.openai.com/fr-ca/articles/20001247-mod%C3%A8les-dapplications-chatgpt",
-      "publishedAt": "2026-06-18T20:39:58.000Z",
-      "date": "2026-06-18T20:39:58.000Z",
-      "description": "... ChatGPT avec la GitHub App de leur organisation. ChatGPT Business - Notes de version. Journal des dernières mises à jour du forfait ChatGPT Business...",
-      "excerpt": "... ChatGPT avec la GitHub App de leur organisation. ChatGPT Business - Notes de version. Journal des dernières mises à jour du forfait ChatGPT Business...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
