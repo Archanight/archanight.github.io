@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T10:12:36.156Z",
+  "generatedAt": "2026-06-19T14:43:33.243Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -37,6 +37,16 @@
       "date": "2026-06-19T01:52:35.000Z",
       "description": "Nous créons des outils, et chacun les utilise pour créer l'avenir.; ChatGPT. ChatGPT (ouverture dans une nouvelle fenêtre) · Notes de version.",
       "excerpt": "Nous créons des outils, et chacun les utilise pour créer l'avenir.; ChatGPT. ChatGPT (ouverture dans une nouvelle fenêtre) · Notes de version.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT lance Finances: suivre factures, abonnements et patrimoine avec l'IA — mais est-ce sûr?",
+      "link": "https://www.buycheapai.com/fr/blog/15-chatgpt-finances/",
+      "url": "https://www.buycheapai.com/fr/blog/15-chatgpt-finances/",
+      "publishedAt": "2026-06-19T01:17:35.000Z",
+      "date": "2026-06-19T01:17:35.000Z",
+      "description": "ChatGPT lance Finances: suivre factures, abonnements et patrimoine avec... chatgpt - release-notes · ← Précédent. ChatGPT arrive dans la barre...",
+      "excerpt": "ChatGPT lance Finances: suivre factures, abonnements et patrimoine avec... chatgpt - release-notes · ← Précédent. ChatGPT arrive dans la barre...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
@@ -110,23 +120,13 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "OpenAI lance des outils d'analyse avancés et des contrôles de dépenses pour ChatGPT Enterprise",
-      "link": "https://www.zonebourse.com/actualite-bourse/openai-lance-des-outils-d-analyse-avances-et-des-controles-de-depenses-pour-chatgpt-enterprise-ce7f5cd2d988f723",
-      "url": "https://www.zonebourse.com/actualite-bourse/openai-lance-des-outils-d-analyse-avances-et-des-controles-de-depenses-pour-chatgpt-enterprise-ce7f5cd2d988f723",
-      "publishedAt": "2026-06-18T19:55:35.000Z",
-      "date": "2026-06-18T19:55:35.000Z",
-      "description": "... ChatGPT Enterprise. Ces outils sont conçus pour offrir aux... -Le 18... Cybersécurité · Marques fortes. Trading. Market Timing · Actualités qui...",
-      "excerpt": "... ChatGPT Enterprise. Ces outils sont conçus pour offrir aux... -Le 18... Cybersécurité · Marques fortes. Trading. Market Timing · Actualités qui...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI teste le nouvel abonnement ChatGPT for Science à des fins de recherche",
-      "link": "https://fr.dataconomy.com/2026/06/18/openai-teste-le-nouvel-abonnement-chatgpt-for-science-a-des-fins-de-recherche/",
-      "url": "https://fr.dataconomy.com/2026/06/18/openai-teste-le-nouvel-abonnement-chatgpt-for-science-a-des-fins-de-recherche/",
-      "publishedAt": "2026-06-18T19:30:50.000Z",
-      "date": "2026-06-18T19:30:50.000Z",
-      "description": "OpenAI testerait ChatGPT for Science, un nouvel abonnement axé sur la recherche scientifique qui pourrait être limité aux institutions vérifiées.",
-      "excerpt": "OpenAI testerait ChatGPT for Science, un nouvel abonnement axé sur la recherche scientifique qui pourrait être limité aux institutions vérifiées.",
+      "title": "Modèles d'applications ChatGPT - OpenAI Help Center",
+      "link": "https://help.openai.com/fr-ca/articles/20001247-mod%C3%A8les-dapplications-chatgpt",
+      "url": "https://help.openai.com/fr-ca/articles/20001247-mod%C3%A8les-dapplications-chatgpt",
+      "publishedAt": "2026-06-18T20:39:58.000Z",
+      "date": "2026-06-18T20:39:58.000Z",
+      "description": "... ChatGPT avec la GitHub App de leur organisation. ChatGPT Business - Notes de version. Journal des dernières mises à jour du forfait ChatGPT Business...",
+      "excerpt": "... ChatGPT avec la GitHub App de leur organisation. ChatGPT Business - Notes de version. Journal des dernières mises à jour du forfait ChatGPT Business...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
