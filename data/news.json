@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T02:59:17.855Z",
+  "generatedAt": "2026-06-19T10:12:36.156Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,36 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Faille dans le système de sécurité de ChatGPT: l'IA génère du contenu inattendu - Zamin.uz",
+      "link": "https://zamin.uz/fr/technologie/208013-faille-dans-le-systeme-de-securite-de-chatgpt-l-ia-genere-du-contenu-inattendu.html",
+      "url": "https://zamin.uz/fr/technologie/208013-faille-dans-le-systeme-de-securite-de-chatgpt-l-ia-genere-du-contenu-inattendu.html",
+      "publishedAt": "2026-06-19T09:43:55.000Z",
+      "date": "2026-06-19T09:43:55.000Z",
+      "description": "14:23 / 19.06.2026 · 5· Technologie. Faille dans le système de sécurité de ChatGPT: l'IA génère du contenu inattendu.",
+      "excerpt": "14:23 / 19.06.2026 · 5· Technologie. Faille dans le système de sécurité de ChatGPT: l'IA génère du contenu inattendu.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Assassin's Creed Hexe: Une fenêtre de sortie visée en interne dévoilée - GAMEWAVE",
+      "link": "https://gamewave.fr/assassin-s-creed-hexe/assassin-s-creed-hexe-une-fenetre-de-sortie-visee-en-interne-devoilee/",
+      "url": "https://gamewave.fr/assassin-s-creed-hexe/assassin-s-creed-hexe-une-fenetre-de-sortie-visee-en-interne-devoilee/",
+      "publishedAt": "2026-06-19T09:24:44.000Z",
+      "date": "2026-06-19T09:24:44.000Z",
+      "description": "Hexe is Reportedly as of now meant to release June 2027. More to... « ChatGPT était vraiment nul »: L'ex-directeur d'Assassin's Creed Hexe...",
+      "excerpt": "Hexe is Reportedly as of now meant to release June 2027. More to... « ChatGPT était vraiment nul »: L'ex-directeur d'Assassin's Creed Hexe...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Créer de nouvelles simulations de trous noirs avec Codex - OpenAI",
+      "link": "https://openai.com/fr-FR/index/creating-new-simulations-black-holes/",
+      "url": "https://openai.com/fr-FR/index/creating-new-simulations-black-holes/",
+      "publishedAt": "2026-06-19T01:52:35.000Z",
+      "date": "2026-06-19T01:52:35.000Z",
+      "description": "Nous créons des outils, et chacun les utilise pour créer l'avenir.; ChatGPT. ChatGPT (ouverture dans une nouvelle fenêtre) · Notes de version.",
+      "excerpt": "Nous créons des outils, et chacun les utilise pour créer l'avenir.; ChatGPT. ChatGPT (ouverture dans une nouvelle fenêtre) · Notes de version.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "ChatGPT: images choquantes générées par simples invites - Brief IA",
       "link": "https://www.briefia.fr/article/chatgpt-images-choquantes-generees-par-simples-invites",
       "url": "https://www.briefia.fr/article/chatgpt-images-choquantes-generees-par-simples-invites",
@@ -18,6 +48,16 @@
       "description": "... ChatGPT pour produire des images dérangeantes. L'invite utilisée, découverte sur le réseau social X, demandait au modèle de \"restaurer la photo...",
       "excerpt": "... ChatGPT pour produire des images dérangeantes. L'invite utilisée, découverte sur le réseau social X, demandait au modèle de \"restaurer la photo...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Jesse Eisenberg Used ChatGPT to Train for 'Hot Ones,' Says 'Nothing's Scarier Than an AI...",
+      "link": "https://www.imdb.com/fr/news/ni65891687/?ref_=tt_nwr_1",
+      "url": "https://www.imdb.com/fr/news/ni65891687/?ref_=tt_nwr_1",
+      "publishedAt": "2026-06-18T23:00:26.000Z",
+      "date": "2026-06-18T23:00:26.000Z",
+      "description": "Jesse Eisenberg turned to ChatGPT for tips on surviving his time on “Hot Ones.... release. 17/06/2026; par Steve Seigh; JoBlo.com. Jennifer Aniston,...",
+      "excerpt": "Jesse Eisenberg turned to ChatGPT for tips on surviving his time on “Hot Ones.... release. 17/06/2026; par Steve Seigh; JoBlo.com. Jennifer Aniston,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Contre la \"marginalisation de l'être humain\", une tribune appelle à boycotter l'IA grand public",
@@ -50,6 +90,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
+      "title": "ChatGPT n'a plus besoin de vous pour travailler - Mac4Ever",
+      "link": "https://www.mac4ever.com/ia/196768-chatgpt-n-a-plus-besoin-de-vous-pour-travailler",
+      "url": "https://www.mac4ever.com/ia/196768-chatgpt-n-a-plus-besoin-de-vous-pour-travailler",
+      "publishedAt": "2026-06-18T20:44:12.000Z",
+      "date": "2026-06-18T20:44:12.000Z",
+      "description": "OpenAI continue de transformer ChatGPT en véritable assistant personnel. L'entreprise vient d'annoncer le déploiement d'un nouveau système de…",
+      "excerpt": "OpenAI continue de transformer ChatGPT en véritable assistant personnel. L'entreprise vient d'annoncer le déploiement d'un nouveau système de…",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
       "title": "Pour la première fois, ChatGPT tombe sous les 50 % de part de marché et Gemini en profite",
       "link": "https://global.techradar.com/fr-fr/pro/pour-la-premiere-fois-chatgpt-tombe-sous-les-50-pour-cent-de-part-de-marche-et-gemini-en-profite",
       "url": "https://global.techradar.com/fr-fr/pro/pour-la-premiere-fois-chatgpt-tombe-sous-les-50-pour-cent-de-part-de-marche-et-gemini-en-profite",
@@ -78,56 +128,6 @@
       "description": "OpenAI testerait ChatGPT for Science, un nouvel abonnement axé sur la recherche scientifique qui pourrait être limité aux institutions vérifiées.",
       "excerpt": "OpenAI testerait ChatGPT for Science, un nouvel abonnement axé sur la recherche scientifique qui pourrait être limité aux institutions vérifiées.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI déploie une page de tâches planifiées pour ChatGPT - Dataconomy FR",
-      "link": "https://fr.dataconomy.com/2026/06/18/openai-deploie-une-page-de-taches-planifiees-pour-chatgpt/",
-      "url": "https://fr.dataconomy.com/2026/06/18/openai-deploie-une-page-de-taches-planifiees-pour-chatgpt/",
-      "publishedAt": "2026-06-18T19:05:33.000Z",
-      "date": "2026-06-18T19:05:33.000Z",
-      "description": "OpenAI introduit un nouveau hub pour les tâches planifiées dans ChatGPT, permettant aux utilisateurs d'afficher, de modifier et de gérer...",
-      "excerpt": "OpenAI introduit un nouveau hub pour les tâches planifiées dans ChatGPT, permettant aux utilisateurs d'afficher, de modifier et de gérer...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Comment OpenAI a pu perdre 38 milliards de dollars en seulement un an? Voici ce qui...",
-      "link": "https://siecledigital.fr/2026/06/18/comment-openai-a-pu-perdre-38-milliards-de-dollars-en-seulement-un-an-voici-ce-qui-plombe-ses-finances/",
-      "url": "https://siecledigital.fr/2026/06/18/comment-openai-a-pu-perdre-38-milliards-de-dollars-en-seulement-un-an-voici-ce-qui-plombe-ses-finances/",
-      "publishedAt": "2026-06-18T18:52:58.000Z",
-      "date": "2026-06-18T18:52:58.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT obtient des centaines de millions d'utilisateurs hebdomadaires.",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS... ChatGPT obtient des centaines de millions d'utilisateurs hebdomadaires.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Jailbreak IA 2026: le guide ultime pour débrider ChatGPT, Gemini, Claude… - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/jailbreak-ia-2026-le-guide-ultime-pour-debrider-chatgpt-gemini-claude",
-      "url": "https://www.lebigdata.fr/jailbreak-ia-2026-le-guide-ultime-pour-debrider-chatgpt-gemini-claude",
-      "publishedAt": "2026-06-18T18:36:24.000Z",
-      "date": "2026-06-18T18:36:24.000Z",
-      "description": "En 2026, les modèles multimodaux (Vision-Language Models ou VLM) comme GPT-4o... GPT-5.x, Gemini 3). Mise à jour automatique des techniques dès...",
-      "excerpt": "En 2026, les modèles multimodaux (Vision-Language Models ou VLM) comme GPT-4o... GPT-5.x, Gemini 3). Mise à jour automatique des techniques dès...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT et Copilot: défi d'identité vérifiée en entreprise - Brief IA",
-      "link": "https://www.briefia.fr/article/chatgpt-et-copilot-defi-d-identite-verifiee-en-entreprise",
-      "url": "https://www.briefia.fr/article/chatgpt-et-copilot-defi-d-identite-verifiee-en-entreprise",
-      "publishedAt": "2026-06-18T18:09:28.000Z",
-      "date": "2026-06-18T18:09:28.000Z",
-      "description": "... ChatGPT Enterprise et Copilot Studio illustrent la nécessité d'un pont d... update (codeVerifier).digest(\"base64url\"); return { codeVerifier...",
-      "excerpt": "... ChatGPT Enterprise et Copilot Studio illustrent la nécessité d'un pont d... update (codeVerifier).digest(\"base64url\"); return { codeVerifier...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Qwen 2.5 surpasse ChatGPT: le pari gagnant d'un serveur IA local | Brief IA",
-      "link": "https://www.briefia.fr/article/qwen-2-5-surpasse-chatgpt-le-pari-gagnant-d-un-serveur-ia-local",
-      "url": "https://www.briefia.fr/article/qwen-2-5-surpasse-chatgpt-le-pari-gagnant-d-un-serveur-ia-local",
-      "publishedAt": "2026-06-18T18:09:24.000Z",
-      "date": "2026-06-18T18:09:24.000Z",
-      "description": "Qwen 2.5 surpasse ChatGPT: le pari gagnant d'un serveur IA local · 2.5 Coder 32B a surpassé GPT-4o avec un score de 92,9 sur HumanEval, révélant des...",
-      "excerpt": "Qwen 2.5 surpasse ChatGPT: le pari gagnant d'un serveur IA local · 2.5 Coder 32B a surpassé GPT-4o avec un score de 92,9 sur HumanEval, révélant des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
