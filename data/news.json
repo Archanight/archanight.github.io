@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T13:28:27.874Z",
+  "generatedAt": "2026-06-20T19:09:58.434Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Copilot au bureau, ChatGPT en cachette: voici ce que vous risquez vraiment - Capital.fr",
+      "link": "https://www.capital.fr/votre-carriere/copilot-au-bureau-chatgpt-en-cachette-voici-ce-que-vous-risquez-vraiment-1527748",
+      "url": "https://www.capital.fr/votre-carriere/copilot-au-bureau-chatgpt-en-cachette-voici-ce-que-vous-risquez-vraiment-1527748",
+      "publishedAt": "2026-06-20T16:18:17.000Z",
+      "date": "2026-06-20T16:18:17.000Z",
+      "description": "... cybersécurité. Décryptage. De nombreux salariés utilisent ChatGPT...",
+      "excerpt": "... cybersécurité. Décryptage. De nombreux salariés utilisent ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Une vulnérabilité a été découverte dans le filtre d'images de ChatGPT. - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/phat-hien-lo-hong-trong-bo-loc-hinh-anh-cua-chatgpt",
+      "url": "https://www.vietnam.vn/fr/phat-hien-lo-hong-trong-bo-loc-hinh-anh-cua-chatgpt",
+      "publishedAt": "2026-06-20T15:28:24.000Z",
+      "date": "2026-06-20T15:28:24.000Z",
+      "description": "... chatgpt -100260619153201605.htm. Follow Vietnam.vn on. Google. News. 0. Tag: cybersécuritéChatGPT intelligence artificiellecontrôle du contenuOPENAI.",
+      "excerpt": "... chatgpt -100260619153201605.htm. Follow Vietnam.vn on. Google. News. 0. Tag: cybersécuritéChatGPT intelligence artificiellecontrôle du contenuOPENAI.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'IA n'a pas détruit le marché du travail, mais elle creuse un fossé entre juniors et seniors",
+      "link": "https://www.clubic.com/actualite-617896-l-ia-menace-t-elle-vraiment-votre-emploi-ce-graphique-compare-avec-internet.html",
+      "url": "https://www.clubic.com/actualite-617896-l-ia-menace-t-elle-vraiment-votre-emploi-ce-graphique-compare-avec-internet.html",
+      "publishedAt": "2026-06-20T15:08:48.000Z",
+      "date": "2026-06-20T15:08:48.000Z",
+      "description": "Trente-trois mois après le lancement de ChatGPT, le Budget Lab de l... Cybersécurité · Cyber Pro par Bitdefender. L'IA n'a pas détruit le...",
+      "excerpt": "Trente-trois mois après le lancement de ChatGPT, le Budget Lab de l... Cybersécurité · Cyber Pro par Bitdefender. L'IA n'a pas détruit le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5, Claude et Gemini sans abonnement: 1minAI passe à moins de 23€ à vie - Clubic",
+      "link": "https://www.clubic.com/bons-plans-617824-gpt-5-claude-et-gemini-sans-abonnement-1minai-passe-a-moins-de-23-a-vie.html",
+      "url": "https://www.clubic.com/bons-plans-617824-gpt-5-claude-et-gemini-sans-abonnement-1minai-passe-a-moins-de-23-a-vie.html",
+      "publishedAt": "2026-06-20T15:04:03.000Z",
+      "date": "2026-06-20T15:04:03.000Z",
+      "description": "GPT-5, Claude et Gemini sans abonnement: 1minAI passe à moins de 23€ à vie · Entre ChatGPT Plus, Claude Pro et Gemini Advanced, le budget IA mensuel...",
+      "excerpt": "GPT-5, Claude et Gemini sans abonnement: 1minAI passe à moins de 23€ à vie · Entre ChatGPT Plus, Claude Pro et Gemini Advanced, le budget IA mensuel...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "GPT-5.6: pourquoi votre ChatGPT semble soudain plus performant - 1001Web",
       "link": "https://www.1001web.fr/gpt-56-rumeurs-chatgpt-171261.html",
@@ -88,46 +128,6 @@
       "description": "Le codage assisté avec Claude et ChatGPT a fait sauter le verrou de la création d... cybersécurité que ces douze derniers mois. Dans son radar...",
       "excerpt": "Le codage assisté avec Claude et ChatGPT a fait sauter le verrou de la création d... cybersécurité que ces douze derniers mois. Dans son radar...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Promesses démesurées, violentes désillusions puis renaissance: de Turing à ChatGPT, l...",
-      "link": "https://www.lefigaro.fr/secteur/high-tech/promesses-demesurees-violentes-desillusions-puis-renaissance-de-turing-a-chatgpt-l-histoire-chaotique-de-l-ia-20260619",
-      "url": "https://www.lefigaro.fr/secteur/high-tech/promesses-demesurees-violentes-desillusions-puis-renaissance-de-turing-a-chatgpt-l-histoire-chaotique-de-l-ia-20260619",
-      "publishedAt": "2026-06-19T14:03:31.000Z",
-      "date": "2026-06-19T14:03:31.000Z",
-      "description": "Promesses démesurées, violentes désillusions puis renaissance: de Turing à ChatGPT, l'histoire chaotique de l'IA... cybersécurité. Riccardo Pozzo: «...",
-      "excerpt": "Promesses démesurées, violentes désillusions puis renaissance: de Turing à ChatGPT, l'histoire chaotique de l'IA... cybersécurité. Riccardo Pozzo: «...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ce célèbre sénateur américain veut utiliser l'IA pour faire gagner 1 000 dollars par an aux Américains",
-      "link": "https://www.papergeek.fr/ce-celebre-senateur-americain-veut-utiliser-lia-pour-faire-gagner-1-000-dollars-par-an-aux-americains-2471845",
-      "url": "https://www.papergeek.fr/ce-celebre-senateur-americain-veut-utiliser-lia-pour-faire-gagner-1-000-dollars-par-an-aux-americains-2471845",
-      "publishedAt": "2026-06-19T13:01:59.000Z",
-      "date": "2026-06-19T13:01:59.000Z",
-      "description": "Ce dernier serait basé sur la valorisation des différentes entreprises d'IA américaines, telles qu'OpenAI ( ChatGPT ) ou encore Anthropic (Claude).",
-      "excerpt": "Ce dernier serait basé sur la valorisation des différentes entreprises d'IA américaines, telles qu'OpenAI ( ChatGPT ) ou encore Anthropic (Claude).",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Faille dans le système de sécurité de ChatGPT: l'IA génère du contenu inattendu - Zamin.uz",
-      "link": "https://zamin.uz/fr/technologie/208013-faille-dans-le-systeme-de-securite-de-chatgpt-l-ia-genere-du-contenu-inattendu.html",
-      "url": "https://zamin.uz/fr/technologie/208013-faille-dans-le-systeme-de-securite-de-chatgpt-l-ia-genere-du-contenu-inattendu.html",
-      "publishedAt": "2026-06-19T09:48:44.000Z",
-      "date": "2026-06-19T09:48:44.000Z",
-      "description": "... ChatGPT. Des chercheurs de la BBC et des experts en cybersécurité ont prouvé que la dernière version du système peut mal interpréter les requêtes...",
-      "excerpt": "... ChatGPT. Des chercheurs de la BBC et des experts en cybersécurité ont prouvé que la dernière version du système peut mal interpréter les requêtes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Assassin's Creed Hexe: Une fenêtre de sortie visée en interne dévoilée - GAMEWAVE",
-      "link": "https://gamewave.fr/assassin-s-creed-hexe/assassin-s-creed-hexe-une-fenetre-de-sortie-visee-en-interne-devoilee/",
-      "url": "https://gamewave.fr/assassin-s-creed-hexe/assassin-s-creed-hexe-une-fenetre-de-sortie-visee-en-interne-devoilee/",
-      "publishedAt": "2026-06-19T09:24:44.000Z",
-      "date": "2026-06-19T09:24:44.000Z",
-      "description": "Hexe is Reportedly as of now meant to release June 2027. More to... « ChatGPT était vraiment nul »: L'ex-directeur d'Assassin's Creed Hexe...",
-      "excerpt": "Hexe is Reportedly as of now meant to release June 2027. More to... « ChatGPT était vraiment nul »: L'ex-directeur d'Assassin's Creed Hexe...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
