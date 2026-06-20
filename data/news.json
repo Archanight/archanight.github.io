@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T19:25:45.358Z",
+  "generatedAt": "2026-06-20T02:31:49.861Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,36 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Anthropic: Fable 5 et Mythos 5 de retour d'ici quelques jours - Softonic",
+      "link": "https://fr.softonic.com/articles/anthropic-fable-5-et-mythos-5-de-retour-dici-quelques-jours",
+      "url": "https://fr.softonic.com/articles/anthropic-fable-5-et-mythos-5-de-retour-dici-quelques-jours",
+      "publishedAt": "2026-06-19T22:50:08.000Z",
+      "date": "2026-06-19T22:50:08.000Z",
+      "description": "ChatGPT: transférer sa mémoire vers Claude ou Gemini, toujours sans option officielle... Aujourd'hui encore, ChatGPT ne permet pas de transférer...",
+      "excerpt": "ChatGPT: transférer sa mémoire vers Claude ou Gemini, toujours sans option officielle... Aujourd'hui encore, ChatGPT ne permet pas de transférer...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.6 arrive la semaine prochaine: OpenAI pousse le curseur à 1,5 million de tokens",
+      "link": "https://www.journalduweb.org/gpt-5-6-arrive-la-semaine-prochaine-openai-pousse-le-curseur-a-15-million-de-tokens/",
+      "url": "https://www.journalduweb.org/gpt-5-6-arrive-la-semaine-prochaine-openai-pousse-le-curseur-a-15-million-de-tokens/",
+      "publishedAt": "2026-06-19T20:33:32.000Z",
+      "date": "2026-06-19T20:33:32.000Z",
+      "description": "... ChatGPT, l'API et les abonnés Pro sur plusieurs jours. Des traces d'un... IA & RobotiqueInformatique & Cybersécurité · Claude Mythos: l'IA...",
+      "excerpt": "... ChatGPT, l'API et les abonnés Pro sur plusieurs jours. Des traces d'un... IA & RobotiqueInformatique & Cybersécurité · Claude Mythos: l'IA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GEO et JavaScript: ce que les assistants IA voient vraiment sur vos pages - LEPTIDIGITAL",
+      "link": "https://www.leptidigital.fr/webmarketing/seo/geo-javascript-etude-chatbots-ia-voient-vraiment-pages-90777/",
+      "url": "https://www.leptidigital.fr/webmarketing/seo/geo-javascript-etude-chatbots-ia-voient-vraiment-pages-90777/",
+      "publishedAt": "2026-06-19T20:25:40.000Z",
+      "date": "2026-06-19T20:25:40.000Z",
+      "description": "Un test conduit sur 12 assistants IA (en juin 2026) révèle un résultat que peu anticipaient: ChatGPT, Claude, Gemini, Perplexity et Copilot ne...",
+      "excerpt": "Un test conduit sur 12 assistants IA (en juin 2026) révèle un résultat que peu anticipaient: ChatGPT, Claude, Gemini, Perplexity et Copilot ne...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Pourquoi de plus en plus de personnes préfèrent discuter avec ChatGPT plutôt qu... - BuzzWebzine",
       "link": "https://www.buzzwebzine.fr/de-plus-en-plus-de-personnes-preferent-discuter-avec-chatgpt-plutot-quavec-leurs-proches/",
       "url": "https://www.buzzwebzine.fr/de-plus-en-plus-de-personnes-preferent-discuter-avec-chatgpt-plutot-quavec-leurs-proches/",
@@ -18,6 +48,16 @@
       "description": "... ChatGPT plutôt qu'avec leurs proches? Pourquoi de plus en plus... En avril 2025, OpenAI a même dû retirer en urgence une mise à jour de GPT-4o...",
       "excerpt": "... ChatGPT plutôt qu'avec leurs proches? Pourquoi de plus en plus... En avril 2025, OpenAI a même dû retirer en urgence une mise à jour de GPT-4o...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Cumulo: la plateforme SOC IA souveraine du Royaume-Uni - Brief IA",
+      "link": "https://www.briefia.fr/article/cumulo-la-plateforme-soc-ia-souveraine-du-royaume-uni",
+      "url": "https://www.briefia.fr/article/cumulo-la-plateforme-soc-ia-souveraine-du-royaume-uni",
+      "publishedAt": "2026-06-19T16:11:40.000Z",
+      "date": "2026-06-19T16:11:40.000Z",
+      "description": "Cette plateforme représente une avancée majeure pour les services SOC d'e2e-assure, en offrant une solution véritablement souveraine.... ChatGPT a été...",
+      "excerpt": "Cette plateforme représente une avancée majeure pour les services SOC d'e2e-assure, en offrant une solution véritablement souveraine.... ChatGPT a été...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "« Il y aura de la casse à l'arrivée »: grâce à l'IA, la France n'a jamais créé autant de start-up...",
@@ -88,46 +128,6 @@
       "description": "ChatGPT lance Finances: suivre factures, abonnements et patrimoine avec... chatgpt - release-notes · ← Précédent. ChatGPT arrive dans la barre...",
       "excerpt": "ChatGPT lance Finances: suivre factures, abonnements et patrimoine avec... chatgpt - release-notes · ← Précédent. ChatGPT arrive dans la barre...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT: images choquantes générées par simples invites - Brief IA",
-      "link": "https://www.briefia.fr/article/chatgpt-images-choquantes-generees-par-simples-invites",
-      "url": "https://www.briefia.fr/article/chatgpt-images-choquantes-generees-par-simples-invites",
-      "publishedAt": "2026-06-19T00:09:39.000Z",
-      "date": "2026-06-19T00:09:39.000Z",
-      "description": "... ChatGPT pour produire des images dérangeantes. L'invite utilisée, découverte sur le réseau social X, demandait au modèle de \"restaurer la photo...",
-      "excerpt": "... ChatGPT pour produire des images dérangeantes. L'invite utilisée, découverte sur le réseau social X, demandait au modèle de \"restaurer la photo...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Jesse Eisenberg Used ChatGPT to Train for 'Hot Ones,' Says 'Nothing's Scarier Than an AI...",
-      "link": "https://www.imdb.com/fr/news/ni65891687/?ref_=tt_nwr_1",
-      "url": "https://www.imdb.com/fr/news/ni65891687/?ref_=tt_nwr_1",
-      "publishedAt": "2026-06-18T23:00:26.000Z",
-      "date": "2026-06-18T23:00:26.000Z",
-      "description": "Jesse Eisenberg turned to ChatGPT for tips on surviving his time on “Hot Ones.... release. 17/06/2026; par Steve Seigh; JoBlo.com. Jennifer Aniston,...",
-      "excerpt": "Jesse Eisenberg turned to ChatGPT for tips on surviving his time on “Hot Ones.... release. 17/06/2026; par Steve Seigh; JoBlo.com. Jennifer Aniston,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Contre la \"marginalisation de l'être humain\", une tribune appelle à boycotter l'IA grand public",
-      "link": "https://www.france24.com/fr/%C3%A9co-tech/20260618-contre-marginalisation-%C3%AAtre-humain-tribune-appelle-boycott-ia-grand-public",
-      "url": "https://www.france24.com/fr/%C3%A9co-tech/20260618-contre-marginalisation-%C3%AAtre-humain-tribune-appelle-boycott-ia-grand-public",
-      "publishedAt": "2026-06-18T22:25:20.000Z",
-      "date": "2026-06-18T22:25:20.000Z",
-      "description": "Selon un baromètre de l'Arcom publié mardi, l'utilisation de services comme ChatGPT... ChatGPT, le 20 mai 2026 à Los Angeles. © Justin Sullivan...",
-      "excerpt": "Selon un baromètre de l'Arcom publié mardi, l'utilisation de services comme ChatGPT... ChatGPT, le 20 mai 2026 à Los Angeles. © Justin Sullivan...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT et Claude: l'illusion d'une écriture parfaite mise en lumière | Brief IA",
-      "link": "https://www.briefia.fr/article/chatgpt-et-claude-l-illusion-d-une-ecriture-parfaite-mise-en-lumiere",
-      "url": "https://www.briefia.fr/article/chatgpt-et-claude-l-illusion-d-une-ecriture-parfaite-mise-en-lumiere",
-      "publishedAt": "2026-06-18T22:14:51.000Z",
-      "date": "2026-06-18T22:14:51.000Z",
-      "description": "ChatGPT et Claude: l'illusion d'une écriture parfaite mise en lumière... OpenAI a lancé GPT-5.5, malgré des préoccupations de cybersécurité, marquant...",
-      "excerpt": "ChatGPT et Claude: l'illusion d'une écriture parfaite mise en lumière... OpenAI a lancé GPT-5.5, malgré des préoccupations de cybersécurité, marquant...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
