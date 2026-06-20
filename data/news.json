@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T02:31:49.861Z",
+  "generatedAt": "2026-06-20T08:40:59.394Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-5.6: pourquoi votre ChatGPT semble soudain plus performant - 1001Web",
+      "link": "https://www.1001web.fr/gpt-56-rumeurs-chatgpt-171261.html",
+      "url": "https://www.1001web.fr/gpt-56-rumeurs-chatgpt-171261.html",
+      "publishedAt": "2026-06-20T03:57:09.000Z",
+      "date": "2026-06-20T03:57:09.000Z",
+      "description": "... ChatGPT plus performant. Date... Si vous dépendez de l'API pour un produit, surveillez la page officielle des modèles et les notes de version...",
+      "excerpt": "... ChatGPT plus performant. Date... Si vous dépendez de l'API pour un produit, surveillez la page officielle des modèles et les notes de version...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Google publie un correctif d'urgence pour Chrome, corrigeant 74 failles de sécurité.",
+      "link": "https://www.vietnam.vn/fr/google-phat-hanh-ban-va-khan-cho-chrome-xu-ly-74-lo-hong-bao-mat",
+      "url": "https://www.vietnam.vn/fr/google-phat-hanh-ban-va-khan-cho-chrome-xu-ly-74-lo-hong-bao-mat",
+      "publishedAt": "2026-06-20T02:30:03.000Z",
+      "date": "2026-06-20T02:30:03.000Z",
+      "description": "Selon les experts en cybersécurité, il s'agit de l'une des plus...",
+      "excerpt": "Selon les experts en cybersécurité, il s'agit de l'une des plus...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Anthropic: Fable 5 et Mythos 5 de retour d'ici quelques jours - Softonic",
       "link": "https://fr.softonic.com/articles/anthropic-fable-5-et-mythos-5-de-retour-dici-quelques-jours",
@@ -107,26 +127,6 @@
       "date": "2026-06-19T09:24:44.000Z",
       "description": "Hexe is Reportedly as of now meant to release June 2027. More to... « ChatGPT était vraiment nul »: L'ex-directeur d'Assassin's Creed Hexe...",
       "excerpt": "Hexe is Reportedly as of now meant to release June 2027. More to... « ChatGPT était vraiment nul »: L'ex-directeur d'Assassin's Creed Hexe...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Créer de nouvelles simulations de trous noirs avec Codex - OpenAI",
-      "link": "https://openai.com/fr-FR/index/creating-new-simulations-black-holes/",
-      "url": "https://openai.com/fr-FR/index/creating-new-simulations-black-holes/",
-      "publishedAt": "2026-06-19T01:52:35.000Z",
-      "date": "2026-06-19T01:52:35.000Z",
-      "description": "Nous créons des outils, et chacun les utilise pour créer l'avenir.; ChatGPT. ChatGPT (ouverture dans une nouvelle fenêtre) · Notes de version.",
-      "excerpt": "Nous créons des outils, et chacun les utilise pour créer l'avenir.; ChatGPT. ChatGPT (ouverture dans une nouvelle fenêtre) · Notes de version.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT lance Finances: suivre factures, abonnements et patrimoine avec l'IA — mais est-ce sûr?",
-      "link": "https://www.buycheapai.com/fr/blog/15-chatgpt-finances/",
-      "url": "https://www.buycheapai.com/fr/blog/15-chatgpt-finances/",
-      "publishedAt": "2026-06-19T01:17:35.000Z",
-      "date": "2026-06-19T01:17:35.000Z",
-      "description": "ChatGPT lance Finances: suivre factures, abonnements et patrimoine avec... chatgpt - release-notes · ← Précédent. ChatGPT arrive dans la barre...",
-      "excerpt": "ChatGPT lance Finances: suivre factures, abonnements et patrimoine avec... chatgpt - release-notes · ← Précédent. ChatGPT arrive dans la barre...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
