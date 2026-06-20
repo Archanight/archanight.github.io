@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T08:40:59.394Z",
+  "generatedAt": "2026-06-20T13:28:27.874Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -113,11 +113,11 @@
       "title": "Faille dans le système de sécurité de ChatGPT: l'IA génère du contenu inattendu - Zamin.uz",
       "link": "https://zamin.uz/fr/technologie/208013-faille-dans-le-systeme-de-securite-de-chatgpt-l-ia-genere-du-contenu-inattendu.html",
       "url": "https://zamin.uz/fr/technologie/208013-faille-dans-le-systeme-de-securite-de-chatgpt-l-ia-genere-du-contenu-inattendu.html",
-      "publishedAt": "2026-06-19T09:43:55.000Z",
-      "date": "2026-06-19T09:43:55.000Z",
-      "description": "14:23 / 19.06.2026 · 5· Technologie. Faille dans le système de sécurité de ChatGPT: l'IA génère du contenu inattendu.",
-      "excerpt": "14:23 / 19.06.2026 · 5· Technologie. Faille dans le système de sécurité de ChatGPT: l'IA génère du contenu inattendu.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+      "publishedAt": "2026-06-19T09:48:44.000Z",
+      "date": "2026-06-19T09:48:44.000Z",
+      "description": "... ChatGPT. Des chercheurs de la BBC et des experts en cybersécurité ont prouvé que la dernière version du système peut mal interpréter les requêtes...",
+      "excerpt": "... ChatGPT. Des chercheurs de la BBC et des experts en cybersécurité ont prouvé que la dernière version du système peut mal interpréter les requêtes...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "Assassin's Creed Hexe: Une fenêtre de sortie visée en interne dévoilée - GAMEWAVE",
