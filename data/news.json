@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T13:48:30.080Z",
+  "generatedAt": "2026-06-21T19:15:43.739Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Arnaques boostées à l'IA: comment les reconnaître avant qu'il ne soit trop tard | Android MT",
+      "link": "https://android-mt.ouest-france.fr/news/arnaques-boostees-a-lia-comment-les-reconnaitre-avant-quil-ne-soit-trop-tard/204370/",
+      "url": "https://android-mt.ouest-france.fr/news/arnaques-boostees-a-lia-comment-les-reconnaitre-avant-quil-ne-soit-trop-tard/204370/",
+      "publishedAt": "2026-06-21T14:19:47.000Z",
+      "date": "2026-06-21T14:19:47.000Z",
+      "description": "Taylor Peltzman, analyste en cybersécurité, le confirme: « L'IA n'a pas modifié les buts des arnaques, mais elle les rend bien plus efficaces et...",
+      "excerpt": "Taylor Peltzman, analyste en cybersécurité, le confirme: « L'IA n'a pas modifié les buts des arnaques, mais elle les rend bien plus efficaces et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "AI can bust you (even if you're being honest) - YouTube",
+      "link": "https://www.youtube.com/watch?v=LZqxOlB0Eos",
+      "url": "https://www.youtube.com/watch?v=LZqxOlB0Eos",
+      "publishedAt": "2026-06-21T14:19:12.000Z",
+      "date": "2026-06-21T14:19:12.000Z",
+      "description": "L'IA peut te griller (même si t'es honnête) Regarde ça si tu utilises ChatGPT pour écrire. Les outils comme Turnitin évoluent vite… et peuvent te...",
+      "excerpt": "L'IA peut te griller (même si t'es honnête) Regarde ça si tu utilises ChatGPT pour écrire. Les outils comme Turnitin évoluent vite… et peuvent te...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "OpenAI face à ses « coûts colossaux »: pourquoi la Bourse est devenue incontournable",
       "link": "https://www.challenges.fr/entreprise/tech-numerique/openai-face-a-ses-couts-colossaux-pourquoi-la-bourse-est-devenue-incontournable_644324",
@@ -108,26 +128,6 @@
       "description": "... ChatGPT plus performant. Date... Si vous dépendez de l'API pour un produit, surveillez la page officielle des modèles et les notes de version...",
       "excerpt": "... ChatGPT plus performant. Date... Si vous dépendez de l'API pour un produit, surveillez la page officielle des modèles et les notes de version...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Google publie un correctif d'urgence pour Chrome, corrigeant 74 failles de sécurité.",
-      "link": "https://www.vietnam.vn/fr/google-phat-hanh-ban-va-khan-cho-chrome-xu-ly-74-lo-hong-bao-mat",
-      "url": "https://www.vietnam.vn/fr/google-phat-hanh-ban-va-khan-cho-chrome-xu-ly-74-lo-hong-bao-mat",
-      "publishedAt": "2026-06-20T02:30:03.000Z",
-      "date": "2026-06-20T02:30:03.000Z",
-      "description": "Selon les experts en cybersécurité, il s'agit de l'une des plus...",
-      "excerpt": "Selon les experts en cybersécurité, il s'agit de l'une des plus...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic: Fable 5 et Mythos 5 de retour d'ici quelques jours - Softonic",
-      "link": "https://fr.softonic.com/articles/anthropic-fable-5-et-mythos-5-de-retour-dici-quelques-jours",
-      "url": "https://fr.softonic.com/articles/anthropic-fable-5-et-mythos-5-de-retour-dici-quelques-jours",
-      "publishedAt": "2026-06-19T22:50:08.000Z",
-      "date": "2026-06-19T22:50:08.000Z",
-      "description": "ChatGPT: transférer sa mémoire vers Claude ou Gemini, toujours sans option officielle... Aujourd'hui encore, ChatGPT ne permet pas de transférer...",
-      "excerpt": "ChatGPT: transférer sa mémoire vers Claude ou Gemini, toujours sans option officielle... Aujourd'hui encore, ChatGPT ne permet pas de transférer...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
