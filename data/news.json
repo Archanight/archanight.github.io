@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T19:09:58.434Z",
+  "generatedAt": "2026-06-21T02:46:57.404Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI révolutionne ChatGPT avec des tâches programmées simplifiées - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-revolutionne-chatgpt-avec-des-taches-programmees-simplifiees",
+      "url": "https://www.briefia.fr/article/openai-revolutionne-chatgpt-avec-des-taches-programmees-simplifiees",
+      "publishedAt": "2026-06-20T18:07:29.000Z",
+      "date": "2026-06-20T18:07:29.000Z",
+      "description": "... ChatGPT en tant qu'assistant personnel, optimisant la gestion des tâches et... ChatGPT, développé par OpenAI, utilise GPT-4 pour offrir des...",
+      "excerpt": "... ChatGPT en tant qu'assistant personnel, optimisant la gestion des tâches et... ChatGPT, développé par OpenAI, utilise GPT-4 pour offrir des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Copilot au bureau, ChatGPT en cachette: voici ce que vous risquez vraiment - Capital.fr",
       "link": "https://www.capital.fr/votre-carriere/copilot-au-bureau-chatgpt-en-cachette-voici-ce-que-vous-risquez-vraiment-1527748",
@@ -48,6 +58,16 @@
       "description": "GPT-5, Claude et Gemini sans abonnement: 1minAI passe à moins de 23€ à vie · Entre ChatGPT Plus, Claude Pro et Gemini Advanced, le budget IA mensuel...",
       "excerpt": "GPT-5, Claude et Gemini sans abonnement: 1minAI passe à moins de 23€ à vie · Entre ChatGPT Plus, Claude Pro et Gemini Advanced, le budget IA mensuel...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment modifier votre paramètre de langue dans ChatGPT - OpenAI Help Center",
+      "link": "https://help.openai.com/fr-fr/articles/8357869-comment-modifier-votre-param%C3%A8tre-de-langue-dans-chatgpt",
+      "url": "https://help.openai.com/fr-fr/articles/8357869-comment-modifier-votre-param%C3%A8tre-de-langue-dans-chatgpt",
+      "publishedAt": "2026-06-20T13:58:01.000Z",
+      "date": "2026-06-20T13:58:01.000Z",
+      "description": "ChatGPT — Notes de version. Journal des dernières mises à jour et notes de version de ChatGPT. Cet article vous a-t-il été utile? Envoyer. Comment...",
+      "excerpt": "ChatGPT — Notes de version. Journal des dernières mises à jour et notes de version de ChatGPT. Cet article vous a-t-il été utile? Envoyer. Comment...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "GPT-5.6: pourquoi votre ChatGPT semble soudain plus performant - 1001Web",
@@ -108,26 +128,6 @@
       "description": "... ChatGPT plutôt qu'avec leurs proches? Pourquoi de plus en plus... En avril 2025, OpenAI a même dû retirer en urgence une mise à jour de GPT-4o...",
       "excerpt": "... ChatGPT plutôt qu'avec leurs proches? Pourquoi de plus en plus... En avril 2025, OpenAI a même dû retirer en urgence une mise à jour de GPT-4o...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Cumulo: la plateforme SOC IA souveraine du Royaume-Uni - Brief IA",
-      "link": "https://www.briefia.fr/article/cumulo-la-plateforme-soc-ia-souveraine-du-royaume-uni",
-      "url": "https://www.briefia.fr/article/cumulo-la-plateforme-soc-ia-souveraine-du-royaume-uni",
-      "publishedAt": "2026-06-19T16:11:40.000Z",
-      "date": "2026-06-19T16:11:40.000Z",
-      "description": "Cette plateforme représente une avancée majeure pour les services SOC d'e2e-assure, en offrant une solution véritablement souveraine.... ChatGPT a été...",
-      "excerpt": "Cette plateforme représente une avancée majeure pour les services SOC d'e2e-assure, en offrant une solution véritablement souveraine.... ChatGPT a été...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "« Il y aura de la casse à l'arrivée »: grâce à l'IA, la France n'a jamais créé autant de start-up...",
-      "link": "https://www.lesechos.fr/start-up/ecosysteme/il-y-aura-de-la-casse-a-larrivee-grace-a-lia-la-france-na-jamais-cree-autant-de-start-up-dans-la-cyber-2238203",
-      "url": "https://www.lesechos.fr/start-up/ecosysteme/il-y-aura-de-la-casse-a-larrivee-grace-a-lia-la-france-na-jamais-cree-autant-de-start-up-dans-la-cyber-2238203",
-      "publishedAt": "2026-06-19T14:33:16.000Z",
-      "date": "2026-06-19T14:33:16.000Z",
-      "description": "Le codage assisté avec Claude et ChatGPT a fait sauter le verrou de la création d... cybersécurité que ces douze derniers mois. Dans son radar...",
-      "excerpt": "Le codage assisté avec Claude et ChatGPT a fait sauter le verrou de la création d... cybersécurité que ces douze derniers mois. Dans son radar...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
