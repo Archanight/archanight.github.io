@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T02:46:57.404Z",
+  "generatedAt": "2026-06-21T09:36:04.845Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Ce qu'Apple n'a pas dit - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/dieu-apple-chua-noi",
+      "url": "https://www.vietnam.vn/fr/dieu-apple-chua-noi",
+      "publishedAt": "2026-06-21T02:40:04.000Z",
+      "date": "2026-06-21T02:40:04.000Z",
+      "description": "... Siri et ChatGPT. Selon Gurman, cette liste pourrait s'allonger lors du déploiement généralisé du système d'exploitation. Selon 9to5Mac, Apple...",
+      "excerpt": "... Siri et ChatGPT. Selon Gurman, cette liste pourrait s'allonger lors du déploiement généralisé du système d'exploitation. Selon 9to5Mac, Apple...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI révolutionne ChatGPT avec des tâches programmées simplifiées - Brief IA",
       "link": "https://www.briefia.fr/article/openai-revolutionne-chatgpt-avec-des-taches-programmees-simplifiees",
@@ -118,16 +128,6 @@
       "description": "Un test conduit sur 12 assistants IA (en juin 2026) révèle un résultat que peu anticipaient: ChatGPT, Claude, Gemini, Perplexity et Copilot ne...",
       "excerpt": "Un test conduit sur 12 assistants IA (en juin 2026) révèle un résultat que peu anticipaient: ChatGPT, Claude, Gemini, Perplexity et Copilot ne...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pourquoi de plus en plus de personnes préfèrent discuter avec ChatGPT plutôt qu... - BuzzWebzine",
-      "link": "https://www.buzzwebzine.fr/de-plus-en-plus-de-personnes-preferent-discuter-avec-chatgpt-plutot-quavec-leurs-proches/",
-      "url": "https://www.buzzwebzine.fr/de-plus-en-plus-de-personnes-preferent-discuter-avec-chatgpt-plutot-quavec-leurs-proches/",
-      "publishedAt": "2026-06-19T16:20:46.000Z",
-      "date": "2026-06-19T16:20:46.000Z",
-      "description": "... ChatGPT plutôt qu'avec leurs proches? Pourquoi de plus en plus... En avril 2025, OpenAI a même dû retirer en urgence une mise à jour de GPT-4o...",
-      "excerpt": "... ChatGPT plutôt qu'avec leurs proches? Pourquoi de plus en plus... En avril 2025, OpenAI a même dû retirer en urgence une mise à jour de GPT-4o...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
