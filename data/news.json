@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T09:36:04.845Z",
+  "generatedAt": "2026-06-21T13:48:30.080Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI face à ses « coûts colossaux »: pourquoi la Bourse est devenue incontournable",
+      "link": "https://www.challenges.fr/entreprise/tech-numerique/openai-face-a-ses-couts-colossaux-pourquoi-la-bourse-est-devenue-incontournable_644324",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/openai-face-a-ses-couts-colossaux-pourquoi-la-bourse-est-devenue-incontournable_644324",
+      "publishedAt": "2026-06-21T12:01:56.000Z",
+      "date": "2026-06-21T12:01:56.000Z",
+      "description": "... ChatGPT en masse. Et les procès se multiplient aux Etats-Unis contre le... Les Assises de la cybersécurité · PRNewswire · Speak & Act · Au Cœur de...",
+      "excerpt": "... ChatGPT en masse. Et les procès se multiplient aux Etats-Unis contre le... Les Assises de la cybersécurité · PRNewswire · Speak & Act · Au Cœur de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Samsung: trois mises à jour Google discrètes mais essentielles à ne pas rater - Android MT",
+      "link": "https://android-mt.ouest-france.fr/news/samsung-trois-mises-a-jour-google-discretes-mais-essentielles-a-ne-pas-rater/204311/",
+      "url": "https://android-mt.ouest-france.fr/news/samsung-trois-mises-a-jour-google-discretes-mais-essentielles-a-ne-pas-rater/204311/",
+      "publishedAt": "2026-06-21T10:31:35.000Z",
+      "date": "2026-06-21T10:31:35.000Z",
+      "description": "Google n'a pas publié de notes de version détaillées pour ces... ChatGPT | Chrome | Cyberghost | Eyezy | Gmail | Google Maps | Instagram...",
+      "excerpt": "Google n'a pas publié de notes de version détaillées pour ces... ChatGPT | Chrome | Cyberghost | Eyezy | Gmail | Google Maps | Instagram...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Ce qu'Apple n'a pas dit - Vietnam.vn",
       "link": "https://www.vietnam.vn/fr/dieu-apple-chua-noi",
@@ -107,26 +127,6 @@
       "date": "2026-06-19T22:50:08.000Z",
       "description": "ChatGPT: transférer sa mémoire vers Claude ou Gemini, toujours sans option officielle... Aujourd'hui encore, ChatGPT ne permet pas de transférer...",
       "excerpt": "ChatGPT: transférer sa mémoire vers Claude ou Gemini, toujours sans option officielle... Aujourd'hui encore, ChatGPT ne permet pas de transférer...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6 arrive la semaine prochaine: OpenAI pousse le curseur à 1,5 million de tokens",
-      "link": "https://www.journalduweb.org/gpt-5-6-arrive-la-semaine-prochaine-openai-pousse-le-curseur-a-15-million-de-tokens/",
-      "url": "https://www.journalduweb.org/gpt-5-6-arrive-la-semaine-prochaine-openai-pousse-le-curseur-a-15-million-de-tokens/",
-      "publishedAt": "2026-06-19T20:33:32.000Z",
-      "date": "2026-06-19T20:33:32.000Z",
-      "description": "... ChatGPT, l'API et les abonnés Pro sur plusieurs jours. Des traces d'un... IA & RobotiqueInformatique & Cybersécurité · Claude Mythos: l'IA...",
-      "excerpt": "... ChatGPT, l'API et les abonnés Pro sur plusieurs jours. Des traces d'un... IA & RobotiqueInformatique & Cybersécurité · Claude Mythos: l'IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GEO et JavaScript: ce que les assistants IA voient vraiment sur vos pages - LEPTIDIGITAL",
-      "link": "https://www.leptidigital.fr/webmarketing/seo/geo-javascript-etude-chatbots-ia-voient-vraiment-pages-90777/",
-      "url": "https://www.leptidigital.fr/webmarketing/seo/geo-javascript-etude-chatbots-ia-voient-vraiment-pages-90777/",
-      "publishedAt": "2026-06-19T20:25:40.000Z",
-      "date": "2026-06-19T20:25:40.000Z",
-      "description": "Un test conduit sur 12 assistants IA (en juin 2026) révèle un résultat que peu anticipaient: ChatGPT, Claude, Gemini, Perplexity et Copilot ne...",
-      "excerpt": "Un test conduit sur 12 assistants IA (en juin 2026) révèle un résultat que peu anticipaient: ChatGPT, Claude, Gemini, Perplexity et Copilot ne...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
