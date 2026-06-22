@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T16:28:45.116Z",
+  "generatedAt": "2026-06-22T20:34:07.678Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -13,21 +13,51 @@
       "title": "OpenAI s'allie à Getty Images pour la recherche sur ChatGPT - ZDNET",
       "link": "https://www.zdnet.fr/actualites/openai-sallie-a-getty-images-pour-la-recherche-sur-chatgpt-497428.htm",
       "url": "https://www.zdnet.fr/actualites/openai-sallie-a-getty-images-pour-la-recherche-sur-chatgpt-497428.htm",
-      "publishedAt": "2026-06-22T14:23:16.000Z",
-      "date": "2026-06-22T14:23:16.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT. Toute l'actualité de la tech pour les pros chaque jour...",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT. Toute l'actualité de la tech pour les pros chaque jour...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "publishedAt": "2026-06-22T17:23:16.000Z",
+      "date": "2026-06-22T17:23:16.000Z",
+      "description": "... ChatGPT » a dit à ce sujet Craig Peters, de Getty Images. Les détails... ChatGPT Enterprise et Codex d'OpenAI à l'ensemble de ses fonctions...",
+      "excerpt": "... ChatGPT » a dit à ce sujet Craig Peters, de Getty Images. Les détails... ChatGPT Enterprise et Codex d'OpenAI à l'ensemble de ses fonctions...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Samsung adopte ChatGPT Enterprise et Codex à grande échelle pour transformer son organisation",
       "link": "https://www.zdnet.fr/actualites/samsung-adopte-chatgpt-enterprise-et-codex-a-grande-echelle-pour-transformer-son-organisation-497384.htm",
       "url": "https://www.zdnet.fr/actualites/samsung-adopte-chatgpt-enterprise-et-codex-a-grande-echelle-pour-transformer-son-organisation-497384.htm",
-      "publishedAt": "2026-06-22T14:15:16.000Z",
-      "date": "2026-06-22T14:15:16.000Z",
-      "description": "... ChatGPT Enterprise et Codex d'OpenAI à l'ensemble de ses... Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et...",
-      "excerpt": "... ChatGPT Enterprise et Codex d'OpenAI à l'ensemble de ses... Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "publishedAt": "2026-06-22T17:15:16.000Z",
+      "date": "2026-06-22T17:15:16.000Z",
+      "description": "Le contrat est présenté comme l'un des plus importants jamais signés pour ChatGPT Enterprise à l'échelle mondiale. Toute l'actualité de la tech pour...",
+      "excerpt": "Le contrat est présenté comme l'un des plus importants jamais signés pour ChatGPT Enterprise à l'échelle mondiale. Toute l'actualité de la tech pour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT va afficher des images Getty: OpenAI signe un accord pluriannuel avec l'agence",
+      "link": "https://kulturegeek.fr/news-354099/chatgpt-afficher-images-getty-openai-signe-accord-pluriannuel-lagence",
+      "url": "https://kulturegeek.fr/news-354099/chatgpt-afficher-images-getty-openai-signe-accord-pluriannuel-lagence",
+      "publishedAt": "2026-06-22T16:39:48.000Z",
+      "date": "2026-06-22T16:39:48.000Z",
+      "description": "OpenAI continue de luscler la partie visuelle de ChatGPT. L'entreprise a conclu un accord pluriannuel avec Getty Images afin d'intégrer des...",
+      "excerpt": "OpenAI continue de luscler la partie visuelle de ChatGPT. L'entreprise a conclu un accord pluriannuel avec Getty Images afin d'intégrer des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT dispose d'une archive « secrète » dont il ne vous parlera pas, à moins que vous...",
+      "link": "https://www.notebookcheck.biz/ChatGPT-dispose-d-une-archive-secrete-dont-il-ne-vous-parlera-pas-a-moins-que-vous-ne-vous-mettiez-en-colere.1326363.0.html",
+      "url": "https://www.notebookcheck.biz/ChatGPT-dispose-d-une-archive-secrete-dont-il-ne-vous-parlera-pas-a-moins-que-vous-ne-vous-mettiez-en-colere.1326363.0.html",
+      "publishedAt": "2026-06-22T14:08:30.000Z",
+      "date": "2026-06-22T14:08:30.000Z",
+      "description": "ChatGPT a déclaré à un utilisateur que ses images générées avaient été définitivement perdues, puis les a récupérées après une sorte d'appel à...",
+      "excerpt": "ChatGPT a déclaré à un utilisateur que ses images générées avaient été définitivement perdues, puis les a récupérées après une sorte d'appel à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI Codex présente un bug susceptible d'endommager votre SSD en moins d'un an",
+      "link": "https://www.notebookcheck.biz/OpenAI-Codex-presente-un-bug-susceptible-d-endommager-votre-SSD-en-moins-d-un-an.1326367.0.html",
+      "url": "https://www.notebookcheck.biz/OpenAI-Codex-presente-un-bug-susceptible-d-endommager-votre-SSD-en-moins-d-un-an.1326367.0.html",
+      "publishedAt": "2026-06-22T14:08:27.000Z",
+      "date": "2026-06-22T14:08:27.000Z",
+      "description": "ChatGPT -OpenAI phone specs, release date leak: 2nm MediaTek SoC, LPDDR6 RAM, UFS 5.0 storage, more 05/20/2026 · Le GPT-Realtime-2 d'OpenAI apporte...",
+      "excerpt": "ChatGPT -OpenAI phone specs, release date leak: 2nm MediaTek SoC, LPDDR6 RAM, UFS 5.0 storage, more 05/20/2026 · Le GPT-Realtime-2 d'OpenAI apporte...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Pourquoi les résultats images de ChatGPT seront bientôt nettement meilleurs - Clubic",
@@ -98,36 +128,6 @@
       "description": "ChatGPT et la diversification des outils IA. ChatGPT reste le leader... cybersécurité américaineil y a 5h→ · Samsung Electronics intègre...",
       "excerpt": "ChatGPT et la diversification des outils IA. ChatGPT reste le leader... cybersécurité américaineil y a 5h→ · Samsung Electronics intègre...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Nouveau partenariat stratégique pour Label4.ai - Solutions-Numeriques",
-      "link": "https://www.solutions-numeriques.com/communiques/bcom-et-label4-ai-annoncent-un-partenariat-strategique/",
-      "url": "https://www.solutions-numeriques.com/communiques/bcom-et-label4-ai-annoncent-un-partenariat-strategique/",
-      "publishedAt": "2026-06-22T11:21:05.000Z",
-      "date": "2026-06-22T11:21:05.000Z",
-      "description": "... ChatGPT, Gemini et d'autres acteurs du marché; sa technologie de... Guide Cybersécurité. Découvrez la version numérique · Achetez le guide.",
-      "excerpt": "... ChatGPT, Gemini et d'autres acteurs du marché; sa technologie de... Guide Cybersécurité. Découvrez la version numérique · Achetez le guide.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT, Gemini: stratégies pour moteurs de réponse IA - Brief IA",
-      "link": "https://www.briefia.fr/article/chatgpt-gemini-strategies-pour-moteurs-de-reponse-ia",
-      "url": "https://www.briefia.fr/article/chatgpt-gemini-strategies-pour-moteurs-de-reponse-ia",
-      "publishedAt": "2026-06-22T07:12:37.000Z",
-      "date": "2026-06-22T07:12:37.000Z",
-      "description": "ChatGPT, Gemini et... Un accord avec le ministère sud-coréen des Sciences et des TIC vise à renforcer la cybersécurité et la sécurité de l'IA.",
-      "excerpt": "ChatGPT, Gemini et... Un accord avec le ministère sud-coréen des Sciences et des TIC vise à renforcer la cybersécurité et la sécurité de l'IA.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment supprimer ses données de chatgpt. Update: depuis que j'ai pub... - TikTok",
-      "link": "https://www.tiktok.com/@ninon.ia/video/7653946967919299872",
-      "url": "https://www.tiktok.com/@ninon.ia/video/7653946967919299872",
-      "publishedAt": "2026-06-21T20:24:10.000Z",
-      "date": "2026-06-21T20:24:10.000Z",
-      "description": "Vidéo TikTok de Ninon · IA & Tech (@ninon.ia): « Comment supprimer ses données de chatgpt. Update: depuis que j'ai publié cette vidéo à peu près...",
-      "excerpt": "Vidéo TikTok de Ninon · IA & Tech (@ninon.ia): « Comment supprimer ses données de chatgpt. Update: depuis que j'ai publié cette vidéo à peu près...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
