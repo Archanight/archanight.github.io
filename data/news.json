@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T02:49:26.488Z",
+  "generatedAt": "2026-06-22T11:35:13.858Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Comment supprimer ses données de chatgpt. Update: depuis que j'ai pub... - TikTok",
+      "link": "https://www.tiktok.com/@ninon.ia/video/7653946967919299872",
+      "url": "https://www.tiktok.com/@ninon.ia/video/7653946967919299872",
+      "publishedAt": "2026-06-21T20:24:10.000Z",
+      "date": "2026-06-21T20:24:10.000Z",
+      "description": "Vidéo TikTok de Ninon · IA & Tech (@ninon.ia): « Comment supprimer ses données de chatgpt. Update: depuis que j'ai publié cette vidéo à peu près...",
+      "excerpt": "Vidéo TikTok de Ninon · IA & Tech (@ninon.ia): « Comment supprimer ses données de chatgpt. Update: depuis que j'ai publié cette vidéo à peu près...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Arnaques boostées à l'IA: comment les reconnaître avant qu'il ne soit trop tard | Android MT",
       "link": "https://android-mt.ouest-france.fr/news/arnaques-boostees-a-lia-comment-les-reconnaitre-avant-quil-ne-soit-trop-tard/204370/",
@@ -117,16 +127,6 @@
       "date": "2026-06-20T13:58:01.000Z",
       "description": "ChatGPT — Notes de version. Journal des dernières mises à jour et notes de version de ChatGPT. Cet article vous a-t-il été utile? Envoyer. Comment...",
       "excerpt": "ChatGPT — Notes de version. Journal des dernières mises à jour et notes de version de ChatGPT. Cet article vous a-t-il été utile? Envoyer. Comment...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "GPT-5.6: pourquoi votre ChatGPT semble soudain plus performant - 1001Web",
-      "link": "https://www.1001web.fr/gpt-56-rumeurs-chatgpt-171261.html",
-      "url": "https://www.1001web.fr/gpt-56-rumeurs-chatgpt-171261.html",
-      "publishedAt": "2026-06-20T03:57:09.000Z",
-      "date": "2026-06-20T03:57:09.000Z",
-      "description": "... ChatGPT plus performant. Date... Si vous dépendez de l'API pour un produit, surveillez la page officielle des modèles et les notes de version...",
-      "excerpt": "... ChatGPT plus performant. Date... Si vous dépendez de l'API pour un produit, surveillez la page officielle des modèles et les notes de version...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
