@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T08:58:50.646Z",
+  "generatedAt": "2026-06-23T14:28:11.283Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,86 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI étend Daybreak avec GPT-5.5-Cyber et de nouveaux outils de cybersécurité",
+      "link": "https://www.blog-nouvelles-technologies.fr/373524/gpt-5-5-cyber-openai-ia-securite/",
+      "url": "https://www.blog-nouvelles-technologies.fr/373524/gpt-5-5-cyber-openai-ia-securite/",
+      "publishedAt": "2026-06-23T13:45:42.000Z",
+      "date": "2026-06-23T13:45:42.000Z",
+      "description": "Pendant des années, l'un des principaux défis de la cybersécurité consistait à découvrir les vulnérabilités cachées dans les logiciels.... ChatGPT...",
+      "excerpt": "Pendant des années, l'un des principaux défis de la cybersécurité consistait à découvrir les vulnérabilités cachées dans les logiciels.... ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'IA pourrait bouleverser la cybersécurité « en quelques mois », alertent les Five Eyes",
+      "link": "https://www.21news.be/lia-pourrait-bouleverser-la-cybersecurite-en-quelques-mois-alertent-les-five-eyes/",
+      "url": "https://www.21news.be/lia-pourrait-bouleverser-la-cybersecurite-en-quelques-mois-alertent-les-five-eyes/",
+      "publishedAt": "2026-06-23T11:50:28.000Z",
+      "date": "2026-06-23T11:50:28.000Z",
+      "description": "... cybersécurité. Claude détrône ChatGPT: Anthropic devient la start-up d'IA la plus valorisée The Claude Mythos application logo - llustration by...",
+      "excerpt": "... cybersécurité. Claude détrône ChatGPT: Anthropic devient la start-up d'IA la plus valorisée The Claude Mythos application logo - llustration by...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Patch the Planet d'OpenAI veut sécuriser l'open source face aux menaces IA - GNT",
+      "link": "https://www.generation-nt.com/actualites/openai-cybersecurite-patch-the-planet-gpt-5-5-cyber-daybreak-2077515",
+      "url": "https://www.generation-nt.com/actualites/openai-cybersecurite-patch-the-planet-gpt-5-5-cyber-daybreak-2077515",
+      "publishedAt": "2026-06-23T11:12:03.000Z",
+      "date": "2026-06-23T11:12:03.000Z",
+      "description": "Il n'est pas mis entre toutes les mains. chatgpt. OpenAI dévoile une série de nouveautés en matière de cybersécurité et pour renforcer les défenses...",
+      "excerpt": "Il n'est pas mis entre toutes les mains. chatgpt. OpenAI dévoile une série de nouveautés en matière de cybersécurité et pour renforcer les défenses...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI: ChatGPT bientôt transformé en « super app »? - Journal du Coin",
+      "link": "https://journalducoin.com/economie/openai-chatgpt-transforme-super-app/",
+      "url": "https://journalducoin.com/economie/openai-chatgpt-transforme-super-app/",
+      "publishedAt": "2026-06-23T10:23:58.000Z",
+      "date": "2026-06-23T10:23:58.000Z",
+      "description": "ChatGPT 2.0. OpenAI continue de dominer le secteur de l... Cybersécurité: La France prépare sa défense contre l'ère quantique. 18...",
+      "excerpt": "ChatGPT 2.0. OpenAI continue de dominer le secteur de l... Cybersécurité: La France prépare sa défense contre l'ère quantique. 18...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Shadow AI dans les collectivités: ce que révèle vraiment l'usage clandestin de ChatGPT en mairie",
+      "link": "https://www.solutions-numeriques.com/communiques/shadow-ai-dans-les-collectivites-ce-que-revele-vraiment-lusage-clandestin-de-chatgpt-en-mairie/",
+      "url": "https://www.solutions-numeriques.com/communiques/shadow-ai-dans-les-collectivites-ce-que-revele-vraiment-lusage-clandestin-de-chatgpt-en-mairie/",
+      "publishedAt": "2026-06-23T10:16:26.000Z",
+      "date": "2026-06-23T10:16:26.000Z",
+      "description": "Shadow AI dans les collectivités: ce que révèle vraiment l'usage clandestin de ChatGPT en mairie... cybersécurité de SANS Institute & GIAC (2025...",
+      "excerpt": "Shadow AI dans les collectivités: ce que révèle vraiment l'usage clandestin de ChatGPT en mairie... cybersécurité de SANS Institute & GIAC (2025...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT s'allie avec Getty, l'une des plus grandes bibliothèques d'images au monde",
+      "link": "https://siecledigital.fr/2026/06/22/chatgpt-sallie-avec-getty-lune-des-plus-grandes-bibliotheques-dimages-au-monde/",
+      "url": "https://siecledigital.fr/2026/06/22/chatgpt-sallie-avec-getty-lune-des-plus-grandes-bibliotheques-dimages-au-monde/",
+      "publishedAt": "2026-06-23T09:16:39.000Z",
+      "date": "2026-06-23T09:16:39.000Z",
+      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT s'allie avec...",
+      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT s'allie avec...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.5-Cyber d'OpenAI: un défi direct à Mythos en cybersécurité | Brief IA",
+      "link": "https://www.briefia.fr/article/gpt-5-5-cyber-d-openai-un-defi-direct-a-mythos-en-cybersecurite",
+      "url": "https://www.briefia.fr/article/gpt-5-5-cyber-d-openai-un-defi-direct-a-mythos-en-cybersecurite",
+      "publishedAt": "2026-06-23T08:07:59.000Z",
+      "date": "2026-06-23T08:07:59.000Z",
+      "description": "... cybersécurité en automatisant la détection et la correction des... ChatGPT sous les 50%: Vercel et Replit bousculent le marché IAil y a...",
+      "excerpt": "... cybersécurité en automatisant la détection et la correction des... ChatGPT sous les 50%: Vercel et Replit bousculent le marché IAil y a...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI étend l'accès Daybreak à la France et à l'ENISA, et livre GPT-5.5-Cyber aux...",
+      "link": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/openai-etend-lacces-daybreak-a-la-france-et-a-lenisa-et-livre-gpt-5-5-cyber-aux-defenseurs-verifies/",
+      "url": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/openai-etend-lacces-daybreak-a-la-france-et-a-lenisa-et-livre-gpt-5-5-cyber-aux-defenseurs-verifies/",
+      "publishedAt": "2026-06-23T08:07:36.000Z",
+      "date": "2026-06-23T08:07:36.000Z",
+      "description": "OpenAI étend Daybreak, son initiative de cybersécurité lancée en mai, et livre la version complète de GPT-5.5-Cyber à un cercle restreint de...",
+      "excerpt": "OpenAI étend Daybreak, son initiative de cybersécurité lancée en mai, et livre la version complète de GPT-5.5-Cyber à un cercle restreint de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Prime Day – Les écouteurs sans fil Nothing Ear à 75,00 € (-11%) - Les Numériques",
       "link": "https://www.lesnumeriques.com/ecouteurs-sans-fil/prime-day-les-ecouteurs-sans-fil-nothing-ear-a-75-00-11-n257999.html",
@@ -47,86 +127,6 @@
       "date": "2026-06-23T00:13:07.000Z",
       "description": "Des experts en cybersécurité et des cabinets indépendants peuvent... Apple transforme Siri avec ChatGPT, Gemini et plus. • Apple prépare une...",
       "excerpt": "Des experts en cybersécurité et des cabinets indépendants peuvent... Apple transforme Siri avec ChatGPT, Gemini et plus. • Apple prépare une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6: OpenAI prépare une version Pro et vocale | Brief IA",
-      "link": "https://www.briefia.fr/article/gpt-5-6-openai-prepare-une-version-pro-et-vocale",
-      "url": "https://www.briefia.fr/article/gpt-5-6-openai-prepare-une-version-pro-et-vocale",
-      "publishedAt": "2026-06-23T00:12:44.000Z",
-      "date": "2026-06-23T00:12:44.000Z",
-      "description": "ChatGPT a intégré des références à des créatures comme les gobelins, ce... Les mentions de ces créatures ont augmenté entre les versions GPT-5.2 et GPT...",
-      "excerpt": "ChatGPT a intégré des références à des créatures comme les gobelins, ce... Les mentions de ces créatures ont augmenté entre les versions GPT-5.2 et GPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI s'allie à Getty Images pour la recherche sur ChatGPT - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/openai-sallie-a-getty-images-pour-la-recherche-sur-chatgpt-497428.htm",
-      "url": "https://www.zdnet.fr/actualites/openai-sallie-a-getty-images-pour-la-recherche-sur-chatgpt-497428.htm",
-      "publishedAt": "2026-06-22T17:23:16.000Z",
-      "date": "2026-06-22T17:23:16.000Z",
-      "description": "... ChatGPT » a dit à ce sujet Craig Peters, de Getty Images. Les détails... ChatGPT Enterprise et Codex d'OpenAI à l'ensemble de ses fonctions...",
-      "excerpt": "... ChatGPT » a dit à ce sujet Craig Peters, de Getty Images. Les détails... ChatGPT Enterprise et Codex d'OpenAI à l'ensemble de ses fonctions...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Samsung adopte ChatGPT Enterprise et Codex à grande échelle pour transformer son organisation",
-      "link": "https://www.zdnet.fr/actualites/samsung-adopte-chatgpt-enterprise-et-codex-a-grande-echelle-pour-transformer-son-organisation-497384.htm",
-      "url": "https://www.zdnet.fr/actualites/samsung-adopte-chatgpt-enterprise-et-codex-a-grande-echelle-pour-transformer-son-organisation-497384.htm",
-      "publishedAt": "2026-06-22T17:15:16.000Z",
-      "date": "2026-06-22T17:15:16.000Z",
-      "description": "Le contrat est présenté comme l'un des plus importants jamais signés pour ChatGPT Enterprise à l'échelle mondiale. Toute l'actualité de la tech pour...",
-      "excerpt": "Le contrat est présenté comme l'un des plus importants jamais signés pour ChatGPT Enterprise à l'échelle mondiale. Toute l'actualité de la tech pour...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT va afficher des images Getty: OpenAI signe un accord pluriannuel avec l'agence",
-      "link": "https://kulturegeek.fr/news-354099/chatgpt-afficher-images-getty-openai-signe-accord-pluriannuel-lagence",
-      "url": "https://kulturegeek.fr/news-354099/chatgpt-afficher-images-getty-openai-signe-accord-pluriannuel-lagence",
-      "publishedAt": "2026-06-22T16:39:48.000Z",
-      "date": "2026-06-22T16:39:48.000Z",
-      "description": "OpenAI continue de luscler la partie visuelle de ChatGPT. L'entreprise a conclu un accord pluriannuel avec Getty Images afin d'intégrer des...",
-      "excerpt": "OpenAI continue de luscler la partie visuelle de ChatGPT. L'entreprise a conclu un accord pluriannuel avec Getty Images afin d'intégrer des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT dispose d'une archive « secrète » dont il ne vous parlera pas, à moins que vous...",
-      "link": "https://www.notebookcheck.biz/ChatGPT-dispose-d-une-archive-secrete-dont-il-ne-vous-parlera-pas-a-moins-que-vous-ne-vous-mettiez-en-colere.1326363.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-dispose-d-une-archive-secrete-dont-il-ne-vous-parlera-pas-a-moins-que-vous-ne-vous-mettiez-en-colere.1326363.0.html",
-      "publishedAt": "2026-06-22T14:08:30.000Z",
-      "date": "2026-06-22T14:08:30.000Z",
-      "description": "ChatGPT a déclaré à un utilisateur que ses images générées avaient été définitivement perdues, puis les a récupérées après une sorte d'appel à...",
-      "excerpt": "ChatGPT a déclaré à un utilisateur que ses images générées avaient été définitivement perdues, puis les a récupérées après une sorte d'appel à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI Codex présente un bug susceptible d'endommager votre SSD en moins d'un an",
-      "link": "https://www.notebookcheck.biz/OpenAI-Codex-presente-un-bug-susceptible-d-endommager-votre-SSD-en-moins-d-un-an.1326367.0.html",
-      "url": "https://www.notebookcheck.biz/OpenAI-Codex-presente-un-bug-susceptible-d-endommager-votre-SSD-en-moins-d-un-an.1326367.0.html",
-      "publishedAt": "2026-06-22T14:08:27.000Z",
-      "date": "2026-06-22T14:08:27.000Z",
-      "description": "ChatGPT -OpenAI phone specs, release date leak: 2nm MediaTek SoC, LPDDR6 RAM, UFS 5.0 storage, more 05/20/2026 · Le GPT-Realtime-2 d'OpenAI apporte...",
-      "excerpt": "ChatGPT -OpenAI phone specs, release date leak: 2nm MediaTek SoC, LPDDR6 RAM, UFS 5.0 storage, more 05/20/2026 · Le GPT-Realtime-2 d'OpenAI apporte...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Pourquoi les résultats images de ChatGPT seront bientôt nettement meilleurs - Clubic",
-      "link": "https://www.clubic.com/actualite-618046-pourquoi-les-resultats-images-de-chatgpt-seront-bientot-nettement-meilleurs.html",
-      "url": "https://www.clubic.com/actualite-618046-pourquoi-les-resultats-images-de-chatgpt-seront-bientot-nettement-meilleurs.html",
-      "publishedAt": "2026-06-22T13:31:22.000Z",
-      "date": "2026-06-22T13:31:22.000Z",
-      "description": "Les images sur ChatGPT sont généralement issues de Google, mais c'est sur le point de changer. L'IA... Top Cybersécurité. Meilleur VPN · VPN gratuit...",
-      "excerpt": "Les images sur ChatGPT sont généralement issues de Google, mais c'est sur le point de changer. L'IA... Top Cybersécurité. Meilleur VPN · VPN gratuit...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Beaucoup l'ignorent, ChatGPT dispose d'une fonction discrète pour vous faire gagner un...",
-      "link": "https://siecledigital.fr/2026/06/22/beaucoup-lignorent-chatgpt-dispose-dune-fonction-discrete-pour-vous-faire-gagner-un-temps-precieux/",
-      "url": "https://siecledigital.fr/2026/06/22/beaucoup-lignorent-chatgpt-dispose-dune-fonction-discrete-pour-vous-faire-gagner-un-temps-precieux/",
-      "publishedAt": "2026-06-22T13:20:05.000Z",
-      "date": "2026-06-22T13:20:05.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle... ChatGPT · IA...",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle... ChatGPT · IA...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
