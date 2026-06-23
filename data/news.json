@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T20:34:07.678Z",
+  "generatedAt": "2026-06-23T02:15:05.865Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Apple et la sécurité de l'IA: un cloud privé révolutionnaire",
+      "link": "https://www.briefia.fr/article/apple-et-la-securite-de-l-ia-un-cloud-prive-revolutionnaire",
+      "url": "https://www.briefia.fr/article/apple-et-la-securite-de-l-ia-un-cloud-prive-revolutionnaire",
+      "publishedAt": "2026-06-23T00:13:07.000Z",
+      "date": "2026-06-23T00:13:07.000Z",
+      "description": "Des experts en cybersécurité et des cabinets indépendants peuvent... Apple transforme Siri avec ChatGPT, Gemini et plus. • Apple prépare une...",
+      "excerpt": "Des experts en cybersécurité et des cabinets indépendants peuvent... Apple transforme Siri avec ChatGPT, Gemini et plus. • Apple prépare une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.6: OpenAI prépare une version Pro et vocale | Brief IA",
+      "link": "https://www.briefia.fr/article/gpt-5-6-openai-prepare-une-version-pro-et-vocale",
+      "url": "https://www.briefia.fr/article/gpt-5-6-openai-prepare-une-version-pro-et-vocale",
+      "publishedAt": "2026-06-23T00:12:44.000Z",
+      "date": "2026-06-23T00:12:44.000Z",
+      "description": "ChatGPT a intégré des références à des créatures comme les gobelins, ce... Les mentions de ces créatures ont augmenté entre les versions GPT-5.2 et GPT...",
+      "excerpt": "ChatGPT a intégré des références à des créatures comme les gobelins, ce... Les mentions de ces créatures ont augmenté entre les versions GPT-5.2 et GPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI s'allie à Getty Images pour la recherche sur ChatGPT - ZDNET",
       "link": "https://www.zdnet.fr/actualites/openai-sallie-a-getty-images-pour-la-recherche-sur-chatgpt-497428.htm",
@@ -107,26 +127,6 @@
       "date": "2026-06-22T12:57:56.000Z",
       "description": "Avec la montée en puissance de ChatGPT, Gemini et Perplexity, la... Antivirus: pourquoi la cybersécurité de base reste un enjeu majeur en 2026.",
       "excerpt": "Avec la montée en puissance de ChatGPT, Gemini et Perplexity, la... Antivirus: pourquoi la cybersécurité de base reste un enjeu majeur en 2026.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google Analytics lance un nouveau filtre dédié au trafic IA: ce qu'il faut savoir - Leptidigital",
-      "link": "https://www.leptidigital.fr/web-analytics/google-analytics-ga4-filtre-ai-assistant-90666/",
-      "url": "https://www.leptidigital.fr/web-analytics/google-analytics-ga4-filtre-ai-assistant-90666/",
-      "publishedAt": "2026-06-22T12:33:57.000Z",
-      "date": "2026-06-22T12:33:57.000Z",
-      "description": "... ChatGPT... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD, confidentialité, données personnelles & privacy · Newsletter...",
-      "excerpt": "... ChatGPT... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD, confidentialité, données personnelles & privacy · Newsletter...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google menacé: l'IA gagne la confiance d'un tiers des Français - Brief IA",
-      "link": "https://www.briefia.fr/article/google-menace-l-ia-gagne-la-confiance-d-un-tiers-des-francais",
-      "url": "https://www.briefia.fr/article/google-menace-l-ia-gagne-la-confiance-d-un-tiers-des-francais",
-      "publishedAt": "2026-06-22T12:12:54.000Z",
-      "date": "2026-06-22T12:12:54.000Z",
-      "description": "ChatGPT et la diversification des outils IA. ChatGPT reste le leader... cybersécurité américaineil y a 5h→ · Samsung Electronics intègre...",
-      "excerpt": "ChatGPT et la diversification des outils IA. ChatGPT reste le leader... cybersécurité américaineil y a 5h→ · Samsung Electronics intègre...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
