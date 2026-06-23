@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T02:15:05.865Z",
+  "generatedAt": "2026-06-23T08:58:50.646Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Prime Day – Les écouteurs sans fil Nothing Ear à 75,00 € (-11%) - Les Numériques",
+      "link": "https://www.lesnumeriques.com/ecouteurs-sans-fil/prime-day-les-ecouteurs-sans-fil-nothing-ear-a-75-00-11-n257999.html",
+      "url": "https://www.lesnumeriques.com/ecouteurs-sans-fil/prime-day-les-ecouteurs-sans-fil-nothing-ear-a-75-00-11-n257999.html",
+      "publishedAt": "2026-06-23T06:33:36.000Z",
+      "date": "2026-06-23T06:33:36.000Z",
+      "description": "Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais... ChatGPT de m…43:05. #48 avec Venus is naive: « Silent Hill est la...",
+      "excerpt": "Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais... ChatGPT de m…43:05. #48 avec Venus is naive: « Silent Hill est la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Samsung dévoile une puce aux débits d'un SSD de bureau: l'IA de votre smartphone...",
+      "link": "https://www.lesnumeriques.com/telephone-portable/samsung-devoile-une-puce-aux-debits-d-un-ssd-de-bureau-l-ia-de-votre-smartphone-pourrait-bientot-rivaliser-avec-chatgpt-n258023.html",
+      "url": "https://www.lesnumeriques.com/telephone-portable/samsung-devoile-une-puce-aux-debits-d-un-ssd-de-bureau-l-ia-de-votre-smartphone-pourrait-bientot-rivaliser-avec-chatgpt-n258023.html",
+      "publishedAt": "2026-06-23T05:50:17.000Z",
+      "date": "2026-06-23T05:50:17.000Z",
+      "description": "Si l'IA de votre smartphone met encore quelques secondes à réagir là où ChatGPT répond instantanément, c'est en grande partie à cause du stockage.",
+      "excerpt": "Si l'IA de votre smartphone met encore quelques secondes à réagir là où ChatGPT répond instantanément, c'est en grande partie à cause du stockage.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Interactive Brokers étend ses capacités d'intégration de l'IA: ChatGPT et Grok viennent...",
+      "link": "https://www.businesswire.com/news/home/20260617420837/fr",
+      "url": "https://www.businesswire.com/news/home/20260617420837/fr",
+      "publishedAt": "2026-06-23T05:37:51.000Z",
+      "date": "2026-06-23T05:37:51.000Z",
+      "description": "« L'ajout de ChatGPT et de Grok, ainsi que la prise en charge des options et des contrats à terme, élargit les possibilités offertes aux clients pour...",
+      "excerpt": "« L'ajout de ChatGPT et de Grok, ainsi que la prise en charge des options et des contrats à terme, élargit les possibilités offertes aux clients pour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Apple et la sécurité de l'IA: un cloud privé révolutionnaire",
       "link": "https://www.briefia.fr/article/apple-et-la-securite-de-l-ia-un-cloud-prive-revolutionnaire",
@@ -97,36 +127,6 @@
       "date": "2026-06-22T13:20:05.000Z",
       "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle... ChatGPT · IA...",
       "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle... ChatGPT · IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un pays européen prend une décision radicale sur ChatGPT à l'école - Siècle Digital",
-      "link": "https://siecledigital.fr/2026/06/22/un-pays-europeen-prend-une-decision-radicale-sur-chatgpt-a-lecole/",
-      "url": "https://siecledigital.fr/2026/06/22/un-pays-europeen-prend-une-decision-radicale-sur-chatgpt-a-lecole/",
-      "publishedAt": "2026-06-22T13:16:05.000Z",
-      "date": "2026-06-22T13:16:05.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle... ChatGPT. Ecoutez...",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle... ChatGPT. Ecoutez...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ZDNET Morning 22/06/2026: Samsung déploie ChatGPT en interne, Feuille de route Apple, Le",
-      "link": "https://www.zdnet.fr/actualites/zdnet-morning-22-06-2026-samsung-deploie-chatgpt-en-interne-feuille-de-route-apple-le-libre-par-defaut-recule-a-bruxelles-497399.htm",
-      "url": "https://www.zdnet.fr/actualites/zdnet-morning-22-06-2026-samsung-deploie-chatgpt-en-interne-feuille-de-route-apple-le-libre-par-defaut-recule-a-bruxelles-497399.htm",
-      "publishedAt": "2026-06-22T13:13:16.000Z",
-      "date": "2026-06-22T13:13:16.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT Enterprise et Codex à ses fonctions stratégiques.",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT Enterprise et Codex à ses fonctions stratégiques.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "3 leviers méconnus pour s'imposer dans les agents IA grâce au GEO - FrenchWeb",
-      "link": "https://www.frenchweb.fr/3-leviers-meconnus-pour-simposer-dans-les-agents-ia-grace-au-geo/462483",
-      "url": "https://www.frenchweb.fr/3-leviers-meconnus-pour-simposer-dans-les-agents-ia-grace-au-geo/462483",
-      "publishedAt": "2026-06-22T12:57:56.000Z",
-      "date": "2026-06-22T12:57:56.000Z",
-      "description": "Avec la montée en puissance de ChatGPT, Gemini et Perplexity, la... Antivirus: pourquoi la cybersécurité de base reste un enjeu majeur en 2026.",
-      "excerpt": "Avec la montée en puissance de ChatGPT, Gemini et Perplexity, la... Antivirus: pourquoi la cybersécurité de base reste un enjeu majeur en 2026.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
