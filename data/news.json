@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T19:49:56.347Z",
+  "generatedAt": "2026-06-24T02:26:25.254Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI, soutenu par Microsoft, courtise les publicitaires avec des annonces sur ChatGPT au...",
+      "link": "https://ch.zonebourse.com/actualite-bourse/openai-soutenu-par-microsoft-courtise-les-publicitaires-avec-des-annonces-sur-chatgpt-au-festival-ce7f5fdadd88f324",
+      "url": "https://ch.zonebourse.com/actualite-bourse/openai-soutenu-par-microsoft-courtise-les-publicitaires-avec-des-annonces-sur-chatgpt-au-festival-ce7f5fdadd88f324",
+      "publishedAt": "2026-06-23T22:27:57.000Z",
+      "date": "2026-06-23T22:27:57.000Z",
+      "description": "OpenAI, la start-up soutenue par Microsoft, s'apprête à développer ses activités publicitaires au sein de ChatGPT... Cybersécurité · Economie...",
+      "excerpt": "OpenAI, la start-up soutenue par Microsoft, s'apprête à développer ses activités publicitaires au sein de ChatGPT... Cybersécurité · Economie...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Chuiii chatGPT, il a changé - YouTube",
+      "link": "https://www.youtube.com/watch?v=x2V8a8ODa9A",
+      "url": "https://www.youtube.com/watch?v=x2V8a8ODa9A",
+      "publishedAt": "2026-06-23T21:52:23.000Z",
+      "date": "2026-06-23T21:52:23.000Z",
+      "description": "This content isn't available. Chuiii chatGPT, il a changé. 905... Tucker Makes MASSIVE Political Announcement! The Young Turks. New. 628K...",
+      "excerpt": "This content isn't available. Chuiii chatGPT, il a changé. 905... Tucker Makes MASSIVE Political Announcement! The Young Turks. New. 628K...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Assistants IA, deepfakes, phishing: les nouvelles menaces liées à l'intelligence artificielle...",
+      "link": "https://larevuetech.fr/assistants-ia-deepfakes-phishing-les-nouvelles-menaces-liees-a-lintelligence-artificielle-pourraient-surprendre-les-entreprises/",
+      "url": "https://larevuetech.fr/assistants-ia-deepfakes-phishing-les-nouvelles-menaces-liees-a-lintelligence-artificielle-pourraient-surprendre-les-entreprises/",
+      "publishedAt": "2026-06-23T17:52:57.000Z",
+      "date": "2026-06-23T17:52:57.000Z",
+      "description": "Le phishing généré par IA explose depuis la sortie de ChatGPT. La statistique qui revient dans les briefings est difficile à ignorer: selon un...",
+      "excerpt": "Le phishing généré par IA explose depuis la sortie de ChatGPT. La statistique qui revient dans les briefings est difficile à ignorer: selon un...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
     {
       "title": "Firefox Android: un simple mouvement pour résumer une page",
       "link": "https://android-mt.ouest-france.fr/news/firefox-android-un-simple-mouvement-pour-resumer-une-page/204508/",
@@ -98,36 +128,6 @@
       "description": "ChatGPT m'a permis de le faire avec mon propre objectif. » —James... Notes de version. Plateforme API. Présentation de la plateforme · Ouvrir...",
       "excerpt": "ChatGPT m'a permis de le faire avec mon propre objectif. » —James... Notes de version. Plateforme API. Présentation de la plateforme · Ouvrir...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI: ChatGPT bientôt transformé en « super app »? - Journal du Coin",
-      "link": "https://journalducoin.com/economie/openai-chatgpt-transforme-super-app/",
-      "url": "https://journalducoin.com/economie/openai-chatgpt-transforme-super-app/",
-      "publishedAt": "2026-06-23T10:23:58.000Z",
-      "date": "2026-06-23T10:23:58.000Z",
-      "description": "ChatGPT 2.0. OpenAI continue de dominer le secteur de l... Cybersécurité: La France prépare sa défense contre l'ère quantique. 18...",
-      "excerpt": "ChatGPT 2.0. OpenAI continue de dominer le secteur de l... Cybersécurité: La France prépare sa défense contre l'ère quantique. 18...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Shadow AI dans les collectivités: ce que révèle vraiment l'usage clandestin de ChatGPT en mairie",
-      "link": "https://www.solutions-numeriques.com/communiques/shadow-ai-dans-les-collectivites-ce-que-revele-vraiment-lusage-clandestin-de-chatgpt-en-mairie/",
-      "url": "https://www.solutions-numeriques.com/communiques/shadow-ai-dans-les-collectivites-ce-que-revele-vraiment-lusage-clandestin-de-chatgpt-en-mairie/",
-      "publishedAt": "2026-06-23T10:16:26.000Z",
-      "date": "2026-06-23T10:16:26.000Z",
-      "description": "Shadow AI dans les collectivités: ce que révèle vraiment l'usage clandestin de ChatGPT en mairie... cybersécurité de SANS Institute & GIAC (2025...",
-      "excerpt": "Shadow AI dans les collectivités: ce que révèle vraiment l'usage clandestin de ChatGPT en mairie... cybersécurité de SANS Institute & GIAC (2025...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT s'allie avec Getty, l'une des plus grandes bibliothèques d'images au monde",
-      "link": "https://siecledigital.fr/2026/06/22/chatgpt-sallie-avec-getty-lune-des-plus-grandes-bibliotheques-dimages-au-monde/",
-      "url": "https://siecledigital.fr/2026/06/22/chatgpt-sallie-avec-getty-lune-des-plus-grandes-bibliotheques-dimages-au-monde/",
-      "publishedAt": "2026-06-23T09:16:39.000Z",
-      "date": "2026-06-23T09:16:39.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT s'allie avec...",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT s'allie avec...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
