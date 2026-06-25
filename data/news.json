@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T19:26:19.093Z",
+  "generatedAt": "2026-06-25T02:28:19.339Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "L'IA est-elle consciente? La réponse insolite d'un chercheur de Microsoft - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/lia-est-elle-consciente-la-reponse-insolite-dun-chercheur-de-microsoft",
+      "url": "https://www.lebigdata.fr/lia-est-elle-consciente-la-reponse-insolite-dun-chercheur-de-microsoft",
+      "publishedAt": "2026-06-24T19:58:30.000Z",
+      "date": "2026-06-24T19:58:30.000Z",
+      "description": "Depuis que ChatGPT a débarqué dans nos vies, tout le monde s'interroge.... Ny Ando A. Sur le même sujet. Un robot femme gris · GPT-5 est là...",
+      "excerpt": "Depuis que ChatGPT a débarqué dans nos vies, tout le monde s'interroge.... Ny Ando A. Sur le même sujet. Un robot femme gris · GPT-5 est là...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Cybersécurité: Profitant des déboires d'Anthropic, OpenAI lance Daybreak et Patch the...",
       "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/cybersecurite-profitant-des-deboires-danthropic-openai-lance-daybreak-et-patch-the-planet-pour-corriger-les-failles-sous-loeil-des-autorites-americaines.VG42X2WYZFE3VJSQJQKCYFSJWE.html",
@@ -70,6 +80,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "ChatGPT: FAQ sur le mode étude - OpenAI Help Center",
+      "link": "https://help.openai.com/fr-fr/articles/11780217-chatgpt-faq-sur-le-mode-%C3%A9tude",
+      "url": "https://help.openai.com/fr-fr/articles/11780217-chatgpt-faq-sur-le-mode-%C3%A9tude",
+      "publishedAt": "2026-06-24T11:31:51.000Z",
+      "date": "2026-06-24T11:31:51.000Z",
+      "description": "ChatGPT Enterprise et Edu - Notes de version · ChatGPT Business - Notes de version. Journal des dernières mises à jour de l'abonnement ChatGPT...",
+      "excerpt": "ChatGPT Enterprise et Edu - Notes de version · ChatGPT Business - Notes de version. Journal des dernières mises à jour de l'abonnement ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Samsung déploie ChatGPT Enterprise et Codex mondialement - Brief IA",
       "link": "https://www.briefia.fr/article/samsung-deploie-chatgpt-enterprise-et-codex-mondialement",
       "url": "https://www.briefia.fr/article/samsung-deploie-chatgpt-enterprise-et-codex-mondialement",
@@ -107,26 +127,6 @@
       "date": "2026-06-24T06:33:25.000Z",
       "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Étude GEO: les marques citées par ChatGPT reçoivent 2,5× plus de...",
       "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Étude GEO: les marques citées par ChatGPT reçoivent 2,5× plus de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Collectivités et Shadow AI: ce que révèle l'usage clandestin de ChatGPT dans votre mairie",
-      "link": "https://goodtech.info/collectivites-et-shadow-ai-ce-que-revele-lusage-clandestin-de-chatgpt-dans-votre-mairie/",
-      "url": "https://goodtech.info/collectivites-et-shadow-ai-ce-que-revele-lusage-clandestin-de-chatgpt-dans-votre-mairie/",
-      "publishedAt": "2026-06-24T06:15:55.000Z",
-      "date": "2026-06-24T06:15:55.000Z",
-      "description": "... ChatGPT dans votre mairie... Des régions pionnières (Hauts-de-France, Bretagne, Occitanie) structurent une architecture locale de cybersécurité que la...",
-      "excerpt": "... ChatGPT dans votre mairie... Des régions pionnières (Hauts-de-France, Bretagne, Occitanie) structurent une architecture locale de cybersécurité que la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité: l'IA de frontière inquiète les Five Eyes | Android MT",
-      "link": "https://android-mt.ouest-france.fr/news/decryptage/cybersecurite-lia-de-frontiere-inquiete-les-five-eyes/204502/",
-      "url": "https://android-mt.ouest-france.fr/news/decryptage/cybersecurite-lia-de-frontiere-inquiete-les-five-eyes/204502/",
-      "publishedAt": "2026-06-24T04:38:16.000Z",
-      "date": "2026-06-24T04:38:16.000Z",
-      "description": "Cybersécurité: l'IA de frontière inquiète les Five Eyes. Richard... gemini- chatgpt -claude-quel-chatbot-ia...",
-      "excerpt": "Cybersécurité: l'IA de frontière inquiète les Five Eyes. Richard... gemini- chatgpt -claude-quel-chatbot-ia...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
