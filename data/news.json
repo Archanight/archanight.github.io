@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T02:28:19.339Z",
+  "generatedAt": "2026-06-25T08:47:35.008Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT au cœur d'une enquête judiciaire sur une fraude crypto massive - Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-au-c-ur-d-une-enquete-judiciaire-sur-une-fraude-crypto-massive",
+      "url": "https://www.briefia.fr/article/chatgpt-au-c-ur-d-une-enquete-judiciaire-sur-une-fraude-crypto-massive",
+      "publishedAt": "2026-06-25T06:10:17.000Z",
+      "date": "2026-06-25T06:10:17.000Z",
+      "description": "Un juge fédéral a ordonné à OpenAI de fournir les enregistrements ChatGPT... OpenAI a lancé GPT-5.5, malgré des préoccupations de cybersécurité,...",
+      "excerpt": "Un juge fédéral a ordonné à OpenAI de fournir les enregistrements ChatGPT... OpenAI a lancé GPT-5.5, malgré des préoccupations de cybersécurité,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Vous manquez d'idées de posts? Facebook lance une appli IA pour vous aider - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/vous-manquez-didees-de-posts-facebook-lance-une-appli-ia-pour-vous-aider",
+      "url": "https://www.lebigdata.fr/vous-manquez-didees-de-posts-facebook-lance-une-appli-ia-pour-vous-aider",
+      "publishedAt": "2026-06-25T05:14:20.000Z",
+      "date": "2026-06-25T05:14:20.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Mais le but est de garder les créateurs sur Facebook plutôt que de les voir ouvrir ChatGPT...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Mais le but est de garder les créateurs sur Facebook plutôt que de les voir ouvrir ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "L'IA est-elle consciente? La réponse insolite d'un chercheur de Microsoft - lebigdata.fr",
       "link": "https://www.lebigdata.fr/lia-est-elle-consciente-la-reponse-insolite-dun-chercheur-de-microsoft",
@@ -107,26 +127,6 @@
       "date": "2026-06-24T09:31:57.000Z",
       "description": "... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Et si Google n'était plus intouchable face à ChatGPT et l'IA? Mélina...",
       "excerpt": "... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Et si Google n'était plus intouchable face à ChatGPT et l'IA? Mélina...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "pendant que la France prend l'eau, OpenAI déploie l'IA qui corrige les failles avant les hackers",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/cybersecurite-pendant-que-la-france-prend-l-eau-openai-deploie-l-ia-qui-corrige-les-failles-avant-les-hackers-n258160.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/cybersecurite-pendant-que-la-france-prend-l-eau-openai-deploie-l-ia-qui-corrige-les-failles-avant-les-hackers-n258160.html",
-      "publishedAt": "2026-06-24T09:18:20.000Z",
-      "date": "2026-06-24T09:18:20.000Z",
-      "description": "Cybersécurité: pendant que la France prend l'eau, OpenAI déploie l'IA... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos...",
-      "excerpt": "Cybersécurité: pendant que la France prend l'eau, OpenAI déploie l'IA... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Étude GEO: les marques citées par ChatGPT reçoivent 2,5× plus de visites de ce type",
-      "link": "https://www.leptidigital.fr/webmarketing/seo/etude-geo-marques-citees-chatgpt-plus-de-visites-90829/",
-      "url": "https://www.leptidigital.fr/webmarketing/seo/etude-geo-marques-citees-chatgpt-plus-de-visites-90829/",
-      "publishedAt": "2026-06-24T06:33:25.000Z",
-      "date": "2026-06-24T06:33:25.000Z",
-      "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Étude GEO: les marques citées par ChatGPT reçoivent 2,5× plus de...",
-      "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Étude GEO: les marques citées par ChatGPT reçoivent 2,5× plus de...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
