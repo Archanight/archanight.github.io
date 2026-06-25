@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T08:47:35.008Z",
+  "generatedAt": "2026-06-25T14:04:35.077Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT et IA: la détection des textes automatisés stagne - Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-et-ia-la-detection-des-textes-automatises-stagne",
+      "url": "https://www.briefia.fr/article/chatgpt-et-ia-la-detection-des-textes-automatises-stagne",
+      "publishedAt": "2026-06-25T12:09:18.000Z",
+      "date": "2026-06-25T12:09:18.000Z",
+      "description": "ChatGPT et IA: la détection des textes automatisés stagne... Bitdefender propose des outils comme Scam Copilot pour renforcer la cybersécurité face à...",
+      "excerpt": "ChatGPT et IA: la détection des textes automatisés stagne... Bitdefender propose des outils comme Scam Copilot pour renforcer la cybersécurité face à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI rend GPT-5.5 plus « humain » dans ses réponses - Frandroid",
+      "link": "https://www.frandroid.com/marques/openai/3156319_openai-rend-gpt-5-5-plus-humain-dans-ses-reponses",
+      "url": "https://www.frandroid.com/marques/openai/3156319_openai-rend-gpt-5-5-plus-humain-dans-ses-reponses",
+      "publishedAt": "2026-06-25T11:51:04.000Z",
+      "date": "2026-06-25T11:51:04.000Z",
+      "description": "Annoncé comme étant « son modèle le plus intelligent et le plus intuitif à ce jour », il fait aujourd'hui office de standard pour ChatGPT. La suite...",
+      "excerpt": "Annoncé comme étant « son modèle le plus intelligent et le plus intuitif à ce jour », il fait aujourd'hui office de standard pour ChatGPT. La suite...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI met à jour GPT-5.5 Instant: voici qu'est-ce que ça change - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/openai-met-a-jour-gpt-5-5-instant-voici-quest-ce-que-ca-change",
+      "url": "https://www.lebigdata.fr/openai-met-a-jour-gpt-5-5-instant-voici-quest-ce-que-ca-change",
+      "publishedAt": "2026-06-25T10:53:35.000Z",
+      "date": "2026-06-25T10:53:35.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... OpenAI vient de mettre à jour GPT-5.5 Instant, le modèle utilisé par défaut dans ChatGPT.",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... OpenAI vient de mettre à jour GPT-5.5 Instant, le modèle utilisé par défaut dans ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI révolutionne ChatGPT avec la mise à jour de GPT-5.5 Instant - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-revolutionne-chatgpt-avec-la-mise-a-jour-de-gpt-5-5-instant",
+      "url": "https://www.briefia.fr/article/openai-revolutionne-chatgpt-avec-la-mise-a-jour-de-gpt-5-5-instant",
+      "publishedAt": "2026-06-25T10:09:51.000Z",
+      "date": "2026-06-25T10:09:51.000Z",
+      "description": "OpenAI a lancé une mise à jour majeure de GPT-5.5 Instant, améliorant la fluidité des échanges sur ChatGPT. • La nouvelle architecture « Dreaming...",
+      "excerpt": "OpenAI a lancé une mise à jour majeure de GPT-5.5 Instant, améliorant la fluidité des échanges sur ChatGPT. • La nouvelle architecture « Dreaming...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT a changé de ton: OpenAI veut que son IA soit « plus fun » à utiliser - Toms Guide",
+      "link": "https://www.tomsguide.fr/chatgpt-a-change-de-ton-openai-veut-que-son-ia-soit-plus-fun-a-utiliser/",
+      "url": "https://www.tomsguide.fr/chatgpt-a-change-de-ton-openai-veut-que-son-ia-soit-plus-fun-a-utiliser/",
+      "publishedAt": "2026-06-25T08:18:01.000Z",
+      "date": "2026-06-25T08:18:01.000Z",
+      "description": "... release notes ChatGPT help.openai.com · ChatGPT · Aymeric Geoffre-Rouland. LinkedIn. Journaliste indépendant depuis 2012...",
+      "excerpt": "... release notes ChatGPT help.openai.com · ChatGPT · Aymeric Geoffre-Rouland. LinkedIn. Journaliste indépendant depuis 2012...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "ChatGPT au cœur d'une enquête judiciaire sur une fraude crypto massive - Brief IA",
       "link": "https://www.briefia.fr/article/chatgpt-au-c-ur-d-une-enquete-judiciaire-sur-une-fraude-crypto-massive",
@@ -77,56 +127,6 @@
       "date": "2026-06-24T15:22:21.000Z",
       "description": "Imaginez-vous à la tête d'une entreprise, constamment en alerte face aux menaces de cybersécurité. Vous êtes toujours à la recherche de solutions...",
       "excerpt": "Imaginez-vous à la tête d'une entreprise, constamment en alerte face aux menaces de cybersécurité. Vous êtes toujours à la recherche de solutions...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT prépare un modèle vocal qui écoute et parle en même temps - Les Numériques",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-prepare-un-modele-vocal-qui-ecoute-et-parle-en-meme-temps-la-prochaine-revolution-d-openai-n258225.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-prepare-un-modele-vocal-qui-ecoute-et-parle-en-meme-temps-la-prochaine-revolution-d-openai-n258225.html",
-      "publishedAt": "2026-06-24T14:36:09.000Z",
-      "date": "2026-06-24T14:36:09.000Z",
-      "description": "ChatGPT est le chatbot d'OpenAI, basé sur le modèle d'intelligence artificielle GPT, permettant de répondre à toutes sortes de questions ou requêtes.",
-      "excerpt": "ChatGPT est le chatbot d'OpenAI, basé sur le modèle d'intelligence artificielle GPT, permettant de répondre à toutes sortes de questions ou requêtes.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Alerte aux fausses notes de frais par IA, par Anthony Morel - 24/06: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/economie/culture-ia-alerte-aux-fausses-notes-de-frais-par-ia-par-anthony-morel-24-06-CNT000002q9bi9.html",
-      "url": "https://actu.orange.fr/videos/economie/culture-ia-alerte-aux-fausses-notes-de-frais-par-ia-par-anthony-morel-24-06-CNT000002q9bi9.html",
-      "publishedAt": "2026-06-24T11:35:40.000Z",
-      "date": "2026-06-24T11:35:40.000Z",
-      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Culture IA: Gemini 3, plus fort que ChatGPT?, par Anthony Morel - 19/11.",
-      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Culture IA: Gemini 3, plus fort que ChatGPT?, par Anthony Morel - 19/11.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: FAQ sur le mode étude - OpenAI Help Center",
-      "link": "https://help.openai.com/fr-fr/articles/11780217-chatgpt-faq-sur-le-mode-%C3%A9tude",
-      "url": "https://help.openai.com/fr-fr/articles/11780217-chatgpt-faq-sur-le-mode-%C3%A9tude",
-      "publishedAt": "2026-06-24T11:31:51.000Z",
-      "date": "2026-06-24T11:31:51.000Z",
-      "description": "ChatGPT Enterprise et Edu - Notes de version · ChatGPT Business - Notes de version. Journal des dernières mises à jour de l'abonnement ChatGPT...",
-      "excerpt": "ChatGPT Enterprise et Edu - Notes de version · ChatGPT Business - Notes de version. Journal des dernières mises à jour de l'abonnement ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Samsung déploie ChatGPT Enterprise et Codex mondialement - Brief IA",
-      "link": "https://www.briefia.fr/article/samsung-deploie-chatgpt-enterprise-et-codex-mondialement",
-      "url": "https://www.briefia.fr/article/samsung-deploie-chatgpt-enterprise-et-codex-mondialement",
-      "publishedAt": "2026-06-24T10:09:43.000Z",
-      "date": "2026-06-24T10:09:43.000Z",
-      "description": "Electronics élargit l'accès à ChatGPT... depuis le 1er février 2026. À lire aussi. IBM et OpenAI révolutionnent la cybersécurité avec une IA avancéeil...",
-      "excerpt": "Electronics élargit l'accès à ChatGPT... depuis le 1er février 2026. À lire aussi. IBM et OpenAI révolutionnent la cybersécurité avec une IA avancéeil...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Et si Google n'était plus intouchable face à ChatGPT et l'IA? - Clubic",
-      "link": "https://www.clubic.com/actualite-618322-et-si-google-n-etait-plus-intouchable-face-a-chatgpt-et-l-ia.html",
-      "url": "https://www.clubic.com/actualite-618322-et-si-google-n-etait-plus-intouchable-face-a-chatgpt-et-l-ia.html",
-      "publishedAt": "2026-06-24T09:31:57.000Z",
-      "date": "2026-06-24T09:31:57.000Z",
-      "description": "... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Et si Google n'était plus intouchable face à ChatGPT et l'IA? Mélina...",
-      "excerpt": "... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Et si Google n'était plus intouchable face à ChatGPT et l'IA? Mélina...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
