@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T02:30:01.100Z",
+  "generatedAt": "2026-06-26T08:50:07.554Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,14 +10,24 @@
   "failedSources": [],
   "items": [
     {
-      "title": "IA pratique: comment pousser Copilot ou ChatGPT à dépanner votre PC tout en évitant son...",
+      "title": "IA pratique: comment pousser Copilot ou ChatGPT à dépanner votre... - ZDNET",
       "link": "https://www.zdnet.fr/pratique/ia-pratique-comment-pousser-copilot-ou-chatgpt-a-depanner-votre-pc-tout-en-evitant-son-exces-de-confiance-497545.htm",
       "url": "https://www.zdnet.fr/pratique/ia-pratique-comment-pousser-copilot-ou-chatgpt-a-depanner-votre-pc-tout-en-evitant-son-exces-de-confiance-497545.htm",
-      "publishedAt": "2026-06-25T21:37:15.000Z",
-      "date": "2026-06-25T21:37:15.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... IA pratique: comment pousser Copilot ou ChatGPT à dépanner votre...",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... IA pratique: comment pousser Copilot ou ChatGPT à dépanner votre...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "publishedAt": "2026-06-26T02:07:15.000Z",
+      "date": "2026-06-26T02:07:15.000Z",
+      "description": "R: Je suis Microsoft Copilot, et je fonctionne sur le modèle de chat GPT-5. Concrètement, cela signifie que je fais partie de la dernière...",
+      "excerpt": "R: Je suis Microsoft Copilot, et je fonctionne sur le modèle de chat GPT-5. Concrètement, cela signifie que je fais partie de la dernière...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Patched Hidock Final Release | macOS & Windows 8.1 - YouTube",
+      "link": "https://www.youtube.com/playlist?list=PLVDYu1Mzq-T8",
+      "url": "https://www.youtube.com/playlist?list=PLVDYu1Mzq-T8",
+      "publishedAt": "2026-06-25T23:48:20.000Z",
+      "date": "2026-06-25T23:48:20.000Z",
+      "description": "66K views • 1 month ago. 7:25. HiDock H1 ChatGPT -Powered Audio Dock with Lifetime Free Transcribe Service. Technical Omor. 57K views • 2 years ago.",
+      "excerpt": "66K views • 1 month ago. 7:25. HiDock H1 ChatGPT -Powered Audio Dock with Lifetime Free Transcribe Service. Technical Omor. 57K views • 2 years ago.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Le Tech Flash: RAM, des prix bloqués jusqu'en 2030, par Léa Benaim - 25/06: Actualités",
@@ -118,16 +128,6 @@
       "description": "ChatGPT et IA: la détection des textes automatisés stagne... Bitdefender propose des outils comme Scam Copilot pour renforcer la cybersécurité face à...",
       "excerpt": "ChatGPT et IA: la détection des textes automatisés stagne... Bitdefender propose des outils comme Scam Copilot pour renforcer la cybersécurité face à...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI rend GPT-5.5 plus « humain » dans ses réponses - Frandroid",
-      "link": "https://www.frandroid.com/marques/openai/3156319_openai-rend-gpt-5-5-plus-humain-dans-ses-reponses",
-      "url": "https://www.frandroid.com/marques/openai/3156319_openai-rend-gpt-5-5-plus-humain-dans-ses-reponses",
-      "publishedAt": "2026-06-25T11:51:04.000Z",
-      "date": "2026-06-25T11:51:04.000Z",
-      "description": "Annoncé comme étant « son modèle le plus intelligent et le plus intuitif à ce jour », il fait aujourd'hui office de standard pour ChatGPT. La suite...",
-      "excerpt": "Annoncé comme étant « son modèle le plus intelligent et le plus intuitif à ce jour », il fait aujourd'hui office de standard pour ChatGPT. La suite...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
