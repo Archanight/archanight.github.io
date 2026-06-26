@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T19:45:39.514Z",
+  "generatedAt": "2026-06-26T02:30:01.100Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "IA pratique: comment pousser Copilot ou ChatGPT à dépanner votre PC tout en évitant son...",
+      "link": "https://www.zdnet.fr/pratique/ia-pratique-comment-pousser-copilot-ou-chatgpt-a-depanner-votre-pc-tout-en-evitant-son-exces-de-confiance-497545.htm",
+      "url": "https://www.zdnet.fr/pratique/ia-pratique-comment-pousser-copilot-ou-chatgpt-a-depanner-votre-pc-tout-en-evitant-son-exces-de-confiance-497545.htm",
+      "publishedAt": "2026-06-25T21:37:15.000Z",
+      "date": "2026-06-25T21:37:15.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... IA pratique: comment pousser Copilot ou ChatGPT à dépanner votre...",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... IA pratique: comment pousser Copilot ou ChatGPT à dépanner votre...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le Tech Flash: RAM, des prix bloqués jusqu'en 2030, par Léa Benaim - 25/06: Actualités",
+      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-ram-des-prix-bloques-jusqu-en-2030-par-lea-benaim-25-06-CNT000002qaYN5.html",
+      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-ram-des-prix-bloques-jusqu-en-2030-par-lea-benaim-25-06-CNT000002qaYN5.html",
+      "publishedAt": "2026-06-25T21:26:12.000Z",
+      "date": "2026-06-25T21:26:12.000Z",
+      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte... Le Tech Flash: OpenAI lance \"Traduire avec ChatGPT \", par Léa Benaim - 15/01.",
+      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte... Le Tech Flash: OpenAI lance \"Traduire avec ChatGPT \", par Léa Benaim - 15/01.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Pannes d'IA - Les coupures ont été multipliées par 8 en un an - Korben",
+      "link": "https://korben.info/fiabilite-ia-pannes-downdetector-2026.html",
+      "url": "https://korben.info/fiabilite-ia-pannes-downdetector-2026.html",
+      "publishedAt": "2026-06-25T20:59:46.000Z",
+      "date": "2026-06-25T20:59:46.000Z",
+      "description": "... ( ChatGPT, Claude, Gemini, Copilot) + les deux géants du cloud qui les... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
+      "excerpt": "... ( ChatGPT, Claude, Gemini, Copilot) + les deux géants du cloud qui les... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google a analysé les nouvelles arnaques en ligne, et le constat est franchement préoccupant",
+      "link": "https://www.futura-sciences.com/tech/actualites/cybersecurite-google-analyse-nouvelles-arnaques-ligne-constat-franchement-preoccupant-135664/",
+      "url": "https://www.futura-sciences.com/tech/actualites/cybersecurite-google-analyse-nouvelles-arnaques-ligne-constat-franchement-preoccupant-135664/",
+      "publishedAt": "2026-06-25T20:00:31.000Z",
+      "date": "2026-06-25T20:00:31.000Z",
+      "description": "Google alerte sur des arnaques de plus en plus sophistiquées.... enjeux cybersécurité cybersécurité actualité oleoduc cyberattaque...",
+      "excerpt": "Google alerte sur des arnaques de plus en plus sophistiquées.... enjeux cybersécurité cybersécurité actualité oleoduc cyberattaque...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI et Broadcom présentent Jalapeño, leur nouvelle puce IA dédiée à l'inférence des LLM",
       "link": "https://www.lebigdata.fr/openai-et-broadcom-presentent-jalapeno-leur-nouvelle-puce-ia-dediee-a-linference-des-llm",
@@ -88,46 +128,6 @@
       "description": "Annoncé comme étant « son modèle le plus intelligent et le plus intuitif à ce jour », il fait aujourd'hui office de standard pour ChatGPT. La suite...",
       "excerpt": "Annoncé comme étant « son modèle le plus intelligent et le plus intuitif à ce jour », il fait aujourd'hui office de standard pour ChatGPT. La suite...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI met à jour GPT-5.5 Instant: voici qu'est-ce que ça change - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/openai-met-a-jour-gpt-5-5-instant-voici-quest-ce-que-ca-change",
-      "url": "https://www.lebigdata.fr/openai-met-a-jour-gpt-5-5-instant-voici-quest-ce-que-ca-change",
-      "publishedAt": "2026-06-25T10:53:35.000Z",
-      "date": "2026-06-25T10:53:35.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... OpenAI vient de mettre à jour GPT-5.5 Instant, le modèle utilisé par défaut dans ChatGPT.",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... OpenAI vient de mettre à jour GPT-5.5 Instant, le modèle utilisé par défaut dans ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI révolutionne ChatGPT avec la mise à jour de GPT-5.5 Instant - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-revolutionne-chatgpt-avec-la-mise-a-jour-de-gpt-5-5-instant",
-      "url": "https://www.briefia.fr/article/openai-revolutionne-chatgpt-avec-la-mise-a-jour-de-gpt-5-5-instant",
-      "publishedAt": "2026-06-25T10:09:51.000Z",
-      "date": "2026-06-25T10:09:51.000Z",
-      "description": "OpenAI a lancé une mise à jour majeure de GPT-5.5 Instant, améliorant la fluidité des échanges sur ChatGPT. • La nouvelle architecture « Dreaming...",
-      "excerpt": "OpenAI a lancé une mise à jour majeure de GPT-5.5 Instant, améliorant la fluidité des échanges sur ChatGPT. • La nouvelle architecture « Dreaming...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT a changé de ton: OpenAI veut que son IA soit « plus fun » à utiliser - Toms Guide",
-      "link": "https://www.tomsguide.fr/chatgpt-a-change-de-ton-openai-veut-que-son-ia-soit-plus-fun-a-utiliser/",
-      "url": "https://www.tomsguide.fr/chatgpt-a-change-de-ton-openai-veut-que-son-ia-soit-plus-fun-a-utiliser/",
-      "publishedAt": "2026-06-25T08:18:01.000Z",
-      "date": "2026-06-25T08:18:01.000Z",
-      "description": "... release notes ChatGPT help.openai.com · ChatGPT · Aymeric Geoffre-Rouland. LinkedIn. Journaliste indépendant depuis 2012...",
-      "excerpt": "... release notes ChatGPT help.openai.com · ChatGPT · Aymeric Geoffre-Rouland. LinkedIn. Journaliste indépendant depuis 2012...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Jalapeño: OpenAI vient de présenter sa toute première puce IA dédiée à ses modèles",
-      "link": "https://www.lebigdata.fr/jalapeno-openai-vient-de-presenter-sa-toute-premiere-puce-ia-dediee-a-ses-modeles",
-      "url": "https://www.lebigdata.fr/jalapeno-openai-vient-de-presenter-sa-toute-premiere-puce-ia-dediee-a-ses-modeles",
-      "publishedAt": "2026-06-25T06:33:40.000Z",
-      "date": "2026-06-25T06:33:40.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... C'est cette étape qui intervient chaque fois qu'un utilisateur pose une question à ChatGPT ou sollicite un...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... C'est cette étape qui intervient chaque fois qu'un utilisateur pose une question à ChatGPT ou sollicite un...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
