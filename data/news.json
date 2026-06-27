@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T02:14:20.077Z",
+  "generatedAt": "2026-06-27T08:26:15.235Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI réserve l'accès à sa dernière version de ChatGPT aux clients agréés par Trump",
+      "link": "https://lactualite.com/actualites/openai-reserve-lacces-a-sa-derniere-version-de-chatgpt-aux-clients-agrees-par-trump/",
+      "url": "https://lactualite.com/actualites/openai-reserve-lacces-a-sa-derniere-version-de-chatgpt-aux-clients-agrees-par-trump/",
+      "publishedAt": "2026-06-27T03:01:37.000Z",
+      "date": "2026-06-27T03:01:37.000Z",
+      "description": "... cybersécurité pour les produits d'IA. OpenAI a précisé que [... OpenAI réserve l'accès à sa dernière version de ChatGPT aux clients agréés par Trump.",
+      "excerpt": "... cybersécurité pour les produits d'IA. OpenAI a précisé que [... OpenAI réserve l'accès à sa dernière version de ChatGPT aux clients agréés par Trump.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Intelligence artificielle: OpenAI contraint de demander l'accord de Washington pour chaque...",
       "link": "https://bourseinside.fr/crypto/intelligence-artificielle-openai-contraint-de-demander-laccord-de-washington-pour-chaque-acces-a-son-nouveau-gpt-5-6/",
@@ -117,16 +127,6 @@
       "date": "2026-06-26T18:21:19.000Z",
       "description": "Autrement dit, un même verrou censé freiner un pirate peut aussi compliquer le travail d'une équipe de cybersécurité défensive.... ChatGPTGPT-5...",
       "excerpt": "Autrement dit, un même verrou censé freiner un pirate peut aussi compliquer le travail d'une équipe de cybersécurité défensive.... ChatGPTGPT-5...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Accès limité | OpenAI lance son nouveau modèle GPT 5.6 - LaPresse.ca",
-      "link": "https://www.lapresse.ca/affaires/techno/2026-06-26/acces-limite/openai-lance-son-nouveau-modele-gpt-5-6.php",
-      "url": "https://www.lapresse.ca/affaires/techno/2026-06-26/acces-limite/openai-lance-son-nouveau-modele-gpt-5-6.php",
-      "publishedAt": "2026-06-26T18:19:52.000Z",
-      "date": "2026-06-26T18:19:52.000Z",
-      "description": "... cybersécurité avec une rapidité et une acuité inédites. (San Francisco) OpenAI a commencé vendredi le déploiement de son nouveau modèle de pointe...",
-      "excerpt": "... cybersécurité avec une rapidité et une acuité inédites. (San Francisco) OpenAI a commencé vendredi le déploiement de son nouveau modèle de pointe...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
