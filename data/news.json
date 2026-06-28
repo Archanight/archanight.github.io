@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T19:04:21.621Z",
+  "generatedAt": "2026-06-28T02:35:54.970Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-5.6: les trois modèles Sol, Terra et Luna n'auront ni le même prix ni la même puissance",
+      "link": "https://www.menow.fr/gpt-5-6-les-trois-modeles-sol-terra-et-luna-nauront-ni-le-meme-prix-ni-la-meme-puissance/",
+      "url": "https://www.menow.fr/gpt-5-6-les-trois-modeles-sol-terra-et-luna-nauront-ni-le-meme-prix-ni-la-meme-puissance/",
+      "publishedAt": "2026-06-27T19:08:55.000Z",
+      "date": "2026-06-27T19:08:55.000Z",
+      "description": "Aucun de ces modèles n'est encore accessible au grand public dans ChatGPT. GPT-5.6 devient une famille de trois modèles distincts. OpenAI ne présente...",
+      "excerpt": "Aucun de ces modèles n'est encore accessible au grand public dans ChatGPT. GPT-5.6 devient une famille de trois modèles distincts. OpenAI ne présente...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Arnaques sur Facebook: des documents internes accusent Meta d'avoir laissé faire",
       "link": "https://www.futura-sciences.com/tech/actualites/facebook-arnaques-facebook-documents-internes-accusent-meta-avoir-laisse-faire-135711/",
@@ -38,6 +48,16 @@
       "description": "Des outils comme ChatGPT ou Claude sont capables de générer des scripts fonctionnels à partir d'une description simple en langage courant. La barrière...",
       "excerpt": "Des outils comme ChatGPT ou Claude sont capables de générer des scripts fonctionnels à partir d'une description simple en langage courant. La barrière...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI a retardé GPT-5.6 après l'intervention des autorités américaines - Menow",
+      "link": "https://www.menow.fr/openai-a-retarde-gpt-5-6-apres-lintervention-des-autorites-americaines/",
+      "url": "https://www.menow.fr/openai-a-retarde-gpt-5-6-apres-lintervention-des-autorites-americaines/",
+      "publishedAt": "2026-06-27T16:01:58.000Z",
+      "date": "2026-06-27T16:01:58.000Z",
+      "description": "Des structures spécialisées dans la cybersécurité, les sciences et les technologies participeraient notamment au processus. Cette intervention...",
+      "excerpt": "Des structures spécialisées dans la cybersécurité, les sciences et les technologies participeraient notamment au processus. Cette intervention...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "GPT-5, Claude et Gemini pour moins de 22 € à vie: pourquoi l'offre 1minAI séduit autant",
@@ -107,26 +127,6 @@
       "date": "2026-06-27T08:58:51.000Z",
       "description": "OpenAI le présente comme son modèle le plus avancé, notamment en code, en cybersécurité et en biologie.... ChatGPT, Codex et l'API. Mais OpenAI...",
       "excerpt": "OpenAI le présente comme son modèle le plus avancé, notamment en code, en cybersécurité et en biologie.... ChatGPT, Codex et l'API. Mais OpenAI...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des entreprises de cybersécurité visées par de fausses invitations d'OpenAI",
-      "link": "https://www.netcost-security.fr/actualites/274622/des-entreprises-de-cybersecurite-visees-par-de-fausses-invitations-dopenai/",
-      "url": "https://www.netcost-security.fr/actualites/274622/des-entreprises-de-cybersecurite-visees-par-de-fausses-invitations-dopenai/",
-      "publishedAt": "2026-06-27T08:24:35.000Z",
-      "date": "2026-06-27T08:24:35.000Z",
-      "description": "». L'invitation était authentique et provenait directement des serveurs d'OpenAI, mais l'espace de travail ChatGPT avait été créé par un attaquant qui...",
-      "excerpt": "». L'invitation était authentique et provenait directement des serveurs d'OpenAI, mais l'espace de travail ChatGPT avait été créé par un attaquant qui...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "PARIS: Shadow AI - L'usage clandestin de ChatGPT menace la sécurité des collectivités",
-      "link": "https://presseagence.fr/paris-shadow-ai-lusage-clandestin-de-chatgpt-menace-la-securite-des-collectivites/",
-      "url": "https://presseagence.fr/paris-shadow-ai-lusage-clandestin-de-chatgpt-menace-la-securite-des-collectivites/",
-      "publishedAt": "2026-06-27T08:02:47.000Z",
-      "date": "2026-06-27T08:02:47.000Z",
-      "description": "Plus d'un agent public sur deux utilise ChatGPT sans cadre, exposant les collectivités à des cyber-risques majeurs. Le phénomène \"Shadow AI\"...",
-      "excerpt": "Plus d'un agent public sur deux utilise ChatGPT sans cadre, exposant les collectivités à des cyber-risques majeurs. Le phénomène \"Shadow AI\"...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
