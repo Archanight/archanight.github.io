@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T19:02:57.364Z",
+  "generatedAt": "2026-06-29T02:36:03.184Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -57,6 +57,16 @@
       "date": "2026-06-28T14:51:23.000Z",
       "description": "» Une telle restriction prive les utilisateurs et les défenseurs cybersécurité d'outils essentiels. OpenAI qualifie tout de même cette étape de...",
       "excerpt": "» Une telle restriction prive les utilisateurs et les défenseurs cybersécurité d'outils essentiels. OpenAI qualifie tout de même cette étape de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI réserve l'accès à sa dernière version de ChatGPT aux clients agréés par Trump",
+      "link": "https://www.msn.com/fr-ca/finances/affaires/openai-r%C3%A9serve-lacc%C3%A8s-%C3%A0-sa-derni%C3%A8re-version-de-chatgpt-aux-clients-agr%C3%A9%C3%A9s-par-trump/ar-AA26DQDH",
+      "url": "https://www.msn.com/fr-ca/finances/affaires/openai-r%C3%A9serve-lacc%C3%A8s-%C3%A0-sa-derni%C3%A8re-version-de-chatgpt-aux-clients-agr%C3%A9%C3%A9s-par-trump/ar-AA26DQDH",
+      "publishedAt": "2026-06-28T12:00:08.000Z",
+      "date": "2026-06-28T12:00:08.000Z",
+      "description": "... cybersécurité pour les produits d'IA.",
+      "excerpt": "... cybersécurité pour les produits d'IA.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -118,16 +128,6 @@
       "description": "Aucun de ces modèles n'est encore accessible au grand public dans ChatGPT. GPT-5.6 devient une famille de trois modèles distincts. OpenAI ne présente...",
       "excerpt": "Aucun de ces modèles n'est encore accessible au grand public dans ChatGPT. GPT-5.6 devient une famille de trois modèles distincts. OpenAI ne présente...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Arnaques sur Facebook: des documents internes accusent Meta d'avoir laissé faire",
-      "link": "https://www.futura-sciences.com/tech/actualites/facebook-arnaques-facebook-documents-internes-accusent-meta-avoir-laisse-faire-135711/",
-      "url": "https://www.futura-sciences.com/tech/actualites/facebook-arnaques-facebook-documents-internes-accusent-meta-avoir-laisse-faire-135711/",
-      "publishedAt": "2026-06-27T16:51:51.000Z",
-      "date": "2026-06-27T16:51:51.000Z",
-      "description": "Meta aurait sciemment affiché des publicités frauduleuses sur Facebook.... réseaux sociaux enjeux cybersécurité cybersécurité actualité qu'est ce...",
-      "excerpt": "Meta aurait sciemment affiché des publicités frauduleuses sur Facebook.... réseaux sociaux enjeux cybersécurité cybersécurité actualité qu'est ce...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
