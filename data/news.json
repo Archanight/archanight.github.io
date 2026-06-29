@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T02:36:03.184Z",
+  "generatedAt": "2026-06-29T10:22:41.926Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Phishing: des hackers créent de fausses organisations ChatGPT pour piéger des employés",
+      "link": "https://www.numerama.com/cyberguerre/2287057-phishing-dun-nouveau-genre-des-hackers-creent-de-fausses-organisations-chatgpt-pour-pieger-des-employes.html",
+      "url": "https://www.numerama.com/cyberguerre/2287057-phishing-dun-nouveau-genre-des-hackers-creent-de-fausses-organisations-chatgpt-pour-pieger-des-employes.html",
+      "publishedAt": "2026-06-29T09:26:05.000Z",
+      "date": "2026-06-29T09:26:05.000Z",
+      "description": "... ChatGPT pour piéger des employés... Push Security n'est pas un cas isolé, d'autres entreprises des secteurs tech et cybersécurité ont reçu des...",
+      "excerpt": "... ChatGPT pour piéger des employés... Push Security n'est pas un cas isolé, d'autres entreprises des secteurs tech et cybersécurité ont reçu des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI dévoile GPT-5.6 Sol, un nouveau modèle réservé aux partenaires approuvés par la... - BDM",
+      "link": "https://www.blogdumoderateur.com/openai-gpt-5-6-sol-modele-reserve-partenaires-approuves-maison-blanche/",
+      "url": "https://www.blogdumoderateur.com/openai-gpt-5-6-sol-modele-reserve-partenaires-approuves-maison-blanche/",
+      "publishedAt": "2026-06-29T09:14:23.000Z",
+      "date": "2026-06-29T09:14:23.000Z",
+      "description": "Partager. OpenAI GPT-5 -6-sol. La série GPT-5.6 intégre notamment des améliorations en codage en biologie et en cybersécurité.",
+      "excerpt": "Partager. OpenAI GPT-5 -6-sol. La série GPT-5.6 intégre notamment des améliorations en codage en biologie et en cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Lancement de GPT-5.6: OpenAI freiné par Washington - InformatiqueNews.fr",
+      "link": "https://www.informatiquenews.fr/openai-annonce-gpt-5-6-mais-le-gouvernement-americain-y-met-son-veto-112159",
+      "url": "https://www.informatiquenews.fr/openai-annonce-gpt-5-6-mais-le-gouvernement-americain-y-met-son-veto-112159",
+      "publishedAt": "2026-06-29T07:07:53.000Z",
+      "date": "2026-06-29T07:07:53.000Z",
+      "description": "Pas de grande ouverture dans ChatGPT. Pas de self-service. Pas de... En cybersécurité, il devient particulièrement intéressant: OpenAI...",
+      "excerpt": "Pas de grande ouverture dans ChatGPT. Pas de self-service. Pas de... En cybersécurité, il devient particulièrement intéressant: OpenAI...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.6 d'OpenAI est là, mais le gouvernement américain décide qui peut l'utiliser - GNT",
+      "link": "https://www.generation-nt.com/actualites/openai-gpt-5-6-nouveaux-modeles-gouvernement-us-securite-2077813",
+      "url": "https://www.generation-nt.com/actualites/openai-gpt-5-6-nouveaux-modeles-gouvernement-us-securite-2077813",
+      "publishedAt": "2026-06-29T07:00:14.000Z",
+      "date": "2026-06-29T07:00:14.000Z",
+      "description": "OpenAI souligne des capacités améliorées dans des domaines comme le codage, la biologie et la cybersécurité. Selon le créateur de ChatGPT, GPT-5.6...",
+      "excerpt": "OpenAI souligne des capacités améliorées dans des domaines comme le codage, la biologie et la cybersécurité. Selon le créateur de ChatGPT, GPT-5.6...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le gouvernement américain freine l'envol de GPT-5.6 - ITforBusiness.fr",
+      "link": "https://www.itforbusiness.fr/le-gouvernement-americain-freine-lenvol-de-gpt-5-6-105289",
+      "url": "https://www.itforbusiness.fr/le-gouvernement-americain-freine-lenvol-de-gpt-5-6-105289",
+      "publishedAt": "2026-06-29T06:17:04.000Z",
+      "date": "2026-06-29T06:17:04.000Z",
+      "description": "GPT-5.6 Sol sature le jeu interne de défis de cybersécurité (Capture... GPT-5 (60,5 points, soit +8,7). Côté cyber, OpenAI revendique une...",
+      "excerpt": "GPT-5.6 Sol sature le jeu interne de défis de cybersécurité (Capture... GPT-5 (60,5 points, soit +8,7). Côté cyber, OpenAI revendique une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "GPT-5.6 est enfin là… mais vous n'y aurez pas accès: voici pourquoi - lebigdata.fr",
       "link": "https://www.lebigdata.fr/gpt-5-6-est-enfin-la-mais-vous-ny-aurez-pas-acces-voici-pourquoi",
@@ -78,56 +128,6 @@
       "description": "Elle sera bientôt étendue aux utilisateurs de ChatGPT et de l'API. Bien que disponible initialement pour une sélection de partenaires, OpenAI annonce...",
       "excerpt": "Elle sera bientôt étendue aux utilisateurs de ChatGPT et de l'API. Bien que disponible initialement pour une sélection de partenaires, OpenAI annonce...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les modèles GPT-5.6 les plus puissants d'OpenAI arrivent derrière une porte verrouillée",
-      "link": "https://yellow.com/fr/news/les-mod%C3%A8les-gpt-56-les-plus-puissants-d%E2%80%99openai-arrivent-derri%C3%A8re-une-porte-verrouill%C3%A9e",
-      "url": "https://yellow.com/fr/news/les-mod%C3%A8les-gpt-56-les-plus-puissants-d%E2%80%99openai-arrivent-derri%C3%A8re-une-porte-verrouill%C3%A9e",
-      "publishedAt": "2026-06-28T07:46:32.000Z",
-      "date": "2026-06-28T07:46:32.000Z",
-      "description": "Points clés: · La famille GPT-5.6 vise le codage et la...",
-      "excerpt": "Points clés: · La famille GPT-5.6 vise le codage et la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6: OpenAI sort Sol, Terra et Luna, mais Trump limite l'accès | GeeksLands",
-      "link": "https://www.geekslands.fr/gpt-5-6-openai-sol-terra-luna-acces-restreint-2026/",
-      "url": "https://www.geekslands.fr/gpt-5-6-openai-sol-terra-luna-acces-restreint-2026/",
-      "publishedAt": "2026-06-28T06:00:16.000Z",
-      "date": "2026-06-28T06:00:16.000Z",
-      "description": "Sur ExploitBench, dédié à la cybersécurité, Sol rivalise avec Mythos en consommant environ trois fois moins de tokens.... IAOpenAI ChatGPT...",
-      "excerpt": "Sur ExploitBench, dédié à la cybersécurité, Sol rivalise avec Mythos en consommant environ trois fois moins de tokens.... IAOpenAI ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile GPT-5.6, provoquant un véritable remous au sein de la communauté de l'IA.",
-      "link": "https://www.vietnam.vn/fr/openai-he-lo-gpt-5-6-khien-cong-dong-ai-dung-ngoi-khong-yen",
-      "url": "https://www.vietnam.vn/fr/openai-he-lo-gpt-5-6-khien-cong-dong-ai-dung-ngoi-khong-yen",
-      "publishedAt": "2026-06-28T04:35:01.000Z",
-      "date": "2026-06-28T04:35:01.000Z",
-      "description": "Selon Android Authority, GPT-5.6 pourrait être la prochaine mise à jour de ChatGPT... cybersécurité, les sciences biologiques et la programmation.",
-      "excerpt": "Selon Android Authority, GPT-5.6 pourrait être la prochaine mise à jour de ChatGPT... cybersécurité, les sciences biologiques et la programmation.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI réserve l'accès à sa dernière version de ChatGPT aux clients agréés par Trump",
-      "link": "https://www.lanouvelle.net/nouvelles-nationales/openai-reserve-lacces-a-sa-derniere-version-de-chatgpt-aux-clients-agrees-par-trump/",
-      "url": "https://www.lanouvelle.net/nouvelles-nationales/openai-reserve-lacces-a-sa-derniere-version-de-chatgpt-aux-clients-agrees-par-trump/",
-      "publishedAt": "2026-06-27T20:01:25.000Z",
-      "date": "2026-06-27T20:01:25.000Z",
-      "description": "OpenAI réserve l'accès à sa dernière version de ChatGPT aux clients agréés par Trump... cybersécurité le plus performant, deux semaines après son...",
-      "excerpt": "OpenAI réserve l'accès à sa dernière version de ChatGPT aux clients agréés par Trump... cybersécurité le plus performant, deux semaines après son...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6: les trois modèles Sol, Terra et Luna n'auront ni le même prix ni la même puissance",
-      "link": "https://www.menow.fr/gpt-5-6-les-trois-modeles-sol-terra-et-luna-nauront-ni-le-meme-prix-ni-la-meme-puissance/",
-      "url": "https://www.menow.fr/gpt-5-6-les-trois-modeles-sol-terra-et-luna-nauront-ni-le-meme-prix-ni-la-meme-puissance/",
-      "publishedAt": "2026-06-27T19:08:55.000Z",
-      "date": "2026-06-27T19:08:55.000Z",
-      "description": "Aucun de ces modèles n'est encore accessible au grand public dans ChatGPT. GPT-5.6 devient une famille de trois modèles distincts. OpenAI ne présente...",
-      "excerpt": "Aucun de ces modèles n'est encore accessible au grand public dans ChatGPT. GPT-5.6 devient une famille de trois modèles distincts. OpenAI ne présente...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
