@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T15:31:11.172Z",
+  "generatedAt": "2026-06-29T19:42:56.702Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,36 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Le nouveau ChatGPT a été annoncé, même s'il est encore bloqué par les États-Unis",
+      "link": "https://www.journaldugeek.com/2026/06/29/le-nouveau-chatgpt-a-ete-annonce-meme-sil-est-encore-bloque-par-les-etats-unis/",
+      "url": "https://www.journaldugeek.com/2026/06/29/le-nouveau-chatgpt-a-ete-annonce-meme-sil-est-encore-bloque-par-les-etats-unis/",
+      "publishedAt": "2026-06-29T18:04:59.000Z",
+      "date": "2026-06-29T18:04:59.000Z",
+      "description": "... ChatGPT... Aux États-Unis, le gouvernement contrôle de plus en plus les nouvelles IA, dont les capacités en cybersécurité sont de plus en plus...",
+      "excerpt": "... ChatGPT... Aux États-Unis, le gouvernement contrôle de plus en plus les nouvelles IA, dont les capacités en cybersécurité sont de plus en plus...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Une organisation frauduleuse dans ChatGPT usurpe l'identité de Push Security",
+      "link": "https://incyber.org/article/organisation-frauduleuse-dans-chatgpt-usurpe-identite-push-security/",
+      "url": "https://incyber.org/article/organisation-frauduleuse-dans-chatgpt-usurpe-identite-push-security/",
+      "publishedAt": "2026-06-29T17:14:29.000Z",
+      "date": "2026-06-29T17:14:29.000Z",
+      "description": "La société de cybersécurité Push Security a révélé, le 26 juin 2026, avoir été victime d'une organisation frauduleuse créée dans ChatGPT,...",
+      "excerpt": "La société de cybersécurité Push Security a révélé, le 26 juin 2026, avoir été victime d'une organisation frauduleuse créée dans ChatGPT,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI reporte GPT-5.6 Sol: l'ingérence de Washington bouscule à nouveau l'économie de l'IA",
+      "link": "https://www.zdnet.fr/actualites/openai-reporte-gpt-5-6-sol-lingerence-de-washington-bouscule-a-nouveau-leconomie-de-lia-497873.htm",
+      "url": "https://www.zdnet.fr/actualites/openai-reporte-gpt-5-6-sol-lingerence-de-washington-bouscule-a-nouveau-leconomie-de-lia-497873.htm",
+      "publishedAt": "2026-06-29T16:16:15.000Z",
+      "date": "2026-06-29T16:16:15.000Z",
+      "description": "J'ai soumis ChatGPT Images 2.0 et Gemini Nano Banana à neuf tests de génération d'images. Le vainqueur s'impose clairement. Par David Gewirtz | 09 mai...",
+      "excerpt": "J'ai soumis ChatGPT Images 2.0 et Gemini Nano Banana à neuf tests de génération d'images. Le vainqueur s'impose clairement. Par David Gewirtz | 09 mai...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Comment utiliser Deep Search pour faire une recherche en profondeur? - Futura Sciences",
       "link": "https://www.futura-sciences.com/tech/questions-reponses/intelligence-artificielle-utiliser-deep-search-faire-recherche-profondeur-25472/",
       "url": "https://www.futura-sciences.com/tech/questions-reponses/intelligence-artificielle-utiliser-deep-search-faire-recherche-profondeur-25472/",
@@ -18,6 +48,26 @@
       "description": "Cybersécurité · Prime Day · Soldes d'été... Les chatbots comme ChatGPT, Gemini ou Claude peuvent répondre à une question en quelques secondes.",
       "excerpt": "Cybersécurité · Prime Day · Soldes d'été... Les chatbots comme ChatGPT, Gemini ou Claude peuvent répondre à une question en quelques secondes.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La police publie une image de saisie de drogue générée par IA, les habitants crient à la manipulation",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/la-police-publie-une-image-de-saisie-de-drogue-generee-par-ia-les-habitants-crient-a-la-manipulation-n258554.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/la-police-publie-une-image-de-saisie-de-drogue-generee-par-ia-les-habitants-crient-a-la-manipulation-n258554.html",
+      "publishedAt": "2026-06-29T14:27:30.000Z",
+      "date": "2026-06-29T14:27:30.000Z",
+      "description": "... ChatGPT. On parle de plus 20 services de police qui l'ont déjà testé... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "excerpt": "... ChatGPT. On parle de plus 20 services de police qui l'ont déjà testé... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2 Is Coming This Fall… And Netflix Just Revealed Four New Characters",
+      "link": "https://lnt.ma/cyberpunk-edgerunners-2-is-coming-this-fall-and-netflix-just-revealed-four-new-characters/",
+      "url": "https://lnt.ma/cyberpunk-edgerunners-2-is-coming-this-fall-and-netflix-just-revealed-four-new-characters/",
+      "publishedAt": "2026-06-29T13:53:45.000Z",
+      "date": "2026-06-29T13:53:45.000Z",
+      "description": "... release -window-new-characters?utm_source= chatgpt.com)). ─────────. Studio TRIGGER is once again leading the animation, while CD Projekt RED...",
+      "excerpt": "... release -window-new-characters?utm_source= chatgpt.com)). ─────────. Studio TRIGGER is once again leading the animation, while CD Projekt RED...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "IA avancée, les États-Unis commencent à filtrer l'accès aux modèles les plus sensibles",
@@ -37,16 +87,6 @@
       "date": "2026-06-29T12:47:13.000Z",
       "description": "ChatGPT: GPT-5.6 montre enfin ce que la prochaine génération d'IA sait... En cybersécurité, le tableau est plus nuancé. Sur ExploitBench...",
       "excerpt": "ChatGPT: GPT-5.6 montre enfin ce que la prochaine génération d'IA sait... En cybersécurité, le tableau est plus nuancé. Sur ExploitBench...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI reporte GPT-5.6 Sol: l'ingérence de Washington bouscule à nouveau l'économie de l'IA",
-      "link": "https://www.zdnet.fr/actualites/openai-reporte-gpt-5-6-sol-lingerence-de-washington-bouscule-a-nouveau-leconomie-de-lia-497873.htm",
-      "url": "https://www.zdnet.fr/actualites/openai-reporte-gpt-5-6-sol-lingerence-de-washington-bouscule-a-nouveau-leconomie-de-lia-497873.htm",
-      "publishedAt": "2026-06-29T12:31:15.000Z",
-      "date": "2026-06-29T12:31:15.000Z",
-      "description": "L'objectif de Washington est d'identifier les risques potentiels liés à la cybersécurité, aux cyberattaques et au détournement militaire de ces outils...",
-      "excerpt": "L'objectif de Washington est d'identifier les risques potentiels liés à la cybersécurité, aux cyberattaques et au détournement militaire de ces outils...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -87,46 +127,6 @@
       "date": "2026-06-29T11:25:08.000Z",
       "description": "... ChatGPT, de Codex et de l'API, sans date ferme.... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
       "excerpt": "... ChatGPT, de Codex et de l'API, sans date ferme.... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT -5.6 est disponible: quelles sont les nouveautés?",
-      "link": "https://leclaireur.fnac.com/article/681034-chatgpt-5-6-est-disponible-quelles-sont-les-nouveautes/",
-      "url": "https://leclaireur.fnac.com/article/681034-chatgpt-5-6-est-disponible-quelles-sont-les-nouveautes/",
-      "publishedAt": "2026-06-29T11:03:26.000Z",
-      "date": "2026-06-29T11:03:26.000Z",
-      "description": "Retardé à la demande de l'Administration américaine en raison de craintes concernant la cybersécurité, ChatGPT -5.6 a finalement reçu le feu vert le...",
-      "excerpt": "Retardé à la demande de l'Administration américaine en raison de craintes concernant la cybersécurité, ChatGPT -5.6 a finalement reçu le feu vert le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Phishing: des hackers créent de fausses organisations ChatGPT pour piéger des employés",
-      "link": "https://www.numerama.com/cyberguerre/2287057-phishing-dun-nouveau-genre-des-hackers-creent-de-fausses-organisations-chatgpt-pour-pieger-des-employes.html",
-      "url": "https://www.numerama.com/cyberguerre/2287057-phishing-dun-nouveau-genre-des-hackers-creent-de-fausses-organisations-chatgpt-pour-pieger-des-employes.html",
-      "publishedAt": "2026-06-29T09:26:05.000Z",
-      "date": "2026-06-29T09:26:05.000Z",
-      "description": "... ChatGPT pour piéger des employés... Push Security n'est pas un cas isolé, d'autres entreprises des secteurs tech et cybersécurité ont reçu des...",
-      "excerpt": "... ChatGPT pour piéger des employés... Push Security n'est pas un cas isolé, d'autres entreprises des secteurs tech et cybersécurité ont reçu des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile GPT-5.6 Sol, un nouveau modèle réservé aux partenaires approuvés par la... - BDM",
-      "link": "https://www.blogdumoderateur.com/openai-gpt-5-6-sol-modele-reserve-partenaires-approuves-maison-blanche/",
-      "url": "https://www.blogdumoderateur.com/openai-gpt-5-6-sol-modele-reserve-partenaires-approuves-maison-blanche/",
-      "publishedAt": "2026-06-29T09:14:23.000Z",
-      "date": "2026-06-29T09:14:23.000Z",
-      "description": "Partager. OpenAI GPT-5 -6-sol. La série GPT-5.6 intégre notamment des améliorations en codage en biologie et en cybersécurité.",
-      "excerpt": "Partager. OpenAI GPT-5 -6-sol. La série GPT-5.6 intégre notamment des améliorations en codage en biologie et en cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Lancement de GPT-5.6: OpenAI freiné par Washington - InformatiqueNews.fr",
-      "link": "https://www.informatiquenews.fr/openai-annonce-gpt-5-6-mais-le-gouvernement-americain-y-met-son-veto-112159",
-      "url": "https://www.informatiquenews.fr/openai-annonce-gpt-5-6-mais-le-gouvernement-americain-y-met-son-veto-112159",
-      "publishedAt": "2026-06-29T07:07:53.000Z",
-      "date": "2026-06-29T07:07:53.000Z",
-      "description": "Pas de grande ouverture dans ChatGPT. Pas de self-service. Pas de... En cybersécurité, il devient particulièrement intéressant: OpenAI...",
-      "excerpt": "Pas de grande ouverture dans ChatGPT. Pas de self-service. Pas de... En cybersécurité, il devient particulièrement intéressant: OpenAI...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
