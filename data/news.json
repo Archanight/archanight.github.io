@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T19:42:56.702Z",
+  "generatedAt": "2026-06-30T02:30:12.963Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le Tech Flash: La Corée du Sud dévoile un plan XXL dans l'IA, par Léa Benaim - 29/06",
+      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-la-coree-du-sud-devoile-un-plan-xxl-dans-l-ia-par-lea-benaim-29-06-CNT000002qfgv8.html",
+      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-la-coree-du-sud-devoile-un-plan-xxl-dans-l-ia-par-lea-benaim-29-06-CNT000002qfgv8.html",
+      "publishedAt": "2026-06-29T21:48:15.000Z",
+      "date": "2026-06-29T21:48:15.000Z",
+      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Tous publics. Le Tech Flash: De la pub en approche sur ChatGPT? Par Léa...",
+      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Tous publics. Le Tech Flash: De la pub en approche sur ChatGPT? Par Léa...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI delays GPT-5.6 rollout following U.S. government request - La Nouvelle Tribune",
+      "link": "https://lnt.ma/openai-delays-gpt-5-6-rollout-following-u-s-government-request/",
+      "url": "https://lnt.ma/openai-delays-gpt-5-6-rollout-following-u-s-government-request/",
+      "publishedAt": "2026-06-29T20:16:00.000Z",
+      "date": "2026-06-29T20:16:00.000Z",
+      "description": "government for additional safety reviews before a wider release. ─────────. The temporary restriction is intended to give authorities time...",
+      "excerpt": "government for additional safety reviews before a wider release. ─────────. The temporary restriction is intended to give authorities time...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Fini les réponses robotiques sans âme? OpenAI transforme radicalement GPT-5.5 Instant",
+      "link": "https://actu.pcastuces.com/actu-42613-fini-les-reponses-robotiques-sans-ame-openai-transforme-radicalement-gpt-55-instant.htm",
+      "url": "https://actu.pcastuces.com/actu-42613-fini-les-reponses-robotiques-sans-ame-openai-transforme-radicalement-gpt-55-instant.htm",
+      "publishedAt": "2026-06-29T19:04:09.000Z",
+      "date": "2026-06-29T19:04:09.000Z",
+      "description": "chatgpt 5.5 La nouvelle version de GPT 5.5 Instant se montre plus... Selon les notes de version publiées par OpenAI, GPT-5.5 Instant est...",
+      "excerpt": "chatgpt 5.5 La nouvelle version de GPT 5.5 Instant se montre plus... Selon les notes de version publiées par OpenAI, GPT-5.5 Instant est...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Le nouveau ChatGPT a été annoncé, même s'il est encore bloqué par les États-Unis",
       "link": "https://www.journaldugeek.com/2026/06/29/le-nouveau-chatgpt-a-ete-annonce-meme-sil-est-encore-bloque-par-les-etats-unis/",
@@ -97,36 +127,6 @@
       "date": "2026-06-29T12:23:37.000Z",
       "description": "... ChatGPT sur l'empathie et la personnalisation des réponses... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
       "excerpt": "... ChatGPT sur l'empathie et la personnalisation des réponses... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GLM-5.2: l'IA chinoise rivalise désormais avec Anthropic en cybersécurité - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/374111/glm-5-2-ia-open-source-cybersecurite/",
-      "url": "https://www.blog-nouvelles-technologies.fr/374111/glm-5-2-ia-open-source-cybersecurite/",
-      "publishedAt": "2026-06-29T12:12:54.000Z",
-      "date": "2026-06-29T12:12:54.000Z",
-      "description": "ChatGPT · Claude · DeepSeek · Apple Intelligence · TECH · > Voir tout sur la tech... cybersécurité d'Anthropic, pour l'identification de failles...",
-      "excerpt": "ChatGPT · Claude · DeepSeek · Apple Intelligence · TECH · > Voir tout sur la tech... cybersécurité d'Anthropic, pour l'identification de failles...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6: OpenAI freiné par Washington avant le lancement public | Brief IA",
-      "link": "https://www.briefia.fr/article/gpt-5-6-openai-freine-par-washington-avant-le-lancement-public",
-      "url": "https://www.briefia.fr/article/gpt-5-6-openai-freine-par-washington-avant-le-lancement-public",
-      "publishedAt": "2026-06-29T12:10:05.000Z",
-      "date": "2026-06-29T12:10:05.000Z",
-      "description": "... ChatGPT, et ce, à la demande de Washington. En effet, une directive du gouvernement américain a imposé un prélancement limité à un cercle...",
-      "excerpt": "... ChatGPT, et ce, à la demande de Washington. En effet, une directive du gouvernement américain a imposé un prélancement limité à un cercle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6: OpenAI lance Sol, Terra et Luna en préversion restreinte à la demande de Washington",
-      "link": "https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-actualites/gpt-5-6-openai-lance-sol-terra-et-luna-en-preversion-restreinte-a-la-demande-de-washington/",
-      "url": "https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-actualites/gpt-5-6-openai-lance-sol-terra-et-luna-en-preversion-restreinte-a-la-demande-de-washington/",
-      "publishedAt": "2026-06-29T11:25:08.000Z",
-      "date": "2026-06-29T11:25:08.000Z",
-      "description": "... ChatGPT, de Codex et de l'API, sans date ferme.... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "excerpt": "... ChatGPT, de Codex et de l'API, sans date ferme.... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
