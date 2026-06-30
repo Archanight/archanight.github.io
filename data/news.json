@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T13:56:25.106Z",
+  "generatedAt": "2026-06-30T19:42:39.757Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Proton lance l'IA Lumo 2.0: quelles sont les nouveautés?",
+      "link": "https://leclaireur.fnac.com/article/681334-proton-lance-lia-lumo-2-0-quelles-sont-les-nouveautes/",
+      "url": "https://leclaireur.fnac.com/article/681334-proton-lance-lia-lumo-2-0-quelles-sont-les-nouveautes/",
+      "publishedAt": "2026-06-30T16:02:51.000Z",
+      "date": "2026-06-30T16:02:51.000Z",
+      "description": "En clair, c'est la réponse de l'entreprise aux Gems de Gemini ou aux GPT de ChatGPT... Cybersécurité Données personnelles Intelligence artificielle...",
+      "excerpt": "En clair, c'est la réponse de l'entreprise aux Gems de Gemini ou aux GPT de ChatGPT... Cybersécurité Données personnelles Intelligence artificielle...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Projet Cannes: Meta a testé en secret les failles de ChatGPT et Gemini (et c'est moche)",
+      "link": "https://www.zdnet.fr/actualites/projet-cannes-meta-a-teste-en-secret-les-failles-de-chatgpt-et-gemini-et-cest-moche-498006.htm",
+      "url": "https://www.zdnet.fr/actualites/projet-cannes-meta-a-teste-en-secret-les-failles-de-chatgpt-et-gemini-et-cest-moche-498006.htm",
+      "publishedAt": "2026-06-30T15:07:42.000Z",
+      "date": "2026-06-30T15:07:42.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... Projet Cannes: Meta a testé en secret les failles de ChatGPT et...",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... Projet Cannes: Meta a testé en secret les failles de ChatGPT et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'essor de l'IA pousse Apple à accélérer ses mises à jour de sécurité - MacGeneration",
+      "link": "https://www.macg.co/intelligence-artificielle/2026/06/lessor-de-lia-pousse-apple-accelerer-ses-mises-jour-de-securite-309503",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/06/lessor-de-lia-pousse-apple-accelerer-ses-mises-jour-de-securite-309503",
+      "publishedAt": "2026-06-30T14:33:25.000Z",
+      "date": "2026-06-30T14:33:25.000Z",
+      "description": "Les progrès de l'intelligence artificielle dans le domaine de la cybersécurité poussent Apple à revoir sa politique de mise à jour... GPT 5 -6 d'OpenAI.",
+      "excerpt": "Les progrès de l'intelligence artificielle dans le domaine de la cybersécurité poussent Apple à revoir sa politique de mise à jour... GPT 5 -6 d'OpenAI.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Des extensions malveillantes de blocage de publicités ont été surprises en train de lire en...",
+      "link": "https://www.notebookcheck.biz/Des-extensions-malveillantes-de-blocage-de-publicites-ont-ete-surprises-en-train-de-lire-en-secret-les-conversations-des-utilisateurs-avec-l-IA.1331863.0.html",
+      "url": "https://www.notebookcheck.biz/Des-extensions-malveillantes-de-blocage-de-publicites-ont-ete-surprises-en-train-de-lire-en-secret-les-conversations-des-utilisateurs-avec-l-IA.1331863.0.html",
+      "publishedAt": "2026-06-30T14:08:32.000Z",
+      "date": "2026-06-30T14:08:32.000Z",
+      "description": "Ce que les extensions enregistrent à votre insu. Le moteur de données intégré cible huit plateformes d'IA: ChatGPT, Gemini, Claude, Copilot,...",
+      "excerpt": "Ce que les extensions enregistrent à votre insu. Le moteur de données intégré cible huit plateformes d'IA: ChatGPT, Gemini, Claude, Copilot,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Grok 4 vs ChatGPT vs Gemini 3: 1,25 $ vs 5 $/M [2026] - Tech Insider",
+      "link": "https://tech-insider.org/fr/grok-4-vs-chatgpt-vs-gemini-3-2026/",
+      "url": "https://tech-insider.org/fr/grok-4-vs-chatgpt-vs-gemini-3-2026/",
+      "publishedAt": "2026-06-30T13:44:39.000Z",
+      "date": "2026-06-30T13:44:39.000Z",
+      "description": "Cybersécurité · Cloud · Startups · Matériel · Logiciels · Gaming · Mobile. Tech... En l'espace de deux semaines, xAI a lancé Grok 4.3, OpenAI a dévoilé...",
+      "excerpt": "Cybersécurité · Cloud · Startups · Matériel · Logiciels · Gaming · Mobile. Tech... En l'espace de deux semaines, xAI a lancé Grok 4.3, OpenAI a dévoilé...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Yousign permet désormais de piloter sa plateforme de signature électronique directement...",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/yousign-permet-desormais-de-piloter-sa-plateforme-de-signature-electronique-directement-depuis-chatgpt-claude-et-vibe.7RETLJXO3ZHCXJV2IMWR6NB2B4.html",
+      "url": "https://www.usine-digitale.fr/intelligence-artificielle/yousign-permet-desormais-de-piloter-sa-plateforme-de-signature-electronique-directement-depuis-chatgpt-claude-et-vibe.7RETLJXO3ZHCXJV2IMWR6NB2B4.html",
+      "publishedAt": "2026-06-30T13:34:40.000Z",
+      "date": "2026-06-30T13:34:40.000Z",
+      "description": "... ChatGPT, Claude ou Vibe, sans ouvrir l'application. Avec cette... Cybersécurité · Big Tech · Robotique · Cloud. Se connecter. Se connecter.",
+      "excerpt": "... ChatGPT, Claude ou Vibe, sans ouvrir l'application. Avec cette... Cybersécurité · Big Tech · Robotique · Cloud. Se connecter. Se connecter.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Avec un score de +240%, Proton Lumo 2.0 réduit son écart avec ChatGPT - Clubic",
       "link": "https://www.clubic.com/actualite-619096-avec-un-score-en-hausse-de-240-proton-lumo-2-0-reduit-son-ecart-avec-chatgpt.html",
@@ -40,6 +100,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Yousign veut faire disparaître l'écran de signature - ITchannel: Le quotidien des marchés verticaux",
+      "link": "https://itchannel.info/articles/210221/yousign-veut-faire-disparaitre-lecran-de-signature.html",
+      "url": "https://itchannel.info/articles/210221/yousign-veut-faire-disparaitre-lecran-de-signature.html",
+      "publishedAt": "2026-06-30T08:13:13.000Z",
+      "date": "2026-06-30T08:13:13.000Z",
+      "description": "Sekoia change de marque pour vendre le SOC agentique... Blocage de ChatGPT 5.6 après Fable: quel impact sur la souveraineté et la croissance tech?",
+      "excerpt": "Sekoia change de marque pour vendre le SOC agentique... Blocage de ChatGPT 5.6 après Fable: quel impact sur la souveraineté et la croissance tech?",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Sekoia change de marque pour vendre le SOC agentique - infoDSI",
       "link": "https://infodsi.com/articles/210225/sekoia-change-de-marque-pour-vendre-le-soc-agentique.html",
       "url": "https://infodsi.com/articles/210225/sekoia-change-de-marque-pour-vendre-le-soc-agentique.html",
@@ -58,76 +128,6 @@
       "description": "La signature électronique sort de son écran. Yousign, qui prépare son passage sous la marque Youtrust, branche son service à Claude, ChatGPT,...",
       "excerpt": "La signature électronique sort de son écran. Yousign, qui prépare son passage sous la marque Youtrust, branche son service à Claude, ChatGPT,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Souveraineté: Les agents territoriaux réduisent leur usage de ChatGPT grâce à l'IA de l'État...",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/souverainete-les-agents-territoriaux-reduisent-leur-usage-de-chatgpt-grace-a-lia-de-letat-mais-ils-le-jugent-toujours-meilleur.M3ZIU4KQC5D6JPXUAICCQ33PCU.html",
-      "url": "https://www.usine-digitale.fr/intelligence-artificielle/souverainete-les-agents-territoriaux-reduisent-leur-usage-de-chatgpt-grace-a-lia-de-letat-mais-ils-le-jugent-toujours-meilleur.M3ZIU4KQC5D6JPXUAICCQ33PCU.html",
-      "publishedAt": "2026-06-30T04:36:59.000Z",
-      "date": "2026-06-30T04:36:59.000Z",
-      "description": "Cybersécurité · Big Tech · Robotique · Cloud. Se connecter. Se connecter... “ ChatGPT a une longueur d'avance”, a déclaré l'un des répondants à l...",
-      "excerpt": "Cybersécurité · Big Tech · Robotique · Cloud. Se connecter. Se connecter... “ ChatGPT a une longueur d'avance”, a déclaré l'un des répondants à l...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le Tech Flash: La Corée du Sud dévoile un plan XXL dans l'IA, par Léa Benaim - 29/06",
-      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-la-coree-du-sud-devoile-un-plan-xxl-dans-l-ia-par-lea-benaim-29-06-CNT000002qfgv8.html",
-      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-la-coree-du-sud-devoile-un-plan-xxl-dans-l-ia-par-lea-benaim-29-06-CNT000002qfgv8.html",
-      "publishedAt": "2026-06-29T21:48:15.000Z",
-      "date": "2026-06-29T21:48:15.000Z",
-      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Tous publics. Le Tech Flash: De la pub en approche sur ChatGPT? Par Léa...",
-      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Tous publics. Le Tech Flash: De la pub en approche sur ChatGPT? Par Léa...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI delays GPT-5.6 rollout following U.S. government request - La Nouvelle Tribune",
-      "link": "https://lnt.ma/openai-delays-gpt-5-6-rollout-following-u-s-government-request/",
-      "url": "https://lnt.ma/openai-delays-gpt-5-6-rollout-following-u-s-government-request/",
-      "publishedAt": "2026-06-29T20:16:00.000Z",
-      "date": "2026-06-29T20:16:00.000Z",
-      "description": "government for additional safety reviews before a wider release. ─────────. The temporary restriction is intended to give authorities time...",
-      "excerpt": "government for additional safety reviews before a wider release. ─────────. The temporary restriction is intended to give authorities time...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Fini les réponses robotiques sans âme? OpenAI transforme radicalement GPT-5.5 Instant",
-      "link": "https://actu.pcastuces.com/actu-42613-fini-les-reponses-robotiques-sans-ame-openai-transforme-radicalement-gpt-55-instant.htm",
-      "url": "https://actu.pcastuces.com/actu-42613-fini-les-reponses-robotiques-sans-ame-openai-transforme-radicalement-gpt-55-instant.htm",
-      "publishedAt": "2026-06-29T19:04:09.000Z",
-      "date": "2026-06-29T19:04:09.000Z",
-      "description": "chatgpt 5.5 La nouvelle version de GPT 5.5 Instant se montre plus... Selon les notes de version publiées par OpenAI, GPT-5.5 Instant est...",
-      "excerpt": "chatgpt 5.5 La nouvelle version de GPT 5.5 Instant se montre plus... Selon les notes de version publiées par OpenAI, GPT-5.5 Instant est...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Le nouveau ChatGPT a été annoncé, même s'il est encore bloqué par les États-Unis",
-      "link": "https://www.journaldugeek.com/2026/06/29/le-nouveau-chatgpt-a-ete-annonce-meme-sil-est-encore-bloque-par-les-etats-unis/",
-      "url": "https://www.journaldugeek.com/2026/06/29/le-nouveau-chatgpt-a-ete-annonce-meme-sil-est-encore-bloque-par-les-etats-unis/",
-      "publishedAt": "2026-06-29T18:04:59.000Z",
-      "date": "2026-06-29T18:04:59.000Z",
-      "description": "... ChatGPT... Aux États-Unis, le gouvernement contrôle de plus en plus les nouvelles IA, dont les capacités en cybersécurité sont de plus en plus...",
-      "excerpt": "... ChatGPT... Aux États-Unis, le gouvernement contrôle de plus en plus les nouvelles IA, dont les capacités en cybersécurité sont de plus en plus...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Une organisation frauduleuse dans ChatGPT usurpe l'identité de Push Security",
-      "link": "https://incyber.org/article/organisation-frauduleuse-dans-chatgpt-usurpe-identite-push-security/",
-      "url": "https://incyber.org/article/organisation-frauduleuse-dans-chatgpt-usurpe-identite-push-security/",
-      "publishedAt": "2026-06-29T17:14:29.000Z",
-      "date": "2026-06-29T17:14:29.000Z",
-      "description": "La société de cybersécurité Push Security a révélé, le 26 juin 2026, avoir été victime d'une organisation frauduleuse créée dans ChatGPT,...",
-      "excerpt": "La société de cybersécurité Push Security a révélé, le 26 juin 2026, avoir été victime d'une organisation frauduleuse créée dans ChatGPT,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI reporte GPT-5.6 Sol: l'ingérence de Washington bouscule à nouveau l'économie de l'IA",
-      "link": "https://www.zdnet.fr/actualites/openai-reporte-gpt-5-6-sol-lingerence-de-washington-bouscule-a-nouveau-leconomie-de-lia-497873.htm",
-      "url": "https://www.zdnet.fr/actualites/openai-reporte-gpt-5-6-sol-lingerence-de-washington-bouscule-a-nouveau-leconomie-de-lia-497873.htm",
-      "publishedAt": "2026-06-29T16:16:15.000Z",
-      "date": "2026-06-29T16:16:15.000Z",
-      "description": "J'ai soumis ChatGPT Images 2.0 et Gemini Nano Banana à neuf tests de génération d'images. Le vainqueur s'impose clairement. Par David Gewirtz | 09 mai...",
-      "excerpt": "J'ai soumis ChatGPT Images 2.0 et Gemini Nano Banana à neuf tests de génération d'images. Le vainqueur s'impose clairement. Par David Gewirtz | 09 mai...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
