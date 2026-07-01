@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T14:08:37.207Z",
+  "generatedAt": "2026-07-01T19:39:08.529Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT: quand l'IA menace la sécurité des entreprises - Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-quand-l-ia-menace-la-securite-des-entreprises",
+      "url": "https://www.briefia.fr/article/chatgpt-quand-l-ia-menace-la-securite-des-entreprises",
+      "publishedAt": "2026-07-01T14:09:10.000Z",
+      "date": "2026-07-01T14:09:10.000Z",
+      "description": "Prenons l'exemple marquant du directeur par intérim de la CISA, l'agence fédérale américaine chargée de la cybersécurité, qui a été pris en...",
+      "excerpt": "Prenons l'exemple marquant du directeur par intérim de la CISA, l'agence fédérale américaine chargée de la cybersécurité, qui a été pris en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Vous cherchez une alternative à ChatGPT? Lumo vient de combler ses plus gros retards",
+      "link": "https://www.menow.fr/vous-cherchez-une-alternative-a-chatgpt-lumo-vient-de-combler-ses-plus-gros-retards/",
+      "url": "https://www.menow.fr/vous-cherchez-une-alternative-a-chatgpt-lumo-vient-de-combler-ses-plus-gros-retards/",
+      "publishedAt": "2026-07-01T13:02:43.000Z",
+      "date": "2026-07-01T13:02:43.000Z",
+      "description": "Avec cette mise à jour, Proton rapproche son assistant des fonctions proposées par ChatGPT, Claude et Gemini, tout en maintenant la confidentialité au...",
+      "excerpt": "Avec cette mise à jour, Proton rapproche son assistant des fonctions proposées par ChatGPT, Claude et Gemini, tout en maintenant la confidentialité au...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "IA en entreprise: le vrai risque, c'est de lâcher la main - Journaldunet.com",
       "link": "https://www.journaldunet.com/intelligence-artificielle/1552123-ia-en-entreprise-le-vrai-risque-c-est-de-lacher-la-main/",
@@ -108,26 +128,6 @@
       "description": "ChatGPT garde des traces: les deux réglages à désactiver d'urgence... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
       "excerpt": "ChatGPT garde des traces: les deux réglages à désactiver d'urgence... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Tenable rejoint le programme de partenaires cybersécurité OpenAI Daybreak - ITRmanager",
-      "link": "https://itrmanager.com/articles/210256/tenable-rejoint-le-programme-de-partenaires-cybersecurite-openai-daybreak.html",
-      "url": "https://itrmanager.com/articles/210256/tenable-rejoint-le-programme-de-partenaires-cybersecurite-openai-daybreak.html",
-      "publishedAt": "2026-07-01T03:14:19.000Z",
-      "date": "2026-07-01T03:14:19.000Z",
-      "description": "Tenable annonce collaborer avec OpenAI dans le cadre du programme de partenaires cybersécurité OpenAI Daybreak.... Blocage de ChatGPT 5.6 après Fable:...",
-      "excerpt": "Tenable annonce collaborer avec OpenAI dans le cadre du programme de partenaires cybersécurité OpenAI Daybreak.... Blocage de ChatGPT 5.6 après Fable:...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Presque un Américain sur deux utilise désormais ChatGPT, loin devant Gemini et Copilot",
-      "link": "https://siecledigital.fr/2026/06/30/presque-un-americain-sur-deux-utilise-desormais-chatgpt-loin-devant-gemini-et-copilot/",
-      "url": "https://siecledigital.fr/2026/06/30/presque-un-americain-sur-deux-utilise-desormais-chatgpt-loin-devant-gemini-et-copilot/",
-      "publishedAt": "2026-07-01T02:36:31.000Z",
-      "date": "2026-07-01T02:36:31.000Z",
-      "description": "... ChatGPT avant même de... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence...",
-      "excerpt": "... ChatGPT avant même de... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
