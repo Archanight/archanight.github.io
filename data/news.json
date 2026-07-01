@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T19:42:39.757Z",
+  "generatedAt": "2026-07-01T02:36:46.571Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,76 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Claude Sonnet 5: Anthropic lance son modèle le plus autonome à prix réduit",
+      "link": "https://stephanelarue.com/claude-sonnet-5-anthropic-lance-son-modele-le-plus-autonome-a-prix-reduit/",
+      "url": "https://stephanelarue.com/claude-sonnet-5-anthropic-lance-son-modele-le-plus-autonome-a-prix-reduit/",
+      "publishedAt": "2026-07-01T00:29:23.000Z",
+      "date": "2026-07-01T00:29:23.000Z",
+      "description": "Un modèle pensé pour l'autonomie · Disponibilité et tarifs · Garde-fous renforcés en cybersécurité · Un lancement après les turbulences de Fable 5.",
+      "excerpt": "Un modèle pensé pour l'autonomie · Disponibilité et tarifs · Garde-fous renforcés en cybersécurité · Un lancement après les turbulences de Fable 5.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Trump bloque ChatGPT 5.6 et… épargne Mythos - 30/06: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/economie/trump-bloque-chatgpt-5-6-et-epargne-mythos-30-06-CNT000002qgobh.html",
+      "url": "https://actu.orange.fr/videos/economie/trump-bloque-chatgpt-5-6-et-epargne-mythos-30-06-CNT000002qgobh.html",
+      "publishedAt": "2026-07-01T00:12:14.000Z",
+      "date": "2026-07-01T00:12:14.000Z",
+      "description": "... ChatGPT 5.6 au grand public et qui a épargné Mythos d'une coupure... Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +...",
+      "excerpt": "... ChatGPT 5.6 au grand public et qui a épargné Mythos d'une coupure... Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cyber: l'âge d'or des startups, un défi de croissance – 30/06 - BFM",
+      "link": "https://www.bfmtv.com/economie/replay-emissions/01-business/cyber-l-age-d-or-des-startups-un-defi-de-croissance-30-06_EN-202606300960.html",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/01-business/cyber-l-age-d-or-des-startups-un-defi-de-croissance-30-06_EN-202606300960.html",
+      "publishedAt": "2026-07-01T00:00:44.000Z",
+      "date": "2026-07-01T00:00:44.000Z",
+      "description": "... cybersécurité françaises 2026, dans l'émission Tech&Co Business présentée par Frédéric Simottel.... Trump débloque ChatGPT 5.6 et… épargne...",
+      "excerpt": "... cybersécurité françaises 2026, dans l'émission Tech&Co Business présentée par Frédéric Simottel.... Trump débloque ChatGPT 5.6 et… épargne...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le Tech Flash: Google va lancer Overviews dès cet été en France, par Léa Benaim - 30/06",
+      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-google-va-lancer-overviews-des-cet-ete-en-france-par-lea-benaim-30-06-CNT000002qgl9i.html",
+      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-google-va-lancer-overviews-des-cet-ete-en-france-par-lea-benaim-30-06-CNT000002qgl9i.html",
+      "publishedAt": "2026-06-30T21:49:47.000Z",
+      "date": "2026-06-30T21:49:47.000Z",
+      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/...",
+      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Tenable rejoint le programme de partenaires cybersécurité OpenAI Daybreak - infoDSI",
+      "link": "https://infodsi.com/articles/210256/tenable-rejoint-le-programme-de-partenaires-cybersecurite-openai-daybreak.html",
+      "url": "https://infodsi.com/articles/210256/tenable-rejoint-le-programme-de-partenaires-cybersecurite-openai-daybreak.html",
+      "publishedAt": "2026-06-30T20:58:02.000Z",
+      "date": "2026-06-30T20:58:02.000Z",
+      "description": "Tenable annonce collaborer avec OpenAI dans le cadre du programme de partenaires cybersécurité OpenAI Daybreak.... Gr... Blocage de ChatGPT 5.6 après...",
+      "excerpt": "Tenable annonce collaborer avec OpenAI dans le cadre du programme de partenaires cybersécurité OpenAI Daybreak.... Gr... Blocage de ChatGPT 5.6 après...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Malgré un marché dominé par ChatGPT, Claude AI attire les consommateurs payants",
+      "link": "https://www.tvanouvelles.ca/2026/06/30/malgre-un-marche-domine-par-chatgpt-claude-ai-attire-les-consommateurs-payants",
+      "url": "https://www.tvanouvelles.ca/2026/06/30/malgre-un-marche-domine-par-chatgpt-claude-ai-attire-les-consommateurs-payants",
+      "publishedAt": "2026-06-30T20:38:36.000Z",
+      "date": "2026-06-30T20:38:36.000Z",
+      "description": "En évitant les faux pas et les mauvais clients, Claude AI d'Anthropic séduit les consommateurs payants aux dépens de ChatGPT... cybersécurité – Mythos5...",
+      "excerpt": "En évitant les faux pas et les mauvais clients, Claude AI d'Anthropic séduit les consommateurs payants aux dépens de ChatGPT... cybersécurité – Mythos5...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI chiffre à 14 % les emplois européens menacés par l'IA, et la France n'est pas épargnée",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/openai-chiffre-a-14-les-emplois-europeens-menaces-par-l-ia-et-la-france-n-est-pas-epargnee-n258672.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/openai-chiffre-a-14-les-emplois-europeens-menaces-par-l-ia-et-la-france-n-est-pas-epargnee-n258672.html",
+      "publishedAt": "2026-06-30T20:19:52.000Z",
+      "date": "2026-06-30T20:19:52.000Z",
+      "description": "... pas épargnée dans cette recherche méne par le créateur de ChatGPT.",
+      "excerpt": "... pas épargnée dans cette recherche méne par le créateur de ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Proton lance l'IA Lumo 2.0: quelles sont les nouveautés?",
       "link": "https://leclaireur.fnac.com/article/681334-proton-lance-lia-lumo-2-0-quelles-sont-les-nouveautes/",
@@ -57,76 +127,6 @@
       "date": "2026-06-30T13:44:39.000Z",
       "description": "Cybersécurité · Cloud · Startups · Matériel · Logiciels · Gaming · Mobile. Tech... En l'espace de deux semaines, xAI a lancé Grok 4.3, OpenAI a dévoilé...",
       "excerpt": "Cybersécurité · Cloud · Startups · Matériel · Logiciels · Gaming · Mobile. Tech... En l'espace de deux semaines, xAI a lancé Grok 4.3, OpenAI a dévoilé...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Yousign permet désormais de piloter sa plateforme de signature électronique directement...",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/yousign-permet-desormais-de-piloter-sa-plateforme-de-signature-electronique-directement-depuis-chatgpt-claude-et-vibe.7RETLJXO3ZHCXJV2IMWR6NB2B4.html",
-      "url": "https://www.usine-digitale.fr/intelligence-artificielle/yousign-permet-desormais-de-piloter-sa-plateforme-de-signature-electronique-directement-depuis-chatgpt-claude-et-vibe.7RETLJXO3ZHCXJV2IMWR6NB2B4.html",
-      "publishedAt": "2026-06-30T13:34:40.000Z",
-      "date": "2026-06-30T13:34:40.000Z",
-      "description": "... ChatGPT, Claude ou Vibe, sans ouvrir l'application. Avec cette... Cybersécurité · Big Tech · Robotique · Cloud. Se connecter. Se connecter.",
-      "excerpt": "... ChatGPT, Claude ou Vibe, sans ouvrir l'application. Avec cette... Cybersécurité · Big Tech · Robotique · Cloud. Se connecter. Se connecter.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Avec un score de +240%, Proton Lumo 2.0 réduit son écart avec ChatGPT - Clubic",
-      "link": "https://www.clubic.com/actualite-619096-avec-un-score-en-hausse-de-240-proton-lumo-2-0-reduit-son-ecart-avec-chatgpt.html",
-      "url": "https://www.clubic.com/actualite-619096-avec-un-score-en-hausse-de-240-proton-lumo-2-0-reduit-son-ecart-avec-chatgpt.html",
-      "publishedAt": "2026-06-30T10:03:46.000Z",
-      "date": "2026-06-30T10:03:46.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Avec un score de +240%, Proton Lumo 2.0 réduit son écart avec ChatGPT.",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... Avec un score de +240%, Proton Lumo 2.0 réduit son écart avec ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les hôpitaux sont-ils prêts à faire face à la prochaine cyberattaque? - NLTO",
-      "link": "https://www.nlto.fr/les-hopitaux-sont-ils-prets-a-faire-face-a-la-prochaine-cyberattaque/",
-      "url": "https://www.nlto.fr/les-hopitaux-sont-ils-prets-a-faire-face-a-la-prochaine-cyberattaque/",
-      "publishedAt": "2026-06-30T09:06:50.000Z",
-      "date": "2026-06-30T09:06:50.000Z",
-      "description": "Face à cette menace croissante, les autorités françaises accélèrent le renforcement de la cybersécurité du secteur hospitalier. Les établissements...",
-      "excerpt": "Face à cette menace croissante, les autorités françaises accélèrent le renforcement de la cybersécurité du secteur hospitalier. Les établissements...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "« Benchmarks de sécurité de l'IA »: pourquoi Meta fait sonder ChatGPT et Gemini par de...",
-      "link": "https://www.numerama.com/tech/2287955-benchmarks-de-securite-de-lia-pourquoi-meta-fait-sonder-chatgpt-et-gemini-par-de-faux-comptes-dados.html",
-      "url": "https://www.numerama.com/tech/2287955-benchmarks-de-securite-de-lia-pourquoi-meta-fait-sonder-chatgpt-et-gemini-par-de-faux-comptes-dados.html",
-      "publishedAt": "2026-06-30T08:52:19.000Z",
-      "date": "2026-06-30T08:52:19.000Z",
-      "description": "« Benchmarks de sécurité de l'IA »: pourquoi Meta fait sonder ChatGPT et Gemini par de faux comptes d'ados... cybersécurité · LLM (Large Language...",
-      "excerpt": "« Benchmarks de sécurité de l'IA »: pourquoi Meta fait sonder ChatGPT et Gemini par de faux comptes d'ados... cybersécurité · LLM (Large Language...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Yousign veut faire disparaître l'écran de signature - ITchannel: Le quotidien des marchés verticaux",
-      "link": "https://itchannel.info/articles/210221/yousign-veut-faire-disparaitre-lecran-de-signature.html",
-      "url": "https://itchannel.info/articles/210221/yousign-veut-faire-disparaitre-lecran-de-signature.html",
-      "publishedAt": "2026-06-30T08:13:13.000Z",
-      "date": "2026-06-30T08:13:13.000Z",
-      "description": "Sekoia change de marque pour vendre le SOC agentique... Blocage de ChatGPT 5.6 après Fable: quel impact sur la souveraineté et la croissance tech?",
-      "excerpt": "Sekoia change de marque pour vendre le SOC agentique... Blocage de ChatGPT 5.6 après Fable: quel impact sur la souveraineté et la croissance tech?",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Sekoia change de marque pour vendre le SOC agentique - infoDSI",
-      "link": "https://infodsi.com/articles/210225/sekoia-change-de-marque-pour-vendre-le-soc-agentique.html",
-      "url": "https://infodsi.com/articles/210225/sekoia-change-de-marque-pour-vendre-le-soc-agentique.html",
-      "publishedAt": "2026-06-30T08:12:53.000Z",
-      "date": "2026-06-30T08:12:53.000Z",
-      "description": "La cybersécurité passe aussi par le tampon ANSSI... Blocage de ChatGPT 5.6 après Fable: quel impact sur la souveraineté et la croissance tech?",
-      "excerpt": "La cybersécurité passe aussi par le tampon ANSSI... Blocage de ChatGPT 5.6 après Fable: quel impact sur la souveraineté et la croissance tech?",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Yousign veut faire disparaître l'écran de signature - infoDSI",
-      "link": "https://infodsi.com/articles/210221/yousign-veut-faire-disparaitre-lecran-de-signature.html",
-      "url": "https://infodsi.com/articles/210221/yousign-veut-faire-disparaitre-lecran-de-signature.html",
-      "publishedAt": "2026-06-30T08:02:31.000Z",
-      "date": "2026-06-30T08:02:31.000Z",
-      "description": "La signature électronique sort de son écran. Yousign, qui prépare son passage sous la marque Youtrust, branche son service à Claude, ChatGPT,...",
-      "excerpt": "La signature électronique sort de son écran. Yousign, qui prépare son passage sous la marque Youtrust, branche son service à Claude, ChatGPT,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
