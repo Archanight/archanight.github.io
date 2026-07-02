@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T08:44:29.388Z",
+  "generatedAt": "2026-07-02T13:30:00.695Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,13 +7,38 @@
     "https://openai.com/news/rss.xml",
     "https://www.zdnet.fr/feeds/rss/actualites/"
   ],
-  "failedSources": [
-    {
-      "feedUrl": "https://www.zdnet.fr/feeds/rss/actualites/",
-      "error": "terminated"
-    }
-  ],
+  "failedSources": [],
   "items": [
+    {
+      "title": "Pour détecter les étudiants qui trichent avec ChatGPT, des professeurs misent sur une...",
+      "link": "https://www.lacremedugaming.fr/high-tech/pour-detecter-les-etudiants-qui-trichent-avec-chatgpt-des-professeurs-misent-sur-une-technique-redoutablement-efficace-218671.html",
+      "url": "https://www.lacremedugaming.fr/high-tech/pour-detecter-les-etudiants-qui-trichent-avec-chatgpt-des-professeurs-misent-sur-une-technique-redoutablement-efficace-218671.html",
+      "publishedAt": "2026-07-02T09:08:52.000Z",
+      "date": "2026-07-02T09:08:52.000Z",
+      "description": "Triche à ChatGPT, contrôles surprises et chevaux de Troie cachés: des profs piègent leurs étudiants et rebattent les cartes de l'évaluation.",
+      "excerpt": "Triche à ChatGPT, contrôles surprises et chevaux de Troie cachés: des profs piègent leurs étudiants et rebattent les cartes de l'évaluation.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Focal: Leading ChatGPT Ads Agency Launches ChatGPT Pixel Picker - Newsfile Corp.",
+      "link": "https://www.newsfilecorp.com/release/302881/Focal-Leading-ChatGPT-Ads-Agency-Launches-ChatGPT-Pixel-Picker?lang=fr",
+      "url": "https://www.newsfilecorp.com/release/302881/Focal-Leading-ChatGPT-Ads-Agency-Launches-ChatGPT-Pixel-Picker?lang=fr",
+      "publishedAt": "2026-07-01T23:49:38.000Z",
+      "date": "2026-07-01T23:49:38.000Z",
+      "description": "Newark, Delaware--(Newsfile Corp. - July 1, 2026) - Focal, a leading ChatGPT Ads agency, has announced the launch of ChatGPT...",
+      "excerpt": "Newark, Delaware--(Newsfile Corp. - July 1, 2026) - Focal, a leading ChatGPT Ads agency, has announced the launch of ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI diversifie GPT-5.6 Pro avec trois nouveaux modèles | Brief IA",
+      "link": "https://www.briefia.fr/article/openai-diversifie-gpt-5-6-pro-avec-trois-nouveaux-modeles",
+      "url": "https://www.briefia.fr/article/openai-diversifie-gpt-5-6-pro-avec-trois-nouveaux-modeles",
+      "publishedAt": "2026-07-01T18:04:30.000Z",
+      "date": "2026-07-01T18:04:30.000Z",
+      "description": "Ce serait le premier changement majeur dans la structure de ChatGPT Pro depuis son lancement.... cybersécurité. Brief IA: GPT-5.4 et GPT-5.4...",
+      "excerpt": "Ce serait le premier changement majeur dans la structure de ChatGPT Pro depuis son lancement.... cybersécurité. Brief IA: GPT-5.4 et GPT-5.4...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT: quand l'IA menace la sécurité des entreprises - Brief IA",
       "link": "https://www.briefia.fr/article/chatgpt-quand-l-ia-menace-la-securite-des-entreprises",
@@ -22,6 +47,16 @@
       "date": "2026-07-01T14:09:10.000Z",
       "description": "Prenons l'exemple marquant du directeur par intérim de la CISA, l'agence fédérale américaine chargée de la cybersécurité, qui a été pris en...",
       "excerpt": "Prenons l'exemple marquant du directeur par intérim de la CISA, l'agence fédérale américaine chargée de la cybersécurité, qui a été pris en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Quels paramètres modifier dans ChatGPT avant de lui confier vos données - Clubic",
+      "link": "https://www.clubic.com/tutoriel-619312-quels-parametres-modifier-dans-chatgpt-avant-de-lui-confier-vos-donnees.html",
+      "url": "https://www.clubic.com/tutoriel-619312-quels-parametres-modifier-dans-chatgpt-avant-de-lui-confier-vos-donnees.html",
+      "publishedAt": "2026-07-01T13:03:01.000Z",
+      "date": "2026-07-01T13:03:01.000Z",
+      "description": "Cybersécurité · Cyber Pro par Bitdefender. Quels paramètres modifier dans ChatGPT avant de lui confier vos données? Chloé Claessens. Par Chloé...",
+      "excerpt": "Cybersécurité · Cyber Pro par Bitdefender. Quels paramètres modifier dans ChatGPT avant de lui confier vos données? Chloé Claessens. Par Chloé...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -93,46 +128,6 @@
       "description": "... cybersécurité, victime d'une attaque numérique par un faux espace de travail sur ChatGPT. Au cœur de cette intrigue, une carte de crédit volée et...",
       "excerpt": "... cybersécurité, victime d'une attaque numérique par un faux espace de travail sur ChatGPT. Au cœur de cette intrigue, une carte de crédit volée et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "\" ChatGPT bat 99% des médecins\": voici pourquoi les propos de Marc Andreessen n'ont... - Clubic",
-      "link": "https://www.clubic.com/actualite-619288-non-chatgpt-n-est-pas-meilleur-que-99-des-medecins.html",
-      "url": "https://www.clubic.com/actualite-619288-non-chatgpt-n-est-pas-meilleur-que-99-des-medecins.html",
-      "publishedAt": "2026-07-01T06:36:50.000Z",
-      "date": "2026-07-01T06:36:50.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... \" ChatGPT bat 99% des médecins\": voici pourquoi les propos de Marc...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... \" ChatGPT bat 99% des médecins\": voici pourquoi les propos de Marc...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des pirates créent de fausses organisations ChatGPT pour piéger les employés",
-      "link": "https://idealogeek.fr/des-pirates-creent-de-fausses-organisations-chatgpt-pour-pieger-les-employes/",
-      "url": "https://idealogeek.fr/des-pirates-creent-de-fausses-organisations-chatgpt-pour-pieger-les-employes/",
-      "publishedAt": "2026-07-01T06:26:27.000Z",
-      "date": "2026-07-01T06:26:27.000Z",
-      "description": "... cybersécurité, raconte que plusieurs de ses propres employés ont reçu des invitations à rejoindre une organisation ChatGPT nommée « Push Security Inc.",
-      "excerpt": "... cybersécurité, raconte que plusieurs de ses propres employés ont reçu des invitations à rejoindre une organisation ChatGPT nommée « Push Security Inc.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile d'importantes avancées pour GPT-5.6 dans ChatGPT, mais personne ne...",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/openai-devoile-dimportantes-avancees-pour-gpt-5-6-dans-chatgpt-mais-personne-ne-peut-encore-en-profiter",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/openai-devoile-dimportantes-avancees-pour-gpt-5-6-dans-chatgpt-mais-personne-ne-peut-encore-en-profiter",
-      "publishedAt": "2026-07-01T06:14:51.000Z",
-      "date": "2026-07-01T06:14:51.000Z",
-      "description": "ChatGPT OpenAI tourne discrètement la page GPT-4 dans ChatGPT, et c'est toute une époque de l'IA qui s'efface · OpenAI logo on a smartphone screen.",
-      "excerpt": "ChatGPT OpenAI tourne discrètement la page GPT-4 dans ChatGPT, et c'est toute une époque de l'IA qui s'efface · OpenAI logo on a smartphone screen.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Claude Sonnet 5: Anthropic lance un modèle presque aussi puissant qu'Opus, à moitié prix",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/claude-sonnet-5-anthropic-lance-un-modele-presque-aussi-puissant-qu-opus-a-moitie-prix-n258683.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/claude-sonnet-5-anthropic-lance-un-modele-presque-aussi-puissant-qu-opus-a-moitie-prix-n258683.html",
-      "publishedAt": "2026-07-01T05:14:53.000Z",
-      "date": "2026-07-01T05:14:53.000Z",
-      "description": "ChatGPT garde des traces: les deux réglages à désactiver d'urgence... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "excerpt": "ChatGPT garde des traces: les deux réglages à désactiver d'urgence... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
