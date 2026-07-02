@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T13:30:00.695Z",
+  "generatedAt": "2026-07-02T19:09:32.363Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Cette IA surpuissante est de retour?!: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/cette-ia-surpuissante-est-de-retour-CNT000002qiS6t.html",
+      "url": "https://actu.orange.fr/videos/high-tech/cette-ia-surpuissante-est-de-retour-CNT000002qiS6t.html",
+      "publishedAt": "2026-07-02T18:03:40.000Z",
+      "date": "2026-07-02T18:03:40.000Z",
+      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics. Le...",
+      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics. Le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Vous cherchez une alternative à ChatGPT qui respecte la confidentialité? Lumo 2.0 de... - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/vous-cherchez-une-alternative-a-chatgpt-qui-respecte-la-confidentialite-lumo-2-0-de-proton-protege-vos-donnees-dans-le-respect-des-normes-europeennes-498166.htm",
+      "url": "https://www.zdnet.fr/actualites/vous-cherchez-une-alternative-a-chatgpt-qui-respecte-la-confidentialite-lumo-2-0-de-proton-protege-vos-donnees-dans-le-respect-des-normes-europeennes-498166.htm",
+      "publishedAt": "2026-07-02T17:46:11.000Z",
+      "date": "2026-07-02T17:46:11.000Z",
+      "description": "... ChatGPT d'OpenAI et Claude d'Anthropic. Bien qu'il soit capable d'effectuer bon nombre des mêmes tâches — répondre aux requêtes des utilisateurs...",
+      "excerpt": "... ChatGPT d'OpenAI et Claude d'Anthropic. Bien qu'il soit capable d'effectuer bon nombre des mêmes tâches — répondre aux requêtes des utilisateurs...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI discute de la possibilité de céder 5% de son capital au gouvernement américain",
+      "link": "https://www.rfi.fr/fr/%C3%A9conomie/20260702-openai-discute-de-la-possibilit%C3%A9-de-c%C3%A9der-5-de-son-capital-au-gouvernement-am%C3%A9ricain",
+      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260702-openai-discute-de-la-possibilit%C3%A9-de-c%C3%A9der-5-de-son-capital-au-gouvernement-am%C3%A9ricain",
+      "publishedAt": "2026-07-02T15:28:55.000Z",
+      "date": "2026-07-02T15:28:55.000Z",
+      "description": "Selon les informations du quotidien britannique Financial Times, OpenAI, l'entreprise qui a créé ChatGPT... cybersécurité et l'emploi. OpenAI et...",
+      "excerpt": "Selon les informations du quotidien britannique Financial Times, OpenAI, l'entreprise qui a créé ChatGPT... cybersécurité et l'emploi. OpenAI et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Pour détecter les étudiants qui trichent avec ChatGPT, des professeurs misent sur une...",
       "link": "https://www.lacremedugaming.fr/high-tech/pour-detecter-les-etudiants-qui-trichent-avec-chatgpt-des-professeurs-misent-sur-une-technique-redoutablement-efficace-218671.html",
@@ -28,6 +58,16 @@
       "description": "Newark, Delaware--(Newsfile Corp. - July 1, 2026) - Focal, a leading ChatGPT Ads agency, has announced the launch of ChatGPT...",
       "excerpt": "Newark, Delaware--(Newsfile Corp. - July 1, 2026) - Focal, a leading ChatGPT Ads agency, has announced the launch of ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Les acheteurs cyber accélèrent leur sélection - ITRmanager",
+      "link": "https://itrmanager.com/articles/210271/les-acheteurs-cyber-accelerent-leur-selection.html",
+      "url": "https://itrmanager.com/articles/210271/les-acheteurs-cyber-accelerent-leur-selection.html",
+      "publishedAt": "2026-07-01T19:18:46.000Z",
+      "date": "2026-07-01T19:18:46.000Z",
+      "description": "... cybersécurité et vice-président senior chez The Hoffman Agency. La... Blocage de ChatGPT 5.6 après Fable: quel impact sur la souveraineté et la...",
+      "excerpt": "... cybersécurité et vice-président senior chez The Hoffman Agency. La... Blocage de ChatGPT 5.6 après Fable: quel impact sur la souveraineté et la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "OpenAI diversifie GPT-5.6 Pro avec trois nouveaux modèles | Brief IA",
@@ -87,46 +127,6 @@
       "date": "2026-07-01T10:39:27.000Z",
       "description": "ChatGPT a généré des images violentes et explicites qui ont choqué les chercheurs... Malwarebytes - une protection de cybersécurité tout-en-un,...",
       "excerpt": "ChatGPT a généré des images violentes et explicites qui ont choqué les chercheurs... Malwarebytes - une protection de cybersécurité tout-en-un,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance GPT-5.6 Sol, Terra et Luna en aperçu limité - Worldissmall",
-      "link": "https://worldissmall.fr/2026/07/01/openai-lance-gpt-5-6-sol-terra-et-luna-en-apercu-limite/",
-      "url": "https://worldissmall.fr/2026/07/01/openai-lance-gpt-5-6-sol-terra-et-luna-en-apercu-limite/",
-      "publishedAt": "2026-07-01T09:06:04.000Z",
-      "date": "2026-07-01T09:06:04.000Z",
-      "description": "... cybersécurité. Il introduit aussi un nouveau niveau d'effort de... OpenAI indique qu'ils seront disponibles plus largement dans ChatGPT, Codex et l'API...",
-      "excerpt": "... cybersécurité. Il introduit aussi un nouveau niveau d'effort de... OpenAI indique qu'ils seront disponibles plus largement dans ChatGPT, Codex et l'API...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Salesforce enrichit Agentforce for Commerce et relie vente, commandes et données clients...",
-      "link": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/salesforce-enrichit-agentforce-for-commerce-et-relie-vente-commandes-et-donnees-clients-sur-un-socle-unique/",
-      "url": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/salesforce-enrichit-agentforce-for-commerce-et-relie-vente-commandes-et-donnees-clients-sur-un-socle-unique/",
-      "publishedAt": "2026-07-01T07:23:24.000Z",
-      "date": "2026-07-01T07:23:24.000Z",
-      "description": "... ChatGPT ou Gemini. Cette bascule expose les... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "excerpt": "... ChatGPT ou Gemini. Cette bascule expose les... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT‑5.6: OpenAI dévoile Sol, Terra et Luna: ce qu'il faut savoir - Leptidigital",
-      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/gpt-5-6-openai-sol-terra-luna-90895/",
-      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/gpt-5-6-openai-sol-terra-luna-90895/",
-      "publishedAt": "2026-07-01T07:17:59.000Z",
-      "date": "2026-07-01T07:17:59.000Z",
-      "description": "... cybersécurité. Pourquoi OpenAI accepte-t-il de retarder son modèle le... ChatGPT, Newsletter Veille Digitale, OpenAI. Ceci pourrait vous...",
-      "excerpt": "... cybersécurité. Pourquoi OpenAI accepte-t-il de retarder son modèle le... ChatGPT, Newsletter Veille Digitale, OpenAI. Ceci pourrait vous...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comprendre les attaques par création de fausses organisations sur ChatGPT - EmarketerZ",
-      "link": "https://www.emarketerz.fr/comprendre-les-attaques-par-creation-de-fausses-organisations-sur-chatgpt/",
-      "url": "https://www.emarketerz.fr/comprendre-les-attaques-par-creation-de-fausses-organisations-sur-chatgpt/",
-      "publishedAt": "2026-07-01T06:59:51.000Z",
-      "date": "2026-07-01T06:59:51.000Z",
-      "description": "... cybersécurité, victime d'une attaque numérique par un faux espace de travail sur ChatGPT. Au cœur de cette intrigue, une carte de crédit volée et...",
-      "excerpt": "... cybersécurité, victime d'une attaque numérique par un faux espace de travail sur ChatGPT. Au cœur de cette intrigue, une carte de crédit volée et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
