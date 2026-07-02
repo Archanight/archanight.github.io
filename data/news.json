@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T02:26:24.486Z",
+  "generatedAt": "2026-07-02T08:44:29.388Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -7,7 +7,12 @@
     "https://openai.com/news/rss.xml",
     "https://www.zdnet.fr/feeds/rss/actualites/"
   ],
-  "failedSources": [],
+  "failedSources": [
+    {
+      "feedUrl": "https://www.zdnet.fr/feeds/rss/actualites/",
+      "error": "terminated"
+    }
+  ],
   "items": [
     {
       "title": "ChatGPT: quand l'IA menace la sécurité des entreprises - Brief IA",
