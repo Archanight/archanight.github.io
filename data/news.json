@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T02:00:57.653Z",
+  "generatedAt": "2026-07-03T08:49:19.536Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GLM-5.2: Une arme IA à bas coût en provenance de Chine exerce une pression... - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/glm-5-2-vu-khi-ai-gia-re-tu-trung-quoc-tao-ap-luc-lon-len-chatgpt-va-claude",
+      "url": "https://www.vietnam.vn/fr/glm-5-2-vu-khi-ai-gia-re-tu-trung-quoc-tao-ap-luc-lon-len-chatgpt-va-claude",
+      "publishedAt": "2026-07-03T02:41:50.000Z",
+      "date": "2026-07-03T02:41:50.000Z",
+      "description": "GLM-5.2 n'a rien à envier aux modèles d'IA les plus récents, ChatGPT et Claude.... cybersécurité aux États-Unis et en Europe à la prudence.",
+      "excerpt": "GLM-5.2 n'a rien à envier aux modèles d'IA les plus récents, ChatGPT et Claude.... cybersécurité aux États-Unis et en Europe à la prudence.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Un Américain poursuit OpenAI en justice, affirmant que ChatGPT lui a causé de la paranoïa...",
       "link": "https://www.vietnam.vn/fr/nguoi-dan-ong-my-kien-openai-to-chatgpt-khien-minh-hoang-tuong-tu-lam-hai-ban-than",
@@ -117,16 +127,6 @@
       "date": "2026-07-01T19:18:46.000Z",
       "description": "... cybersécurité et vice-président senior chez The Hoffman Agency. La... Blocage de ChatGPT 5.6 après Fable: quel impact sur la souveraineté et la...",
       "excerpt": "... cybersécurité et vice-président senior chez The Hoffman Agency. La... Blocage de ChatGPT 5.6 après Fable: quel impact sur la souveraineté et la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI diversifie GPT-5.6 Pro avec trois nouveaux modèles | Brief IA",
-      "link": "https://www.briefia.fr/article/openai-diversifie-gpt-5-6-pro-avec-trois-nouveaux-modeles",
-      "url": "https://www.briefia.fr/article/openai-diversifie-gpt-5-6-pro-avec-trois-nouveaux-modeles",
-      "publishedAt": "2026-07-01T18:04:30.000Z",
-      "date": "2026-07-01T18:04:30.000Z",
-      "description": "Ce serait le premier changement majeur dans la structure de ChatGPT Pro depuis son lancement.... cybersécurité. Brief IA: GPT-5.4 et GPT-5.4...",
-      "excerpt": "Ce serait le premier changement majeur dans la structure de ChatGPT Pro depuis son lancement.... cybersécurité. Brief IA: GPT-5.4 et GPT-5.4...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
