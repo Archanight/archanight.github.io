@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T08:49:19.536Z",
+  "generatedAt": "2026-07-03T13:43:36.370Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Banque Africaine: 20 ans de cybersécurité peuvent-ils tenir trente secondes fac",
+      "link": "https://www.sikafinance.com/marches/banque-africaine-20-ans-de-cybersecurite-peuvent-ils-tenir-trente-secondes-face-a-chatgpt-claude-copilot-_62741",
+      "url": "https://www.sikafinance.com/marches/banque-africaine-20-ans-de-cybersecurite-peuvent-ils-tenir-trente-secondes-face-a-chatgpt-claude-copilot-_62741",
+      "publishedAt": "2026-07-03T12:37:07.000Z",
+      "date": "2026-07-03T12:37:07.000Z",
+      "description": "Banque Africaine: 20 ans de cybersécurité peuvent-ils tenir trente secondes face à ChatGPT, Claude, Copilot? · Une menace bien réelle pour l'...",
+      "excerpt": "Banque Africaine: 20 ans de cybersécurité peuvent-ils tenir trente secondes face à ChatGPT, Claude, Copilot? · Une menace bien réelle pour l'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT‑5.6 aurait “triché” pendant ses tests: faut-il encore croire aux benchmarks IA? | JDW",
+      "link": "https://www.journalduweb.org/gpt-5-6-triche-tests-benchmarks-ia/",
+      "url": "https://www.journalduweb.org/gpt-5-6-triche-tests-benchmarks-ia/",
+      "publishedAt": "2026-07-03T12:22:09.000Z",
+      "date": "2026-07-03T12:22:09.000Z",
+      "description": "Informatique & Cybersécurité · GPT-5.6: OpenAI prépare déjà... iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6...",
+      "excerpt": "Informatique & Cybersécurité · GPT-5.6: OpenAI prépare déjà... iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La nouvelle version de ChatGPT dévoilée - L'Essentiel de l'Éco",
+      "link": "https://lessentieldeleco.fr/7666-la-nouvelle-version-de-chatgpt-devoilee/",
+      "url": "https://lessentieldeleco.fr/7666-la-nouvelle-version-de-chatgpt-devoilee/",
+      "publishedAt": "2026-07-03T12:15:47.000Z",
+      "date": "2026-07-03T12:15:47.000Z",
+      "description": "La nouvelle version de ChatGPT dévoilée... OpenAI dévoile GPT-5.6 et ses capacités inédites en cybersécurité. Mais un décret de Trump impose un accès...",
+      "excerpt": "La nouvelle version de ChatGPT dévoilée... OpenAI dévoile GPT-5.6 et ses capacités inédites en cybersécurité. Mais un décret de Trump impose un accès...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Triche à l'IA: un prof de l'université Brown alerte sur l'usage de ChatGPT aux examens",
+      "link": "https://www.lebigdata.fr/triche-a-lia-un-prof-de-luniversite-brown-alerte-sur-lusage-de-chatgpt-aux-examens",
+      "url": "https://www.lebigdata.fr/triche-a-lia-un-prof-de-luniversite-brown-alerte-sur-lusage-de-chatgpt-aux-examens",
+      "publishedAt": "2026-07-03T08:08:53.000Z",
+      "date": "2026-07-03T08:08:53.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Triche à l'IA: un prof de l'université Brown alerte sur l'usage de ChatGPT aux examens.",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Triche à l'IA: un prof de l'université Brown alerte sur l'usage de ChatGPT aux examens.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "GLM-5.2: Une arme IA à bas coût en provenance de Chine exerce une pression... - Vietnam.vn",
       "link": "https://www.vietnam.vn/fr/glm-5-2-vu-khi-ai-gia-re-tu-trung-quoc-tao-ap-luc-lon-len-chatgpt-va-claude",
@@ -87,46 +127,6 @@
       "date": "2026-07-02T15:24:06.000Z",
       "description": "... cybersécurité. Google échappe pour l'instant à cette restriction: son futur Gemini 3.5 Pro, attendu en juillet 2026, n'a pas franchi le même...",
       "excerpt": "... cybersécurité. Google échappe pour l'instant à cette restriction: son futur Gemini 3.5 Pro, attendu en juillet 2026, n'a pas franchi le même...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pour détecter les étudiants qui trichent avec ChatGPT, des professeurs misent sur une...",
-      "link": "https://www.lacremedugaming.fr/high-tech/pour-detecter-les-etudiants-qui-trichent-avec-chatgpt-des-professeurs-misent-sur-une-technique-redoutablement-efficace-218671.html",
-      "url": "https://www.lacremedugaming.fr/high-tech/pour-detecter-les-etudiants-qui-trichent-avec-chatgpt-des-professeurs-misent-sur-une-technique-redoutablement-efficace-218671.html",
-      "publishedAt": "2026-07-02T09:08:52.000Z",
-      "date": "2026-07-02T09:08:52.000Z",
-      "description": "Triche à ChatGPT, contrôles surprises et chevaux de Troie cachés: des profs piègent leurs étudiants et rebattent les cartes de l'évaluation.",
-      "excerpt": "Triche à ChatGPT, contrôles surprises et chevaux de Troie cachés: des profs piègent leurs étudiants et rebattent les cartes de l'évaluation.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI: une prise de participation de 5% du gouvernement américain? - Fortuneo Bourse",
-      "link": "https://bourse.fortuneo.fr/actualites/openai-une-prise-de-participation-de-5-du-gouvernement-americain-4115860",
-      "url": "https://bourse.fortuneo.fr/actualites/openai-une-prise-de-participation-de-5-du-gouvernement-americain-4115860",
-      "publishedAt": "2026-07-02T06:37:55.000Z",
-      "date": "2026-07-02T06:37:55.000Z",
-      "description": ", la startup d'IA à l'origine de ChatGPT, aurait proposé au... cybersécurité liées à leurs modèles, ainsi que par la concurrence...",
-      "excerpt": ", la startup d'IA à l'origine de ChatGPT, aurait proposé au... cybersécurité liées à leurs modèles, ainsi que par la concurrence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Focal: Leading ChatGPT Ads Agency Launches ChatGPT Pixel Picker - Newsfile Corp.",
-      "link": "https://www.newsfilecorp.com/release/302881/Focal-Leading-ChatGPT-Ads-Agency-Launches-ChatGPT-Pixel-Picker?lang=fr",
-      "url": "https://www.newsfilecorp.com/release/302881/Focal-Leading-ChatGPT-Ads-Agency-Launches-ChatGPT-Pixel-Picker?lang=fr",
-      "publishedAt": "2026-07-01T23:49:38.000Z",
-      "date": "2026-07-01T23:49:38.000Z",
-      "description": "Newark, Delaware--(Newsfile Corp. - July 1, 2026) - Focal, a leading ChatGPT Ads agency, has announced the launch of ChatGPT...",
-      "excerpt": "Newark, Delaware--(Newsfile Corp. - July 1, 2026) - Focal, a leading ChatGPT Ads agency, has announced the launch of ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Les acheteurs cyber accélèrent leur sélection - ITRmanager",
-      "link": "https://itrmanager.com/articles/210271/les-acheteurs-cyber-accelerent-leur-selection.html",
-      "url": "https://itrmanager.com/articles/210271/les-acheteurs-cyber-accelerent-leur-selection.html",
-      "publishedAt": "2026-07-01T19:18:46.000Z",
-      "date": "2026-07-01T19:18:46.000Z",
-      "description": "... cybersécurité et vice-président senior chez The Hoffman Agency. La... Blocage de ChatGPT 5.6 après Fable: quel impact sur la souveraineté et la...",
-      "excerpt": "... cybersécurité et vice-président senior chez The Hoffman Agency. La... Blocage de ChatGPT 5.6 après Fable: quel impact sur la souveraineté et la...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
