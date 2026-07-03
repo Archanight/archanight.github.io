@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T19:09:32.363Z",
+  "generatedAt": "2026-07-03T02:00:57.653Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Un Américain poursuit OpenAI en justice, affirmant que ChatGPT lui a causé de la paranoïa...",
+      "link": "https://www.vietnam.vn/fr/nguoi-dan-ong-my-kien-openai-to-chatgpt-khien-minh-hoang-tuong-tu-lam-hai-ban-than",
+      "url": "https://www.vietnam.vn/fr/nguoi-dan-ong-my-kien-openai-to-chatgpt-khien-minh-hoang-tuong-tu-lam-hai-ban-than",
+      "publishedAt": "2026-07-02T22:14:11.000Z",
+      "date": "2026-07-02T22:14:11.000Z",
+      "description": "Le plaignant allègue que ChatGPT a exacerbé sa paranoïa, contribuant ainsi à ses tendances suicidaires... cybersécurité. baodanang-vn Báo Đà Nẵng. dans...",
+      "excerpt": "Le plaignant allègue que ChatGPT a exacerbé sa paranoïa, contribuant ainsi à ses tendances suicidaires... cybersécurité. baodanang-vn Báo Đà Nẵng. dans...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Cette IA surpuissante est de retour?!: Actualités - Orange Actu",
       "link": "https://actu.orange.fr/videos/high-tech/cette-ia-surpuissante-est-de-retour-CNT000002qiS6t.html",
@@ -30,6 +40,26 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
+      "title": "Le nouveau modèle d'IA à bas coût de la Chine « menace » ChatGPT, Claude - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/mo-hinh-ai-gia-re-moi-cua-trung-quoc-de-doa-chatgpt-claude",
+      "url": "https://www.vietnam.vn/fr/mo-hinh-ai-gia-re-moi-cua-trung-quoc-de-doa-chatgpt-claude",
+      "publishedAt": "2026-07-02T17:33:40.000Z",
+      "date": "2026-07-02T17:33:40.000Z",
+      "description": "Cette préoccupation rend les entreprises américaines, notamment dans les secteurs fortement réglementés comme la banque et la cybersécurité,...",
+      "excerpt": "Cette préoccupation rend les entreprises américaines, notamment dans les secteurs fortement réglementés comme la banque et la cybersécurité,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Tim Cook intervient personnellement auprès de Bruxelles face au blocage de Siri AI en Europe",
+      "link": "https://siecledigital.fr/2026/07/02/tim-cook-intervient-personnellement-aupres-de-bruxelles-face-au-blocage-de-siri-ai-en-europe/",
+      "url": "https://siecledigital.fr/2026/07/02/tim-cook-intervient-personnellement-aupres-de-bruxelles-face-au-blocage-de-siri-ai-en-europe/",
+      "publishedAt": "2026-07-02T17:14:30.000Z",
+      "date": "2026-07-02T17:14:30.000Z",
+      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER... Apple prépare un Siri façon ChatGPT, et les premières images viennent de fuiter.",
+      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER... Apple prépare un Siri façon ChatGPT, et les premières images viennent de fuiter.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "OpenAI discute de la possibilité de céder 5% de son capital au gouvernement américain",
       "link": "https://www.rfi.fr/fr/%C3%A9conomie/20260702-openai-discute-de-la-possibilit%C3%A9-de-c%C3%A9der-5-de-son-capital-au-gouvernement-am%C3%A9ricain",
       "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260702-openai-discute-de-la-possibilit%C3%A9-de-c%C3%A9der-5-de-son-capital-au-gouvernement-am%C3%A9ricain",
@@ -37,6 +67,16 @@
       "date": "2026-07-02T15:28:55.000Z",
       "description": "Selon les informations du quotidien britannique Financial Times, OpenAI, l'entreprise qui a créé ChatGPT... cybersécurité et l'emploi. OpenAI et...",
       "excerpt": "Selon les informations du quotidien britannique Financial Times, OpenAI, l'entreprise qui a créé ChatGPT... cybersécurité et l'emploi. OpenAI et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Washington restreint GPT-5.6, épargne Gemini 3.5 Pro de Google - Stéphane Larue",
+      "link": "https://stephanelarue.com/washington-restreint-gpt-5-6-epargne-gemini-3-5-pro-de-google/",
+      "url": "https://stephanelarue.com/washington-restreint-gpt-5-6-epargne-gemini-3-5-pro-de-google/",
+      "publishedAt": "2026-07-02T15:24:06.000Z",
+      "date": "2026-07-02T15:24:06.000Z",
+      "description": "... cybersécurité. Google échappe pour l'instant à cette restriction: son futur Gemini 3.5 Pro, attendu en juillet 2026, n'a pas franchi le même...",
+      "excerpt": "... cybersécurité. Google échappe pour l'instant à cette restriction: son futur Gemini 3.5 Pro, attendu en juillet 2026, n'a pas franchi le même...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -48,6 +88,16 @@
       "description": "Triche à ChatGPT, contrôles surprises et chevaux de Troie cachés: des profs piègent leurs étudiants et rebattent les cartes de l'évaluation.",
       "excerpt": "Triche à ChatGPT, contrôles surprises et chevaux de Troie cachés: des profs piègent leurs étudiants et rebattent les cartes de l'évaluation.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI: une prise de participation de 5% du gouvernement américain? - Fortuneo Bourse",
+      "link": "https://bourse.fortuneo.fr/actualites/openai-une-prise-de-participation-de-5-du-gouvernement-americain-4115860",
+      "url": "https://bourse.fortuneo.fr/actualites/openai-une-prise-de-participation-de-5-du-gouvernement-americain-4115860",
+      "publishedAt": "2026-07-02T06:37:55.000Z",
+      "date": "2026-07-02T06:37:55.000Z",
+      "description": ", la startup d'IA à l'origine de ChatGPT, aurait proposé au... cybersécurité liées à leurs modèles, ainsi que par la concurrence...",
+      "excerpt": ", la startup d'IA à l'origine de ChatGPT, aurait proposé au... cybersécurité liées à leurs modèles, ainsi que par la concurrence...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "Focal: Leading ChatGPT Ads Agency Launches ChatGPT Pixel Picker - Newsfile Corp.",
@@ -77,56 +127,6 @@
       "date": "2026-07-01T18:04:30.000Z",
       "description": "Ce serait le premier changement majeur dans la structure de ChatGPT Pro depuis son lancement.... cybersécurité. Brief IA: GPT-5.4 et GPT-5.4...",
       "excerpt": "Ce serait le premier changement majeur dans la structure de ChatGPT Pro depuis son lancement.... cybersécurité. Brief IA: GPT-5.4 et GPT-5.4...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: quand l'IA menace la sécurité des entreprises - Brief IA",
-      "link": "https://www.briefia.fr/article/chatgpt-quand-l-ia-menace-la-securite-des-entreprises",
-      "url": "https://www.briefia.fr/article/chatgpt-quand-l-ia-menace-la-securite-des-entreprises",
-      "publishedAt": "2026-07-01T14:09:10.000Z",
-      "date": "2026-07-01T14:09:10.000Z",
-      "description": "Prenons l'exemple marquant du directeur par intérim de la CISA, l'agence fédérale américaine chargée de la cybersécurité, qui a été pris en...",
-      "excerpt": "Prenons l'exemple marquant du directeur par intérim de la CISA, l'agence fédérale américaine chargée de la cybersécurité, qui a été pris en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Quels paramètres modifier dans ChatGPT avant de lui confier vos données - Clubic",
-      "link": "https://www.clubic.com/tutoriel-619312-quels-parametres-modifier-dans-chatgpt-avant-de-lui-confier-vos-donnees.html",
-      "url": "https://www.clubic.com/tutoriel-619312-quels-parametres-modifier-dans-chatgpt-avant-de-lui-confier-vos-donnees.html",
-      "publishedAt": "2026-07-01T13:03:01.000Z",
-      "date": "2026-07-01T13:03:01.000Z",
-      "description": "Cybersécurité · Cyber Pro par Bitdefender. Quels paramètres modifier dans ChatGPT avant de lui confier vos données? Chloé Claessens. Par Chloé...",
-      "excerpt": "Cybersécurité · Cyber Pro par Bitdefender. Quels paramètres modifier dans ChatGPT avant de lui confier vos données? Chloé Claessens. Par Chloé...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Vous cherchez une alternative à ChatGPT? Lumo vient de combler ses plus gros retards",
-      "link": "https://www.menow.fr/vous-cherchez-une-alternative-a-chatgpt-lumo-vient-de-combler-ses-plus-gros-retards/",
-      "url": "https://www.menow.fr/vous-cherchez-une-alternative-a-chatgpt-lumo-vient-de-combler-ses-plus-gros-retards/",
-      "publishedAt": "2026-07-01T13:02:43.000Z",
-      "date": "2026-07-01T13:02:43.000Z",
-      "description": "Avec cette mise à jour, Proton rapproche son assistant des fonctions proposées par ChatGPT, Claude et Gemini, tout en maintenant la confidentialité au...",
-      "excerpt": "Avec cette mise à jour, Proton rapproche son assistant des fonctions proposées par ChatGPT, Claude et Gemini, tout en maintenant la confidentialité au...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "IA en entreprise: le vrai risque, c'est de lâcher la main - Journaldunet.com",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1552123-ia-en-entreprise-le-vrai-risque-c-est-de-lacher-la-main/",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1552123-ia-en-entreprise-le-vrai-risque-c-est-de-lacher-la-main/",
-      "publishedAt": "2026-07-01T11:46:00.000Z",
-      "date": "2026-07-01T11:46:00.000Z",
-      "description": "En 2023, en seulement vingt jours, l'entreprise a recensé trois fuites via ChatGPT: un ingénieur y a collé le code source bogué d'une base de données...",
-      "excerpt": "En 2023, en seulement vingt jours, l'entreprise a recensé trois fuites via ChatGPT: un ingénieur y a collé le code source bogué d'une base de données...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT a généré des images violentes et explicites qui ont choqué les chercheurs",
-      "link": "https://www.malwarebytes.com/fr/blog/ai/2026/07/chatgpt-produced-graphic-violent-images-that-shocked-researchers",
-      "url": "https://www.malwarebytes.com/fr/blog/ai/2026/07/chatgpt-produced-graphic-violent-images-that-shocked-researchers",
-      "publishedAt": "2026-07-01T10:39:27.000Z",
-      "date": "2026-07-01T10:39:27.000Z",
-      "description": "ChatGPT a généré des images violentes et explicites qui ont choqué les chercheurs... Malwarebytes - une protection de cybersécurité tout-en-un,...",
-      "excerpt": "ChatGPT a généré des images violentes et explicites qui ont choqué les chercheurs... Malwarebytes - une protection de cybersécurité tout-en-un,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
