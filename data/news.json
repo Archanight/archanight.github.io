@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T13:43:36.370Z",
+  "generatedAt": "2026-07-03T19:02:19.345Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Meta a testé ChatGPT et Gemini avec de faux comptes ados - Stéphane Larue",
+      "link": "https://stephanelarue.com/meta-a-teste-chatgpt-et-gemini-avec-de-faux-comptes-ados/",
+      "url": "https://stephanelarue.com/meta-a-teste-chatgpt-et-gemini-avec-de-faux-comptes-ados/",
+      "publishedAt": "2026-07-03T15:15:49.000Z",
+      "date": "2026-07-03T15:15:49.000Z",
+      "description": "Des sous-traitants de Meta ont créé de faux comptes d'ados pour tester ChatGPT, Gemini et Character.AI sur des sujets sensibles, révèle Wired.",
+      "excerpt": "Des sous-traitants de Meta ont créé de faux comptes d'ados pour tester ChatGPT, Gemini et Character.AI sur des sujets sensibles, révèle Wired.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les salariés désobéissent en masse pour utiliser l'IA au travail, au risque d'exposer des...",
+      "link": "https://www.phonandroid.com/les-salaries-desobeissent-en-masse-pour-utiliser-lia-au-travail-au-risque-dexposer-des-donnees-confidentielles.html",
+      "url": "https://www.phonandroid.com/les-salaries-desobeissent-en-masse-pour-utiliser-lia-au-travail-au-risque-dexposer-des-donnees-confidentielles.html",
+      "publishedAt": "2026-07-03T14:35:22.000Z",
+      "date": "2026-07-03T14:35:22.000Z",
+      "description": "Résultat, cette désobéissance ouvre une brèche béante dans la sécurité des données. ChatGPT. Crédits: 123RF. L'intelligence artificielle s'est...",
+      "excerpt": "Résultat, cette désobéissance ouvre une brèche béante dans la sécurité des données. ChatGPT. Crédits: 123RF. L'intelligence artificielle s'est...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Banque Africaine: 20 ans de cybersécurité peuvent-ils tenir trente secondes fac",
       "link": "https://www.sikafinance.com/marches/banque-africaine-20-ans-de-cybersecurite-peuvent-ils-tenir-trente-secondes-face-a-chatgpt-claude-copilot-_62741",
@@ -107,26 +127,6 @@
       "date": "2026-07-02T17:14:30.000Z",
       "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER... Apple prépare un Siri façon ChatGPT, et les premières images viennent de fuiter.",
       "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER... Apple prépare un Siri façon ChatGPT, et les premières images viennent de fuiter.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI discute de la possibilité de céder 5% de son capital au gouvernement américain",
-      "link": "https://www.rfi.fr/fr/%C3%A9conomie/20260702-openai-discute-de-la-possibilit%C3%A9-de-c%C3%A9der-5-de-son-capital-au-gouvernement-am%C3%A9ricain",
-      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260702-openai-discute-de-la-possibilit%C3%A9-de-c%C3%A9der-5-de-son-capital-au-gouvernement-am%C3%A9ricain",
-      "publishedAt": "2026-07-02T15:28:55.000Z",
-      "date": "2026-07-02T15:28:55.000Z",
-      "description": "Selon les informations du quotidien britannique Financial Times, OpenAI, l'entreprise qui a créé ChatGPT... cybersécurité et l'emploi. OpenAI et...",
-      "excerpt": "Selon les informations du quotidien britannique Financial Times, OpenAI, l'entreprise qui a créé ChatGPT... cybersécurité et l'emploi. OpenAI et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Washington restreint GPT-5.6, épargne Gemini 3.5 Pro de Google - Stéphane Larue",
-      "link": "https://stephanelarue.com/washington-restreint-gpt-5-6-epargne-gemini-3-5-pro-de-google/",
-      "url": "https://stephanelarue.com/washington-restreint-gpt-5-6-epargne-gemini-3-5-pro-de-google/",
-      "publishedAt": "2026-07-02T15:24:06.000Z",
-      "date": "2026-07-02T15:24:06.000Z",
-      "description": "... cybersécurité. Google échappe pour l'instant à cette restriction: son futur Gemini 3.5 Pro, attendu en juillet 2026, n'a pas franchi le même...",
-      "excerpt": "... cybersécurité. Google échappe pour l'instant à cette restriction: son futur Gemini 3.5 Pro, attendu en juillet 2026, n'a pas franchi le même...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
