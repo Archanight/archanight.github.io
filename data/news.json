@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T13:00:49.256Z",
+  "generatedAt": "2026-07-04T18:56:59.572Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT génère des images d'une violence crue sans qu'on les lui demande, et ses filtres n...",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-genere-des-images-d-une-violence-crue-sans-qu-on-les-lui-demande-et-ses-filtres-n-y-changent-rien-n258877.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-genere-des-images-d-une-violence-crue-sans-qu-on-les-lui-demande-et-ses-filtres-n-y-changent-rien-n258877.html",
+      "publishedAt": "2026-07-04T16:24:08.000Z",
+      "date": "2026-07-04T16:24:08.000Z",
+      "description": "... cybersécurité. Les chercheurs sont partis d'une requête virale pour des images humoristiques. Des images violentes générées par ChatGPT. On demande...",
+      "excerpt": "... cybersécurité. Les chercheurs sont partis d'une requête virale pour des images humoristiques. Des images violentes générées par ChatGPT. On demande...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "SpaceX dément un smartphone IA secret, son action dévisse de 8% - Stéphane Larue",
+      "link": "https://stephanelarue.com/spacex-dement-un-smartphone-ia-secret-son-action-devisse-de-8/",
+      "url": "https://stephanelarue.com/spacex-dement-un-smartphone-ia-secret-son-action-devisse-de-8/",
+      "publishedAt": "2026-07-04T10:54:02.000Z",
+      "date": "2026-07-04T10:54:02.000Z",
+      "description": "... ChatGPT, Gemini et Claude. Pour l'heure, ni SpaceX ni xAI n'ont... Actu · Cybersécurité · 3 min · ◁ Retour à l'univers Tech · À propos de...",
+      "excerpt": "... ChatGPT, Gemini et Claude. Pour l'heure, ni SpaceX ni xAI n'ont... Actu · Cybersécurité · 3 min · ◁ Retour à l'univers Tech · À propos de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Hôpitaux Paralysés par l'IA en 2026: Votre Prochaine Opération Annulée par un Hacker Robot",
+      "link": "https://www.cridutroll.fr/hopitaux-paralyses-par-lia-en-2026-votre-prochaine-operation-annulee-par-un-hacker-robot/",
+      "url": "https://www.cridutroll.fr/hopitaux-paralyses-par-lia-en-2026-votre-prochaine-operation-annulee-par-un-hacker-robot/",
+      "publishedAt": "2026-07-04T09:19:04.000Z",
+      "date": "2026-07-04T09:19:04.000Z",
+      "description": "Les avancées rapides de l'intelligence artificielle soulèvent des inquiétudes grandissantes parmi les spécialistes de la cybersécurité.",
+      "excerpt": "Les avancées rapides de l'intelligence artificielle soulèvent des inquiétudes grandissantes parmi les spécialistes de la cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Il a failli se suicider après avoir discuté de religion avec ChatGPT: OpenAI de nouveau poursuivi",
       "link": "https://www.lebigdata.fr/il-a-failli-se-suicider-apres-avoir-discute-de-religion-avec-chatgpt-openai-de-nouveau-poursuivi",
@@ -97,36 +127,6 @@
       "date": "2026-07-03T08:08:53.000Z",
       "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Triche à l'IA: un prof de l'université Brown alerte sur l'usage de ChatGPT aux examens.",
       "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Triche à l'IA: un prof de l'université Brown alerte sur l'usage de ChatGPT aux examens.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GLM-5.2: Une arme IA à bas coût en provenance de Chine exerce une pression... - Vietnam.vn",
-      "link": "https://www.vietnam.vn/fr/glm-5-2-vu-khi-ai-gia-re-tu-trung-quoc-tao-ap-luc-lon-len-chatgpt-va-claude",
-      "url": "https://www.vietnam.vn/fr/glm-5-2-vu-khi-ai-gia-re-tu-trung-quoc-tao-ap-luc-lon-len-chatgpt-va-claude",
-      "publishedAt": "2026-07-03T02:41:50.000Z",
-      "date": "2026-07-03T02:41:50.000Z",
-      "description": "GLM-5.2 n'a rien à envier aux modèles d'IA les plus récents, ChatGPT et Claude.... cybersécurité aux États-Unis et en Europe à la prudence.",
-      "excerpt": "GLM-5.2 n'a rien à envier aux modèles d'IA les plus récents, ChatGPT et Claude.... cybersécurité aux États-Unis et en Europe à la prudence.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un Américain poursuit OpenAI en justice, affirmant que ChatGPT lui a causé de la paranoïa...",
-      "link": "https://www.vietnam.vn/fr/nguoi-dan-ong-my-kien-openai-to-chatgpt-khien-minh-hoang-tuong-tu-lam-hai-ban-than",
-      "url": "https://www.vietnam.vn/fr/nguoi-dan-ong-my-kien-openai-to-chatgpt-khien-minh-hoang-tuong-tu-lam-hai-ban-than",
-      "publishedAt": "2026-07-02T22:14:11.000Z",
-      "date": "2026-07-02T22:14:11.000Z",
-      "description": "Le plaignant allègue que ChatGPT a exacerbé sa paranoïa, contribuant ainsi à ses tendances suicidaires... cybersécurité. baodanang-vn Báo Đà Nẵng. dans...",
-      "excerpt": "Le plaignant allègue que ChatGPT a exacerbé sa paranoïa, contribuant ainsi à ses tendances suicidaires... cybersécurité. baodanang-vn Báo Đà Nẵng. dans...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cette IA surpuissante est de retour?!: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/high-tech/cette-ia-surpuissante-est-de-retour-CNT000002qiS6t.html",
-      "url": "https://actu.orange.fr/videos/high-tech/cette-ia-surpuissante-est-de-retour-CNT000002qiS6t.html",
-      "publishedAt": "2026-07-02T18:03:40.000Z",
-      "date": "2026-07-02T18:03:40.000Z",
-      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics. Le...",
-      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics. Le...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
