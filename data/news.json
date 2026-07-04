@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T19:02:19.345Z",
+  "generatedAt": "2026-07-04T01:59:10.084Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Il a failli se suicider après avoir discuté de religion avec ChatGPT: OpenAI de nouveau poursuivi",
+      "link": "https://www.lebigdata.fr/il-a-failli-se-suicider-apres-avoir-discute-de-religion-avec-chatgpt-openai-de-nouveau-poursuivi",
+      "url": "https://www.lebigdata.fr/il-a-failli-se-suicider-apres-avoir-discute-de-religion-avec-chatgpt-openai-de-nouveau-poursuivi",
+      "publishedAt": "2026-07-03T20:08:52.000Z",
+      "date": "2026-07-03T20:08:52.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Il a failli se suicider après avoir discuté de religion avec ChatGPT: OpenAI de nouveau...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Il a failli se suicider après avoir discuté de religion avec ChatGPT: OpenAI de nouveau...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT a tenté de prédire ma prochaine obsession, et le résultat s'est révélé troublant de justesse",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt-sest-revele-etonnamment-pertinent-pour-predire-le-prochain-hobby-a-surveiller",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt-sest-revele-etonnamment-pertinent-pour-predire-le-prochain-hobby-a-surveiller",
+      "publishedAt": "2026-07-03T18:17:31.000Z",
+      "date": "2026-07-03T18:17:31.000Z",
+      "description": "ChatGPT pense savoir quelle sera ma prochaine obsession — et après avoir lu son explication, je ne suis pas totalement convaincu qu'il se trompe.",
+      "excerpt": "ChatGPT pense savoir quelle sera ma prochaine obsession — et après avoir lu son explication, je ne suis pas totalement convaincu qu'il se trompe.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "5 outils IA incontournables pour la gestion de produit en 2026 - Brief IA",
+      "link": "https://www.briefia.fr/blog/outils-ia-optimiser-gestion-produits-2026",
+      "url": "https://www.briefia.fr/blog/outils-ia-optimiser-gestion-produits-2026",
+      "publishedAt": "2026-07-03T17:11:10.000Z",
+      "date": "2026-07-03T17:11:10.000Z",
+      "description": "ChatGPT / ChatGPT Team: le couteau suisse des équipes produit. ChatGPT... Rédiger des user stories, specs fonctionnelles et release notes...",
+      "excerpt": "ChatGPT / ChatGPT Team: le couteau suisse des équipes produit. ChatGPT... Rédiger des user stories, specs fonctionnelles et release notes...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Meta a testé ChatGPT et Gemini avec de faux comptes ados - Stéphane Larue",
       "link": "https://stephanelarue.com/meta-a-teste-chatgpt-et-gemini-avec-de-faux-comptes-ados/",
@@ -97,36 +127,6 @@
       "date": "2026-07-02T18:03:40.000Z",
       "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics. Le...",
       "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics. Le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Vous cherchez une alternative à ChatGPT qui respecte la confidentialité? Lumo 2.0 de... - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/vous-cherchez-une-alternative-a-chatgpt-qui-respecte-la-confidentialite-lumo-2-0-de-proton-protege-vos-donnees-dans-le-respect-des-normes-europeennes-498166.htm",
-      "url": "https://www.zdnet.fr/actualites/vous-cherchez-une-alternative-a-chatgpt-qui-respecte-la-confidentialite-lumo-2-0-de-proton-protege-vos-donnees-dans-le-respect-des-normes-europeennes-498166.htm",
-      "publishedAt": "2026-07-02T17:46:11.000Z",
-      "date": "2026-07-02T17:46:11.000Z",
-      "description": "... ChatGPT d'OpenAI et Claude d'Anthropic. Bien qu'il soit capable d'effectuer bon nombre des mêmes tâches — répondre aux requêtes des utilisateurs...",
-      "excerpt": "... ChatGPT d'OpenAI et Claude d'Anthropic. Bien qu'il soit capable d'effectuer bon nombre des mêmes tâches — répondre aux requêtes des utilisateurs...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Le nouveau modèle d'IA à bas coût de la Chine « menace » ChatGPT, Claude - Vietnam.vn",
-      "link": "https://www.vietnam.vn/fr/mo-hinh-ai-gia-re-moi-cua-trung-quoc-de-doa-chatgpt-claude",
-      "url": "https://www.vietnam.vn/fr/mo-hinh-ai-gia-re-moi-cua-trung-quoc-de-doa-chatgpt-claude",
-      "publishedAt": "2026-07-02T17:33:40.000Z",
-      "date": "2026-07-02T17:33:40.000Z",
-      "description": "Cette préoccupation rend les entreprises américaines, notamment dans les secteurs fortement réglementés comme la banque et la cybersécurité,...",
-      "excerpt": "Cette préoccupation rend les entreprises américaines, notamment dans les secteurs fortement réglementés comme la banque et la cybersécurité,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Tim Cook intervient personnellement auprès de Bruxelles face au blocage de Siri AI en Europe",
-      "link": "https://siecledigital.fr/2026/07/02/tim-cook-intervient-personnellement-aupres-de-bruxelles-face-au-blocage-de-siri-ai-en-europe/",
-      "url": "https://siecledigital.fr/2026/07/02/tim-cook-intervient-personnellement-aupres-de-bruxelles-face-au-blocage-de-siri-ai-en-europe/",
-      "publishedAt": "2026-07-02T17:14:30.000Z",
-      "date": "2026-07-02T17:14:30.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER... Apple prépare un Siri façon ChatGPT, et les premières images viennent de fuiter.",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER... Apple prépare un Siri façon ChatGPT, et les premières images viennent de fuiter.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
