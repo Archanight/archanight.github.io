@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T13:09:07.740Z",
+  "generatedAt": "2026-07-05T19:02:30.060Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -37,6 +37,16 @@
       "date": "2026-07-04T18:57:24.000Z",
       "description": "ChatGPT a fêté ses 3 ans en novembre 2025, et il est désormais... Comme nous l'avons documenté dans notre panorama cybersécurité IA 2026...",
       "excerpt": "ChatGPT a fêté ses 3 ans en novembre 2025, et il est désormais... Comme nous l'avons documenté dans notre panorama cybersécurité IA 2026...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT génère des images d'une violence crue sans qu'on les lui demande, et ses filtres n...",
+      "link": "https://www.msn.com/fr-be/actualite/other/chatgpt-g%C3%A9n%C3%A8re-des-images-d-une-violence-crue-sans-qu-on-les-lui-demande-et-ses-filtres-n-y-changent-rien/ar-AA27cxkW",
+      "url": "https://www.msn.com/fr-be/actualite/other/chatgpt-g%C3%A9n%C3%A8re-des-images-d-une-violence-crue-sans-qu-on-les-lui-demande-et-ses-filtres-n-y-changent-rien/ar-AA27cxkW",
+      "publishedAt": "2026-07-04T17:55:39.000Z",
+      "date": "2026-07-04T17:55:39.000Z",
+      "description": "ChatGPT génère des images d'une violence crue sans qu'on... Il s'agit d'un travail de simulation d'attaques, très répandu dans la cybersécurité.",
+      "excerpt": "ChatGPT génère des images d'une violence crue sans qu'on... Il s'agit d'un travail de simulation d'attaques, très répandu dans la cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -117,16 +127,6 @@
       "date": "2026-07-03T14:35:22.000Z",
       "description": "Résultat, cette désobéissance ouvre une brèche béante dans la sécurité des données. ChatGPT. Crédits: 123RF. L'intelligence artificielle s'est...",
       "excerpt": "Résultat, cette désobéissance ouvre une brèche béante dans la sécurité des données. ChatGPT. Crédits: 123RF. L'intelligence artificielle s'est...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Banque Africaine: 20 ans de cybersécurité peuvent-ils tenir trente secondes fac",
-      "link": "https://www.sikafinance.com/marches/banque-africaine-20-ans-de-cybersecurite-peuvent-ils-tenir-trente-secondes-face-a-chatgpt-claude-copilot-_62741",
-      "url": "https://www.sikafinance.com/marches/banque-africaine-20-ans-de-cybersecurite-peuvent-ils-tenir-trente-secondes-face-a-chatgpt-claude-copilot-_62741",
-      "publishedAt": "2026-07-03T12:37:07.000Z",
-      "date": "2026-07-03T12:37:07.000Z",
-      "description": "Banque Africaine: 20 ans de cybersécurité peuvent-ils tenir trente secondes face à ChatGPT, Claude, Copilot? · Une menace bien réelle pour l'...",
-      "excerpt": "Banque Africaine: 20 ans de cybersécurité peuvent-ils tenir trente secondes face à ChatGPT, Claude, Copilot? · Une menace bien réelle pour l'...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
