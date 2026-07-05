@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T18:56:59.572Z",
+  "generatedAt": "2026-07-05T02:07:26.089Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Nobody has seen this movie - Every Steven Spielberg movie (13/37) - YouTube",
+      "link": "https://www.youtube.com/watch?v=9-Dw48xTKYA",
+      "url": "https://www.youtube.com/watch?v=9-Dw48xTKYA",
+      "publishedAt": "2026-07-04T19:17:32.000Z",
+      "date": "2026-07-04T19:17:32.000Z",
+      "description": "... release of his latest film, \"Disclosure.\" And today, we're... You'll stop using ChatGPT after listening to this | Jonathan Pageau [ARC 2026].",
+      "excerpt": "... release of his latest film, \"Disclosure.\" And today, we're... You'll stop using ChatGPT after listening to this | Jonathan Pageau [ARC 2026].",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "ChatGPT génère des images d'une violence crue sans qu'on les lui demande, et ses filtres n...",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-genere-des-images-d-une-violence-crue-sans-qu-on-les-lui-demande-et-ses-filtres-n-y-changent-rien-n258877.html",
@@ -117,16 +127,6 @@
       "date": "2026-07-03T12:15:47.000Z",
       "description": "La nouvelle version de ChatGPT dévoilée... OpenAI dévoile GPT-5.6 et ses capacités inédites en cybersécurité. Mais un décret de Trump impose un accès...",
       "excerpt": "La nouvelle version de ChatGPT dévoilée... OpenAI dévoile GPT-5.6 et ses capacités inédites en cybersécurité. Mais un décret de Trump impose un accès...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Triche à l'IA: un prof de l'université Brown alerte sur l'usage de ChatGPT aux examens",
-      "link": "https://www.lebigdata.fr/triche-a-lia-un-prof-de-luniversite-brown-alerte-sur-lusage-de-chatgpt-aux-examens",
-      "url": "https://www.lebigdata.fr/triche-a-lia-un-prof-de-luniversite-brown-alerte-sur-lusage-de-chatgpt-aux-examens",
-      "publishedAt": "2026-07-03T08:08:53.000Z",
-      "date": "2026-07-03T08:08:53.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Triche à l'IA: un prof de l'université Brown alerte sur l'usage de ChatGPT aux examens.",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité. I.A · Data · Cloud... Triche à l'IA: un prof de l'université Brown alerte sur l'usage de ChatGPT aux examens.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
