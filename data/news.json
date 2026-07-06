@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T02:12:23.754Z",
+  "generatedAt": "2026-07-06T09:56:13.859Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Kaspersky recense 33 300 attaques par de faux outils d'IA contre les PME, cinq fois plus qu'en 2025",
+      "link": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/kaspersky-recense-33-300-attaques-par-de-faux-outils-dia-contre-les-pme-cinq-fois-plus-quen-2025/",
+      "url": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/kaspersky-recense-33-300-attaques-par-de-faux-outils-dia-contre-les-pme-cinq-fois-plus-quen-2025/",
+      "publishedAt": "2026-07-06T06:21:49.000Z",
+      "date": "2026-07-06T06:21:49.000Z",
+      "description": "Cybersécurité Cybersécurité - Actualités Kaspersky recense 33 300... Sur les quatre premiers mois de l'année, ChatGPT a servi d'appât dans...",
+      "excerpt": "Cybersécurité Cybersécurité - Actualités Kaspersky recense 33 300... Sur les quatre premiers mois de l'année, ChatGPT a servi d'appât dans...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Meta aurait créé de faux ados pour tester des chatbots d'IA: ce que révèle une enquête",
+      "link": "https://www.lebigdata.fr/meta-aurait-cree-de-faux-ados-pour-tester-des-chatbots-dia-ce-que-revele-une-enquete",
+      "url": "https://www.lebigdata.fr/meta-aurait-cree-de-faux-ados-pour-tester-des-chatbots-dia-ce-que-revele-une-enquete",
+      "publishedAt": "2026-07-06T05:07:44.000Z",
+      "date": "2026-07-06T05:07:44.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Ces tests semblent pourtant enfreindre les règles de ChatGPT, Gemini et Character.AI, qui interdisent ce...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Ces tests semblent pourtant enfreindre les règles de ChatGPT, Gemini et Character.AI, qui interdisent ce...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Whatever you do, don't ask ChatGPT this question - YouTube",
       "link": "https://www.youtube.com/watch?v=8Sc3jYyz9F0",
@@ -108,26 +128,6 @@
       "description": "ChatGPT / ChatGPT Team: le couteau suisse des équipes produit. ChatGPT... Rédiger des user stories, specs fonctionnelles et release notes...",
       "excerpt": "ChatGPT / ChatGPT Team: le couteau suisse des équipes produit. ChatGPT... Rédiger des user stories, specs fonctionnelles et release notes...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Meta a testé ChatGPT et Gemini avec de faux comptes ados - Stéphane Larue",
-      "link": "https://stephanelarue.com/meta-a-teste-chatgpt-et-gemini-avec-de-faux-comptes-ados/",
-      "url": "https://stephanelarue.com/meta-a-teste-chatgpt-et-gemini-avec-de-faux-comptes-ados/",
-      "publishedAt": "2026-07-03T15:15:49.000Z",
-      "date": "2026-07-03T15:15:49.000Z",
-      "description": "Des sous-traitants de Meta ont créé de faux comptes d'ados pour tester ChatGPT, Gemini et Character.AI sur des sujets sensibles, révèle Wired.",
-      "excerpt": "Des sous-traitants de Meta ont créé de faux comptes d'ados pour tester ChatGPT, Gemini et Character.AI sur des sujets sensibles, révèle Wired.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les salariés désobéissent en masse pour utiliser l'IA au travail, au risque d'exposer des...",
-      "link": "https://www.phonandroid.com/les-salaries-desobeissent-en-masse-pour-utiliser-lia-au-travail-au-risque-dexposer-des-donnees-confidentielles.html",
-      "url": "https://www.phonandroid.com/les-salaries-desobeissent-en-masse-pour-utiliser-lia-au-travail-au-risque-dexposer-des-donnees-confidentielles.html",
-      "publishedAt": "2026-07-03T14:35:22.000Z",
-      "date": "2026-07-03T14:35:22.000Z",
-      "description": "Résultat, cette désobéissance ouvre une brèche béante dans la sécurité des données. ChatGPT. Crédits: 123RF. L'intelligence artificielle s'est...",
-      "excerpt": "Résultat, cette désobéissance ouvre une brèche béante dans la sécurité des données. ChatGPT. Crédits: 123RF. L'intelligence artificielle s'est...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
