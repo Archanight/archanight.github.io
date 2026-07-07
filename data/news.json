@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T09:24:02.911Z",
+  "generatedAt": "2026-07-07T14:08:15.745Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "L'utilisation des IA et la protection des données préoccupent les commerçants et artisans",
+      "link": "https://www.pressreader.com/france/l-eveil-de-pont-audemer/20260707/281732686227765",
+      "url": "https://www.pressreader.com/france/l-eveil-de-pont-audemer/20260707/281732686227765",
+      "publishedAt": "2026-07-06T20:32:42.000Z",
+      "date": "2026-07-06T20:32:42.000Z",
+      "description": "... ChatGPT · France · Europe · European General Data Protection Regulation... cybersécurité Stellarr Studio, Fabien Marie, président Stellarr...",
+      "excerpt": "... ChatGPT · France · Europe · European General Data Protection Regulation... cybersécurité Stellarr Studio, Fabien Marie, président Stellarr...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "iFLYTEK AI Recorder P1: un assistant IA sous forme d'appareil portable - Notebookcheck.fr",
       "link": "https://www.notebookcheck.biz/iFLYTEK-AI-Recorder-P1-un-assistant-IA-sous-forme-d-appareil-portable.1335986.0.html",
@@ -117,16 +127,6 @@
       "date": "2026-07-04T18:57:24.000Z",
       "description": "ChatGPT a fêté ses 3 ans en novembre 2025, et il est désormais... Comme nous l'avons documenté dans notre panorama cybersécurité IA 2026...",
       "excerpt": "ChatGPT a fêté ses 3 ans en novembre 2025, et il est désormais... Comme nous l'avons documenté dans notre panorama cybersécurité IA 2026...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT génère des images d'une violence crue sans qu'on les lui demande, et ses filtres n...",
-      "link": "https://www.msn.com/fr-be/actualite/other/chatgpt-g%C3%A9n%C3%A8re-des-images-d-une-violence-crue-sans-qu-on-les-lui-demande-et-ses-filtres-n-y-changent-rien/ar-AA27cxkW",
-      "url": "https://www.msn.com/fr-be/actualite/other/chatgpt-g%C3%A9n%C3%A8re-des-images-d-une-violence-crue-sans-qu-on-les-lui-demande-et-ses-filtres-n-y-changent-rien/ar-AA27cxkW",
-      "publishedAt": "2026-07-04T17:55:39.000Z",
-      "date": "2026-07-04T17:55:39.000Z",
-      "description": "ChatGPT génère des images d'une violence crue sans qu'on... Il s'agit d'un travail de simulation d'attaques, très répandu dans la cybersécurité.",
-      "excerpt": "ChatGPT génère des images d'une violence crue sans qu'on... Il s'agit d'un travail de simulation d'attaques, très répandu dans la cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
