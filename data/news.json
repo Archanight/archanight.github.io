@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T19:42:47.711Z",
+  "generatedAt": "2026-07-07T02:07:50.775Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -80,6 +80,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "ChatGPT Atlas - OpenAI Help Center",
+      "link": "https://help-lb.openai.com/fr-fr/collections/16051538-chatgpt-atlas",
+      "url": "https://help-lb.openai.com/fr-fr/collections/16051538-chatgpt-atlas",
+      "publishedAt": "2026-07-06T03:33:50.000Z",
+      "date": "2026-07-06T03:33:50.000Z",
+      "description": "ChatGPT Atlas - Contrôles des données et confidentialité · ChatGPT Atlas - Notes de version · ChatGPT Atlas pour Enterprise · Configurer le navigateur...",
+      "excerpt": "ChatGPT Atlas - Contrôles des données et confidentialité · ChatGPT Atlas - Notes de version · ChatGPT Atlas pour Enterprise · Configurer le navigateur...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Whatever you do, don't ask ChatGPT this question - YouTube",
       "link": "https://www.youtube.com/watch?v=8Sc3jYyz9F0",
       "url": "https://www.youtube.com/watch?v=8Sc3jYyz9F0",
@@ -117,16 +127,6 @@
       "date": "2026-07-04T17:55:39.000Z",
       "description": "ChatGPT génère des images d'une violence crue sans qu'on... Il s'agit d'un travail de simulation d'attaques, très répandu dans la cybersécurité.",
       "excerpt": "ChatGPT génère des images d'une violence crue sans qu'on... Il s'agit d'un travail de simulation d'attaques, très répandu dans la cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT génère des images d'une violence crue sans qu'on les lui demande, et ses filtres n...",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-genere-des-images-d-une-violence-crue-sans-qu-on-les-lui-demande-et-ses-filtres-n-y-changent-rien-n258877.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-genere-des-images-d-une-violence-crue-sans-qu-on-les-lui-demande-et-ses-filtres-n-y-changent-rien-n258877.html",
-      "publishedAt": "2026-07-04T16:24:08.000Z",
-      "date": "2026-07-04T16:24:08.000Z",
-      "description": "... cybersécurité. Les chercheurs sont partis d'une requête virale pour des images humoristiques. Des images violentes générées par ChatGPT. On demande...",
-      "excerpt": "... cybersécurité. Les chercheurs sont partis d'une requête virale pour des images humoristiques. Des images violentes générées par ChatGPT. On demande...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
