@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T14:08:15.745Z",
+  "generatedAt": "2026-07-07T19:41:54.539Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Reddit veut stopper la manipulation des conversations grâce à l'intelligence artificielle",
+      "link": "https://siecledigital.fr/2026/07/06/reddit-veut-stopper-la-manipulation-des-conversations-grace-a-lintelligence-artificielle/",
+      "url": "https://siecledigital.fr/2026/07/06/reddit-veut-stopper-la-manipulation-des-conversations-grace-a-lintelligence-artificielle/",
+      "publishedAt": "2026-07-07T15:01:30.000Z",
+      "date": "2026-07-07T15:01:30.000Z",
+      "description": "... Cybersécurité · IT · Médias... Elles veulent les réponses que Gemini ou ChatGPT donnent quand quelqu'un leur pose une question sur un produit.",
+      "excerpt": "... Cybersécurité · IT · Médias... Elles veulent les réponses que Gemini ou ChatGPT donnent quand quelqu'un leur pose une question sur un produit.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT en panne: perturbations majeures pour les utilisateurs - Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-en-panne-perturbations-majeures-pour-les-utilisateurs",
+      "url": "https://www.briefia.fr/article/chatgpt-en-panne-perturbations-majeures-pour-les-utilisateurs",
+      "publishedAt": "2026-07-07T14:07:45.000Z",
+      "date": "2026-07-07T14:07:45.000Z",
+      "description": "ChatGPT rencontre des problèmes d'accessibilité depuis le 7 juillet, affectant de nombreux... cybersécurité, malgré des tensions initiales. Brief IA:...",
+      "excerpt": "ChatGPT rencontre des problèmes d'accessibilité depuis le 7 juillet, affectant de nombreux... cybersécurité, malgré des tensions initiales. Brief IA:...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI propose une participation de 5 % au gouvernement américain - Lepetitjournal.com",
+      "link": "https://lepetitjournal.com/new-york/actualite/openai-propose-participation-5-gouvernement-americain-448171",
+      "url": "https://lepetitjournal.com/new-york/actualite/openai-propose-participation-5-gouvernement-americain-448171",
+      "publishedAt": "2026-07-07T14:04:22.000Z",
+      "date": "2026-07-07T14:04:22.000Z",
+      "description": "Et si l'État américain devenait actionnaire d'OpenAI? Selon le Financial Times, l'entreprise à l'origine de ChatGPT aurait proposé au...",
+      "excerpt": "Et si l'État américain devenait actionnaire d'OpenAI? Selon le Financial Times, l'entreprise à l'origine de ChatGPT aurait proposé au...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "L'utilisation des IA et la protection des données préoccupent les commerçants et artisans",
       "link": "https://www.pressreader.com/france/l-eveil-de-pont-audemer/20260707/281732686227765",
@@ -98,36 +128,6 @@
       "description": "ChatGPT Atlas - Contrôles des données et confidentialité · ChatGPT Atlas - Notes de version · ChatGPT Atlas pour Enterprise · Configurer le navigateur...",
       "excerpt": "ChatGPT Atlas - Contrôles des données et confidentialité · ChatGPT Atlas - Notes de version · ChatGPT Atlas pour Enterprise · Configurer le navigateur...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Whatever you do, don't ask ChatGPT this question - YouTube",
-      "link": "https://www.youtube.com/watch?v=8Sc3jYyz9F0",
-      "url": "https://www.youtube.com/watch?v=8Sc3jYyz9F0",
-      "publishedAt": "2026-07-05T03:10:21.000Z",
-      "date": "2026-07-05T03:10:21.000Z",
-      "description": "Whatever you do, don't ask ChatGPT this question. @yomidenzel_nx... Senator John Kennedy Makes Earth Shaking Announcement - No One Saw Coming.",
-      "excerpt": "Whatever you do, don't ask ChatGPT this question. @yomidenzel_nx... Senator John Kennedy Makes Earth Shaking Announcement - No One Saw Coming.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Nobody has seen this movie - Every Steven Spielberg movie (13/37) - YouTube",
-      "link": "https://www.youtube.com/watch?v=9-Dw48xTKYA",
-      "url": "https://www.youtube.com/watch?v=9-Dw48xTKYA",
-      "publishedAt": "2026-07-04T19:17:32.000Z",
-      "date": "2026-07-04T19:17:32.000Z",
-      "description": "... release of his latest film, \"Disclosure.\" And today, we're... You'll stop using ChatGPT after listening to this | Jonathan Pageau [ARC 2026].",
-      "excerpt": "... release of his latest film, \"Disclosure.\" And today, we're... You'll stop using ChatGPT after listening to this | Jonathan Pageau [ARC 2026].",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Chatbots IA piratés 2026: comparatif ChatGPT vs Claude vs Gemini vs Meta",
-      "link": "https://alexitauzin.com/chatbots-ia-pirates-2026-comparatif-chatgpt-claude-gemini-meta/",
-      "url": "https://alexitauzin.com/chatbots-ia-pirates-2026-comparatif-chatgpt-claude-gemini-meta/",
-      "publishedAt": "2026-07-04T18:57:24.000Z",
-      "date": "2026-07-04T18:57:24.000Z",
-      "description": "ChatGPT a fêté ses 3 ans en novembre 2025, et il est désormais... Comme nous l'avons documenté dans notre panorama cybersécurité IA 2026...",
-      "excerpt": "ChatGPT a fêté ses 3 ans en novembre 2025, et il est désormais... Comme nous l'avons documenté dans notre panorama cybersécurité IA 2026...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
