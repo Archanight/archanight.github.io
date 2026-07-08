@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T19:41:54.539Z",
+  "generatedAt": "2026-07-08T01:48:37.618Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT et Codex: révolution chez Australian Payments Plus - Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-et-codex-revolution-chez-australian-payments-plus",
+      "url": "https://www.briefia.fr/article/chatgpt-et-codex-revolution-chez-australian-payments-plus",
+      "publishedAt": "2026-07-07T20:12:31.000Z",
+      "date": "2026-07-07T20:12:31.000Z",
+      "description": "... ChatGPT, et 80% constatent une amélioration de la créativité... cybersécurité et de la résilience. Dans ce contexte, la rapidité est...",
+      "excerpt": "... ChatGPT, et 80% constatent une amélioration de la créativité... cybersécurité et de la résilience. Dans ce contexte, la rapidité est...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Reddit utilise l'IA pour traquer les faux avis et le GEO - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/375052/faux-avis-reddit-ia-manipulation/",
+      "url": "https://www.blog-nouvelles-technologies.fr/375052/faux-avis-reddit-ia-manipulation/",
+      "publishedAt": "2026-07-07T19:52:04.000Z",
+      "date": "2026-07-07T19:52:04.000Z",
+      "description": "Accueil » Reddit déclare la guerre aux faux avis générés par l'IA: les marques tentaient de manipuler ChatGPT.",
+      "excerpt": "Accueil » Reddit déclare la guerre aux faux avis générés par l'IA: les marques tentaient de manipuler ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT et Claude créent un « piège de la fluidité », selon une étude sur l'écriture assistée par IA",
+      "link": "https://www.blog-nouvelles-technologies.fr/372754/ecriture-ia-piege-fluidite-chatgpt/",
+      "url": "https://www.blog-nouvelles-technologies.fr/372754/ecriture-ia-piege-fluidite-chatgpt/",
+      "publishedAt": "2026-07-07T18:52:14.000Z",
+      "date": "2026-07-07T18:52:14.000Z",
+      "description": "Les outils d'écriture assistée par l'intelligence artificielle comme ChatGPT ⁠ ou Claude⁠ promettent de gagner du temps, d'améliorer le style et de...",
+      "excerpt": "Les outils d'écriture assistée par l'intelligence artificielle comme ChatGPT ⁠ ou Claude⁠ promettent de gagner du temps, d'améliorer le style et de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Un ado arrêté pour une cyberattaque contre un service de streaming d'anime - GNT",
+      "link": "https://www.generation-nt.com/actualites/cyberattaque-streaming-anime-adolescent-bandai-channel-2078230",
+      "url": "https://www.generation-nt.com/actualites/cyberattaque-streaming-anime-adolescent-bandai-channel-2078230",
+      "publishedAt": "2026-07-07T18:07:27.000Z",
+      "date": "2026-07-07T18:07:27.000Z",
+      "description": "À cet effet, il aurait conçu un programme malveillant avec ChatGPT. bandai-channel. La police de Tokyo a procédé à l'arrestation d'...",
+      "excerpt": "À cet effet, il aurait conçu un programme malveillant avec ChatGPT. bandai-channel. La police de Tokyo a procédé à l'arrestation d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "WHY SOME MODS DON'T RELEASE ON CONSOLES? #farmingsimulator25 #fs25 #shorts",
+      "link": "https://www.youtube.com/watch?v=4t9u1zACcZI",
+      "url": "https://www.youtube.com/watch?v=4t9u1zACcZI",
+      "publishedAt": "2026-07-07T17:33:06.000Z",
+      "date": "2026-07-07T17:33:06.000Z",
+      "description": "... qu'on a les licence. 16:22 · Go to channel Fizbee · I Let ChatGPT Run My Farm for 365 Days! | Farming Simulator 25. Fizbee. New. 66K views · 11:02.",
+      "excerpt": "... qu'on a les licence. 16:22 · Go to channel Fizbee · I Let ChatGPT Run My Farm for 365 Days! | Farming Simulator 25. Fizbee. New. 66K views · 11:02.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Reddit veut stopper la manipulation des conversations grâce à l'intelligence artificielle",
       "link": "https://siecledigital.fr/2026/07/06/reddit-veut-stopper-la-manipulation-des-conversations-grace-a-lintelligence-artificielle/",
@@ -78,56 +128,6 @@
       "description": "... ChatGPT Atlas d... Qu'en pensez-vous? Voir aussi. Les navigateurs IA créent d'énormes vulnérabilités en matière de cybersécurité: ChatGPT...",
       "excerpt": "... ChatGPT Atlas d... Qu'en pensez-vous? Voir aussi. Les navigateurs IA créent d'énormes vulnérabilités en matière de cybersécurité: ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "il s'agit d'un recul significatif en matière de sécurité sur le Web - Intelligence artificielle",
-      "link": "https://intelligence-artificielle.developpez.com/actu/384806/De-nouvelles-vulnerabilites-apportent-une-raison-supplementaire-pour-laquelle-les-navigateurs-bases-sur-l-IA-sont-une-mauvaise-idee-il-s-agit-d-un-recul-significatif-en-matiere-de-securite-sur-le-Web/",
-      "url": "https://intelligence-artificielle.developpez.com/actu/384806/De-nouvelles-vulnerabilites-apportent-une-raison-supplementaire-pour-laquelle-les-navigateurs-bases-sur-l-IA-sont-une-mauvaise-idee-il-s-agit-d-un-recul-significatif-en-matiere-de-securite-sur-le-Web/",
-      "publishedAt": "2026-07-06T10:53:07.000Z",
-      "date": "2026-07-06T10:53:07.000Z",
-      "description": "Qu'en pensez-vous? Voir aussi. Les navigateurs IA créent d'énormes vulnérabilités en matière de cybersécurité: ChatGPT Atlas, Comet de Perplexity...",
-      "excerpt": "Qu'en pensez-vous? Voir aussi. Les navigateurs IA créent d'énormes vulnérabilités en matière de cybersécurité: ChatGPT Atlas, Comet de Perplexity...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ilia Gruev posts rehab update after meniscus injury cut short his season - OneFootball",
-      "link": "https://onefootball.com/fr/news/ilia-gruev-posts-rehab-update-after-meniscus-injury-cut-short-his-season-43103282",
-      "url": "https://onefootball.com/fr/news/ilia-gruev-posts-rehab-update-after-meniscus-injury-cut-short-his-season-43103282",
-      "publishedAt": "2026-07-06T10:50:46.000Z",
-      "date": "2026-07-06T10:50:46.000Z",
-      "description": "Leeds United midfielder Ilia Gruev has shared a recovery update as he continues his comeback from a meniscus knee injury.... ChatGPT predicts 2026-27...",
-      "excerpt": "Leeds United midfielder Ilia Gruev has shared a recovery update as he continues his comeback from a meniscus knee injury.... ChatGPT predicts 2026-27...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Kaspersky recense 33 300 attaques par de faux outils d'IA contre les PME, cinq fois plus qu'en 2025",
-      "link": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/kaspersky-recense-33-300-attaques-par-de-faux-outils-dia-contre-les-pme-cinq-fois-plus-quen-2025/",
-      "url": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/kaspersky-recense-33-300-attaques-par-de-faux-outils-dia-contre-les-pme-cinq-fois-plus-quen-2025/",
-      "publishedAt": "2026-07-06T06:21:49.000Z",
-      "date": "2026-07-06T06:21:49.000Z",
-      "description": "Cybersécurité Cybersécurité - Actualités Kaspersky recense 33 300... Sur les quatre premiers mois de l'année, ChatGPT a servi d'appât dans...",
-      "excerpt": "Cybersécurité Cybersécurité - Actualités Kaspersky recense 33 300... Sur les quatre premiers mois de l'année, ChatGPT a servi d'appât dans...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Meta aurait créé de faux ados pour tester des chatbots d'IA: ce que révèle une enquête",
-      "link": "https://www.lebigdata.fr/meta-aurait-cree-de-faux-ados-pour-tester-des-chatbots-dia-ce-que-revele-une-enquete",
-      "url": "https://www.lebigdata.fr/meta-aurait-cree-de-faux-ados-pour-tester-des-chatbots-dia-ce-que-revele-une-enquete",
-      "publishedAt": "2026-07-06T05:07:44.000Z",
-      "date": "2026-07-06T05:07:44.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Ces tests semblent pourtant enfreindre les règles de ChatGPT, Gemini et Character.AI, qui interdisent ce...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité... Ces tests semblent pourtant enfreindre les règles de ChatGPT, Gemini et Character.AI, qui interdisent ce...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Atlas - OpenAI Help Center",
-      "link": "https://help-lb.openai.com/fr-fr/collections/16051538-chatgpt-atlas",
-      "url": "https://help-lb.openai.com/fr-fr/collections/16051538-chatgpt-atlas",
-      "publishedAt": "2026-07-06T03:33:50.000Z",
-      "date": "2026-07-06T03:33:50.000Z",
-      "description": "ChatGPT Atlas - Contrôles des données et confidentialité · ChatGPT Atlas - Notes de version · ChatGPT Atlas pour Enterprise · Configurer le navigateur...",
-      "excerpt": "ChatGPT Atlas - Contrôles des données et confidentialité · ChatGPT Atlas - Notes de version · ChatGPT Atlas pour Enterprise · Configurer le navigateur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
