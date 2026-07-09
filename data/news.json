@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T02:01:06.480Z",
+  "generatedAt": "2026-07-09T09:21:16.532Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-Live: le nouveau modèle vocal d'OpenAI pour ChatGPT, disponibilité et nouveautés - Clubic",
+      "link": "https://www.clubic.com/actualite-620581-gpt-live-la-nouvelle-experience-vocale-d-openai-qui-va-transformer-vos-conversations-avec-l-ia.html",
+      "url": "https://www.clubic.com/actualite-620581-gpt-live-la-nouvelle-experience-vocale-d-openai-qui-va-transformer-vos-conversations-avec-l-ia.html",
+      "publishedAt": "2026-07-09T08:41:11.000Z",
+      "date": "2026-07-09T08:41:11.000Z",
+      "description": "Cette architecture inédite alimente désormais ChatGPT Voice, avec des échanges nettement plus naturels et fluides... Top Cybersécurité. Meilleur VPN...",
+      "excerpt": "Cette architecture inédite alimente désormais ChatGPT Voice, avec des échanges nettement plus naturels et fluides... Top Cybersécurité. Meilleur VPN...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "10 livres blancs à lire cet été: IA, e-commerce, social media, vidéo, cybersécurité … - BDM",
+      "link": "https://www.blogdumoderateur.com/livres-blancs-ete-2026/",
+      "url": "https://www.blogdumoderateur.com/livres-blancs-ete-2026/",
+      "publishedAt": "2026-07-09T06:35:28.000Z",
+      "date": "2026-07-09T06:35:28.000Z",
+      "description": "10 livres blancs à lire cet été: IA, e-commerce, social media, vidéo, cybersécurité …... ChatGPT, Perplexity, Claude ou Gemini. Le guide détaille le...",
+      "excerpt": "10 livres blancs à lire cet été: IA, e-commerce, social media, vidéo, cybersécurité …... ChatGPT, Perplexity, Claude ou Gemini. Le guide détaille le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Voice évolue avec GPT-Live-1 et GPT-Live-1 mini: tout ce qu'il faut savoir",
+      "link": "https://www.lebigdata.fr/chatgpt-voice-evolue-avec-gpt-live-1-et-gpt-live-1-mini-tout-ce-quil-faut-savoir",
+      "url": "https://www.lebigdata.fr/chatgpt-voice-evolue-avec-gpt-live-1-et-gpt-live-1-mini-tout-ce-quil-faut-savoir",
+      "publishedAt": "2026-07-09T02:28:43.000Z",
+      "date": "2026-07-09T02:28:43.000Z",
+      "description": "ChatGPT Voice évolue avec GPT-Live-1 et GPT-Live-1 mini... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
+      "excerpt": "ChatGPT Voice évolue avec GPT-Live-1 et GPT-Live-1 mini... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI obtient l'approbation pour publier GPT-5.6 à l'échelle mondiale le 9 juillet",
+      "link": "https://fr.dataconomy.com/2026/07/08/openai-obtient-lapprobation-pour-publier-gpt-5-6-a-lechelle-mondiale-le-9-juillet/",
+      "url": "https://fr.dataconomy.com/2026/07/08/openai-obtient-lapprobation-pour-publier-gpt-5-6-a-lechelle-mondiale-le-9-juillet/",
+      "publishedAt": "2026-07-09T01:03:43.000Z",
+      "date": "2026-07-09T01:03:43.000Z",
+      "description": "Le président Trump a signé début juin une ordonnance sur la cybersécurité... Gartner: les clients préfèrent ChatGPT aux chatbots d'entreprise...",
+      "excerpt": "Le président Trump a signé début juin une ordonnance sur la cybersécurité... Gartner: les clients préfèrent ChatGPT aux chatbots d'entreprise...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI s'apprête à lancer son modèle GPT-5.6 avec le feu vert de l'administration Trump",
       "link": "https://www.agefi.fr/news/entreprises/openai-sapprete-a-lancer-son-modele-gpt-5-6-avec-le-feu-vert-de-ladministration-trump",
@@ -87,46 +127,6 @@
       "date": "2026-07-08T18:17:34.000Z",
       "description": "... cybersécurité et sa réduction des erreurs factuelles. • Le gouvernement... ChatGPT révolutionne la voix: écoute et parle simultanément.",
       "excerpt": "... cybersécurité et sa réduction des erreurs factuelles. • Le gouvernement... ChatGPT révolutionne la voix: écoute et parle simultanément.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: OpenAI révolutionne le mode vocal avec GPT-Live-1 | Brief IA",
-      "link": "https://www.briefia.fr/article/chatgpt-openai-revolutionne-le-mode-vocal-avec-gpt-live-1",
-      "url": "https://www.briefia.fr/article/chatgpt-openai-revolutionne-le-mode-vocal-avec-gpt-live-1",
-      "publishedAt": "2026-07-08T18:13:32.000Z",
-      "date": "2026-07-08T18:13:32.000Z",
-      "description": "OpenAI lance GPT-Live-1, un modèle vocal conçu pour une interaction plus fluide avec ChatGPT. • Le modèle réduit les interruptions et attend que...",
-      "excerpt": "OpenAI lance GPT-Live-1, un modèle vocal conçu pour une interaction plus fluide avec ChatGPT. • Le modèle réduit les interruptions et attend que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6 arrive au public après le feu vert obtenu à Washington - Servicesmobiles.fr",
-      "link": "https://www.servicesmobiles.fr/gpt-5-6-arrive-au-public-apres-le-feu-vert-obtenu-a-washington-113053",
-      "url": "https://www.servicesmobiles.fr/gpt-5-6-arrive-au-public-apres-le-feu-vert-obtenu-a-washington-113053",
-      "publishedAt": "2026-07-08T18:02:32.000Z",
-      "date": "2026-07-08T18:02:32.000Z",
-      "description": "Pourquoi OpenAI a dû temporiser. Début juin, le président Trump a signé un ordre sur la cybersécurité de l'IA. Le texte demande aux entreprises de...",
-      "excerpt": "Pourquoi OpenAI a dû temporiser. Début juin, le président Trump a signé un ordre sur la cybersécurité de l'IA. Le texte demande aux entreprises de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La mise à jour de ChatGPT qu'on attendait tous: l'IA parle désormais comme un être humain...",
-      "link": "https://www.01net.com/actualites/mise-jour-chatgpt-attendait-ia-parle-desormais-comme-humain-bluffant.html",
-      "url": "https://www.01net.com/actualites/mise-jour-chatgpt-attendait-ia-parle-desormais-comme-humain-bluffant.html",
-      "publishedAt": "2026-07-08T17:01:11.000Z",
-      "date": "2026-07-08T17:01:11.000Z",
-      "description": "OpenAI dévoile GPT-Live-1 et GPT-Live-1 mini, deux nouveaux modèles destinés à améliorer les échanges vocaux avec ChatGPT... Cybersécurité · Société...",
-      "excerpt": "OpenAI dévoile GPT-Live-1 et GPT-Live-1 mini, deux nouveaux modèles destinés à améliorer les échanges vocaux avec ChatGPT... Cybersécurité · Société...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lancera GPT-5.6 après avoir reçu l'approbation des États-Unis. - Vietnam.vn",
-      "link": "https://www.vietnam.vn/fr/openai-se-ra-mat-gpt-5-6-sau-khi-duoc-my-chap-thuan",
-      "url": "https://www.vietnam.vn/fr/openai-se-ra-mat-gpt-5-6-sau-khi-duoc-my-chap-thuan",
-      "publishedAt": "2026-07-08T16:13:27.000Z",
-      "date": "2026-07-08T16:13:27.000Z",
-      "description": "Logo OpenAI hiển thị trên điện thoại trước màn hình ChatGPT ở Boston, Mỹ,... cybersécurité. Plusieurs autres entreprises d'IA font également l...",
-      "excerpt": "Logo OpenAI hiển thị trên điện thoại trước màn hình ChatGPT ở Boston, Mỹ,... cybersécurité. Plusieurs autres entreprises d'IA font également l...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
