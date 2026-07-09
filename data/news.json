@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T19:08:00.919Z",
+  "generatedAt": "2026-07-09T02:01:06.480Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI s'apprête à lancer son modèle GPT-5.6 avec le feu vert de l'administration Trump",
+      "link": "https://www.agefi.fr/news/entreprises/openai-sapprete-a-lancer-son-modele-gpt-5-6-avec-le-feu-vert-de-ladministration-trump",
+      "url": "https://www.agefi.fr/news/entreprises/openai-sapprete-a-lancer-son-modele-gpt-5-6-avec-le-feu-vert-de-ladministration-trump",
+      "publishedAt": "2026-07-08T23:42:23.000Z",
+      "date": "2026-07-08T23:42:23.000Z",
+      "description": "L'éditeur de ChatGPT doit lancer son nouveau modèle d'IA public jeudi 9 juillet... cybersécurité, lors de la présentation préliminaire de ces modèles...",
+      "excerpt": "L'éditeur de ChatGPT doit lancer son nouveau modèle d'IA public jeudi 9 juillet... cybersécurité, lors de la présentation préliminaire de ces modèles...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT peut désormais être interrompu en pleine phrase — et parler plus lentement",
+      "link": "https://gagadget.com/fr/717820-chatgpt-peut-desormais-etre-interrompu-en-pleine-phrase-et-parler-plus-lentement/",
+      "url": "https://gagadget.com/fr/717820-chatgpt-peut-desormais-etre-interrompu-en-pleine-phrase-et-parler-plus-lentement/",
+      "publishedAt": "2026-07-08T22:24:44.000Z",
+      "date": "2026-07-08T22:24:44.000Z",
+      "description": "OpenAI a lancé GPT-Live-1 et GPT-Live-1 mini le 8 juillet 2026, sur iOS, Android et ChatGPT.com. La nouveauté centrale: une architecture en...",
+      "excerpt": "OpenAI a lancé GPT-Live-1 et GPT-Live-1 mini le 8 juillet 2026, sur iOS, Android et ChatGPT.com. La nouveauté centrale: une architecture en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "General Intuition: la robotique prête pour sa révolution à la ChatGPT | Brief IA",
+      "link": "https://www.briefia.fr/article/general-intuition-la-robotique-prete-pour-sa-revolution-a-la-chatgpt",
+      "url": "https://www.briefia.fr/article/general-intuition-la-robotique-prete-pour-sa-revolution-a-la-chatgpt",
+      "publishedAt": "2026-07-08T22:07:33.000Z",
+      "date": "2026-07-08T22:07:33.000Z",
+      "description": "ChatGPT révolutionne la voix: écoute et parle simultanément... Sol se distingue par ses capacités avancées en cybersécurité et sa réduction des...",
+      "excerpt": "ChatGPT révolutionne la voix: écoute et parle simultanément... Sol se distingue par ses capacités avancées en cybersécurité et sa réduction des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Voix - OpenAI Help Center",
+      "link": "https://help.openai.com/fr-fr/articles/20001274-chatgpt-voice",
+      "url": "https://help.openai.com/fr-fr/articles/20001274-chatgpt-voice",
+      "publishedAt": "2026-07-08T20:36:50.000Z",
+      "date": "2026-07-08T20:36:50.000Z",
+      "description": "ChatGPT — Notes de version. Journal des dernières mises à jour et notes de version de ChatGPT · Utiliser ChatGPT dans CarPlay. Cet article vous a-t-il...",
+      "excerpt": "ChatGPT — Notes de version. Journal des dernières mises à jour et notes de version de ChatGPT · Utiliser ChatGPT dans CarPlay. Cet article vous a-t-il...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "GPT-5,6 | OpenAI va rendre public son nouveau modèle d'IA - LaPresse.ca",
+      "link": "https://www.lapresse.ca/affaires/entreprises/2026-07-08/gpt-5-6/openai-va-rendre-public-son-nouveau-modele-d-ia.php",
+      "url": "https://www.lapresse.ca/affaires/entreprises/2026-07-08/gpt-5-6/openai-va-rendre-public-son-nouveau-modele-d-ia.php",
+      "publishedAt": "2026-07-08T19:11:43.000Z",
+      "date": "2026-07-08T19:11:43.000Z",
+      "description": "Les multiples rebondissements qu'ont connu Mythos et GPT-5,6 témoignent de tiraillements au sein du gouvernement Trump entre opposants à toute forme...",
+      "excerpt": "Les multiples rebondissements qu'ont connu Mythos et GPT-5,6 témoignent de tiraillements au sein du gouvernement Trump entre opposants à toute forme...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "GPT-5.6 arrive dans ChatGPT: ce qui change vraiment avec Sol, Terra et Luna - GDL T&C",
+      "link": "https://www.gdltc.fr/2026/07/08/gpt-5-6-arrive-dans-chatgpt-ce-qui-change-vraiment-avec-sol-terra-et-luna/",
+      "url": "https://www.gdltc.fr/2026/07/08/gpt-5-6-arrive-dans-chatgpt-ce-qui-change-vraiment-avec-sol-terra-et-luna/",
+      "publishedAt": "2026-07-08T18:36:03.000Z",
+      "date": "2026-07-08T18:36:03.000Z",
+      "description": "... cybersécurité. GPT-5.6 Terra représente une version intermédiaire, conçue pour offrir... Tags: # chatgpt, # Cybersécurité, #GPT56, #Innovation...",
+      "excerpt": "... cybersécurité. GPT-5.6 Terra représente une version intermédiaire, conçue pour offrir... Tags: # chatgpt, # Cybersécurité, #GPT56, #Innovation...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT révolutionne la voix: écoute et parle simultanément - Brief IA",
       "link": "https://www.briefia.fr/article/chatgpt-revolutionne-la-voix-ecoute-et-parle-simultanement",
@@ -67,66 +127,6 @@
       "date": "2026-07-08T16:13:27.000Z",
       "description": "Logo OpenAI hiển thị trên điện thoại trước màn hình ChatGPT ở Boston, Mỹ,... cybersécurité. Plusieurs autres entreprises d'IA font également l...",
       "excerpt": "Logo OpenAI hiển thị trên điện thoại trước màn hình ChatGPT ở Boston, Mỹ,... cybersécurité. Plusieurs autres entreprises d'IA font également l...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA d'entreprise: OpenAI s'offre une armée d'ingénieurs pour imposer GPT-5.6 - Clubic",
-      "link": "https://www.clubic.com/actualite-620527-ia-d-entreprise-openai-s-offre-une-armee-d-ingenieurs-pour-imposer-gpt-5-6.html",
-      "url": "https://www.clubic.com/actualite-620527-ia-d-entreprise-openai-s-offre-une-armee-d-ingenieurs-pour-imposer-gpt-5-6.html",
-      "publishedAt": "2026-07-08T16:04:20.000Z",
-      "date": "2026-07-08T16:04:20.000Z",
-      "description": "Northslope ne développe pas un concurrent de ChatGPT. La jeune société... GPT-5 en approche. 2 commentaires. Actualités · Vidéos.",
-      "excerpt": "Northslope ne développe pas un concurrent de ChatGPT. La jeune société... GPT-5 en approche. 2 commentaires. Actualités · Vidéos.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6: Washington lève enfin le feu rouge, OpenAI ouvre grand ses portes jeudi",
-      "link": "https://www.solutions-numeriques.com/gpt-5-6-washington-leve-enfin-le-feu-rouge-openai-ouvre-grand-ses-portes-jeudi/",
-      "url": "https://www.solutions-numeriques.com/gpt-5-6-washington-leve-enfin-le-feu-rouge-openai-ouvre-grand-ses-portes-jeudi/",
-      "publishedAt": "2026-07-08T15:26:00.000Z",
-      "date": "2026-07-08T15:26:00.000Z",
-      "description": "Cette mise sous cloche découlait de l'executive order sur la cybersécurité signé début juin, qui pousse les laboratoires à soumettre...",
-      "excerpt": "Cette mise sous cloche découlait de l'executive order sur la cybersécurité signé début juin, qui pousse les laboratoires à soumettre...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI s'apprête à lancer son modèle GPT le plus performant après un déploiement retardé",
-      "link": "https://www.zonebourse.com/actualite-bourse/openai-obtient-le-feu-vert-des-etats-unis-pour-le-deploiement-massif-de-gpt-5-6-selon-axios-ce7f5ed8df81f020",
-      "url": "https://www.zonebourse.com/actualite-bourse/openai-obtient-le-feu-vert-des-etats-unis-pour-le-deploiement-massif-de-gpt-5-6-selon-axios-ce7f5ed8df81f020",
-      "publishedAt": "2026-07-08T15:22:00.000Z",
-      "date": "2026-07-08T15:22:00.000Z",
-      "description": "Le propriétaire de ChatGPT... OpenAI a mis en avant des capacités d'agentivité améliorées en programmation, en biologie et en cybersécurité lors de la...",
-      "excerpt": "Le propriétaire de ChatGPT... OpenAI a mis en avant des capacités d'agentivité améliorées en programmation, en biologie et en cybersécurité lors de la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les mots de passe générés par l'IA sont plus faciles à pirater qu'on ne le pense, alertent des...",
-      "link": "https://www.science-et-vie.com/technos-et-futur/les-mots-de-passe-generes-par-lia-sont-plus-faciles-a-pirater-quon-ne-le-pense-alertent-des-chercheurs-198327.html",
-      "url": "https://www.science-et-vie.com/technos-et-futur/les-mots-de-passe-generes-par-lia-sont-plus-faciles-a-pirater-quon-ne-le-pense-alertent-des-chercheurs-198327.html",
-      "publishedAt": "2026-07-08T15:02:55.000Z",
-      "date": "2026-07-08T15:02:55.000Z",
-      "description": "ChatGPT évite cette erreur, mais tombe dans un autre piège. Malgré l... cybersécurité. Les gestionnaires de mots de passe modernes intègrent...",
-      "excerpt": "ChatGPT évite cette erreur, mais tombe dans un autre piège. Malgré l... cybersécurité. Les gestionnaires de mots de passe modernes intègrent...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI a lancé ChatGPT 5.6 pour certains… ce qui arrive demain arrive-t-il pour tout le monde",
-      "link": "https://fr.softonic.com/articles/openai-a-lance-chatgpt-5-6-pour-certains-ce-qui-arrive-demain-arrive-t-il-pour-tout-le-monde",
-      "url": "https://fr.softonic.com/articles/openai-a-lance-chatgpt-5-6-pour-certains-ce-qui-arrive-demain-arrive-t-il-pour-tout-le-monde",
-      "publishedAt": "2026-07-08T14:15:16.000Z",
-      "date": "2026-07-08T14:15:16.000Z",
-      "description": "... cybersécurité. Terra nous offre le meilleur équilibre entre performances et coût, tandis que Luna se distingue par sa rapidité. GPT-5.6 Sol, ainsi...",
-      "excerpt": "... cybersécurité. Terra nous offre le meilleur équilibre entre performances et coût, tandis que Luna se distingue par sa rapidité. GPT-5.6 Sol, ainsi...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI et Elon Musk: Duel de Titans de l'IA avec GPT-5.6 et Grok | Brief IA",
-      "link": "https://www.briefia.fr/article/openai-et-elon-musk-duel-de-titans-de-l-ia-avec-gpt-5-6-et-grok",
-      "url": "https://www.briefia.fr/article/openai-et-elon-musk-duel-de-titans-de-l-ia-avec-gpt-5-6-et-grok",
-      "publishedAt": "2026-07-08T14:12:46.000Z",
-      "date": "2026-07-08T14:12:46.000Z",
-      "description": "... cybersécurité. Pourquoi c'est important: La concurrence entre... Utilisant d'abord ChatGPT puis Claude, elle a développé une solution...",
-      "excerpt": "... cybersécurité. Pourquoi c'est important: La concurrence entre... Utilisant d'abord ChatGPT puis Claude, elle a développé une solution...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
