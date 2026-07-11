@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T19:15:47.043Z",
+  "generatedAt": "2026-07-11T01:47:25.589Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI lance « ChatGPT Work » pour vous faire gagner du temps dans votre travail",
+      "link": "https://www.presse-citron.net/openai-lance-chatgpt-work-pour-vous-faire-gagner-du-temps-dans-votre-travail/",
+      "url": "https://www.presse-citron.net/openai-lance-chatgpt-work-pour-vous-faire-gagner-du-temps-dans-votre-travail/",
+      "publishedAt": "2026-07-10T20:23:18.000Z",
+      "date": "2026-07-10T20:23:18.000Z",
+      "description": "OpenAI vient de lancer ChatGPT Work, un nouvel outil qui s'appuie sur ses modèles GPT-5.6 pour automatiser les tâches administratives.",
+      "excerpt": "OpenAI vient de lancer ChatGPT Work, un nouvel outil qui s'appuie sur ses modèles GPT-5.6 pour automatiser les tâches administratives.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Le nouveau ChatGPT est presque aussi puissant que Claude Fable 5 et il est enfin disponible",
+      "link": "https://www.journaldugeek.com/2026/07/10/le-nouveau-chatgpt-est-presque-aussi-puissant-que-claude-fable-5-et-il-est-enfin-disponible/",
+      "url": "https://www.journaldugeek.com/2026/07/10/le-nouveau-chatgpt-est-presque-aussi-puissant-que-claude-fable-5-et-il-est-enfin-disponible/",
+      "publishedAt": "2026-07-10T19:46:37.000Z",
+      "date": "2026-07-10T19:46:37.000Z",
+      "description": "Celui-ci met également à jour ChatGPT pour intégrer ChatGPT Work... We supported @OpenAI with pre- release evaluation of GPT-5.6 Sol, Terra, and…",
+      "excerpt": "Celui-ci met également à jour ChatGPT pour intégrer ChatGPT Work... We supported @OpenAI with pre- release evaluation of GPT-5.6 Sol, Terra, and…",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "GPT-5.6 et ChatGPT Travail: OpenAI dégaine l'artillerie lourde contre Anthropic - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/gpt-5-6-et-chatgpt-travail-openai-degaine-lartillerie-lourde-contre-anthropic-498537.htm",
+      "url": "https://www.zdnet.fr/actualites/gpt-5-6-et-chatgpt-travail-openai-degaine-lartillerie-lourde-contre-anthropic-498537.htm",
+      "publishedAt": "2026-07-10T19:35:37.000Z",
+      "date": "2026-07-10T19:35:37.000Z",
+      "description": "OpenAI dévoile GPT-5.6 (Sol, Terra, Luna) et ChatGPT Travail, son concurrent direct de Claude Cowork. Benchmarks à l'appui, la firme affirme...",
+      "excerpt": "OpenAI dévoile GPT-5.6 (Sol, Terra, Luna) et ChatGPT Travail, son concurrent direct de Claude Cowork. Benchmarks à l'appui, la firme affirme...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "ChatGPT 5.6 retardé, Mythos interdit en Europe... Qu'est-ce qui est si dangereux dans... - Le Figaro",
       "link": "https://www.lefigaro.fr/secteur/high-tech/chatgpt-5-6-retarde-mythos-interdit-en-europe-qu-est-ce-qui-est-si-dangereux-dans-le-deploiement-des-nouveaux-modeles-d-ia-20260710",
@@ -20,6 +50,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Avec ChatGPT Travail, OpenAI cible les processus métiers | ICTjournal",
+      "link": "https://www.ictjournal.ch/news/2026-07-10/avec-chatgpt-travail-openai-cible-les-processus-metiers",
+      "url": "https://www.ictjournal.ch/news/2026-07-10/avec-chatgpt-travail-openai-cible-les-processus-metiers",
+      "publishedAt": "2026-07-10T16:17:48.000Z",
+      "date": "2026-07-10T16:17:48.000Z",
+      "description": "OpenAI renforce les fonctions professionnelles de ChatGPT avec une offre destinée à transformer notes, fichiers et.",
+      "excerpt": "OpenAI renforce les fonctions professionnelles de ChatGPT avec une offre destinée à transformer notes, fichiers et.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "GPT-5.6, GPT-Live, ChatGPT Work: En 48 heures, OpenAI transforme ChatGPT... - L'Usine Digitale",
       "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/gpt-56-gpt-live-chatgpt-work-en-48-heures-openai-transforme-chatgpt-en-systeme-dexploitation-du-travail.PU5IORGXPJGI5KIA3BGR6NCVBM.html",
       "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/gpt-56-gpt-live-chatgpt-work-en-48-heures-openai-transforme-chatgpt-en-systeme-dexploitation-du-travail.PU5IORGXPJGI5KIA3BGR6NCVBM.html",
@@ -28,6 +68,16 @@
       "description": "GPT-5.6 améliore les performances sur le code, le raisonnement, la cybersécurité, la science et les tâches de connaissance. ChatGPT: une couche de...",
       "excerpt": "GPT-5.6 améliore les performances sur le code, le raisonnement, la cybersécurité, la science et les tâches de connaissance. ChatGPT: une couche de...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance GPT-5.6 et ChatGPT Work, mais abandonne le navigateur Atlas - Menow",
+      "link": "https://www.menow.fr/openai-lance-gpt-5-6-et-chatgpt-work-mais-abandonne-le-navigateur-atlas/",
+      "url": "https://www.menow.fr/openai-lance-gpt-5-6-et-chatgpt-work-mais-abandonne-le-navigateur-atlas/",
+      "publishedAt": "2026-07-10T15:23:02.000Z",
+      "date": "2026-07-10T15:23:02.000Z",
+      "description": "L'outil peut transformer une demande en flux de travail en plusieurs étapes, tandis que les modèles Sol, Terra et Luna arrivent dans ChatGPT, Codex et...",
+      "excerpt": "L'outil peut transformer une demande en flux de travail en plusieurs étapes, tandis que les modèles Sol, Terra et Luna arrivent dans ChatGPT, Codex et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Moins d'un an après son lancement, OpenAI annonce l'arrêt d'Atlas, son navigateur web IA... - BFM",
@@ -77,56 +127,6 @@
       "date": "2026-07-10T13:06:18.000Z",
       "description": "Les capacités de Sol en matière de programmation, de biologie et de cybersécurité figuraient parmi les facteurs ayant attiré l'attention des autorités...",
       "excerpt": "Les capacités de Sol en matière de programmation, de biologie et de cybersécurité figuraient parmi les facteurs ayant attiré l'attention des autorités...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile GPT-5.6, sa nouvelle famille de modèles d'IA - Fredzone",
-      "link": "https://www.fredzone.org/openai-devoile-gpt-5-6-sa-nouvelle-famille-de-modeles-dia/",
-      "url": "https://www.fredzone.org/openai-devoile-gpt-5-6-sa-nouvelle-famille-de-modeles-dia/",
-      "publishedAt": "2026-07-10T13:05:12.000Z",
-      "date": "2026-07-10T13:05:12.000Z",
-      "description": "... ChatGPT. Un modèle pensé pour renforcer la cybersécurité. OpenAI qualifie GPT-5.6 de modèle le plus performant jamais conçu en matière de...",
-      "excerpt": "... ChatGPT. Un modèle pensé pour renforcer la cybersécurité. OpenAI qualifie GPT-5.6 de modèle le plus performant jamais conçu en matière de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance la famille GPT-5.6 en trois variantes: Sol, Terra et Luna - Binance",
-      "link": "https://www.binance.com/fr/square/post/342946310091969",
-      "url": "https://www.binance.com/fr/square/post/342946310091969",
-      "publishedAt": "2026-07-10T12:58:43.000Z",
-      "date": "2026-07-10T12:58:43.000Z",
-      "description": "OpenAI présente la version 5.6 comme son modèle de cybersécurité... OpenAI a également lancé ChatGPT Work, un compagnon de travail destiné...",
-      "excerpt": "OpenAI présente la version 5.6 comme son modèle de cybersécurité... OpenAI a également lancé ChatGPT Work, un compagnon de travail destiné...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6 et ChatGPT Work: OpenAI transforme son assistant en agent autonome - Clubic",
-      "link": "https://www.clubic.com/actualite-620761-gpt-5-6-et-chatgpt-work-openai-transforme-son-assistant-en-agent-autonome.html",
-      "url": "https://www.clubic.com/actualite-620761-gpt-5-6-et-chatgpt-work-openai-transforme-son-assistant-en-agent-autonome.html",
-      "publishedAt": "2026-07-10T12:49:48.000Z",
-      "date": "2026-07-10T12:49:48.000Z",
-      "description": "Avec GPT-5.6 et « ChatGPT Work», OpenAI veut faire de ChatGPT un agent... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
-      "excerpt": "Avec GPT-5.6 et « ChatGPT Work», OpenAI veut faire de ChatGPT un agent... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance ChatGPT Work, un agent IA qui va travailler à votre place - 01net.com",
-      "link": "https://www.01net.com/actualites/openai-lance-chatgpt-work-agent-ia-qui-travailler-votre-place.html",
-      "url": "https://www.01net.com/actualites/openai-lance-chatgpt-work-agent-ia-qui-travailler-votre-place.html",
-      "publishedAt": "2026-07-10T12:49:12.000Z",
-      "date": "2026-07-10T12:49:12.000Z",
-      "description": "ChatGPT Work peut également effectuer des tâches répétitives à votre place.... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "excerpt": "ChatGPT Work peut également effectuer des tâches répétitives à votre place.... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6: OpenAI lance Sol, Terra et Luna face à Anthropic - Coin Academy",
-      "link": "https://coinacademy.fr/actu/gpt-5-6-openai-sol-terra-luna-anthropic-ia/",
-      "url": "https://coinacademy.fr/actu/gpt-5-6-openai-sol-terra-luna-anthropic-ia/",
-      "publishedAt": "2026-07-10T12:43:31.000Z",
-      "date": "2026-07-10T12:43:31.000Z",
-      "description": "La famille est disponible sur ChatGPT, Codex et l'API. Le laboratoire présente aussi GPT-5.6 comme son modèle de cybersécurité le plus puissant à ce...",
-      "excerpt": "La famille est disponible sur ChatGPT, Codex et l'API. Le laboratoire présente aussi GPT-5.6 comme son modèle de cybersécurité le plus puissant à ce...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
