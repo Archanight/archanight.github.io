@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T07:40:28.450Z",
+  "generatedAt": "2026-07-11T12:56:21.193Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,16 @@
   "failedSources": [],
   "items": [
     {
+      "title": "ChatGPT Work ou Claude Cowork: lequel choisir pour automatiser son travail en 2026",
+      "link": "https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-intelligence-artificielle-ia/3177573_chatgpt-work-ou-claude-cowork-lequel-choisir-pour-automatiser-son-travail-en-2026",
+      "url": "https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-intelligence-artificielle-ia/3177573_chatgpt-work-ou-claude-cowork-lequel-choisir-pour-automatiser-son-travail-en-2026",
+      "publishedAt": "2026-07-11T07:22:10.000Z",
+      "date": "2026-07-11T07:22:10.000Z",
+      "description": "Anthropic exclut toujours Cowork de son engagement HIPAA et ne consigne pas son activité dans les journaux d'audit SOC 2, même en disponibilité...",
+      "excerpt": "Anthropic exclut toujours Cowork de son engagement HIPAA et ne consigne pas son activité dans les journaux d'audit SOC 2, même en disponibilité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Apple accuse OpenAI de lui avoir volé ses secrets, et l'ombre de Jony Ive plane sur l'affaire",
       "link": "https://www.clubic.com/actualite-620947-apple-accuse-openai-de-lui-avoir-vole-ses-secrets-et-l-ombre-de-jony-ive-plane-sur-l-affaire.html",
       "url": "https://www.clubic.com/actualite-620947-apple-accuse-openai-de-lui-avoir-vole-ses-secrets-et-l-ombre-de-jony-ive-plane-sur-l-affaire.html",
@@ -17,6 +27,16 @@
       "date": "2026-07-11T05:53:46.000Z",
       "description": "Top Cybersécurité... Le contentieux entre Apple et OpenAI, jusqu'ici cantonné à des tensions autour du partenariat Siri- ChatGPT, franchit un cap...",
       "excerpt": "Top Cybersécurité... Le contentieux entre Apple et OpenAI, jusqu'ici cantonné à des tensions autour du partenariat Siri- ChatGPT, franchit un cap...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Discord a banni 8 400 comptes par erreur: un bug révèle les limites de la modération par IA",
+      "link": "https://www.menow.fr/discord-a-banni-8-400-comptes-par-erreur-un-bug-revele-les-limites-de-la-moderation-par-ia/",
+      "url": "https://www.menow.fr/discord-a-banni-8-400-comptes-par-erreur-un-bug-revele-les-limites-de-la-moderation-par-ia/",
+      "publishedAt": "2026-07-11T05:23:46.000Z",
+      "date": "2026-07-11T05:23:46.000Z",
+      "description": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.... ChatGPT Atlas va disparaître: ce...",
+      "excerpt": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.... ChatGPT Atlas va disparaître: ce...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -107,26 +127,6 @@
       "date": "2026-07-10T14:41:40.000Z",
       "description": "Certaines de ses fonctions ont ainsi été intégrées à la nouvelle application de ChatGPT pour ordinateur et l'extension Chrome qui permet désormais d'...",
       "excerpt": "Certaines de ses fonctions ont ainsi été intégrées à la nouvelle application de ChatGPT pour ordinateur et l'extension Chrome qui permet désormais d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI défie Anthropic avec le lancement de GPT-5.6 - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-defie-anthropic-avec-le-lancement-de-gpt-5-6",
-      "url": "https://www.briefia.fr/article/openai-defie-anthropic-avec-le-lancement-de-gpt-5-6",
-      "publishedAt": "2026-07-10T14:13:12.000Z",
-      "date": "2026-07-10T14:13:12.000Z",
-      "description": "... cybersécurité, malgré des restrictions envisagées par l... ChatGPT Work: un nouvel outil pour les entreprises. En parallèle...",
-      "excerpt": "... cybersécurité, malgré des restrictions envisagées par l... ChatGPT Work: un nouvel outil pour les entreprises. En parallèle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI transforme ChatGPT en collègue autonome capable de boucler vos dossiers tout seul",
-      "link": "https://www.phonandroid.com/openai-transforme-chatgpt-en-collegue-autonome-capable-de-boucler-vos-dossiers-tout-seul.html",
-      "url": "https://www.phonandroid.com/openai-transforme-chatgpt-en-collegue-autonome-capable-de-boucler-vos-dossiers-tout-seul.html",
-      "publishedAt": "2026-07-10T14:01:27.000Z",
-      "date": "2026-07-10T14:01:27.000Z",
-      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... La concurrence s'intensifie, et le recul de la domination de ChatGPT...",
-      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... La concurrence s'intensifie, et le recul de la domination de ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
