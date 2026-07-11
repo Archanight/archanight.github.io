@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T01:47:25.589Z",
+  "generatedAt": "2026-07-11T07:40:28.450Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Apple accuse OpenAI de lui avoir volé ses secrets, et l'ombre de Jony Ive plane sur l'affaire",
+      "link": "https://www.clubic.com/actualite-620947-apple-accuse-openai-de-lui-avoir-vole-ses-secrets-et-l-ombre-de-jony-ive-plane-sur-l-affaire.html",
+      "url": "https://www.clubic.com/actualite-620947-apple-accuse-openai-de-lui-avoir-vole-ses-secrets-et-l-ombre-de-jony-ive-plane-sur-l-affaire.html",
+      "publishedAt": "2026-07-11T05:53:46.000Z",
+      "date": "2026-07-11T05:53:46.000Z",
+      "description": "Top Cybersécurité... Le contentieux entre Apple et OpenAI, jusqu'ici cantonné à des tensions autour du partenariat Siri- ChatGPT, franchit un cap...",
+      "excerpt": "Top Cybersécurité... Le contentieux entre Apple et OpenAI, jusqu'ici cantonné à des tensions autour du partenariat Siri- ChatGPT, franchit un cap...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Apple attaque OpenAI en justice pour vol de secrets commerciaux - Gagadget.com",
+      "link": "https://gagadget.com/fr/718042-apple-attaque-openai-en-justice-pour-vol-de-secrets-commerciaux/",
+      "url": "https://gagadget.com/fr/718042-apple-attaque-openai-en-justice-pour-vol-de-secrets-commerciaux/",
+      "publishedAt": "2026-07-11T00:55:45.000Z",
+      "date": "2026-07-11T00:55:45.000Z",
+      "description": "Cybersécurité · Espace et science... Côté partenariat, Apple et OpenAI collaborent toujours sur l'intégration de ChatGPT dans Siri sur iPhone.",
+      "excerpt": "Cybersécurité · Espace et science... Côté partenariat, Apple et OpenAI collaborent toujours sur l'intégration de ChatGPT dans Siri sur iPhone.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI lance « ChatGPT Work » pour vous faire gagner du temps dans votre travail",
       "link": "https://www.presse-citron.net/openai-lance-chatgpt-work-pour-vous-faire-gagner-du-temps-dans-votre-travail/",
@@ -107,26 +127,6 @@
       "date": "2026-07-10T14:01:27.000Z",
       "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... La concurrence s'intensifie, et le recul de la domination de ChatGPT...",
       "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... La concurrence s'intensifie, et le recul de la domination de ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT, Claude, Gemini ou IA privée: où atterrissent vraiment les données de votre entreprise",
-      "link": "https://infos-it.fr/tech/9755/chatgpt-claude-gemini-ou-ia-privee-ou-atterrissent-vraiment-les-donnees-de-votre-entreprise/",
-      "url": "https://infos-it.fr/tech/9755/chatgpt-claude-gemini-ou-ia-privee-ou-atterrissent-vraiment-les-donnees-de-votre-entreprise/",
-      "publishedAt": "2026-07-10T13:34:26.000Z",
-      "date": "2026-07-10T13:34:26.000Z",
-      "description": "ChatGPT, Claude... Intelligence artificielle, green technologie et cybersécurité: les 3 piliers qui vont transformer les entreprises en 2026...",
-      "excerpt": "ChatGPT, Claude... Intelligence artificielle, green technologie et cybersécurité: les 3 piliers qui vont transformer les entreprises en 2026...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI rend GPT-5.6 accessible au grand public après que l'administration Trump eut...",
-      "link": "https://intelligence-artificielle.developpez.com/actu/384982/OpenAI-rend-GPT-5-6-accessible-au-grand-public-apres-que-l-administration-Trump-eut-approuve-sa-diffusion-ce-modele-offre-une-efficacite-en-termes-de-tokens-amelioree-de-54-pourcent-d-apres-Sam-Altman/",
-      "url": "https://intelligence-artificielle.developpez.com/actu/384982/OpenAI-rend-GPT-5-6-accessible-au-grand-public-apres-que-l-administration-Trump-eut-approuve-sa-diffusion-ce-modele-offre-une-efficacite-en-termes-de-tokens-amelioree-de-54-pourcent-d-apres-Sam-Altman/",
-      "publishedAt": "2026-07-10T13:06:18.000Z",
-      "date": "2026-07-10T13:06:18.000Z",
-      "description": "Les capacités de Sol en matière de programmation, de biologie et de cybersécurité figuraient parmi les facteurs ayant attiré l'attention des autorités...",
-      "excerpt": "Les capacités de Sol en matière de programmation, de biologie et de cybersécurité figuraient parmi les facteurs ayant attiré l'attention des autorités...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
