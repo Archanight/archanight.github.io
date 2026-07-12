@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T12:57:11.351Z",
+  "generatedAt": "2026-07-12T18:51:42.472Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT Work - Guide Vibe Coding - Tokenminning - Zero Trust d'Alstom - Grok 4.5 - Iris de Meta",
+      "link": "https://secretsdedata.substack.com/p/chatgpt-work-guide-vibe-coding-tokenminning",
+      "url": "https://secretsdedata.substack.com/p/chatgpt-work-guide-vibe-coding-tokenminning",
+      "publishedAt": "2026-07-12T14:02:13.000Z",
+      "date": "2026-07-12T14:02:13.000Z",
+      "description": "ChatGPT... La pression budgétaire et l'intégration de l'IA redistribuent les cartes de la fidélité client sur le marché de la cybersécurité.",
+      "excerpt": "ChatGPT... La pression budgétaire et l'intégration de l'IA redistribuent les cartes de la fidélité client sur le marché de la cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Faire évoluer Atlas vers ChatGPT pour le travail agentique basé sur le navigateur",
       "link": "https://help.openai.com/fr-ca/articles/20001371-faire-%C3%A9voluer-atlas-vers-chatgpt-pour-le-travail-agentique-bas%C3%A9-sur-le-navigateur",
@@ -117,16 +127,6 @@
       "date": "2026-07-11T05:53:46.000Z",
       "description": "Top Cybersécurité... Le contentieux entre Apple et OpenAI, jusqu'ici cantonné à des tensions autour du partenariat Siri- ChatGPT, franchit un cap...",
       "excerpt": "Top Cybersécurité... Le contentieux entre Apple et OpenAI, jusqu'ici cantonné à des tensions autour du partenariat Siri- ChatGPT, franchit un cap...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Discord a banni 8 400 comptes par erreur: un bug révèle les limites de la modération par IA",
-      "link": "https://www.menow.fr/discord-a-banni-8-400-comptes-par-erreur-un-bug-revele-les-limites-de-la-moderation-par-ia/",
-      "url": "https://www.menow.fr/discord-a-banni-8-400-comptes-par-erreur-un-bug-revele-les-limites-de-la-moderation-par-ia/",
-      "publishedAt": "2026-07-11T05:23:46.000Z",
-      "date": "2026-07-11T05:23:46.000Z",
-      "description": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.... ChatGPT Atlas va disparaître: ce...",
-      "excerpt": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.... ChatGPT Atlas va disparaître: ce...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
