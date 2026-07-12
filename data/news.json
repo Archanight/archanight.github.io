@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T01:49:50.723Z",
+  "generatedAt": "2026-07-12T08:00:13.301Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Faire évoluer Atlas vers ChatGPT pour le travail agentique basé sur le navigateur",
+      "link": "https://help.openai.com/fr-ca/articles/20001371-faire-%C3%A9voluer-atlas-vers-chatgpt-pour-le-travail-agentique-bas%C3%A9-sur-le-navigateur",
+      "url": "https://help.openai.com/fr-ca/articles/20001371-faire-%C3%A9voluer-atlas-vers-chatgpt-pour-le-travail-agentique-bas%C3%A9-sur-le-navigateur",
+      "publishedAt": "2026-07-11T23:47:15.000Z",
+      "date": "2026-07-11T23:47:15.000Z",
+      "description": "Articles connexes · ChatGPT — Notes de version. Un journal des plus récentes mises à jour et notes de version de ChatGPT · ChatGPT Atlas - Notes de...",
+      "excerpt": "Articles connexes · ChatGPT — Notes de version. Un journal des plus récentes mises à jour et notes de version de ChatGPT · ChatGPT Atlas - Notes de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "OpenAI lance ChatGPT Work et ses nouveaux modèles GPT-5.6 - Worldissmall",
       "link": "https://worldissmall.fr/2026/07/11/openai-lance-chatgpt-work-et-ses-nouveaux-modeles-gpt-5-6/",
@@ -60,6 +70,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Agent ChatGPT - notes de version - OpenAI Help Center",
+      "link": "https://help-lb.openai.com/fr-fr/articles/11794368-agent-chatgpt-notes-de-version",
+      "url": "https://help-lb.openai.com/fr-fr/articles/11794368-agent-chatgpt-notes-de-version",
+      "publishedAt": "2026-07-11T14:21:53.000Z",
+      "date": "2026-07-11T14:21:53.000Z",
+      "description": "Afficher l'article original en anglais. Donner votre avis sur la traduction. Agent ChatGPT - notes de version. Dernière...",
+      "excerpt": "Afficher l'article original en anglais. Donner votre avis sur la traduction. Agent ChatGPT - notes de version. Dernière...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Apple attaque OpenAI en justice pour vol de secrets commerciaux - Entrevue",
       "link": "https://entrevue.fr/sciences-tech/apple-attaque-openai-en-justice-pour-vol-de-secrets-commerciaux/",
       "url": "https://entrevue.fr/sciences-tech/apple-attaque-openai-en-justice-pour-vol-de-secrets-commerciaux/",
@@ -108,26 +128,6 @@
       "description": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.... ChatGPT Atlas va disparaître: ce...",
       "excerpt": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.... ChatGPT Atlas va disparaître: ce...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Apple attaque OpenAI en justice pour vol de secrets commerciaux - Gagadget.com",
-      "link": "https://gagadget.com/fr/718042-apple-attaque-openai-en-justice-pour-vol-de-secrets-commerciaux/",
-      "url": "https://gagadget.com/fr/718042-apple-attaque-openai-en-justice-pour-vol-de-secrets-commerciaux/",
-      "publishedAt": "2026-07-11T00:55:45.000Z",
-      "date": "2026-07-11T00:55:45.000Z",
-      "description": "Cybersécurité · Espace et science... Côté partenariat, Apple et OpenAI collaborent toujours sur l'intégration de ChatGPT dans Siri sur iPhone.",
-      "excerpt": "Cybersécurité · Espace et science... Côté partenariat, Apple et OpenAI collaborent toujours sur l'intégration de ChatGPT dans Siri sur iPhone.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance « ChatGPT Work » pour vous faire gagner du temps dans votre travail",
-      "link": "https://www.presse-citron.net/openai-lance-chatgpt-work-pour-vous-faire-gagner-du-temps-dans-votre-travail/",
-      "url": "https://www.presse-citron.net/openai-lance-chatgpt-work-pour-vous-faire-gagner-du-temps-dans-votre-travail/",
-      "publishedAt": "2026-07-10T20:23:18.000Z",
-      "date": "2026-07-10T20:23:18.000Z",
-      "description": "OpenAI vient de lancer ChatGPT Work, un nouvel outil qui s'appuie sur ses modèles GPT-5.6 pour automatiser les tâches administratives.",
-      "excerpt": "OpenAI vient de lancer ChatGPT Work, un nouvel outil qui s'appuie sur ses modèles GPT-5.6 pour automatiser les tâches administratives.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
