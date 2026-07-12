@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T18:45:01.942Z",
+  "generatedAt": "2026-07-12T01:49:50.723Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,46 @@
   "failedSources": [],
   "items": [
     {
+      "title": "OpenAI lance ChatGPT Work et ses nouveaux modèles GPT-5.6 - Worldissmall",
+      "link": "https://worldissmall.fr/2026/07/11/openai-lance-chatgpt-work-et-ses-nouveaux-modeles-gpt-5-6/",
+      "url": "https://worldissmall.fr/2026/07/11/openai-lance-chatgpt-work-et-ses-nouveaux-modeles-gpt-5-6/",
+      "publishedAt": "2026-07-11T20:31:17.000Z",
+      "date": "2026-07-11T20:31:17.000Z",
+      "description": "OpenAI a annoncé ChatGPT Work, un agent ChatGPT doté de Codex... cybersécurité et les sciences. Le modèle dépasserait les précédents...",
+      "excerpt": "OpenAI a annoncé ChatGPT Work, un agent ChatGPT doté de Codex... cybersécurité et les sciences. Le modèle dépasserait les précédents...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI dévoile GPT-5.6, mais vous ne pouvez pas encore l'utiliser - Notebookcheck",
+      "link": "https://www.notebookcheck.biz/OpenAI-devoile-GPT-5-6-mais-vous-ne-pouvez-pas-encore-l-utiliser.1340396.0.html",
+      "url": "https://www.notebookcheck.biz/OpenAI-devoile-GPT-5-6-mais-vous-ne-pouvez-pas-encore-l-utiliser.1340396.0.html",
+      "publishedAt": "2026-07-11T20:17:57.000Z",
+      "date": "2026-07-11T20:17:57.000Z",
+      "description": "... ChatGPT pour le moment. Cela s'explique par une coordination en cours... Steffen Zahn, 2026-07-11 ( Update: 2026-07-11). Cookie Settings",
+      "excerpt": "... ChatGPT pour le moment. Cela s'explique par une coordination en cours... Steffen Zahn, 2026-07-11 ( Update: 2026-07-11). Cookie Settings",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT Work ou Claude Cowork: lequel choisir pour automatiser son travail en 2026",
+      "link": "https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-intelligence-artificielle-ia/3177573_chatgpt-work-ou-claude-cowork-lequel-choisir-pour-automatiser-son-travail-en-2026",
+      "url": "https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-intelligence-artificielle-ia/3177573_chatgpt-work-ou-claude-cowork-lequel-choisir-pour-automatiser-son-travail-en-2026",
+      "publishedAt": "2026-07-11T19:50:16.000Z",
+      "date": "2026-07-11T19:50:16.000Z",
+      "description": "OpenAI a lancé ChatGPT Work le 9 juillet 2026, sa réponse frontale à Claude Cowork d'Anthropic, disponible depuis janvier.",
+      "excerpt": "OpenAI a lancé ChatGPT Work le 9 juillet 2026, sa réponse frontale à Claude Cowork d'Anthropic, disponible depuis janvier.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI abandonne Atlas et déplace sa bataille des navigateurs IA directement dans Chrome",
+      "link": "https://yellow.com/fr/news/openai-abandonne-atlas-et-d%C3%A9place-sa-bataille-des-navigateurs-ia-directement-dans-chrome",
+      "url": "https://yellow.com/fr/news/openai-abandonne-atlas-et-d%C3%A9place-sa-bataille-des-navigateurs-ia-directement-dans-chrome",
+      "publishedAt": "2026-07-11T18:55:05.000Z",
+      "date": "2026-07-11T18:55:05.000Z",
+      "description": "Neuf mois après son lancement, le navigateur Atlas d'...",
+      "excerpt": "Neuf mois après son lancement, le navigateur Atlas d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Codex, GPT-5.6, ChatGPT relégué au second plan, OpenAI vise la narration face à Fable...",
       "link": "https://www.carnetdebord.info/codex-gpt-5-6-chatgpt-relegue-au-second-plan-openai-vise-la-narration-face-a-fable-ce-qui-change-pour-vos-usages/",
       "url": "https://www.carnetdebord.info/codex-gpt-5-6-chatgpt-relegue-au-second-plan-openai-vise-la-narration-face-a-fable-ce-qui-change-pour-vos-usages/",
@@ -17,16 +57,6 @@
       "date": "2026-07-11T15:08:19.000Z",
       "description": "Carnet de BordEntreprisesCodex, GPT-5.6, ChatGPT relégué au second plan, OpenAI vise la narration face...... Cybersécurité, en 2022, toujours reléguée...",
       "excerpt": "Carnet de BordEntreprisesCodex, GPT-5.6, ChatGPT relégué au second plan, OpenAI vise la narration face...... Cybersécurité, en 2022, toujours reléguée...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile GPT-5.6, mais vous ne pouvez pas encore l'utiliser - Notebookcheck",
-      "link": "https://www.notebookcheck.biz/OpenAI-devoile-GPT-5-6-mais-vous-ne-pouvez-pas-encore-l-utiliser.1340396.0.html",
-      "url": "https://www.notebookcheck.biz/OpenAI-devoile-GPT-5-6-mais-vous-ne-pouvez-pas-encore-l-utiliser.1340396.0.html",
-      "publishedAt": "2026-07-11T14:17:57.000Z",
-      "date": "2026-07-11T14:17:57.000Z",
-      "description": "Le modèle n'est lancé pour l'instant qu'en avant-première limitée réservée à certains partenaires et n'est pas disponible dans ChatGPT pour le moment.",
-      "excerpt": "Le modèle n'est lancé pour l'instant qu'en avant-première limitée réservée à certains partenaires et n'est pas disponible dans ChatGPT pour le moment.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -47,16 +77,6 @@
       "date": "2026-07-11T07:44:13.000Z",
       "description": "... cybersécurité le plus performant d'OpenAI à ce jour. OpenAI lance GPT-5.6 et la « super application » ChatGPT Work - Image 1. (Image: OpenAI). Vous...",
       "excerpt": "... cybersécurité le plus performant d'OpenAI à ce jour. OpenAI lance GPT-5.6 et la « super application » ChatGPT Work - Image 1. (Image: OpenAI). Vous...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Work ou Claude Cowork: lequel choisir pour automatiser son travail en 2026",
-      "link": "https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-intelligence-artificielle-ia/3177573_chatgpt-work-ou-claude-cowork-lequel-choisir-pour-automatiser-son-travail-en-2026",
-      "url": "https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-intelligence-artificielle-ia/3177573_chatgpt-work-ou-claude-cowork-lequel-choisir-pour-automatiser-son-travail-en-2026",
-      "publishedAt": "2026-07-11T07:22:10.000Z",
-      "date": "2026-07-11T07:22:10.000Z",
-      "description": "Anthropic exclut toujours Cowork de son engagement HIPAA et ne consigne pas son activité dans les journaux d'audit SOC 2, même en disponibilité...",
-      "excerpt": "Anthropic exclut toujours Cowork de son engagement HIPAA et ne consigne pas son activité dans les journaux d'audit SOC 2, même en disponibilité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -107,26 +127,6 @@
       "date": "2026-07-10T20:23:18.000Z",
       "description": "OpenAI vient de lancer ChatGPT Work, un nouvel outil qui s'appuie sur ses modèles GPT-5.6 pour automatiser les tâches administratives.",
       "excerpt": "OpenAI vient de lancer ChatGPT Work, un nouvel outil qui s'appuie sur ses modèles GPT-5.6 pour automatiser les tâches administratives.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Le nouveau ChatGPT est presque aussi puissant que Claude Fable 5 et il est enfin disponible",
-      "link": "https://www.journaldugeek.com/2026/07/10/le-nouveau-chatgpt-est-presque-aussi-puissant-que-claude-fable-5-et-il-est-enfin-disponible/",
-      "url": "https://www.journaldugeek.com/2026/07/10/le-nouveau-chatgpt-est-presque-aussi-puissant-que-claude-fable-5-et-il-est-enfin-disponible/",
-      "publishedAt": "2026-07-10T19:46:37.000Z",
-      "date": "2026-07-10T19:46:37.000Z",
-      "description": "Celui-ci met également à jour ChatGPT pour intégrer ChatGPT Work... We supported @OpenAI with pre- release evaluation of GPT-5.6 Sol, Terra, and…",
-      "excerpt": "Celui-ci met également à jour ChatGPT pour intégrer ChatGPT Work... We supported @OpenAI with pre- release evaluation of GPT-5.6 Sol, Terra, and…",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "GPT-5.6 et ChatGPT Travail: OpenAI dégaine l'artillerie lourde contre Anthropic - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/gpt-5-6-et-chatgpt-travail-openai-degaine-lartillerie-lourde-contre-anthropic-498537.htm",
-      "url": "https://www.zdnet.fr/actualites/gpt-5-6-et-chatgpt-travail-openai-degaine-lartillerie-lourde-contre-anthropic-498537.htm",
-      "publishedAt": "2026-07-10T19:35:37.000Z",
-      "date": "2026-07-10T19:35:37.000Z",
-      "description": "OpenAI dévoile GPT-5.6 (Sol, Terra, Luna) et ChatGPT Travail, son concurrent direct de Claude Cowork. Benchmarks à l'appui, la firme affirme...",
-      "excerpt": "OpenAI dévoile GPT-5.6 (Sol, Terra, Luna) et ChatGPT Travail, son concurrent direct de Claude Cowork. Benchmarks à l'appui, la firme affirme...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
