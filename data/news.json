@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T01:52:08.667Z",
+  "generatedAt": "2026-07-13T08:49:36.024Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI ChatGPT Work: quels cas d'usages concrets pour les pros du marketing?",
+      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/openai-chatgpt-work-cas-usages-pros-marketing-91045/",
+      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/openai-chatgpt-work-cas-usages-pros-marketing-91045/",
+      "publishedAt": "2026-07-13T06:30:49.000Z",
+      "date": "2026-07-13T06:30:49.000Z",
+      "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... OpenAI a lancé ChatGPT Travail, un agent propulsé par GPT-5.6 qui va...",
+      "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... OpenAI a lancé ChatGPT Travail, un agent propulsé par GPT-5.6 qui va...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Shadow AI: 68 % des salariés cachent leur usage de ChatGPT - BuzzWebzine",
+      "link": "https://www.buzzwebzine.fr/shadow-ai-salaries-chatgpt-cache-employeur/",
+      "url": "https://www.buzzwebzine.fr/shadow-ai-salaries-chatgpt-cache-employeur/",
+      "publishedAt": "2026-07-13T06:01:30.000Z",
+      "date": "2026-07-13T06:01:30.000Z",
+      "description": "Le rapport « The AI Tightrope », publié par le cabinet de cybersécurité Harmonic Security, ainsi qu'une étude de Salesforce menée en 2025, pointent...",
+      "excerpt": "Le rapport « The AI Tightrope », publié par le cabinet de cybersécurité Harmonic Security, ainsi qu'une étude de Salesforce menée en 2025, pointent...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Vous vous souvenez d'Atlas? OpenAI l'abandonne déjà après seulement 9 mois",
+      "link": "https://www.lebigdata.fr/vous-vous-souvenez-datlas-openai-labandonne-deja-apres-seulement-9-mois",
+      "url": "https://www.lebigdata.fr/vous-vous-souvenez-datlas-openai-labandonne-deja-apres-seulement-9-mois",
+      "publishedAt": "2026-07-13T05:51:32.000Z",
+      "date": "2026-07-13T05:51:32.000Z",
+      "description": "ChatGPT devenait alors le copilote de toute la navigation. Quelques... Plusieurs chercheurs en cybersécurité ont également mis en évidence d...",
+      "excerpt": "ChatGPT devenait alors le copilote de toute la navigation. Quelques... Plusieurs chercheurs en cybersécurité ont également mis en évidence d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Apple attaque OpenAI pour vol de secrets industriels - InformatiqueNews.fr",
+      "link": "https://www.informatiquenews.fr/apple-attaque-openai-pour-vol-de-secrets-industriels-112706",
+      "url": "https://www.informatiquenews.fr/apple-attaque-openai-pour-vol-de-secrets-industriels-112706",
+      "publishedAt": "2026-07-13T05:38:40.000Z",
+      "date": "2026-07-13T05:38:40.000Z",
+      "description": "Cybersécurité · Cloud Hybride et... On rappellera que depuis 2024, ChatGPT complète Siri et Apple Intelligence sur les appareils de la marque.",
+      "excerpt": "Cybersécurité · Cloud Hybride et... On rappellera que depuis 2024, ChatGPT complète Siri et Apple Intelligence sur les appareils de la marque.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Créer et modifier des documents, feuilles de calcul et présentations avec ChatGPT Work",
       "link": "https://help.openai.com/fr-fr/articles/20001278-cr%C3%A9er-et-modifier-des-documents-feuilles-de-calcul-et-pr%C3%A9sentations-avec-chatgpt-work",
@@ -87,46 +127,6 @@
       "date": "2026-07-11T20:31:17.000Z",
       "description": "OpenAI a annoncé ChatGPT Work, un agent ChatGPT doté de Codex... cybersécurité et les sciences. Le modèle dépasserait les précédents...",
       "excerpt": "OpenAI a annoncé ChatGPT Work, un agent ChatGPT doté de Codex... cybersécurité et les sciences. Le modèle dépasserait les précédents...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile GPT-5.6, mais vous ne pouvez pas encore l'utiliser - Notebookcheck",
-      "link": "https://www.notebookcheck.biz/OpenAI-devoile-GPT-5-6-mais-vous-ne-pouvez-pas-encore-l-utiliser.1340396.0.html",
-      "url": "https://www.notebookcheck.biz/OpenAI-devoile-GPT-5-6-mais-vous-ne-pouvez-pas-encore-l-utiliser.1340396.0.html",
-      "publishedAt": "2026-07-11T20:17:57.000Z",
-      "date": "2026-07-11T20:17:57.000Z",
-      "description": "... ChatGPT pour le moment. Cela s'explique par une coordination en cours... Steffen Zahn, 2026-07-11 ( Update: 2026-07-11). Cookie Settings",
-      "excerpt": "... ChatGPT pour le moment. Cela s'explique par une coordination en cours... Steffen Zahn, 2026-07-11 ( Update: 2026-07-11). Cookie Settings",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT Work ou Claude Cowork: lequel choisir pour automatiser son travail en 2026",
-      "link": "https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-intelligence-artificielle-ia/3177573_chatgpt-work-ou-claude-cowork-lequel-choisir-pour-automatiser-son-travail-en-2026",
-      "url": "https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-intelligence-artificielle-ia/3177573_chatgpt-work-ou-claude-cowork-lequel-choisir-pour-automatiser-son-travail-en-2026",
-      "publishedAt": "2026-07-11T19:50:16.000Z",
-      "date": "2026-07-11T19:50:16.000Z",
-      "description": "OpenAI a lancé ChatGPT Work le 9 juillet 2026, sa réponse frontale à Claude Cowork d'Anthropic, disponible depuis janvier.",
-      "excerpt": "OpenAI a lancé ChatGPT Work le 9 juillet 2026, sa réponse frontale à Claude Cowork d'Anthropic, disponible depuis janvier.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI abandonne Atlas et déplace sa bataille des navigateurs IA directement dans Chrome",
-      "link": "https://yellow.com/fr/news/openai-abandonne-atlas-et-d%C3%A9place-sa-bataille-des-navigateurs-ia-directement-dans-chrome",
-      "url": "https://yellow.com/fr/news/openai-abandonne-atlas-et-d%C3%A9place-sa-bataille-des-navigateurs-ia-directement-dans-chrome",
-      "publishedAt": "2026-07-11T18:55:05.000Z",
-      "date": "2026-07-11T18:55:05.000Z",
-      "description": "Neuf mois après son lancement, le navigateur Atlas d'...",
-      "excerpt": "Neuf mois après son lancement, le navigateur Atlas d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Codex, GPT-5.6, ChatGPT relégué au second plan, OpenAI vise la narration face à Fable...",
-      "link": "https://www.carnetdebord.info/codex-gpt-5-6-chatgpt-relegue-au-second-plan-openai-vise-la-narration-face-a-fable-ce-qui-change-pour-vos-usages/",
-      "url": "https://www.carnetdebord.info/codex-gpt-5-6-chatgpt-relegue-au-second-plan-openai-vise-la-narration-face-a-fable-ce-qui-change-pour-vos-usages/",
-      "publishedAt": "2026-07-11T15:08:19.000Z",
-      "date": "2026-07-11T15:08:19.000Z",
-      "description": "Carnet de BordEntreprisesCodex, GPT-5.6, ChatGPT relégué au second plan, OpenAI vise la narration face...... Cybersécurité, en 2022, toujours reléguée...",
-      "excerpt": "Carnet de BordEntreprisesCodex, GPT-5.6, ChatGPT relégué au second plan, OpenAI vise la narration face...... Cybersécurité, en 2022, toujours reléguée...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
