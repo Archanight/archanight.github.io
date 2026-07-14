@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T19:12:12.940Z",
+  "generatedAt": "2026-07-14T01:28:54.306Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-5.6 Sol mise sur l'Espagne, sept autres modèles voient la France championne du monde",
+      "link": "https://www.menow.fr/gpt-5-6-sol-mise-sur-lespagne-sept-autres-modeles-voient-la-france-championne-du-monde/",
+      "url": "https://www.menow.fr/gpt-5-6-sol-mise-sur-lespagne-sept-autres-modeles-voient-la-france-championne-du-monde/",
+      "publishedAt": "2026-07-13T19:33:40.000Z",
+      "date": "2026-07-13T19:33:40.000Z",
+      "description": "ChatGPT Atlas va disparaître: ce qu'il faut sauvegarder avant l'arrêt du navigateur d'OpenAI. 10 juillet 2026. ChatGPT Atlas va être...",
+      "excerpt": "ChatGPT Atlas va disparaître: ce qu'il faut sauvegarder avant l'arrêt du navigateur d'OpenAI. 10 juillet 2026. ChatGPT Atlas va être...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT est de retour sur WhatsApp, gratuitement et sans compte: voici comment y accéder",
+      "link": "https://www.lebigdata.fr/chatgpt-est-de-retour-sur-whatsapp-gratuitement-et-sans-compte-voici-comment-y-acceder",
+      "url": "https://www.lebigdata.fr/chatgpt-est-de-retour-sur-whatsapp-gratuitement-et-sans-compte-voici-comment-y-acceder",
+      "publishedAt": "2026-07-13T19:00:56.000Z",
+      "date": "2026-07-13T19:00:56.000Z",
+      "description": "ChatGPT est de retour sur WhatsApp en Europe. Découvrez comment... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
+      "excerpt": "ChatGPT est de retour sur WhatsApp en Europe. Découvrez comment... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "iOS 27 et macOS 27: les bêtas publiques dans les starting-blocks - MacGeneration",
+      "link": "https://www.macg.co/macos/2026/07/ios-27-et-macos-27-les-betas-publiques-dans-les-starting-blocks-309697",
+      "url": "https://www.macg.co/macos/2026/07/ios-27-et-macos-27-les-betas-publiques-dans-les-starting-blocks-309697",
+      "publishedAt": "2026-07-13T17:55:41.000Z",
+      "date": "2026-07-13T17:55:41.000Z",
+      "description": "# OpenAI # Sam Altman # ChatGPT # Anthropic # ChatGPT Codex # back to school # macOS 27 · Profitez de l'été pour vous abonner au Club iGen! Fermer...",
+      "excerpt": "# OpenAI # Sam Altman # ChatGPT # Anthropic # ChatGPT Codex # back to school # macOS 27 · Profitez de l'été pour vous abonner au Club iGen! Fermer...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Du M6 au M7 Ultra, le Neural Engine met le turbo: la semaine Apple - MacGeneration",
       "link": "https://www.macg.co/aapl/2026/07/du-m6-au-m7-ultra-le-neural-engine-met-le-turbo-la-semaine-apple-309695",
@@ -47,16 +77,6 @@
       "date": "2026-07-13T16:29:00.000Z",
       "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT est de retour sur WhatsApp, et son accès est complètement...",
       "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT est de retour sur WhatsApp, et son accès est complètement...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6 Sol mise sur l'Espagne, sept autres modèles voient la France championne du monde",
-      "link": "https://www.menow.fr/gpt-5-6-sol-mise-sur-lespagne-sept-autres-modeles-voient-la-france-championne-du-monde/",
-      "url": "https://www.menow.fr/gpt-5-6-sol-mise-sur-lespagne-sept-autres-modeles-voient-la-france-championne-du-monde/",
-      "publishedAt": "2026-07-13T16:04:35.000Z",
-      "date": "2026-07-13T16:04:35.000Z",
-      "description": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.... ChatGPT assouplit temporairement...",
-      "excerpt": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.... ChatGPT assouplit temporairement...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -107,26 +127,6 @@
       "date": "2026-07-13T14:42:53.000Z",
       "description": "... appareil photo de 12 Mpx, l'intégration de ChatGPT et une fonction de traduction en temps réel par IA.",
       "excerpt": "... appareil photo de 12 Mpx, l'intégration de ChatGPT et une fonction de traduction en temps réel par IA.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Apple poursuit OpenAI en justice après le débauchage de plus de 400 employés",
-      "link": "https://www.notebookcheck.biz/Apple-poursuit-OpenAI-en-justice-apres-le-debauchage-de-plus-de-400-employes-le-ChatGPT-Phone-copierait-l-iPhone.1341842.0.html",
-      "url": "https://www.notebookcheck.biz/Apple-poursuit-OpenAI-en-justice-apres-le-debauchage-de-plus-de-400-employes-le-ChatGPT-Phone-copierait-l-iPhone.1341842.0.html",
-      "publishedAt": "2026-07-13T14:42:51.000Z",
-      "date": "2026-07-13T14:42:51.000Z",
-      "description": "OpenAI, le fournisseur de ChatGPT, serait accusé de voler délibérément la technologie de l'iPhone d'Apple afin de l'utiliser pour son propre...",
-      "excerpt": "OpenAI, le fournisseur de ChatGPT, serait accusé de voler délibérément la technologie de l'iPhone d'Apple afin de l'utiliser pour son propre...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Parents, enfants, seniors: ChatGPT élargit son audience - Begeek",
-      "link": "https://www.begeek.fr/parents-enfants-seniors-chatgpt-elargit-son-audience-437118",
-      "url": "https://www.begeek.fr/parents-enfants-seniors-chatgpt-elargit-son-audience-437118",
-      "publishedAt": "2026-07-13T14:05:50.000Z",
-      "date": "2026-07-13T14:05:50.000Z",
-      "description": "ChatGPT séduit de plus en plus les familles et les adultes.... Spotify déploie de nouveaux réglages dans Release Radar sur mobile et desktop.",
-      "excerpt": "ChatGPT séduit de plus en plus les familles et les adultes.... Spotify déploie de nouveaux réglages dans Release Radar sur mobile et desktop.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
