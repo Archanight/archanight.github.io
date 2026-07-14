@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T01:28:54.306Z",
+  "generatedAt": "2026-07-14T07:47:20.946Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Apple attaque OpenAI et io en justice pour vol de secrets industriels sur l'iPhone | JDW",
+      "link": "https://www.journalduweb.org/apple-attaque-openai-et-io-en-justice-pour-vol-de-secrets-industriels-sur-liphone/",
+      "url": "https://www.journalduweb.org/apple-attaque-openai-et-io-en-justice-pour-vol-de-secrets-industriels-sur-liphone/",
+      "publishedAt": "2026-07-14T02:58:21.000Z",
+      "date": "2026-07-14T02:58:21.000Z",
+      "description": "Informatique & Cybersécurité Mobiles & Apps · Oneplus · OxygenOS c'est... iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6...",
+      "excerpt": "Informatique & Cybersécurité Mobiles & Apps · Oneplus · OxygenOS c'est... iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT assouplit temporairement ses limites face à l'explosion de la demande pour GPT-5.6",
+      "link": "https://www.menow.fr/chatgpt-assouplit-temporairement-ses-limites-face-a-lexplosion-de-la-demande-pour-gpt-5-6/",
+      "url": "https://www.menow.fr/chatgpt-assouplit-temporairement-ses-limites-face-a-lexplosion-de-la-demande-pour-gpt-5-6/",
+      "publishedAt": "2026-07-14T02:35:01.000Z",
+      "date": "2026-07-14T02:35:01.000Z",
+      "description": "ChatGPT offre temporairement davantage de marge aux abonnés Plus, Business et Pro utilisant GPT-5.6 Sol. OpenAI aurait supprimé la limite...",
+      "excerpt": "ChatGPT offre temporairement davantage de marge aux abonnés Plus, Business et Pro utilisant GPT-5.6 Sol. OpenAI aurait supprimé la limite...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI révolutionne l'art du prompt avec un guide simplifié - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-revolutionne-l-art-du-prompt-avec-un-guide-simplifie",
+      "url": "https://www.briefia.fr/article/openai-revolutionne-l-art-du-prompt-avec-un-guide-simplifie",
+      "publishedAt": "2026-07-14T01:06:44.000Z",
+      "date": "2026-07-14T01:06:44.000Z",
+      "description": "Le ton est légèrement différent des récents documents pour développeurs d'OpenAI concernant GPT-5... ChatGPT pour centraliser les tâches actives.",
+      "excerpt": "Le ton est légèrement différent des récents documents pour développeurs d'OpenAI concernant GPT-5... ChatGPT pour centraliser les tâches actives.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI supprime la limite de 5 heures de GPT-5.6 Sol pour les offres payantes | Yellow.com",
+      "link": "https://yellow.com/fr/news/openai-supprime-la-limite-de-5-heures-de-gpt-56-sol-pour-les-offres-payantes",
+      "url": "https://yellow.com/fr/news/openai-supprime-la-limite-de-5-heures-de-gpt-56-sol-pour-les-offres-payantes",
+      "publishedAt": "2026-07-13T19:35:00.000Z",
+      "date": "2026-07-13T19:35:00.000Z",
+      "description": "Les abonnés payants de ChatGPT bénéficient d'une remise à...",
+      "excerpt": "Les abonnés payants de ChatGPT bénéficient d'une remise à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "GPT-5.6 Sol mise sur l'Espagne, sept autres modèles voient la France championne du monde",
       "link": "https://www.menow.fr/gpt-5-6-sol-mise-sur-lespagne-sept-autres-modeles-voient-la-france-championne-du-monde/",
@@ -87,46 +127,6 @@
       "date": "2026-07-13T15:34:42.000Z",
       "description": "Malgré un partenariat signé en 2024, permettant à Apple d'intégrer ChatGPT au sein d'iOS afin de venir en aide à un...",
       "excerpt": "Malgré un partenariat signé en 2024, permettant à Apple d'intégrer ChatGPT au sein d'iOS afin de venir en aide à un...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Apple poursuit OpenAI pour vol présumé de secrets industriels - ICTjournal",
-      "link": "https://www.ictjournal.ch/news/2026-07-13/apple-poursuit-openai-pour-vol-presume-de-secrets-industriels",
-      "url": "https://www.ictjournal.ch/news/2026-07-13/apple-poursuit-openai-pour-vol-presume-de-secrets-industriels",
-      "publishedAt": "2026-07-13T15:21:21.000Z",
-      "date": "2026-07-13T15:21:21.000Z",
-      "description": "... Cybersécurité 2026 · Intelligence Artificielle 2025 · Cloud... En 2024, Apple avait annoncé l'intégration de ChatGPT à Siri et à Apple Intelligence.",
-      "excerpt": "... Cybersécurité 2026 · Intelligence Artificielle 2025 · Cloud... En 2024, Apple avait annoncé l'intégration de ChatGPT à Siri et à Apple Intelligence.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT de nouveau disponible sur WhatsApp dans l'UE - L'Informaticien",
-      "link": "https://www.linformaticien.com/magazine/tendances/941-ia/65081-chatgpt-de-nouveau-disponible-sur-whatsapp-dans-l-ue.html",
-      "url": "https://www.linformaticien.com/magazine/tendances/941-ia/65081-chatgpt-de-nouveau-disponible-sur-whatsapp-dans-l-ue.html",
-      "publishedAt": "2026-07-13T15:06:34.000Z",
-      "date": "2026-07-13T15:06:34.000Z",
-      "description": "Cybersécurité · Devops · Débats · Technologie · Solutions · Logiciel · Info Partenaire · Rencontres · Agenda. A la une de l'Informaticien. Bobbi...",
-      "excerpt": "Cybersécurité · Devops · Débats · Technologie · Solutions · Logiciel · Info Partenaire · Rencontres · Agenda. A la une de l'Informaticien. Bobbi...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI change en profondeur l'app ChatGPT, au risque de décevoir une partie des utilisateurs",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/openai-change-en-profondeur-lapp-chatgpt-au-risque-de-decevoir-une-partie-des-utilisateurs",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/openai-change-en-profondeur-lapp-chatgpt-au-risque-de-decevoir-une-partie-des-utilisateurs",
-      "publishedAt": "2026-07-13T14:57:46.000Z",
-      "date": "2026-07-13T14:57:46.000Z",
-      "description": "ChatGPT OpenAI tourne discrètement la page GPT-4 dans ChatGPT, et c'est... ChatGPT OpenAI a tourné la page GPT-4o, mais ses fans, eux, vont...",
-      "excerpt": "ChatGPT OpenAI tourne discrètement la page GPT-4 dans ChatGPT, et c'est... ChatGPT OpenAI a tourné la page GPT-4o, mais ses fans, eux, vont...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Les lunettes connectées HTC Vive Eagle arrivent enfin aux États-Unis au prix de 499 dollars...",
-      "link": "https://www.notebookcheck.biz/Les-lunettes-connectees-HTC-Vive-Eagle-arrivent-enfin-aux-Etats-Unis-au-prix-de-499-dollars-equipees-d-un-appareil-photo-de-12-Mpx-de-ChatGPT-et-d-une-fonction-de-traduction-en-temps-reel.1341843.0.html",
-      "url": "https://www.notebookcheck.biz/Les-lunettes-connectees-HTC-Vive-Eagle-arrivent-enfin-aux-Etats-Unis-au-prix-de-499-dollars-equipees-d-un-appareil-photo-de-12-Mpx-de-ChatGPT-et-d-une-fonction-de-traduction-en-temps-reel.1341843.0.html",
-      "publishedAt": "2026-07-13T14:42:53.000Z",
-      "date": "2026-07-13T14:42:53.000Z",
-      "description": "... appareil photo de 12 Mpx, l'intégration de ChatGPT et une fonction de traduction en temps réel par IA.",
-      "excerpt": "... appareil photo de 12 Mpx, l'intégration de ChatGPT et une fonction de traduction en temps réel par IA.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
