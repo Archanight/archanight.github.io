@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T07:50:38.221Z",
+  "generatedAt": "2026-07-15T13:13:22.474Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Une enceinte avec ChatGPT: le mystérieux projet d'OpenAI continue de se dévoiler, des...",
+      "link": "https://www.01net.com/actualites/enceinte-chatgpt-mysterieux-projet-openai-continue-devoiler-annonce.html",
+      "url": "https://www.01net.com/actualites/enceinte-chatgpt-mysterieux-projet-openai-continue-devoiler-annonce.html",
+      "publishedAt": "2026-07-15T12:45:07.000Z",
+      "date": "2026-07-15T12:45:07.000Z",
+      "description": "... Siri dans les HomePod. À lire aussi: ChatGPT se verrouille contre les cyberattaques – ce nouveau mode va mieux protéger vos données, comment l...",
+      "excerpt": "... Siri dans les HomePod. À lire aussi: ChatGPT se verrouille contre les cyberattaques – ce nouveau mode va mieux protéger vos données, comment l...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Pas ChatGPT: cette application d'IA secrète venue de Chine est en train de conquérir le monde",
+      "link": "https://xpert.digital/fr/application-dia-chinoise/",
+      "url": "https://xpert.digital/fr/application-dia-chinoise/",
+      "publishedAt": "2026-07-15T09:07:15.000Z",
+      "date": "2026-07-15T09:07:15.000Z",
+      "description": "Pas ChatGPT: cette application d'IA secrète venue de Chine est en train... Les experts en cybersécurité de Palo Alto Networks ont également...",
+      "excerpt": "Pas ChatGPT: cette application d'IA secrète venue de Chine est en train... Les experts en cybersécurité de Palo Alto Networks ont également...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "\"Voici ce que Le Monde peut savoir pour son GEO avec les données déterministes fournies...",
+      "link": "https://www.journaldunet.com/adtech/1552663-voici-ce-que-le-monde-peut-savoir-pour-son-geo-avec-les-donnees-deterministes-fournies-par-openai/",
+      "url": "https://www.journaldunet.com/adtech/1552663-voici-ce-que-le-monde-peut-savoir-pour-son-geo-avec-les-donnees-deterministes-fournies-par-openai/",
+      "publishedAt": "2026-07-15T08:44:50.000Z",
+      "date": "2026-07-15T08:44:50.000Z",
+      "description": "Le Monde a accès à des données exclusives qui lui sont fournies par OpenAI et qui reflètent comment les articles performent dans ChatGPT,...",
+      "excerpt": "Le Monde a accès à des données exclusives qui lui sont fournies par OpenAI et qui reflètent comment les articles performent dans ChatGPT,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI veut créer une enceinte qui semble vivante pour concurrencer Apple dans votre salon",
+      "link": "https://www.clubic.com/actualite-621316-openai-veut-creer-une-enceinte-qui-semble-vivante-pour-concurrencer-apple-dans-votre-salon.html",
+      "url": "https://www.clubic.com/actualite-621316-openai-veut-creer-une-enceinte-qui-semble-vivante-pour-concurrencer-apple-dans-votre-salon.html",
+      "publishedAt": "2026-07-15T08:42:38.000Z",
+      "date": "2026-07-15T08:42:38.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT va-t-il rendre le nouveau Siri obsolète dès son arrivée? Ce...",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT va-t-il rendre le nouveau Siri obsolète dès son arrivée? Ce...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Révolutionnaire: ChatGPT Work simplifie le travail et booste votre productivité | LCDG",
+      "link": "https://lecafedugeek.fr/revolutionnaire-chatgpt-work-simplifie-le-travail-et-booste-votre-productivite/",
+      "url": "https://lecafedugeek.fr/revolutionnaire-chatgpt-work-simplifie-le-travail-et-booste-votre-productivite/",
+      "publishedAt": "2026-07-15T08:18:19.000Z",
+      "date": "2026-07-15T08:18:19.000Z",
+      "description": "Sol promet, entre autres, d'exceller dans le développement logiciel, la cybersécurité ou encore les sciences, tout en limitant les coûts...",
+      "excerpt": "Sol promet, entre autres, d'exceller dans le développement logiciel, la cybersécurité ou encore les sciences, tout en limitant les coûts...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "IA & Cybersécurité: les 14 actus clés du 15 juillet 2026",
       "link": "https://dcod.ch/2026/07/15/ia-cybersecurite-les-14-actus-cles-du-15-juillet-2026/",
@@ -77,56 +127,6 @@
       "date": "2026-07-14T15:48:33.000Z",
       "description": "Cette photographie d'illustration montre le logo de ChatGPT, un chatbot basé sur un... En cybersécurité, cette évolution est déjà une réalité.",
       "excerpt": "Cette photographie d'illustration montre le logo de ChatGPT, un chatbot basé sur un... En cybersécurité, cette évolution est déjà une réalité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "À peine déposée, la plainte d'Apple est déjà une catastrophe pour OpenAI… Pourra-t-elle... - Clubic",
-      "link": "https://www.clubic.com/actualite-621226-a-peine-deposee-la-plainte-d-apple-est-deja-une-catastrophe-pour-openai-pourra-t-elle-s-en-remettre.html",
-      "url": "https://www.clubic.com/actualite-621226-a-peine-deposee-la-plainte-d-apple-est-deja-une-catastrophe-pour-openai-pourra-t-elle-s-en-remettre.html",
-      "publishedAt": "2026-07-14T15:09:00.000Z",
-      "date": "2026-07-14T15:09:00.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN... OpenAI veut attaquer Apple en justice: le partenariat entre ChatGPT et Siri a viré au fiasco.",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN... OpenAI veut attaquer Apple en justice: le partenariat entre ChatGPT et Siri a viré au fiasco.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude AI: les fonctionnalités que 99 % des débutants ignorent - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/claude-ai-pour-debutants",
-      "url": "https://www.lebigdata.fr/claude-ai-pour-debutants",
-      "publishedAt": "2026-07-14T14:04:43.000Z",
-      "date": "2026-07-14T14:04:43.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Comment choisir votre coupe de cheveux avec ChatGPT? Tuto rapide. 11...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Comment choisir votre coupe de cheveux avec ChatGPT? Tuto rapide. 11...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude Fable 5 vs GPT-5.6 Sol: le duel des deux LLM frontière décortiqué benchmark par...",
-      "link": "https://www.journalduweb.org/claude-fable-5-vs-gpt-5-6-sol-le-duel-des-deux-llm-frontiere-decortique-benchmark-par-benchmark/",
-      "url": "https://www.journalduweb.org/claude-fable-5-vs-gpt-5-6-sol-le-duel-des-deux-llm-frontiere-decortique-benchmark-par-benchmark/",
-      "publishedAt": "2026-07-14T13:14:56.000Z",
-      "date": "2026-07-14T13:14:56.000Z",
-      "description": "Claude Fable 5 domine nettement sur LiveCodeBench (89,78 %) et Vibe Code Bench (90,35 %). Cybersécurité... Informatique & Cybersécurité Web & Internet...",
-      "excerpt": "Claude Fable 5 domine nettement sur LiveCodeBench (89,78 %) et Vibe Code Bench (90,35 %). Cybersécurité... Informatique & Cybersécurité Web & Internet...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Version Tracker veut remplacer MacUpdater sur macOS - MacGeneration",
-      "link": "https://www.macg.co/logiciels/2026/07/version-tracker-veut-remplacer-macupdater-sur-macos-309733",
-      "url": "https://www.macg.co/logiciels/2026/07/version-tracker-veut-remplacer-macupdater-sur-macos-309733",
-      "publishedAt": "2026-07-14T10:21:33.000Z",
-      "date": "2026-07-14T10:21:33.000Z",
-      "description": "... ChatGPT # macOS Golden Gate 27 # ChatGPT Codex · Profitez de l'été pour... L'intérêt est évident: au lieu d'enchaîner les commandes brew upgrade, npm...",
-      "excerpt": "... ChatGPT # macOS Golden Gate 27 # ChatGPT Codex · Profitez de l'été pour... L'intérêt est évident: au lieu d'enchaîner les commandes brew upgrade, npm...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Apple attaque OpenAI et io en justice pour vol de secrets industriels sur l'iPhone | JDW",
-      "link": "https://www.journalduweb.org/apple-attaque-openai-et-io-en-justice-pour-vol-de-secrets-industriels-sur-liphone/",
-      "url": "https://www.journalduweb.org/apple-attaque-openai-et-io-en-justice-pour-vol-de-secrets-industriels-sur-liphone/",
-      "publishedAt": "2026-07-14T02:58:21.000Z",
-      "date": "2026-07-14T02:58:21.000Z",
-      "description": "Informatique & Cybersécurité Mobiles & Apps · Oneplus · OxygenOS c'est... iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6...",
-      "excerpt": "Informatique & Cybersécurité Mobiles & Apps · Oneplus · OxygenOS c'est... iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
