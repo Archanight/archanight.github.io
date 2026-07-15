@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T01:25:52.578Z",
+  "generatedAt": "2026-07-15T07:50:38.221Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "IA & Cybersécurité: les 14 actus clés du 15 juillet 2026",
+      "link": "https://dcod.ch/2026/07/15/ia-cybersecurite-les-14-actus-cles-du-15-juillet-2026/",
+      "url": "https://dcod.ch/2026/07/15/ia-cybersecurite-les-14-actus-cles-du-15-juillet-2026/",
+      "publishedAt": "2026-07-15T06:01:02.000Z",
+      "date": "2026-07-15T06:01:02.000Z",
+      "description": "Voici le tour d'horizon hebdomadaire des actualités à l'intersection de l'intelligence artificielle et de la cybersécurité: avancées...",
+      "excerpt": "Voici le tour d'horizon hebdomadaire des actualités à l'intersection de l'intelligence artificielle et de la cybersécurité: avancées...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Doceree lance des connecteurs d'IA générative pour OpenAI ChatGPT et Anthropic Claude",
+      "link": "https://www.zonebourse.com/actualite-bourse/doceree-lance-des-connecteurs-d-ia-generative-pour-openai-chatgpt-et-anthropic-claude-ce7f5eddda88f325",
+      "url": "https://www.zonebourse.com/actualite-bourse/doceree-lance-des-connecteurs-d-ia-generative-pour-openai-chatgpt-et-anthropic-claude-ce7f5eddda88f325",
+      "publishedAt": "2026-07-15T00:03:39.000Z",
+      "date": "2026-07-15T00:03:39.000Z",
+      "description": "... ChatGPT... -Le 14 juillet 2026 à 20:35 - Zonebourse.... Cybersécurité · Hydraulique · Moat · L'Industrie du Cannabis · Hydrogène · Smart...",
+      "excerpt": "... ChatGPT... -Le 14 juillet 2026 à 20:35 - Zonebourse.... Cybersécurité · Hydraulique · Moat · L'Industrie du Cannabis · Hydrogène · Smart...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "GPT-5.6 Sol d'OpenAI: suppressions de fichiers alarmantes | Brief IA",
       "link": "https://www.briefia.fr/article/gpt-5-6-sol-d-openai-suppressions-de-fichiers-alarmantes",
@@ -108,26 +128,6 @@
       "description": "Informatique & Cybersécurité Mobiles & Apps · Oneplus · OxygenOS c'est... iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6...",
       "excerpt": "Informatique & Cybersécurité Mobiles & Apps · Oneplus · OxygenOS c'est... iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT assouplit temporairement ses limites face à l'explosion de la demande pour GPT-5.6",
-      "link": "https://www.menow.fr/chatgpt-assouplit-temporairement-ses-limites-face-a-lexplosion-de-la-demande-pour-gpt-5-6/",
-      "url": "https://www.menow.fr/chatgpt-assouplit-temporairement-ses-limites-face-a-lexplosion-de-la-demande-pour-gpt-5-6/",
-      "publishedAt": "2026-07-14T02:35:01.000Z",
-      "date": "2026-07-14T02:35:01.000Z",
-      "description": "ChatGPT offre temporairement davantage de marge aux abonnés Plus, Business et Pro utilisant GPT-5.6 Sol. OpenAI aurait supprimé la limite...",
-      "excerpt": "ChatGPT offre temporairement davantage de marge aux abonnés Plus, Business et Pro utilisant GPT-5.6 Sol. OpenAI aurait supprimé la limite...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI révolutionne l'art du prompt avec un guide simplifié - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-revolutionne-l-art-du-prompt-avec-un-guide-simplifie",
-      "url": "https://www.briefia.fr/article/openai-revolutionne-l-art-du-prompt-avec-un-guide-simplifie",
-      "publishedAt": "2026-07-14T01:06:44.000Z",
-      "date": "2026-07-14T01:06:44.000Z",
-      "description": "Le ton est légèrement différent des récents documents pour développeurs d'OpenAI concernant GPT-5... ChatGPT pour centraliser les tâches actives.",
-      "excerpt": "Le ton est légèrement différent des récents documents pour développeurs d'OpenAI concernant GPT-5... ChatGPT pour centraliser les tâches actives.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
