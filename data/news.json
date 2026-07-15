@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T19:02:38.244Z",
+  "generatedAt": "2026-07-15T01:25:52.578Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-5.6 Sol d'OpenAI: suppressions de fichiers alarmantes | Brief IA",
+      "link": "https://www.briefia.fr/article/gpt-5-6-sol-d-openai-suppressions-de-fichiers-alarmantes",
+      "url": "https://www.briefia.fr/article/gpt-5-6-sol-d-openai-suppressions-de-fichiers-alarmantes",
+      "publishedAt": "2026-07-14T22:12:08.000Z",
+      "date": "2026-07-14T22:12:08.000Z",
+      "description": "Le dernier modèle d'OpenAI, GPT-5.6 Sol, conçu pour exceller dans les domaines de la programmation et de la cybersécurité, est au cœur d'une...",
+      "excerpt": "Le dernier modèle d'OpenAI, GPT-5.6 Sol, conçu pour exceller dans les domaines de la programmation et de la cybersécurité, est au cœur d'une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI ferme Atlas, son navigateur IA, avant son premier anniversaire - Abondance",
+      "link": "https://www.abondance.com/20260714-2596942-openai-ferme-atlas-navigateur-ia.html",
+      "url": "https://www.abondance.com/20260714-2596942-openai-ferme-atlas-navigateur-ia.html",
+      "publishedAt": "2026-07-14T20:32:44.000Z",
+      "date": "2026-07-14T20:32:44.000Z",
+      "description": "Lancé en grande pompe en octobre dernier, le navigateur ChatGPT Atlas sera débranché le 9 août prochain. OpenAI abandonne ce projet autonome pour...",
+      "excerpt": "Lancé en grande pompe en octobre dernier, le navigateur ChatGPT Atlas sera débranché le 9 août prochain. OpenAI abandonne ce projet autonome pour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT est de retour sur WhatsApp: l'UE a contraint Meta à le faire - Notebookcheck",
+      "link": "https://www.notebookcheck.biz/ChatGPT-est-de-retour-sur-WhatsApp-l-UE-a-contraint-Meta-a-le-faire.1342602.0.html",
+      "url": "https://www.notebookcheck.biz/ChatGPT-est-de-retour-sur-WhatsApp-l-UE-a-contraint-Meta-a-le-faire.1342602.0.html",
+      "publishedAt": "2026-07-14T20:24:46.000Z",
+      "date": "2026-07-14T20:24:46.000Z",
+      "description": "ChatGPT peut à nouveau être utilisé directement depuis WhatsApp dans l'Union européenne. Cela a été rendu possible grâce à la Commission...",
+      "excerpt": "ChatGPT peut à nouveau être utilisé directement depuis WhatsApp dans l'Union européenne. Cela a été rendu possible grâce à la Commission...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Comment intégrer l'intelligence artificielle dans les relations sociales de l'entreprise?",
       "link": "https://www.usine-digitale.fr/juridique/droits-numeriques/comment-integrer-lintelligence-artificielle-dans-les-relations-sociales-de-lentreprise.4OBFX5NEEBFDDDRU4FNFEQNB2A.html",
@@ -60,6 +90,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Version Tracker veut remplacer MacUpdater sur macOS - MacGeneration",
+      "link": "https://www.macg.co/logiciels/2026/07/version-tracker-veut-remplacer-macupdater-sur-macos-309733",
+      "url": "https://www.macg.co/logiciels/2026/07/version-tracker-veut-remplacer-macupdater-sur-macos-309733",
+      "publishedAt": "2026-07-14T10:21:33.000Z",
+      "date": "2026-07-14T10:21:33.000Z",
+      "description": "... ChatGPT # macOS Golden Gate 27 # ChatGPT Codex · Profitez de l'été pour... L'intérêt est évident: au lieu d'enchaîner les commandes brew upgrade, npm...",
+      "excerpt": "... ChatGPT # macOS Golden Gate 27 # ChatGPT Codex · Profitez de l'été pour... L'intérêt est évident: au lieu d'enchaîner les commandes brew upgrade, npm...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Apple attaque OpenAI et io en justice pour vol de secrets industriels sur l'iPhone | JDW",
       "link": "https://www.journalduweb.org/apple-attaque-openai-et-io-en-justice-pour-vol-de-secrets-industriels-sur-liphone/",
       "url": "https://www.journalduweb.org/apple-attaque-openai-et-io-en-justice-pour-vol-de-secrets-industriels-sur-liphone/",
@@ -87,46 +127,6 @@
       "date": "2026-07-14T01:06:44.000Z",
       "description": "Le ton est légèrement différent des récents documents pour développeurs d'OpenAI concernant GPT-5... ChatGPT pour centraliser les tâches actives.",
       "excerpt": "Le ton est légèrement différent des récents documents pour développeurs d'OpenAI concernant GPT-5... ChatGPT pour centraliser les tâches actives.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI supprime la limite de 5 heures de GPT-5.6 Sol pour les offres payantes | Yellow.com",
-      "link": "https://yellow.com/fr/news/openai-supprime-la-limite-de-5-heures-de-gpt-56-sol-pour-les-offres-payantes",
-      "url": "https://yellow.com/fr/news/openai-supprime-la-limite-de-5-heures-de-gpt-56-sol-pour-les-offres-payantes",
-      "publishedAt": "2026-07-13T19:35:00.000Z",
-      "date": "2026-07-13T19:35:00.000Z",
-      "description": "Les abonnés payants de ChatGPT bénéficient d'une remise à...",
-      "excerpt": "Les abonnés payants de ChatGPT bénéficient d'une remise à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6 Sol mise sur l'Espagne, sept autres modèles voient la France championne du monde",
-      "link": "https://www.menow.fr/gpt-5-6-sol-mise-sur-lespagne-sept-autres-modeles-voient-la-france-championne-du-monde/",
-      "url": "https://www.menow.fr/gpt-5-6-sol-mise-sur-lespagne-sept-autres-modeles-voient-la-france-championne-du-monde/",
-      "publishedAt": "2026-07-13T19:33:40.000Z",
-      "date": "2026-07-13T19:33:40.000Z",
-      "description": "ChatGPT Atlas va disparaître: ce qu'il faut sauvegarder avant l'arrêt du navigateur d'OpenAI. 10 juillet 2026. ChatGPT Atlas va être...",
-      "excerpt": "ChatGPT Atlas va disparaître: ce qu'il faut sauvegarder avant l'arrêt du navigateur d'OpenAI. 10 juillet 2026. ChatGPT Atlas va être...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT est de retour sur WhatsApp, gratuitement et sans compte: voici comment y accéder",
-      "link": "https://www.lebigdata.fr/chatgpt-est-de-retour-sur-whatsapp-gratuitement-et-sans-compte-voici-comment-y-acceder",
-      "url": "https://www.lebigdata.fr/chatgpt-est-de-retour-sur-whatsapp-gratuitement-et-sans-compte-voici-comment-y-acceder",
-      "publishedAt": "2026-07-13T19:00:56.000Z",
-      "date": "2026-07-13T19:00:56.000Z",
-      "description": "ChatGPT est de retour sur WhatsApp en Europe. Découvrez comment... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
-      "excerpt": "ChatGPT est de retour sur WhatsApp en Europe. Découvrez comment... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "iOS 27 et macOS 27: les bêtas publiques dans les starting-blocks - MacGeneration",
-      "link": "https://www.macg.co/macos/2026/07/ios-27-et-macos-27-les-betas-publiques-dans-les-starting-blocks-309697",
-      "url": "https://www.macg.co/macos/2026/07/ios-27-et-macos-27-les-betas-publiques-dans-les-starting-blocks-309697",
-      "publishedAt": "2026-07-13T17:55:41.000Z",
-      "date": "2026-07-13T17:55:41.000Z",
-      "description": "# OpenAI # Sam Altman # ChatGPT # Anthropic # ChatGPT Codex # back to school # macOS 27 · Profitez de l'été pour vous abonner au Club iGen! Fermer...",
-      "excerpt": "# OpenAI # Sam Altman # ChatGPT # Anthropic # ChatGPT Codex # back to school # macOS 27 · Profitez de l'été pour vous abonner au Club iGen! Fermer...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
