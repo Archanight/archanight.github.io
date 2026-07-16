@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T18:55:24.030Z",
+  "generatedAt": "2026-07-16T01:46:02.152Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI dévoile GPT-Red: le super-hacker qui renforce GPT-5.6 | Brief IA",
+      "link": "https://www.briefia.fr/article/openai-devoile-gpt-red-le-super-hacker-qui-renforce-gpt-5-6",
+      "url": "https://www.briefia.fr/article/openai-devoile-gpt-red-le-super-hacker-qui-renforce-gpt-5-6",
+      "publishedAt": "2026-07-16T01:11:20.000Z",
+      "date": "2026-07-16T01:11:20.000Z",
+      "description": "... GPT-5. GPT-Red a réussi à identifier plus d'attaques que les humains... OpenAI a lancé GPT-5.4-Cyber, un modèle IA dédié à la cybersécurité défensive,...",
+      "excerpt": "... GPT-5. GPT-Red a réussi à identifier plus d'attaques que les humains... OpenAI a lancé GPT-5.4-Cyber, un modèle IA dédié à la cybersécurité défensive,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI prépare son enceinte sans écran: un HomePod challenger dopé à ChatGPT",
+      "link": "https://stephanelarue.com/openai-enceinte-sans-ecran-chatgpt-homepod/",
+      "url": "https://stephanelarue.com/openai-enceinte-sans-ecran-chatgpt-homepod/",
+      "publishedAt": "2026-07-15T21:18:12.000Z",
+      "date": "2026-07-15T21:18:12.000Z",
+      "description": "OpenAI dévoile son premier objet physique: une enceinte sans écran propulsée par ChatGPT, pilotant votre maison intelligente, disponible en 2027.",
+      "excerpt": "OpenAI dévoile son premier objet physique: une enceinte sans écran propulsée par ChatGPT, pilotant votre maison intelligente, disponible en 2027.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Dropbox dévoile de nouvelles fonctionnalités pour ChatGPT, Codex et ChatGPT Work - ITchannel",
+      "link": "https://itchannel.info/articles/210436/dropbox-devoile-de-nouvelles-fonctionnalites-pour-chatgpt-codex-et-chatgpt-work.html",
+      "url": "https://itchannel.info/articles/210436/dropbox-devoile-de-nouvelles-fonctionnalites-pour-chatgpt-codex-et-chatgpt-work.html",
+      "publishedAt": "2026-07-15T21:09:05.000Z",
+      "date": "2026-07-15T21:09:05.000Z",
+      "description": "Le SOC arrive dans les PME avec Ingram Micro et Xguard One. La cybersécurité des PME reste souvent une affaire de boîtes cochées. Antivirus, pare...",
+      "excerpt": "Le SOC arrive dans les PME avec Ingram Micro et Xguard One. La cybersécurité des PME reste souvent une affaire de boîtes cochées. Antivirus, pare...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Générer du code avec une IA (partie 1) - YouTube",
+      "link": "https://www.youtube.com/watch?v=WigNMs2JBk8",
+      "url": "https://www.youtube.com/watch?v=WigNMs2JBk8",
+      "publishedAt": "2026-07-15T18:17:08.000Z",
+      "date": "2026-07-15T18:17:08.000Z",
+      "description": "... ChatGPT, GitHub Copilot ou d'autres IA pour développer vos applications... cybersécurité? Dites-le-nous en commentaire! N'oubliez pas...",
+      "excerpt": "... ChatGPT, GitHub Copilot ou d'autres IA pour développer vos applications... cybersécurité? Dites-le-nous en commentaire! N'oubliez pas...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Creatives from 'Sharknado' and 'Doctor Who' Are Now Making AI Films (Exclusive) - IMDb",
+      "link": "https://www.imdb.com/fr/news/ni65930004/?ref_=nwc_art_perm",
+      "url": "https://www.imdb.com/fr/news/ni65930004/?ref_=nwc_art_perm",
+      "publishedAt": "2026-07-15T18:06:51.000Z",
+      "date": "2026-07-15T18:06:51.000Z",
+      "description": "And of course they'll prompt ChatGPT for an idea when the screen stays stubbornly blank. But a trade announcement for an AI-enabled film? You'd...",
+      "excerpt": "And of course they'll prompt ChatGPT for an idea when the screen stays stubbornly blank. But a trade announcement for an AI-enabled film? You'd...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "OpenAI a un produit bien en tête pour que ChatGPT vous accompagne partout - Les Numériques",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/openai-a-un-produit-bien-en-tete-pour-que-chatgpt-vous-accompagne-partout-une-enceinte-portable-avec-camera-integree-n259304.html",
@@ -77,56 +127,6 @@
       "date": "2026-07-15T08:18:19.000Z",
       "description": "Sol promet, entre autres, d'exceller dans le développement logiciel, la cybersécurité ou encore les sciences, tout en limitant les coûts...",
       "excerpt": "Sol promet, entre autres, d'exceller dans le développement logiciel, la cybersécurité ou encore les sciences, tout en limitant les coûts...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA & Cybersécurité: les 14 actus clés du 15 juillet 2026",
-      "link": "https://dcod.ch/2026/07/15/ia-cybersecurite-les-14-actus-cles-du-15-juillet-2026/",
-      "url": "https://dcod.ch/2026/07/15/ia-cybersecurite-les-14-actus-cles-du-15-juillet-2026/",
-      "publishedAt": "2026-07-15T06:01:02.000Z",
-      "date": "2026-07-15T06:01:02.000Z",
-      "description": "Voici le tour d'horizon hebdomadaire des actualités à l'intersection de l'intelligence artificielle et de la cybersécurité: avancées...",
-      "excerpt": "Voici le tour d'horizon hebdomadaire des actualités à l'intersection de l'intelligence artificielle et de la cybersécurité: avancées...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le nouveau modèle GPT-5.6 Sol d'OpenAI supprime les fichiers des utilisateurs - Zamin.uz",
-      "link": "https://zamin.uz/fr/technologie/212465-le-nouveau-modele-gpt-5-6-sol-d-openai-supprime-les-fichiers-des-utilisateurs.html",
-      "url": "https://zamin.uz/fr/technologie/212465-le-nouveau-modele-gpt-5-6-sol-d-openai-supprime-les-fichiers-des-utilisateurs.html",
-      "publishedAt": "2026-07-15T03:40:25.000Z",
-      "date": "2026-07-15T03:40:25.000Z",
-      "description": "... cybersécurité, supprime des données importantes et des bases de données entières sans l'autorisation des utilisateurs. Sur les réseaux sociaux...",
-      "excerpt": "... cybersécurité, supprime des données importantes et des bases de données entières sans l'autorisation des utilisateurs. Sur les réseaux sociaux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Elon Musk promet de supprimer toutes les données suite à une fuite d'informations...",
-      "link": "https://zamin.uz/fr/technologie/212456-elon-musk-promet-de-supprimer-toutes-les-donnees-suite-a-une-fuite-d-informations-confidentielles-des-utilisateurs.html",
-      "url": "https://zamin.uz/fr/technologie/212456-elon-musk-promet-de-supprimer-toutes-les-donnees-suite-a-une-fuite-d-informations-confidentielles-des-utilisateurs.html",
-      "publishedAt": "2026-07-15T00:29:55.000Z",
-      "date": "2026-07-15T00:29:55.000Z",
-      "description": "Le problème a été identifié par un expert en cybersécurité sous le pseudonyme de Cereblab.",
-      "excerpt": "Le problème a été identifié par un expert en cybersécurité sous le pseudonyme de Cereblab.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Doceree lance des connecteurs d'IA générative pour OpenAI ChatGPT et Anthropic Claude",
-      "link": "https://www.zonebourse.com/actualite-bourse/doceree-lance-des-connecteurs-d-ia-generative-pour-openai-chatgpt-et-anthropic-claude-ce7f5eddda88f325",
-      "url": "https://www.zonebourse.com/actualite-bourse/doceree-lance-des-connecteurs-d-ia-generative-pour-openai-chatgpt-et-anthropic-claude-ce7f5eddda88f325",
-      "publishedAt": "2026-07-15T00:03:39.000Z",
-      "date": "2026-07-15T00:03:39.000Z",
-      "description": "... ChatGPT... -Le 14 juillet 2026 à 20:35 - Zonebourse.... Cybersécurité · Hydraulique · Moat · L'Industrie du Cannabis · Hydrogène · Smart...",
-      "excerpt": "... ChatGPT... -Le 14 juillet 2026 à 20:35 - Zonebourse.... Cybersécurité · Hydraulique · Moat · L'Industrie du Cannabis · Hydrogène · Smart...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6 Sol d'OpenAI: suppressions de fichiers alarmantes | Brief IA",
-      "link": "https://www.briefia.fr/article/gpt-5-6-sol-d-openai-suppressions-de-fichiers-alarmantes",
-      "url": "https://www.briefia.fr/article/gpt-5-6-sol-d-openai-suppressions-de-fichiers-alarmantes",
-      "publishedAt": "2026-07-14T22:12:08.000Z",
-      "date": "2026-07-14T22:12:08.000Z",
-      "description": "Le dernier modèle d'OpenAI, GPT-5.6 Sol, conçu pour exceller dans les domaines de la programmation et de la cybersécurité, est au cœur d'une...",
-      "excerpt": "Le dernier modèle d'OpenAI, GPT-5.6 Sol, conçu pour exceller dans les domaines de la programmation et de la cybersécurité, est au cœur d'une...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
