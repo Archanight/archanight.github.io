@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T18:56:02.665Z",
+  "generatedAt": "2026-07-17T01:49:27.100Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT et les adolescents: un accès sécurisé à l'IA en 2023 | Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-et-les-adolescents-un-acces-securise-a-l-ia-en-2023",
+      "url": "https://www.briefia.fr/article/chatgpt-et-les-adolescents-un-acces-securise-a-l-ia-en-2023",
+      "publishedAt": "2026-07-17T01:09:35.000Z",
+      "date": "2026-07-17T01:09:35.000Z",
+      "description": "... ChatGPT... OpenAI a lancé GPT-5.5, malgré des préoccupations de cybersécurité, marquant une avancée significative dans l'IA grand public.",
+      "excerpt": "... ChatGPT... OpenAI a lancé GPT-5.5, malgré des préoccupations de cybersécurité, marquant une avancée significative dans l'IA grand public.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude Sonnet 5 vs GPT-5.5: Prix, Benchmarks [2026] - Tech Insider",
+      "link": "https://tech-insider.org/fr/claude-sonnet-5-vs-gpt-5-5-2026/",
+      "url": "https://tech-insider.org/fr/claude-sonnet-5-vs-gpt-5-5-2026/",
+      "publishedAt": "2026-07-16T22:03:33.000Z",
+      "date": "2026-07-16T22:03:33.000Z",
+      "description": "... ChatGPT. Face à lui, Claude Sonnet 5 s'impose comme le nouveau choix... Côté OpenAI, les modèles de la famille GPT-5 déployés via Azure...",
+      "excerpt": "... ChatGPT. Face à lui, Claude Sonnet 5 s'impose comme le nouveau choix... Côté OpenAI, les modèles de la famille GPT-5 déployés via Azure...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI dévoile GPT-Red, son IA pirate conçue pour tester la sécurité de ChatGPT - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/375734/openai-gpt-red-ia-securite/",
+      "url": "https://www.blog-nouvelles-technologies.fr/375734/openai-gpt-red-ia-securite/",
+      "publishedAt": "2026-07-16T19:52:34.000Z",
+      "date": "2026-07-16T19:52:34.000Z",
+      "description": "OpenAI dévoile GPT-Red, son IA pirate conçue pour tester la sécurité de ChatGPT... Face à une ancienne version de GPT-5, plus de 90 % des attaques les...",
+      "excerpt": "OpenAI dévoile GPT-Red, son IA pirate conçue pour tester la sécurité de ChatGPT... Face à une ancienne version de GPT-5, plus de 90 % des attaques les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "L'IA qui vous répond en 2 secondes: elle cuit vos villes à +2°C sans que vous le sachiez",
+      "link": "https://www.cridutroll.fr/lia-qui-vous-repond-en-2-secondes-elle-cuit-vos-villes-a-2c-sans-que-vous-le-sachiez/",
+      "url": "https://www.cridutroll.fr/lia-qui-vous-repond-en-2-secondes-elle-cuit-vos-villes-a-2c-sans-que-vous-le-sachiez/",
+      "publishedAt": "2026-07-16T19:08:28.000Z",
+      "date": "2026-07-16T19:08:28.000Z",
+      "description": "Utiliser chatgpt pour tes contenus gaming: le guide du rédacteur paresseux mais malin... cybersécurité sur Firefox à une vitesse folle. Par...",
+      "excerpt": "Utiliser chatgpt pour tes contenus gaming: le guide du rédacteur paresseux mais malin... cybersécurité sur Firefox à une vitesse folle. Par...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Pourquoi choisir les nouvelles options de sécurité avancée pour votre compte ChatGPT en 2026?",
+      "link": "https://www.emarketerz.fr/pourquoi-choisir-les-nouvelles-options-de-securite-avancee-pour-votre-compte-chatgpt-en-2026/",
+      "url": "https://www.emarketerz.fr/pourquoi-choisir-les-nouvelles-options-de-securite-avancee-pour-votre-compte-chatgpt-en-2026/",
+      "publishedAt": "2026-07-16T18:21:11.000Z",
+      "date": "2026-07-16T18:21:11.000Z",
+      "description": "OpenAI introduit une option de sécurité avancée pour les comptes ChatGPT... En 2026, la cybersécurité est devenue un enjeu majeur pour toutes les...",
+      "excerpt": "OpenAI introduit une option de sécurité avancée pour les comptes ChatGPT... En 2026, la cybersécurité est devenue un enjeu majeur pour toutes les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI vient de lancer son premier appareil, mais ce n'est pas celui que vous croyez",
+      "link": "https://www.01net.com/actualites/openai-vient-lancer-premier-appareil-mais-pas-celui-que-vous-croyez.html",
+      "url": "https://www.01net.com/actualites/openai-vient-lancer-premier-appareil-mais-pas-celui-que-vous-croyez.html",
+      "publishedAt": "2026-07-16T18:15:13.000Z",
+      "date": "2026-07-16T18:15:13.000Z",
+      "description": "Une enceinte avec ChatGPT: le mystérieux projet d'OpenAI continue de... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
+      "excerpt": "Une enceinte avec ChatGPT: le mystérieux projet d'OpenAI continue de... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Adieu au monopole de Gemini sur Android: l'Europe force Google à ouvrir son système aux...",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/adieu-au-monopole-de-gemini-sur-android-l-europe-force-google-a-ouvrir-son-systeme-aux-ia-concurrentes-n259366.html",
@@ -67,66 +127,6 @@
       "date": "2026-07-16T12:32:54.000Z",
       "description": "ChatGPT Atlas est abandonné par OpenAI moins d'un an après son... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
       "excerpt": "ChatGPT Atlas est abandonné par OpenAI moins d'un an après son... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'enceinte connectée d'OpenAI serait un assistant IA personnel et évolutif - PhonAndroid",
-      "link": "https://www.phonandroid.com/lenceinte-connectee-dopenai-serait-un-assistant-ia-personnel-et-evolutif.html",
-      "url": "https://www.phonandroid.com/lenceinte-connectee-dopenai-serait-un-assistant-ia-personnel-et-evolutif.html",
-      "publishedAt": "2026-07-16T11:56:24.000Z",
-      "date": "2026-07-16T11:56:24.000Z",
-      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT. Jusque là, rien de nouveau. Mais l'objet va tout de même se...",
-      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT. Jusque là, rien de nouveau. Mais l'objet va tout de même se...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT est interdit en Italie. - Vietnam.vn",
-      "link": "https://www.vietnam.vn/fr/chatgpt-bi-cam-tai-y",
-      "url": "https://www.vietnam.vn/fr/chatgpt-bi-cam-tai-y",
-      "publishedAt": "2026-07-16T11:29:56.000Z",
-      "date": "2026-07-16T11:29:56.000Z",
-      "description": "ChatGPT est interdit en Italie. GD&TĐ – L'agence italienne de... cybersécurité. Deuxièmement, la concurrence est de plus en plus féroce...",
-      "excerpt": "ChatGPT est interdit en Italie. GD&TĐ – L'agence italienne de... cybersécurité. Deuxièmement, la concurrence est de plus en plus féroce...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Vos outils de visibilité IA vous mentent: ce que le prompt tracking ne voit pas - Leptidigital",
-      "link": "https://www.leptidigital.fr/webmarketing/seo/outils-visibilite-ia-prompt-tracking-vous-mentent-91068/",
-      "url": "https://www.leptidigital.fr/webmarketing/seo/outils-visibilite-ia-prompt-tracking-vous-mentent-91068/",
-      "publishedAt": "2026-07-16T10:32:55.000Z",
-      "date": "2026-07-16T10:32:55.000Z",
-      "description": "Une étude de Demand-Genius avance que les outils de suivi de visibilité IA donnent une image faussée de votre présence dans ChatGPT.",
-      "excerpt": "Une étude de Demand-Genius avance que les outils de suivi de visibilité IA donnent une image faussée de votre présence dans ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance son premier appareil: le clavier Codex Micro pour piloter l'IA du bout des doigts",
-      "link": "https://www.zdnet.fr/actualites/openai-lance-son-tout-premier-appareil-le-clavier-codex-micro-pour-piloter-lia-du-bout-des-doigts-498674.htm",
-      "url": "https://www.zdnet.fr/actualites/openai-lance-son-tout-premier-appareil-le-clavier-codex-micro-pour-piloter-lia-du-bout-des-doigts-498674.htm",
-      "publishedAt": "2026-07-16T08:31:36.000Z",
-      "date": "2026-07-16T08:31:36.000Z",
-      "description": "Compatible avec les applications de bureau ChatGPT sous macOS et Windows, il prend en charge les connexions Bluetooth et USB-C. Le clavier intègre six...",
-      "excerpt": "Compatible avec les applications de bureau ChatGPT sous macOS et Windows, il prend en charge les connexions Bluetooth et USB-C. Le clavier intègre six...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "GPT-Red: l'IA d'OpenAI capable de pirater d'autres IA - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/375734/openai-gpt-red-ia-securite/",
-      "url": "https://www.blog-nouvelles-technologies.fr/375734/openai-gpt-red-ia-securite/",
-      "publishedAt": "2026-07-16T07:56:13.000Z",
-      "date": "2026-07-16T07:56:13.000Z",
-      "description": "OpenAI dévoile GPT-Red, son IA pirate conçue pour tester la sécurité de ChatGPT... Et si la meilleure façon de sécuriser une intelligence artificielle...",
-      "excerpt": "OpenAI dévoile GPT-Red, son IA pirate conçue pour tester la sécurité de ChatGPT... Et si la meilleure façon de sécuriser une intelligence artificielle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI préparerait une enceinte intelligente sans écran pour emmener ChatGPT partout",
-      "link": "https://siecledigital.fr/2026/07/16/openai-preparerait-une-enceinte-intelligente-sans-ecran-pour-emmener-chatgpt-partout/",
-      "url": "https://siecledigital.fr/2026/07/16/openai-preparerait-une-enceinte-intelligente-sans-ecran-pour-emmener-chatgpt-partout/",
-      "publishedAt": "2026-07-16T07:55:57.000Z",
-      "date": "2026-07-16T07:55:57.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Technologie... ChatGPT connaîtrait vos mails.",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Technologie... ChatGPT connaîtrait vos mails.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
