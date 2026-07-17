@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T07:52:26.853Z",
+  "generatedAt": "2026-07-17T13:05:40.763Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Les agents IA déferlent sur le web avec un trafic en hausse de 45 % - Siècle Digital",
+      "link": "https://siecledigital.fr/2026/07/17/les-agents-ia-deferlent-sur-le-web-avec-un-trafic-en-hausse-de-45/",
+      "url": "https://siecledigital.fr/2026/07/17/les-agents-ia-deferlent-sur-le-web-avec-un-trafic-en-hausse-de-45/",
+      "publishedAt": "2026-07-17T08:36:38.000Z",
+      "date": "2026-07-17T08:36:38.000Z",
+      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils... Le volume de requêtes de crawl estampillées ChatGPT -User a reculé de 6 % sur le trimestre.",
+      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils... Le volume de requêtes de crawl estampillées ChatGPT -User a reculé de 6 % sur le trimestre.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude se connecte à vos comptes grâce à 1Password: la fausse bonne idée du jour?",
+      "link": "https://www.journaldugeek.com/2026/07/17/claude-se-connecte-a-vos-comptes-grace-a-1password-la-fausse-bonne-idee-du-jour/",
+      "url": "https://www.journaldugeek.com/2026/07/17/claude-se-connecte-a-vos-comptes-grace-a-1password-la-fausse-bonne-idee-du-jour/",
+      "publishedAt": "2026-07-17T08:18:50.000Z",
+      "date": "2026-07-17T08:18:50.000Z",
+      "description": "Bonne idée pour améliorer la productivité ou véritable danger pour la confidentialité? Chatgpt Image 16 Juil. 2026, 17 37 39 © ChatGPT - IA.",
+      "excerpt": "Bonne idée pour améliorer la productivité ou véritable danger pour la confidentialité? Chatgpt Image 16 Juil. 2026, 17 37 39 © ChatGPT - IA.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-Red: l'IA de cybersécurité d'OpenAI qui bat les humains sur 84 % des attaques testées",
+      "link": "https://www.leptidigital.fr/securite-informatique/gpt-red-ia-cybersecurite-openai-91119/",
+      "url": "https://www.leptidigital.fr/securite-informatique/gpt-red-ia-cybersecurite-openai-91119/",
+      "publishedAt": "2026-07-17T08:11:17.000Z",
+      "date": "2026-07-17T08:11:17.000Z",
+      "description": "OpenAI s'en est servi pour durcir GPT-5.6, qui échoue désormais sur 0,05... ChatGPT, Newsletter Veille Digitale, OpenAI. Ceci pourrait vous...",
+      "excerpt": "OpenAI s'en est servi pour durcir GPT-5.6, qui échoue désormais sur 0,05... ChatGPT, Newsletter Veille Digitale, OpenAI. Ceci pourrait vous...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Protéger vos données des chatbots IA: le guide complet pour désactiver la collecte",
+      "link": "https://www.briefia.fr/blog/proteger-donnees-chatbots-ia-2023",
+      "url": "https://www.briefia.fr/blog/proteger-donnees-chatbots-ia-2023",
+      "publishedAt": "2026-07-17T06:09:07.000Z",
+      "date": "2026-07-17T06:09:07.000Z",
+      "description": "Ce tutoriel vous montre, clic par clic, comment limiter au maximum l'utilisation de vos données par les principaux chatbots ( ChatGPT, Meta AI, autres...",
+      "excerpt": "Ce tutoriel vous montre, clic par clic, comment limiter au maximum l'utilisation de vos données par les principaux chatbots ( ChatGPT, Meta AI, autres...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT et les adolescents: un accès sécurisé à l'IA en 2023 | Brief IA",
       "link": "https://www.briefia.fr/article/chatgpt-et-les-adolescents-un-acces-securise-a-l-ia-en-2023",
@@ -70,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "OpenAI: Une fuite révèle une enceinte ChatGPT sans écran pour 2027 - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/openai-une-fuite-revele-une-enceinte-chatgpt-sans-ecran-pour-2027",
+      "url": "https://www.lebigdata.fr/openai-une-fuite-revele-une-enceinte-chatgpt-sans-ecran-pour-2027",
+      "publishedAt": "2026-07-16T15:31:11.000Z",
+      "date": "2026-07-16T15:31:11.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... OpenAI préparerait une enceinte ChatGPT sans écran, portable, observatrice et trop...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... OpenAI préparerait une enceinte ChatGPT sans écran, portable, observatrice et trop...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Adieu au monopole de Gemini sur Android: l'Europe force Google à ouvrir son système aux...",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/adieu-au-monopole-de-gemini-sur-android-l-europe-force-google-a-ouvrir-son-systeme-aux-ia-concurrentes-n259366.html",
       "url": "https://www.lesnumeriques.com/intelligence-artificielle/adieu-au-monopole-de-gemini-sur-android-l-europe-force-google-a-ouvrir-son-systeme-aux-ia-concurrentes-n259366.html",
@@ -78,56 +128,6 @@
       "description": "ChatGPT, Claude ou tout autre assistant IA concurrent reste cantonné au... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
       "excerpt": "ChatGPT, Claude ou tout autre assistant IA concurrent reste cantonné au... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT: une nouvelle fonctionnalité de recherche vous permet de retrouver vos...",
-      "link": "https://www.notebookcheck.biz/ChatGPT-une-nouvelle-fonctionnalite-de-recherche-vous-permet-de-retrouver-vos-anciennes-conversations-images-et-documents.1344532.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-une-nouvelle-fonctionnalite-de-recherche-vous-permet-de-retrouver-vos-anciennes-conversations-images-et-documents.1344532.0.html",
-      "publishedAt": "2026-07-16T13:52:15.000Z",
-      "date": "2026-07-16T13:52:15.000Z",
-      "description": "ChatGPT dispose enfin d'une fonctionnalité de recherche efficace. Au lieu de faire défiler d'anciennes conversations, vous pouvez désormais...",
-      "excerpt": "ChatGPT dispose enfin d'une fonctionnalité de recherche efficace. Au lieu de faire défiler d'anciennes conversations, vous pouvez désormais...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI dévoile GPT-Red, une IA qui attaque ses propres modèles pour les renforcer",
-      "link": "https://fr.tradingview.com/news/cointribune:6f301eb74b858:0/",
-      "url": "https://fr.tradingview.com/news/cointribune:6f301eb74b858:0/",
-      "publishedAt": "2026-07-16T13:24:16.000Z",
-      "date": "2026-07-16T13:24:16.000Z",
-      "description": "GPT-Red prolonge plusieurs années d'efforts de cybersécurité lancés par OpenAI après le succès public de ChatGPT. L'entreprise avait créé en 2023...",
-      "excerpt": "GPT-Red prolonge plusieurs années d'efforts de cybersécurité lancés par OpenAI après le succès public de ChatGPT. L'entreprise avait créé en 2023...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Sécurité avancée ChatGPT, activer le compte sans blocage - Clubic",
-      "link": "https://www.clubic.com/tutoriel-621409-chatgpt-dispose-d-un-reglage-de-securite-avancee-pour-votre-compte-voici-comment-l-activer.html",
-      "url": "https://www.clubic.com/tutoriel-621409-chatgpt-dispose-d-un-reglage-de-securite-avancee-pour-votre-compte-voici-comment-l-activer.html",
-      "publishedAt": "2026-07-16T12:35:31.000Z",
-      "date": "2026-07-16T12:35:31.000Z",
-      "description": "ChatGPT dispose d'un réglage de sécurité avancée pour votre compte... Cybersécurité · Intelligence artificielle · Gestionnaire de mot de passe.",
-      "excerpt": "ChatGPT dispose d'un réglage de sécurité avancée pour votre compte... Cybersécurité · Intelligence artificielle · Gestionnaire de mot de passe.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile GPT‑Red, la redoutable IA qui pirate ChatGPT, mais c'est pour son bien",
-      "link": "https://www.01net.com/actualites/openai-devoile-gpt%E2%80%91red-redoutable-ia-chargee-pirater-chatgpt.html",
-      "url": "https://www.01net.com/actualites/openai-devoile-gpt%E2%80%91red-redoutable-ia-chargee-pirater-chatgpt.html",
-      "publishedAt": "2026-07-16T12:33:42.000Z",
-      "date": "2026-07-16T12:33:42.000Z",
-      "description": "... ChatGPT. Ces simulations, évoquées sous le nom de « red teaming » dans le monde de la cybersécurité, doivent permettre d'isoler les points faibles...",
-      "excerpt": "... ChatGPT. Ces simulations, évoquées sous le nom de « red teaming » dans le monde de la cybersécurité, doivent permettre d'isoler les points faibles...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Mort de ChatGPT Atlas: comment la menace Anthropic a forcé OpenAI à tuer ses",
-      "link": "https://www.01net.com/actualites/mort-de-chatgpt-atlas-comment-la-menace-anthropic-a-force-openai-a-tuer-ses-quetes-secondaires.html",
-      "url": "https://www.01net.com/actualites/mort-de-chatgpt-atlas-comment-la-menace-anthropic-a-force-openai-a-tuer-ses-quetes-secondaires.html",
-      "publishedAt": "2026-07-16T12:32:54.000Z",
-      "date": "2026-07-16T12:32:54.000Z",
-      "description": "ChatGPT Atlas est abandonné par OpenAI moins d'un an après son... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "excerpt": "ChatGPT Atlas est abandonné par OpenAI moins d'un an après son... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
