@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T12:52:47.163Z",
+  "generatedAt": "2026-07-18T18:47:14.451Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Attention: le nouveau ChatGPT vient de sortir et il peut anéantir les fichiers des utilisateurs",
+      "link": "https://www.jeuxvideo.com/news/2094478/attention-le-nouveau-chatgpt-vient-de-sortir-et-il-peut-aneantir-les-fichiers-des-utilisateurs.htm",
+      "url": "https://www.jeuxvideo.com/news/2094478/attention-le-nouveau-chatgpt-vient-de-sortir-et-il-peut-aneantir-les-fichiers-des-utilisateurs.htm",
+      "publishedAt": "2026-07-18T17:46:35.000Z",
+      "date": "2026-07-18T17:46:35.000Z",
+      "description": "Conçu pour épauler les ingénieurs en programmation et en cybersécurité, ce modèle ferait preuve d'une autonomie tellement agressive qu'il...",
+      "excerpt": "Conçu pour épauler les ingénieurs en programmation et en cybersécurité, ce modèle ferait preuve d'une autonomie tellement agressive qu'il...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google doit ouvrir Android à ChatGPT et à d'autres assistants IA - Notebookcheck",
+      "link": "https://www.notebookcheck.biz/Google-doit-ouvrir-Android-a-ChatGPT-et-a-d-x27-autres-assistants-IA.1346088.0.html",
+      "url": "https://www.notebookcheck.biz/Google-doit-ouvrir-Android-a-ChatGPT-et-a-d-x27-autres-assistants-IA.1346088.0.html",
+      "publishedAt": "2026-07-18T11:34:47.000Z",
+      "date": "2026-07-18T11:34:47.000Z",
+      "description": "La Commission européenne a rendu deux décisions contraignantes à l'encontre de Google. Les assistants IA tiers, tels que ChatGPT, doivent se voir...",
+      "excerpt": "La Commission européenne a rendu deux décisions contraignantes à l'encontre de Google. Les assistants IA tiers, tels que ChatGPT, doivent se voir...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Kimi K3: le grand bond en avant de l'IA chinoise… au point de rattraper les Américains?",
       "link": "https://atlantico.fr/article/decryptage/kimi-k3-grand-bond-en-avant-ia-chinoise-au-point-de-rattraper-les-americains-Chine-Etats-Unis-Grok-Chatgpt-openai-anthropic-deep-seek-intelligence-artificielle-Benoit-Grunemwald-Thierry-Berthier",
@@ -108,26 +128,6 @@
       "description": "On continue de créer le jeu avec ChatGPT et Claude! Cette fois, vous m'avez demandé d'ajouter des ailes pour pouvoir s'envoler et planer.",
       "excerpt": "On continue de créer le jeu avec ChatGPT et Claude! Cette fois, vous m'avez demandé d'ajouter des ailes pour pouvoir s'envoler et planer.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "GPT-Live transforme ChatGPT Voice: OpenAI veut faire de la voix une interface agentique",
-      "link": "https://critiqueplus.com/gpt-live-transforme-chatgpt-voice/",
-      "url": "https://critiqueplus.com/gpt-live-transforme-chatgpt-voice/",
-      "publishedAt": "2026-07-17T14:12:56.000Z",
-      "date": "2026-07-17T14:12:56.000Z",
-      "description": "Les notes de version de ChatGPT précisent que GPT-Live-1 est utilisé pour les utilisateurs payants, tandis que GPT-Live-1 mini est utilisé pour les...",
-      "excerpt": "Les notes de version de ChatGPT précisent que GPT-Live-1 est utilisé pour les utilisateurs payants, tandis que GPT-Live-1 mini est utilisé pour les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Google contraint de retarder Gemini 3.5 Pro, ses performances en code sont décevantes",
-      "link": "https://www.clubic.com/actualite-621769-google-contraint-de-retarder-gemini-3-5-pro-ses-performances-en-code-sont-decevantes.html",
-      "url": "https://www.clubic.com/actualite-621769-google-contraint-de-retarder-gemini-3-5-pro-ses-performances-en-code-sont-decevantes.html",
-      "publishedAt": "2026-07-17T14:03:05.000Z",
-      "date": "2026-07-17T14:03:05.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit... Gemini 3.5 Pro n'est pas au niveau de Claude Code ou de ChatGPT 5.3 Codex en codage.",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit... Gemini 3.5 Pro n'est pas au niveau de Claude Code ou de ChatGPT 5.3 Codex en codage.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
