@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T18:52:23.829Z",
+  "generatedAt": "2026-07-18T01:30:15.386Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "1min.AI Pro à moins de 22 € à vie au lieu de 205 € sur StackSocial - Clubic",
+      "link": "https://www.clubic.com/bons-plans-621781-fini-les-abonnements-ia-qui-s-accumulent-1min-ai-pro-passe-a-moins-de-22-a-vie.html",
+      "url": "https://www.clubic.com/bons-plans-621781-fini-les-abonnements-ia-qui-s-accumulent-1min-ai-pro-passe-a-moins-de-22-a-vie.html",
+      "publishedAt": "2026-07-17T23:40:35.000Z",
+      "date": "2026-07-17T23:40:35.000Z",
+      "description": "Top Cybersécurité... À moins de 22 € en paiement unique, l'offre rentabilise son coût dès le premier ou deuxième mois comparé à un abonnement ChatGPT...",
+      "excerpt": "Top Cybersécurité... À moins de 22 € en paiement unique, l'offre rentabilise son coût dès le premier ou deuxième mois comparé à un abonnement ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Tu te prends la tête avec ChatGPT au boulot... - YouTube",
+      "link": "https://www.youtube.com/watch?v=rydbcU3OuT8",
+      "url": "https://www.youtube.com/watch?v=rydbcU3OuT8",
+      "publishedAt": "2026-07-17T20:16:27.000Z",
+      "date": "2026-07-17T20:16:27.000Z",
+      "description": "parle aussi: ChatGPT, Claude, Gemini, intelligence artificielle générative, automatisation, cybersécurité, informatique, hardware, smartphones...",
+      "excerpt": "parle aussi: ChatGPT, Claude, Gemini, intelligence artificielle générative, automatisation, cybersécurité, informatique, hardware, smartphones...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Innovation choc chez OpenAI: GPT-Red, une nouvelle IA qui attaque ChatGPT",
+      "link": "https://www.linternaute.com/hightech/logiciel/10942418-.../",
+      "url": "https://www.linternaute.com/hightech/logiciel/10942418-.../",
+      "publishedAt": "2026-07-17T18:27:46.000Z",
+      "date": "2026-07-17T18:27:46.000Z",
+      "description": "OpenAI a annoncé le mercredi 15 juillet le lancement de GPT-Red, un outil de cybersécurité pour améliorer la robustesse de leurs modèles d'...",
+      "excerpt": "OpenAI a annoncé le mercredi 15 juillet le lancement de GPT-Red, un outil de cybersécurité pour améliorer la robustesse de leurs modèles d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT adds WINGS to fly! 🕊️ - YouTube",
+      "link": "https://www.youtube.com/watch?v=fzOxvukLahc",
+      "url": "https://www.youtube.com/watch?v=fzOxvukLahc",
+      "publishedAt": "2026-07-17T16:39:53.000Z",
+      "date": "2026-07-17T16:39:53.000Z",
+      "description": "On continue de créer le jeu avec ChatGPT et Claude! Cette fois, vous m'avez demandé d'ajouter des ailes pour pouvoir s'envoler et planer.",
+      "excerpt": "On continue de créer le jeu avec ChatGPT et Claude! Cette fois, vous m'avez demandé d'ajouter des ailes pour pouvoir s'envoler et planer.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Google contraint de retarder Gemini 3.5 Pro, ses performances en code sont décevantes",
       "link": "https://www.clubic.com/actualite-621769-google-contraint-de-retarder-gemini-3-5-pro-ses-performances-en-code-sont-decevantes.html",
@@ -87,46 +127,6 @@
       "date": "2026-07-17T00:01:32.000Z",
       "description": "À mesure que les modèles ouverts et commerciaux deviennent meilleurs dans la planification à long terme, l'utilisation d'outils, la cybersécurité et l...",
       "excerpt": "À mesure que les modèles ouverts et commerciaux deviennent meilleurs dans la planification à long terme, l'utilisation d'outils, la cybersécurité et l...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude Sonnet 5 vs GPT-5.5: Prix, Benchmarks [2026] - Tech Insider",
-      "link": "https://tech-insider.org/fr/claude-sonnet-5-vs-gpt-5-5-2026/",
-      "url": "https://tech-insider.org/fr/claude-sonnet-5-vs-gpt-5-5-2026/",
-      "publishedAt": "2026-07-16T22:03:33.000Z",
-      "date": "2026-07-16T22:03:33.000Z",
-      "description": "... ChatGPT. Face à lui, Claude Sonnet 5 s'impose comme le nouveau choix... Côté OpenAI, les modèles de la famille GPT-5 déployés via Azure...",
-      "excerpt": "... ChatGPT. Face à lui, Claude Sonnet 5 s'impose comme le nouveau choix... Côté OpenAI, les modèles de la famille GPT-5 déployés via Azure...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile GPT-Red, son IA pirate conçue pour tester la sécurité de ChatGPT - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/375734/openai-gpt-red-ia-securite/",
-      "url": "https://www.blog-nouvelles-technologies.fr/375734/openai-gpt-red-ia-securite/",
-      "publishedAt": "2026-07-16T19:52:34.000Z",
-      "date": "2026-07-16T19:52:34.000Z",
-      "description": "OpenAI dévoile GPT-Red, son IA pirate conçue pour tester la sécurité de ChatGPT... Face à une ancienne version de GPT-5, plus de 90 % des attaques les...",
-      "excerpt": "OpenAI dévoile GPT-Red, son IA pirate conçue pour tester la sécurité de ChatGPT... Face à une ancienne version de GPT-5, plus de 90 % des attaques les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "L'IA qui vous répond en 2 secondes: elle cuit vos villes à +2°C sans que vous le sachiez",
-      "link": "https://www.cridutroll.fr/lia-qui-vous-repond-en-2-secondes-elle-cuit-vos-villes-a-2c-sans-que-vous-le-sachiez/",
-      "url": "https://www.cridutroll.fr/lia-qui-vous-repond-en-2-secondes-elle-cuit-vos-villes-a-2c-sans-que-vous-le-sachiez/",
-      "publishedAt": "2026-07-16T19:08:28.000Z",
-      "date": "2026-07-16T19:08:28.000Z",
-      "description": "Utiliser chatgpt pour tes contenus gaming: le guide du rédacteur paresseux mais malin... cybersécurité sur Firefox à une vitesse folle. Par...",
-      "excerpt": "Utiliser chatgpt pour tes contenus gaming: le guide du rédacteur paresseux mais malin... cybersécurité sur Firefox à une vitesse folle. Par...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pourquoi choisir les nouvelles options de sécurité avancée pour votre compte ChatGPT en 2026?",
-      "link": "https://www.emarketerz.fr/pourquoi-choisir-les-nouvelles-options-de-securite-avancee-pour-votre-compte-chatgpt-en-2026/",
-      "url": "https://www.emarketerz.fr/pourquoi-choisir-les-nouvelles-options-de-securite-avancee-pour-votre-compte-chatgpt-en-2026/",
-      "publishedAt": "2026-07-16T18:21:11.000Z",
-      "date": "2026-07-16T18:21:11.000Z",
-      "description": "OpenAI introduit une option de sécurité avancée pour les comptes ChatGPT... En 2026, la cybersécurité est devenue un enjeu majeur pour toutes les...",
-      "excerpt": "OpenAI introduit une option de sécurité avancée pour les comptes ChatGPT... En 2026, la cybersécurité est devenue un enjeu majeur pour toutes les...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
