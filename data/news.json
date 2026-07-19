@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T07:59:45.808Z",
+  "generatedAt": "2026-07-19T12:55:15.163Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Invité par OpenAI, un écrivain a dit à 200 employés que ChatGPT \"fait taire une génération\"",
+      "link": "https://korben.info/invite-par-openai-un-ecrivain-a-dit-a-200-employes-que-chatgpt-fait-taire-une-generation.html",
+      "url": "https://korben.info/invite-par-openai-un-ecrivain-a-dit-a-200-employes-que-chatgpt-fait-taire-une-generation.html",
+      "publishedAt": "2026-07-19T07:57:22.000Z",
+      "date": "2026-07-19T07:57:22.000Z",
+      "description": "Invité par OpenAI, un écrivain a dit à 200 employés que ChatGPT \"fait taire une génération\"... Les métiers de la Cybersécurité et de l'Intelligence...",
+      "excerpt": "Invité par OpenAI, un écrivain a dit à 200 employés que ChatGPT \"fait taire une génération\"... Les métiers de la Cybersécurité et de l'Intelligence...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "De Quoi J'me Mail: La guerre est déclarée entre Apple et OpenAI (1/2) - 19/07: Actualités",
+      "link": "https://actu.orange.fr/videos/economie/de-quoi-j-me-mail-la-guerre-est-declaree-entre-apple-et-openai-1-2-19-07-CNT000002qzyki.html",
+      "url": "https://actu.orange.fr/videos/economie/de-quoi-j-me-mail-la-guerre-est-declaree-entre-apple-et-openai-1-2-19-07-CNT000002qzyki.html",
+      "publishedAt": "2026-07-19T07:49:21.000Z",
+      "date": "2026-07-19T07:49:21.000Z",
+      "description": "Cybersécurité et Télésurveillance. Bons plans Xiaomi 17T. +... ChatGPT sur iPhone: la vérité. Tous publics. GTA VI ne sortira jamais en...",
+      "excerpt": "Cybersécurité et Télésurveillance. Bons plans Xiaomi 17T. +... ChatGPT sur iPhone: la vérité. Tous publics. GTA VI ne sortira jamais en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "L'UE oblige Google à ouvrir Android AI à ChatGPT et à d'autres concurrents.",
       "link": "https://fr.xiaomi-miui.gr/eu-google-open-android-ai-rival-apps-dma/",
@@ -107,26 +127,6 @@
       "date": "2026-07-17T20:16:27.000Z",
       "description": "parle aussi: ChatGPT, Claude, Gemini, intelligence artificielle générative, automatisation, cybersécurité, informatique, hardware, smartphones...",
       "excerpt": "parle aussi: ChatGPT, Claude, Gemini, intelligence artificielle générative, automatisation, cybersécurité, informatique, hardware, smartphones...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Moins forte que ChatGPT, mais 10x plus puissante? #intelligenceartificielle #inkling #ia - Facebook",
-      "link": "https://www.facebook.com/frandroidcom/videos/un-nouveau-style-dia-pour-tuer-chatgpt-shorts/28134728892881917/",
-      "url": "https://www.facebook.com/frandroidcom/videos/un-nouveau-style-dia-pour-tuer-chatgpt-shorts/28134728892881917/",
-      "publishedAt": "2026-07-17T19:20:04.000Z",
-      "date": "2026-07-17T19:20:04.000Z",
-      "description": "Moins forte que ChatGPT, mais 10x plus puissante? #intelligenceartificielle #inkling #ia.",
-      "excerpt": "Moins forte que ChatGPT, mais 10x plus puissante? #intelligenceartificielle #inkling #ia.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Innovation choc chez OpenAI: GPT-Red, une nouvelle IA qui attaque ChatGPT",
-      "link": "https://www.linternaute.com/hightech/logiciel/10942418-.../",
-      "url": "https://www.linternaute.com/hightech/logiciel/10942418-.../",
-      "publishedAt": "2026-07-17T18:27:46.000Z",
-      "date": "2026-07-17T18:27:46.000Z",
-      "description": "OpenAI a annoncé le mercredi 15 juillet le lancement de GPT-Red, un outil de cybersécurité pour améliorer la robustesse de leurs modèles d'...",
-      "excerpt": "OpenAI a annoncé le mercredi 15 juillet le lancement de GPT-Red, un outil de cybersécurité pour améliorer la robustesse de leurs modèles d'...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
