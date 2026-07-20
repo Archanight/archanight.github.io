@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T13:48:29.962Z",
+  "generatedAt": "2026-07-20T19:25:16.859Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "L'IA chinoise défie ChatGPT et Claude Fable en 2023 - Brief IA",
+      "link": "https://www.briefia.fr/article/l-ia-chinoise-defie-chatgpt-et-claude-fable-en-2023",
+      "url": "https://www.briefia.fr/article/l-ia-chinoise-defie-chatgpt-et-claude-fable-en-2023",
+      "publishedAt": "2026-07-20T19:09:24.000Z",
+      "date": "2026-07-20T19:09:24.000Z",
+      "description": "... ChatGPT 5.6 et Claude Fable 5. • Cette... Zhipu, une IA chinoise, a lancé le modèle GLM-5.2, prétendant rivaliser avec Mythos en cybersécurité.",
+      "excerpt": "... ChatGPT 5.6 et Claude Fable 5. • Cette... Zhipu, une IA chinoise, a lancé le modèle GLM-5.2, prétendant rivaliser avec Mythos en cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Kimi K3 se classe en tête du Frontend Code Arena, une première pour les modèles d'IA chinois",
+      "link": "https://www.notebookcheck.biz/Kimi-K3-se-classe-en-tete-du-Frontend-Code-Arena-une-premiere-pour-les-modeles-d-x27-IA-chinois.1347196.0.html",
+      "url": "https://www.notebookcheck.biz/Kimi-K3-se-classe-en-tete-du-Frontend-Code-Arena-une-premiere-pour-les-modeles-d-x27-IA-chinois.1347196.0.html",
+      "publishedAt": "2026-07-20T16:29:31.000Z",
+      "date": "2026-07-20T16:29:31.000Z",
+      "description": "Le modèle Kimi K3 de Moonshot AI s'est hissé dans le top 10 du classement « Frontier Text », rivalisant ainsi avec Claude, ChatGPT et Gemini.",
+      "excerpt": "Le modèle Kimi K3 de Moonshot AI s'est hissé dans le top 10 du classement « Frontier Text », rivalisant ainsi avec Claude, ChatGPT et Gemini.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Attention si vous utilisez 7-Zip: une faille permet de prendre le contrôle de votre ordinateur",
+      "link": "https://www.01net.com/actualites/attention-7-zip-faille-prendre-controle-ordinateur.html",
+      "url": "https://www.01net.com/actualites/attention-7-zip-faille-prendre-controle-ordinateur.html",
+      "publishedAt": "2026-07-20T16:02:09.000Z",
+      "date": "2026-07-20T16:02:09.000Z",
+      "description": "Cybersécurité · Lg Spyware Tvs Frame. LG s'est servi d'une faille... ChatGPT · Microsoft 365 · Opera One · Avast One. Les tests à la une. AirPods...",
+      "excerpt": "Cybersécurité · Lg Spyware Tvs Frame. LG s'est servi d'une faille... ChatGPT · Microsoft 365 · Opera One · Avast One. Les tests à la une. AirPods...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Après ChatGPT, les « world models » veulent apprendre aux IA à comprendre le monde",
+      "link": "https://linformation.ma/news/high-tech/apres-chatgpt-les-world-models-veulent-apprendre-aux-ia-a-comprendre-le-monde/64890",
+      "url": "https://linformation.ma/news/high-tech/apres-chatgpt-les-world-models-veulent-apprendre-aux-ia-a-comprendre-le-monde/64890",
+      "publishedAt": "2026-07-20T15:27:20.000Z",
+      "date": "2026-07-20T15:27:20.000Z",
+      "description": "Tag: ChatGPT world models IA. Cybersécurité...",
+      "excerpt": "Tag: ChatGPT world models IA. Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Pourquoi Apple s'en prend à ses ex salariés partis chez OpenAI - Silicon.fr",
+      "link": "https://www.silicon.fr/business-1367/pourquoi-apple-sen-prend-a-ses-ex-salaries-partis-chez-openai-228357",
+      "url": "https://www.silicon.fr/business-1367/pourquoi-apple-sen-prend-a-ses-ex-salaries-partis-chez-openai-228357",
+      "publishedAt": "2026-07-20T15:01:46.000Z",
+      "date": "2026-07-20T15:01:46.000Z",
+      "description": "Apple avait signé un accord avec OpenAI en 2024 pour intégrer la technologie de ChatGPT à Siri, son assistant vocal vieillissant.... cybersécurité.",
+      "excerpt": "Apple avait signé un accord avec OpenAI en 2024 pour intégrer la technologie de ChatGPT à Siri, son assistant vocal vieillissant.... cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.6 a découvert une faille critique de WordPress, affirme un chercheur - Unite.AI",
+      "link": "https://www.unite.ai/fr/gpt-5-6-found-a-critical-wordpress-flaw-researcher-says/",
+      "url": "https://www.unite.ai/fr/gpt-5-6-found-a-critical-wordpress-flaw-researcher-says/",
+      "publishedAt": "2026-07-20T13:43:19.000Z",
+      "date": "2026-07-20T13:43:19.000Z",
+      "description": "Cybersécurité. GPT-5.6 a découvert une faille critique de WordPress, affirme un chercheur. mm. Publié le 20 juillet 2026. Par. Miles Okada, AI...",
+      "excerpt": "Cybersécurité. GPT-5.6 a découvert une faille critique de WordPress, affirme un chercheur. mm. Publié le 20 juillet 2026. Par. Miles Okada, AI...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "DeepL vs GPT-5.6 vs Gemini 3.1 Pro: 31 Langues [2026] - Tech Insider",
       "link": "https://tech-insider.org/fr/deepl-vs-gpt-5-6-vs-gemini-3-1-pro-2026/",
@@ -67,66 +127,6 @@
       "date": "2026-07-18T19:31:41.000Z",
       "description": "... ChatGPT et à d'autres concurrents. Nvidia RTX Spark: Premier test Cinebench 2026 révélant les performances du nouveau SoC IA · Xiaomi 17: la...",
       "excerpt": "... ChatGPT et à d'autres concurrents. Nvidia RTX Spark: Premier test Cinebench 2026 révélant les performances du nouveau SoC IA · Xiaomi 17: la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Attention: le nouveau ChatGPT vient de sortir et il peut anéantir les fichiers des utilisateurs",
-      "link": "https://www.jeuxvideo.com/news/2094478/attention-le-nouveau-chatgpt-vient-de-sortir-et-il-peut-aneantir-les-fichiers-des-utilisateurs.htm",
-      "url": "https://www.jeuxvideo.com/news/2094478/attention-le-nouveau-chatgpt-vient-de-sortir-et-il-peut-aneantir-les-fichiers-des-utilisateurs.htm",
-      "publishedAt": "2026-07-18T17:46:35.000Z",
-      "date": "2026-07-18T17:46:35.000Z",
-      "description": "Conçu pour épauler les ingénieurs en programmation et en cybersécurité, ce modèle ferait preuve d'une autonomie tellement agressive qu'il...",
-      "excerpt": "Conçu pour épauler les ingénieurs en programmation et en cybersécurité, ce modèle ferait preuve d'une autonomie tellement agressive qu'il...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google doit ouvrir Android à ChatGPT et à d'autres assistants IA - Notebookcheck",
-      "link": "https://www.notebookcheck.biz/Google-doit-ouvrir-Android-a-ChatGPT-et-a-d-x27-autres-assistants-IA.1346088.0.html",
-      "url": "https://www.notebookcheck.biz/Google-doit-ouvrir-Android-a-ChatGPT-et-a-d-x27-autres-assistants-IA.1346088.0.html",
-      "publishedAt": "2026-07-18T11:34:47.000Z",
-      "date": "2026-07-18T11:34:47.000Z",
-      "description": "La Commission européenne a rendu deux décisions contraignantes à l'encontre de Google. Les assistants IA tiers, tels que ChatGPT, doivent se voir...",
-      "excerpt": "La Commission européenne a rendu deux décisions contraignantes à l'encontre de Google. Les assistants IA tiers, tels que ChatGPT, doivent se voir...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Kimi K3: le grand bond en avant de l'IA chinoise… au point de rattraper les Américains?",
-      "link": "https://atlantico.fr/article/decryptage/kimi-k3-grand-bond-en-avant-ia-chinoise-au-point-de-rattraper-les-americains-Chine-Etats-Unis-Grok-Chatgpt-openai-anthropic-deep-seek-intelligence-artificielle-Benoit-Grunemwald-Thierry-Berthier",
-      "url": "https://atlantico.fr/article/decryptage/kimi-k3-grand-bond-en-avant-ia-chinoise-au-point-de-rattraper-les-americains-Chine-Etats-Unis-Grok-Chatgpt-openai-anthropic-deep-seek-intelligence-artificielle-Benoit-Grunemwald-Thierry-Berthier",
-      "publishedAt": "2026-07-18T10:57:02.000Z",
-      "date": "2026-07-18T10:57:02.000Z",
-      "description": "... GPT-5. En effet, la production et l'entraînement de modèles de cette... Benoît Grunenwald est expert en cybersécurité chez ESET. Pour...",
-      "excerpt": "... GPT-5. En effet, la production et l'entraînement de modèles de cette... Benoît Grunenwald est expert en cybersécurité chez ESET. Pour...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "DeepSeek V4 vs Claude Fable 5 vs GPT-5.6: Prix x57 [2026] - Tech Insider",
-      "link": "https://tech-insider.org/fr/deepseek-v4-vs-claude-fable-5-vs-gpt-5-6-2026/",
-      "url": "https://tech-insider.org/fr/deepseek-v4-vs-claude-fable-5-vs-gpt-5-6-2026/",
-      "publishedAt": "2026-07-18T06:28:20.000Z",
-      "date": "2026-07-18T06:28:20.000Z",
-      "description": "... cybersécurité, puis un déploiement public le 9 juillet en tant que... ChatGPT, disponible via ChatGPT, Codex et l'API OpenAI. DeepSeek V4...",
-      "excerpt": "... cybersécurité, puis un déploiement public le 9 juillet en tant que... ChatGPT, disponible via ChatGPT, Codex et l'API OpenAI. DeepSeek V4...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "JadePuffer: le premier ransomware entièrement piloté par IA - INFO.FR",
-      "link": "https://info.fr/jadepuffer-premier-ransomware-ia-autonome-cve-2025-3248/",
-      "url": "https://info.fr/jadepuffer-premier-ransomware-ia-autonome-cve-2025-3248/",
-      "publishedAt": "2026-07-18T02:55:43.000Z",
-      "date": "2026-07-18T02:55:43.000Z",
-      "description": "JadePuffer: le premier ransomware entièrement piloté par IA. Un agent LLM... L'extorsion est stockée en base. VULNÉRABILITÉ EXPLOITÉE. CVECVE -2025-...",
-      "excerpt": "JadePuffer: le premier ransomware entièrement piloté par IA. Un agent LLM... L'extorsion est stockée en base. VULNÉRABILITÉ EXPLOITÉE. CVECVE -2025-...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "Alternatives à ChatGPT: le top des IA open source et sans limite de censure en 2026",
-      "link": "https://www.lebigdata.fr/alternatives-a-chatgpt-le-top-des-ia-open-source-et-sans-limite-de-censure-en-2026",
-      "url": "https://www.lebigdata.fr/alternatives-a-chatgpt-le-top-des-ia-open-source-et-sans-limite-de-censure-en-2026",
-      "publishedAt": "2026-07-18T02:22:37.000Z",
-      "date": "2026-07-18T02:22:37.000Z",
-      "description": "Alternatives à ChatGPT: le top des IA open source et sans limite de censure en 2026... Notez aussi les tests de cybersécurité, le développement ou...",
-      "excerpt": "Alternatives à ChatGPT: le top des IA open source et sans limite de censure en 2026... Notez aussi les tests de cybersécurité, le développement ou...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
