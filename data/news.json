@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T02:04:25.975Z",
+  "generatedAt": "2026-07-20T08:40:51.486Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Pendant qu'on ne regardait pas, la Chine a pris les commandes de l'IA open source",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/pendant-qu-on-ne-regardait-pas-la-chine-a-pris-les-commandes-de-l-ia-open-source-n259469.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/pendant-qu-on-ne-regardait-pas-la-chine-a-pris-les-commandes-de-l-ia-open-source-n259469.html",
+      "publishedAt": "2026-07-20T07:27:34.000Z",
+      "date": "2026-07-20T07:27:34.000Z",
+      "description": "Deux modèles d'IA capables de rivaliser avec ChatGPT et Claude, gratuits, téléchargeables par n'importe quel développeur sur la planète,...",
+      "excerpt": "Deux modèles d'IA capables de rivaliser avec ChatGPT et Claude, gratuits, téléchargeables par n'importe quel développeur sur la planète,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Après ChatGPT, les « world models » veulent apprendre aux IA à comprendre le monde",
+      "link": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-apres-chatgpt-world-models-veulent-apprendre-ia-comprendre-monde-135626/",
+      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-apres-chatgpt-world-models-veulent-apprendre-ia-comprendre-monde-135626/",
+      "publishedAt": "2026-07-20T05:26:22.000Z",
+      "date": "2026-07-20T05:26:22.000Z",
+      "description": "Après ChatGPT, les « world models » veulent apprendre aux IA à comprendre le monde... NordVPN réunit protection VPN et outils de cybersécurité dans une...",
+      "excerpt": "Après ChatGPT, les « world models » veulent apprendre aux IA à comprendre le monde... NordVPN réunit protection VPN et outils de cybersécurité dans une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Invité par OpenAI, un écrivain a dit à 200 employés que ChatGPT \"fait taire une génération\"",
       "link": "https://korben.info/invite-par-openai-un-ecrivain-a-dit-a-200-employes-que-chatgpt-fait-taire-une-generation.html",
@@ -107,26 +127,6 @@
       "date": "2026-07-18T02:09:03.000Z",
       "description": "Cybersécurité · Tutos Apple · OpenAI · Intelligence... OpenAI veut attaquer Apple en justice: le partenariat entre ChatGPT et Siri a viré au fiasco.",
       "excerpt": "Cybersécurité · Tutos Apple · OpenAI · Intelligence... OpenAI veut attaquer Apple en justice: le partenariat entre ChatGPT et Siri a viré au fiasco.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "1min.AI Pro à moins de 22 € à vie au lieu de 205 € sur StackSocial - Clubic",
-      "link": "https://www.clubic.com/bons-plans-621781-fini-les-abonnements-ia-qui-s-accumulent-1min-ai-pro-passe-a-moins-de-22-a-vie.html",
-      "url": "https://www.clubic.com/bons-plans-621781-fini-les-abonnements-ia-qui-s-accumulent-1min-ai-pro-passe-a-moins-de-22-a-vie.html",
-      "publishedAt": "2026-07-17T23:40:35.000Z",
-      "date": "2026-07-17T23:40:35.000Z",
-      "description": "Top Cybersécurité... À moins de 22 € en paiement unique, l'offre rentabilise son coût dès le premier ou deuxième mois comparé à un abonnement ChatGPT...",
-      "excerpt": "Top Cybersécurité... À moins de 22 € en paiement unique, l'offre rentabilise son coût dès le premier ou deuxième mois comparé à un abonnement ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Tu te prends la tête avec ChatGPT au boulot... - YouTube",
-      "link": "https://www.youtube.com/watch?v=rydbcU3OuT8",
-      "url": "https://www.youtube.com/watch?v=rydbcU3OuT8",
-      "publishedAt": "2026-07-17T20:16:27.000Z",
-      "date": "2026-07-17T20:16:27.000Z",
-      "description": "parle aussi: ChatGPT, Claude, Gemini, intelligence artificielle générative, automatisation, cybersécurité, informatique, hardware, smartphones...",
-      "excerpt": "parle aussi: ChatGPT, Claude, Gemini, intelligence artificielle générative, automatisation, cybersécurité, informatique, hardware, smartphones...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
