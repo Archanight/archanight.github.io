@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T19:25:16.859Z",
+  "generatedAt": "2026-07-21T01:47:20.223Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,14 +10,24 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Comment un politicien a manipulé ChatGPT — et pourquoi les éditeurs perdent 40% de leur trafic",
+      "link": "https://www.upday.com/fr/comment-un-politicien-a-manipule-chatgpt-et-pourquoi-les-editeurs-perdent-40-de-leur/te869bf",
+      "url": "https://www.upday.com/fr/comment-un-politicien-a-manipule-chatgpt-et-pourquoi-les-editeurs-perdent-40-de-leur/te869bf",
+      "publishedAt": "2026-07-20T22:09:54.000Z",
+      "date": "2026-07-20T22:09:54.000Z",
+      "description": "Comment un politicien a manipulé ChatGPT — et pourquoi les éditeurs perdent 40% de leur trafic... Les entreprises de cybersécurité Patchstack,...",
+      "excerpt": "Comment un politicien a manipulé ChatGPT — et pourquoi les éditeurs perdent 40% de leur trafic... Les entreprises de cybersécurité Patchstack,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "L'IA chinoise défie ChatGPT et Claude Fable en 2023 - Brief IA",
       "link": "https://www.briefia.fr/article/l-ia-chinoise-defie-chatgpt-et-claude-fable-en-2023",
       "url": "https://www.briefia.fr/article/l-ia-chinoise-defie-chatgpt-et-claude-fable-en-2023",
       "publishedAt": "2026-07-20T19:09:24.000Z",
       "date": "2026-07-20T19:09:24.000Z",
-      "description": "... ChatGPT 5.6 et Claude Fable 5. • Cette... Zhipu, une IA chinoise, a lancé le modèle GLM-5.2, prétendant rivaliser avec Mythos en cybersécurité.",
-      "excerpt": "... ChatGPT 5.6 et Claude Fable 5. • Cette... Zhipu, une IA chinoise, a lancé le modèle GLM-5.2, prétendant rivaliser avec Mythos en cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "description": "La Chine s'affirme dans la compétition mondiale de l'intelligence artificielle. • Les modèles chinois visent à rivaliser avec ChatGPT 5.6 et...",
+      "excerpt": "La Chine s'affirme dans la compétition mondiale de l'intelligence artificielle. • Les modèles chinois visent à rivaliser avec ChatGPT 5.6 et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Kimi K3 se classe en tête du Frontend Code Arena, une première pour les modèles d'IA chinois",
@@ -117,16 +127,6 @@
       "date": "2026-07-19T07:49:21.000Z",
       "description": "Cybersécurité et Télésurveillance. Bons plans Xiaomi 17T. +... ChatGPT sur iPhone: la vérité. Tous publics. GTA VI ne sortira jamais en...",
       "excerpt": "Cybersécurité et Télésurveillance. Bons plans Xiaomi 17T. +... ChatGPT sur iPhone: la vérité. Tous publics. GTA VI ne sortira jamais en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'UE oblige Google à ouvrir Android AI à ChatGPT et à d'autres concurrents.",
-      "link": "https://fr.xiaomi-miui.gr/eu-google-open-android-ai-rival-apps-dma/",
-      "url": "https://fr.xiaomi-miui.gr/eu-google-open-android-ai-rival-apps-dma/",
-      "publishedAt": "2026-07-18T19:31:41.000Z",
-      "date": "2026-07-18T19:31:41.000Z",
-      "description": "... ChatGPT et à d'autres concurrents. Nvidia RTX Spark: Premier test Cinebench 2026 révélant les performances du nouveau SoC IA · Xiaomi 17: la...",
-      "excerpt": "... ChatGPT et à d'autres concurrents. Nvidia RTX Spark: Premier test Cinebench 2026 révélant les performances du nouveau SoC IA · Xiaomi 17: la...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
