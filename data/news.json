@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T01:47:20.223Z",
+  "generatedAt": "2026-07-21T08:07:54.290Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "En 2026, IA générative dans les outils, du reporting au management, ce que les cadres...",
+      "link": "https://www.carnetdebord.info/en-2026-ia-generative-dans-les-outils-du-reporting-au-management-ce-que-les-cadres-doivent-affronter-pour-rester-utiles/",
+      "url": "https://www.carnetdebord.info/en-2026-ia-generative-dans-les-outils-du-reporting-au-management-ce-que-les-cadres-doivent-affronter-pour-rester-utiles/",
+      "publishedAt": "2026-07-21T05:10:17.000Z",
+      "date": "2026-07-21T05:10:17.000Z",
+      "description": "Les outils comme ChatGPT ou Microsoft Copilot sont utilisés pour... Cybersécurité · ERP, pourquoi les entreprises devraient faire de la...",
+      "excerpt": "Les outils comme ChatGPT ou Microsoft Copilot sont utilisés pour... Cybersécurité · ERP, pourquoi les entreprises devraient faire de la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Après ChatGPT, Mistral vise les robots avec une IA inédite - Agence BDOR",
+      "link": "https://www.bdor.fr/actualites-or/mistral-robostral-navigate-ia-robotique",
+      "url": "https://www.bdor.fr/actualites-or/mistral-robostral-navigate-ia-robotique",
+      "publishedAt": "2026-07-21T04:32:51.000Z",
+      "date": "2026-07-21T04:32:51.000Z",
+      "description": "Après ChatGPT, Mistral vise les robots avec une IA inédite... Mistral multiplie les terrains d'expansion, de la défense à la cybersécurité.",
+      "excerpt": "Après ChatGPT, Mistral vise les robots avec une IA inédite... Mistral multiplie les terrains d'expansion, de la défense à la cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Comment un politicien a manipulé ChatGPT — et pourquoi les éditeurs perdent 40% de leur trafic",
       "link": "https://www.upday.com/fr/comment-un-politicien-a-manipule-chatgpt-et-pourquoi-les-editeurs-perdent-40-de-leur/te869bf",
@@ -107,26 +127,6 @@
       "date": "2026-07-20T05:26:22.000Z",
       "description": "Après ChatGPT, les « world models » veulent apprendre aux IA à comprendre le monde... NordVPN réunit protection VPN et outils de cybersécurité dans une...",
       "excerpt": "Après ChatGPT, les « world models » veulent apprendre aux IA à comprendre le monde... NordVPN réunit protection VPN et outils de cybersécurité dans une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Invité par OpenAI, un écrivain a dit à 200 employés que ChatGPT \"fait taire une génération\"",
-      "link": "https://korben.info/invite-par-openai-un-ecrivain-a-dit-a-200-employes-que-chatgpt-fait-taire-une-generation.html",
-      "url": "https://korben.info/invite-par-openai-un-ecrivain-a-dit-a-200-employes-que-chatgpt-fait-taire-une-generation.html",
-      "publishedAt": "2026-07-19T07:57:22.000Z",
-      "date": "2026-07-19T07:57:22.000Z",
-      "description": "Invité par OpenAI, un écrivain a dit à 200 employés que ChatGPT \"fait taire une génération\"... Les métiers de la Cybersécurité et de l'Intelligence...",
-      "excerpt": "Invité par OpenAI, un écrivain a dit à 200 employés que ChatGPT \"fait taire une génération\"... Les métiers de la Cybersécurité et de l'Intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "De Quoi J'me Mail: La guerre est déclarée entre Apple et OpenAI (1/2) - 19/07: Actualités",
-      "link": "https://actu.orange.fr/videos/economie/de-quoi-j-me-mail-la-guerre-est-declaree-entre-apple-et-openai-1-2-19-07-CNT000002qzyki.html",
-      "url": "https://actu.orange.fr/videos/economie/de-quoi-j-me-mail-la-guerre-est-declaree-entre-apple-et-openai-1-2-19-07-CNT000002qzyki.html",
-      "publishedAt": "2026-07-19T07:49:21.000Z",
-      "date": "2026-07-19T07:49:21.000Z",
-      "description": "Cybersécurité et Télésurveillance. Bons plans Xiaomi 17T. +... ChatGPT sur iPhone: la vérité. Tous publics. GTA VI ne sortira jamais en...",
-      "excerpt": "Cybersécurité et Télésurveillance. Bons plans Xiaomi 17T. +... ChatGPT sur iPhone: la vérité. Tous publics. GTA VI ne sortira jamais en...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
