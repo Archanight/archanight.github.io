@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T01:46:37.953Z",
+  "generatedAt": "2026-07-22T08:08:33.706Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI reconnaît avoir perdu le contrôle de ses modèles lors d'un test de cybersécurité",
+      "link": "https://www.tomshardware.fr/openai-reconnait-avoir-perdu-le-controle-de-ses-modeles-lors-dun-test-de-cybersecurite/",
+      "url": "https://www.tomshardware.fr/openai-reconnait-avoir-perdu-le-controle-de-ses-modeles-lors-dun-test-de-cybersecurite/",
+      "publishedAt": "2026-07-22T05:43:12.000Z",
+      "date": "2026-07-22T05:43:12.000Z",
+      "description": "chatgpt. Une fuite de sécurité inédite a été révélée par OpenAI... La rédaction vous conseille aussi... openai gpt 5. ChatGPT...",
+      "excerpt": "chatgpt. Une fuite de sécurité inédite a été révélée par OpenAI... La rédaction vous conseille aussi... openai gpt 5. ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Au Parlement européen, les députés abusent de l'IA et inquiètent Bruxelles sur la présence...",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/au-parlement-europeen-les-deputes-abusent-de-l-ia-et-inquietent-bruxelles-sur-la-presence-de-lois-totalement-inventees-n259560.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/au-parlement-europeen-les-deputes-abusent-de-l-ia-et-inquietent-bruxelles-sur-la-presence-de-lois-totalement-inventees-n259560.html",
+      "publishedAt": "2026-07-22T04:35:04.000Z",
+      "date": "2026-07-22T04:35:04.000Z",
+      "description": "... cybersécurité. Résultat, l'assemblée remplace Google par Qwant mais installe ChatGPT en catimini. Le service de presse tempère et annonce une...",
+      "excerpt": "... cybersécurité. Résultat, l'assemblée remplace Google par Qwant mais installe ChatGPT en catimini. Le service de presse tempère et annonce une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT Work: le guide pour maîtriser le nouvel agent d'OpenAI - lebigdata.fr",
       "link": "https://www.lebigdata.fr/chatgpt-work-le-guide-pour-maitriser-le-nouvel-agent-dopenai",
@@ -80,6 +100,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
+      "title": "Post de Jacky Galicher - LinkedIn",
+      "link": "https://fr.linkedin.com/posts/jacky-galicher-02aba731_souverainet%C3%A9num%C3%A9rique-ia-chatgpt-activity-7485260214485618689-zcgT",
+      "url": "https://fr.linkedin.com/posts/jacky-galicher-02aba731_souverainet%C3%A9num%C3%A9rique-ia-chatgpt-activity-7485260214485618689-zcgT",
+      "publishedAt": "2026-07-21T09:37:01.000Z",
+      "date": "2026-07-21T09:37:01.000Z",
+      "description": "... IA # ChatGPT #Gemini #Android #DMA #DSI #Gouvernance #TransformationNumérique #SecteurPublic # Cybersécurité.",
+      "excerpt": "... IA # ChatGPT #Gemini #Android #DMA #DSI #Gouvernance #TransformationNumérique #SecteurPublic # Cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "L'intelligence artificielle transforme le monde du travail: une révolution déjà en marche",
       "link": "https://www.nlto.fr/lintelligence-artificielle-transforme-le-monde-du-travail-une-revolution-deja-en-marche/",
       "url": "https://www.nlto.fr/lintelligence-artificielle-transforme-le-monde-du-travail-une-revolution-deja-en-marche/",
@@ -98,36 +128,6 @@
       "description": "Les outils comme ChatGPT ou Microsoft Copilot sont utilisés pour... Cybersécurité · ERP, pourquoi les entreprises devraient faire de la...",
       "excerpt": "Les outils comme ChatGPT ou Microsoft Copilot sont utilisés pour... Cybersécurité · ERP, pourquoi les entreprises devraient faire de la...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Après ChatGPT, Mistral vise les robots avec une IA inédite - Agence BDOR",
-      "link": "https://www.bdor.fr/actualites-or/mistral-robostral-navigate-ia-robotique",
-      "url": "https://www.bdor.fr/actualites-or/mistral-robostral-navigate-ia-robotique",
-      "publishedAt": "2026-07-21T04:32:51.000Z",
-      "date": "2026-07-21T04:32:51.000Z",
-      "description": "Après ChatGPT, Mistral vise les robots avec une IA inédite... Mistral multiplie les terrains d'expansion, de la défense à la cybersécurité.",
-      "excerpt": "Après ChatGPT, Mistral vise les robots avec une IA inédite... Mistral multiplie les terrains d'expansion, de la défense à la cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment un politicien a manipulé ChatGPT — et pourquoi les éditeurs perdent 40% de leur trafic",
-      "link": "https://www.upday.com/fr/comment-un-politicien-a-manipule-chatgpt-et-pourquoi-les-editeurs-perdent-40-de-leur/te869bf",
-      "url": "https://www.upday.com/fr/comment-un-politicien-a-manipule-chatgpt-et-pourquoi-les-editeurs-perdent-40-de-leur/te869bf",
-      "publishedAt": "2026-07-20T22:09:54.000Z",
-      "date": "2026-07-20T22:09:54.000Z",
-      "description": "Comment un politicien a manipulé ChatGPT — et pourquoi les éditeurs perdent 40% de leur trafic... Les entreprises de cybersécurité Patchstack,...",
-      "excerpt": "Comment un politicien a manipulé ChatGPT — et pourquoi les éditeurs perdent 40% de leur trafic... Les entreprises de cybersécurité Patchstack,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'IA chinoise défie ChatGPT et Claude Fable en 2023 - Brief IA",
-      "link": "https://www.briefia.fr/article/l-ia-chinoise-defie-chatgpt-et-claude-fable-en-2023",
-      "url": "https://www.briefia.fr/article/l-ia-chinoise-defie-chatgpt-et-claude-fable-en-2023",
-      "publishedAt": "2026-07-20T19:09:24.000Z",
-      "date": "2026-07-20T19:09:24.000Z",
-      "description": "La Chine s'affirme dans la compétition mondiale de l'intelligence artificielle. • Les modèles chinois visent à rivaliser avec ChatGPT 5.6 et...",
-      "excerpt": "La Chine s'affirme dans la compétition mondiale de l'intelligence artificielle. • Les modèles chinois visent à rivaliser avec ChatGPT 5.6 et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
