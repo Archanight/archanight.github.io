@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T19:04:07.303Z",
+  "generatedAt": "2026-07-22T01:46:37.953Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT Work: le guide pour maîtriser le nouvel agent d'OpenAI - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/chatgpt-work-le-guide-pour-maitriser-le-nouvel-agent-dopenai",
+      "url": "https://www.lebigdata.fr/chatgpt-work-le-guide-pour-maitriser-le-nouvel-agent-dopenai",
+      "publishedAt": "2026-07-21T23:13:47.000Z",
+      "date": "2026-07-21T23:13:47.000Z",
+      "description": "ChatGPT Work est le nouvel outil pour vous accompagner correctement... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
+      "excerpt": "ChatGPT Work est le nouvel outil pour vous accompagner correctement... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude Fable 5 et ChatGPT: l'IA face à l'évaluation UX - Brief IA",
+      "link": "https://www.briefia.fr/article/claude-fable-5-et-chatgpt-l-ia-face-a-l-evaluation-ux",
+      "url": "https://www.briefia.fr/article/claude-fable-5-et-chatgpt-l-ia-face-a-l-evaluation-ux",
+      "publishedAt": "2026-07-21T22:08:50.000Z",
+      "date": "2026-07-21T22:08:50.000Z",
+      "description": "... ChatGPT -5.6 Sol... Le modèle 3.5 Flash Cyber, axé sur la cybersécurité, est réservé à des partenaires gouvernementaux dans un programme pilote.",
+      "excerpt": "... ChatGPT -5.6 Sol... Le modèle 3.5 Flash Cyber, axé sur la cybersécurité, est réservé à des partenaires gouvernementaux dans un programme pilote.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT révolutionne les petites entreprises avec un programme dédié - Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-revolutionne-les-petites-entreprises-avec-un-programme-dedie",
+      "url": "https://www.briefia.fr/article/chatgpt-revolutionne-les-petites-entreprises-avec-un-programme-dedie",
+      "publishedAt": "2026-07-21T19:08:45.000Z",
+      "date": "2026-07-21T19:08:45.000Z",
+      "description": "... ChatGPT Work. • Des... Le 3.5 Flash Cyber cible la cybersécurité avec un coût par token inférieur, initialement pour les gouvernements.",
+      "excerpt": "... ChatGPT Work. • Des... Le 3.5 Flash Cyber cible la cybersécurité avec un coût par token inférieur, initialement pour les gouvernements.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Les députés européens utilisent de plus en plus l'IA: Bruxelles crée un \" ChatGPT interne...",
       "link": "https://www.bfmtv.com/tech/intelligence-artificielle/les-deputes-europeens-utilisent-de-plus-en-plus-l-ia-bruxelles-cree-un-chat-gpt-interne-pour-ses-deputes_AV-202607210304.html",
@@ -98,36 +128,6 @@
       "description": "La Chine s'affirme dans la compétition mondiale de l'intelligence artificielle. • Les modèles chinois visent à rivaliser avec ChatGPT 5.6 et...",
       "excerpt": "La Chine s'affirme dans la compétition mondiale de l'intelligence artificielle. • Les modèles chinois visent à rivaliser avec ChatGPT 5.6 et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Kimi K3 se classe en tête du Frontend Code Arena, une première pour les modèles d'IA chinois",
-      "link": "https://www.notebookcheck.biz/Kimi-K3-se-classe-en-tete-du-Frontend-Code-Arena-une-premiere-pour-les-modeles-d-x27-IA-chinois.1347196.0.html",
-      "url": "https://www.notebookcheck.biz/Kimi-K3-se-classe-en-tete-du-Frontend-Code-Arena-une-premiere-pour-les-modeles-d-x27-IA-chinois.1347196.0.html",
-      "publishedAt": "2026-07-20T16:29:31.000Z",
-      "date": "2026-07-20T16:29:31.000Z",
-      "description": "Le modèle Kimi K3 de Moonshot AI s'est hissé dans le top 10 du classement « Frontier Text », rivalisant ainsi avec Claude, ChatGPT et Gemini.",
-      "excerpt": "Le modèle Kimi K3 de Moonshot AI s'est hissé dans le top 10 du classement « Frontier Text », rivalisant ainsi avec Claude, ChatGPT et Gemini.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Attention si vous utilisez 7-Zip: une faille permet de prendre le contrôle de votre ordinateur",
-      "link": "https://www.01net.com/actualites/attention-7-zip-faille-prendre-controle-ordinateur.html",
-      "url": "https://www.01net.com/actualites/attention-7-zip-faille-prendre-controle-ordinateur.html",
-      "publishedAt": "2026-07-20T16:02:09.000Z",
-      "date": "2026-07-20T16:02:09.000Z",
-      "description": "Cybersécurité · Lg Spyware Tvs Frame. LG s'est servi d'une faille... ChatGPT · Microsoft 365 · Opera One · Avast One. Les tests à la une. AirPods...",
-      "excerpt": "Cybersécurité · Lg Spyware Tvs Frame. LG s'est servi d'une faille... ChatGPT · Microsoft 365 · Opera One · Avast One. Les tests à la une. AirPods...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Après ChatGPT, les « world models » veulent apprendre aux IA à comprendre le monde",
-      "link": "https://linformation.ma/news/high-tech/apres-chatgpt-les-world-models-veulent-apprendre-aux-ia-a-comprendre-le-monde/64890",
-      "url": "https://linformation.ma/news/high-tech/apres-chatgpt-les-world-models-veulent-apprendre-aux-ia-a-comprendre-le-monde/64890",
-      "publishedAt": "2026-07-20T15:27:20.000Z",
-      "date": "2026-07-20T15:27:20.000Z",
-      "description": "Tag: ChatGPT world models IA. Cybersécurité...",
-      "excerpt": "Tag: ChatGPT world models IA. Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
