@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T18:57:51.976Z",
+  "generatedAt": "2026-07-23T01:53:37.962Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le rôle de l'IA chinoise dans la neutralisation d'un agent OpenAI défectueux met en...",
+      "link": "https://www.boursorama.com/actualite-economique/actualites-amp/le-role-de-l-ia-chinoise-dans-la-neutralisation-d-un-agent-openai-defectueux-met-en-evidence-le-cout-des-mesures-de-protection-americaines-5f559f6b231006cfaf65cd83e9a7fb92",
+      "url": "https://www.boursorama.com/actualite-economique/actualites-amp/le-role-de-l-ia-chinoise-dans-la-neutralisation-d-un-agent-openai-defectueux-met-en-evidence-le-cout-des-mesures-de-protection-americaines-5f559f6b231006cfaf65cd83e9a7fb92",
+      "publishedAt": "2026-07-22T18:08:28.000Z",
+      "date": "2026-07-22T18:08:28.000Z",
+      "description": "... cybersécurité ne poussent les clients vers leurs concurrents basés à Pékin.... Le créateur de ChatGPT a déclaré mardi dans un article de blog...",
+      "excerpt": "... cybersécurité ne poussent les clients vers leurs concurrents basés à Pékin.... Le créateur de ChatGPT a déclaré mardi dans un article de blog...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI l'avoue: ses IA se sont évadées d'un bac à sable pour mener un piratage en totale liberté",
       "link": "https://www.buzzarena.com/openai-lavoue-ses-ia-se-sont-evadees-dun-bac-a-sable-pour-mener-un-piratage-en-totale-liberte-4558342",
@@ -118,16 +128,6 @@
       "description": "You'll stop using ChatGPT after listening to this | Jonathan Pageau [ARC 2026]... Go to channel I've Had It · IHIP News: JD Vance's Baby Announcement...",
       "excerpt": "You'll stop using ChatGPT after listening to this | Jonathan Pageau [ARC 2026]... Go to channel I've Had It · IHIP News: JD Vance's Baby Announcement...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT est-il hors de contrôle? Comment la célèbre IA a échappé à Open AI et infiltré...",
-      "link": "https://www.lefigaro.fr/secteur/high-tech/chatgpt-est-il-hors-de-controle-comment-la-celebre-ia-a-echappe-a-open-ai-et-infiltre-hugging-face-la-licorne-fondee-en-france-20260722",
-      "url": "https://www.lefigaro.fr/secteur/high-tech/chatgpt-est-il-hors-de-controle-comment-la-celebre-ia-a-echappe-a-open-ai-et-infiltre-hugging-face-la-licorne-fondee-en-france-20260722",
-      "publishedAt": "2026-07-22T13:00:20.000Z",
-      "date": "2026-07-22T13:00:20.000Z",
-      "description": "... cybersécurité. Après trois ans de règne sans partage, le poids de ChatGPT au sein des assistants IA s'effrite.",
-      "excerpt": "... cybersécurité. Après trois ans de règne sans partage, le poids de ChatGPT au sein des assistants IA s'effrite.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
