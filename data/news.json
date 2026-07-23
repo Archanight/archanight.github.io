@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T01:53:37.962Z",
+  "generatedAt": "2026-07-23T08:12:08.290Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Kactus se pique d'IA pour faciliter la vie de ses clients - Republik",
+      "link": "https://www.republikgroup.com/articles/352dd86e-797c-f111-b337-000d3a3a1397/kactus-se-pique-d-ia-pour-faciliter-la-vie-de-ses-clients",
+      "url": "https://www.republikgroup.com/articles/352dd86e-797c-f111-b337-000d3a3a1397/kactus-se-pique-d-ia-pour-faciliter-la-vie-de-ses-clients",
+      "publishedAt": "2026-07-23T04:34:27.000Z",
+      "date": "2026-07-23T04:34:27.000Z",
+      "description": "La plateforme d'événementiel professionnel Kactus déploie l'IA dans ses relations clients et s'intègre à l'écosystème OpenAI/ ChatGPT.",
+      "excerpt": "La plateforme d'événementiel professionnel Kactus déploie l'IA dans ses relations clients et s'intègre à l'écosystème OpenAI/ ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment une évaluation interne d'OpenAI a fini par compromettre les serveurs de Hugging Face",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/comment-une-evaluation-interne-dopenai-a-fini-par-compromettre-les-serveurs-de-hugging-face.TKA5HAS3ONDQRG3EPZ5FIVL2BY.html",
+      "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/comment-une-evaluation-interne-dopenai-a-fini-par-compromettre-les-serveurs-de-hugging-face.TKA5HAS3ONDQRG3EPZ5FIVL2BY.html",
+      "publishedAt": "2026-07-23T01:03:42.000Z",
+      "date": "2026-07-23T01:03:42.000Z",
+      "description": "... cybersécurité insuffisamment cloisonnée. En cherchant à résoudre les... ChatGPT en “système d'exploitation” du travail · DeepSeek...",
+      "excerpt": "... cybersécurité insuffisamment cloisonnée. En cherchant à résoudre les... ChatGPT en “système d'exploitation” du travail · DeepSeek...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le rôle de l'IA chinoise dans la neutralisation d'un agent OpenAI défectueux met en...",
       "link": "https://www.boursorama.com/actualite-economique/actualites-amp/le-role-de-l-ia-chinoise-dans-la-neutralisation-d-un-agent-openai-defectueux-met-en-evidence-le-cout-des-mesures-de-protection-americaines-5f559f6b231006cfaf65cd83e9a7fb92",
@@ -80,6 +100,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
+      "title": "OpenAI reconnaît avoir perdu le contrôle de ses modèles lors d'un test de cybersécurité",
+      "link": "https://www.tomshardware.fr/openai-reconnait-avoir-perdu-le-controle-de-ses-modeles-lors-dun-test-de-cybersecurite/",
+      "url": "https://www.tomshardware.fr/openai-reconnait-avoir-perdu-le-controle-de-ses-modeles-lors-dun-test-de-cybersecurite/",
+      "publishedAt": "2026-07-22T15:37:23.000Z",
+      "date": "2026-07-22T15:37:23.000Z",
+      "description": "... cybersécurité et compromis la plateforme Hugging Face, soulevant des... La rédaction vous conseille aussi... openai gpt 5. ChatGPT...",
+      "excerpt": "... cybersécurité et compromis la plateforme Hugging Face, soulevant des... La rédaction vous conseille aussi... openai gpt 5. ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Piratage par une IA du créateur de ChatGPT: «Ce qui est sûr, c'est que c'est inédit",
       "link": "https://www.liberation.fr/economie/economie-numerique/piratage-par-une-ia-du-createur-de-chatgpt-ce-qui-est-sur-cest-que-cest-inedit-20260722_SPEZ4ZMCZZGRZO2TYJEZVC27CI/",
       "url": "https://www.liberation.fr/economie/economie-numerique/piratage-par-une-ia-du-createur-de-chatgpt-ce-qui-est-sur-cest-que-cest-inedit-20260722_SPEZ4ZMCZZGRZO2TYJEZVC27CI/",
@@ -98,36 +128,6 @@
       "description": "OpenAI a reconnu mardi que certains de ses modèles d'IA avaient échappé à leur sandbox pendant un test de cybersécurité et compromis la plateforme...",
       "excerpt": "OpenAI a reconnu mardi que certains de ses modèles d'IA avaient échappé à leur sandbox pendant un test de cybersécurité et compromis la plateforme...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le Chiffre 4: Stabilité, Universalité et Victoire Divine! #shorts - YouTube",
-      "link": "https://www.youtube.com/watch?v=PZWcrk1slfI",
-      "url": "https://www.youtube.com/watch?v=PZWcrk1slfI",
-      "publishedAt": "2026-07-22T14:22:55.000Z",
-      "date": "2026-07-22T14:22:55.000Z",
-      "description": "You'll stop using ChatGPT after listening to this | Jonathan Pageau [ARC 2026]... IHIP News: JD Vance's Baby Announcement EXPOSES Erika Kirk's WEIRD...",
-      "excerpt": "You'll stop using ChatGPT after listening to this | Jonathan Pageau [ARC 2026]... IHIP News: JD Vance's Baby Announcement EXPOSES Erika Kirk's WEIRD...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "La liste ultime des outils de suivi de positionnement ChatGPT - Tech Me Up",
-      "link": "https://www.techmeup.fr/la-liste-ultime-des-outils-de-suivi-de-positionnement-chatgpt/",
-      "url": "https://www.techmeup.fr/la-liste-ultime-des-outils-de-suivi-de-positionnement-chatgpt/",
-      "publishedAt": "2026-07-22T13:26:39.000Z",
-      "date": "2026-07-22T13:26:39.000Z",
-      "description": "cybersécurité en entreprise · Pourquoi le support informatique ne suffit... Comment renforcer votre visibilité dans les recherches ChatGPT Les erreurs...",
-      "excerpt": "cybersécurité en entreprise · Pourquoi le support informatique ne suffit... Comment renforcer votre visibilité dans les recherches ChatGPT Les erreurs...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Révélations Bibliques: La Vérité Divine Dépasse les Songes #shorts - YouTube",
-      "link": "https://www.youtube.com/watch?v=8bEM45o6tYY",
-      "url": "https://www.youtube.com/watch?v=8bEM45o6tYY",
-      "publishedAt": "2026-07-22T13:25:03.000Z",
-      "date": "2026-07-22T13:25:03.000Z",
-      "description": "You'll stop using ChatGPT after listening to this | Jonathan Pageau [ARC 2026]... Go to channel I've Had It · IHIP News: JD Vance's Baby Announcement...",
-      "excerpt": "You'll stop using ChatGPT after listening to this | Jonathan Pageau [ARC 2026]... Go to channel I've Had It · IHIP News: JD Vance's Baby Announcement...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
