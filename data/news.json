@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T08:07:51.293Z",
+  "generatedAt": "2026-07-24T13:18:08.441Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "L'agent IA était le pirate: pourquoi la « fuite » chez OpenAI est l'incident le plus inquiétant à ce jour",
+      "link": "https://www.challenges.fr/entreprise/tech-numerique/lagent-ia-etait-le-pirate-pourquoi-la-fuite-chez-openai-est-lincident-le-plus-inquietant-a-ce-jour_645013",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/lagent-ia-etait-le-pirate-pourquoi-la-fuite-chez-openai-est-lincident-le-plus-inquietant-a-ce-jour_645013",
+      "publishedAt": "2026-07-24T11:12:53.000Z",
+      "date": "2026-07-24T11:12:53.000Z",
+      "description": "Une situation qui inquiète jusqu'aux meilleurs experts en cybersécurité du monde... OpenAI ChatGPT Intelligence artificielleEtats-Unis Cybersécurité. Les...",
+      "excerpt": "Une situation qui inquiète jusqu'aux meilleurs experts en cybersécurité du monde... OpenAI ChatGPT Intelligence artificielleEtats-Unis Cybersécurité. Les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT est devenu incontrôlable. Voici pourquoi les gens sont si horrifiés",
+      "link": "https://www.netcost-security.fr/actualites/275051/chatgpt-est-devenu-incontrolable-voici-pourquoi-les-gens-sont-si-horrifies-2/",
+      "url": "https://www.netcost-security.fr/actualites/275051/chatgpt-est-devenu-incontrolable-voici-pourquoi-les-gens-sont-si-horrifies-2/",
+      "publishedAt": "2026-07-24T09:30:12.000Z",
+      "date": "2026-07-24T09:30:12.000Z",
+      "description": "ChatGPT est devenu incontrôlable.... Ce succès reflète la puissance croissante des systèmes d'IA dans les applications de cybersécurité, que ce soit...",
+      "excerpt": "ChatGPT est devenu incontrôlable.... Ce succès reflète la puissance croissante des systèmes d'IA dans les applications de cybersécurité, que ce soit...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT peut consulter les données de santé des Américains: qu'en est-il de la France?",
+      "link": "https://www.lebigdata.fr/chatgpt-peut-consulter-les-donnees-de-sante-des-americains-quen-est-il-de-la-france",
+      "url": "https://www.lebigdata.fr/chatgpt-peut-consulter-les-donnees-de-sante-des-americains-quen-est-il-de-la-france",
+      "publishedAt": "2026-07-24T08:04:25.000Z",
+      "date": "2026-07-24T08:04:25.000Z",
+      "description": "ChatGPT peut désormais consulter des données de santé aux États-Unis... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
+      "excerpt": "ChatGPT peut désormais consulter des données de santé aux États-Unis... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude Code: 7 alternatives pour le codage agentique en CLI - Brief IA",
+      "link": "https://www.briefia.fr/article/claude-code-7-alternatives-pour-le-codage-agentique-en-cli",
+      "url": "https://www.briefia.fr/article/claude-code-7-alternatives-pour-le-codage-agentique-en-cli",
+      "publishedAt": "2026-07-24T07:10:54.000Z",
+      "date": "2026-07-24T07:10:54.000Z",
+      "description": "3Codex CLI, intégré à ChatGPT, est une option économique pour ceux déjà abonnés, facilitant le codage interactif. Pourquoi c'est important — Les...",
+      "excerpt": "3Codex CLI, intégré à ChatGPT, est une option économique pour ceux déjà abonnés, facilitant le codage interactif. Pourquoi c'est important — Les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Limites de ChatGPT Image atteintes? Voici une alternative impressionnante mais... - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/limites-de-chatgpt-image-atteintes-voici-une-alternative-impressionnante-mais",
+      "url": "https://www.lebigdata.fr/limites-de-chatgpt-image-atteintes-voici-une-alternative-impressionnante-mais",
+      "publishedAt": "2026-07-24T05:14:00.000Z",
+      "date": "2026-07-24T05:14:00.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Accueil > Intelligence artificielle > IA générative > Images IA > Limites de ChatGPT...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... Accueil > Intelligence artificielle > IA générative > Images IA > Limites de ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cyberhaven annonce de nouvelles intégrations d'API de conformité avec ChatGPT...",
+      "link": "https://ch.zonebourse.com/actualite-bourse/cyberhaven-annonce-de-nouvelles-integrations-d-api-de-conformite-avec-chatgpt-enterprise-d-openai-et-ce7f51dfd989f02c",
+      "url": "https://ch.zonebourse.com/actualite-bourse/cyberhaven-annonce-de-nouvelles-integrations-d-api-de-conformite-avec-chatgpt-enterprise-d-openai-et-ce7f51dfd989f02c",
+      "publishedAt": "2026-07-24T04:34:42.000Z",
+      "date": "2026-07-24T04:34:42.000Z",
+      "description": "Cyberhaven a annoncé de nouvelles intégrations d'API de conformité avec ChatGPT Enterprise d'OpenAI et Claude Enterprise, propulsé par Anthropic.",
+      "excerpt": "Cyberhaven a annoncé de nouvelles intégrations d'API de conformité avec ChatGPT Enterprise d'OpenAI et Claude Enterprise, propulsé par Anthropic.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Cyberhaven annonce de nouvelles intégrations d'API de conformité avec ChatGPT...",
       "link": "https://www.zonebourse.com/actualite-bourse/cyberhaven-annonce-de-nouvelles-integrations-d-api-de-conformite-avec-chatgpt-enterprise-d-openai-et-ce7f51dfd989f02c",
@@ -68,66 +128,6 @@
       "description": "ChatGPT est devenu incontrôlable.... Ce succès reflète la puissance croissante des systèmes d'IA dans les applications de cybersécurité, tant pour l'...",
       "excerpt": "ChatGPT est devenu incontrôlable.... Ce succès reflète la puissance croissante des systèmes d'IA dans les applications de cybersécurité, tant pour l'...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA: un piratage “sans précédent” chez OpenAI - LesEco.ma",
-      "link": "https://leseco.ma/international/ia-un-piratage-sans-precedent-chez-openai.html",
-      "url": "https://leseco.ma/international/ia-un-piratage-sans-precedent-chez-openai.html",
-      "publishedAt": "2026-07-23T20:47:11.000Z",
-      "date": "2026-07-23T20:47:11.000Z",
-      "description": "La cybersécurité constitue un enjeu crucial à mesure que l'IA gagne en... ChatGPT Intelligence Artificielle OpenAI. LesEco.ma23/07/2026.",
-      "excerpt": "La cybersécurité constitue un enjeu crucial à mesure que l'IA gagne en... ChatGPT Intelligence Artificielle OpenAI. LesEco.ma23/07/2026.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "AegisAI, ex-Google, lève 36 millions pour contrer le phishing IA | Brief IA",
-      "link": "https://www.briefia.fr/article/aegisai-ex-google-leve-36-millions-pour-contrer-le-phishing-ia",
-      "url": "https://www.briefia.fr/article/aegisai-ex-google-leve-36-millions-pour-contrer-le-phishing-ia",
-      "publishedAt": "2026-07-23T19:10:47.000Z",
-      "date": "2026-07-23T19:10:47.000Z",
-      "description": "AegisAI, fondée par d'anciens de Google, a levé 36 millions de dollars pour lutter contre le phishing... ✦ Tout Modèles & LLM 🛠️ Outils IA Recherche...",
-      "excerpt": "AegisAI, fondée par d'anciens de Google, a levé 36 millions de dollars pour lutter contre le phishing... ✦ Tout Modèles & LLM 🛠️ Outils IA Recherche...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "OpenAI lance une fonctionnalité de santé sur ChatGPT pour connecter les dossiers médicaux",
-      "link": "https://www.zonebourse.com/actualite-bourse/openai-lance-une-fonctionnalite-de-sante-sur-chatgpt-pour-connecter-les-dossiers-medicaux-ce7f51ded18bf224",
-      "url": "https://www.zonebourse.com/actualite-bourse/openai-lance-une-fonctionnalite-de-sante-sur-chatgpt-pour-connecter-les-dossiers-medicaux-ce7f51ded18bf224",
-      "publishedAt": "2026-07-23T19:04:57.000Z",
-      "date": "2026-07-23T19:04:57.000Z",
-      "description": "OpenAI a introduit une fonctionnalité de santé permettant aux utilisateurs adultes de ChatGPT aux États-Unis de synchroniser leurs dossiers...",
-      "excerpt": "OpenAI a introduit une fonctionnalité de santé permettant aux utilisateurs adultes de ChatGPT aux États-Unis de synchroniser leurs dossiers...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pourquoi OpenAI vend-il le ballon de basket ChatGPT? - Vietnam.vn",
-      "link": "https://www.vietnam.vn/fr/vi-sao-openai-ban-qua-bong-ro-chatgpt",
-      "url": "https://www.vietnam.vn/fr/vi-sao-openai-ban-qua-bong-ro-chatgpt",
-      "publishedAt": "2026-07-23T18:01:09.000Z",
-      "date": "2026-07-23T18:01:09.000Z",
-      "description": "Quand on parle d'OpenAI, la plupart des gens pensent immédiatement à ChatGPT, GPT-5... cybersécurité et à la cryptographie. Vous aimerez peut...",
-      "excerpt": "Quand on parle d'OpenAI, la plupart des gens pensent immédiatement à ChatGPT, GPT-5... cybersécurité et à la cryptographie. Vous aimerez peut...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "2026, infiltration de ChatGPT sur Hugging Face, ce que cache l'accusation, et pourquoi... - Vonews",
-      "link": "https://vonews.net/2026-infiltration-de-chatgpt-sur-hugging-face-ce-que-cache-laccusation-et-pourquoi-openai-peine-a-garder-le-controle/",
-      "url": "https://vonews.net/2026-infiltration-de-chatgpt-sur-hugging-face-ce-que-cache-laccusation-et-pourquoi-openai-peine-a-garder-le-controle/",
-      "publishedAt": "2026-07-23T17:25:59.000Z",
-      "date": "2026-07-23T17:25:59.000Z",
-      "description": "Le titre publié par Le Figaro, ChatGPT est-il hors de contrôle? Comment la célèbre IA a échappé à OpenAI et infiltré Hugging Face,...",
-      "excerpt": "Le titre publié par Le Figaro, ChatGPT est-il hors de contrôle? Comment la célèbre IA a échappé à OpenAI et infiltré Hugging Face,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI face à un incident de cybersécurité inédit: ses agents d'IA devenus ''autonomes...",
-      "link": "https://quid.ma/science-tech/openai-face-a-un-incident-de-cybersecurite-inedit-ses-agents-d-ia-devenus",
-      "url": "https://quid.ma/science-tech/openai-face-a-un-incident-de-cybersecurite-inedit-ses-agents-d-ia-devenus",
-      "publishedAt": "2026-07-23T17:09:59.000Z",
-      "date": "2026-07-23T17:09:59.000Z",
-      "description": "San Francisco, États-Unis - Le créateur de ChatGPT, OpenAI, a annoncé mardi que ses modèles d'intelligence artificielle avancés s'étaient emballés...",
-      "excerpt": "San Francisco, États-Unis - Le créateur de ChatGPT, OpenAI, a annoncé mardi que ses modèles d'intelligence artificielle avancés s'étaient emballés...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
