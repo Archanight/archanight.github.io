@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T01:50:00.014Z",
+  "generatedAt": "2026-07-24T08:07:51.293Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Cyberhaven annonce de nouvelles intégrations d'API de conformité avec ChatGPT...",
+      "link": "https://www.zonebourse.com/actualite-bourse/cyberhaven-annonce-de-nouvelles-integrations-d-api-de-conformite-avec-chatgpt-enterprise-d-openai-et-ce7f51dfd989f02c",
+      "url": "https://www.zonebourse.com/actualite-bourse/cyberhaven-annonce-de-nouvelles-integrations-d-api-de-conformite-avec-chatgpt-enterprise-d-openai-et-ce7f51dfd989f02c",
+      "publishedAt": "2026-07-24T04:13:04.000Z",
+      "date": "2026-07-24T04:13:04.000Z",
+      "description": "Selon OpenAI, plus de 80 % des entreprises du Fortune 500 ont intégré ChatGPT Enterprise dans leurs flux de travail, tandis que l'adoption de Claude...",
+      "excerpt": "Selon OpenAI, plus de 80 % des entreprises du Fortune 500 ont intégré ChatGPT Enterprise dans leurs flux de travail, tandis que l'adoption de Claude...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'intelligence artificielle et l'infrastructure cloud connaissent un essor considérable - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/bung-no-ha-tang-ai-va-dam-may-alphabet-lap-ky-luc-doanh-thu-119-8-ty-usd-gemini-ap-sat-chatgpt",
+      "url": "https://www.vietnam.vn/fr/bung-no-ha-tang-ai-va-dam-may-alphabet-lap-ky-luc-doanh-thu-119-8-ty-usd-gemini-ap-sat-chatgpt",
+      "publishedAt": "2026-07-24T03:20:21.000Z",
+      "date": "2026-07-24T03:20:21.000Z",
+      "description": "La course Gemini vs ChatGPT: À l'approche du cap du milliard d'utilisateurs.... Renforcer...",
+      "excerpt": "La course Gemini vs ChatGPT: À l'approche du cap du milliard d'utilisateurs.... Renforcer...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La maison mère de Google enregistre un chiffre d'affaires record de 119,8 milliards de...",
+      "link": "https://www.vietnam.vn/fr/cong-ty-me-google-dat-doanh-thu-ky-luc-119-8-ty-usd-gemini-ap-sat-chatgpt",
+      "url": "https://www.vietnam.vn/fr/cong-ty-me-google-dat-doanh-thu-ky-luc-119-8-ty-usd-gemini-ap-sat-chatgpt",
+      "publishedAt": "2026-07-24T02:48:02.000Z",
+      "date": "2026-07-24T02:48:02.000Z",
+      "description": "Cette performance rapproche Gemini de son rival, ChatGPT d'OpenAI (qui compte actuellement environ 1 milliard d'utilisateurs mensuels), démontrant...",
+      "excerpt": "Cette performance rapproche Gemini de son rival, ChatGPT d'OpenAI (qui compte actuellement environ 1 milliard d'utilisateurs mensuels), démontrant...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI poursuivi: ChatGPT accusé de conseils médicaux - Brief IA",
       "link": "https://www.briefia.fr/article/openai-poursuivi-chatgpt-accuse-de-conseils-medicaux",
@@ -50,6 +80,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "AegisAI, ex-Google, lève 36 millions pour contrer le phishing IA | Brief IA",
+      "link": "https://www.briefia.fr/article/aegisai-ex-google-leve-36-millions-pour-contrer-le-phishing-ia",
+      "url": "https://www.briefia.fr/article/aegisai-ex-google-leve-36-millions-pour-contrer-le-phishing-ia",
+      "publishedAt": "2026-07-23T19:10:47.000Z",
+      "date": "2026-07-23T19:10:47.000Z",
+      "description": "AegisAI, fondée par d'anciens de Google, a levé 36 millions de dollars pour lutter contre le phishing... ✦ Tout Modèles & LLM 🛠️ Outils IA Recherche...",
+      "excerpt": "AegisAI, fondée par d'anciens de Google, a levé 36 millions de dollars pour lutter contre le phishing... ✦ Tout Modèles & LLM 🛠️ Outils IA Recherche...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
       "title": "OpenAI lance une fonctionnalité de santé sur ChatGPT pour connecter les dossiers médicaux",
       "link": "https://www.zonebourse.com/actualite-bourse/openai-lance-une-fonctionnalite-de-sante-sur-chatgpt-pour-connecter-les-dossiers-medicaux-ce7f51ded18bf224",
       "url": "https://www.zonebourse.com/actualite-bourse/openai-lance-une-fonctionnalite-de-sante-sur-chatgpt-pour-connecter-les-dossiers-medicaux-ce7f51ded18bf224",
@@ -88,46 +128,6 @@
       "description": "San Francisco, États-Unis - Le créateur de ChatGPT, OpenAI, a annoncé mardi que ses modèles d'intelligence artificielle avancés s'étaient emballés...",
       "excerpt": "San Francisco, États-Unis - Le créateur de ChatGPT, OpenAI, a annoncé mardi que ses modèles d'intelligence artificielle avancés s'étaient emballés...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Sia nommé Advanced Partner d'OpenAI - Sia Partners",
-      "link": "https://www.sia-partners.com/fr/a-propos/actualites/sia-nomme-advanced-partner-dopenai",
-      "url": "https://www.sia-partners.com/fr/a-propos/actualites/sia-nomme-advanced-partner-dopenai",
-      "publishedAt": "2026-07-23T17:09:39.000Z",
-      "date": "2026-07-23T17:09:39.000Z",
-      "description": "Cybersécurité & Résilience · Data & IA · Performance Financière... ChatGPT for Work, Codex et les applications construites sur les modèles...",
-      "excerpt": "Cybersécurité & Résilience · Data & IA · Performance Financière... ChatGPT for Work, Codex et les applications construites sur les modèles...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des modèles d'OpenAI échappent au contrôle lors de tests et lancent une cyberattaque",
-      "link": "https://fr.timesofisrael.com/des-modeles-dopenai-echappent-au-controle-lors-de-tests-et-lancent-une-cyberattaque/",
-      "url": "https://fr.timesofisrael.com/des-modeles-dopenai-echappent-au-controle-lors-de-tests-et-lancent-une-cyberattaque/",
-      "publishedAt": "2026-07-23T17:06:16.000Z",
-      "date": "2026-07-23T17:06:16.000Z",
-      "description": "Cet incident montre que les progrès rapides de l'intelligence artificielle alimentent déjà les risques en matière de cybersécurité... ChatGPT...",
-      "excerpt": "Cet incident montre que les progrès rapides de l'intelligence artificielle alimentent déjà les risques en matière de cybersécurité... ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT a trouvé l'arnaque», raconte un acheteur qui l'a échappé belle | Alexandre Dubé | QUB",
-      "link": "https://www.qub.ca/balado/alexandre-dube/6-52-am-alexandre-dube-410446309",
-      "url": "https://www.qub.ca/balado/alexandre-dube/6-52-am-alexandre-dube-410446309",
-      "publishedAt": "2026-07-23T17:01:56.000Z",
-      "date": "2026-07-23T17:01:56.000Z",
-      "description": "... ChatGPT a trouvé l'arnaque», raconte un acheteur qui l'a échappé... cybersécurité et du numérique au Parti québécois. Sarah-Maude Lefebvre...",
-      "excerpt": "... ChatGPT a trouvé l'arnaque», raconte un acheteur qui l'a échappé... cybersécurité et du numérique au Parti québécois. Sarah-Maude Lefebvre...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI enquête après un test de piratage mené par ses propres IA - CNET France",
-      "link": "https://fr.cnet.com/chatgpt/5296/openai-enquete-apres-un-test-de-piratage-mene-par-ses-propres-ia",
-      "url": "https://fr.cnet.com/chatgpt/5296/openai-enquete-apres-un-test-de-piratage-mene-par-ses-propres-ia",
-      "publishedAt": "2026-07-23T16:45:55.000Z",
-      "date": "2026-07-23T16:45:55.000Z",
-      "description": "Les IA de ChatGPT ont tenté de tricher pendant un test.... Les chercheurs voulaient voir jusqu'où leurs modèles pouvaient aller en matière de...",
-      "excerpt": "Les IA de ChatGPT ont tenté de tricher pendant un test.... Les chercheurs voulaient voir jusqu'où leurs modèles pouvaient aller en matière de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
