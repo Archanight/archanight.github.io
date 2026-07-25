@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T13:02:09.749Z",
+  "generatedAt": "2026-07-25T18:53:14.337Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "La machine est vraiment en train de nous dépasser» -Steve Waterhouse - 95.7 KYK",
+      "link": "https://www.957kyk.com/audio/791440/la-machine-est-vraiment-en-train-de-nous-depasser-steve-waterhouse",
+      "url": "https://www.957kyk.com/audio/791440/la-machine-est-vraiment-en-train-de-nous-depasser-steve-waterhouse",
+      "publishedAt": "2026-07-25T16:25:23.000Z",
+      "date": "2026-07-25T16:25:23.000Z",
+      "description": "Écoutez Steve Waterhouse, expert en cybersécurité, faire le point sur... ChatGPT 5.6 a révélé que l'intelligence artificielle est parvenue à...",
+      "excerpt": "Écoutez Steve Waterhouse, expert en cybersécurité, faire le point sur... ChatGPT 5.6 a révélé que l'intelligence artificielle est parvenue à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Kimi K3: la Chine lance une IA qui rivalise avec Claude et GPT - Stéphane Larue",
+      "link": "https://stephanelarue.com/kimi-k3-la-chine-lance-une-ia-qui-rivalise-avec-claude-et-gpt/",
+      "url": "https://stephanelarue.com/kimi-k3-la-chine-lance-une-ia-qui-rivalise-avec-claude-et-gpt/",
+      "publishedAt": "2026-07-25T15:44:55.000Z",
+      "date": "2026-07-25T15:44:55.000Z",
+      "description": "Analyste en cybersécurité devant des écrans de supervision réseau · CERT... À lire également: OpenAI lance ChatGPT Voice sur son application de.",
+      "excerpt": "Analyste en cybersécurité devant des écrans de supervision réseau · CERT... À lire également: OpenAI lance ChatGPT Voice sur son application de.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT est hors service dans le monde entier; une enquête est en cours pour... - La Milano",
+      "link": "https://lamilano.it/fr/par-les-m%C3%A9dias/ChatGPT-hors-service-dans-le-monde-entier--une-enqu%C3%AAte-est-en-cours-pour-d%C3%A9terminer-les-causes./",
+      "url": "https://lamilano.it/fr/par-les-m%C3%A9dias/ChatGPT-hors-service-dans-le-monde-entier--une-enqu%C3%AAte-est-en-cours-pour-d%C3%A9terminer-les-causes./",
+      "publishedAt": "2026-07-25T15:04:07.000Z",
+      "date": "2026-07-25T15:04:07.000Z",
+      "description": "L'entreprise basée à San Francisco a qualifié l'incident d'« incident de cybersécurité sans précédent » et a indiqué qu'elle mènerait une enquête...",
+      "excerpt": "L'entreprise basée à San Francisco a qualifié l'incident d'« incident de cybersécurité sans précédent » et a indiqué qu'elle mènerait une enquête...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Panne mondiale frappe ChatGPT, l'API et Codex d'OpenAI - Unite.AI",
+      "link": "https://www.unite.ai/fr/global-outage-hits-openais-chatgpt-api-and-codex/",
+      "url": "https://www.unite.ai/fr/global-outage-hits-openais-chatgpt-api-and-codex/",
+      "publishedAt": "2026-07-25T13:31:39.000Z",
+      "date": "2026-07-25T13:31:39.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT, son API de développeur et l'assistant de codage Codex. Les...",
+      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT, son API de développeur et l'assistant de codage Codex. Les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "L'intelligence artificielle devient championne en maths, et c'est une première - PhonAndroid",
       "link": "https://www.phonandroid.com/lintelligence-artificielle-devient-championne-en-maths-et-cest-une-premiere.html",
@@ -70,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Claude Opus 5: performance GPT-4 au prix du token divisé par deux - IA7",
+      "link": "https://ia7.fr/article/claude-opus-5-performance-gpt-4-au-prix-du-token-divise-par-deux-85cd",
+      "url": "https://ia7.fr/article/claude-opus-5-performance-gpt-4-au-prix-du-token-divise-par-deux-85cd",
+      "publishedAt": "2026-07-25T05:14:57.000Z",
+      "date": "2026-07-25T05:14:57.000Z",
+      "description": "update. Claude Opus 5: performance GPT-4 au prix du token divisé par deux. Anthropic déploie Claude Opus 5, son nouveau modèle phare, affichant une...",
+      "excerpt": "update. Claude Opus 5: performance GPT-4 au prix du token divisé par deux. Anthropic déploie Claude Opus 5, son nouveau modèle phare, affichant une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "\"La menace est bien réelle. Elle n'a cependant rien de magique\": le piratage de Hugging... - BFM",
       "link": "https://www.bfmtv.com/tech/cybersecurite/la-menace-est-bien-reelle-elle-n-a-cependant-rien-de-magique-le-piratage-de-hugging-face-par-les-modeles-d-open-ai-revelent-des-ia-entrainees-a-poursuivre-inlassablement-des-objectifs-ainsi-qu-un-probleme-majeur-d-alignement_AV-202607240271.html",
       "url": "https://www.bfmtv.com/tech/cybersecurite/la-menace-est-bien-reelle-elle-n-a-cependant-rien-de-magique-le-piratage-de-hugging-face-par-les-modeles-d-open-ai-revelent-des-ia-entrainees-a-poursuivre-inlassablement-des-objectifs-ainsi-qu-un-probleme-majeur-d-alignement_AV-202607240271.html",
@@ -78,56 +128,6 @@
       "description": "... cybersécurité plus sophistiquées que sa rivale, Anthropic. Le piratage... ChatGPT et cofondateur de l'organisation à but non lucratif Guidelight AI...",
       "excerpt": "... cybersécurité plus sophistiquées que sa rivale, Anthropic. Le piratage... ChatGPT et cofondateur de l'organisation à but non lucratif Guidelight AI...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI: ChatGPT bientôt intégré aux appareils portables - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-chatgpt-bientot-integre-aux-appareils-portables",
-      "url": "https://www.briefia.fr/article/openai-chatgpt-bientot-integre-aux-appareils-portables",
-      "publishedAt": "2026-07-24T22:11:18.000Z",
-      "date": "2026-07-24T22:11:18.000Z",
-      "description": "OpenAI envisage d'intégrer ChatGPT... Fable 5 avait été temporairement suspendu pour des raisons de cybersécurité avant d'être réactivé avec des...",
-      "excerpt": "OpenAI envisage d'intégrer ChatGPT... Fable 5 avait été temporairement suspendu pour des raisons de cybersécurité avant d'être réactivé avec des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Meta transforme son chatbot IA en un assistant d'exécution de tâches - Unite.AI",
-      "link": "https://www.unite.ai/fr/meta-turns-its-ai-chatbot-into-a-task-running-assistant/",
-      "url": "https://www.unite.ai/fr/meta-turns-its-ai-chatbot-into-a-task-running-assistant/",
-      "publishedAt": "2026-07-24T21:34:04.000Z",
-      "date": "2026-07-24T21:34:04.000Z",
-      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT, Gemini et Claude, les outils de productivité que Meta avait...",
-      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT, Gemini et Claude, les outils de productivité que Meta avait...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Meta défie ChatGPT et Gemini avec un chatbot IA enrichi - Brief IA",
-      "link": "https://www.briefia.fr/article/meta-defie-chatgpt-et-gemini-avec-un-chatbot-ia-enrichi",
-      "url": "https://www.briefia.fr/article/meta-defie-chatgpt-et-gemini-avec-un-chatbot-ia-enrichi",
-      "publishedAt": "2026-07-24T19:11:47.000Z",
-      "date": "2026-07-24T19:11:47.000Z",
-      "description": "... ChatGPT et Gemini... Fable 5 avait été temporairement suspendu pour des raisons de cybersécurité avant d'être réactivé avec des mesures renforcées.",
-      "excerpt": "... ChatGPT et Gemini... Fable 5 avait été temporairement suspendu pour des raisons de cybersécurité avant d'être réactivé avec des mesures renforcées.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic muscle le mode vocal de Claude - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/anthropic-muscle-le-mode-vocal-de-claude-498968.htm",
-      "url": "https://www.zdnet.fr/actualites/anthropic-muscle-le-mode-vocal-de-claude-498968.htm",
-      "publishedAt": "2026-07-24T17:07:36.000Z",
-      "date": "2026-07-24T17:07:36.000Z",
-      "description": "Quelques semaines après la mise à jour du mode vocal de ChatGPT par OpenAI, Anthropic riposte avec une refonte de Claude Voice.",
-      "excerpt": "Quelques semaines après la mise à jour du mode vocal de ChatGPT par OpenAI, Anthropic riposte avec une refonte de Claude Voice.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "RAG: la cascade LLM, un atout économique face aux modèles phares | Brief IA",
-      "link": "https://www.briefia.fr/article/rag-la-cascade-llm-un-atout-economique-face-aux-modeles-phares",
-      "url": "https://www.briefia.fr/article/rag-la-cascade-llm-un-atout-economique-face-aux-modeles-phares",
-      "publishedAt": "2026-07-24T16:16:40.000Z",
-      "date": "2026-07-24T16:16:40.000Z",
-      "description": "... phishing. Business il y a 21h. AegisAI, ex-Google, lève 36 millions pour contrer le phishing IA. • AegisAI, fondée par d'anciens de Google, a levé...",
-      "excerpt": "... phishing. Business il y a 21h. AegisAI, ex-Google, lève 36 millions pour contrer le phishing IA. • AegisAI, fondée par d'anciens de Google, a levé...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     }
   ]
 }
