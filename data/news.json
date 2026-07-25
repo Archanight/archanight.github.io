@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T07:50:40.703Z",
+  "generatedAt": "2026-07-25T13:02:09.749Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "L'intelligence artificielle devient championne en maths, et c'est une première - PhonAndroid",
+      "link": "https://www.phonandroid.com/lintelligence-artificielle-devient-championne-en-maths-et-cest-une-premiere.html",
+      "url": "https://www.phonandroid.com/lintelligence-artificielle-devient-championne-en-maths-et-cest-une-premiere.html",
+      "publishedAt": "2026-07-25T10:07:30.000Z",
+      "date": "2026-07-25T10:07:30.000Z",
+      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Pour rappel, la première IA générative grand public, ChatGPT, est sortie...",
+      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Pour rappel, la première IA générative grand public, ChatGPT, est sortie...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "\"Le développement de l'intelligence incarnée doit s'inspirer de la façon dont les humains...",
+      "link": "https://www.bfmtv.com/tech/innovation/le-developpement-de-l-intelligence-incarnee-doit-s-inspirer-de-la-facon-dont-les-humains-pensent-derriere-les-demonstrations-impressionnantes-les-robots-humanoides-sont-encore-loin-de-leur-moment-chat-gpt_AV-202607250043.html",
+      "url": "https://www.bfmtv.com/tech/innovation/le-developpement-de-l-intelligence-incarnee-doit-s-inspirer-de-la-facon-dont-les-humains-pensent-derriere-les-demonstrations-impressionnantes-les-robots-humanoides-sont-encore-loin-de-leur-moment-chat-gpt_AV-202607250043.html",
+      "publishedAt": "2026-07-25T08:57:33.000Z",
+      "date": "2026-07-25T08:57:33.000Z",
+      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons plans · BFM... Pour lui, le \"moment ChatGPT \" des robots n'a pas encore...",
+      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons plans · BFM... Pour lui, le \"moment ChatGPT \" des robots n'a pas encore...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un \"cyberincident sans précédent\": ce que l'on sait de la cyberattaque menée de leur... - franceinfo",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-cyberincident-sans-precedent-ce-que-l-on-sait-de-la-cyberattaque-menee-de-leur-propre-initiative-par-les-modeles-d-openai_8120441.html",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-cyberincident-sans-precedent-ce-que-l-on-sait-de-la-cyberattaque-menee-de-leur-propre-initiative-par-les-modeles-d-openai_8120441.html",
+      "publishedAt": "2026-07-25T08:56:13.000Z",
+      "date": "2026-07-25T08:56:13.000Z",
+      "description": "Le créateur de ChatGPT a annoncé mardi que ses modèles d... La cybersécurité constitue un enjeu crucial à mesure que l'IA gagne en...",
+      "excerpt": "Le créateur de ChatGPT a annoncé mardi que ses modèles d... La cybersécurité constitue un enjeu crucial à mesure que l'IA gagne en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "On a testé Lumo 2.0 de Proton, l'IA confidentielle deux fois moins chère que ChatGPT et Claude",
+      "link": "https://www.clubic.com/avis-622471-proton-lumo.html",
+      "url": "https://www.clubic.com/avis-622471-proton-lumo.html",
+      "publishedAt": "2026-07-25T08:49:05.000Z",
+      "date": "2026-07-25T08:49:05.000Z",
+      "description": "Lumo est l'assistant IA de Proton, lancé en juillet 2025 avec une promesse: proposer une alternative à ChatGPT ou Gemini sans exploiter les données...",
+      "excerpt": "Lumo est l'assistant IA de Proton, lancé en juillet 2025 avec une promesse: proposer une alternative à ChatGPT ou Gemini sans exploiter les données...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT Voice: contrôlez votre ordinateur à la voix avec l'IA - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/376453/chatgpt-voice-controle-ordinateur-bureau/",
+      "url": "https://www.blog-nouvelles-technologies.fr/376453/chatgpt-voice-controle-ordinateur-bureau/",
+      "publishedAt": "2026-07-25T08:21:57.000Z",
+      "date": "2026-07-25T08:21:57.000Z",
+      "description": "Jusqu'à présent, le mode vocal de ChatGPT était principalement conçu pour offrir des conversations naturelles. Avec cette nouvelle version...",
+      "excerpt": "Jusqu'à présent, le mode vocal de ChatGPT était principalement conçu pour offrir des conversations naturelles. Avec cette nouvelle version...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI lance ChatGPT Voice sur son application de bureau - Stéphane Larue",
+      "link": "https://stephanelarue.com/openai-lance-chatgpt-voice-sur-son-application-de-bureau/",
+      "url": "https://stephanelarue.com/openai-lance-chatgpt-voice-sur-son-application-de-bureau/",
+      "publishedAt": "2026-07-25T06:53:40.000Z",
+      "date": "2026-07-25T06:53:40.000Z",
+      "description": "ChatGPT Voice tourne désormais sur les applications Mac et Windows de ChatGPT... Actu · Cybersécurité · 4 min · ◁ Retour à l'univers Tech · À propos de...",
+      "excerpt": "ChatGPT Voice tourne désormais sur les applications Mac et Windows de ChatGPT... Actu · Cybersécurité · 4 min · ◁ Retour à l'univers Tech · À propos de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "\"La menace est bien réelle. Elle n'a cependant rien de magique\": le piratage de Hugging... - BFM",
       "link": "https://www.bfmtv.com/tech/cybersecurite/la-menace-est-bien-reelle-elle-n-a-cependant-rien-de-magique-le-piratage-de-hugging-face-par-les-modeles-d-open-ai-revelent-des-ia-entrainees-a-poursuivre-inlassablement-des-objectifs-ainsi-qu-un-probleme-majeur-d-alignement_AV-202607240271.html",
@@ -68,66 +128,6 @@
       "description": "... phishing. Business il y a 21h. AegisAI, ex-Google, lève 36 millions pour contrer le phishing IA. • AegisAI, fondée par d'anciens de Google, a levé...",
       "excerpt": "... phishing. Business il y a 21h. AegisAI, ex-Google, lève 36 millions pour contrer le phishing IA. • AegisAI, fondée par d'anciens de Google, a levé...",
       "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "ChatGPT est désormais capable d'analyser des données de santé, mais pas en Allemagne",
-      "link": "https://www.notebookcheck.biz/ChatGPT-est-desormais-capable-d-analyser-des-donnees-de-sante-mais-pas-en-Allemagne.1350843.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-est-desormais-capable-d-analyser-des-donnees-de-sante-mais-pas-en-Allemagne.1350843.0.html",
-      "publishedAt": "2026-07-24T16:14:51.000Z",
-      "date": "2026-07-24T16:14:51.000Z",
-      "description": "OpenAI a lancé ChatGPT Health le 23 juillet pour tous les utilisateurs aux États-Unis. Cette fonctionnalité relie les dossiers médicaux et les...",
-      "excerpt": "OpenAI a lancé ChatGPT Health le 23 juillet pour tous les utilisateurs aux États-Unis. Cette fonctionnalité relie les dossiers médicaux et les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Plus besoin d'écrire: ChatGPT Voice débarque dans l'application de bureau - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/plus-besoin-decrire-chatgpt-voice-debarque-dans-lapplication-de-bureau",
-      "url": "https://www.lebigdata.fr/plus-besoin-decrire-chatgpt-voice-debarque-dans-lapplication-de-bureau",
-      "publishedAt": "2026-07-24T14:54:41.000Z",
-      "date": "2026-07-24T14:54:41.000Z",
-      "description": "ChatGPT Voice arrive sur l'application ordinateurWindows et macOS... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
-      "excerpt": "ChatGPT Voice arrive sur l'application ordinateurWindows et macOS... LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le pire cauchemar de la SF vient de se réaliser: le dernier modèle de ChatGPT échappe au...",
-      "link": "https://www.jeuxvideo.com/news/2095362/le-pire-cauchemar-de-la-sf-vient-de-se-realiser-le-dernier-modele-de-chatgpt-echappe-au-controle-des-createurs-et-se-lance-dans-le-hacking.htm",
-      "url": "https://www.jeuxvideo.com/news/2095362/le-pire-cauchemar-de-la-sf-vient-de-se-realiser-le-dernier-modele-de-chatgpt-echappe-au-controle-des-createurs-et-se-lance-dans-le-hacking.htm",
-      "publishedAt": "2026-07-24T13:25:57.000Z",
-      "date": "2026-07-24T13:25:57.000Z",
-      "description": "En plein test de cybersécurité, une version surpuissante de ChatGPT s'est fait la malle de son environnement confiné pour aller pirater de son propre...",
-      "excerpt": "En plein test de cybersécurité, une version surpuissante de ChatGPT s'est fait la malle de son environnement confiné pour aller pirater de son propre...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cette nouvelle fonction de ChatGPT vous permet de piloter votre PC sans toucher au clavier",
-      "link": "https://www.phonandroid.com/cette-nouvelle-fonction-de-chatgpt-vous-permet-de-piloter-votre-pc-sans-toucher-au-clavier.html",
-      "url": "https://www.phonandroid.com/cette-nouvelle-fonction-de-chatgpt-vous-permet-de-piloter-votre-pc-sans-toucher-au-clavier.html",
-      "publishedAt": "2026-07-24T13:22:14.000Z",
-      "date": "2026-07-24T13:22:14.000Z",
-      "description": "OpenAI déploie sa nouvelle fonction vocale sur les applications de bureau ChatGPT, avec des capacités inédites face à Gemini Live... Cybersécurité...",
-      "excerpt": "OpenAI déploie sa nouvelle fonction vocale sur les applications de bureau ChatGPT, avec des capacités inédites face à Gemini Live... Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Santé aux USA: innovation ou menace privée? | Brief IA",
-      "link": "https://www.briefia.fr/article/chatgpt-sante-aux-usa-innovation-ou-menace-privee",
-      "url": "https://www.briefia.fr/article/chatgpt-sante-aux-usa-innovation-ou-menace-privee",
-      "publishedAt": "2026-07-24T13:11:19.000Z",
-      "date": "2026-07-24T13:11:19.000Z",
-      "description": "... ChatGPT... Pourquoi c'est important: Les performances médiocres de Kimi K3 en cybersécurité soulèvent des questions sur la compétitivité de Moonshot...",
-      "excerpt": "... ChatGPT... Pourquoi c'est important: Les performances médiocres de Kimi K3 en cybersécurité soulèvent des questions sur la compétitivité de Moonshot...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Santé débarque aux États-Unis: bonne idée ou risque majeur pour la vie privée?",
-      "link": "https://www.clubic.com/actualite-622645-chatgpt-sante-debarque-aux-etats-unis-bonne-idee-ou-risque-majeur-pour-la-vie-privee.html",
-      "url": "https://www.clubic.com/actualite-622645-chatgpt-sante-debarque-aux-etats-unis-bonne-idee-ou-risque-majeur-pour-la-vie-privee.html",
-      "publishedAt": "2026-07-24T12:54:45.000Z",
-      "date": "2026-07-24T12:54:45.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT Santé débarque aux États-Unis: bonne idée ou risque majeur...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT Santé débarque aux États-Unis: bonne idée ou risque majeur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
