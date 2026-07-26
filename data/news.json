@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T12:58:41.410Z",
+  "generatedAt": "2026-07-26T18:57:05.110Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Trail of Bits dévoile GPT-5.5-Cyber pour détecter les bugs dans zlib - Coinfomania",
+      "link": "https://coinfomania.com/fr/trail-of-bits-launches-gpt-5-5-cyber-to-identify-bugs-in-zlib-fr/",
+      "url": "https://coinfomania.com/fr/trail-of-bits-launches-gpt-5-5-cyber-to-identify-bugs-in-zlib-fr/",
+      "publishedAt": "2026-07-26T17:45:04.000Z",
+      "date": "2026-07-26T17:45:04.000Z",
+      "description": "Trail of Bits lance GPT-5.5-Cyber pour détecter les bugs zlib, montrant les capacités de l'IA en cybersécurité.",
+      "excerpt": "Trail of Bits lance GPT-5.5-Cyber pour détecter les bugs zlib, montrant les capacités de l'IA en cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT et les recettes de poisons: OpenAI face à un dilemme - Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-et-les-recettes-de-poisons-openai-face-a-un-dilemme",
+      "url": "https://www.briefia.fr/article/chatgpt-et-les-recettes-de-poisons-openai-face-a-un-dilemme",
+      "publishedAt": "2026-07-26T16:06:50.000Z",
+      "date": "2026-07-26T16:06:50.000Z",
+      "description": "... GPT-5 comme à haut risque en été 2025, avant de revoir cette... ChatGPT 5.5: OpenAI révolutionne la recherche et la cybersécurité il y...",
+      "excerpt": "... GPT-5 comme à haut risque en été 2025, avant de revoir cette... ChatGPT 5.5: OpenAI révolutionne la recherche et la cybersécurité il y...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Faites des économies en vacances grâce à ChatGPT: 7 prompts pour limiter vos dépenses",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/faites-des-economies-en-vacances-grace-a-chatgpt-7-prompts-pour-limiter-vos-depenses-n259675.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/faites-des-economies-en-vacances-grace-a-chatgpt-7-prompts-pour-limiter-vos-depenses-n259675.html",
+      "publishedAt": "2026-07-26T15:13:40.000Z",
+      "date": "2026-07-26T15:13:40.000Z",
+      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "IA: la Chine casse les prix face à ChatGPT et Claude - L'Essentiel de l'Éco",
       "link": "https://lessentieldeleco.fr/8015-ia-la-chine-casse-les-prix-face-a-chatgpt-et-claude/",
@@ -97,36 +127,6 @@
       "date": "2026-07-25T08:49:05.000Z",
       "description": "Lumo est l'assistant IA de Proton, lancé en juillet 2025 avec une promesse: proposer une alternative à ChatGPT ou Gemini sans exploiter les données...",
       "excerpt": "Lumo est l'assistant IA de Proton, lancé en juillet 2025 avec une promesse: proposer une alternative à ChatGPT ou Gemini sans exploiter les données...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT Voice: contrôlez votre ordinateur à la voix avec l'IA - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/376453/chatgpt-voice-controle-ordinateur-bureau/",
-      "url": "https://www.blog-nouvelles-technologies.fr/376453/chatgpt-voice-controle-ordinateur-bureau/",
-      "publishedAt": "2026-07-25T08:21:57.000Z",
-      "date": "2026-07-25T08:21:57.000Z",
-      "description": "Jusqu'à présent, le mode vocal de ChatGPT était principalement conçu pour offrir des conversations naturelles. Avec cette nouvelle version...",
-      "excerpt": "Jusqu'à présent, le mode vocal de ChatGPT était principalement conçu pour offrir des conversations naturelles. Avec cette nouvelle version...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI lance ChatGPT Voice sur son application de bureau - Stéphane Larue",
-      "link": "https://stephanelarue.com/openai-lance-chatgpt-voice-sur-son-application-de-bureau/",
-      "url": "https://stephanelarue.com/openai-lance-chatgpt-voice-sur-son-application-de-bureau/",
-      "publishedAt": "2026-07-25T06:53:40.000Z",
-      "date": "2026-07-25T06:53:40.000Z",
-      "description": "ChatGPT Voice tourne désormais sur les applications Mac et Windows de ChatGPT... Actu · Cybersécurité · 4 min · ◁ Retour à l'univers Tech · À propos de...",
-      "excerpt": "ChatGPT Voice tourne désormais sur les applications Mac et Windows de ChatGPT... Actu · Cybersécurité · 4 min · ◁ Retour à l'univers Tech · À propos de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude Opus 5: performance GPT-4 au prix du token divisé par deux - IA7",
-      "link": "https://ia7.fr/article/claude-opus-5-performance-gpt-4-au-prix-du-token-divise-par-deux-85cd",
-      "url": "https://ia7.fr/article/claude-opus-5-performance-gpt-4-au-prix-du-token-divise-par-deux-85cd",
-      "publishedAt": "2026-07-25T05:14:57.000Z",
-      "date": "2026-07-25T05:14:57.000Z",
-      "description": "update. Claude Opus 5: performance GPT-4 au prix du token divisé par deux. Anthropic déploie Claude Opus 5, son nouveau modèle phare, affichant une...",
-      "excerpt": "update. Claude Opus 5: performance GPT-4 au prix du token divisé par deux. Anthropic déploie Claude Opus 5, son nouveau modèle phare, affichant une...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
