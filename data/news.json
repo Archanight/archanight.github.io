@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T08:08:47.333Z",
+  "generatedAt": "2026-07-26T12:58:41.410Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "IA: la Chine casse les prix face à ChatGPT et Claude - L'Essentiel de l'Éco",
+      "link": "https://lessentieldeleco.fr/8015-ia-la-chine-casse-les-prix-face-a-chatgpt-et-claude/",
+      "url": "https://lessentieldeleco.fr/8015-ia-la-chine-casse-les-prix-face-a-chatgpt-et-claude/",
+      "publishedAt": "2026-07-26T07:09:31.000Z",
+      "date": "2026-07-26T07:09:31.000Z",
+      "description": "Deux IA d'OpenAI se sont rebellées pendant un test de cybersécurité. L... ChatGPT accorde gratuitement 10 messages toutes les cinq heures...",
+      "excerpt": "Deux IA d'OpenAI se sont rebellées pendant un test de cybersécurité. L... ChatGPT accorde gratuitement 10 messages toutes les cinq heures...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "La machine est vraiment en train de nous dépasser» -Steve Waterhouse - 95.7 KYK",
       "link": "https://www.957kyk.com/audio/791440/la-machine-est-vraiment-en-train-de-nous-depasser-steve-waterhouse",
@@ -118,16 +128,6 @@
       "description": "update. Claude Opus 5: performance GPT-4 au prix du token divisé par deux. Anthropic déploie Claude Opus 5, son nouveau modèle phare, affichant une...",
       "excerpt": "update. Claude Opus 5: performance GPT-4 au prix du token divisé par deux. Anthropic déploie Claude Opus 5, son nouveau modèle phare, affichant une...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "\"La menace est bien réelle. Elle n'a cependant rien de magique\": le piratage de Hugging... - BFM",
-      "link": "https://www.bfmtv.com/tech/cybersecurite/la-menace-est-bien-reelle-elle-n-a-cependant-rien-de-magique-le-piratage-de-hugging-face-par-les-modeles-d-open-ai-revelent-des-ia-entrainees-a-poursuivre-inlassablement-des-objectifs-ainsi-qu-un-probleme-majeur-d-alignement_AV-202607240271.html",
-      "url": "https://www.bfmtv.com/tech/cybersecurite/la-menace-est-bien-reelle-elle-n-a-cependant-rien-de-magique-le-piratage-de-hugging-face-par-les-modeles-d-open-ai-revelent-des-ia-entrainees-a-poursuivre-inlassablement-des-objectifs-ainsi-qu-un-probleme-majeur-d-alignement_AV-202607240271.html",
-      "publishedAt": "2026-07-25T00:15:07.000Z",
-      "date": "2026-07-25T00:15:07.000Z",
-      "description": "... cybersécurité plus sophistiquées que sa rivale, Anthropic. Le piratage... ChatGPT et cofondateur de l'organisation à but non lucratif Guidelight AI...",
-      "excerpt": "... cybersécurité plus sophistiquées que sa rivale, Anthropic. Le piratage... ChatGPT et cofondateur de l'organisation à but non lucratif Guidelight AI...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
