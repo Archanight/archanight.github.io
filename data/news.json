@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T08:14:25.827Z",
+  "generatedAt": "2026-07-28T13:39:49.536Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Apple regarde ses rivaux se ruiner: la vérité sur son retard dans l'IA - iPhon.fr",
+      "link": "https://www.iphon.fr/post/apple-analyse-avantage-retard-crise-intelligence-artificielle-chatgpt",
+      "url": "https://www.iphon.fr/post/apple-analyse-avantage-retard-crise-intelligence-artificielle-chatgpt",
+      "publishedAt": "2026-07-28T12:55:11.000Z",
+      "date": "2026-07-28T12:55:11.000Z",
+      "description": "Selon lui, OpenAI ( ChatGPT ) a par exemple enregistré un déficit net de vingt milliards de dollars l'année dernière. Cette situation inédite force...",
+      "excerpt": "Selon lui, OpenAI ( ChatGPT ) a par exemple enregistré un déficit net de vingt milliards de dollars l'année dernière. Cette situation inédite force...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ZD Tech: Ce nouvel outil basé sur l'IA pourrait simplifier la vie de vos équipes de... - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/zd-tech-ce-nouvel-outil-base-sur-lia-pourrait-simplifier-la-vie-de-vos-equipes-de-conformite-et-de-vos-developpeurs-498191.htm",
+      "url": "https://www.zdnet.fr/actualites/zd-tech-ce-nouvel-outil-base-sur-lia-pourrait-simplifier-la-vie-de-vos-equipes-de-conformite-et-de-vos-developpeurs-498191.htm",
+      "publishedAt": "2026-07-28T11:31:34.000Z",
+      "date": "2026-07-28T11:31:34.000Z",
+      "description": "La scale-up Sumsub frappe un grand coup en ouvrant sa plateforme aux agents d'IA comme ChatGPT et Claude. Une innovation qui transforme de lourdes...",
+      "excerpt": "La scale-up Sumsub frappe un grand coup en ouvrant sa plateforme aux agents d'IA comme ChatGPT et Claude. Une innovation qui transforme de lourdes...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Microsoft défie Anthropic avec son IA de cybersécurité à moitié prix - Brief IA",
       "link": "https://www.briefia.fr/article/microsoft-defie-anthropic-avec-son-ia-de-cybersecurite-a-moitie-prix",
@@ -108,26 +128,6 @@
       "description": "OpenAI a lancé ChatGPT Voice, permettant de contrôler un ordinateur par la voix sur macOS et Windows. • La fonctionnalité utilise GPT-Live pour...",
       "excerpt": "OpenAI a lancé ChatGPT Voice, permettant de contrôler un ordinateur par la voix sur macOS et Windows. • La fonctionnalité utilise GPT-Live pour...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Deux randonneuses se perdent dans les Pyrénées après avoir suivi un itinéraire donné par ChatGPT",
-      "link": "https://www.clubic.com/actualite-622801-deux-randonneuses-se-perdent-apres-avoir-suivi-un-itineraire-donne-par-chatgpt.html",
-      "url": "https://www.clubic.com/actualite-622801-deux-randonneuses-se-perdent-apres-avoir-suivi-un-itineraire-donne-par-chatgpt.html",
-      "publishedAt": "2026-07-27T11:59:00.000Z",
-      "date": "2026-07-27T11:59:00.000Z",
-      "description": "... ChatGPT. La carte générée avait situé le lac d'Estom et le refuge... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
-      "excerpt": "... ChatGPT. La carte générée avait situé le lac d'Estom et le refuge... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "J'ai testé cette méthode avec ChatGPT pour retrouver les photos de moi qui traînent sur Internet…",
-      "link": "https://www.youtube.com/watch?v=icq1Tcl2-KE",
-      "url": "https://www.youtube.com/watch?v=icq1Tcl2-KE",
-      "publishedAt": "2026-07-27T11:53:59.000Z",
-      "date": "2026-07-27T11:53:59.000Z",
-      "description": "... ChatGPT #IntelligenceArtificielle #IA... Cybersécurité #ProtectionDesDonnées #TechFr #AstuceTech #PromptChatGPT #OutilsIA #CréateurDeContenu.",
-      "excerpt": "... ChatGPT #IntelligenceArtificielle #IA... Cybersécurité #ProtectionDesDonnées #TechFr #AstuceTech #PromptChatGPT #OutilsIA #CréateurDeContenu.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
