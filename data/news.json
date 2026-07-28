@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T13:39:49.536Z",
+  "generatedAt": "2026-07-28T19:08:08.642Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,86 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Un professeur utilise une astuce pour savoir si ses élèves trichent avec l'IA, 32 sur 35...",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/un-professeur-utilise-une-astuce-pour-savoir-si-ses-eleves-trichent-avec-l-ia-32-sur-35-tombent-dans-le-piege-n259824.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/un-professeur-utilise-une-astuce-pour-savoir-si-ses-eleves-trichent-avec-l-ia-32-sur-35-tombent-dans-le-piege-n259824.html",
+      "publishedAt": "2026-07-28T18:01:19.000Z",
+      "date": "2026-07-28T18:01:19.000Z",
+      "description": "La consigne est simple et marche aussi bien avec ChatGPT, que Gemini ou Claude.... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus...",
+      "excerpt": "La consigne est simple et marche aussi bien avec ChatGPT, que Gemini ou Claude.... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Incident OpenAI: Sam Altman évoque un ralentissement volontaire du développement de l'IA",
+      "link": "https://www.liberation.fr/societe/sante/incident-openai-sam-altman-evoque-un-ralentissement-volontaire-du-developpement-de-lia-20260728_K2YFJHJMWVF6PHMO54W2P2JW6Q/",
+      "url": "https://www.liberation.fr/societe/sante/incident-openai-sam-altman-evoque-un-ralentissement-volontaire-du-developpement-de-lia-20260728_K2YFJHJMWVF6PHMO54W2P2JW6Q/",
+      "publishedAt": "2026-07-28T17:08:10.000Z",
+      "date": "2026-07-28T17:08:10.000Z",
+      "description": "Dans un podcast diffusé ce mardi 28 juillet, le créateur de ChatGPT... Intelligence artificielle (IA)Sam AltmanOpenAI Cybersécurité. Dans la même...",
+      "excerpt": "Dans un podcast diffusé ce mardi 28 juillet, le créateur de ChatGPT... Intelligence artificielle (IA)Sam AltmanOpenAI Cybersécurité. Dans la même...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT refuse désormais d'imiter des auteurs célèbres - Dataconomy FR",
+      "link": "https://fr.dataconomy.com/2026/07/28/chatgpt-refuse-desormais-dimiter-des-auteurs-celebres/",
+      "url": "https://fr.dataconomy.com/2026/07/28/chatgpt-refuse-desormais-dimiter-des-auteurs-celebres/",
+      "publishedAt": "2026-07-28T16:03:34.000Z",
+      "date": "2026-07-28T16:03:34.000Z",
+      "description": "ChatGPT a commencé à refuser les demandes visant à imiter les styles d... Microsoft dévoile son premier modèle d'IA de cybersécurité interne...",
+      "excerpt": "ChatGPT a commencé à refuser les demandes visant à imiter les styles d... Microsoft dévoile son premier modèle d'IA de cybersécurité interne...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Kimi K3: la plus grosse IA open source et gratuite jamais publiée est disponible",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/kimi-k3-la-plus-grosse-ia-open-source-et-gratuite-jamais-publiee-est-disponible-n259821.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/kimi-k3-la-plus-grosse-ia-open-source-et-gratuite-jamais-publiee-est-disponible-n259821.html",
+      "publishedAt": "2026-07-28T15:38:01.000Z",
+      "date": "2026-07-28T15:38:01.000Z",
+      "description": "Le sélecteur permet de doser l'effort de réflexion du modèle, à la manière du mode \"pensée\" de ChatGPT, et de basculer vers K3 Swarm pour les...",
+      "excerpt": "Le sélecteur permet de doser l'effort de réflexion du modèle, à la manière du mode \"pensée\" de ChatGPT, et de basculer vers K3 Swarm pour les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI renforce ChatGPT contre les violations de droits d'auteur - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-renforce-chatgpt-contre-les-violations-de-droits-d-auteur",
+      "url": "https://www.briefia.fr/article/openai-renforce-chatgpt-contre-les-violations-de-droits-d-auteur",
+      "publishedAt": "2026-07-28T13:13:03.000Z",
+      "date": "2026-07-28T13:13:03.000Z",
+      "description": "Microsoft défie Anthropic avec son IA de cybersécurité à moitié prixil y a 16h→. Une alternative proposée par ChatGPT. Bien que ChatGPT refuse de...",
+      "excerpt": "Microsoft défie Anthropic avec son IA de cybersécurité à moitié prixil y a 16h→. Une alternative proposée par ChatGPT. Bien que ChatGPT refuse de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Deepnote et ChatGPT: l'IA redéfinit l'analyse de données - Brief IA",
+      "link": "https://www.briefia.fr/article/deepnote-et-chatgpt-l-ia-redefinit-l-analyse-de-donnees",
+      "url": "https://www.briefia.fr/article/deepnote-et-chatgpt-l-ia-redefinit-l-analyse-de-donnees",
+      "publishedAt": "2026-07-28T13:12:57.000Z",
+      "date": "2026-07-28T13:12:57.000Z",
+      "description": "... ChatGPT... Pourquoi c'est important: Microsoft se positionne en leader de la cybersécurité IA, surpassant ses concurrents sur le benchmark CyberGym.",
+      "excerpt": "... ChatGPT... Pourquoi c'est important: Microsoft se positionne en leader de la cybersécurité IA, surpassant ses concurrents sur le benchmark CyberGym.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT va refuser certaines consignes, mais c'est pour la bonne cause - Clubic",
+      "link": "https://www.clubic.com/actualite-623095-chatgpt-va-refuser-certaines-consignes-mais-c-est-pour-la-bonne-cause.html",
+      "url": "https://www.clubic.com/actualite-623095-chatgpt-va-refuser-certaines-consignes-mais-c-est-pour-la-bonne-cause.html",
+      "publishedAt": "2026-07-28T13:00:37.000Z",
+      "date": "2026-07-28T13:00:37.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT va refuser certaines consignes, mais c'est pour la bonne cause.",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT va refuser certaines consignes, mais c'est pour la bonne cause.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Threads: Meta AI débarque dans les messages privés - Stéphane Larue",
+      "link": "https://stephanelarue.com/threads-meta-ai-debarque-dans-les-messages-prives/",
+      "url": "https://stephanelarue.com/threads-meta-ai-debarque-dans-les-messages-prives/",
+      "publishedAt": "2026-07-28T12:57:25.000Z",
+      "date": "2026-07-28T12:57:25.000Z",
+      "description": "Meta AI face à ChatGPT et Gemini: la bataille de la messagerie. Cette intégration s'inscrit dans une stratégie plus large: retenir les utilisateurs...",
+      "excerpt": "Meta AI face à ChatGPT et Gemini: la bataille de la messagerie. Cette intégration s'inscrit dans une stratégie plus large: retenir les utilisateurs...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Apple regarde ses rivaux se ruiner: la vérité sur son retard dans l'IA - iPhon.fr",
       "link": "https://www.iphon.fr/post/apple-analyse-avantage-retard-crise-intelligence-artificielle-chatgpt",
@@ -30,104 +110,24 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "Microsoft défie Anthropic avec son IA de cybersécurité à moitié prix - Brief IA",
-      "link": "https://www.briefia.fr/article/microsoft-defie-anthropic-avec-son-ia-de-cybersecurite-a-moitie-prix",
-      "url": "https://www.briefia.fr/article/microsoft-defie-anthropic-avec-son-ia-de-cybersecurite-a-moitie-prix",
-      "publishedAt": "2026-07-27T22:17:30.000Z",
-      "date": "2026-07-27T22:17:30.000Z",
-      "description": "Microsoft introduit MAI-Cyber-1-Flash, un modèle d'IA de cybersécurité... 43,5 % des requêtes sur ChatGPT concernent des tâches d'autres professions,...",
-      "excerpt": "Microsoft introduit MAI-Cyber-1-Flash, un modèle d'IA de cybersécurité... 43,5 % des requêtes sur ChatGPT concernent des tâches d'autres professions,...",
+      "title": "Ça commence! Mega cyber attaque de la part des IA - Résistance Républicaine",
+      "link": "https://resistancerepublicaine.com/2026/07/28/ca-commence-mega-cyber-attaque-de-la-part-des-ia/",
+      "url": "https://resistancerepublicaine.com/2026/07/28/ca-commence-mega-cyber-attaque-de-la-part-des-ia/",
+      "publishedAt": "2026-07-28T11:11:38.000Z",
+      "date": "2026-07-28T11:11:38.000Z",
+      "description": "Le 16 juillet 2026, pendant un test interne d'OpenAI visant à mesurer les capacités offensives en cybersécurité de ses modèles ChatGPT (notamment...",
+      "excerpt": "Le 16 juillet 2026, pendant un test interne d'OpenAI visant à mesurer les capacités offensives en cybersécurité de ses modèles ChatGPT (notamment...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "OpenAI: ChatGPT redéfinit les frontières des métiers en entreprise - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-chatgpt-redefinit-les-frontieres-des-metiers-en-entreprise",
-      "url": "https://www.briefia.fr/article/openai-chatgpt-redefinit-les-frontieres-des-metiers-en-entreprise",
-      "publishedAt": "2026-07-27T22:12:17.000Z",
-      "date": "2026-07-27T22:12:17.000Z",
-      "description": "... ChatGPT... Pourquoi c'est important: Microsoft redéfinit le marché de la cybersécurité en alliant performance et coût réduit, défiant les leaders...",
-      "excerpt": "... ChatGPT... Pourquoi c'est important: Microsoft redéfinit le marché de la cybersécurité en alliant performance et coût réduit, défiant les leaders...",
+      "title": "Les hôtels Radisson arrivent sur ChatGPT avec leur propre application",
+      "link": "https://www.larevuedudigital.com/les-hotels-radisson-arrivent-sur-chatgpt-avec-leur-propre-application/",
+      "url": "https://www.larevuedudigital.com/les-hotels-radisson-arrivent-sur-chatgpt-avec-leur-propre-application/",
+      "publishedAt": "2026-07-28T10:34:31.000Z",
+      "date": "2026-07-28T10:34:31.000Z",
+      "description": "... Devops · -- Web Design, Digital, -- DMP · -- CRM onboarding · -- Mobile... ChatGPT. La nouvelle application Radisson Hotels sur ChatGPT permet aux...",
+      "excerpt": "... Devops · -- Web Design, Digital, -- DMP · -- CRM onboarding · -- Mobile... ChatGPT. La nouvelle application Radisson Hotels sur ChatGPT permet aux...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI rejoint la coalition Open-weight AI alors qu'Anthropic reste hors de liste",
-      "link": "https://coinedition.com/fr/openai-rejoint-la-coalition-open-weight-ai-alors-quanthropic-reste-hors-de-liste/",
-      "url": "https://coinedition.com/fr/openai-rejoint-la-coalition-open-weight-ai-alors-quanthropic-reste-hors-de-liste/",
-      "publishedAt": "2026-07-27T21:30:01.000Z",
-      "date": "2026-07-27T21:30:01.000Z",
-      "description": "Sa déclaration a relié les modèles ouverts à la cybersécurité, à l'innovation et à la souveraineté technologique.... Le service combine ChatGPT, des...",
-      "excerpt": "Sa déclaration a relié les modèles ouverts à la cybersécurité, à l'innovation et à la souveraineté technologique.... Le service combine ChatGPT, des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Meta intègre son IA dans les messages privés de Threads - Brief IA",
-      "link": "https://www.briefia.fr/article/meta-integre-son-ia-dans-les-messages-prives-de-threads",
-      "url": "https://www.briefia.fr/article/meta-integre-son-ia-dans-les-messages-prives-de-threads",
-      "publishedAt": "2026-07-27T19:11:59.000Z",
-      "date": "2026-07-27T19:11:59.000Z",
-      "description": "... ChatGPT et Google Gemini. • Les utilisateurs peuvent partager divers contenus avec Meta AI et poser des questions de suivi pour des interactions...",
-      "excerpt": "... ChatGPT et Google Gemini. • Les utilisateurs peuvent partager divers contenus avec Meta AI et poser des questions de suivi pour des interactions...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Santé est-il un progrès ou un risque pour les usagers? - Choses à Savoir TECH",
-      "link": "https://shows.acast.com/choses-a-savoir-technologie/episodes/chatgpt-sante-est-il-un-progres-ou-un-risque-pour-les-usager",
-      "url": "https://shows.acast.com/choses-a-savoir-technologie/episodes/chatgpt-sante-est-il-un-progres-ou-un-risque-pour-les-usager",
-      "publishedAt": "2026-07-27T18:53:44.000Z",
-      "date": "2026-07-27T18:53:44.000Z",
-      "description": "Écouter ChatGPT Santé est-il un progrès ou un risque pour les usagers?... L'affaire agite le monde de la cybersécurité depuis la mi-juillet. Deux...",
-      "excerpt": "Écouter ChatGPT Santé est-il un progrès ou un risque pour les usagers?... L'affaire agite le monde de la cybersécurité depuis la mi-juillet. Deux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT refuse de créer des images: OpenAI reconnaît une panne - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/chatgpt-refuse-de-creer-des-images-openai-reconnait-une-panne",
-      "url": "https://www.lebigdata.fr/chatgpt-refuse-de-creer-des-images-openai-reconnait-une-panne",
-      "publishedAt": "2026-07-27T18:14:04.000Z",
-      "date": "2026-07-27T18:14:04.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... — ChatGPT (@ ChatGPT ) July 27, 2026. De nombreux utilisateurs reçoivent...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... — ChatGPT (@ ChatGPT ) July 27, 2026. De nombreux utilisateurs reçoivent...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Piratée par une IA d'OpenAI, une entreprise française réclame 100 millions d'euros de réparation",
-      "link": "https://www.buzzarena.com/piratee-par-une-ia-dopenai-une-entreprise-francaise-reclame-100-millions-deuros-de-reparation-4558638",
-      "url": "https://www.buzzarena.com/piratee-par-une-ia-dopenai-une-entreprise-francaise-reclame-100-millions-deuros-de-reparation-4558638",
-      "publishedAt": "2026-07-27T18:03:20.000Z",
-      "date": "2026-07-27T18:03:20.000Z",
-      "description": "Hugging Face demande 100 millions à OpenAI après une attaque menée par ChatGPT. In the spirit of transparency, here's what I asked @OpenAI: • Radical...",
-      "excerpt": "Hugging Face demande 100 millions à OpenAI après une attaque menée par ChatGPT. In the spirit of transparency, here's what I asked @OpenAI: • Radical...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Après la « première cyberattaque » menée par l'IA, la victime demande des comptes à OpenAI",
-      "link": "https://www.01net.com/actualites/cyberattaque-ia-victime-demande-compte-openai.html",
-      "url": "https://www.01net.com/actualites/cyberattaque-ia-victime-demande-compte-openai.html",
-      "publishedAt": "2026-07-27T16:29:58.000Z",
-      "date": "2026-07-27T16:29:58.000Z",
-      "description": "C'est une première qui a fait beaucoup de bruit dans le monde de la cybersécurité.... ChatGPT cyberattaqueOpenAI. Florian Bayard. AdChoices Ad...",
-      "excerpt": "C'est une première qui a fait beaucoup de bruit dans le monde de la cybersécurité.... ChatGPT cyberattaqueOpenAI. Florian Bayard. AdChoices Ad...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "\"C'est le moment\": Sam Altman annonce que l'IA a franchi un point de non-retour",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/c-est-le-moment-sam-altman-annonce-que-l-ia-a-franchi-un-point-de-non-retour-n259746.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/c-est-le-moment-sam-altman-annonce-que-l-ia-a-franchi-un-point-de-non-retour-n259746.html",
-      "publishedAt": "2026-07-27T16:15:47.000Z",
-      "date": "2026-07-27T16:15:47.000Z",
-      "description": "L'objectif: résoudre ExploitGym, un benchmark de cybersécurité, en récupérant les réponses par effraction.... ChatGPT / GPT-4. Nos réseaux...",
-      "excerpt": "L'objectif: résoudre ExploitGym, un benchmark de cybersécurité, en récupérant les réponses par effraction.... ChatGPT / GPT-4. Nos réseaux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Voice révolutionne le contrôle vocal sur macOS et Windows - Brief IA",
-      "link": "https://www.briefia.fr/article/chatgpt-voice-revolutionne-le-controle-vocal-sur-macos-et-windows",
-      "url": "https://www.briefia.fr/article/chatgpt-voice-revolutionne-le-controle-vocal-sur-macos-et-windows",
-      "publishedAt": "2026-07-27T16:12:20.000Z",
-      "date": "2026-07-27T16:12:20.000Z",
-      "description": "OpenAI a lancé ChatGPT Voice, permettant de contrôler un ordinateur par la voix sur macOS et Windows. • La fonctionnalité utilise GPT-Live pour...",
-      "excerpt": "OpenAI a lancé ChatGPT Voice, permettant de contrôler un ordinateur par la voix sur macOS et Windows. • La fonctionnalité utilise GPT-Live pour...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
