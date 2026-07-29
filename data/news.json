@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T13:46:02.311Z",
+  "generatedAt": "2026-07-29T18:58:20.392Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Mon IA à la maison: la nouvelle série du Club iGen pour exploiter des LLM et OpenClaw sur...",
+      "link": "https://www.macg.co/intelligence-artificielle/2026/07/mon-ia-la-maison-la-nouvelle-serie-du-club-igen-pour-exploiter-des-llm-et-openclaw-sur-votre-mac-310053",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/07/mon-ia-la-maison-la-nouvelle-serie-du-club-igen-pour-exploiter-des-llm-et-openclaw-sur-votre-mac-310053",
+      "publishedAt": "2026-07-29T16:08:02.000Z",
+      "date": "2026-07-29T16:08:02.000Z",
+      "description": "Les ChatGPT, Claude et autres Gemini ont largement fait leurs preuves... cybersécurité # Mon IA à la maison · Profitez de l'été pour vous...",
+      "excerpt": "Les ChatGPT, Claude et autres Gemini ont largement fait leurs preuves... cybersécurité # Mon IA à la maison · Profitez de l'été pour vous...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Incident OpenAI: les modèles d'IA ont fait intrusion sur quatre autres plateformes qu'Hugging Face",
+      "link": "https://www.lemonde.fr/pixels/article/2026/07/29/incident-openai-les-modeles-d-ia-ont-fait-intrusion-sur-quatre-autres-plateformes-qu-hugging-face_6736385_4408996.html",
+      "url": "https://www.lemonde.fr/pixels/article/2026/07/29/incident-openai-les-modeles-d-ia-ont-fait-intrusion-sur-quatre-autres-plateformes-qu-hugging-face_6736385_4408996.html",
+      "publishedAt": "2026-07-29T15:18:30.000Z",
+      "date": "2026-07-29T15:18:30.000Z",
+      "description": "ChatGPT ChatGPT ChatGPT. Incident OpenAI: les modèles d'IA ont fait... cybersécurité. Lire plus tard. L'une d'entre elles a servi de relais...",
+      "excerpt": "ChatGPT ChatGPT ChatGPT. Incident OpenAI: les modèles d'IA ont fait... cybersécurité. Lire plus tard. L'une d'entre elles a servi de relais...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Des centaines de conversations Claude sont apparues sur Google, avec des données sensibles",
+      "link": "https://siecledigital.fr/2026/07/29/des-centaines-de-conversations-claude-sont-apparues-sur-google-avec-des-donnees-sensibles/",
+      "url": "https://siecledigital.fr/2026/07/29/des-centaines-de-conversations-claude-sont-apparues-sur-google-avec-des-donnees-sensibles/",
+      "publishedAt": "2026-07-29T14:10:32.000Z",
+      "date": "2026-07-29T14:10:32.000Z",
+      "description": "Aucune de ces copies ne disparaît quand Anthropic répare son bouton. OpenAI avait eu le même souci l'an dernier avec ChatGPT. Sa réponse a été...",
+      "excerpt": "Aucune de ces copies ne disparaît quand Anthropic répare son bouton. OpenAI avait eu le même souci l'an dernier avec ChatGPT. Sa réponse a été...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Piratage «sans précédent»: OpenAI annonce que ses modèles d'IA se sont introduits sur...",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/piratage-sans-precedent-openai-annonce-que-ses-modeles-se-sont-introduits-sur-quatre-autres-plateformes-20260729",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/piratage-sans-precedent-openai-annonce-que-ses-modeles-se-sont-introduits-sur-quatre-autres-plateformes-20260729",
+      "publishedAt": "2026-07-29T14:01:06.000Z",
+      "date": "2026-07-29T14:01:06.000Z",
+      "description": "... ChatGPT. L'une d'entre elles a servi de relais pour préparer l'attaque... cybersécurité. Après trois ans de règne sans partage, le poids de...",
+      "excerpt": "... ChatGPT. L'une d'entre elles a servi de relais pour préparer l'attaque... cybersécurité. Après trois ans de règne sans partage, le poids de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI choisit Dublin pour accélérer son développement en Europe - Guide Irlande.com",
+      "link": "https://www.guide-irlande.com/openai-choisit-dublin-pour-accelerer-son-developpement-en-europe/",
+      "url": "https://www.guide-irlande.com/openai-choisit-dublin-pour-accelerer-son-developpement-en-europe/",
+      "publishedAt": "2026-07-29T13:48:23.000Z",
+      "date": "2026-07-29T13:48:23.000Z",
+      "description": "OpenAI, l'entreprise américaine à l'origine de ChatGPT, vient d'annoncer une importante extension de ses activités en Irlande.... cybersécurité peuvent...",
+      "excerpt": "OpenAI, l'entreprise américaine à l'origine de ChatGPT, vient d'annoncer une importante extension de ses activités en Irlande.... cybersécurité peuvent...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Pour pirater Hugging Face, le modèle d'OpenAI a exploité plusieurs autres services web",
+      "link": "https://www.macg.co/intelligence-artificielle/2026/07/pour-pirater-hugging-face-le-modele-dopenai-exploite-plusieurs-autres-services-web-310075",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/07/pour-pirater-hugging-face-le-modele-dopenai-exploite-plusieurs-autres-services-web-310075",
+      "publishedAt": "2026-07-29T13:23:29.000Z",
+      "date": "2026-07-29T13:23:29.000Z",
+      "description": "Le logo de Hugging Face, éclaté en deux par celui de ChatGPT, allégorie. Image MacGeneration. Vous ne serez pas forcément surpris si vous avez utilisé...",
+      "excerpt": "Le logo de Hugging Face, éclaté en deux par celui de ChatGPT, allégorie. Image MacGeneration. Vous ne serez pas forcément surpris si vous avez utilisé...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI fait une révélation inattendue sur la cyberattaque lancée par un ChatGPT tricheur",
       "link": "https://www.01net.com/actualites/cyberattaque-menee-ia-openai-fait-revelation-inattendue.html",
@@ -67,66 +127,6 @@
       "date": "2026-07-29T09:18:24.000Z",
       "description": "ChatGPT serait sur le point de franchir le seuil spectaculaire du... Microsoft a annoncé deux avancées dans le domaine de la cybersécurité...",
       "excerpt": "ChatGPT serait sur le point de franchir le seuil spectaculaire du... Microsoft a annoncé deux avancées dans le domaine de la cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Hugging Face détaille la cyberattaque malveillante de ChatGPT - Dataconomy FR",
-      "link": "https://fr.dataconomy.com/2026/07/29/hugging-face-detaille-la-cyberattaque-malveillante-de-chatgpt/",
-      "url": "https://fr.dataconomy.com/2026/07/29/hugging-face-detaille-la-cyberattaque-malveillante-de-chatgpt/",
-      "publishedAt": "2026-07-29T09:08:34.000Z",
-      "date": "2026-07-29T09:08:34.000Z",
-      "description": "Hugging Face a déclaré qu'il avait été piraté par des agents d'IA autonomes liés à une version malveillante de ChatGPT... cybersécurité d'identifier le...",
-      "excerpt": "Hugging Face a déclaré qu'il avait été piraté par des agents d'IA autonomes liés à une version malveillante de ChatGPT... cybersécurité d'identifier le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Meta pousse son IA au cœur des conversations privées sur Threads - Begeek",
-      "link": "https://www.begeek.fr/meta-pousse-son-ia-au-coeur-des-conversations-privees-sur-threads-437816",
-      "url": "https://www.begeek.fr/meta-pousse-son-ia-au-coeur-des-conversations-privees-sur-threads-437816",
-      "publishedAt": "2026-07-29T08:05:45.000Z",
-      "date": "2026-07-29T08:05:45.000Z",
-      "description": "... ChatGPT chez OpenAI ou Gemini chez Google. Bon, la logique est déjà... Microsoft lance son premier modèle IA dédié à la cybersécurité et une plateforme...",
-      "excerpt": "... ChatGPT chez OpenAI ou Gemini chez Google. Bon, la logique est déjà... Microsoft lance son premier modèle IA dédié à la cybersécurité et une plateforme...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA & Cybersécurité: les 13 actus clés du 29 juillet 2026",
-      "link": "https://dcod.ch/2026/07/29/ia-cybersecurite-les-13-actus-cles-du-29-juillet-2026/",
-      "url": "https://dcod.ch/2026/07/29/ia-cybersecurite-les-13-actus-cles-du-29-juillet-2026/",
-      "publishedAt": "2026-07-29T06:05:10.000Z",
-      "date": "2026-07-29T06:05:10.000Z",
-      "description": "... ChatGPT. L'essentiel Cybersécurité, IA & Tech. Rejoignez la communauté. 3 fois par semaine, recevez l'analyse des tendances par Marc Barbezat. Pas...",
-      "excerpt": "... ChatGPT. L'essentiel Cybersécurité, IA & Tech. Rejoignez la communauté. 3 fois par semaine, recevez l'analyse des tendances par Marc Barbezat. Pas...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Armes biologiques: quelques phrases suffisent à contourner les filtres de ChatGPT",
-      "link": "https://www.lebigdata.fr/armes-biologiques-quelques-phrases-suffisent-a-contourner-les-filtres-de-chatgpt",
-      "url": "https://www.lebigdata.fr/armes-biologiques-quelques-phrases-suffisent-a-contourner-les-filtres-de-chatgpt",
-      "publishedAt": "2026-07-29T05:46:01.000Z",
-      "date": "2026-07-29T05:46:01.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data... Lors du lancement de GPT-5, OpenAI a d'ailleurs classé son modèle dans...",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data... Lors du lancement de GPT-5, OpenAI a d'ailleurs classé son modèle dans...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT refuse désormais d'imiter le style des grands auteurs - Gagadget.com",
-      "link": "https://gagadget.com/fr/720070-chatgpt-refuse-desormais-dimiter-le-style-des-grands-auteurs/",
-      "url": "https://gagadget.com/fr/720070-chatgpt-refuse-desormais-dimiter-le-style-des-grands-auteurs/",
-      "publishedAt": "2026-07-29T00:29:09.000Z",
-      "date": "2026-07-29T00:29:09.000Z",
-      "description": "ChatGPT ne reproduira plus le style de vos auteurs préférés, qu'il s... Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures · Militaire...",
-      "excerpt": "ChatGPT ne reproduira plus le style de vos auteurs préférés, qu'il s... Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures · Militaire...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance ChatGPT Work, un mode agent propulsé par GPT-5.6 - The Media Leader FR",
-      "link": "https://fr.themedialeader.com/openai-lance-chatgpt-work-un-mode-agent-propulse-par-gpt-5-6/",
-      "url": "https://fr.themedialeader.com/openai-lance-chatgpt-work-un-mode-agent-propulse-par-gpt-5-6/",
-      "publishedAt": "2026-07-28T23:01:33.000Z",
-      "date": "2026-07-28T23:01:33.000Z",
-      "description": "OpenAI a annoncé le lancement de ChatGPT Work, un nouveau mode agent intégré à ChatGPT et propulsé par GPT-5.6.... cybersécurité ou sciences; Terra,...",
-      "excerpt": "OpenAI a annoncé le lancement de ChatGPT Work, un nouveau mode agent intégré à ChatGPT et propulsé par GPT-5.6.... cybersécurité ou sciences; Terra,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
