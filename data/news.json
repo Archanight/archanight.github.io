@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T19:08:08.642Z",
+  "generatedAt": "2026-07-29T01:44:28.602Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI lance ChatGPT Work, un mode agent propulsé par GPT-5.6 - The Media Leader FR",
+      "link": "https://fr.themedialeader.com/openai-lance-chatgpt-work-un-mode-agent-propulse-par-gpt-5-6/",
+      "url": "https://fr.themedialeader.com/openai-lance-chatgpt-work-un-mode-agent-propulse-par-gpt-5-6/",
+      "publishedAt": "2026-07-28T23:01:33.000Z",
+      "date": "2026-07-28T23:01:33.000Z",
+      "description": "OpenAI a annoncé le lancement de ChatGPT Work, un nouveau mode agent intégré à ChatGPT et propulsé par GPT-5.6.... cybersécurité ou sciences; Terra,...",
+      "excerpt": "OpenAI a annoncé le lancement de ChatGPT Work, un nouveau mode agent intégré à ChatGPT et propulsé par GPT-5.6.... cybersécurité ou sciences; Terra,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude: vos discussions dispos partout sur Google? - Choses à Savoir TECH - Acast",
+      "link": "https://shows.acast.com/choses-a-savoir-technologie/episodes/claude-vos-discussions-dispos-partout-sur-google",
+      "url": "https://shows.acast.com/choses-a-savoir-technologie/episodes/claude-vos-discussions-dispos-partout-sur-google",
+      "publishedAt": "2026-07-28T18:50:06.000Z",
+      "date": "2026-07-28T18:50:06.000Z",
+      "description": "... ChatGPT avait déjà connu un incident comparable avec certains liens... L'affaire agite le monde de la cybersécurité depuis la mi-juillet.",
+      "excerpt": "... ChatGPT avait déjà connu un incident comparable avec certains liens... L'affaire agite le monde de la cybersécurité depuis la mi-juillet.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Un professeur utilise une astuce pour savoir si ses élèves trichent avec l'IA, 32 sur 35...",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/un-professeur-utilise-une-astuce-pour-savoir-si-ses-eleves-trichent-avec-l-ia-32-sur-35-tombent-dans-le-piege-n259824.html",
@@ -100,34 +120,14 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "ZD Tech: Ce nouvel outil basé sur l'IA pourrait simplifier la vie de vos équipes de... - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/zd-tech-ce-nouvel-outil-base-sur-lia-pourrait-simplifier-la-vie-de-vos-equipes-de-conformite-et-de-vos-developpeurs-498191.htm",
-      "url": "https://www.zdnet.fr/actualites/zd-tech-ce-nouvel-outil-base-sur-lia-pourrait-simplifier-la-vie-de-vos-equipes-de-conformite-et-de-vos-developpeurs-498191.htm",
-      "publishedAt": "2026-07-28T11:31:34.000Z",
-      "date": "2026-07-28T11:31:34.000Z",
-      "description": "La scale-up Sumsub frappe un grand coup en ouvrant sa plateforme aux agents d'IA comme ChatGPT et Claude. Une innovation qui transforme de lourdes...",
-      "excerpt": "La scale-up Sumsub frappe un grand coup en ouvrant sa plateforme aux agents d'IA comme ChatGPT et Claude. Une innovation qui transforme de lourdes...",
+      "title": "ChatGPT reste largement devant les autres… | Paloma Lamirault - LinkedIn",
+      "link": "https://fr.linkedin.com/posts/palomalamirault-seo_chatgpt-reste-lassistant-ia-le-plus-utilis%C3%A9-activity-7487741139089977344-V4qL",
+      "url": "https://fr.linkedin.com/posts/palomalamirault-seo_chatgpt-reste-lassistant-ia-le-plus-utilis%C3%A9-activity-7487741139089977344-V4qL",
+      "publishedAt": "2026-07-28T11:52:56.000Z",
+      "date": "2026-07-28T11:52:56.000Z",
+      "description": "ChatGPT reste l'assistant IA le plus utilisé. Mais faire du GEO uniquement pour ChatGPT serait une erreur Le dernier update Similarweb le...",
+      "excerpt": "ChatGPT reste l'assistant IA le plus utilisé. Mais faire du GEO uniquement pour ChatGPT serait une erreur Le dernier update Similarweb le...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Ça commence! Mega cyber attaque de la part des IA - Résistance Républicaine",
-      "link": "https://resistancerepublicaine.com/2026/07/28/ca-commence-mega-cyber-attaque-de-la-part-des-ia/",
-      "url": "https://resistancerepublicaine.com/2026/07/28/ca-commence-mega-cyber-attaque-de-la-part-des-ia/",
-      "publishedAt": "2026-07-28T11:11:38.000Z",
-      "date": "2026-07-28T11:11:38.000Z",
-      "description": "Le 16 juillet 2026, pendant un test interne d'OpenAI visant à mesurer les capacités offensives en cybersécurité de ses modèles ChatGPT (notamment...",
-      "excerpt": "Le 16 juillet 2026, pendant un test interne d'OpenAI visant à mesurer les capacités offensives en cybersécurité de ses modèles ChatGPT (notamment...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les hôtels Radisson arrivent sur ChatGPT avec leur propre application",
-      "link": "https://www.larevuedudigital.com/les-hotels-radisson-arrivent-sur-chatgpt-avec-leur-propre-application/",
-      "url": "https://www.larevuedudigital.com/les-hotels-radisson-arrivent-sur-chatgpt-avec-leur-propre-application/",
-      "publishedAt": "2026-07-28T10:34:31.000Z",
-      "date": "2026-07-28T10:34:31.000Z",
-      "description": "... Devops · -- Web Design, Digital, -- DMP · -- CRM onboarding · -- Mobile... ChatGPT. La nouvelle application Radisson Hotels sur ChatGPT permet aux...",
-      "excerpt": "... Devops · -- Web Design, Digital, -- DMP · -- CRM onboarding · -- Mobile... ChatGPT. La nouvelle application Radisson Hotels sur ChatGPT permet aux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
