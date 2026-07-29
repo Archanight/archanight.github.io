@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T01:44:28.602Z",
+  "generatedAt": "2026-07-29T08:20:59.090Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "IA & Cybersécurité: les 13 actus clés du 29 juillet 2026",
+      "link": "https://dcod.ch/2026/07/29/ia-cybersecurite-les-13-actus-cles-du-29-juillet-2026/",
+      "url": "https://dcod.ch/2026/07/29/ia-cybersecurite-les-13-actus-cles-du-29-juillet-2026/",
+      "publishedAt": "2026-07-29T06:05:10.000Z",
+      "date": "2026-07-29T06:05:10.000Z",
+      "description": "... ChatGPT. L'essentiel Cybersécurité, IA & Tech. Rejoignez la communauté. 3 fois par semaine, recevez l'analyse des tendances par Marc Barbezat. Pas...",
+      "excerpt": "... ChatGPT. L'essentiel Cybersécurité, IA & Tech. Rejoignez la communauté. 3 fois par semaine, recevez l'analyse des tendances par Marc Barbezat. Pas...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Armes biologiques: quelques phrases suffisent à contourner les filtres de ChatGPT",
+      "link": "https://www.lebigdata.fr/armes-biologiques-quelques-phrases-suffisent-a-contourner-les-filtres-de-chatgpt",
+      "url": "https://www.lebigdata.fr/armes-biologiques-quelques-phrases-suffisent-a-contourner-les-filtres-de-chatgpt",
+      "publishedAt": "2026-07-29T05:46:01.000Z",
+      "date": "2026-07-29T05:46:01.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data... Lors du lancement de GPT-5, OpenAI a d'ailleurs classé son modèle dans...",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data... Lors du lancement de GPT-5, OpenAI a d'ailleurs classé son modèle dans...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT refuse désormais d'imiter le style des grands auteurs - Gagadget.com",
+      "link": "https://gagadget.com/fr/720070-chatgpt-refuse-desormais-dimiter-le-style-des-grands-auteurs/",
+      "url": "https://gagadget.com/fr/720070-chatgpt-refuse-desormais-dimiter-le-style-des-grands-auteurs/",
+      "publishedAt": "2026-07-29T00:29:09.000Z",
+      "date": "2026-07-29T00:29:09.000Z",
+      "description": "ChatGPT ne reproduira plus le style de vos auteurs préférés, qu'il s... Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures · Militaire...",
+      "excerpt": "ChatGPT ne reproduira plus le style de vos auteurs préférés, qu'il s... Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures · Militaire...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI lance ChatGPT Work, un mode agent propulsé par GPT-5.6 - The Media Leader FR",
       "link": "https://fr.themedialeader.com/openai-lance-chatgpt-work-un-mode-agent-propulse-par-gpt-5-6/",
@@ -98,36 +128,6 @@
       "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT va refuser certaines consignes, mais c'est pour la bonne cause.",
       "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT va refuser certaines consignes, mais c'est pour la bonne cause.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Threads: Meta AI débarque dans les messages privés - Stéphane Larue",
-      "link": "https://stephanelarue.com/threads-meta-ai-debarque-dans-les-messages-prives/",
-      "url": "https://stephanelarue.com/threads-meta-ai-debarque-dans-les-messages-prives/",
-      "publishedAt": "2026-07-28T12:57:25.000Z",
-      "date": "2026-07-28T12:57:25.000Z",
-      "description": "Meta AI face à ChatGPT et Gemini: la bataille de la messagerie. Cette intégration s'inscrit dans une stratégie plus large: retenir les utilisateurs...",
-      "excerpt": "Meta AI face à ChatGPT et Gemini: la bataille de la messagerie. Cette intégration s'inscrit dans une stratégie plus large: retenir les utilisateurs...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Apple regarde ses rivaux se ruiner: la vérité sur son retard dans l'IA - iPhon.fr",
-      "link": "https://www.iphon.fr/post/apple-analyse-avantage-retard-crise-intelligence-artificielle-chatgpt",
-      "url": "https://www.iphon.fr/post/apple-analyse-avantage-retard-crise-intelligence-artificielle-chatgpt",
-      "publishedAt": "2026-07-28T12:55:11.000Z",
-      "date": "2026-07-28T12:55:11.000Z",
-      "description": "Selon lui, OpenAI ( ChatGPT ) a par exemple enregistré un déficit net de vingt milliards de dollars l'année dernière. Cette situation inédite force...",
-      "excerpt": "Selon lui, OpenAI ( ChatGPT ) a par exemple enregistré un déficit net de vingt milliards de dollars l'année dernière. Cette situation inédite force...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT reste largement devant les autres… | Paloma Lamirault - LinkedIn",
-      "link": "https://fr.linkedin.com/posts/palomalamirault-seo_chatgpt-reste-lassistant-ia-le-plus-utilis%C3%A9-activity-7487741139089977344-V4qL",
-      "url": "https://fr.linkedin.com/posts/palomalamirault-seo_chatgpt-reste-lassistant-ia-le-plus-utilis%C3%A9-activity-7487741139089977344-V4qL",
-      "publishedAt": "2026-07-28T11:52:56.000Z",
-      "date": "2026-07-28T11:52:56.000Z",
-      "description": "ChatGPT reste l'assistant IA le plus utilisé. Mais faire du GEO uniquement pour ChatGPT serait une erreur Le dernier update Similarweb le...",
-      "excerpt": "ChatGPT reste l'assistant IA le plus utilisé. Mais faire du GEO uniquement pour ChatGPT serait une erreur Le dernier update Similarweb le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
