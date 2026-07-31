@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T19:10:20.293Z",
+  "generatedAt": "2026-07-31T01:54:34.764Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,46 @@
   "failedSources": [],
   "items": [
     {
+      "title": "OpenAI vient de réduire considérablement le prix de son modèle d'IA le moins cher",
+      "link": "https://www.notebookcheck.biz/OpenAI-vient-de-reduire-considerablement-le-prix-de-son-modele-d-IA-le-moins-cher.1356338.0.html",
+      "url": "https://www.notebookcheck.biz/OpenAI-vient-de-reduire-considerablement-le-prix-de-son-modele-d-IA-le-moins-cher.1356338.0.html",
+      "publishedAt": "2026-07-30T22:27:34.000Z",
+      "date": "2026-07-30T22:27:34.000Z",
+      "description": "Les tarifs d'abonnement et les budgets alloués à ChatGPT et Codex restent inchangés, mais l'utilisation de Terra et Luna entraîne désormais une...",
+      "excerpt": "Les tarifs d'abonnement et les budgets alloués à ChatGPT et Codex restent inchangés, mais l'utilisation de Terra et Luna entraîne désormais une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI en tête de l'ARC-AGI-3, GPT-5.6 surpasse ses prédécesseurs | Brief IA",
+      "link": "https://www.briefia.fr/article/openai-en-tete-de-l-arc-agi-3-gpt-5-6-surpasse-ses-predecesseurs",
+      "url": "https://www.briefia.fr/article/openai-en-tete-de-l-arc-agi-3-gpt-5-6-surpasse-ses-predecesseurs",
+      "publishedAt": "2026-07-30T22:15:07.000Z",
+      "date": "2026-07-30T22:15:07.000Z",
+      "description": "ChatGPT Work, un nouvel outil de productivité, permet à l'IA d'accéder... GPT-5.6 se distingue par ses capacités avancées en cybersécurité, malgré des...",
+      "excerpt": "ChatGPT Work, un nouvel outil de productivité, permet à l'IA d'accéder... GPT-5.6 se distingue par ses capacités avancées en cybersécurité, malgré des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA: l'UE lance un appel d'offres géant pour des giga-usines - Stéphane Larue",
+      "link": "https://stephanelarue.com/ia-ue-appel-offres-geant-giga-usines/",
+      "url": "https://stephanelarue.com/ia-ue-appel-offres-geant-giga-usines/",
+      "publishedAt": "2026-07-30T19:45:08.000Z",
+      "date": "2026-07-30T19:45:08.000Z",
+      "description": "agents IA cybersécurité · Brouillon auto · De l'aveu d'OpenAI, l'app ChatGPT est un « bazar »: la fin des onglets annoncée pour fin 2026 · Actus.",
+      "excerpt": "agents IA cybersécurité · Brouillon auto · De l'aveu d'OpenAI, l'app ChatGPT est un « bazar »: la fin des onglets annoncée pour fin 2026 · Actus.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Jeff Hiller Got Emmy Nom For 7-Minute 'Pluribus' Role Viewers Have Compared To ChatGPT - IMDb",
+      "link": "https://www.imdb.com/fr/news/ni65950630/?ref_=int_nwr_7",
+      "url": "https://www.imdb.com/fr/news/ni65950630/?ref_=int_nwr_7",
+      "publishedAt": "2026-07-30T18:33:15.000Z",
+      "date": "2026-07-30T18:33:15.000Z",
+      "description": "A lot of people have said, 'You're just like ChatGPT,'” he said on The Daily Show.... Pluribus Unveils New Release As Season 2 Wait Continues. 22/07/...",
+      "excerpt": "A lot of people have said, 'You're just like ChatGPT,'” he said on The Daily Show.... Pluribus Unveils New Release As Season 2 Wait Continues. 22/07/...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Deux IA ont contourné de leur plein gré un test de cybersécurité pour attaquer des plateformes",
       "link": "https://www.ledauphine.com/science-et-technologie/2026/07/30/deux-ia-ont-contourne-de-leur-plein-gre-un-test-de-cybersecurite-pour-attaquer-des-plateformes",
       "url": "https://www.ledauphine.com/science-et-technologie/2026/07/30/deux-ia-ont-contourne-de-leur-plein-gre-un-test-de-cybersecurite-pour-attaquer-des-plateformes",
@@ -17,6 +57,16 @@
       "date": "2026-07-30T18:21:06.000Z",
       "description": "» Les entreprises doivent-elles désormais considérer l'IA comme une nouvelle menace pour leur cybersécurité? ChatGPT: « L'intelligence artificielle...",
       "excerpt": "» Les entreprises doivent-elles désormais considérer l'IA comme une nouvelle menace pour leur cybersécurité? ChatGPT: « L'intelligence artificielle...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Deux IA ont contourné de leur plein gré un test de cybersécurité pour attaquer des plateformes - DNA",
+      "link": "https://www.dna.fr/science-et-technologie/2026/07/30/deux-ia-ont-contourne-de-leur-plein-gre-un-test-de-cybersecurite-pour-attaquer-des-plateformes",
+      "url": "https://www.dna.fr/science-et-technologie/2026/07/30/deux-ia-ont-contourne-de-leur-plein-gre-un-test-de-cybersecurite-pour-attaquer-des-plateformes",
+      "publishedAt": "2026-07-30T18:16:28.000Z",
+      "date": "2026-07-30T18:16:28.000Z",
+      "description": "Les entreprises doivent-elles désormais considérer l'IA comme une nouvelle menace pour leur cybersécurité? ChatGPT: « L'intelligence artificielle...",
+      "excerpt": "Les entreprises doivent-elles désormais considérer l'IA comme une nouvelle menace pour leur cybersécurité? ChatGPT: « L'intelligence artificielle...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -77,56 +127,6 @@
       "date": "2026-07-30T14:52:16.000Z",
       "description": "ChatGPT et Roblox dans le viseur du DSA: Bruxelles confirme... ➜ Trophées de la Cybersécurité 2026: l'appel à candidatures est lancé!",
       "excerpt": "ChatGPT et Roblox dans le viseur du DSA: Bruxelles confirme... ➜ Trophées de la Cybersécurité 2026: l'appel à candidatures est lancé!",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Une « famille d'appareils » ChatGPT: OpenAI évoque l'avenir de son intelligence artificielle",
-      "link": "https://www.01net.com/actualites/famille-appareils-chatgpt-openai-evoque-avenir-intelligence-artificielle.html",
-      "url": "https://www.01net.com/actualites/famille-appareils-chatgpt-openai-evoque-avenir-intelligence-artificielle.html",
-      "publishedAt": "2026-07-30T14:45:45.000Z",
-      "date": "2026-07-30T14:45:45.000Z",
-      "description": "... ChatGPT, estime OpenAI... Un « risque de cybersécurité »: les Etats-Unis interdisent tous les...",
-      "excerpt": "... ChatGPT, estime OpenAI... Un « risque de cybersécurité »: les Etats-Unis interdisent tous les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Bruxelles s'apprête à classer ChatGPT et Roblox parmi les plateformes à risque - Clubic",
-      "link": "https://www.clubic.com/actualite-623392-l-union-europeenne-classe-chatgpt-et-roblox-parmi-les-tres-grandes-plateformes-en-ligne.html",
-      "url": "https://www.clubic.com/actualite-623392-l-union-europeenne-classe-chatgpt-et-roblox-parmi-les-tres-grandes-plateformes-en-ligne.html",
-      "publishedAt": "2026-07-30T14:45:10.000Z",
-      "date": "2026-07-30T14:45:10.000Z",
-      "description": "ChatGPT franchirait le seuil des 45 millions d'utilisateurs européens... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
-      "excerpt": "ChatGPT franchirait le seuil des 45 millions d'utilisateurs européens... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pixel 4a: la mise à jour Play qui met enfin fin aux redémarrages en boucle | Android MT",
-      "link": "https://android-mt.ouest-france.fr/news/android/pixel-4a-la-mise-a-jour-play-qui-met-enfin-fin-aux-redemarrages-en-boucle/209671/",
-      "url": "https://android-mt.ouest-france.fr/news/android/pixel-4a-la-mise-a-jour-play-qui-met-enfin-fin-aux-redemarrages-en-boucle/209671/",
-      "publishedAt": "2026-07-30T14:35:22.000Z",
-      "date": "2026-07-30T14:35:22.000Z",
-      "description": "Étonnamment, aucune mention explicite de ce correctif n'apparaît dans les notes de version publiées par Google.",
-      "excerpt": "Étonnamment, aucune mention explicite de ce correctif n'apparaît dans les notes de version publiées par Google.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT et Roblox dans le collimateur de l'UE: une surveillance renforcée imminente",
-      "link": "https://www.lebigdata.fr/chatgpt-et-roblox-dans-le-collimateur-de-lue-une-surveillance-renforcee-imminente",
-      "url": "https://www.lebigdata.fr/chatgpt-et-roblox-dans-le-collimateur-de-lue-une-surveillance-renforcee-imminente",
-      "publishedAt": "2026-07-30T14:14:36.000Z",
-      "date": "2026-07-30T14:14:36.000Z",
-      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT et Roblox dans le collimateur de l'UE: une surveillance renforcée imminente.",
-      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT et Roblox dans le collimateur de l'UE: une surveillance renforcée imminente.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI prépare toute une gamme d'appareils ChatGPT, le mini-clavier n'était que le début",
-      "link": "https://www.clubic.com/actualite-623440-openai-prepare-toute-une-gamme-d-appareils-chatgpt-le-mini-clavier-n-etait-que-le-debut.html",
-      "url": "https://www.clubic.com/actualite-623440-openai-prepare-toute-une-gamme-d-appareils-chatgpt-le-mini-clavier-n-etait-que-le-debut.html",
-      "publishedAt": "2026-07-30T14:13:54.000Z",
-      "date": "2026-07-30T14:13:54.000Z",
-      "description": "Greg Brockman confirme qu'OpenAI prépare une famille d'appareils ChatGPT, au-delà du mini-clavier déjà annoncé. Enceinte... Top Cybersécurité. Meilleur...",
-      "excerpt": "Greg Brockman confirme qu'OpenAI prépare une famille d'appareils ChatGPT, au-delà du mini-clavier déjà annoncé. Enceinte... Top Cybersécurité. Meilleur...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
