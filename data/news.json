@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T08:34:32.920Z",
+  "generatedAt": "2026-07-31T13:41:07.206Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,106 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Voyageurs, des escrocs se font passer pour votre compagnie aérienne pour vous voler",
+      "link": "https://www.tomsguide.fr/voyageurs-des-escrocs-se-font-passer-pour-votre-compagnie-aerienne-pour-vous-voler/",
+      "url": "https://www.tomsguide.fr/voyageurs-des-escrocs-se-font-passer-pour-votre-compagnie-aerienne-pour-vous-voler/",
+      "publishedAt": "2026-07-31T10:38:44.000Z",
+      "date": "2026-07-31T10:38:44.000Z",
+      "description": "Pour mettre au jour le pots aux roses, un chercheur de la société de cybersécurité...",
+      "excerpt": "Pour mettre au jour le pots aux roses, un chercheur de la société de cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Univé transforme son personnel avec l'IA et ChatGPT - Brief IA",
+      "link": "https://www.briefia.fr/article/unive-transforme-son-personnel-avec-l-ia-et-chatgpt",
+      "url": "https://www.briefia.fr/article/unive-transforme-son-personnel-avec-l-ia-et-chatgpt",
+      "publishedAt": "2026-07-31T10:12:17.000Z",
+      "date": "2026-07-31T10:12:17.000Z",
+      "description": "... ChatGPT Enterprise est largement adopté... OpenAI collabore avec des agences européennes pour améliorer la cybersécurité à l'aide de l'IA.",
+      "excerpt": "... ChatGPT Enterprise est largement adopté... OpenAI collabore avec des agences européennes pour améliorer la cybersécurité à l'aide de l'IA.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT, Claude et Gemini surpassent les humains en arnaque - Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-claude-et-gemini-surpassent-les-humains-en-arnaque",
+      "url": "https://www.briefia.fr/article/chatgpt-claude-et-gemini-surpassent-les-humains-en-arnaque",
+      "publishedAt": "2026-07-31T10:12:05.000Z",
+      "date": "2026-07-31T10:12:05.000Z",
+      "description": "Une étude montre que ChatGPT, Claude et Gemini surpassent les humains pour instaurer la confiance dans les arnaques sentimentales.",
+      "excerpt": "Une étude montre que ChatGPT, Claude et Gemini surpassent les humains pour instaurer la confiance dans les arnaques sentimentales.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI et l'Europe: l'IA responsable en transformation - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-et-l-europe-l-ia-responsable-en-transformation",
+      "url": "https://www.briefia.fr/article/openai-et-l-europe-l-ia-responsable-en-transformation",
+      "publishedAt": "2026-07-31T10:12:02.000Z",
+      "date": "2026-07-31T10:12:02.000Z",
+      "description": "... cybersécurité à l'aide de l'IA. Pourquoi c'est important: L... ChatGPT, Claude et Gemini surpassent les humains en arnaque. • Une étude...",
+      "excerpt": "... cybersécurité à l'aide de l'IA. Pourquoi c'est important: L... ChatGPT, Claude et Gemini surpassent les humains en arnaque. • Une étude...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT et Roblox bientôt soumis aux règles les plus strictes de l'Europe - Begeek",
+      "link": "https://www.begeek.fr/chatgpt-et-roblox-bientot-soumis-aux-regles-les-plus-strictes-de-leurope-437909",
+      "url": "https://www.begeek.fr/chatgpt-et-roblox-bientot-soumis-aux-regles-les-plus-strictes-de-leurope-437909",
+      "publishedAt": "2026-07-31T10:07:24.000Z",
+      "date": "2026-07-31T10:07:24.000Z",
+      "description": "ChatGPT et Roblox devraient rejoindre en août la liste européenne des très grandes plateformes. Un statut qui change beaucoup de choses.",
+      "excerpt": "ChatGPT et Roblox devraient rejoindre en août la liste européenne des très grandes plateformes. Un statut qui change beaucoup de choses.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Airtable, Notion, GitLab… vous pouvez désormais vous y connecter avec votre compte ChatGPT",
+      "link": "https://www.lebigdata.fr/airtable-notion-gitlab-vous-pouvez-desormais-vous-y-connecter-avec-votre-compte-chatgpt",
+      "url": "https://www.lebigdata.fr/airtable-notion-gitlab-vous-pouvez-desormais-vous-y-connecter-avec-votre-compte-chatgpt",
+      "publishedAt": "2026-07-31T09:28:15.000Z",
+      "date": "2026-07-31T09:28:15.000Z",
+      "description": "Désormais, il est possible de « Se connecter avec ChatGPT » sur Airtable, Notion, GitLab et quelques partenaires. Voici comment ça marche.",
+      "excerpt": "Désormais, il est possible de « Se connecter avec ChatGPT » sur Airtable, Notion, GitLab et quelques partenaires. Voici comment ça marche.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Scam: les chabots IA sont maintenant plus convaincants que les humains - Clubic",
+      "link": "https://www.clubic.com/actualite-623584-pour-les-campagnes-de-scam-l-ia-est-plus-performante-que-l-humain.html",
+      "url": "https://www.clubic.com/actualite-623584-pour-les-campagnes-de-scam-l-ia-est-plus-performante-que-l-humain.html",
+      "publishedAt": "2026-07-31T09:17:43.000Z",
+      "date": "2026-07-31T09:17:43.000Z",
+      "description": "Une étude menée par quatre universités montre que des chatbots basés sur ChatGPT... Cybersécurité · Piratage / Cybercriminalité. Scam: les chabots...",
+      "excerpt": "Une étude menée par quatre universités montre que des chatbots basés sur ChatGPT... Cybersécurité · Piratage / Cybercriminalité. Scam: les chabots...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI réduit les tarifs d'API de GPT-5.6 Luna et Terra - IT Social",
+      "link": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/openai-reduit-les-tarifs-dapi-de-gpt-5-6-luna-et-terra/",
+      "url": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/openai-reduit-les-tarifs-dapi-de-gpt-5-6-luna-et-terra/",
+      "publishedAt": "2026-07-31T07:47:42.000Z",
+      "date": "2026-07-31T07:47:42.000Z",
+      "description": "Les prix d'abonnement et les budgets de quota de ChatGPT Work et de... cybersécurité. En poursuivant votre navigation, vous acceptez l...",
+      "excerpt": "Les prix d'abonnement et les budgets de quota de ChatGPT Work et de... cybersécurité. En poursuivant votre navigation, vous acceptez l...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Perplexity et OpenAI: l'échec des navigateurs IA - Brief IA",
+      "link": "https://www.briefia.fr/article/perplexity-et-openai-l-echec-des-navigateurs-ia",
+      "url": "https://www.briefia.fr/article/perplexity-et-openai-l-echec-des-navigateurs-ia",
+      "publishedAt": "2026-07-31T07:11:29.000Z",
+      "date": "2026-07-31T07:11:29.000Z",
+      "description": "... cybersécurité tiers. ChatGPT Atlas: le bide d'OpenAI. OpenAI n'est pas resté en retrait et a tenté de capitaliser sur les difficultés de Google...",
+      "excerpt": "... cybersécurité tiers. ChatGPT Atlas: le bide d'OpenAI. OpenAI n'est pas resté en retrait et a tenté de capitaliser sur les difficultés de Google...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI réduit les prix de l'API pour ses deux modèles GPT-5.6 les moins chers - Unite.AI",
+      "link": "https://www.unite.ai/fr/openai-cuts-api-prices-on-its-two-cheaper-gpt-5-6-tiers/",
+      "url": "https://www.unite.ai/fr/openai-cuts-api-prices-on-its-two-cheaper-gpt-5-6-tiers/",
+      "publishedAt": "2026-07-31T05:15:53.000Z",
+      "date": "2026-07-31T05:15:53.000Z",
+      "description": "... ChatGPT Work. Sol, qui s'exécute à l'intérieur de Codex, a réécrit les noyaux de production GPU de l'entreprise; combiné avec un travail plus...",
+      "excerpt": "... ChatGPT Work. Sol, qui s'exécute à l'intérieur de Codex, a réécrit les noyaux de production GPU de l'entreprise; combiné avec un travail plus...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT, Claude et Gemini réunis en un seul paiement: l'offre à vie 1minAI Pro est de retour à 22",
       "link": "https://www.clubic.com/bons-plans-623506-chatgpt-claude-et-gemini-reunis-en-un-seul-paiement-l-offre-a-vie-1minai-pro-est-de-retour-a-22.html",
@@ -28,106 +128,6 @@
       "description": "... cybersécurité tiers. ChatGPT Atlas: le bide d'OpenAI. Perplexity n'a pas été la seule entreprise à tenter de profiter des turpitudes de Google...",
       "excerpt": "... cybersécurité tiers. ChatGPT Atlas: le bide d'OpenAI. Perplexity n'a pas été la seule entreprise à tenter de profiter des turpitudes de Google...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT et Roblox bientôt classés “très grandes plateformes” par l'Union européenne dans...",
-      "link": "https://www.usine-digitale.fr/reglementation/dsa-dma/chatgpt-et-roblox-bientot-classes-tres-grandes-plateformes-par-lunion-europeenne-dans-le-cadre-du-digital-services-act.SCIJPE7FY5BC5DMOGKR2XZPVVM.html",
-      "url": "https://www.usine-digitale.fr/reglementation/dsa-dma/chatgpt-et-roblox-bientot-classes-tres-grandes-plateformes-par-lunion-europeenne-dans-le-cadre-du-digital-services-act.SCIJPE7FY5BC5DMOGKR2XZPVVM.html",
-      "publishedAt": "2026-07-31T03:07:14.000Z",
-      "date": "2026-07-31T03:07:14.000Z",
-      "description": "... ChatGPT, si l'UE décide bien... Digital Omnibus: Faut-il craindre la réforme qui bouscule le RGPD, l'encadrement de l'IA et la cybersécurité?",
-      "excerpt": "... ChatGPT, si l'UE décide bien... Digital Omnibus: Faut-il craindre la réforme qui bouscule le RGPD, l'encadrement de l'IA et la cybersécurité?",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT et Turnitin: l'éducation face à la triche 2.0 - Brief IA",
-      "link": "https://www.briefia.fr/article/chatgpt-et-turnitin-l-education-face-a-la-triche-2-0",
-      "url": "https://www.briefia.fr/article/chatgpt-et-turnitin-l-education-face-a-la-triche-2-0",
-      "publishedAt": "2026-07-31T01:15:04.000Z",
-      "date": "2026-07-31T01:15:04.000Z",
-      "description": "... ChatGPT et Gemini génèrent des devoirs, tandis que... Tous les modèles ont tenté de contourner les règles lors des évaluations de cybersécurité.",
-      "excerpt": "... ChatGPT et Gemini génèrent des devoirs, tandis que... Tous les modèles ont tenté de contourner les règles lors des évaluations de cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI vient de réduire considérablement le prix de son modèle d'IA le moins cher",
-      "link": "https://www.notebookcheck.biz/OpenAI-vient-de-reduire-considerablement-le-prix-de-son-modele-d-IA-le-moins-cher.1356338.0.html",
-      "url": "https://www.notebookcheck.biz/OpenAI-vient-de-reduire-considerablement-le-prix-de-son-modele-d-IA-le-moins-cher.1356338.0.html",
-      "publishedAt": "2026-07-30T22:27:34.000Z",
-      "date": "2026-07-30T22:27:34.000Z",
-      "description": "Les tarifs d'abonnement et les budgets alloués à ChatGPT et Codex restent inchangés, mais l'utilisation de Terra et Luna entraîne désormais une...",
-      "excerpt": "Les tarifs d'abonnement et les budgets alloués à ChatGPT et Codex restent inchangés, mais l'utilisation de Terra et Luna entraîne désormais une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI en tête de l'ARC-AGI-3, GPT-5.6 surpasse ses prédécesseurs | Brief IA",
-      "link": "https://www.briefia.fr/article/openai-en-tete-de-l-arc-agi-3-gpt-5-6-surpasse-ses-predecesseurs",
-      "url": "https://www.briefia.fr/article/openai-en-tete-de-l-arc-agi-3-gpt-5-6-surpasse-ses-predecesseurs",
-      "publishedAt": "2026-07-30T22:15:07.000Z",
-      "date": "2026-07-30T22:15:07.000Z",
-      "description": "ChatGPT Work, un nouvel outil de productivité, permet à l'IA d'accéder... GPT-5.6 se distingue par ses capacités avancées en cybersécurité, malgré des...",
-      "excerpt": "ChatGPT Work, un nouvel outil de productivité, permet à l'IA d'accéder... GPT-5.6 se distingue par ses capacités avancées en cybersécurité, malgré des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA: l'UE lance un appel d'offres géant pour des giga-usines - Stéphane Larue",
-      "link": "https://stephanelarue.com/ia-ue-appel-offres-geant-giga-usines/",
-      "url": "https://stephanelarue.com/ia-ue-appel-offres-geant-giga-usines/",
-      "publishedAt": "2026-07-30T19:45:08.000Z",
-      "date": "2026-07-30T19:45:08.000Z",
-      "description": "agents IA cybersécurité · Brouillon auto · De l'aveu d'OpenAI, l'app ChatGPT est un « bazar »: la fin des onglets annoncée pour fin 2026 · Actus.",
-      "excerpt": "agents IA cybersécurité · Brouillon auto · De l'aveu d'OpenAI, l'app ChatGPT est un « bazar »: la fin des onglets annoncée pour fin 2026 · Actus.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Jeff Hiller Got Emmy Nom For 7-Minute 'Pluribus' Role Viewers Have Compared To ChatGPT - IMDb",
-      "link": "https://www.imdb.com/fr/news/ni65950630/?ref_=int_nwr_7",
-      "url": "https://www.imdb.com/fr/news/ni65950630/?ref_=int_nwr_7",
-      "publishedAt": "2026-07-30T18:33:15.000Z",
-      "date": "2026-07-30T18:33:15.000Z",
-      "description": "A lot of people have said, 'You're just like ChatGPT,'” he said on The Daily Show.... Pluribus Unveils New Release As Season 2 Wait Continues. 22/07/...",
-      "excerpt": "A lot of people have said, 'You're just like ChatGPT,'” he said on The Daily Show.... Pluribus Unveils New Release As Season 2 Wait Continues. 22/07/...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Deux IA ont contourné de leur plein gré un test de cybersécurité pour attaquer des plateformes",
-      "link": "https://www.ledauphine.com/science-et-technologie/2026/07/30/deux-ia-ont-contourne-de-leur-plein-gre-un-test-de-cybersecurite-pour-attaquer-des-plateformes",
-      "url": "https://www.ledauphine.com/science-et-technologie/2026/07/30/deux-ia-ont-contourne-de-leur-plein-gre-un-test-de-cybersecurite-pour-attaquer-des-plateformes",
-      "publishedAt": "2026-07-30T18:21:06.000Z",
-      "date": "2026-07-30T18:21:06.000Z",
-      "description": "» Les entreprises doivent-elles désormais considérer l'IA comme une nouvelle menace pour leur cybersécurité? ChatGPT: « L'intelligence artificielle...",
-      "excerpt": "» Les entreprises doivent-elles désormais considérer l'IA comme une nouvelle menace pour leur cybersécurité? ChatGPT: « L'intelligence artificielle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Deux IA ont contourné de leur plein gré un test de cybersécurité pour attaquer des plateformes - DNA",
-      "link": "https://www.dna.fr/science-et-technologie/2026/07/30/deux-ia-ont-contourne-de-leur-plein-gre-un-test-de-cybersecurite-pour-attaquer-des-plateformes",
-      "url": "https://www.dna.fr/science-et-technologie/2026/07/30/deux-ia-ont-contourne-de-leur-plein-gre-un-test-de-cybersecurite-pour-attaquer-des-plateformes",
-      "publishedAt": "2026-07-30T18:16:28.000Z",
-      "date": "2026-07-30T18:16:28.000Z",
-      "description": "Les entreprises doivent-elles désormais considérer l'IA comme une nouvelle menace pour leur cybersécurité? ChatGPT: « L'intelligence artificielle...",
-      "excerpt": "Les entreprises doivent-elles désormais considérer l'IA comme une nouvelle menace pour leur cybersécurité? ChatGPT: « L'intelligence artificielle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Sept façon de redonner vie à votre vieux PC avec Linux - Android MT",
-      "link": "https://android-mt.ouest-france.fr/tutoriel/sept-facon-de-redonner-vie-a-votre-vieux-pc-avec-linux/209676/",
-      "url": "https://android-mt.ouest-france.fr/tutoriel/sept-facon-de-redonner-vie-a-votre-vieux-pc-avec-linux/209676/",
-      "publishedAt": "2026-07-30T17:32:44.000Z",
-      "date": "2026-07-30T17:32:44.000Z",
-      "description": "Laboratoire Linux pour s'entraîner à l' administration système avec Proxmox VE ou Incus, sans risque pour le PC principal...",
-      "excerpt": "Laboratoire Linux pour s'entraîner à l' administration système avec Proxmox VE ou Incus, sans risque pour le PC principal...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Work: The update everyone was waiting for #tech #shorts - YouTube",
-      "link": "https://www.youtube.com/shorts/4Gwk4L250VE",
-      "url": "https://www.youtube.com/shorts/4Gwk4L250VE",
-      "publishedAt": "2026-07-30T16:32:53.000Z",
-      "date": "2026-07-30T16:32:53.000Z",
-      "description": "La mise à jour de ChatGPT change tout C'est ChatGPT Work, propulsé par GPT-5.6. Au lieu de vous répondre uniquement dans le chat,...",
-      "excerpt": "La mise à jour de ChatGPT change tout C'est ChatGPT Work, propulsé par GPT-5.6. Au lieu de vous répondre uniquement dans le chat,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
