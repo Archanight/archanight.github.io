@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T01:55:28.465Z",
+  "generatedAt": "2026-08-01T08:03:50.699Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI: baisse massive des prix des modèles GPT-5.6 - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/377102/openai-gpt-5-6-baisse-prix/",
+      "url": "https://www.blog-nouvelles-technologies.fr/377102/openai-gpt-5-6-baisse-prix/",
+      "publishedAt": "2026-08-01T07:28:04.000Z",
+      "date": "2026-08-01T07:28:04.000Z",
+      "description": "Les abonnés ChatGPT profitent aussi des améliorations. La baisse des coûts ne concerne pas uniquement les développeurs utilisant l'API. OpenAI...",
+      "excerpt": "Les abonnés ChatGPT profitent aussi des améliorations. La baisse des coûts ne concerne pas uniquement les développeurs utilisant l'API. OpenAI...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Abonnement gratuit à ChatGPT pendant un an maximum: nouvelle offre avec un compte Revolut",
+      "link": "https://www.notebookcheck.biz/Abonnement-gratuit-a-ChatGPT-pendant-un-an-maximum-nouvelle-offre-avec-un-compte-Revolut.1357631.0.html",
+      "url": "https://www.notebookcheck.biz/Abonnement-gratuit-a-ChatGPT-pendant-un-an-maximum-nouvelle-offre-avec-un-compte-Revolut.1357631.0.html",
+      "publishedAt": "2026-08-01T06:52:42.000Z",
+      "date": "2026-08-01T06:52:42.000Z",
+      "description": "... cybersécurité 07/31/2026 · ChatGPT sur un ordinateur portable. OpenAI vient de réduire considérablement le prix de son modèle d'IA le moins cher 07...",
+      "excerpt": "... cybersécurité 07/31/2026 · ChatGPT sur un ordinateur portable. OpenAI vient de réduire considérablement le prix de son modèle d'IA le moins cher 07...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Faire progresser une IA responsable en Europe | OpenAI",
+      "link": "https://openai.com/fr-FR/index/advancing-responsible-ai-across-europe/",
+      "url": "https://openai.com/fr-FR/index/advancing-responsible-ai-across-europe/",
+      "publishedAt": "2026-08-01T04:49:04.000Z",
+      "date": "2026-08-01T04:49:04.000Z",
+      "description": "Essayer ChatGPT... La cybersécurité est un domaine dans lequel une gouvernance dynamique et pragmatique est particulièrement importante.",
+      "excerpt": "Essayer ChatGPT... La cybersécurité est un domaine dans lequel une gouvernance dynamique et pragmatique est particulièrement importante.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Vérification d'âge: l'Arcom tente de bloquer 31 nouveaux sites pornographiques (mais le...",
+      "link": "https://www.macg.co/ailleurs/2026/07/verification-dage-larcom-tente-de-bloquer-31-nouveaux-sites-pornographiques-mais-le-probleme-reste-entier-310139",
+      "url": "https://www.macg.co/ailleurs/2026/07/verification-dage-larcom-tente-de-bloquer-31-nouveaux-sites-pornographiques-mais-le-probleme-reste-entier-310139",
+      "publishedAt": "2026-08-01T02:05:11.000Z",
+      "date": "2026-08-01T02:05:11.000Z",
+      "description": "# OpenAI # ChatGPT # Mon IA à la maison # justice # cybersécurité # LM Studio # LLM... Siri AI. 31/07/2026 à 08:00. • 72 · Tim Cook justifie les...",
+      "excerpt": "# OpenAI # ChatGPT # Mon IA à la maison # justice # cybersécurité # LM Studio # LLM... Siri AI. 31/07/2026 à 08:00. • 72 · Tim Cook justifie les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Pourquoi tous les navigateurs IA sont-ils des échecs? - BDM",
       "link": "https://www.blogdumoderateur.com/que-deviennent-navigateurs-ia/",
@@ -87,46 +127,6 @@
       "date": "2026-07-31T16:51:40.000Z",
       "description": "Une ascension fulgurante jamais vue pour une jeune société. Par comparaison, il aura fallu six ans à Facebook après le lancement de son réseau social...",
       "excerpt": "Une ascension fulgurante jamais vue pour une jeune société. Par comparaison, il aura fallu six ans à Facebook après le lancement de son réseau social...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI annonce avoir dépassé le milliard d'utilisateurs actifs - Orange Actu",
-      "link": "https://actu.orange.fr/economie/openai-annonce-avoir-depasse-le-milliard-d-utilisateurs-actifs-CNT000002qMzcG.html",
-      "url": "https://actu.orange.fr/economie/openai-annonce-avoir-depasse-le-milliard-d-utilisateurs-actifs-CNT000002qMzcG.html",
-      "publishedAt": "2026-07-31T16:18:12.000Z",
-      "date": "2026-07-31T16:18:12.000Z",
-      "description": "... ChatGPT, une ascension fulgurante jamais vue pour une si jeune société... Cybersécurité et Télésurveillance. Nouveaux Samsung Galaxy Z8 Series. +...",
-      "excerpt": "... ChatGPT, une ascension fulgurante jamais vue pour une si jeune société... Cybersécurité et Télésurveillance. Nouveaux Samsung Galaxy Z8 Series. +...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI: ChatGPT dépasse le milliard d'utilisateurs actifs - 24 Heures",
-      "link": "https://www.24heures.ch/openai-chatgpt-depasse-le-milliard-dutilisateurs-actifs-229600053196",
-      "url": "https://www.24heures.ch/openai-chatgpt-depasse-le-milliard-dutilisateurs-actifs-229600053196",
-      "publishedAt": "2026-07-31T16:08:01.000Z",
-      "date": "2026-07-31T16:08:01.000Z",
-      "description": "Moins de quatre ans après le lancement de ChatGPT, la start-up a atteint un seuil symbolique.... IA et cybersécurité Les modèles d'OpenAI piratent une...",
-      "excerpt": "Moins de quatre ans après le lancement de ChatGPT, la start-up a atteint un seuil symbolique.... IA et cybersécurité Les modèles d'OpenAI piratent une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Incident OpenAI: les modèles IA ont fait intrusion sur d'autres plateformes",
-      "link": "https://lecourrier.vn/incident-openai-les-modeles-ia-ont-fait-intrusion-sur-dautres-plateformes/1352469.html",
-      "url": "https://lecourrier.vn/incident-openai-les-modeles-ia-ont-fait-intrusion-sur-dautres-plateformes/1352469.html",
-      "publishedAt": "2026-07-31T15:50:14.000Z",
-      "date": "2026-07-31T15:50:14.000Z",
-      "description": "... ChatGPT... cybersécurité. L'entreprise a révélé qu'outre son modèle le plus avancé, GPT-5.6 Sol, l'autre IA mêlée à l'incident n'avait pas...",
-      "excerpt": "... ChatGPT... cybersécurité. L'entreprise a révélé qu'outre son modèle le plus avancé, GPT-5.6 Sol, l'autre IA mêlée à l'incident n'avait pas...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Revolut intègre ChatGPT Go dans ses abonnements bancaires payants",
-      "link": "https://www.mediaterranee.com/3152026-revolut-integre-chatgpt-go-dans-ses-abonnements-bancaires-payants.html",
-      "url": "https://www.mediaterranee.com/3152026-revolut-integre-chatgpt-go-dans-ses-abonnements-bancaires-payants.html",
-      "publishedAt": "2026-07-31T13:51:43.000Z",
-      "date": "2026-07-31T13:51:43.000Z",
-      "description": "La fintech britannique Revolut s'associe à OpenAI pour offrir jusqu'à 12 mois d'accès gratuit à ChatGPT Go à ses 75 millions de clients selon leur...",
-      "excerpt": "La fintech britannique Revolut s'associe à OpenAI pour offrir jusqu'à 12 mois d'accès gratuit à ChatGPT Go à ses 75 millions de clients selon leur...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
