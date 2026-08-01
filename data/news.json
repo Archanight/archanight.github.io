@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T19:08:22.553Z",
+  "generatedAt": "2026-08-01T01:55:28.465Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Pourquoi tous les navigateurs IA sont-ils des échecs? - BDM",
+      "link": "https://www.blogdumoderateur.com/que-deviennent-navigateurs-ia/",
+      "url": "https://www.blogdumoderateur.com/que-deviennent-navigateurs-ia/",
+      "publishedAt": "2026-07-31T21:38:25.000Z",
+      "date": "2026-07-31T21:38:25.000Z",
+      "description": "ChatGPT Atlas: le bide d'OpenAI. Perplexity n'a pas été la seule entreprise à tenter de profiter des turpitudes de Google. Trois mois après Comet...",
+      "excerpt": "ChatGPT Atlas: le bide d'OpenAI. Perplexity n'a pas été la seule entreprise à tenter de profiter des turpitudes de Google. Trois mois après Comet...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Chrome bientôt capable de se mettre à jour sans redémarrage complet - Android MT",
+      "link": "https://android-mt.ouest-france.fr/news/chrome-bientot-capable-de-se-mettre-a-jour-sans-redemarrage-complet/209765/",
+      "url": "https://android-mt.ouest-france.fr/news/chrome-bientot-capable-de-se-mettre-a-jour-sans-redemarrage-complet/209765/",
+      "publishedAt": "2026-07-31T20:21:25.000Z",
+      "date": "2026-07-31T20:21:25.000Z",
+      "description": "... release cycle to stay ahead of threats. The best security feature?… pic... chatgpt -moins-cher-openai...",
+      "excerpt": "... release cycle to stay ahead of threats. The best security feature?… pic... chatgpt -moins-cher-openai...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Recherches IA vs Google: ce que révèle le rapport Similarweb 2026 - Abondance",
+      "link": "https://www.abondance.com/20260731-2692098-recherches-ia-vs-google-ce-que-revele-le-rapport-similarweb-2026.html",
+      "url": "https://www.abondance.com/20260731-2692098-recherches-ia-vs-google-ce-que-revele-le-rapport-similarweb-2026.html",
+      "publishedAt": "2026-07-31T20:11:49.000Z",
+      "date": "2026-07-31T20:11:49.000Z",
+      "description": "Ce qu'il faut retenir: 95% des utilisateurs de ChatGPT continuent d'utiliser Google en parallèle, et la recherche classique pèse encore environ...",
+      "excerpt": "Ce qu'il faut retenir: 95% des utilisateurs de ChatGPT continuent d'utiliser Google en parallèle, et la recherche classique pèse encore environ...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT, Gemini, Copilot: Protégez vos données personnelles - Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-gemini-copilot-protegez-vos-donnees-personnelles",
+      "url": "https://www.briefia.fr/article/chatgpt-gemini-copilot-protegez-vos-donnees-personnelles",
+      "publishedAt": "2026-07-31T19:17:12.000Z",
+      "date": "2026-07-31T19:17:12.000Z",
+      "description": "Utiliser ChatGPT sans compte permet de préserver la confidentialité des... Les tests de cybersécurité d'Anthropic soulignent la nécessité de...",
+      "excerpt": "Utiliser ChatGPT sans compte permet de préserver la confidentialité des... Les tests de cybersécurité d'Anthropic soulignent la nécessité de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Siri bientôt payant: Apple va faire payer les utilisateurs intensifs de l'IA - 01net.com",
       "link": "https://www.01net.com/actualites/siri-bientot-payant-apple-faire-payer-utilisateurs-intensifs-ia.html",
@@ -87,46 +127,6 @@
       "date": "2026-07-31T13:51:43.000Z",
       "description": "La fintech britannique Revolut s'associe à OpenAI pour offrir jusqu'à 12 mois d'accès gratuit à ChatGPT Go à ses 75 millions de clients selon leur...",
       "excerpt": "La fintech britannique Revolut s'associe à OpenAI pour offrir jusqu'à 12 mois d'accès gratuit à ChatGPT Go à ses 75 millions de clients selon leur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Prix des abonnements IA: calculez votre budget en 2026 - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/prix-des-abonnements-ia-en-2026-calculez-combien-chatgpt-claude-et-les-autres-vous-coutent-vraiment",
-      "url": "https://www.lebigdata.fr/prix-des-abonnements-ia-en-2026-calculez-combien-chatgpt-claude-et-les-autres-vous-coutent-vraiment",
-      "publishedAt": "2026-07-31T13:11:12.000Z",
-      "date": "2026-07-31T13:11:12.000Z",
-      "description": "ChatGPT, Claude, Gemini, Midjourney… Additionnez vos abonnements IA, repérez les doublons et calculez votre dépense mensuelle et annuelle.",
-      "excerpt": "ChatGPT, Claude, Gemini, Midjourney… Additionnez vos abonnements IA, repérez les doublons et calculez votre dépense mensuelle et annuelle.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Voyageurs, des escrocs se font passer pour votre compagnie aérienne pour vous voler",
-      "link": "https://www.tomsguide.fr/voyageurs-des-escrocs-se-font-passer-pour-votre-compagnie-aerienne-pour-vous-voler/",
-      "url": "https://www.tomsguide.fr/voyageurs-des-escrocs-se-font-passer-pour-votre-compagnie-aerienne-pour-vous-voler/",
-      "publishedAt": "2026-07-31T10:38:44.000Z",
-      "date": "2026-07-31T10:38:44.000Z",
-      "description": "Pour mettre au jour le pots aux roses, un chercheur de la société de cybersécurité...",
-      "excerpt": "Pour mettre au jour le pots aux roses, un chercheur de la société de cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Univé transforme son personnel avec l'IA et ChatGPT - Brief IA",
-      "link": "https://www.briefia.fr/article/unive-transforme-son-personnel-avec-l-ia-et-chatgpt",
-      "url": "https://www.briefia.fr/article/unive-transforme-son-personnel-avec-l-ia-et-chatgpt",
-      "publishedAt": "2026-07-31T10:12:17.000Z",
-      "date": "2026-07-31T10:12:17.000Z",
-      "description": "... ChatGPT Enterprise est largement adopté... OpenAI collabore avec des agences européennes pour améliorer la cybersécurité à l'aide de l'IA.",
-      "excerpt": "... ChatGPT Enterprise est largement adopté... OpenAI collabore avec des agences européennes pour améliorer la cybersécurité à l'aide de l'IA.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT, Claude et Gemini surpassent les humains en arnaque - Brief IA",
-      "link": "https://www.briefia.fr/article/chatgpt-claude-et-gemini-surpassent-les-humains-en-arnaque",
-      "url": "https://www.briefia.fr/article/chatgpt-claude-et-gemini-surpassent-les-humains-en-arnaque",
-      "publishedAt": "2026-07-31T10:12:05.000Z",
-      "date": "2026-07-31T10:12:05.000Z",
-      "description": "Une étude montre que ChatGPT, Claude et Gemini surpassent les humains pour instaurer la confiance dans les arnaques sentimentales.",
-      "excerpt": "Une étude montre que ChatGPT, Claude et Gemini surpassent les humains pour instaurer la confiance dans les arnaques sentimentales.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
