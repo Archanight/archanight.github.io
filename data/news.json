@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T08:03:50.699Z",
+  "generatedAt": "2026-08-01T12:56:53.746Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Anthropic ne veut pas être à la traîne: ses modèles ont eux aussi attaqué des services sur le web",
+      "link": "https://www.macg.co/intelligence-artificielle/2026/07/anthropic-ne-veut-pas-etre-la-traine-ses-modeles-ont-eux-aussi-attaque-des-services-sur-le-web-310141",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/07/anthropic-ne-veut-pas-etre-la-traine-ses-modeles-ont-eux-aussi-attaque-des-services-sur-le-web-310141",
+      "publishedAt": "2026-08-01T08:37:11.000Z",
+      "date": "2026-08-01T08:37:11.000Z",
+      "description": "# Mon IA à la maison # OpenAI # ChatGPT # justice # cybersécurité # LM Studio # LLM · Profitez de l'été pour vous abonner au Club iGen! Fermer menu...",
+      "excerpt": "# Mon IA à la maison # OpenAI # ChatGPT # justice # cybersécurité # LM Studio # LLM · Profitez de l'été pour vous abonner au Club iGen! Fermer menu...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI: baisse massive des prix des modèles GPT-5.6 - BlogNT",
       "link": "https://www.blog-nouvelles-technologies.fr/377102/openai-gpt-5-6-baisse-prix/",
@@ -117,16 +127,6 @@
       "date": "2026-07-31T17:19:06.000Z",
       "description": "# OpenAI # ChatGPT # Mon IA à la maison # justice # cybersécurité # LM Studio # LLM · Profitez de l'été pour vous abonner au Club iGen! Fermer menu...",
       "excerpt": "# OpenAI # ChatGPT # Mon IA à la maison # justice # cybersécurité # LM Studio # LLM · Profitez de l'été pour vous abonner au Club iGen! Fermer menu...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Moins de quatre ans après avoir lancé ChatGPT, OpenAI franchit le cap du milliard d'utilisateurs",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/moins-de-quatre-ans-apres-avoir-lance-chat-gpt-open-ai-franchit-le-cap-du-milliard-d-utilisateurs_AD-202607310454.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/moins-de-quatre-ans-apres-avoir-lance-chat-gpt-open-ai-franchit-le-cap-du-milliard-d-utilisateurs_AD-202607310454.html",
-      "publishedAt": "2026-07-31T16:51:40.000Z",
-      "date": "2026-07-31T16:51:40.000Z",
-      "description": "Une ascension fulgurante jamais vue pour une jeune société. Par comparaison, il aura fallu six ans à Facebook après le lancement de son réseau social...",
-      "excerpt": "Une ascension fulgurante jamais vue pour une jeune société. Par comparaison, il aura fallu six ans à Facebook après le lancement de son réseau social...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
