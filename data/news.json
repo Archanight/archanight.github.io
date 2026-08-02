@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T08:05:37.864Z",
+  "generatedAt": "2026-08-02T12:59:15.524Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT n'écrit plus à la manière de vos auteurs préférés - 01net.com",
+      "link": "https://www.01net.com/actualites/chatgpt-necrit-plus-a-la-maniere-de-vos-auteurs-preferes.html",
+      "url": "https://www.01net.com/actualites/chatgpt-necrit-plus-a-la-maniere-de-vos-auteurs-preferes.html",
+      "publishedAt": "2026-08-02T09:02:53.000Z",
+      "date": "2026-08-02T09:02:53.000Z",
+      "description": "Demandez du Stephen King à ChatGPT: il décline poliment et propose « une ambiance similaire »... cybersécurité qui mérite de vrais gardes-fou. Quatre...",
+      "excerpt": "Demandez du Stephen King à ChatGPT: il décline poliment et propose « une ambiance similaire »... cybersécurité qui mérite de vrais gardes-fou. Quatre...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Sony assume la fin des jeux PlayStation sur disque, et les résultats financiers lui donnent raison",
+      "link": "https://www.macg.co/ailleurs/2026/08/sony-assume-la-fin-des-jeux-playstation-sur-disque-et-les-resultats-financiers-lui-donnent-raison-310151",
+      "url": "https://www.macg.co/ailleurs/2026/08/sony-assume-la-fin-des-jeux-playstation-sur-disque-et-les-resultats-financiers-lui-donnent-raison-310151",
+      "publishedAt": "2026-08-02T08:20:48.000Z",
+      "date": "2026-08-02T08:20:48.000Z",
+      "description": "# OpenAI # ChatGPT # RAMpocalypse # Mon IA à la maison # justice # cybersécurité # Tesla · Profitez de l'été pour vous abonner au Club iGen! Fermer...",
+      "excerpt": "# OpenAI # ChatGPT # RAMpocalypse # Mon IA à la maison # justice # cybersécurité # Tesla · Profitez de l'été pour vous abonner au Club iGen! Fermer...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT pour les chercheurs universitaires - OpenAI Help Center",
       "link": "https://help.openai.com/fr-fr/articles/20001406-chatgpt-pour-les-chercheurs-universitaires",
@@ -107,26 +127,6 @@
       "date": "2026-08-01T13:21:21.000Z",
       "description": "ChatGPT chatbot IA La tarification des modèles d'IA devient un critère... cybersécurité dévoile ce que Bruxelles doit affronter · Michel...",
       "excerpt": "ChatGPT chatbot IA La tarification des modèles d'IA devient un critère... cybersécurité dévoile ce que Bruxelles doit affronter · Michel...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile Astra: percées mathématiques inédites révélées - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-devoile-astra-percees-mathematiques-inedites-revelees",
-      "url": "https://www.briefia.fr/article/openai-devoile-astra-percees-mathematiques-inedites-revelees",
-      "publishedAt": "2026-08-01T13:05:10.000Z",
-      "date": "2026-08-01T13:05:10.000Z",
-      "description": "... GPT-5. Pourquoi c'est important: Astra pourrait révolutionner la résolution de problèmes complexes, influençant potentiellement divers...",
-      "excerpt": "... GPT-5. Pourquoi c'est important: Astra pourrait révolutionner la résolution de problèmes complexes, influençant potentiellement divers...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Après OpenAI, Claude s'échappe à son tour d'un test et pirate trois entreprises sans être détecté",
-      "link": "https://fr.style.yahoo.com/apr%C3%A8s-openai-claude-s-%C3%A9chappe-103103225.html",
-      "url": "https://fr.style.yahoo.com/apr%C3%A8s-openai-claude-s-%C3%A9chappe-103103225.html",
-      "publishedAt": "2026-08-01T12:56:29.000Z",
-      "date": "2026-08-01T12:56:29.000Z",
-      "description": "Récemment, OpenAI a reconnu que son nouveau modèle GPT-5. 6 Sol s'était échappé de son environnement de confinement, et avait piraté les systèmes...",
-      "excerpt": "Récemment, OpenAI a reconnu que son nouveau modèle GPT-5. 6 Sol s'était échappé de son environnement de confinement, et avait piraté les systèmes...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
