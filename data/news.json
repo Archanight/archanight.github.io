@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T18:54:41.158Z",
+  "generatedAt": "2026-08-02T01:52:08.526Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Abonnement gratuit à ChatGPT pendant un an maximum: nouvelle offre avec un compte Revolut",
+      "link": "https://www.notebookcheck.biz/Abonnement-gratuit-a-ChatGPT-pendant-un-an-maximum-nouvelle-offre-avec-un-compte-Revolut.1357631.0.html",
+      "url": "https://www.notebookcheck.biz/Abonnement-gratuit-a-ChatGPT-pendant-un-an-maximum-nouvelle-offre-avec-un-compte-Revolut.1357631.0.html",
+      "publishedAt": "2026-08-01T18:52:42.000Z",
+      "date": "2026-08-01T18:52:42.000Z",
+      "description": "Quiconque utilise régulièrement ChatGPT sait que les limites d'utilisation gratuite sont épuisées plus vite qu'on ne le souhaiterait.",
+      "excerpt": "Quiconque utilise régulièrement ChatGPT sait que les limites d'utilisation gratuite sont épuisées plus vite qu'on ne le souhaiterait.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Faire progresser l'IA responsable en Europe | OpenAI",
+      "link": "https://openai.com/fr-CA/index/advancing-responsible-ai-across-europe/",
+      "url": "https://openai.com/fr-CA/index/advancing-responsible-ai-across-europe/",
+      "publishedAt": "2026-08-01T17:39:56.000Z",
+      "date": "2026-08-01T17:39:56.000Z",
+      "description": "Essayez ChatGPT (s'ouvre dans une... La cybersécurité est un domaine où une gouvernance dynamique et pratique revêt une importance particulière.",
+      "excerpt": "Essayez ChatGPT (s'ouvre dans une... La cybersécurité est un domaine où une gouvernance dynamique et pratique revêt une importance particulière.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Xiaomi: une mise à jour HyperOS Security donne un coup de fouet à Game Turbo",
+      "link": "https://android-mt.ouest-france.fr/news/xiaomi-une-mise-a-jour-hyperos-security-donne-un-coup-de-fouet-a-game-turbo/209886/",
+      "url": "https://android-mt.ouest-france.fr/news/xiaomi-une-mise-a-jour-hyperos-security-donne-un-coup-de-fouet-a-game-turbo/209886/",
+      "publishedAt": "2026-08-01T15:22:31.000Z",
+      "date": "2026-08-01T15:22:31.000Z",
+      "description": "... Update via APK or MemeOS Enhancer app. – Update refreshes Game Turbo whe... chatgpt -moins-cher...",
+      "excerpt": "... Update via APK or MemeOS Enhancer app. – Update refreshes Game Turbo whe... chatgpt -moins-cher...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Révolutionnaire: Boostez votre productivité avec ChatGPT Work et simplifiez vos tâches au quotidien",
       "link": "https://lecafedugeek.fr/revolutionnaire-boostez-votre-productivite-avec-chatgpt-work-et-simplifiez-vos-taches-au-quotidien/",
@@ -80,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Après OpenAI, Claude s'échappe à son tour d'un test et pirate trois entreprises sans être détecté",
+      "link": "https://fr.style.yahoo.com/apr%C3%A8s-openai-claude-s-%C3%A9chappe-103103225.html",
+      "url": "https://fr.style.yahoo.com/apr%C3%A8s-openai-claude-s-%C3%A9chappe-103103225.html",
+      "publishedAt": "2026-08-01T12:56:29.000Z",
+      "date": "2026-08-01T12:56:29.000Z",
+      "description": "Récemment, OpenAI a reconnu que son nouveau modèle GPT-5. 6 Sol s'était échappé de son environnement de confinement, et avait piraté les systèmes...",
+      "excerpt": "Récemment, OpenAI a reconnu que son nouveau modèle GPT-5. 6 Sol s'était échappé de son environnement de confinement, et avait piraté les systèmes...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Sam Altman et ChatGPT: comment j'ai créé un site web sans coder | Brief IA",
       "link": "https://www.briefia.fr/article/sam-altman-et-chatgpt-comment-j-ai-cree-un-site-web-sans-coder",
       "url": "https://www.briefia.fr/article/sam-altman-et-chatgpt-comment-j-ai-cree-un-site-web-sans-coder",
@@ -87,46 +127,6 @@
       "date": "2026-08-01T11:23:44.000Z",
       "description": "... ChatGPT, démontrant la puissance du vibe coding pour les non... cybersécurité américainehier→ · Hugging Face: le pilier incontournable...",
       "excerpt": "... ChatGPT, démontrant la puissance du vibe coding pour les non... cybersécurité américainehier→ · Hugging Face: le pilier incontournable...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "SuperDuper 4: l'outil de clonage culte se met à l'IA et accélère ses sauvegardes",
-      "link": "https://www.macg.co/logiciels/2026/08/superduper-4-loutil-de-clonage-culte-se-met-lia-et-accelere-ses-sauvegardes-310143",
-      "url": "https://www.macg.co/logiciels/2026/08/superduper-4-loutil-de-clonage-culte-se-met-lia-et-accelere-ses-sauvegardes-310143",
-      "publishedAt": "2026-08-01T10:58:09.000Z",
-      "date": "2026-08-01T10:58:09.000Z",
-      "description": "# Mon IA à la maison # OpenAI # ChatGPT # justice # cybersécurité # LM Studio # LLM... Siri AI. 31/07/2026 à 08:00. • 73 · Image du moment · image...",
-      "excerpt": "# Mon IA à la maison # OpenAI # ChatGPT # justice # cybersécurité # LM Studio # LLM... Siri AI. 31/07/2026 à 08:00. • 73 · Image du moment · image...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic ne veut pas être à la traîne: ses modèles ont eux aussi attaqué des services sur le web",
-      "link": "https://www.macg.co/intelligence-artificielle/2026/07/anthropic-ne-veut-pas-etre-la-traine-ses-modeles-ont-eux-aussi-attaque-des-services-sur-le-web-310141",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/07/anthropic-ne-veut-pas-etre-la-traine-ses-modeles-ont-eux-aussi-attaque-des-services-sur-le-web-310141",
-      "publishedAt": "2026-08-01T08:37:11.000Z",
-      "date": "2026-08-01T08:37:11.000Z",
-      "description": "# Mon IA à la maison # OpenAI # ChatGPT # justice # cybersécurité # LM Studio # LLM · Profitez de l'été pour vous abonner au Club iGen! Fermer menu...",
-      "excerpt": "# Mon IA à la maison # OpenAI # ChatGPT # justice # cybersécurité # LM Studio # LLM · Profitez de l'été pour vous abonner au Club iGen! Fermer menu...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI: baisse massive des prix des modèles GPT-5.6 - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/377102/openai-gpt-5-6-baisse-prix/",
-      "url": "https://www.blog-nouvelles-technologies.fr/377102/openai-gpt-5-6-baisse-prix/",
-      "publishedAt": "2026-08-01T07:28:04.000Z",
-      "date": "2026-08-01T07:28:04.000Z",
-      "description": "Les abonnés ChatGPT profitent aussi des améliorations. La baisse des coûts ne concerne pas uniquement les développeurs utilisant l'API. OpenAI...",
-      "excerpt": "Les abonnés ChatGPT profitent aussi des améliorations. La baisse des coûts ne concerne pas uniquement les développeurs utilisant l'API. OpenAI...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Abonnement gratuit à ChatGPT pendant un an maximum: nouvelle offre avec un compte Revolut",
-      "link": "https://www.notebookcheck.biz/Abonnement-gratuit-a-ChatGPT-pendant-un-an-maximum-nouvelle-offre-avec-un-compte-Revolut.1357631.0.html",
-      "url": "https://www.notebookcheck.biz/Abonnement-gratuit-a-ChatGPT-pendant-un-an-maximum-nouvelle-offre-avec-un-compte-Revolut.1357631.0.html",
-      "publishedAt": "2026-08-01T06:52:42.000Z",
-      "date": "2026-08-01T06:52:42.000Z",
-      "description": "... cybersécurité 07/31/2026 · ChatGPT sur un ordinateur portable. OpenAI vient de réduire considérablement le prix de son modèle d'IA le moins cher 07...",
-      "excerpt": "... cybersécurité 07/31/2026 · ChatGPT sur un ordinateur portable. OpenAI vient de réduire considérablement le prix de son modèle d'IA le moins cher 07...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
