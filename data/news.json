@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T12:59:15.524Z",
+  "generatedAt": "2026-08-02T18:55:19.323Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "\"Nous en avons peur\": Sam Altman face aux IA pirates - Le-Joueur.fr",
+      "link": "https://www.le-joueur.fr/nous-en-avons-peur-sam-altman-face-aux-ia-pirates/",
+      "url": "https://www.le-joueur.fr/nous-en-avons-peur-sam-altman-face-aux-ia-pirates/",
+      "publishedAt": "2026-08-02T17:08:20.000Z",
+      "date": "2026-08-02T17:08:20.000Z",
+      "description": "... cybersécurité majeur ». Cette démonstration autonome de piratage... Comme il le confie à ABC News: « nous en avons un peu peur » à propos de ChatGPT.",
+      "excerpt": "... cybersécurité majeur ». Cette démonstration autonome de piratage... Comme il le confie à ABC News: « nous en avons un peu peur » à propos de ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Sam Altman commence à s'inquiéter de son IA et de l'avenir qu'elle pourrait laisser aux...",
+      "link": "https://www.lacremedugaming.fr/high-tech/sam-altman-commence-a-sinquieter-de-son-ia-et-de-lavenir-quelle-pourrait-laisser-aux-prochaines-generations-221518.html",
+      "url": "https://www.lacremedugaming.fr/high-tech/sam-altman-commence-a-sinquieter-de-son-ia-et-de-lavenir-quelle-pourrait-laisser-aux-prochaines-generations-221518.html",
+      "publishedAt": "2026-08-02T16:17:09.000Z",
+      "date": "2026-08-02T16:17:09.000Z",
+      "description": "En juillet 2026, un test de cybersécurité chez OpenAI a fait vaciller les certitudes de Sam Altman. Face à une IA autonome qui s'échappe et pirate...",
+      "excerpt": "En juillet 2026, un test de cybersécurité chez OpenAI a fait vaciller les certitudes de Sam Altman. Face à une IA autonome qui s'échappe et pirate...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Plus de 300 000 livres par mois: comment l'IA et ChatGPT saturent Amazon avec des...",
+      "link": "https://www.science-et-vie.com/technos-et-futur/plus-de-300-000-livres-par-mois-comment-lia-et-chatgpt-saturent-amazon-avec-des-biographies-falsifiees-252721.html",
+      "url": "https://www.science-et-vie.com/technos-et-futur/plus-de-300-000-livres-par-mois-comment-lia-et-chatgpt-saturent-amazon-avec-des-biographies-falsifiees-252721.html",
+      "publishedAt": "2026-08-02T14:33:58.000Z",
+      "date": "2026-08-02T14:33:58.000Z",
+      "description": "Plus de 300 000 livres par mois: comment l'IA et ChatGPT saturent Amazon avec des biographies falsifiées... Un retraité de la cybersécurité de 70 ans,...",
+      "excerpt": "Plus de 300 000 livres par mois: comment l'IA et ChatGPT saturent Amazon avec des biographies falsifiées... Un retraité de la cybersécurité de 70 ans,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT n'écrit plus à la manière de vos auteurs préférés - 01net.com",
       "link": "https://www.01net.com/actualites/chatgpt-necrit-plus-a-la-maniere-de-vos-auteurs-preferes.html",
@@ -97,36 +127,6 @@
       "date": "2026-08-01T15:09:02.000Z",
       "description": "# OpenAI # ChatGPT # Mon IA à la maison # justice # cybersécurité # Tesla # Chine · Profitez de l'été pour vous abonner au Club iGen! Fermer menu...",
       "excerpt": "# OpenAI # ChatGPT # Mon IA à la maison # justice # cybersécurité # Tesla # Chine · Profitez de l'été pour vous abonner au Club iGen! Fermer menu...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pourquoi ce comparatif s'impose maintenant - Tech Insider",
-      "link": "https://tech-insider.org/fr/pourquoi-ce-comparatif-s-impose-maintenant/",
-      "url": "https://tech-insider.org/fr/pourquoi-ce-comparatif-s-impose-maintenant/",
-      "publishedAt": "2026-08-01T15:03:33.000Z",
-      "date": "2026-08-01T15:03:33.000Z",
-      "description": "ChatGPT reste, de loin, l'assistant le plus utilisé en France: il... GPT-5 (86,5). L'écart entre les trois premiers reste toutefois faible...",
-      "excerpt": "ChatGPT reste, de loin, l'assistant le plus utilisé en France: il... GPT-5 (86,5). L'écart entre les trois premiers reste toutefois faible...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Découverte d'iOS 27, IA locale, tests… Les lectures estivales du Club iGen - MacGeneration",
-      "link": "https://www.macg.co/macgeneration/2026/08/decouverte-dios-27-ia-locale-tests-les-lectures-estivales-du-club-igen-310149",
-      "url": "https://www.macg.co/macgeneration/2026/08/decouverte-dios-27-ia-locale-tests-les-lectures-estivales-du-club-igen-310149",
-      "publishedAt": "2026-08-01T14:10:34.000Z",
-      "date": "2026-08-01T14:10:34.000Z",
-      "description": "# OpenAI # ChatGPT # Mon IA à la maison # justice # cybersécurité # Tesla # Chine.",
-      "excerpt": "# OpenAI # ChatGPT # Mon IA à la maison # justice # cybersécurité # Tesla # Chine.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6, tarifs API en baisse, OpenAI relance la bataille des prix, ce... - Places d'affaires",
-      "link": "https://www.placesdaffaires.com/gpt-5-6-tarifs-api-en-baisse-openai-relance-la-bataille-des-prix-ce-que-ses-concurrents-dans-lia-doivent-affronter/",
-      "url": "https://www.placesdaffaires.com/gpt-5-6-tarifs-api-en-baisse-openai-relance-la-bataille-des-prix-ce-que-ses-concurrents-dans-lia-doivent-affronter/",
-      "publishedAt": "2026-08-01T13:21:21.000Z",
-      "date": "2026-08-01T13:21:21.000Z",
-      "description": "ChatGPT chatbot IA La tarification des modèles d'IA devient un critère... cybersécurité dévoile ce que Bruxelles doit affronter · Michel...",
-      "excerpt": "ChatGPT chatbot IA La tarification des modèles d'IA devient un critère... cybersécurité dévoile ce que Bruxelles doit affronter · Michel...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
