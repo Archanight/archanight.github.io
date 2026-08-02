@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T01:52:08.526Z",
+  "generatedAt": "2026-08-02T08:05:37.864Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT pour les chercheurs universitaires - OpenAI Help Center",
+      "link": "https://help.openai.com/fr-fr/articles/20001406-chatgpt-pour-les-chercheurs-universitaires",
+      "url": "https://help.openai.com/fr-fr/articles/20001406-chatgpt-pour-les-chercheurs-universitaires",
+      "publishedAt": "2026-08-01T21:44:17.000Z",
+      "date": "2026-08-01T21:44:17.000Z",
+      "description": "... ChatGPT pris en charge, avec les mêmes limites de débit que ChatGPT Pro.... Journal des dernières mises à jour et notes de version de ChatGPT · FAQ...",
+      "excerpt": "... ChatGPT pris en charge, avec les mêmes limites de débit que ChatGPT Pro.... Journal des dernières mises à jour et notes de version de ChatGPT · FAQ...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Abonnement gratuit à ChatGPT pendant un an maximum: nouvelle offre avec un compte Revolut",
       "link": "https://www.notebookcheck.biz/Abonnement-gratuit-a-ChatGPT-pendant-un-an-maximum-nouvelle-offre-avec-un-compte-Revolut.1357631.0.html",
@@ -117,16 +127,6 @@
       "date": "2026-08-01T12:56:29.000Z",
       "description": "Récemment, OpenAI a reconnu que son nouveau modèle GPT-5. 6 Sol s'était échappé de son environnement de confinement, et avait piraté les systèmes...",
       "excerpt": "Récemment, OpenAI a reconnu que son nouveau modèle GPT-5. 6 Sol s'était échappé de son environnement de confinement, et avait piraté les systèmes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Sam Altman et ChatGPT: comment j'ai créé un site web sans coder | Brief IA",
-      "link": "https://www.briefia.fr/article/sam-altman-et-chatgpt-comment-j-ai-cree-un-site-web-sans-coder",
-      "url": "https://www.briefia.fr/article/sam-altman-et-chatgpt-comment-j-ai-cree-un-site-web-sans-coder",
-      "publishedAt": "2026-08-01T11:23:44.000Z",
-      "date": "2026-08-01T11:23:44.000Z",
-      "description": "... ChatGPT, démontrant la puissance du vibe coding pour les non... cybersécurité américainehier→ · Hugging Face: le pilier incontournable...",
-      "excerpt": "... ChatGPT, démontrant la puissance du vibe coding pour les non... cybersécurité américainehier→ · Hugging Face: le pilier incontournable...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
