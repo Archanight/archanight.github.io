@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T14:16:13.885Z",
+  "generatedAt": "2026-08-03T19:19:13.759Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le futur ChatGPT a résolu 10 énigmes mathématiques réputées insolubles - 01net.com",
+      "link": "https://www.01net.com/actualites/nouveau-chatgpt-resolu-10-enigmes-mathematiques-reputees-insolubles.html",
+      "url": "https://www.01net.com/actualites/nouveau-chatgpt-resolu-10-enigmes-mathematiques-reputees-insolubles.html",
+      "publishedAt": "2026-08-03T17:24:33.000Z",
+      "date": "2026-08-03T17:24:33.000Z",
+      "description": "Astra, la prochaine intelligence artificielle qui animera ChatGPT, vient de réaliser plusieurs percées historiques.... Cybersécurité · Société...",
+      "excerpt": "Astra, la prochaine intelligence artificielle qui animera ChatGPT, vient de réaliser plusieurs percées historiques.... Cybersécurité · Société...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Sam Altman imagine ChatGPT en chroniqueur familial - INCYBER NEWS",
+      "link": "https://incyber.org/article/sam-altman-imagine-chatgpt-en-chroniqueur-familial/",
+      "url": "https://incyber.org/article/sam-altman-imagine-chatgpt-en-chroniqueur-familial/",
+      "publishedAt": "2026-08-03T15:39:57.000Z",
+      "date": "2026-08-03T15:39:57.000Z",
+      "description": "... Cybersécurité. 03.07.26 Cybersécurité · Sécurité offensive: Quand les... ChatGPT en chroniqueur familial. Accueil · Sécurité des IA; Sam Altman...",
+      "excerpt": "... Cybersécurité. 03.07.26 Cybersécurité · Sécurité offensive: Quand les... ChatGPT en chroniqueur familial. Accueil · Sécurité des IA; Sam Altman...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Tout chatbot en Europe doit désormais se déclarer IA — ou son créateur paie 15 millions d'euros",
+      "link": "https://fr.martincid.com/technologie/eu-ai-act-article-50-chatbot-disclosure-fine/",
+      "url": "https://fr.martincid.com/technologie/eu-ai-act-article-50-chatbot-disclosure-fine/",
+      "publishedAt": "2026-08-03T13:54:42.000Z",
+      "date": "2026-08-03T13:54:42.000Z",
+      "description": "Any chatbot or AI system that converses with European users must now identify itself as artificial intelligence. The requirement covers ChatGPT,...",
+      "excerpt": "Any chatbot or AI system that converses with European users must now identify itself as artificial intelligence. The requirement covers ChatGPT,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Qwen 3.8-Max: cette nouvelle IA open source a franchi une frontière en travaillant seule...",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/qwen-3-8-max-cette-nouvelle-ia-open-source-a-franchi-une-frontiere-en-travaillant-seule-pendant-des-jours-n260014.html",
@@ -97,36 +127,6 @@
       "date": "2026-08-02T20:15:52.000Z",
       "description": "# OpenAI # RAMpocalypse # ChatGPT # utilitaire # Mon IA à la maison # justice # cybersécurité · Profitez de l'été pour vous abonner au Club iGen...",
       "excerpt": "# OpenAI # RAMpocalypse # ChatGPT # utilitaire # Mon IA à la maison # justice # cybersécurité · Profitez de l'été pour vous abonner au Club iGen...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Apple Upgrade et le sens du timing, les stocks de MacBook Air au plus bas - MacGeneration",
-      "link": "https://www.macg.co/aapl/2026/08/apple-upgrade-et-le-sens-du-timing-les-stocks-de-macbook-air-au-plus-bas-la-semaine-apple-310153",
-      "url": "https://www.macg.co/aapl/2026/08/apple-upgrade-et-le-sens-du-timing-les-stocks-de-macbook-air-au-plus-bas-la-semaine-apple-310153",
-      "publishedAt": "2026-08-02T19:05:39.000Z",
-      "date": "2026-08-02T19:05:39.000Z",
-      "description": "# OpenAI # ChatGPT # RAMpocalypse # Mon IA à la maison # justice # cybersécurité # Tesla... Dis Siri, mets-moi du Kavinsky. Ok, le bomber rouge...",
-      "excerpt": "# OpenAI # ChatGPT # RAMpocalypse # Mon IA à la maison # justice # cybersécurité # Tesla... Dis Siri, mets-moi du Kavinsky. Ok, le bomber rouge...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Siri IA payant: Tim Cook ouvre la porte à un abonnement iCloud+ - Stéphane Larue",
-      "link": "https://stephanelarue.com/siri-ia-payant-tim-cook-ouvre-la-porte-a-un-abonnement-icloud/",
-      "url": "https://stephanelarue.com/siri-ia-payant-tim-cook-ouvre-la-porte-a-un-abonnement-icloud/",
-      "publishedAt": "2026-08-02T18:43:27.000Z",
-      "date": "2026-08-02T18:43:27.000Z",
-      "description": "Un modèle calqué sur ChatGPT et Claude. Concrètement, un usage basique de Siri IA resterait gratuit pour tous les possesseurs d'iPhone compatibles...",
-      "excerpt": "Un modèle calqué sur ChatGPT et Claude. Concrètement, un usage basique de Siri IA resterait gratuit pour tous les possesseurs d'iPhone compatibles...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "\"Nous en avons peur\": Sam Altman face aux IA pirates - Le-Joueur.fr",
-      "link": "https://www.le-joueur.fr/nous-en-avons-peur-sam-altman-face-aux-ia-pirates/",
-      "url": "https://www.le-joueur.fr/nous-en-avons-peur-sam-altman-face-aux-ia-pirates/",
-      "publishedAt": "2026-08-02T17:08:20.000Z",
-      "date": "2026-08-02T17:08:20.000Z",
-      "description": "... cybersécurité majeur ». Cette démonstration autonome de piratage... Comme il le confie à ABC News: « nous en avons un peu peur » à propos de ChatGPT.",
-      "excerpt": "... cybersécurité majeur ». Cette démonstration autonome de piratage... Comme il le confie à ABC News: « nous en avons un peu peur » à propos de ChatGPT.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
