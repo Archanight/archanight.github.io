@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T19:19:13.759Z",
+  "generatedAt": "2026-08-04T01:29:32.711Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "CrowdStrike: l'IA, arme et cible des cyberattaques - Brief IA",
+      "link": "https://www.briefia.fr/article/crowdstrike-l-ia-arme-et-cible-des-cyberattaques",
+      "url": "https://www.briefia.fr/article/crowdstrike-l-ia-arme-et-cible-des-cyberattaques",
+      "publishedAt": "2026-08-03T19:14:36.000Z",
+      "date": "2026-08-03T19:14:36.000Z",
+      "description": "... cybersécurité. Pourquoi c'est important: L'IA accélère les... ChatGPT d'OpenAI: l'outil d'IA plébiscité au Congrès. • ChatGPT d'OpenAI...",
+      "excerpt": "... cybersécurité. Pourquoi c'est important: L'IA accélère les... ChatGPT d'OpenAI: l'outil d'IA plébiscité au Congrès. • ChatGPT d'OpenAI...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Codex révolutionne le workflow IA avec des outils innovants - Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-codex-revolutionne-le-workflow-ia-avec-des-outils-innovants",
+      "url": "https://www.briefia.fr/article/chatgpt-codex-revolutionne-le-workflow-ia-avec-des-outils-innovants",
+      "publishedAt": "2026-08-03T19:09:15.000Z",
+      "date": "2026-08-03T19:09:15.000Z",
+      "description": "Nick Baumann d'OpenAI présente les dernières avancées de ChatGPT Codex, incluant une interface vocale améliorée. • La fonctionnalité Heartbeats...",
+      "excerpt": "Nick Baumann d'OpenAI présente les dernières avancées de ChatGPT Codex, incluant une interface vocale améliorée. • La fonctionnalité Heartbeats...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT d'OpenAI: l'outil d'IA plébiscité au Congrès | Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-d-openai-l-outil-d-ia-plebiscite-au-congres",
+      "url": "https://www.briefia.fr/article/chatgpt-d-openai-l-outil-d-ia-plebiscite-au-congres",
+      "publishedAt": "2026-08-03T19:09:06.000Z",
+      "date": "2026-08-03T19:09:06.000Z",
+      "description": "ChatGPT... Les vulnérabilités sont exploitées en moins de 48 heures, soulignant l'urgence pour les entreprises de renforcer leur cybersécurité.",
+      "excerpt": "ChatGPT... Les vulnérabilités sont exploitées en moins de 48 heures, soulignant l'urgence pour les entreprises de renforcer leur cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le futur ChatGPT a résolu 10 énigmes mathématiques réputées insolubles - 01net.com",
       "link": "https://www.01net.com/actualites/nouveau-chatgpt-resolu-10-enigmes-mathematiques-reputees-insolubles.html",
@@ -20,6 +50,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "ChatGPT révolutionne Chrome: résume YouTube et lit vos onglets - Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-revolutionne-chrome-resume-youtube-et-lit-vos-onglets",
+      "url": "https://www.briefia.fr/article/chatgpt-revolutionne-chrome-resume-youtube-et-lit-vos-onglets",
+      "publishedAt": "2026-08-03T16:13:17.000Z",
+      "date": "2026-08-03T16:13:17.000Z",
+      "description": "OpenAI a dévoilé des mises à jour pour l'extension Chrome de ChatGPT, incluant le résumé de vidéos YouTube. • L'extension permet désormais de...",
+      "excerpt": "OpenAI a dévoilé des mises à jour pour l'extension Chrome de ChatGPT, incluant le résumé de vidéos YouTube. • L'extension permet désormais de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Sam Altman imagine ChatGPT en chroniqueur familial - INCYBER NEWS",
       "link": "https://incyber.org/article/sam-altman-imagine-chatgpt-en-chroniqueur-familial/",
       "url": "https://incyber.org/article/sam-altman-imagine-chatgpt-en-chroniqueur-familial/",
@@ -28,6 +68,16 @@
       "description": "... Cybersécurité. 03.07.26 Cybersécurité · Sécurité offensive: Quand les... ChatGPT en chroniqueur familial. Accueil · Sécurité des IA; Sam Altman...",
       "excerpt": "... Cybersécurité. 03.07.26 Cybersécurité · Sécurité offensive: Quand les... ChatGPT en chroniqueur familial. Accueil · Sécurité des IA; Sam Altman...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Atlas prend fin le 9 août: voici comment sauvegarder vos données",
+      "link": "https://www.notebookcheck.biz/ChatGPT-Atlas-prend-fin-le-9-aout-voici-comment-sauvegarder-vos-donnees.1358870.0.html",
+      "url": "https://www.notebookcheck.biz/ChatGPT-Atlas-prend-fin-le-9-aout-voici-comment-sauvegarder-vos-donnees.1358870.0.html",
+      "publishedAt": "2026-08-03T14:03:31.000Z",
+      "date": "2026-08-03T14:03:31.000Z",
+      "description": "OpenAI mettra fin à son navigateur IA ChatGPT Atlas le 9 août 2026, moins de dix mois après son lancement. Les signets, les onglets ouverts et...",
+      "excerpt": "OpenAI mettra fin à son navigateur IA ChatGPT Atlas le 9 août 2026, moins de dix mois après son lancement. Les signets, les onglets ouverts et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Tout chatbot en Europe doit désormais se déclarer IA — ou son créateur paie 15 millions d'euros",
@@ -50,16 +100,6 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "ChatGPT Codex révolutionne le workflow IA avec des outils innovants - Brief IA",
-      "link": "https://www.briefia.fr/article/chatgpt-codex-revolutionne-le-workflow-ia-avec-des-outils-innovants",
-      "url": "https://www.briefia.fr/article/chatgpt-codex-revolutionne-le-workflow-ia-avec-des-outils-innovants",
-      "publishedAt": "2026-08-03T13:09:15.000Z",
-      "date": "2026-08-03T13:09:15.000Z",
-      "description": "... ChatGPT Codex et ChatGPT Work.... Deux modèles d'OpenAI ont piraté Hugging Face pour résoudre un test de cybersécurité, illustrant la capacité des IA à...",
-      "excerpt": "... ChatGPT Codex et ChatGPT Work.... Deux modèles d'OpenAI ont piraté Hugging Face pour résoudre un test de cybersécurité, illustrant la capacité des IA à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
       "title": "L'IA devient folle: après ChatGPT, Claude aussi pirate des entreprises « sur un malentendu »",
       "link": "https://www.journaldugeek.com/2026/08/03/lia-devient-folle-apres-chatgpt-claude-aussi-pirate-des-entreprises-sur-un-malentendu/",
       "url": "https://www.journaldugeek.com/2026/08/03/lia-devient-folle-apres-chatgpt-claude-aussi-pirate-des-entreprises-sur-un-malentendu/",
@@ -80,16 +120,6 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "ChatGPT révolutionne Chrome: résume YouTube et lit vos onglets - Brief IA",
-      "link": "https://www.briefia.fr/article/chatgpt-revolutionne-chrome-resume-youtube-et-lit-vos-onglets",
-      "url": "https://www.briefia.fr/article/chatgpt-revolutionne-chrome-resume-youtube-et-lit-vos-onglets",
-      "publishedAt": "2026-08-03T10:13:17.000Z",
-      "date": "2026-08-03T10:13:17.000Z",
-      "description": "OpenAI a dévoilé des mises à jour pour l'extension Chrome de ChatGPT, incluant le résumé de vidéos YouTube. • L'extension permet désormais de...",
-      "excerpt": "OpenAI a dévoilé des mises à jour pour l'extension Chrome de ChatGPT, incluant le résumé de vidéos YouTube. • L'extension permet désormais de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
       "title": "Moins de quatre ans après son lancement, ChatGPT dépasse le milliard d'utilisateurs",
       "link": "https://siecledigital.fr/2026/08/02/moins-de-quatre-ans-apres-son-lancement-chatgpt-depasse-le-milliard-dutilisateurs/",
       "url": "https://siecledigital.fr/2026/08/02/moins-de-quatre-ans-apres-son-lancement-chatgpt-depasse-le-milliard-dutilisateurs/",
@@ -97,36 +127,6 @@
       "date": "2026-08-03T09:53:23.000Z",
       "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle... ChatGPT. Il aura...",
       "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle... ChatGPT. Il aura...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Apple envisage de faire payer les utilisateurs les plus accros à l'IA Siri - Siècle Digital",
-      "link": "https://siecledigital.fr/2026/08/02/apple-envisage-de-faire-payer-les-utilisateurs-les-plus-accros-a-lia-siri/",
-      "url": "https://siecledigital.fr/2026/08/02/apple-envisage-de-faire-payer-les-utilisateurs-les-plus-accros-a-lia-siri/",
-      "publishedAt": "2026-08-03T09:52:44.000Z",
-      "date": "2026-08-03T09:52:44.000Z",
-      "description": "Il se posera même en rival de ChatGPT et de Claude. Le tout sera inclus gratuitement dans chacun des iPhone, iPad et Mac compatibles. Attention, chez...",
-      "excerpt": "Il se posera même en rival de ChatGPT et de Claude. Le tout sera inclus gratuitement dans chacun des iPhone, iPad et Mac compatibles. Attention, chez...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Marché de l'IA bousculé: Copilot 365 perd 31 % d'utilisateurs, ChatGPT recule, qui sont les...",
-      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/evolution-marche-chatbots-marche-ia-etude-similarweb-91332/",
-      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/evolution-marche-chatbots-marche-ia-etude-similarweb-91332/",
-      "publishedAt": "2026-08-03T09:04:32.000Z",
-      "date": "2026-08-03T09:04:32.000Z",
-      "description": "ChatGPT captait plus de 80 % des visites web des chatbots IA il y a... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD...",
-      "excerpt": "ChatGPT captait plus de 80 % des visites web des chatbots IA il y a... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "TMOG: le créateur du gestionnaire des tâches de Windows lance son alternative au...",
-      "link": "https://www.macg.co/logiciels/2026/08/tmog-le-createur-du-gestionnaire-des-taches-de-windows-lance-son-alternative-au-moniteur-dactivite-310147",
-      "url": "https://www.macg.co/logiciels/2026/08/tmog-le-createur-du-gestionnaire-des-taches-de-windows-lance-son-alternative-au-moniteur-dactivite-310147",
-      "publishedAt": "2026-08-02T20:15:52.000Z",
-      "date": "2026-08-02T20:15:52.000Z",
-      "description": "# OpenAI # RAMpocalypse # ChatGPT # utilitaire # Mon IA à la maison # justice # cybersécurité · Profitez de l'été pour vous abonner au Club iGen...",
-      "excerpt": "# OpenAI # RAMpocalypse # ChatGPT # utilitaire # Mon IA à la maison # justice # cybersécurité · Profitez de l'été pour vous abonner au Club iGen...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
