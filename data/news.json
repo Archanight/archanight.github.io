@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T19:17:55.377Z",
+  "generatedAt": "2026-08-05T01:43:12.567Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "L'Europe en contact avec OpenAI et Anthropic après les piratages par leurs IA - KultureGeek",
+      "link": "https://kulturegeek.fr/news-356506/leurope-contact-openai-anthropic-apres-piratages-leurs-ia",
+      "url": "https://kulturegeek.fr/news-356506/leurope-contact-openai-anthropic-apres-piratages-leurs-ia",
+      "publishedAt": "2026-08-04T19:28:01.000Z",
+      "date": "2026-08-04T19:28:01.000Z",
+      "description": "ChatGPT Logo Icone. Des amendes pouvant atteindre 7 % du chiffre d... cybersécurité et de préjudice à grande échelle. Les entreprises qui...",
+      "excerpt": "ChatGPT Logo Icone. Des amendes pouvant atteindre 7 % du chiffre d... cybersécurité et de préjudice à grande échelle. Les entreprises qui...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Fin de l'offre Perplexity Pro sur Revolut: comment éviter d'être prélevé par surprise?",
       "link": "https://www.lebigdata.fr/fin-de-loffre-perplexity-pro-sur-revolut-comment-eviter-detre-preleve-par-surprise",
@@ -117,16 +127,6 @@
       "date": "2026-08-03T20:31:42.000Z",
       "description": "Vide juridique et incertitudes de la jurisprudence. Le média a interrogé des avocats spécialisés en droit informatique et en droit de la cybersécurité...",
       "excerpt": "Vide juridique et incertitudes de la jurisprudence. Le média a interrogé des avocats spécialisés en droit informatique et en droit de la cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "CrowdStrike: l'IA, arme et cible des cyberattaques - Brief IA",
-      "link": "https://www.briefia.fr/article/crowdstrike-l-ia-arme-et-cible-des-cyberattaques",
-      "url": "https://www.briefia.fr/article/crowdstrike-l-ia-arme-et-cible-des-cyberattaques",
-      "publishedAt": "2026-08-03T19:14:36.000Z",
-      "date": "2026-08-03T19:14:36.000Z",
-      "description": "... cybersécurité. Pourquoi c'est important: L'IA accélère les... ChatGPT d'OpenAI: l'outil d'IA plébiscité au Congrès. • ChatGPT d'OpenAI...",
-      "excerpt": "... cybersécurité. Pourquoi c'est important: L'IA accélère les... ChatGPT d'OpenAI: l'outil d'IA plébiscité au Congrès. • ChatGPT d'OpenAI...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
