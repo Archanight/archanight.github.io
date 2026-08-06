@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T19:15:04.988Z",
+  "generatedAt": "2026-08-06T01:43:08.063Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Ces enseignes que ChatGPT recommande vraiment aux consommateurs français",
+      "link": "https://www.mediaterranee.com/0532026-ces-enseignes-que-chatgpt-recommande-vraiment-aux-consommateurs-francais.html",
+      "url": "https://www.mediaterranee.com/0532026-ces-enseignes-que-chatgpt-recommande-vraiment-aux-consommateurs-francais.html",
+      "publishedAt": "2026-08-05T18:42:56.000Z",
+      "date": "2026-08-05T18:42:56.000Z",
+      "description": "... ChatGPT ou Gemini sur les prix les plus bas. Cette fracture... Malware Roblox cybersécurité enfants · Malware Powercat: un faux cheat...",
+      "excerpt": "... ChatGPT ou Gemini sur les prix les plus bas. Cette fracture... Malware Roblox cybersécurité enfants · Malware Powercat: un faux cheat...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Après l'affaire Hugging Face, 2 nouveaux incidents liés à GPT-5.6 Sol relancent l'alerte",
+      "link": "https://www.lefilia.fr/article/5966939-apres-l-affaire-hugging-face-2-nouveaux-incidents-lies-a-gpt-5-6-sol-relancent-l-alerte",
+      "url": "https://www.lefilia.fr/article/5966939-apres-l-affaire-hugging-face-2-nouveaux-incidents-lies-a-gpt-5-6-sol-relancent-l-alerte",
+      "publishedAt": "2026-08-05T18:29:50.000Z",
+      "date": "2026-08-05T18:29:50.000Z",
+      "description": "... cybersécurité externes menées sur son modèle GPT-5.6 Sol. Le premier... OpenAI GPT-5Cybersécurité IAHugging Face. Cet article vous a été utile...",
+      "excerpt": "... cybersécurité externes menées sur son modèle GPT-5.6 Sol. Le premier... OpenAI GPT-5Cybersécurité IAHugging Face. Cet article vous a été utile...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Atlas va bientôt disparaître: voici ce que vous devez faire avant sa fermeture",
+      "link": "https://www.lebigdata.fr/chatgpt-atlas-va-bientot-disparaitre-voici-ce-que-vous-devez-faire-avant-sa-fermeture",
+      "url": "https://www.lebigdata.fr/chatgpt-atlas-va-bientot-disparaitre-voici-ce-que-vous-devez-faire-avant-sa-fermeture",
+      "publishedAt": "2026-08-05T16:36:47.000Z",
+      "date": "2026-08-05T16:36:47.000Z",
+      "description": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT Atlas va bientôt disparaître: voici ce que vous devez faire avant sa fermeture.",
+      "excerpt": "LEBIGDATA.FR I.A, Cloud & Cybersécurité · I.A · Data · Cloud... ChatGPT Atlas va bientôt disparaître: voici ce que vous devez faire avant sa fermeture.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Hack de l'Éducation nationale: un syndicat dénonce un « manque d'information - 01net.com",
       "link": "https://www.01net.com/actualites/hack-education-nationale-syndicat-denonce-manque-information-transparence.html",
@@ -98,36 +128,6 @@
       "description": "Des marques infiltrent Reddit avec de faux témoignages pour influencer ChatGPT. La plateforme bloque désormais 23 millions de vues de spam chaque...",
       "excerpt": "Des marques infiltrent Reddit avec de faux témoignages pour influencer ChatGPT. La plateforme bloque désormais 23 millions de vues de spam chaque...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "le scientifique qui a rendu ChatGPT possible prépare quelque chose de bien plus gros",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/superintelligence-sure-le-scientifique-qui-a-rendu-chatgpt-possible-prepare-quelque-chose-de-bien-plus-gros-n260093.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/superintelligence-sure-le-scientifique-qui-a-rendu-chatgpt-possible-prepare-quelque-chose-de-bien-plus-gros-n260093.html",
-      "publishedAt": "2026-08-05T13:26:04.000Z",
-      "date": "2026-08-05T13:26:04.000Z",
-      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris Google. Commenter (2). Aymeric Geoffre-Rouland. Pilote de l'actu et journaliste...",
-      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris Google. Commenter (2). Aymeric Geoffre-Rouland. Pilote de l'actu et journaliste...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "L'Agent IA qui a Attaqué un Vrai Projet Open Source - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/9826/agent-ia-attaque-projet-open-source-rapport-aisi",
-      "url": "https://pasqualepillitteri.it/fr/news/9826/agent-ia-attaque-projet-open-source-rapport-aisi",
-      "publishedAt": "2026-08-05T13:20:19.000Z",
-      "date": "2026-08-05T13:20:19.000Z",
-      "description": "OpenAI & ChatGPT 2 OpenAI & ChatGPT · Developpement Logiciel 1... cybersécurité Le rapport AISI du 4 août 2026 recense 19 actions non...",
-      "excerpt": "OpenAI & ChatGPT 2 OpenAI & ChatGPT · Developpement Logiciel 1... cybersécurité Le rapport AISI du 4 août 2026 recense 19 actions non...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Dans la stack de retrieval de ChatGPT: l'index, le cache, et les pages qu'il lit vraiment",
-      "link": "https://www.abondance.com/20260805-2713016-stack-retrieval-chatgpt-index-cache-pages.html",
-      "url": "https://www.abondance.com/20260805-2713016-stack-retrieval-chatgpt-index-cache-pages.html",
-      "publishedAt": "2026-08-05T12:52:37.000Z",
-      "date": "2026-08-05T12:52:37.000Z",
-      "description": "En juillet 2026, notre équipe chez RESONEO a capturé et disséqué 1 200 réponses ChatGPT, 88 000 résultats de recherche et 26 900 pages distinctes...",
-      "excerpt": "En juillet 2026, notre équipe chez RESONEO a capturé et disséqué 1 200 réponses ChatGPT, 88 000 résultats de recherche et 26 900 pages distinctes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
