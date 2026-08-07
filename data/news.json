@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T23:49:23.030Z",
+  "generatedAt": "2026-08-07T02:08:16.304Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Meta se lance sur le marché des logiciels écrits par l'IA, dominé par Anthropic et OpenAI",
+      "link": "https://www.france24.com/fr/info-en-continu/20260806-meta-se-lance-sur-le-march%C3%A9-des-logiciels-%C3%A9crits-par-l-ia-domin%C3%A9-par-anthropic-et-openai",
+      "url": "https://www.france24.com/fr/info-en-continu/20260806-meta-se-lance-sur-le-march%C3%A9-des-logiciels-%C3%A9crits-par-l-ia-domin%C3%A9-par-anthropic-et-openai",
+      "publishedAt": "2026-08-06T21:21:03.000Z",
+      "date": "2026-08-06T21:21:03.000Z",
+      "description": "... ChatGPT ou Gemini. Publicité. Microsoft en a été le pionnier avec GitHub... Lors d'un test de cybersécurité mené avec un prestataire...",
+      "excerpt": "... ChatGPT ou Gemini. Publicité. Microsoft en a été le pionnier avec GitHub... Lors d'un test de cybersécurité mené avec un prestataire...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI offre aux utilisateurs gratuits de ChatGPT des discussions de texte illimitées sur GPT...",
       "link": "https://www.unite.ai/fr/openai-gives-free-chatgpt-users-unlimited-text-chats-on-gpt-5-6-luna/",
@@ -48,6 +58,16 @@
       "description": "On apprenait alors que Claude Opus 4.5 et GPT-5.2... L'entreprise a annoncé la fermeture de GPT-4o, remplacé par un modèle plus performant, GPT-5.",
       "excerpt": "On apprenait alors que Claude Opus 4.5 et GPT-5.2... L'entreprise a annoncé la fermeture de GPT-4o, remplacé par un modèle plus performant, GPT-5.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science - OpenAI",
+      "link": "https://openai.com/fr-FR/index/ten-advances-in-mathematics/",
+      "url": "https://openai.com/fr-FR/index/ten-advances-in-mathematics/",
+      "publishedAt": "2026-08-06T18:56:38.000Z",
+      "date": "2026-08-06T18:56:38.000Z",
+      "description": "... ChatGPT models. We also continue to evaluate our models on open... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "excerpt": "... ChatGPT models. We also continue to evaluate our models on open... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "ChatGPT 5.6 WORK JARVIS: The update is INSANE! - YouTube",
@@ -108,26 +128,6 @@
       "description": "... contenu et les flux de travail des clients avec les principales plateformes d'IA, notamment ChatGPT, Claude et Gemini Spark.",
       "excerpt": "... contenu et les flux de travail des clients avec les principales plateformes d'IA, notamment ChatGPT, Claude et Gemini Spark.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Non, ChatGPT n'est pas votre nouveau directeur financier! - Beaboss.fr",
-      "link": "https://www.beaboss.fr/gestion-finance-1025/finance-2035/non-chatgpt-nest-pas-votre-nouveau-directeur-financier-55706",
-      "url": "https://www.beaboss.fr/gestion-finance-1025/finance-2035/non-chatgpt-nest-pas-votre-nouveau-directeur-financier-55706",
-      "publishedAt": "2026-08-06T14:29:52.000Z",
-      "date": "2026-08-06T14:29:52.000Z",
-      "description": "Non, ChatGPT n'est pas votre nouveau directeur financier! A l'approche du 1er septembre et des nouvelles obligations de la facturation électronique,...",
-      "excerpt": "Non, ChatGPT n'est pas votre nouveau directeur financier! A l'approche du 1er septembre et des nouvelles obligations de la facturation électronique,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "FPT devient partenaire mondial d'OpenAI, la société propriétaire de ChatGPT. - Vietnam.vn",
-      "link": "https://www.vietnam.vn/fr/fpt-tro-thanh-doi-tac-toan-cau-cua-openai-cong-ty-so-huu-chatgpt",
-      "url": "https://www.vietnam.vn/fr/fpt-tro-thanh-doi-tac-toan-cau-cua-openai-cong-ty-so-huu-chatgpt",
-      "publishedAt": "2026-08-06T13:57:57.000Z",
-      "date": "2026-08-06T13:57:57.000Z",
-      "description": "... ChatGPT Work pour atteindre leurs objectifs commerciaux stratégiques.... cybersécurité. Gartner prévoit une augmentation de 12 % des dépenses...",
-      "excerpt": "... ChatGPT Work pour atteindre leurs objectifs commerciaux stratégiques.... cybersécurité. Gartner prévoit une augmentation de 12 % des dépenses...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
