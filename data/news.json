@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T06:34:40.381Z",
+  "generatedAt": "2026-08-08T12:27:06.678Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI dévoile les coulisses étonnantes de la première cyberattaque orchestrée par ChatGPT",
+      "link": "https://www.01net.com/actualites/openai-devoile-coulisses-etonnantes-premiere-cyberattaque-orchestree-ia.html",
+      "url": "https://www.01net.com/actualites/openai-devoile-coulisses-etonnantes-premiere-cyberattaque-orchestree-ia.html",
+      "publishedAt": "2026-08-08T10:19:02.000Z",
+      "date": "2026-08-08T10:19:02.000Z",
+      "description": "... ChatGPT bien décidé à tricher à son examen. Dans le cadre de Black Hat USA, une conférence dédiée à la cybersécurité à Las Vegas, des chercheurs d...",
+      "excerpt": "... ChatGPT bien décidé à tricher à son examen. Dans le cadre de Black Hat USA, une conférence dédiée à la cybersécurité à Las Vegas, des chercheurs d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Atlas: OpenAI débranche son navigateur IA ce 9 août, dix mois à peine après son...",
+      "link": "https://www.journalduweb.org/chatgpt-atlas-openai-debranche-son-navigateur-ia/",
+      "url": "https://www.journalduweb.org/chatgpt-atlas-openai-debranche-son-navigateur-ia/",
+      "publishedAt": "2026-08-08T07:55:00.000Z",
+      "date": "2026-08-08T07:55:00.000Z",
+      "description": "ChatGPT Atlas: OpenAI débranche son navigateur IA ce 9 août, dix... Informatique & Cybersécurité Web & Internet · L'Enterprise Search: un...",
+      "excerpt": "ChatGPT Atlas: OpenAI débranche son navigateur IA ce 9 août, dix... Informatique & Cybersécurité Web & Internet · L'Enterprise Search: un...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI annonce une nouvelle mise à jour, ajoutant de nombreuses fonctionnalités à... - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/openai-cong-bo-cap-nhat-moi-bo-sung-nhieu-tinh-nang-cho-chatgpt-nguoi-dung-se-duoc-tang-quyen-truy-cap",
+      "url": "https://www.vietnam.vn/fr/openai-cong-bo-cap-nhat-moi-bo-sung-nhieu-tinh-nang-cho-chatgpt-nguoi-dung-se-duoc-tang-quyen-truy-cap",
+      "publishedAt": "2026-08-08T07:28:30.000Z",
+      "date": "2026-08-08T07:28:30.000Z",
+      "description": "... cybersécurité, le traitement informatique et la conception.... Tag: Dernière mise à jour d'OpenAI ChatGPT Mise à jour de ChatGPT OPENAIfonctionnalités de...",
+      "excerpt": "... cybersécurité, le traitement informatique et la conception.... Tag: Dernière mise à jour d'OpenAI ChatGPT Mise à jour de ChatGPT OPENAIfonctionnalités de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "2026, 6e édition, ChatGPT n°1 devant Gemini, Canva dans le trio de tête, ce classement IA...",
+      "link": "https://larevuetech.fr/2026-6e-edition-chatgpt-n1-devant-gemini-canva-dans-le-trio-de-tete-ce-classement-ia-surprend-la-concurrence-sur-mobile/",
+      "url": "https://larevuetech.fr/2026-6e-edition-chatgpt-n1-devant-gemini-canva-dans-le-trio-de-tete-ce-classement-ia-surprend-la-concurrence-sur-mobile/",
+      "publishedAt": "2026-08-08T07:16:44.000Z",
+      "date": "2026-08-08T07:16:44.000Z",
+      "description": "ChatGPT conserve la première place des outils d'IA générative les... Cybersécurité · Entreprises · Guide · High-Tech · Intelligence Artificielle...",
+      "excerpt": "ChatGPT conserve la première place des outils d'IA générative les... Cybersécurité · Entreprises · Guide · High-Tech · Intelligence Artificielle...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI signale un risque potentiel critique en matière de cybersécurité dans son prochain...",
       "link": "https://www.boursorama.com/bourse/actualites-amp/openai-signale-un-risque-potentiel-critique-en-matiere-de-cybersecurite-dans-son-prochain-modele-et-renforce-ses-controles-8ce52fbe81ff433564396827b1577d96",
@@ -87,46 +127,6 @@
       "date": "2026-08-07T20:51:54.000Z",
       "description": "... Vous pouvez...",
       "excerpt": "... Vous pouvez...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT devient illimité en texte pour les utilisateurs gratuits, avec quelques restrictions",
-      "link": "https://www.menow.fr/chatgpt-devient-illimite-en-texte-pour-les-utilisateurs-gratuits-avec-quelques-restrictions/",
-      "url": "https://www.menow.fr/chatgpt-devient-illimite-en-texte-pour-les-utilisateurs-gratuits-avec-quelques-restrictions/",
-      "publishedAt": "2026-08-07T20:47:21.000Z",
-      "date": "2026-08-07T20:47:21.000Z",
-      "description": "ChatGPT supprime une limite importante pour ses utilisateurs gratuits: les conversations textuelles deviennent illimitées, sans abonnement...",
-      "excerpt": "ChatGPT supprime une limite importante pour ses utilisateurs gratuits: les conversations textuelles deviennent illimitées, sans abonnement...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Le « donut » d'OpenAI, équipé de caméras, de haut-parleurs et de ChatGPT, serait portable...",
-      "link": "https://www.notebookcheck.biz/Le-donut-d-OpenAI-equipe-de-cameras-de-haut-parleurs-et-de-ChatGPT-serait-portable-mais-couteux.1362712.0.html",
-      "url": "https://www.notebookcheck.biz/Le-donut-d-OpenAI-equipe-de-cameras-de-haut-parleurs-et-de-ChatGPT-serait-portable-mais-couteux.1362712.0.html",
-      "publishedAt": "2026-08-07T20:33:06.000Z",
-      "date": "2026-08-07T20:33:06.000Z",
-      "description": "... ChatGPT, serait portable mais coûteux. Hannes Brecher, 2026-08- 7 ( Update: 2026-08- 7). Cookie Settings | 07.08.2026 16:32 * If you buy something...",
-      "excerpt": "... ChatGPT, serait portable mais coûteux. Hannes Brecher, 2026-08- 7 ( Update: 2026-08- 7). Cookie Settings | 07.08.2026 16:32 * If you buy something...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Claude, Gemini, Comet: cinq navigateurs IA piratés par un seul e-mail - Notebookcheck",
-      "link": "https://www.notebookcheck.biz/Claude-Gemini-Comet-cinq-navigateurs-IA-pirates-par-un-seul-e-mail.1362641.0.html",
-      "url": "https://www.notebookcheck.biz/Claude-Gemini-Comet-cinq-navigateurs-IA-pirates-par-un-seul-e-mail.1362641.0.html",
-      "publishedAt": "2026-08-07T20:33:04.000Z",
-      "date": "2026-08-07T20:33:04.000Z",
-      "description": "Zenity Labs a démontré lors de la conférence Black Hat USA 2026 que Claude dans Chrome, Gemini dans Chrome, Perplexity Comet, ChatGPT Atlas et...",
-      "excerpt": "Zenity Labs a démontré lors de la conférence Black Hat USA 2026 que Claude dans Chrome, Gemini dans Chrome, Perplexity Comet, ChatGPT Atlas et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Plus que quelques jours pour sauvegarder vos images DALL·E sur ChatGPT: voici comment faire",
-      "link": "https://www.lebigdata.fr/plus-que-quelques-jours-pour-sauvegarder-vos-images-dall%C2%B7e-sur-chatgpt-voici-comment-faire",
-      "url": "https://www.lebigdata.fr/plus-que-quelques-jours-pour-sauvegarder-vos-images-dall%C2%B7e-sur-chatgpt-voici-comment-faire",
-      "publishedAt": "2026-08-07T19:26:30.000Z",
-      "date": "2026-08-07T19:26:30.000Z",
-      "description": "... notes de version de ChatGPT ainsi que dans sa documentation officielle. OpenAI is retiring the official DALL·E GPT in ChatGPT on August 30. From...",
-      "excerpt": "... notes de version de ChatGPT ainsi que dans sa documentation officielle. OpenAI is retiring the official DALL·E GPT in ChatGPT on August 30. From...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
