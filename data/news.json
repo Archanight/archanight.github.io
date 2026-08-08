@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T00:55:13.808Z",
+  "generatedAt": "2026-08-08T06:34:40.381Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI signale un risque potentiel critique en matière de cybersécurité dans son prochain...",
+      "link": "https://www.boursorama.com/bourse/actualites-amp/openai-signale-un-risque-potentiel-critique-en-matiere-de-cybersecurite-dans-son-prochain-modele-et-renforce-ses-controles-8ce52fbe81ff433564396827b1577d96",
+      "url": "https://www.boursorama.com/bourse/actualites-amp/openai-signale-un-risque-potentiel-critique-en-matiere-de-cybersecurite-dans-son-prochain-modele-et-renforce-ses-controles-8ce52fbe81ff433564396827b1577d96",
+      "publishedAt": "2026-08-08T01:43:12.000Z",
+      "date": "2026-08-08T01:43:12.000Z",
+      "description": "OpenAI signale un risque potentiel critique en matière de cybersécurité dans son prochain modèle et renforce ses contrôles... ChatGPT. * En réponse à...",
+      "excerpt": "OpenAI signale un risque potentiel critique en matière de cybersécurité dans son prochain modèle et renforce ses contrôles... ChatGPT. * En réponse à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Plainte «pourrie jusqu'au trognon»: la bataille d'Apple et OpenAI sur les futurs appareils du...",
       "link": "https://www.lefigaro.fr/secteur/high-tech/plainte-pourrie-jusqu-au-trognon-la-bataille-d-apple-et-openai-sur-les-futurs-appareils-du-createur-de-chatgpt-s-envenime-20260807",
@@ -118,16 +128,6 @@
       "description": "... notes de version de ChatGPT ainsi que dans sa documentation officielle. OpenAI is retiring the official DALL·E GPT in ChatGPT on August 30. From...",
       "excerpt": "... notes de version de ChatGPT ainsi que dans sa documentation officielle. OpenAI is retiring the official DALL·E GPT in ChatGPT on August 30. From...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI et Jony Ive dévoilent un donut connecté: ChatGPT prend corps dans une enceinte à...",
-      "link": "https://www.journalduweb.org/openai-jony-ive-enceinte-donut-chatgpt-300-dollars/",
-      "url": "https://www.journalduweb.org/openai-jony-ive-enceinte-donut-chatgpt-300-dollars/",
-      "publishedAt": "2026-08-07T18:56:35.000Z",
-      "date": "2026-08-07T18:56:35.000Z",
-      "description": "OpenAI et Jony Ive dévoilent un donut connecté: ChatGPT prend corps dans une enceinte à 300 dollars... IA & Robotique Informatique & Cybersécurité Web...",
-      "excerpt": "OpenAI et Jony Ive dévoilent un donut connecté: ChatGPT prend corps dans une enceinte à 300 dollars... IA & Robotique Informatique & Cybersécurité Web...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
