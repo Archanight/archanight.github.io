@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T12:27:06.678Z",
+  "generatedAt": "2026-08-08T18:22:40.911Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT passe en illimité pour les gratuits: ce qu'il faut savoir sur Luna - Gagadget.com",
+      "link": "https://gagadget.com/fr/721313-chatgpt-passe-en-illimite-pour-les-gratuits-ce-quil-faut-savoir-sur-luna/",
+      "url": "https://gagadget.com/fr/721313-chatgpt-passe-en-illimite-pour-les-gratuits-ce-quil-faut-savoir-sur-luna/",
+      "publishedAt": "2026-08-08T16:19:25.000Z",
+      "date": "2026-08-08T16:19:25.000Z",
+      "description": "OpenAI a annoncé le 6 août 2026 la fin du quota de messages pour les utilisateurs gratuits de ChatGPT, selon Unite.AI... Cybersécurité · Espace et...",
+      "excerpt": "OpenAI a annoncé le 6 août 2026 la fin du quota de messages pour les utilisateurs gratuits de ChatGPT, selon Unite.AI... Cybersécurité · Espace et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI met en pause son IA Astra, jugée trop dangereuse en cybersécurité - Stéphane Larue",
+      "link": "https://stephanelarue.com/openai-met-en-pause-son-ia-astra-jugee-trop-dangereuse-en-cybersecurite/",
+      "url": "https://stephanelarue.com/openai-met-en-pause-son-ia-astra-jugee-trop-dangereuse-en-cybersecurite/",
+      "publishedAt": "2026-08-08T15:17:33.000Z",
+      "date": "2026-08-08T15:17:33.000Z",
+      "description": "En cause: des tests internes suggérant que l'IA pourrait, seule, identifier et exploiter des failles de cybersécurité sur des systèmes réels. L'...",
+      "excerpt": "En cause: des tests internes suggérant que l'IA pourrait, seule, identifier et exploiter des failles de cybersécurité sur des systèmes réels. L'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "J'ai testé Norton Antivirus sur mon PC, et il a détecté un cheval de Troie caché en 15 minutes",
+      "link": "https://www.zdnet.fr/guide-achat/jai-teste-norton-antivirus-sur-mon-pc-et-il-a-detecte-un-cheval-de-troie-cache-en-15-minutes-499388.htm",
+      "url": "https://www.zdnet.fr/guide-achat/jai-teste-norton-antivirus-sur-mon-pc-et-il-a-detecte-un-cheval-de-troie-cache-en-15-minutes-499388.htm",
+      "publishedAt": "2026-08-08T14:45:15.000Z",
+      "date": "2026-08-08T14:45:15.000Z",
+      "description": "Après des décennies dans le domaine de la cybersécurité, Norton reste l'une des suites antivirus les plus performantes grâce à ses puissants...",
+      "excerpt": "Après des décennies dans le domaine de la cybersécurité, Norton reste l'une des suites antivirus les plus performantes grâce à ses puissants...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI dévoile les coulisses étonnantes de la première cyberattaque orchestrée par ChatGPT",
       "link": "https://www.01net.com/actualites/openai-devoile-coulisses-etonnantes-premiere-cyberattaque-orchestree-ia.html",
@@ -50,6 +80,26 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "OpenAI prépare une enceinte IA en forme de donut, vendue 300 à 400 dollars - Stéphane Larue",
+      "link": "https://stephanelarue.com/openai-enceinte-ia-forme-de-donut-vendue-300-a-400-dollars/",
+      "url": "https://stephanelarue.com/openai-enceinte-ia-forme-de-donut-vendue-300-a-400-dollars/",
+      "publishedAt": "2026-08-08T06:41:41.000Z",
+      "date": "2026-08-08T06:41:41.000Z",
+      "description": "OpenAI le présente en interne comme la version physique de ChatGPT à la maison, un an après avoir dévoilé... Alerte · Cybersécurité · 1 min.",
+      "excerpt": "OpenAI le présente en interne comme la version physique de ChatGPT à la maison, un an après avoir dévoilé... Alerte · Cybersécurité · 1 min.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "AI Act: votre entreprise est-elle concernée? Faites le test",
+      "link": "https://www.lebigdata.fr/ai-act-votre-entreprise-est-elle-concernee-faites-le-test",
+      "url": "https://www.lebigdata.fr/ai-act-votre-entreprise-est-elle-concernee-faites-le-test",
+      "publishedAt": "2026-08-08T03:54:32.000Z",
+      "date": "2026-08-08T03:54:32.000Z",
+      "description": "Une PME peut utiliser ChatGPT sans devenir fournisseur d'un modèle d'IA à usage général.... cybersécurité. Le déployeur doit respecter les...",
+      "excerpt": "Une PME peut utiliser ChatGPT sans devenir fournisseur d'un modèle d'IA à usage général.... cybersécurité. Le déployeur doit respecter les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "OpenAI signale un risque potentiel critique en matière de cybersécurité dans son prochain...",
       "link": "https://www.boursorama.com/bourse/actualites-amp/openai-signale-un-risque-potentiel-critique-en-matiere-de-cybersecurite-dans-son-prochain-modele-et-renforce-ses-controles-8ce52fbe81ff433564396827b1577d96",
       "url": "https://www.boursorama.com/bourse/actualites-amp/openai-signale-un-risque-potentiel-critique-en-matiere-de-cybersecurite-dans-son-prochain-modele-et-renforce-ses-controles-8ce52fbe81ff433564396827b1577d96",
@@ -77,56 +127,6 @@
       "date": "2026-08-07T21:47:02.000Z",
       "description": "Keeping up with artificial intelligence was almost easy. There was ChatGPT. A few competitors. A new model every couple of months.",
       "excerpt": "Keeping up with artificial intelligence was almost easy. There was ChatGPT. A few competitors. A new model every couple of months.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Après ChatGPT et Claude, Kimi K3 s'échappe à son tour de son environnement de test",
-      "link": "https://www.lebigdata.fr/apres-chatgpt-et-claude-kimi-k3-sechappe-a-son-tour-de-son-environnement-de-test",
-      "url": "https://www.lebigdata.fr/apres-chatgpt-et-claude-kimi-k3-sechappe-a-son-tour-de-son-environnement-de-test",
-      "publishedAt": "2026-08-07T21:38:05.000Z",
-      "date": "2026-08-07T21:38:05.000Z",
-      "description": "Après ChatGPT et Claude, Kimi K3 s'échappe à son tour de son... Au contraire, ils soulignent aussi son potentiel dans la cybersécurité.",
-      "excerpt": "Après ChatGPT et Claude, Kimi K3 s'échappe à son tour de son... Au contraire, ils soulignent aussi son potentiel dans la cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Plus que quelques jours pour sauvegarder vos images DALL·E sur ChatGPT - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/5976325-plus-que-quelques-jours-pour-sauvegarder-vos-images-dall-e-sur-chatgpt-voici-comment-faire",
-      "url": "https://www.lefilia.fr/article/5976325-plus-que-quelques-jours-pour-sauvegarder-vos-images-dall-e-sur-chatgpt-voici-comment-faire",
-      "publishedAt": "2026-08-07T21:29:47.000Z",
-      "date": "2026-08-07T21:29:47.000Z",
-      "description": "Cette information a été confirmée par l'entreprise dans les notes de version de ChatGPT ainsi que dans sa documentation officielle.... GPT-5...",
-      "excerpt": "Cette information a été confirmée par l'entreprise dans les notes de version de ChatGPT ainsi que dans sa documentation officielle.... GPT-5...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Vous pouvez désormais utiliser plus de 70 outils Adobe sans quitter ChatGPT: voici comment faire",
-      "link": "https://www.zdnet.fr/actualites/vous-pouvez-desormais-utiliser-plus-de-70-outils-adobe-sans-quitter-chatgpt-voici-comment-faire-499431.htm",
-      "url": "https://www.zdnet.fr/actualites/vous-pouvez-desormais-utiliser-plus-de-70-outils-adobe-sans-quitter-chatgpt-voici-comment-faire-499431.htm",
-      "publishedAt": "2026-08-07T21:12:57.000Z",
-      "date": "2026-08-07T21:12:57.000Z",
-      "description": "Le nouveau plugin d'Adobe fonctionne à la fois dans Work et Codex, et est disponible dès aujourd'hui dans ChatGPT.",
-      "excerpt": "Le nouveau plugin d'Adobe fonctionne à la fois dans Work et Codex, et est disponible dès aujourd'hui dans ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "L'arrivée de la publicité ChatGPT au Brésil alors qu'OpenAI ajoute des outils de conversion...",
-      "link": "https://www.unite.ai/fr/chatgpt-ads-arrive-in-brazil-as-openai-adds-conversion-tools-and-carousels/",
-      "url": "https://www.unite.ai/fr/chatgpt-ads-arrive-in-brazil-as-openai-adds-conversion-tools-and-carousels/",
-      "publishedAt": "2026-08-07T21:03:34.000Z",
-      "date": "2026-08-07T21:03:34.000Z",
-      "description": "L'arrivée de la publicité ChatGPT au Brésil alors... OpenAI déclare que le modèle Astra à venir peut franchir le seuil critique de cybersécurité.",
-      "excerpt": "L'arrivée de la publicité ChatGPT au Brésil alors... OpenAI déclare que le modèle Astra à venir peut franchir le seuil critique de cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Informatique pratique: misez sur ZimaOS plutôt que sur Google Drive pour garantir la...",
-      "link": "https://www.zdnet.fr/pratique/informatique-pratique-misez-sur-zimaos-plutot-que-sur-google-drive-pour-garantir-la-confidentialite-de-vos-fichiers-et-une-sauvegarde-locale-499399.htm",
-      "url": "https://www.zdnet.fr/pratique/informatique-pratique-misez-sur-zimaos-plutot-que-sur-google-drive-pour-garantir-la-confidentialite-de-vos-fichiers-et-une-sauvegarde-locale-499399.htm",
-      "publishedAt": "2026-08-07T20:51:54.000Z",
-      "date": "2026-08-07T20:51:54.000Z",
-      "description": "... Vous pouvez...",
-      "excerpt": "... Vous pouvez...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
