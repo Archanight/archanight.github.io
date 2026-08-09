@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T06:38:21.943Z",
+  "generatedAt": "2026-08-09T12:29:11.655Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI suspend le développement de son nouveau modèle Astra en raison de problèmes...",
+      "link": "https://www3.nhk.or.jp/nhkworld/fr/news/20260809_01/",
+      "url": "https://www3.nhk.or.jp/nhkworld/fr/news/20260809_01/",
+      "publishedAt": "2026-08-09T09:20:12.000Z",
+      "date": "2026-08-09T09:20:12.000Z",
+      "description": "... cybersécurité. Le développeur américain de ChatGPT a déclaré que ses évaluations internes du modèle ont révélé « des progrès significatifs en...",
+      "excerpt": "... cybersécurité. Le développeur américain de ChatGPT a déclaré que ses évaluations internes du modèle ont révélé « des progrès significatifs en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI renforce ChatGPT avec l'acquisition de NextSlide - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-renforce-chatgpt-avec-l-acquisition-de-nextslide",
+      "url": "https://www.briefia.fr/article/openai-renforce-chatgpt-avec-l-acquisition-de-nextslide",
+      "publishedAt": "2026-08-09T04:12:05.000Z",
+      "date": "2026-08-09T04:12:05.000Z",
+      "description": "OpenAI a intégré la startup de présentation NextSlide, enrichissant ainsi ChatGPT. NextSlide transforme des prompts et documents en présentations…",
+      "excerpt": "OpenAI a intégré la startup de présentation NextSlide, enrichissant ainsi ChatGPT. NextSlide transforme des prompts et documents en présentations…",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI acquiert NextSlide, le startup de présentation IA - Unite.AI",
+      "link": "https://www.unite.ai/fr/openai-acquires-nextslide-the-ai-presentation-startup/",
+      "url": "https://www.unite.ai/fr/openai-acquires-nextslide-the-ai-presentation-startup/",
+      "publishedAt": "2026-08-09T01:10:56.000Z",
+      "date": "2026-08-09T01:10:56.000Z",
+      "description": "OpenAI a acquis NextSlide pour intégrer la génération de présentations dans ChatGPT. Voir plus.",
+      "excerpt": "OpenAI a acquis NextSlide pour intégrer la génération de présentations dans ChatGPT. Voir plus.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Levi's piraté par trois appels: l'ingénierie sociale suffit - Pasquale Pillitteri",
       "link": "https://pasqualepillitteri.it/fr/news/10244/levi-strauss-fuite-donnees-ingenierie-sociale",
@@ -97,36 +127,6 @@
       "date": "2026-08-08T17:32:59.000Z",
       "description": "OpenAI & ChatGPT 4 OpenAI & ChatGPT · Developpement Logiciel 1... cybersécurité, et la première fois qu'elle en tire un ralentissement déclaré...",
       "excerpt": "OpenAI & ChatGPT 4 OpenAI & ChatGPT · Developpement Logiciel 1... cybersécurité, et la première fois qu'elle en tire un ralentissement déclaré...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT passe en illimité pour les gratuits: ce qu'il faut savoir sur Luna - Gagadget.com",
-      "link": "https://gagadget.com/fr/721313-chatgpt-passe-en-illimite-pour-les-gratuits-ce-quil-faut-savoir-sur-luna/",
-      "url": "https://gagadget.com/fr/721313-chatgpt-passe-en-illimite-pour-les-gratuits-ce-quil-faut-savoir-sur-luna/",
-      "publishedAt": "2026-08-08T16:19:25.000Z",
-      "date": "2026-08-08T16:19:25.000Z",
-      "description": "OpenAI a annoncé le 6 août 2026 la fin du quota de messages pour les utilisateurs gratuits de ChatGPT, selon Unite.AI... Cybersécurité · Espace et...",
-      "excerpt": "OpenAI a annoncé le 6 août 2026 la fin du quota de messages pour les utilisateurs gratuits de ChatGPT, selon Unite.AI... Cybersécurité · Espace et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Une nouvelle étape et des échanges illimités pour la version gratuite de ChatGPT",
-      "link": "https://zamin.uz/fr/technologie/216902-une-nouvelle-etape-et-des-echanges-illimites-pour-la-version-gratuite-de-chatgpt.html",
-      "url": "https://zamin.uz/fr/technologie/216902-une-nouvelle-etape-et-des-echanges-illimites-pour-la-version-gratuite-de-chatgpt.html",
-      "publishedAt": "2026-08-08T16:18:01.000Z",
-      "date": "2026-08-08T16:18:01.000Z",
-      "description": "OpenAI, leader du marché de l'intelligence artificielle, a présenté une importante mise à jour de la plateforme ChatGPT. Selon… – Zamin.uz, 08.08...",
-      "excerpt": "OpenAI, leader du marché de l'intelligence artificielle, a présenté une importante mise à jour de la plateforme ChatGPT. Selon… – Zamin.uz, 08.08...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google a modifié le système de nommage des groupes de cybersécurité - Zamin.uz",
-      "link": "https://zamin.uz/fr/technologie/216900-google-a-modifie-le-systeme-de-nommage-des-groupes-de-cybersecurite.html",
-      "url": "https://zamin.uz/fr/technologie/216900-google-a-modifie-le-systeme-de-nommage-des-groupes-de-cybersecurite.html",
-      "publishedAt": "2026-08-08T16:18:01.000Z",
-      "date": "2026-08-08T16:18:01.000Z",
-      "description": "Depuis plus de dix ans, des noms conventionnels sont attribués aux différents groupes de hackers dans le domaine de la cybersécurité.",
-      "excerpt": "Depuis plus de dix ans, des noms conventionnels sont attribués aux différents groupes de hackers dans le domaine de la cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
