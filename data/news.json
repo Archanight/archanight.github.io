@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T18:22:40.911Z",
+  "generatedAt": "2026-08-09T00:58:25.027Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,76 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI ajoute de nombreuses nouvelles fonctionnalités à ChatGPT. - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/openai-bo-sung-nhieu-tinh-nang-moi-cho-chatgpt",
+      "url": "https://www.vietnam.vn/fr/openai-bo-sung-nhieu-tinh-nang-moi-cho-chatgpt",
+      "publishedAt": "2026-08-08T20:21:12.000Z",
+      "date": "2026-08-08T20:21:12.000Z",
+      "description": "OpenAI vient d'annoncer une série de nouvelles mises à jour pour son chatbot ChatGPT... cybersécurité, le traitement informatique et la conception. Ces...",
+      "excerpt": "OpenAI vient d'annoncer une série de nouvelles mises à jour pour son chatbot ChatGPT... cybersécurité, le traitement informatique et la conception. Ces...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI dévoile les coulisses étonnantes de la première cyberattaque orchestrée par ChatGPT",
+      "link": "https://www.01net.com/actualites/openai-devoile-coulisses-etonnantes-premiere-cyberattaque-orchestree-ia.html",
+      "url": "https://www.01net.com/actualites/openai-devoile-coulisses-etonnantes-premiere-cyberattaque-orchestree-ia.html",
+      "publishedAt": "2026-08-08T19:19:02.000Z",
+      "date": "2026-08-08T19:19:02.000Z",
+      "description": "OpenAI revient sur les circonstances de la toute première cyberattaque orchestrée en toute autonomie par ChatGPT... ANNOUNCEMENT: Don't miss “The '...",
+      "excerpt": "OpenAI revient sur les circonstances de la toute première cyberattaque orchestrée en toute autonomie par ChatGPT... ANNOUNCEMENT: Don't miss “The '...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Update micro-ondes ChatGPT: r/lemauvaiscoin - Reddit",
+      "link": "https://www.reddit.com/r/lemauvaiscoin/comments/1vj04nz/update_microondes_chatgpt/",
+      "url": "https://www.reddit.com/r/lemauvaiscoin/comments/1vj04nz/update_microondes_chatgpt/",
+      "publishedAt": "2026-08-08T19:16:07.000Z",
+      "date": "2026-08-08T19:16:07.000Z",
+      "description": "Update micro-ondes ChatGPT. Electronique.",
+      "excerpt": "Update micro-ondes ChatGPT. Electronique.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Les utilisateurs gratuits de ChatGPT bénéficient d'un nombre illimité de conversations, mais...",
+      "link": "https://www.notebookcheck.biz/Les-utilisateurs-gratuits-de-ChatGPT-beneficient-d-x27-un-nombre-illimite-de-conversations-mais-pas-avant-la-semaine-prochaine.1363522.0.html",
+      "url": "https://www.notebookcheck.biz/Les-utilisateurs-gratuits-de-ChatGPT-beneficient-d-x27-un-nombre-illimite-de-conversations-mais-pas-avant-la-semaine-prochaine.1363522.0.html",
+      "publishedAt": "2026-08-08T18:31:40.000Z",
+      "date": "2026-08-08T18:31:40.000Z",
+      "description": "OpenAI supprime la limite de messages pour ChatGPT Free et Go et fait de GPT-5.6 Luna le modèle par défaut. Vérifiez toutefois dès aujourd'hui...",
+      "excerpt": "OpenAI supprime la limite de messages pour ChatGPT Free et Go et fait de GPT-5.6 Luna le modèle par défaut. Vérifiez toutefois dès aujourd'hui...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI dévoile les coulisses étonnantes de la première cyberattaque orchestrée par ChatGPT",
+      "link": "https://www.lefilia.fr/article/5981107-openai-devoile-les-coulisses-etonnantes-de-la-premiere-cyberattaque-orchestree-par-chatgpt",
+      "url": "https://www.lefilia.fr/article/5981107-openai-devoile-les-coulisses-etonnantes-de-la-premiere-cyberattaque-orchestree-par-chatgpt",
+      "publishedAt": "2026-08-08T18:29:36.000Z",
+      "date": "2026-08-08T18:29:36.000Z",
+      "description": "Cette démarche s'inscrit dans une tendance plus large du secteur, où la cybersécurité... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple...",
+      "excerpt": "Cette démarche s'inscrit dans une tendance plus large du secteur, où la cybersécurité... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "xAI's Imagine 2.0 se classe juste derrière GPT-Image-2 d'OpenAI dans les benchmarks Arena",
+      "link": "https://www.lefilia.fr/article/5981544-xai-s-imagine-2-0-se-classe-juste-derriere-gpt-image-2-d-openai-dans-les-benchmarks-arena",
+      "url": "https://www.lefilia.fr/article/5981544-xai-s-imagine-2-0-se-classe-juste-derriere-gpt-image-2-d-openai-dans-les-benchmarks-arena",
+      "publishedAt": "2026-08-08T18:29:34.000Z",
+      "date": "2026-08-08T18:29:34.000Z",
+      "description": "... ChatGPT sur tous les fronts, texte comme image. Face à OpenAI, Google ou Midjourney, la compétition s'intensifie autour des outils d'édition...",
+      "excerpt": "... ChatGPT sur tous les fronts, texte comme image. Face à OpenAI, Google ou Midjourney, la compétition s'intensifie autour des outils d'édition...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI ralentit Astra: les capacités cyber critiques ne sont pas exclues - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/10132/openai-astra-capacites-cyber-critiques",
+      "url": "https://pasqualepillitteri.it/fr/news/10132/openai-astra-capacites-cyber-critiques",
+      "publishedAt": "2026-08-08T17:32:59.000Z",
+      "date": "2026-08-08T17:32:59.000Z",
+      "description": "OpenAI & ChatGPT 4 OpenAI & ChatGPT · Developpement Logiciel 1... cybersécurité, et la première fois qu'elle en tire un ralentissement déclaré...",
+      "excerpt": "OpenAI & ChatGPT 4 OpenAI & ChatGPT · Developpement Logiciel 1... cybersécurité, et la première fois qu'elle en tire un ralentissement déclaré...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT passe en illimité pour les gratuits: ce qu'il faut savoir sur Luna - Gagadget.com",
       "link": "https://gagadget.com/fr/721313-chatgpt-passe-en-illimite-pour-les-gratuits-ce-quil-faut-savoir-sur-luna/",
@@ -40,94 +110,24 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "OpenAI dévoile les coulisses étonnantes de la première cyberattaque orchestrée par ChatGPT",
-      "link": "https://www.01net.com/actualites/openai-devoile-coulisses-etonnantes-premiere-cyberattaque-orchestree-ia.html",
-      "url": "https://www.01net.com/actualites/openai-devoile-coulisses-etonnantes-premiere-cyberattaque-orchestree-ia.html",
-      "publishedAt": "2026-08-08T10:19:02.000Z",
-      "date": "2026-08-08T10:19:02.000Z",
-      "description": "... ChatGPT bien décidé à tricher à son examen. Dans le cadre de Black Hat USA, une conférence dédiée à la cybersécurité à Las Vegas, des chercheurs d...",
-      "excerpt": "... ChatGPT bien décidé à tricher à son examen. Dans le cadre de Black Hat USA, une conférence dédiée à la cybersécurité à Las Vegas, des chercheurs d...",
+      "title": "Siri AI arrive cet automne: ce qu'il fait vraiment et pourquoi les iPhone français en sont privés",
+      "link": "https://pasqualepillitteri.it/fr/news/10188/siri-ai-automne-ios-27-blocage-ue",
+      "url": "https://pasqualepillitteri.it/fr/news/10188/siri-ai-automne-ios-27-blocage-ue",
+      "publishedAt": "2026-08-08T12:31:14.000Z",
+      "date": "2026-08-08T12:31:14.000Z",
+      "description": "Siri AI débarque cet automne avec iOS 27, mais pas sur les iPhone français à... OpenAI & ChatGPT 4 OpenAI & ChatGPT · Developpement Logiciel 2...",
+      "excerpt": "Siri AI débarque cet automne avec iOS 27, mais pas sur les iPhone français à... OpenAI & ChatGPT 4 OpenAI & ChatGPT · Developpement Logiciel 2...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "ChatGPT Atlas: OpenAI débranche son navigateur IA ce 9 août, dix mois à peine après son...",
-      "link": "https://www.journalduweb.org/chatgpt-atlas-openai-debranche-son-navigateur-ia/",
-      "url": "https://www.journalduweb.org/chatgpt-atlas-openai-debranche-son-navigateur-ia/",
-      "publishedAt": "2026-08-08T07:55:00.000Z",
-      "date": "2026-08-08T07:55:00.000Z",
-      "description": "ChatGPT Atlas: OpenAI débranche son navigateur IA ce 9 août, dix... Informatique & Cybersécurité Web & Internet · L'Enterprise Search: un...",
-      "excerpt": "ChatGPT Atlas: OpenAI débranche son navigateur IA ce 9 août, dix... Informatique & Cybersécurité Web & Internet · L'Enterprise Search: un...",
+      "title": "Codex et GPT-5.6 Sol Ultra transforment le jeu vidéo - Brief IA",
+      "link": "https://www.briefia.fr/article/codex-et-gpt-5-6-sol-ultra-transforment-le-jeu-video",
+      "url": "https://www.briefia.fr/article/codex-et-gpt-5-6-sol-ultra-transforment-le-jeu-video",
+      "publishedAt": "2026-08-08T10:07:28.000Z",
+      "date": "2026-08-08T10:07:28.000Z",
+      "description": "Le 7 août 2026 marque une étape importante dans le développement de jeux vidéo grâce à l'utilisation de technologies avancées comme Codex et GPT-5.6...",
+      "excerpt": "Le 7 août 2026 marque une étape importante dans le développement de jeux vidéo grâce à l'utilisation de technologies avancées comme Codex et GPT-5.6...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI annonce une nouvelle mise à jour, ajoutant de nombreuses fonctionnalités à... - Vietnam.vn",
-      "link": "https://www.vietnam.vn/fr/openai-cong-bo-cap-nhat-moi-bo-sung-nhieu-tinh-nang-cho-chatgpt-nguoi-dung-se-duoc-tang-quyen-truy-cap",
-      "url": "https://www.vietnam.vn/fr/openai-cong-bo-cap-nhat-moi-bo-sung-nhieu-tinh-nang-cho-chatgpt-nguoi-dung-se-duoc-tang-quyen-truy-cap",
-      "publishedAt": "2026-08-08T07:28:30.000Z",
-      "date": "2026-08-08T07:28:30.000Z",
-      "description": "... cybersécurité, le traitement informatique et la conception.... Tag: Dernière mise à jour d'OpenAI ChatGPT Mise à jour de ChatGPT OPENAIfonctionnalités de...",
-      "excerpt": "... cybersécurité, le traitement informatique et la conception.... Tag: Dernière mise à jour d'OpenAI ChatGPT Mise à jour de ChatGPT OPENAIfonctionnalités de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "2026, 6e édition, ChatGPT n°1 devant Gemini, Canva dans le trio de tête, ce classement IA...",
-      "link": "https://larevuetech.fr/2026-6e-edition-chatgpt-n1-devant-gemini-canva-dans-le-trio-de-tete-ce-classement-ia-surprend-la-concurrence-sur-mobile/",
-      "url": "https://larevuetech.fr/2026-6e-edition-chatgpt-n1-devant-gemini-canva-dans-le-trio-de-tete-ce-classement-ia-surprend-la-concurrence-sur-mobile/",
-      "publishedAt": "2026-08-08T07:16:44.000Z",
-      "date": "2026-08-08T07:16:44.000Z",
-      "description": "ChatGPT conserve la première place des outils d'IA générative les... Cybersécurité · Entreprises · Guide · High-Tech · Intelligence Artificielle...",
-      "excerpt": "ChatGPT conserve la première place des outils d'IA générative les... Cybersécurité · Entreprises · Guide · High-Tech · Intelligence Artificielle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI prépare une enceinte IA en forme de donut, vendue 300 à 400 dollars - Stéphane Larue",
-      "link": "https://stephanelarue.com/openai-enceinte-ia-forme-de-donut-vendue-300-a-400-dollars/",
-      "url": "https://stephanelarue.com/openai-enceinte-ia-forme-de-donut-vendue-300-a-400-dollars/",
-      "publishedAt": "2026-08-08T06:41:41.000Z",
-      "date": "2026-08-08T06:41:41.000Z",
-      "description": "OpenAI le présente en interne comme la version physique de ChatGPT à la maison, un an après avoir dévoilé... Alerte · Cybersécurité · 1 min.",
-      "excerpt": "OpenAI le présente en interne comme la version physique de ChatGPT à la maison, un an après avoir dévoilé... Alerte · Cybersécurité · 1 min.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "AI Act: votre entreprise est-elle concernée? Faites le test",
-      "link": "https://www.lebigdata.fr/ai-act-votre-entreprise-est-elle-concernee-faites-le-test",
-      "url": "https://www.lebigdata.fr/ai-act-votre-entreprise-est-elle-concernee-faites-le-test",
-      "publishedAt": "2026-08-08T03:54:32.000Z",
-      "date": "2026-08-08T03:54:32.000Z",
-      "description": "Une PME peut utiliser ChatGPT sans devenir fournisseur d'un modèle d'IA à usage général.... cybersécurité. Le déployeur doit respecter les...",
-      "excerpt": "Une PME peut utiliser ChatGPT sans devenir fournisseur d'un modèle d'IA à usage général.... cybersécurité. Le déployeur doit respecter les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI signale un risque potentiel critique en matière de cybersécurité dans son prochain...",
-      "link": "https://www.boursorama.com/bourse/actualites-amp/openai-signale-un-risque-potentiel-critique-en-matiere-de-cybersecurite-dans-son-prochain-modele-et-renforce-ses-controles-8ce52fbe81ff433564396827b1577d96",
-      "url": "https://www.boursorama.com/bourse/actualites-amp/openai-signale-un-risque-potentiel-critique-en-matiere-de-cybersecurite-dans-son-prochain-modele-et-renforce-ses-controles-8ce52fbe81ff433564396827b1577d96",
-      "publishedAt": "2026-08-08T01:43:12.000Z",
-      "date": "2026-08-08T01:43:12.000Z",
-      "description": "OpenAI signale un risque potentiel critique en matière de cybersécurité dans son prochain modèle et renforce ses contrôles... ChatGPT. * En réponse à...",
-      "excerpt": "OpenAI signale un risque potentiel critique en matière de cybersécurité dans son prochain modèle et renforce ses contrôles... ChatGPT. * En réponse à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Plainte «pourrie jusqu'au trognon»: la bataille d'Apple et OpenAI sur les futurs appareils du...",
-      "link": "https://www.lefigaro.fr/secteur/high-tech/plainte-pourrie-jusqu-au-trognon-la-bataille-d-apple-et-openai-sur-les-futurs-appareils-du-createur-de-chatgpt-s-envenime-20260807",
-      "url": "https://www.lefigaro.fr/secteur/high-tech/plainte-pourrie-jusqu-au-trognon-la-bataille-d-apple-et-openai-sur-les-futurs-appareils-du-createur-de-chatgpt-s-envenime-20260807",
-      "publishedAt": "2026-08-08T00:10:41.000Z",
-      "date": "2026-08-08T00:10:41.000Z",
-      "description": "... ChatGPT, qui a rétorqué en demandant l'abandon de poursuites «sans... L'incident de « cybersécurité » a «entraîné un accès non autorisé à...",
-      "excerpt": "... ChatGPT, qui a rétorqué en demandant l'abandon de poursuites «sans... L'incident de « cybersécurité » a «entraîné un accès non autorisé à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Today Isn't Just Another AI Release Day... It Might Be the Moment the AI Race Changed Forever.",
-      "link": "https://lnt.ma/today-isnt-just-another-ai-release-day-it-might-be-the-moment-the-ai-race-changed-forever/",
-      "url": "https://lnt.ma/today-isnt-just-another-ai-release-day-it-might-be-the-moment-the-ai-race-changed-forever/",
-      "publishedAt": "2026-08-07T21:47:02.000Z",
-      "date": "2026-08-07T21:47:02.000Z",
-      "description": "Keeping up with artificial intelligence was almost easy. There was ChatGPT. A few competitors. A new model every couple of months.",
-      "excerpt": "Keeping up with artificial intelligence was almost easy. There was ChatGPT. A few competitors. A new model every couple of months.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
