@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T00:58:25.027Z",
+  "generatedAt": "2026-08-09T06:38:21.943Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Levi's piraté par trois appels: l'ingénierie sociale suffit - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/10244/levi-strauss-fuite-donnees-ingenierie-sociale",
+      "url": "https://pasqualepillitteri.it/fr/news/10244/levi-strauss-fuite-donnees-ingenierie-sociale",
+      "publishedAt": "2026-08-08T23:45:31.000Z",
+      "date": "2026-08-08T23:45:31.000Z",
+      "description": "OpenAI & ChatGPT 4 OpenAI & ChatGPT · Developpement Logiciel 1... cybersécurité jugés matériels. Levi's écrit avoir détecté l'accès non...",
+      "excerpt": "OpenAI & ChatGPT 4 OpenAI & ChatGPT · Developpement Logiciel 1... cybersécurité jugés matériels. Levi's écrit avoir détecté l'accès non...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude Fable 5, GPT-5.5, Gemini 3.1 Pro: pourquoi ce trio s'impose en juin 2026",
+      "link": "https://tech-insider.org/fr/claude-fable-5-gpt-5-5-gemini-3-1-pro-pourquoi-ce-trio-s-impose-en-jui/",
+      "url": "https://tech-insider.org/fr/claude-fable-5-gpt-5-5-gemini-3-1-pro-pourquoi-ce-trio-s-impose-en-jui/",
+      "publishedAt": "2026-08-08T23:38:52.000Z",
+      "date": "2026-08-08T23:38:52.000Z",
+      "description": "Anthropic indique que ces classificateurs se déclenchent dans moins de 5 % des sessions en moyenne, sur trois domaines: la cybersécurité... chatgpt...",
+      "excerpt": "Anthropic indique que ces classificateurs se déclenchent dans moins de 5 % des sessions en moyenne, sur trois domaines: la cybersécurité... chatgpt...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI ajoute de nombreuses nouvelles fonctionnalités à ChatGPT. - Vietnam.vn",
       "link": "https://www.vietnam.vn/fr/openai-bo-sung-nhieu-tinh-nang-moi-cho-chatgpt",
@@ -90,43 +110,23 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "OpenAI met en pause son IA Astra, jugée trop dangereuse en cybersécurité - Stéphane Larue",
-      "link": "https://stephanelarue.com/openai-met-en-pause-son-ia-astra-jugee-trop-dangereuse-en-cybersecurite/",
-      "url": "https://stephanelarue.com/openai-met-en-pause-son-ia-astra-jugee-trop-dangereuse-en-cybersecurite/",
-      "publishedAt": "2026-08-08T15:17:33.000Z",
-      "date": "2026-08-08T15:17:33.000Z",
-      "description": "En cause: des tests internes suggérant que l'IA pourrait, seule, identifier et exploiter des failles de cybersécurité sur des systèmes réels. L'...",
-      "excerpt": "En cause: des tests internes suggérant que l'IA pourrait, seule, identifier et exploiter des failles de cybersécurité sur des systèmes réels. L'...",
+      "title": "Une nouvelle étape et des échanges illimités pour la version gratuite de ChatGPT",
+      "link": "https://zamin.uz/fr/technologie/216902-une-nouvelle-etape-et-des-echanges-illimites-pour-la-version-gratuite-de-chatgpt.html",
+      "url": "https://zamin.uz/fr/technologie/216902-une-nouvelle-etape-et-des-echanges-illimites-pour-la-version-gratuite-de-chatgpt.html",
+      "publishedAt": "2026-08-08T16:18:01.000Z",
+      "date": "2026-08-08T16:18:01.000Z",
+      "description": "OpenAI, leader du marché de l'intelligence artificielle, a présenté une importante mise à jour de la plateforme ChatGPT. Selon… – Zamin.uz, 08.08...",
+      "excerpt": "OpenAI, leader du marché de l'intelligence artificielle, a présenté une importante mise à jour de la plateforme ChatGPT. Selon… – Zamin.uz, 08.08...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "J'ai testé Norton Antivirus sur mon PC, et il a détecté un cheval de Troie caché en 15 minutes",
-      "link": "https://www.zdnet.fr/guide-achat/jai-teste-norton-antivirus-sur-mon-pc-et-il-a-detecte-un-cheval-de-troie-cache-en-15-minutes-499388.htm",
-      "url": "https://www.zdnet.fr/guide-achat/jai-teste-norton-antivirus-sur-mon-pc-et-il-a-detecte-un-cheval-de-troie-cache-en-15-minutes-499388.htm",
-      "publishedAt": "2026-08-08T14:45:15.000Z",
-      "date": "2026-08-08T14:45:15.000Z",
-      "description": "Après des décennies dans le domaine de la cybersécurité, Norton reste l'une des suites antivirus les plus performantes grâce à ses puissants...",
-      "excerpt": "Après des décennies dans le domaine de la cybersécurité, Norton reste l'une des suites antivirus les plus performantes grâce à ses puissants...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Siri AI arrive cet automne: ce qu'il fait vraiment et pourquoi les iPhone français en sont privés",
-      "link": "https://pasqualepillitteri.it/fr/news/10188/siri-ai-automne-ios-27-blocage-ue",
-      "url": "https://pasqualepillitteri.it/fr/news/10188/siri-ai-automne-ios-27-blocage-ue",
-      "publishedAt": "2026-08-08T12:31:14.000Z",
-      "date": "2026-08-08T12:31:14.000Z",
-      "description": "Siri AI débarque cet automne avec iOS 27, mais pas sur les iPhone français à... OpenAI & ChatGPT 4 OpenAI & ChatGPT · Developpement Logiciel 2...",
-      "excerpt": "Siri AI débarque cet automne avec iOS 27, mais pas sur les iPhone français à... OpenAI & ChatGPT 4 OpenAI & ChatGPT · Developpement Logiciel 2...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Codex et GPT-5.6 Sol Ultra transforment le jeu vidéo - Brief IA",
-      "link": "https://www.briefia.fr/article/codex-et-gpt-5-6-sol-ultra-transforment-le-jeu-video",
-      "url": "https://www.briefia.fr/article/codex-et-gpt-5-6-sol-ultra-transforment-le-jeu-video",
-      "publishedAt": "2026-08-08T10:07:28.000Z",
-      "date": "2026-08-08T10:07:28.000Z",
-      "description": "Le 7 août 2026 marque une étape importante dans le développement de jeux vidéo grâce à l'utilisation de technologies avancées comme Codex et GPT-5.6...",
-      "excerpt": "Le 7 août 2026 marque une étape importante dans le développement de jeux vidéo grâce à l'utilisation de technologies avancées comme Codex et GPT-5.6...",
+      "title": "Google a modifié le système de nommage des groupes de cybersécurité - Zamin.uz",
+      "link": "https://zamin.uz/fr/technologie/216900-google-a-modifie-le-systeme-de-nommage-des-groupes-de-cybersecurite.html",
+      "url": "https://zamin.uz/fr/technologie/216900-google-a-modifie-le-systeme-de-nommage-des-groupes-de-cybersecurite.html",
+      "publishedAt": "2026-08-08T16:18:01.000Z",
+      "date": "2026-08-08T16:18:01.000Z",
+      "description": "Depuis plus de dix ans, des noms conventionnels sont attribués aux différents groupes de hackers dans le domaine de la cybersécurité.",
+      "excerpt": "Depuis plus de dix ans, des noms conventionnels sont attribués aux différents groupes de hackers dans le domaine de la cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
