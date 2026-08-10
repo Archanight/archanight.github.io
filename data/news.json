@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T01:00:06.983Z",
+  "generatedAt": "2026-08-10T07:10:42.247Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Après les puces et les data centers, Nvidia viserait aussi l'électricité qui les alimente - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/apres-les-puces-et-les-data-centers-nvidia-viserait-aussi-lelectricite-qui-les-alimente-499495.htm",
+      "url": "https://www.zdnet.fr/actualites/apres-les-puces-et-les-data-centers-nvidia-viserait-aussi-lelectricite-qui-les-alimente-499495.htm",
+      "publishedAt": "2026-08-10T06:02:46.000Z",
+      "date": "2026-08-10T06:02:46.000Z",
+      "description": "Voici comment vous pouvez faire remarquer et rendre plus visible votre site Web par ChatGPT, Gemini et autres outils d'intelligence artificielle. Par...",
+      "excerpt": "Voici comment vous pouvez faire remarquer et rendre plus visible votre site Web par ChatGPT, Gemini et autres outils d'intelligence artificielle. Par...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Cloudflare lance Kitesurf, un navigateur pensé pour les agents IA - Stéphane Larue",
       "link": "https://stephanelarue.com/cloudflare-lance-kitesurf-un-navigateur-pense-pour-les-agents-ia/",
@@ -118,16 +128,6 @@
       "description": "Les tribunaux du travail au Royaume-Uni ont vu une hausse de 39 % des réclamations d'ici mars 2026. • L'utilisation de ChatGPT et Grok a contribué à l...",
       "excerpt": "Les tribunaux du travail au Royaume-Uni ont vu une hausse de 39 % des réclamations d'ici mars 2026. • L'utilisation de ChatGPT et Grok a contribué à l...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "BTCPay Server 2.4.2: la faille qui vide les nœuds Lightning - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/10300/btcpay-server-vulnerabilite-noeuds-lightning",
-      "url": "https://pasqualepillitteri.it/fr/news/10300/btcpay-server-vulnerabilite-noeuds-lightning",
-      "publishedAt": "2026-08-09T10:33:59.000Z",
-      "date": "2026-08-09T10:33:59.000Z",
-      "description": "OpenAI & ChatGPT 2 OpenAI & ChatGPT · Guides et Tutoriels 3 Guides et... Please update your BTCPayServer to 2.4.2 by going to Admin Dashboard...",
-      "excerpt": "OpenAI & ChatGPT 2 OpenAI & ChatGPT · Guides et Tutoriels 3 Guides et... Please update your BTCPayServer to 2.4.2 by going to Admin Dashboard...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
