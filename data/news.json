@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T18:25:10.359Z",
+  "generatedAt": "2026-08-10T01:00:06.983Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Cloudflare lance Kitesurf, un navigateur pensé pour les agents IA - Stéphane Larue",
+      "link": "https://stephanelarue.com/cloudflare-lance-kitesurf-un-navigateur-pense-pour-les-agents-ia/",
+      "url": "https://stephanelarue.com/cloudflare-lance-kitesurf-un-navigateur-pense-pour-les-agents-ia/",
+      "publishedAt": "2026-08-09T18:50:52.000Z",
+      "date": "2026-08-09T18:50:52.000Z",
+      "description": "Vers une nouvelle génération de navigateurs pour l'IA agentique. Kitesurf s'ajoute à une liste qui s'allonge. OpenAI a lancé son navigateur ChatGPT...",
+      "excerpt": "Vers une nouvelle génération de navigateurs pour l'IA agentique. Kitesurf s'ajoute à une liste qui s'allonge. OpenAI a lancé son navigateur ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "X met fin au partage des revenus publicitaires pour les créateurs - Stéphane Larue",
       "link": "https://stephanelarue.com/x-met-fin-au-partage-des-revenus-publicitaires-pour-les-createurs/",
@@ -100,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Google Deepmind: WeatherNext redéfinit la prévision cyclonique - Brief IA",
+      "link": "https://www.briefia.fr/article/google-deepmind-weathernext-redefinit-la-prevision-cyclonique",
+      "url": "https://www.briefia.fr/article/google-deepmind-weathernext-redefinit-la-prevision-cyclonique",
+      "publishedAt": "2026-08-09T13:10:19.000Z",
+      "date": "2026-08-09T13:10:19.000Z",
+      "description": "Les tribunaux du travail au Royaume-Uni ont vu une hausse de 39 % des réclamations d'ici mars 2026. • L'utilisation de ChatGPT et Grok a contribué à l...",
+      "excerpt": "Les tribunaux du travail au Royaume-Uni ont vu une hausse de 39 % des réclamations d'ici mars 2026. • L'utilisation de ChatGPT et Grok a contribué à l...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "BTCPay Server 2.4.2: la faille qui vide les nœuds Lightning - Pasquale Pillitteri",
       "link": "https://pasqualepillitteri.it/fr/news/10300/btcpay-server-vulnerabilite-noeuds-lightning",
       "url": "https://pasqualepillitteri.it/fr/news/10300/btcpay-server-vulnerabilite-noeuds-lightning",
@@ -108,26 +128,6 @@
       "description": "OpenAI & ChatGPT 2 OpenAI & ChatGPT · Guides et Tutoriels 3 Guides et... Please update your BTCPayServer to 2.4.2 by going to Admin Dashboard...",
       "excerpt": "OpenAI & ChatGPT 2 OpenAI & ChatGPT · Guides et Tutoriels 3 Guides et... Please update your BTCPayServer to 2.4.2 by going to Admin Dashboard...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI freine Astra suite à des inquiétudes en cybersécurité - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-freine-astra-suite-a-des-inquietudes-en-cybersecurite",
-      "url": "https://www.briefia.fr/article/openai-freine-astra-suite-a-des-inquietudes-en-cybersecurite",
-      "publishedAt": "2026-08-09T10:09:28.000Z",
-      "date": "2026-08-09T10:09:28.000Z",
-      "description": "... cybersécurité préoccupants... Une étude révèle que les lecteurs ne distinguent pas les textes de ChatGPT de ceux des humains.",
-      "excerpt": "... cybersécurité préoccupants... Une étude révèle que les lecteurs ne distinguent pas les textes de ChatGPT de ceux des humains.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI suspend le développement de son nouveau modèle Astra en raison de problèmes...",
-      "link": "https://www3.nhk.or.jp/nhkworld/fr/news/20260809_01/",
-      "url": "https://www3.nhk.or.jp/nhkworld/fr/news/20260809_01/",
-      "publishedAt": "2026-08-09T09:20:12.000Z",
-      "date": "2026-08-09T09:20:12.000Z",
-      "description": "... cybersécurité. Le développeur américain de ChatGPT a déclaré que ses évaluations internes du modèle ont révélé « des progrès significatifs en...",
-      "excerpt": "... cybersécurité. Le développeur américain de ChatGPT a déclaré que ses évaluations internes du modèle ont révélé « des progrès significatifs en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
