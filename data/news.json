@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T18:47:59.025Z",
+  "generatedAt": "2026-08-12T01:06:21.352Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "La fonctionnalité « Ask Maps » de Google vous permet d'en faire davantage de manière...",
+      "link": "https://fr.cnet.com/ai/5385/la-fonctionnalite-ask-maps-de-google-vous-permet-den-faire-davantage-de-maniere-conversationnelle-gr",
+      "url": "https://fr.cnet.com/ai/5385/la-fonctionnalite-ask-maps-de-google-vous-permet-den-faire-davantage-de-maniere-conversationnelle-gr",
+      "publishedAt": "2026-08-11T19:52:30.000Z",
+      "date": "2026-08-11T19:52:30.000Z",
+      "description": "Le montage photo et vidéo dans ChatGPT vient de bénéficier d'une mise à jour digne d'Adobe... OpenAI met son IA Astra en pause après un test de...",
+      "excerpt": "Le montage photo et vidéo dans ChatGPT vient de bénéficier d'une mise à jour digne d'Adobe... OpenAI met son IA Astra en pause après un test de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "But marinade » et mots de passe divulgués: ce que révèle le raisonnement caché de ChatGPT",
+      "link": "https://www.lefilia.fr/article/5998714-but-marinade-et-mots-de-passe-divulgues-ce-que-revele-le-raisonnement-cache-de-chatgpt",
+      "url": "https://www.lefilia.fr/article/5998714-but-marinade-et-mots-de-passe-divulgues-ce-que-revele-le-raisonnement-cache-de-chatgpt",
+      "publishedAt": "2026-08-11T19:47:02.000Z",
+      "date": "2026-08-11T19:47:02.000Z",
+      "description": "Des chercheurs en cybersécurité ont identifié une vulnérabilité dans... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
+      "excerpt": "Des chercheurs en cybersécurité ont identifié une vulnérabilité dans... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI étend Daybreak avec le nouveau modèle GPT-5.6-Cyber - Dataconomy FR",
+      "link": "https://fr.dataconomy.com/2026/08/11/openai-etend-daybreak-avec-le-nouveau-modele-gpt-5-6-cyber/",
+      "url": "https://fr.dataconomy.com/2026/08/11/openai-etend-daybreak-avec-le-nouveau-modele-gpt-5-6-cyber/",
+      "publishedAt": "2026-08-11T17:38:34.000Z",
+      "date": "2026-08-11T17:38:34.000Z",
+      "description": "Daybreak Red donne aux partenaires l'accès à des modèles de cybersécurité formés pour la recherche de vulnérabilités, les tests de sécurité et la...",
+      "excerpt": "Daybreak Red donne aux partenaires l'accès à des modèles de cybersécurité formés pour la recherche de vulnérabilités, les tests de sécurité et la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI lance GPT-5.6-Cyber, une IA capable de trouver les failles avant les pirates",
       "link": "https://stephanelarue.com/openai-lance-gpt-5-6-cyber-une-ia-capable-de-trouver-les-failles-avant-les-pirates/",
@@ -98,36 +128,6 @@
       "description": "OpenAI déploie GPT-Live, un nouveau mode vocal de ChatGPT plus fluide et moins raide. L'idée est simple, parler sans casser le rythme.",
       "excerpt": "OpenAI déploie GPT-Live, un nouveau mode vocal de ChatGPT plus fluide et moins raide. L'idée est simple, parler sans casser le rythme.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6-Cyber, Astra: OpenAI organise l'accès à des modèles cyber toujours plus sensibles",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/gpt-56-cyber-astra-openai-organise-lacces-a-des-modeles-cyber-toujours-plus-sensibles.YJ6NSN6JSBCQPDFPKOMO5Y3NYM.html",
-      "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/gpt-56-cyber-astra-openai-organise-lacces-a-des-modeles-cyber-toujours-plus-sensibles.YJ6NSN6JSBCQPDFPKOMO5Y3NYM.html",
-      "publishedAt": "2026-08-11T09:39:14.000Z",
-      "date": "2026-08-11T09:39:14.000Z",
-      "description": "OpenAI lance GPT-5.6-Cyber et élargit son programme Daybreak, qui réserve ses capacités de cybersécurité les plus avancées à des utilisateurs...",
-      "excerpt": "OpenAI lance GPT-5.6-Cyber et élargit son programme Daybreak, qui réserve ses capacités de cybersécurité les plus avancées à des utilisateurs...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6-Cyber: OpenAI dévoile son nouveau modèle dédié à la recherche de vulnérabilités - BDM",
-      "link": "https://www.blogdumoderateur.com/gpt-5-6-cyber-openai-nouveau-modele-recherche-vulnerabilites/",
-      "url": "https://www.blogdumoderateur.com/gpt-5-6-cyber-openai-nouveau-modele-recherche-vulnerabilites/",
-      "publishedAt": "2026-08-11T09:17:36.000Z",
-      "date": "2026-08-11T09:17:36.000Z",
-      "description": "OpenAI a dévoilé GPT-5.6-Cyber, un modèle entraîné pour les tâches de cybersécurité avancées, dans un blog post publié lundi 10 août 2026.... ChatGPT:...",
-      "excerpt": "OpenAI a dévoilé GPT-5.6-Cyber, un modèle entraîné pour les tâches de cybersécurité avancées, dans un blog post publié lundi 10 août 2026.... ChatGPT:...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La cinquième bêta de Xcode 27 fait enfin une place à GPT-5.6 et améliore son serveur MCP",
-      "link": "https://www.macg.co/logiciels/2026/08/la-cinquieme-beta-de-xcode-27-fait-enfin-une-place-gpt-56-et-ameliore-son-serveur-mcp-310299",
-      "url": "https://www.macg.co/logiciels/2026/08/la-cinquieme-beta-de-xcode-27-fait-enfin-une-place-gpt-56-et-ameliore-son-serveur-mcp-310299",
-      "publishedAt": "2026-08-11T09:06:56.000Z",
-      "date": "2026-08-11T09:06:56.000Z",
-      "description": "C'est la solution la plus logique, d'autant qu'elle était déjà en place pour Claude d'Anthropic. On ne sait pas pourquoi ChatGPT était traité...",
-      "excerpt": "C'est la solution la plus logique, d'autant qu'elle était déjà en place pour Claude d'Anthropic. On ne sait pas pourquoi ChatGPT était traité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
