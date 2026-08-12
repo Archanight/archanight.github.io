@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T07:08:30.640Z",
+  "generatedAt": "2026-08-12T12:44:07.958Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,14 +10,74 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Gemini franchit le milliard d'utilisateurs, au prix d'une IA imposée partout sur Android",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/gemini-franchit-le-milliard-d-utilisateurs-au-prix-d-une-ia-imposee-partout-sur-android-n260303.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/gemini-franchit-le-milliard-d-utilisateurs-au-prix-d-une-ia-imposee-partout-sur-android-n260303.html",
+      "publishedAt": "2026-08-12T11:03:05.000Z",
+      "date": "2026-08-12T11:03:05.000Z",
+      "description": "Sundar Pichai, PDG de Google, l'a annoncé et précise qu'il s'agit du quatorzième produit de son entreprise à franchir cette barre. ChatGPT garde la...",
+      "excerpt": "Sundar Pichai, PDG de Google, l'a annoncé et précise qu'il s'agit du quatorzième produit de son entreprise à franchir cette barre. ChatGPT garde la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Gemini franchit le milliard d'utilisateurs mensuels et talonne ChatGPT - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/gemini-franchit-le-milliard-dutilisateurs-mensuels-et-talonne-chatgpt-499727.htm",
+      "url": "https://www.zdnet.fr/actualites/gemini-franchit-le-milliard-dutilisateurs-mensuels-et-talonne-chatgpt-499727.htm",
+      "publishedAt": "2026-08-12T11:02:43.000Z",
+      "date": "2026-08-12T11:02:43.000Z",
+      "description": "Le nombre d'utilisateurs actifs quotidiens a, quant à lui, triplé au cours de la dernière année. OpenAI avait annoncé en juin dernier que ChatGPT...",
+      "excerpt": "Le nombre d'utilisateurs actifs quotidiens a, quant à lui, triplé au cours de la dernière année. OpenAI avait annoncé en juin dernier que ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Google Gemini franchit le milliard d'utilisateurs mensuels et talonne ChatGPT dans la...",
+      "link": "https://www.journalduweb.org/google-gemini-franchit-le-milliard-dutilisateurs-mensuels-et-talonne-chatgpt-dans-la-course-aux-assistants-ia/",
+      "url": "https://www.journalduweb.org/google-gemini-franchit-le-milliard-dutilisateurs-mensuels-et-talonne-chatgpt-dans-la-course-aux-assistants-ia/",
+      "publishedAt": "2026-08-12T10:44:30.000Z",
+      "date": "2026-08-12T10:44:30.000Z",
+      "description": "ChatGPT a atteint ce même palier deux mois plus tôt, et la rivalité entre Google et OpenAI ressemble de plus en plus à un sprint permanent où chaque...",
+      "excerpt": "ChatGPT a atteint ce même palier deux mois plus tôt, et la rivalité entre Google et OpenAI ressemble de plus en plus à un sprint permanent où chaque...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "L'IA Google dans le Search portée devant l'Autorité de la concurrence - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/lia-google-dans-le-search-portee-devant-lautorite-de-la-concurrence-499731.htm",
+      "url": "https://www.zdnet.fr/actualites/lia-google-dans-le-search-portee-devant-lautorite-de-la-concurrence-499731.htm",
+      "publishedAt": "2026-08-12T10:32:04.000Z",
+      "date": "2026-08-12T10:32:04.000Z",
+      "description": "La version préliminaire de ChatGPT pour Linux intégre ChatGPT, ChatGPT Work et Codex, avec une prise en charge officielle d'Ubuntu, Debian et Fedora.",
+      "excerpt": "La version préliminaire de ChatGPT pour Linux intégre ChatGPT, ChatGPT Work et Codex, avec une prise en charge officielle d'Ubuntu, Debian et Fedora.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Après Windows et macOS, ChatGPT arrive enfin sur Linux - ZDNET",
       "link": "https://www.zdnet.fr/actualites/apres-windows-et-macos-chatgpt-arrive-enfin-sur-linux-499725.htm",
       "url": "https://www.zdnet.fr/actualites/apres-windows-et-macos-chatgpt-arrive-enfin-sur-linux-499725.htm",
-      "publishedAt": "2026-08-12T06:01:34.000Z",
-      "date": "2026-08-12T06:01:34.000Z",
-      "description": "La version préliminaire de ChatGPT pour Linux intégre ChatGPT, ChatGPT... Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification.",
-      "excerpt": "La version préliminaire de ChatGPT pour Linux intégre ChatGPT, ChatGPT... Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "publishedAt": "2026-08-12T10:31:34.000Z",
+      "date": "2026-08-12T10:31:34.000Z",
+      "description": "La version préliminaire de ChatGPT pour Linux intégre ChatGPT, ChatGPT Work et Codex, avec une prise en charge officielle d'Ubuntu, Debian et...",
+      "excerpt": "La version préliminaire de ChatGPT pour Linux intégre ChatGPT, ChatGPT Work et Codex, avec une prise en charge officielle d'Ubuntu, Debian et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Gemini: Google dépasse le milliard d'utilisateurs face à ChatGPT - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/378085/gemini-milliard-utilisateurs-google-chatgpt/",
+      "url": "https://www.blog-nouvelles-technologies.fr/378085/gemini-milliard-utilisateurs-google-chatgpt/",
+      "publishedAt": "2026-08-12T07:21:19.000Z",
+      "date": "2026-08-12T07:21:19.000Z",
+      "description": "C'est officiel! Gemini franchit le milliard d'utilisateurs mensuels et talonne ChatGPT grâce à Android. Découvrez les détails de cette course à...",
+      "excerpt": "C'est officiel! Gemini franchit le milliard d'utilisateurs mensuels et talonne ChatGPT grâce à Android. Découvrez les détails de cette course à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT arrive officiellement sur Linux avec une application native d'OpenAI - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/378071/chatgpt-application-linux-openai/",
+      "url": "https://www.blog-nouvelles-technologies.fr/378071/chatgpt-application-linux-openai/",
+      "publishedAt": "2026-08-12T07:02:19.000Z",
+      "date": "2026-08-12T07:02:19.000Z",
+      "description": "C'est fait! OpenAI lance l'application native ChatGPT et Codex pour Linux. Découvrez les distributions compatibles et les nouveautés.",
+      "excerpt": "C'est fait! OpenAI lance l'application native ChatGPT et Codex pour Linux. Découvrez les distributions compatibles et les nouveautés.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Saber dément avoir remplacé les scénaristes de Rideshare Stimulator par ChatGPT",
@@ -67,66 +127,6 @@
       "date": "2026-08-12T04:47:30.000Z",
       "description": "Elle donne accès à ChatGPT, ChatGPT Work et Codex. Et pour info... Thématiques. IA Data Cloud Cybersécurité Robotique IoT. Business. FinTech...",
       "excerpt": "Elle donne accès à ChatGPT, ChatGPT Work et Codex. Et pour info... Thématiques. IA Data Cloud Cybersécurité Robotique IoT. Business. FinTech...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le rédacteur en chef de « Rideshare Stimulator » a été remplacé par ChatGPT, tout comme...",
-      "link": "https://www.notebookcheck.biz/Le-redacteur-en-chef-de-Rideshare-Stimulator-a-ete-remplace-par-ChatGPT-tout-comme-un-autre-element-cle.1366107.0.html",
-      "url": "https://www.notebookcheck.biz/Le-redacteur-en-chef-de-Rideshare-Stimulator-a-ete-remplace-par-ChatGPT-tout-comme-un-autre-element-cle.1366107.0.html",
-      "publishedAt": "2026-08-12T02:09:19.000Z",
-      "date": "2026-08-12T02:09:19.000Z",
-      "description": "Sur Bluesky, Stella Sacco, scénariste de jeux vidéo et ancienne employée de Saber Interactive, a révélé qu'elle avait été remplacée par ChatGPT à mi-...",
-      "excerpt": "Sur Bluesky, Stella Sacco, scénariste de jeux vidéo et ancienne employée de Saber Interactive, a révélé qu'elle avait été remplacée par ChatGPT à mi-...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Green Street lance son serveur MCP, optimisé par GreenStreetAI™, qui relie directement les...",
-      "link": "https://www.prnewswire.com/news-releases/green-street-lance-son-serveur-mcp-optimise-par-greenstreetai-qui-relie-directement-les-renseignements-du-secteur-immobilier-commercial-aux-instances-dentreprise-de-claude-chatgpt-gemini-et-dautres-plateformes-dia-302849011.html",
-      "url": "https://www.prnewswire.com/news-releases/green-street-lance-son-serveur-mcp-optimise-par-greenstreetai-qui-relie-directement-les-renseignements-du-secteur-immobilier-commercial-aux-instances-dentreprise-de-claude-chatgpt-gemini-et-dautres-plateformes-dia-302849011.html",
-      "publishedAt": "2026-08-12T00:47:45.000Z",
-      "date": "2026-08-12T00:47:45.000Z",
-      "description": "... ChatGPT et Gemini. La prise en charge d'autres plateformes est prévue... more press release views with. Request a Demo. ×. Modal title. Also...",
-      "excerpt": "... ChatGPT et Gemini. La prise en charge d'autres plateformes est prévue... more press release views with. Request a Demo. ×. Modal title. Also...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Adobe Catalog Agent: l'IA révolutionne le shopping - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/377888/adobe-catalog-agent-e-commerce-ia/",
-      "url": "https://www.blog-nouvelles-technologies.fr/377888/adobe-catalog-agent-e-commerce-ia/",
-      "publishedAt": "2026-08-11T20:52:36.000Z",
-      "date": "2026-08-11T20:52:36.000Z",
-      "description": "Adobe Commerce lance Catalog Agent pour rendre les produits visibles dans ChatGPT, Gemini et Claude · Adobe prépare les catalogues produits à l'ère des...",
-      "excerpt": "Adobe Commerce lance Catalog Agent pour rendre les produits visibles dans ChatGPT, Gemini et Claude · Adobe prépare les catalogues produits à l'ère des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "La fonctionnalité « Ask Maps » de Google vous permet d'en faire davantage de manière...",
-      "link": "https://fr.cnet.com/ai/5385/la-fonctionnalite-ask-maps-de-google-vous-permet-den-faire-davantage-de-maniere-conversationnelle-gr",
-      "url": "https://fr.cnet.com/ai/5385/la-fonctionnalite-ask-maps-de-google-vous-permet-den-faire-davantage-de-maniere-conversationnelle-gr",
-      "publishedAt": "2026-08-11T19:52:30.000Z",
-      "date": "2026-08-11T19:52:30.000Z",
-      "description": "Le montage photo et vidéo dans ChatGPT vient de bénéficier d'une mise à jour digne d'Adobe... OpenAI met son IA Astra en pause après un test de...",
-      "excerpt": "Le montage photo et vidéo dans ChatGPT vient de bénéficier d'une mise à jour digne d'Adobe... OpenAI met son IA Astra en pause après un test de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "But marinade » et mots de passe divulgués: ce que révèle le raisonnement caché de ChatGPT",
-      "link": "https://www.lefilia.fr/article/5998714-but-marinade-et-mots-de-passe-divulgues-ce-que-revele-le-raisonnement-cache-de-chatgpt",
-      "url": "https://www.lefilia.fr/article/5998714-but-marinade-et-mots-de-passe-divulgues-ce-que-revele-le-raisonnement-cache-de-chatgpt",
-      "publishedAt": "2026-08-11T19:47:02.000Z",
-      "date": "2026-08-11T19:47:02.000Z",
-      "description": "Des chercheurs en cybersécurité ont identifié une vulnérabilité dans... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
-      "excerpt": "Des chercheurs en cybersécurité ont identifié une vulnérabilité dans... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI étend Daybreak avec le nouveau modèle GPT-5.6-Cyber - Dataconomy FR",
-      "link": "https://fr.dataconomy.com/2026/08/11/openai-etend-daybreak-avec-le-nouveau-modele-gpt-5-6-cyber/",
-      "url": "https://fr.dataconomy.com/2026/08/11/openai-etend-daybreak-avec-le-nouveau-modele-gpt-5-6-cyber/",
-      "publishedAt": "2026-08-11T17:38:34.000Z",
-      "date": "2026-08-11T17:38:34.000Z",
-      "description": "Daybreak Red donne aux partenaires l'accès à des modèles de cybersécurité formés pour la recherche de vulnérabilités, les tests de sécurité et la...",
-      "excerpt": "Daybreak Red donne aux partenaires l'accès à des modèles de cybersécurité formés pour la recherche de vulnérabilités, les tests de sécurité et la...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
