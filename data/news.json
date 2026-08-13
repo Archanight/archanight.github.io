@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T01:08:21.207Z",
+  "generatedAt": "2026-08-13T07:12:34.238Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Pourquoi Washington veut contrôler les modèles d'IA avant leur sortie - Le Point",
+      "link": "https://www.lepoint.fr/high-tech-internet/pourquoi-washington-veut-controler-les-modeles-dia-avant-leur-sortie-CXTLMNL2IFH4FFMNXIR4TQ5BOI/",
+      "url": "https://www.lepoint.fr/high-tech-internet/pourquoi-washington-veut-controler-les-modeles-dia-avant-leur-sortie-CXTLMNL2IFH4FFMNXIR4TQ5BOI/",
+      "publishedAt": "2026-08-13T05:06:33.000Z",
+      "date": "2026-08-13T05:06:33.000Z",
+      "description": "La Maison-Blanche a négocié début août avec OpenAI ( ChatGPT ), Anthropic (Claude), Google (Gemini) ou Meta (Facebook) et obtenu un droit de regard...",
+      "excerpt": "La Maison-Blanche a négocié début août avec OpenAI ( ChatGPT ), Anthropic (Claude), Google (Gemini) ou Meta (Facebook) et obtenu un droit de regard...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google Pixel 11 / 11 Pro / 11 Pro XL / 11 Pro Fold: les smartphones embarquent encore...",
+      "link": "https://fr.cnet.com/google/5404/google-pixel-11-11-pro-11-pro-xl-11-pro-fold-les-smartphones-embarquent-encore-plus-dia-dans-un-ecri",
+      "url": "https://fr.cnet.com/google/5404/google-pixel-11-11-pro-11-pro-xl-11-pro-fold-les-smartphones-embarquent-encore-plus-dia-dans-un-ecri",
+      "publishedAt": "2026-08-13T02:02:46.000Z",
+      "date": "2026-08-13T02:02:46.000Z",
+      "description": "09Le montage photo et vidéo dans ChatGPT vient de bénéficier d'une mise à jour digne d'Adobe... Ce SoC (System on Chip) apporte naturellement des...",
+      "excerpt": "09Le montage photo et vidéo dans ChatGPT vient de bénéficier d'une mise à jour digne d'Adobe... Ce SoC (System on Chip) apporte naturellement des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Gemini de Google en recul face à ChatGPT et Claude - Brief IA",
       "link": "https://www.briefia.fr/article/gemini-de-google-en-recul-face-a-chatgpt-et-claude",
@@ -107,26 +127,6 @@
       "date": "2026-08-12T14:29:59.000Z",
       "description": "OpenAI vient de mettre en ligne une version preview de son application de bureau ChatGPT pour Linux... Top Cybersécurité. Meilleur VPN · VPN gratuit...",
       "excerpt": "OpenAI vient de mettre en ligne une version preview de son application de bureau ChatGPT pour Linux... Top Cybersécurité. Meilleur VPN · VPN gratuit...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance une IA de cybersécurité réservée à un cercle restreint d'utilisateurs",
-      "link": "https://www.ictjournal.ch/news/2026-08-12/openai-lance-une-ia-de-cybersecurite-reservee-a-un-cercle-restreint-dutilisateurs",
-      "url": "https://www.ictjournal.ch/news/2026-08-12/openai-lance-une-ia-de-cybersecurite-reservee-a-un-cercle-restreint-dutilisateurs",
-      "publishedAt": "2026-08-12T14:27:27.000Z",
-      "date": "2026-08-12T14:27:27.000Z",
-      "description": "OpenAI a développé «GPT 5.6 Cyber», un nouveau modèle d'IA dédié à la cybersécurité. L'entreprise à l'origine de ChatGPT le met à disposition d'un...",
-      "excerpt": "OpenAI a développé «GPT 5.6 Cyber», un nouveau modèle d'IA dédié à la cybersécurité. L'entreprise à l'origine de ChatGPT le met à disposition d'un...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6-Cyber: quand la cyberdéfense doit, elle aussi, passer à la vitesse machine",
-      "link": "https://www.itforbusiness.fr/gpt-5-6-cyber-quand-la-cyberdefense-doit-elle-aussi-passer-a-la-vitesse-machine-106307",
-      "url": "https://www.itforbusiness.fr/gpt-5-6-cyber-quand-la-cyberdefense-doit-elle-aussi-passer-a-la-vitesse-machine-106307",
-      "publishedAt": "2026-08-12T14:01:00.000Z",
-      "date": "2026-08-12T14:01:00.000Z",
-      "description": "L'arrivée est particulièrement significative pour les développeurs, administrateurs systèmes, DevOps et professionnels de la cybersécurité, Linux...",
-      "excerpt": "L'arrivée est particulièrement significative pour les développeurs, administrateurs systèmes, DevOps et professionnels de la cybersécurité, Linux...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
