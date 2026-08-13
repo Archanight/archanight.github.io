@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T07:12:34.238Z",
+  "generatedAt": "2026-08-13T12:46:00.361Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI ouvre enfin ChatGPT aux utilisateurs Linux - Begeek",
+      "link": "https://www.begeek.fr/openai-ouvre-enfin-chatgpt-aux-utilisateurs-linux-438519",
+      "url": "https://www.begeek.fr/openai-ouvre-enfin-chatgpt-aux-utilisateurs-linux-438519",
+      "publishedAt": "2026-08-13T10:09:16.000Z",
+      "date": "2026-08-13T10:09:16.000Z",
+      "description": "ChatGPT arrive... OpenAI étend son offre de cybersécurité Daybreak avec deux niveaux et un nouveau modèle réservé aux clients de confiance.",
+      "excerpt": "ChatGPT arrive... OpenAI étend son offre de cybersécurité Daybreak avec deux niveaux et un nouveau modèle réservé aux clients de confiance.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Grok Bot peut désormais travailler à votre place pendant que vous dormez - CNET France",
+      "link": "https://fr.cnet.com/chatbot/5436/grok-bot-peut-desormais-travailler-a-votre-place-pendant-que-vous-dormez",
+      "url": "https://fr.cnet.com/chatbot/5436/grok-bot-peut-desormais-travailler-a-votre-place-pendant-que-vous-dormez",
+      "publishedAt": "2026-08-13T09:53:46.000Z",
+      "date": "2026-08-13T09:53:46.000Z",
+      "description": "OpenAI met son IA Astra en pause après un test de cybersécurité inquiétant · ChatGPT gratuit devient plus puissant: OpenAI prépare un gros changement.",
+      "excerpt": "OpenAI met son IA Astra en pause après un test de cybersécurité inquiétant · ChatGPT gratuit devient plus puissant: OpenAI prépare un gros changement.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Apple négocierait avec des médias un paiement à l'usage pour entraîner Siri AI - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/apple-negocierait-avec-des-medias-un-paiement-a-lusage-pour-entrainer-siri-ai-499813.htm",
+      "url": "https://www.zdnet.fr/actualites/apple-negocierait-avec-des-medias-un-paiement-a-lusage-pour-entrainer-siri-ai-499813.htm",
+      "publishedAt": "2026-08-13T09:03:36.000Z",
+      "date": "2026-08-13T09:03:36.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux... La version préliminaire de ChatGPT pour Linux intégre ChatGPT,...",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux... La version préliminaire de ChatGPT pour Linux intégre ChatGPT,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Connecté sur le Wi-Fi à l'hôtel? Vous n'êtes très probablement pas en sécurité!",
+      "link": "https://www.journaldugeek.com/2026/08/13/connecte-sur-le-wi-fi-a-lhotel-vous-netes-tres-probablement-pas-en-securite/",
+      "url": "https://www.journaldugeek.com/2026/08/13/connecte-sur-le-wi-fi-a-lhotel-vous-netes-tres-probablement-pas-en-securite/",
+      "publishedAt": "2026-08-13T07:33:02.000Z",
+      "date": "2026-08-13T07:33:02.000Z",
+      "description": "Chatgpt Image 11 Août 2026, 15 10 34 © ChatGPT - IA. Longtemps on a cru... cybersécurité HackingHôtelphishingprotection des donnéesréseauvoyageWi-Fi.",
+      "excerpt": "Chatgpt Image 11 Août 2026, 15 10 34 © ChatGPT - IA. Longtemps on a cru... cybersécurité HackingHôtelphishingprotection des donnéesréseauvoyageWi-Fi.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Pourquoi Washington veut contrôler les modèles d'IA avant leur sortie - Le Point",
       "link": "https://www.lepoint.fr/high-tech-internet/pourquoi-washington-veut-controler-les-modeles-dia-avant-leur-sortie-CXTLMNL2IFH4FFMNXIR4TQ5BOI/",
@@ -88,46 +128,6 @@
       "description": "ChatGPT domine largement ce nouveau marché avec environ 60 % des... Les notes de version restent particulièrement succinctes et évoquent simplement des...",
       "excerpt": "ChatGPT domine largement ce nouveau marché avec environ 60 % des... Les notes de version restent particulièrement succinctes et évoquent simplement des...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT a sauvé ce chien du cancer: la suite est encore plus folle - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/chatgpt-a-sauve-ce-chien-du-cancer-la-suite-est-encore-plus-folle",
-      "url": "https://www.lebigdata.fr/chatgpt-a-sauve-ce-chien-du-cancer-la-suite-est-encore-plus-folle",
-      "publishedAt": "2026-08-12T16:15:32.000Z",
-      "date": "2026-08-12T16:15:32.000Z",
-      "description": "ChatGPT a sauvé ce chien du cancer: la suite est encore plus folle... IA Data Cloud Cybersécurité Robotique IoT. Business. FinTech & Blockchain...",
-      "excerpt": "ChatGPT a sauvé ce chien du cancer: la suite est encore plus folle... IA Data Cloud Cybersécurité Robotique IoT. Business. FinTech & Blockchain...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'utilisation de Linux sur les ordinateurs de bureau a bondi à 22 %, selon les données de Cloudflare",
-      "link": "https://www.zdnet.fr/actualites/lutilisation-de-linux-sur-les-ordinateurs-de-bureau-a-bondi-a-22-selon-les-donnees-de-cloudflare-499735.htm",
-      "url": "https://www.zdnet.fr/actualites/lutilisation-de-linux-sur-les-ordinateurs-de-bureau-a-bondi-a-22-selon-les-donnees-de-cloudflare-499735.htm",
-      "publishedAt": "2026-08-12T14:58:59.000Z",
-      "date": "2026-08-12T14:58:59.000Z",
-      "description": "... administration système, pour laquelle Linux est particulièrement adapté.... La version préliminaire de ChatGPT pour Linux intégre ChatGPT, ChatGPT...",
-      "excerpt": "... administration système, pour laquelle Linux est particulièrement adapté.... La version préliminaire de ChatGPT pour Linux intégre ChatGPT, ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ça y est, Gemini vient de passer le cap du milliard d'utilisateurs - Clubic",
-      "link": "https://www.clubic.com/actualite-625015-gemini-passe-le-cap-du-milliard-d-utilisateurs.html",
-      "url": "https://www.clubic.com/actualite-625015-gemini-passe-le-cap-du-milliard-d-utilisateurs.html",
-      "publishedAt": "2026-08-12T14:38:16.000Z",
-      "date": "2026-08-12T14:38:16.000Z",
-      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT, Copilot, Gemini: le milliard d'utilisateurs ne recouvre pas...",
-      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... ChatGPT, Copilot, Gemini: le milliard d'utilisateurs ne recouvre pas...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: vous pouvez désormais télécharger l'app native sur Linux - Clubic",
-      "link": "https://www.clubic.com/actualite-625042-l-app-native-chatgpt-s-invite-sur-linux.html",
-      "url": "https://www.clubic.com/actualite-625042-l-app-native-chatgpt-s-invite-sur-linux.html",
-      "publishedAt": "2026-08-12T14:29:59.000Z",
-      "date": "2026-08-12T14:29:59.000Z",
-      "description": "OpenAI vient de mettre en ligne une version preview de son application de bureau ChatGPT pour Linux... Top Cybersécurité. Meilleur VPN · VPN gratuit...",
-      "excerpt": "OpenAI vient de mettre en ligne une version preview de son application de bureau ChatGPT pour Linux... Top Cybersécurité. Meilleur VPN · VPN gratuit...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
