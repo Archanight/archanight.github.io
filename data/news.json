@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T18:50:14.523Z",
+  "generatedAt": "2026-08-14T01:06:23.517Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "IBM va former des milliers de consultants sur OpenAI - Brief IA",
+      "link": "https://www.briefia.fr/article/ibm-va-former-des-milliers-de-consultants-sur-openai",
+      "url": "https://www.briefia.fr/article/ibm-va-former-des-milliers-de-consultants-sur-openai",
+      "publishedAt": "2026-08-13T22:34:03.000Z",
+      "date": "2026-08-13T22:34:03.000Z",
+      "description": "... ChatGPT Work seront intégrés à IBM Consulting Advantage et à la cybersécurité. Sauvegarder. Partager. ⚡. En bref. 1IBM annonce un partenariat avec...",
+      "excerpt": "... ChatGPT Work seront intégrés à IBM Consulting Advantage et à la cybersécurité. Sauvegarder. Partager. ⚡. En bref. 1IBM annonce un partenariat avec...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT reçoit des améliorations en août: GPT-5.6 apporte à tous la robustesse et la sécurité",
       "link": "https://www.mixvale.com.br/2026/08/13/chatgpt-recoit-des-ameliorations-en-aout-gpt-5-6-apporte-a-tous-la-robustesse-et-la-securite-fr/",
@@ -80,6 +90,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Sur Dealabs, Claude devance ChatGPT et Gemini - ITchannel",
+      "link": "https://itchannel.info/articles/210657/sur-dealabs-claude-devance-chatgpt-et-gemini.html",
+      "url": "https://itchannel.info/articles/210657/sur-dealabs-claude-devance-chatgpt-et-gemini.html",
+      "publishedAt": "2026-08-13T15:15:04.000Z",
+      "date": "2026-08-13T15:15:04.000Z",
+      "description": "... ChatGPT ou Gemini. Facebook · Twitter · Google + · Linkedin. Transférer l... Cybersécurité: le « traumatisme vicariant », ce fléau silencieux qui...",
+      "excerpt": "... ChatGPT ou Gemini. Facebook · Twitter · Google + · Linkedin. Transférer l... Cybersécurité: le « traumatisme vicariant », ce fléau silencieux qui...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Toutes les barrières éthiques de ChatGPT sont en train de sauter - Journal du Geek",
       "link": "https://www.journaldugeek.com/2026/08/13/toutes-les-barrieres-ethiques-de-chatgpt-sont-en-train-de-sauter/",
       "url": "https://www.journaldugeek.com/2026/08/13/toutes-les-barrieres-ethiques-de-chatgpt-sont-en-train-de-sauter/",
@@ -107,26 +127,6 @@
       "date": "2026-08-13T12:50:41.000Z",
       "description": "... ChatGPT Work; et une pratique de cybersécurité élargie basée sur le programme Daybreak d'OpenAI et le service de sécurité autonome d'IBM. IBM met...",
       "excerpt": "... ChatGPT Work; et une pratique de cybersécurité élargie basée sur le programme Daybreak d'OpenAI et le service de sécurité autonome d'IBM. IBM met...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IBM s'allie à OpenAI pour déployer l'IA dans les entreprises - 13/08/2026 à 14:10",
-      "link": "https://www.boursorama.com/bourse/actualites-amp/ibm-s-allie-a-openai-pour-deployer-l-ia-dans-les-entreprises-f5d9b217516b568b1a28da0fb3cf2592",
-      "url": "https://www.boursorama.com/bourse/actualites-amp/ibm-s-allie-a-openai-pour-deployer-l-ia-dans-les-entreprises-f5d9b217516b568b1a28da0fb3cf2592",
-      "publishedAt": "2026-08-13T12:39:13.000Z",
-      "date": "2026-08-13T12:39:13.000Z",
-      "description": "Le partenariat intègre des modèles de pointe d'OpenAI comme GPT-5.6 et des produits comme Codex et ChatGPT... cybersécurité afin d'aider les...",
-      "excerpt": "Le partenariat intègre des modèles de pointe d'OpenAI comme GPT-5.6 et des produits comme Codex et ChatGPT... cybersécurité afin d'aider les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Unit 42 exécute GPT-5.6 Daybreak chez ses clients et relève 36 % d'expositions hors catalogue CVE",
-      "link": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/unit-42-execute-gpt-5-6-daybreak-chez-ses-clients-et-releve-36-dexpositions-hors-catalogue-cve/",
-      "url": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/unit-42-execute-gpt-5-6-daybreak-chez-ses-clients-et-releve-36-dexpositions-hors-catalogue-cve/",
-      "publishedAt": "2026-08-13T11:16:45.000Z",
-      "date": "2026-08-13T11:16:45.000Z",
-      "description": "Palo Alto Networks fait travailler depuis le 12 août des modèles d'intelligence artificielle spécialisés en cybersécurité à l'intérieur des...",
-      "excerpt": "Palo Alto Networks fait travailler depuis le 12 août des modèles d'intelligence artificielle spécialisés en cybersécurité à l'intérieur des...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
