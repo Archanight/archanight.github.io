@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T01:06:23.517Z",
+  "generatedAt": "2026-08-14T07:09:35.656Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI: Ultrafast en préversion, GPT-5.6 Sol 14× plus rapide | Brief IA",
+      "link": "https://www.briefia.fr/article/openai-ultrafast-en-preversion-gpt-5-6-sol-14-plus-rapide",
+      "url": "https://www.briefia.fr/article/openai-ultrafast-en-preversion-gpt-5-6-sol-14-plus-rapide",
+      "publishedAt": "2026-08-14T01:13:01.000Z",
+      "date": "2026-08-14T01:13:01.000Z",
+      "description": "OpenAI a lancé GPT-5.4-Cyber, une version de ChatGPT dédiée à la cybersécurité, ciblant les experts du domaine. • Ce modèle peut analyser des...",
+      "excerpt": "OpenAI a lancé GPT-5.4-Cyber, une version de ChatGPT dédiée à la cybersécurité, ciblant les experts du domaine. • Ce modèle peut analyser des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "IBM va former des milliers de consultants sur OpenAI - Brief IA",
       "link": "https://www.briefia.fr/article/ibm-va-former-des-milliers-de-consultants-sur-openai",
@@ -117,16 +127,6 @@
       "date": "2026-08-13T14:21:06.000Z",
       "description": "L'ambition d'Apple est ici très lisible, et elle vise directement le terrain occupé par ChatGPT ou Gemini sur smartphone. Offrir un Siri...",
       "excerpt": "L'ambition d'Apple est ici très lisible, et elle vise directement le terrain occupé par ChatGPT ou Gemini sur smartphone. Offrir un Siri...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IBM Intègre les Modèles OpenAI dans sa Plateforme de Livraison de Conseil - Unite.AI",
-      "link": "https://www.unite.ai/fr/ibm-embeds-openai-models-into-its-consulting-delivery-platform/",
-      "url": "https://www.unite.ai/fr/ibm-embeds-openai-models-into-its-consulting-delivery-platform/",
-      "publishedAt": "2026-08-13T12:50:41.000Z",
-      "date": "2026-08-13T12:50:41.000Z",
-      "description": "... ChatGPT Work; et une pratique de cybersécurité élargie basée sur le programme Daybreak d'OpenAI et le service de sécurité autonome d'IBM. IBM met...",
-      "excerpt": "... ChatGPT Work; et une pratique de cybersécurité élargie basée sur le programme Daybreak d'OpenAI et le service de sécurité autonome d'IBM. IBM met...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
