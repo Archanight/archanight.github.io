@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T12:18:10.745Z",
+  "generatedAt": "2026-08-15T18:14:00.847Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,96 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "IBM veut démocratiser les outils d'OpenAI auprès des entreprises - 24matins",
+      "link": "https://www.24matins.fr/ibm-veut-democratiser-les-outils-dopenai-aupres-des-entreprises-1418957",
+      "url": "https://www.24matins.fr/ibm-veut-democratiser-les-outils-dopenai-aupres-des-entreprises-1418957",
+      "publishedAt": "2026-08-15T18:06:54.000Z",
+      "date": "2026-08-15T18:06:54.000Z",
+      "description": "En bref · La guerre des grands comptes passe par les cabinets de conseil · IBM va former massivement ses équipes · GPT-5.6, Codex et ChatGPT Work dans la...",
+      "excerpt": "En bref · La guerre des grands comptes passe par les cabinets de conseil · IBM va former massivement ses équipes · GPT-5.6, Codex et ChatGPT Work dans la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Tourisme: l'IA peut-elle sauver les voyageurs de la foule des recommandations TikTok et...",
+      "link": "https://www.challenges.fr/monde/tourisme-lia-peut-elle-sauver-les-voyageurs-de-la-foule-des-recommandations-tiktok-et-instagram_645234",
+      "url": "https://www.challenges.fr/monde/tourisme-lia-peut-elle-sauver-les-voyageurs-de-la-foule-des-recommandations-tiktok-et-instagram_645234",
+      "publishedAt": "2026-08-15T15:03:17.000Z",
+      "date": "2026-08-15T15:03:17.000Z",
+      "description": "Une étude de l'université de Westminster a révélé que ChatGPT affichait « une préférence... Les Assises de la cybersécurité · PRNewswire · Speak...",
+      "excerpt": "Une étude de l'université de Westminster a révélé que ChatGPT affichait « une préférence... Les Assises de la cybersécurité · PRNewswire · Speak...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT affichera des publicités en France dès la fin du mois - 01net.com",
+      "link": "https://www.01net.com/actualites/chatgpt-affichera-des-publicites-en-france-des-la-fin-du-mois.html",
+      "url": "https://www.01net.com/actualites/chatgpt-affichera-des-publicites-en-france-des-la-fin-du-mois.html",
+      "publishedAt": "2026-08-15T13:43:05.000Z",
+      "date": "2026-08-15T13:43:05.000Z",
+      "description": "ChatGPT pub mail Les utilisateurs des formules gratuites et Go de ChatGPT... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
+      "excerpt": "ChatGPT pub mail Les utilisateurs des formules gratuites et Go de ChatGPT... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Washington veut armer des entreprises privées pour riposter aux pirates informatiques",
+      "link": "https://android-mt.ouest-france.fr/news/washington-veut-armer-des-entreprises-privees-pour-riposter-aux-pirates-informatiques/211046/",
+      "url": "https://android-mt.ouest-france.fr/news/washington-veut-armer-des-entreprises-privees-pour-riposter-aux-pirates-informatiques/211046/",
+      "publishedAt": "2026-08-15T12:19:41.000Z",
+      "date": "2026-08-15T12:19:41.000Z",
+      "description": "L'administration Trump prépare un dispositif inédit autorisant des sociétés de cybersécurité à mener des opérations offensives contre des groupes...",
+      "excerpt": "L'administration Trump prépare un dispositif inédit autorisant des sociétés de cybersécurité à mener des opérations offensives contre des groupes...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Grok 4.6 vs Claude Fable 5 et GPT-5.6 Sol: xAI enfin adapté à vos usages pros?",
+      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/grok-4-6-vs-claude-fable-5-et-gpt-5-6-sol-usages-pros-91387/",
+      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/grok-4-6-vs-claude-fable-5-et-gpt-5-6-sol-usages-pros-91387/",
+      "publishedAt": "2026-08-15T12:17:10.000Z",
+      "date": "2026-08-15T12:17:10.000Z",
+      "description": "Imaginez la puissance de Claude, ChatGPT et Gemini... xAI a publié Grok 4.6 le 12 août 2026, avec un indice d'intelligence au niveau de GPT-5...",
+      "excerpt": "Imaginez la puissance de Claude, ChatGPT et Gemini... xAI a publié Grok 4.6 le 12 août 2026, avec un indice d'intelligence au niveau de GPT-5...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Plus de 45 000 fausses cyberattaques de ChatGPT - Journal Lao Động",
+      "link": "https://fr.laodong.vn/cong-nghe/hon-45000-vu-tan-cong-mang-gia-mao-chatgpt-1751302.ldo",
+      "url": "https://fr.laodong.vn/cong-nghe/hon-45000-vu-tan-cong-mang-gia-mao-chatgpt-1751302.ldo",
+      "publishedAt": "2026-08-15T12:12:46.000Z",
+      "date": "2026-08-15T12:12:46.000Z",
+      "description": "... ChatGPT et Gemini sont en augmentation, posant de nombreux risques de cybersécurité préoccupants. Dans un contexte où l'IA se développe à une...",
+      "excerpt": "... ChatGPT et Gemini sont en augmentation, posant de nombreux risques de cybersécurité préoccupants. Dans un contexte où l'IA se développe à une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI informe les investisseurs que les revenus de l'entreprise ont dépassé ceux de son...",
+      "link": "https://www.unite.ai/fr/openai-tells-investors-enterprise-revenue-has-overtaken-its-chatgpt-consumer-business/",
+      "url": "https://www.unite.ai/fr/openai-tells-investors-enterprise-revenue-has-overtaken-its-chatgpt-consumer-business/",
+      "publishedAt": "2026-08-15T10:17:40.000Z",
+      "date": "2026-08-15T10:17:40.000Z",
+      "description": "Le chiffre d'affaires des entreprises a dépassé celui des consommateurs de ChatGPT deux…... cybersécurité par Google. Il occupait précédemment...",
+      "excerpt": "Le chiffre d'affaires des entreprises a dépassé celui des consommateurs de ChatGPT deux…... cybersécurité par Google. Il occupait précédemment...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Réserver une table au restaurant avec ChatGPT: c'est déjà possible - iPhon.fr",
+      "link": "https://www.iphon.fr/post/reserver-une-table-au-restaurant-avec-chatgpt-cest-deja-possible",
+      "url": "https://www.iphon.fr/post/reserver-une-table-au-restaurant-avec-chatgpt-cest-deja-possible",
+      "publishedAt": "2026-08-15T08:35:52.000Z",
+      "date": "2026-08-15T08:35:52.000Z",
+      "description": "Des services comme le réseau social X ont essayé de s'étendre ces derniers mois mais ces développements n'ont jamais connu de grand succès. ChatGPT...",
+      "excerpt": "Des services comme le réseau social X ont essayé de s'étendre ces derniers mois mais ces développements n'ont jamais connu de grand succès. ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Injection de Prompt au Tribunal: le Texte Blanc Invisible Censé Convaincre l'IA",
+      "link": "https://pasqualepillitteri.it/fr/news/11266/injection-prompt-tribunal-texte-blanc-invisible",
+      "url": "https://pasqualepillitteri.it/fr/news/11266/injection-prompt-tribunal-texte-blanc-invisible",
+      "publishedAt": "2026-08-15T08:21:28.000Z",
+      "date": "2026-08-15T08:21:28.000Z",
+      "description": "OpenAI & ChatGPT 2 OpenAI & ChatGPT · Grok & SpaceXAI 3 Grok & SpaceXAI... cybersécurité injection de prompt intelligence artificielle tribunal...",
+      "excerpt": "OpenAI & ChatGPT 2 OpenAI & ChatGPT · Grok & SpaceXAI 3 Grok & SpaceXAI... cybersécurité injection de prompt intelligence artificielle tribunal...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "CVE -2026-73847 Emlog AI Assistant ai.php execute_tool cross site request forgery",
       "link": "https://vuldb.com/fr/vuln/390063",
@@ -37,96 +127,6 @@
       "date": "2026-08-14T19:23:52.000Z",
       "description": "... ChatGPT. OpenAI pourra s'appuyer... Les modèles GPT-5.6, Codex et ChatGPT Work seront intégrés à IBM Consulting Advantage et à la cybersécurité...",
       "excerpt": "... ChatGPT. OpenAI pourra s'appuyer... Les modèles GPT-5.6, Codex et ChatGPT Work seront intégrés à IBM Consulting Advantage et à la cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI: l'activité sur Mac stockée en fichiers Markdown non chiffrés - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-l-activite-sur-mac-stockee-en-fichiers-markdown-non-chiffres",
-      "url": "https://www.briefia.fr/article/openai-l-activite-sur-mac-stockee-en-fichiers-markdown-non-chiffres",
-      "publishedAt": "2026-08-14T19:21:14.000Z",
-      "date": "2026-08-14T19:21:14.000Z",
-      "description": "Acton: ChatGPT cité dans une procédure pour double meurtre. • Les... cybersécurité à une ouverture prochaine des poids, tout en mettant en...",
-      "excerpt": "Acton: ChatGPT cité dans une procédure pour double meurtre. • Les... cybersécurité à une ouverture prochaine des poids, tout en mettant en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GLM-5.3: ouverture des poids prévue dans deux semaines - Brief IA",
-      "link": "https://www.briefia.fr/article/glm-5-3-ouverture-des-poids-prevue-dans-deux-semaines",
-      "url": "https://www.briefia.fr/article/glm-5-3-ouverture-des-poids-prevue-dans-deux-semaines",
-      "publishedAt": "2026-08-14T19:17:42.000Z",
-      "date": "2026-08-14T19:17:42.000Z",
-      "description": "Cybersécurité: 2 436 vulnérabilités détectées, ouverture des poids annoncée... Acton: ChatGPT cité dans une procédure pour double meurtre.",
-      "excerpt": "Cybersécurité: 2 436 vulnérabilités détectées, ouverture des poids annoncée... Acton: ChatGPT cité dans une procédure pour double meurtre.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Copilot: Microsoft simplifie son offre avant l'arrivée de sa \"super app\", ce qui change pour vous",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/copilot-microsoft-simplifie-son-offre-avant-l-arrivee-de-sa-super-app-ce-qui-change-pour-vous-n260415.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/copilot-microsoft-simplifie-son-offre-avant-l-arrivee-de-sa-super-app-ce-qui-change-pour-vous-n260415.html",
-      "publishedAt": "2026-08-14T19:16:21.000Z",
-      "date": "2026-08-14T19:16:21.000Z",
-      "description": "À l'instar d'OpenAI et les branches de ChatGPT notamment, les utilisateurs de Copilot pourront ainsi accéder à différents outils comme le chat, Cowork...",
-      "excerpt": "À l'instar d'OpenAI et les branches de ChatGPT notamment, les utilisateurs de Copilot pourront ainsi accéder à différents outils comme le chat, Cowork...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Improving Health Intelligence in ChatGPT... - ToolAI.io - AI Tools",
-      "link": "https://www.toolai.io/fr/info/3407",
-      "url": "https://www.toolai.io/fr/info/3407",
-      "publishedAt": "2026-08-14T19:15:01.000Z",
-      "date": "2026-08-14T19:15:01.000Z",
-      "description": "OpenAI has announced an update to ChatGPT's health and wellness capabilities, powered by the new GPT-5.5 Instant model. This enhancement focuses...",
-      "excerpt": "OpenAI has announced an update to ChatGPT's health and wellness capabilities, powered by the new GPT-5.5 Instant model. This enhancement focuses...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT Computer History: OpenAI surveille tout ce que vous faites - Numerama",
-      "link": "https://www.numerama.com/tech/2311469-chatgpt-enregistre-tout-ce-que-vous-faites-sur-votre-ordinateur-et-cest-aussi-pratique-quinquietant.html",
-      "url": "https://www.numerama.com/tech/2311469-chatgpt-enregistre-tout-ce-que-vous-faites-sur-votre-ordinateur-et-cest-aussi-pratique-quinquietant.html",
-      "publishedAt": "2026-08-14T18:08:43.000Z",
-      "date": "2026-08-14T18:08:43.000Z",
-      "description": "OpenAI annonce Computer History, une fonction de l'application ChatGPT sur Mac qui enregistre votre activité dans vos applications et sur les...",
-      "excerpt": "OpenAI annonce Computer History, une fonction de l'application ChatGPT sur Mac qui enregistre votre activité dans vos applications et sur les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Acton: ChatGPT cité dans une procédure pour double meurtre - Brief IA",
-      "link": "https://www.briefia.fr/article/acton-chatgpt-cite-dans-une-procedure-pour-double-meurtre",
-      "url": "https://www.briefia.fr/article/acton-chatgpt-cite-dans-une-procedure-pour-double-meurtre",
-      "publishedAt": "2026-08-14T17:04:36.000Z",
-      "date": "2026-08-14T17:04:36.000Z",
-      "description": "... ChatGPT à propos de concepts théoriques de meurtre au sein de la famille.... cybersécurité à une ouverture prochaine des poids, tout en mettant en...",
-      "excerpt": "... ChatGPT à propos de concepts théoriques de meurtre au sein de la famille.... cybersécurité à une ouverture prochaine des poids, tout en mettant en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Plutôt qu'un abonnement ChatGPT ou Claude, cette licence IA à vie à moins de 22... - Clubic",
-      "link": "https://www.clubic.com/bons-plans-625348-plutot-qu-un-abonnement-chatgpt-ou-claude-cette-licence-ia-a-vie-a-moins-de-22-regroupe-plusieurs-modeles.html",
-      "url": "https://www.clubic.com/bons-plans-625348-plutot-qu-un-abonnement-chatgpt-ou-claude-cette-licence-ia-a-vie-a-moins-de-22-regroupe-plusieurs-modeles.html",
-      "publishedAt": "2026-08-14T16:05:00.000Z",
-      "date": "2026-08-14T16:05:00.000Z",
-      "description": "Entre ChatGPT Plus, Claude Pro et Gemini Advanced qui s... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
-      "excerpt": "Entre ChatGPT Plus, Claude Pro et Gemini Advanced qui s... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT peut désormais mémoriser votre activité sur votre Mac: pratique ou inquiétant?",
-      "link": "https://www.lebigdata.fr/chatgpt-peut-desormais-memoriser-votre-activite-sur-votre-mac-pratique-ou-inquietant",
-      "url": "https://www.lebigdata.fr/chatgpt-peut-desormais-memoriser-votre-activite-sur-votre-mac-pratique-ou-inquietant",
-      "publishedAt": "2026-08-14T15:10:55.000Z",
-      "date": "2026-08-14T15:10:55.000Z",
-      "description": "ChatGPT mémorise désormais votre activité sur Mac avec Computer... IA Data Cloud Cybersécurité Robotique IoT. Business. FinTech & Blockchain...",
-      "excerpt": "ChatGPT mémorise désormais votre activité sur Mac avec Computer... IA Data Cloud Cybersécurité Robotique IoT. Business. FinTech & Blockchain...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IBM étend l'accès d'OpenAI aux grands comptes via son conseil - Servicesmobiles.fr",
-      "link": "https://www.servicesmobiles.fr/ibm-etend-lacces-dopenai-aux-grands-comptes-via-son-conseil-113842",
-      "url": "https://www.servicesmobiles.fr/ibm-etend-lacces-dopenai-aux-grands-comptes-via-son-conseil-113842",
-      "publishedAt": "2026-08-14T15:02:40.000Z",
-      "date": "2026-08-14T15:02:40.000Z",
-      "description": "IBM va former des dizaines de milliers de consultants à OpenAI et intégrer GPT-5.6, Codex et ChatGPT Work. Un signal fort sur l'IA d... cybersécurité...",
-      "excerpt": "IBM va former des dizaines de milliers de consultants à OpenAI et intégrer GPT-5.6, Codex et ChatGPT Work. Un signal fort sur l'IA d... cybersécurité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
