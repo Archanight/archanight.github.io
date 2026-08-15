@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T00:40:29.579Z",
+  "generatedAt": "2026-08-15T06:20:48.412Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "CVE -2026-73847 Emlog AI Assistant ai.php execute_tool cross site request forgery",
+      "link": "https://vuldb.com/fr/vuln/390063",
+      "url": "https://vuldb.com/fr/vuln/390063",
+      "publishedAt": "2026-08-15T01:19:51.000Z",
+      "date": "2026-08-15T01:19:51.000Z",
+      "description": "VDB-390063 · CVE -2026-73847 · GCVE-0-2026-73847. Emlog jusqu'à 2.6.26 AI Assistant admin /ai.php execute_tool confirm_code cross site request forgery.",
+      "excerpt": "VDB-390063 · CVE -2026-73847 · GCVE-0-2026-73847. Emlog jusqu'à 2.6.26 AI Assistant admin /ai.php execute_tool confirm_code cross site request forgery.",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
     {
       "title": "OpenAI franchit les 40 milliards de dollars de revenus annualisés et fonce vers une IPO à...",
       "link": "https://www.journalduweb.org/openai-franchit-les-40-milliards-de-dollars-de-revenus-annualises-et-fonce-vers-une-ipo-a-mille-milliards/",
@@ -117,16 +127,6 @@
       "date": "2026-08-14T15:02:40.000Z",
       "description": "IBM va former des dizaines de milliers de consultants à OpenAI et intégrer GPT-5.6, Codex et ChatGPT Work. Un signal fort sur l'IA d... cybersécurité...",
       "excerpt": "IBM va former des dizaines de milliers de consultants à OpenAI et intégrer GPT-5.6, Codex et ChatGPT Work. Un signal fort sur l'IA d... cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le ChatGPT le plus intelligent peut maintenant répondre 14 fois plus vite: à quoi ça sert?",
-      "link": "https://www.01net.com/actualites/le-chatgpt-le-plus-intelligent-peut-maintenant-repondre-14-fois-plus-vite-a-quoi-ca-sert.html",
-      "url": "https://www.01net.com/actualites/le-chatgpt-le-plus-intelligent-peut-maintenant-repondre-14-fois-plus-vite-a-quoi-ca-sert.html",
-      "publishedAt": "2026-08-14T14:16:18.000Z",
-      "date": "2026-08-14T14:16:18.000Z",
-      "description": "Le ChatGPT le plus intelligent peut maintenant répondre 14 fois... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "excerpt": "Le ChatGPT le plus intelligent peut maintenant répondre 14 fois... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
