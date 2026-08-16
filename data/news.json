@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T18:14:00.847Z",
+  "generatedAt": "2026-08-16T00:42:41.635Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,36 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Cybersécurité: 5 choses que vous croyez sûres et qui ne le sont pas - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/11364/cybersecurite-5-choses-que-vous-croyez-sures",
+      "url": "https://pasqualepillitteri.it/fr/news/11364/cybersecurite-5-choses-que-vous-croyez-sures",
+      "publishedAt": "2026-08-15T19:46:12.000Z",
+      "date": "2026-08-15T19:46:12.000Z",
+      "description": "Cybersécurité: 5 choses que vous croyez sûres et qui ne le sont pas... OpenAI & ChatGPT 3 OpenAI & ChatGPT · Claude Code & Anthropic 6 Claude...",
+      "excerpt": "Cybersécurité: 5 choses que vous croyez sûres et qui ne le sont pas... OpenAI & ChatGPT 3 OpenAI & ChatGPT · Claude Code & Anthropic 6 Claude...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ModRetro M64: la console rétro reçoit sa première grande mise à jour firmware",
+      "link": "https://android-mt.ouest-france.fr/news/modretro-m64-la-console-retro-recoit-sa-premiere-grande-mise-a-jour-firmware/211067/",
+      "url": "https://android-mt.ouest-france.fr/news/modretro-m64-la-console-retro-recoit-sa-premiere-grande-mise-a-jour-firmware/211067/",
+      "publishedAt": "2026-08-15T18:15:42.000Z",
+      "date": "2026-08-15T18:15:42.000Z",
+      "description": "... update that brings some refreshing features to the console. https://t... chatgpt -espionne...",
+      "excerpt": "... update that brings some refreshing features to the console. https://t... chatgpt -espionne...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT est-il un bon psy? Le test avec un psychologue: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/societe/chatgpt-est-il-un-bon-psy-le-test-avec-un-psychologue-CNT000002m1fXT.html?pid=",
+      "url": "https://actu.orange.fr/videos/societe/chatgpt-est-il-un-bon-psy-le-test-avec-un-psychologue-CNT000002m1fXT.html?pid=",
+      "publishedAt": "2026-08-15T18:14:15.000Z",
+      "date": "2026-08-15T18:14:15.000Z",
+      "description": "Avec Olivier Duris, psychologue spécialisé dans les nouvelles technologies, nous avons analysé les réponses apportées par ChatGPT... Cybersécurité et...",
+      "excerpt": "Avec Olivier Duris, psychologue spécialisé dans les nouvelles technologies, nous avons analysé les réponses apportées par ChatGPT... Cybersécurité et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "IBM veut démocratiser les outils d'OpenAI auprès des entreprises - 24matins",
       "link": "https://www.24matins.fr/ibm-veut-democratiser-les-outils-dopenai-aupres-des-entreprises-1418957",
       "url": "https://www.24matins.fr/ibm-veut-democratiser-les-outils-dopenai-aupres-des-entreprises-1418957",
@@ -18,6 +48,36 @@
       "description": "En bref · La guerre des grands comptes passe par les cabinets de conseil · IBM va former massivement ses équipes · GPT-5.6, Codex et ChatGPT Work dans la...",
       "excerpt": "En bref · La guerre des grands comptes passe par les cabinets de conseil · IBM va former massivement ses équipes · GPT-5.6, Codex et ChatGPT Work dans la...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Galaxy Watch 4: la fin programmée des mises à jour chez Samsung - Android MT",
+      "link": "https://android-mt.ouest-france.fr/news/smartphones-news/galaxy-watch-4-la-fin-programmee-des-mises-a-jour-chez-samsung/211048/",
+      "url": "https://android-mt.ouest-france.fr/news/smartphones-news/galaxy-watch-4-la-fin-programmee-des-mises-a-jour-chez-samsung/211048/",
+      "publishedAt": "2026-08-15T17:39:40.000Z",
+      "date": "2026-08-15T17:39:40.000Z",
+      "description": "... ChatGPT espionne désormais tout ce que vous tapez sur votre Mac... ChatGPT | Chrome | Cyberghost | Eyezy | Gmail | Google Maps | Instagram...",
+      "excerpt": "... ChatGPT espionne désormais tout ce que vous tapez sur votre Mac... ChatGPT | Chrome | Cyberghost | Eyezy | Gmail | Google Maps | Instagram...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Un médecin chinois choque la communauté mathématique en utilisant ChatGPT pour... - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/bac-si-trung-quoc-gay-soc-gioi-toan-hoc-khi-dung-chatgpt-giai-bai-toan-ton-tai-hang-thap-ky",
+      "url": "https://www.vietnam.vn/fr/bac-si-trung-quoc-gay-soc-gioi-toan-hoc-khi-dung-chatgpt-giai-bai-toan-ton-tai-hang-thap-ky",
+      "publishedAt": "2026-08-15T17:28:53.000Z",
+      "date": "2026-08-15T17:28:53.000Z",
+      "description": "... soc -gioi-toan-hoc-khi-dung- chatgpt -giai-bai-toan-ton-tai-hang-thap-ky-100260815185842341.htm. Follow Vietnam.vn on. Google. Ajouter Vietnam.vn sur. Go...",
+      "excerpt": "... soc -gioi-toan-hoc-khi-dung- chatgpt -giai-bai-toan-ton-tai-hang-thap-ky-100260815185842341.htm. Follow Vietnam.vn on. Google. Ajouter Vietnam.vn sur. Go...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT enregistre votre activité sur votre Mac, et les fichiers ne sont pas chiffrés",
+      "link": "https://www.notebookcheck.biz/ChatGPT-enregistre-votre-activite-sur-votre-Mac-et-les-fichiers-ne-sont-pas-chiffres.1369368.0.html",
+      "url": "https://www.notebookcheck.biz/ChatGPT-enregistre-votre-activite-sur-votre-Mac-et-les-fichiers-ne-sont-pas-chiffres.1369368.0.html",
+      "publishedAt": "2026-08-15T15:19:29.000Z",
+      "date": "2026-08-15T15:19:29.000Z",
+      "description": "OpenAI a activé la fonctionnalité « Computer History » dans l'application ChatGPT pour macOS. Celle-ci enregistre les clics, les frappes au...",
+      "excerpt": "OpenAI a activé la fonctionnalité « Computer History » dans l'application ChatGPT pour macOS. Celle-ci enregistre les clics, les frappes au...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Tourisme: l'IA peut-elle sauver les voyageurs de la foule des recommandations TikTok et...",
@@ -67,66 +127,6 @@
       "date": "2026-08-15T12:12:46.000Z",
       "description": "... ChatGPT et Gemini sont en augmentation, posant de nombreux risques de cybersécurité préoccupants. Dans un contexte où l'IA se développe à une...",
       "excerpt": "... ChatGPT et Gemini sont en augmentation, posant de nombreux risques de cybersécurité préoccupants. Dans un contexte où l'IA se développe à une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI informe les investisseurs que les revenus de l'entreprise ont dépassé ceux de son...",
-      "link": "https://www.unite.ai/fr/openai-tells-investors-enterprise-revenue-has-overtaken-its-chatgpt-consumer-business/",
-      "url": "https://www.unite.ai/fr/openai-tells-investors-enterprise-revenue-has-overtaken-its-chatgpt-consumer-business/",
-      "publishedAt": "2026-08-15T10:17:40.000Z",
-      "date": "2026-08-15T10:17:40.000Z",
-      "description": "Le chiffre d'affaires des entreprises a dépassé celui des consommateurs de ChatGPT deux…... cybersécurité par Google. Il occupait précédemment...",
-      "excerpt": "Le chiffre d'affaires des entreprises a dépassé celui des consommateurs de ChatGPT deux…... cybersécurité par Google. Il occupait précédemment...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Réserver une table au restaurant avec ChatGPT: c'est déjà possible - iPhon.fr",
-      "link": "https://www.iphon.fr/post/reserver-une-table-au-restaurant-avec-chatgpt-cest-deja-possible",
-      "url": "https://www.iphon.fr/post/reserver-une-table-au-restaurant-avec-chatgpt-cest-deja-possible",
-      "publishedAt": "2026-08-15T08:35:52.000Z",
-      "date": "2026-08-15T08:35:52.000Z",
-      "description": "Des services comme le réseau social X ont essayé de s'étendre ces derniers mois mais ces développements n'ont jamais connu de grand succès. ChatGPT...",
-      "excerpt": "Des services comme le réseau social X ont essayé de s'étendre ces derniers mois mais ces développements n'ont jamais connu de grand succès. ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Injection de Prompt au Tribunal: le Texte Blanc Invisible Censé Convaincre l'IA",
-      "link": "https://pasqualepillitteri.it/fr/news/11266/injection-prompt-tribunal-texte-blanc-invisible",
-      "url": "https://pasqualepillitteri.it/fr/news/11266/injection-prompt-tribunal-texte-blanc-invisible",
-      "publishedAt": "2026-08-15T08:21:28.000Z",
-      "date": "2026-08-15T08:21:28.000Z",
-      "description": "OpenAI & ChatGPT 2 OpenAI & ChatGPT · Grok & SpaceXAI 3 Grok & SpaceXAI... cybersécurité injection de prompt intelligence artificielle tribunal...",
-      "excerpt": "OpenAI & ChatGPT 2 OpenAI & ChatGPT · Grok & SpaceXAI 3 Grok & SpaceXAI... cybersécurité injection de prompt intelligence artificielle tribunal...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "CVE -2026-73847 Emlog AI Assistant ai.php execute_tool cross site request forgery",
-      "link": "https://vuldb.com/fr/vuln/390063",
-      "url": "https://vuldb.com/fr/vuln/390063",
-      "publishedAt": "2026-08-15T01:19:51.000Z",
-      "date": "2026-08-15T01:19:51.000Z",
-      "description": "VDB-390063 · CVE -2026-73847 · GCVE-0-2026-73847. Emlog jusqu'à 2.6.26 AI Assistant admin /ai.php execute_tool confirm_code cross site request forgery.",
-      "excerpt": "VDB-390063 · CVE -2026-73847 · GCVE-0-2026-73847. Emlog jusqu'à 2.6.26 AI Assistant admin /ai.php execute_tool confirm_code cross site request forgery.",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "OpenAI franchit les 40 milliards de dollars de revenus annualisés et fonce vers une IPO à...",
-      "link": "https://www.journalduweb.org/openai-franchit-les-40-milliards-de-dollars-de-revenus-annualises-et-fonce-vers-une-ipo-a-mille-milliards/",
-      "url": "https://www.journalduweb.org/openai-franchit-les-40-milliards-de-dollars-de-revenus-annualises-et-fonce-vers-une-ipo-a-mille-milliards/",
-      "publishedAt": "2026-08-14T20:51:41.000Z",
-      "date": "2026-08-14T20:51:41.000Z",
-      "description": "Dali Rajic, ancien président et COO de Wiz ( cybersécurité )... iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6...",
-      "excerpt": "Dali Rajic, ancien président et COO de Wiz ( cybersécurité )... iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IBM et OpenAI s'allient pour les grands comptes - Brief IA",
-      "link": "https://www.briefia.fr/article/ibm-et-openai-s-allient-pour-les-grands-comptes",
-      "url": "https://www.briefia.fr/article/ibm-et-openai-s-allient-pour-les-grands-comptes",
-      "publishedAt": "2026-08-14T19:23:52.000Z",
-      "date": "2026-08-14T19:23:52.000Z",
-      "description": "... ChatGPT. OpenAI pourra s'appuyer... Les modèles GPT-5.6, Codex et ChatGPT Work seront intégrés à IBM Consulting Advantage et à la cybersécurité...",
-      "excerpt": "... ChatGPT. OpenAI pourra s'appuyer... Les modèles GPT-5.6, Codex et ChatGPT Work seront intégrés à IBM Consulting Advantage et à la cybersécurité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
