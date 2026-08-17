@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T18:14:35.843Z",
+  "generatedAt": "2026-08-17T00:40:56.392Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,36 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Cyberattaque de Bercy: Sébastien Lecornu convoque une réunion de crise lundi après le...",
+      "link": "https://www.journalduweb.org/cyberattaque-de-bercy-sebastien-lecornu-convoque-une-reunion-de-crise-lundi-apres-le-vol-de-donnees-fiscales-de-678-000-contribuables/",
+      "url": "https://www.journalduweb.org/cyberattaque-de-bercy-sebastien-lecornu-convoque-une-reunion-de-crise-lundi-apres-le-vol-de-donnees-fiscales-de-678-000-contribuables/",
+      "publishedAt": "2026-08-16T23:10:20.000Z",
+      "date": "2026-08-16T23:10:20.000Z",
+      "description": "La réunion de crise prévue par Lecornu devrait rassembler les ministres concernés et les responsables de la cybersécurité... ChatGPT pour Mac...",
+      "excerpt": "La réunion de crise prévue par Lecornu devrait rassembler les ministres concernés et les responsables de la cybersécurité... ChatGPT pour Mac...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Il écrit le meurtre de sa famille sur ChatGPT... avant de passer à l'acte - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/il-ecrit-le-meurtre-de-sa-famille-sur-chatgpt-avant-de-passer-a-lacte",
+      "url": "https://www.lebigdata.fr/il-ecrit-le-meurtre-de-sa-famille-sur-chatgpt-avant-de-passer-a-lacte",
+      "publishedAt": "2026-08-16T20:42:00.000Z",
+      "date": "2026-08-16T20:42:00.000Z",
+      "description": "Arjun Aravind aurait tué sa mère et son petit frère et utilisé ChatGPT pour explorer des idées autour du meurtre... IA Data Cloud Cybersécurité...",
+      "excerpt": "Arjun Aravind aurait tué sa mère et son petit frère et utilisé ChatGPT pour explorer des idées autour du meurtre... IA Data Cloud Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Attaque supply chain contre LiteLLM: ce qui s'est passé et comment l'éviter",
+      "link": "https://pasqualepillitteri.it/fr/news/11406/attaque-supply-chain-litellm-2026",
+      "url": "https://pasqualepillitteri.it/fr/news/11406/attaque-supply-chain-litellm-2026",
+      "publishedAt": "2026-08-16T18:21:03.000Z",
+      "date": "2026-08-16T18:21:03.000Z",
+      "description": "OpenAI & ChatGPT 3 OpenAI & ChatGPT · Claude Code & Anthropic 6 Claude... cybersécurité litellm attaque supply chain pypi teampcp ci/cd cloudsek vol d'...",
+      "excerpt": "OpenAI & ChatGPT 3 OpenAI & ChatGPT · Claude Code & Anthropic 6 Claude... cybersécurité litellm attaque supply chain pypi teampcp ci/cd cloudsek vol d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Elon Musk porte son pouvoir de vote chez Tesla à 20 % et vise le quart du royaume | JDW",
       "link": "https://www.journalduweb.org/elon-musk-porte-son-pouvoir-de-vote-chez-tesla-a-20-et-vise-le-quart-du-royaume/",
       "url": "https://www.journalduweb.org/elon-musk-porte-son-pouvoir-de-vote-chez-tesla-a-20-et-vise-le-quart-du-royaume/",
@@ -18,6 +48,16 @@
       "description": "IA & RobotiqueInformatique & Cybersécurité · Claude Mythos: l'IA... iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6...",
       "excerpt": "IA & RobotiqueInformatique & Cybersécurité · Claude Mythos: l'IA... iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La solution d'Anthropic pour repérer les textes générés par IA ne me convainc pas",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/la-solution-d-anthropic-pour-reperer-les-textes-generes-par-ia-ne-me-convainc-pas-n260467.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/la-solution-d-anthropic-pour-reperer-les-textes-generes-par-ia-ne-me-convainc-pas-n260467.html",
+      "publishedAt": "2026-08-16T16:30:56.000Z",
+      "date": "2026-08-16T16:30:56.000Z",
+      "description": "Surtout face à la pauvreté des textes qui envahissent la toile depuis la mise à disposition de ChatGPT pour le grand public en fin d'année 2022.",
+      "excerpt": "Surtout face à la pauvreté des textes qui envahissent la toile depuis la mise à disposition de ChatGPT pour le grand public en fin d'année 2022.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "L'usurpation d'un proche change d'échelle en Europe - infoDSI",
@@ -38,6 +78,16 @@
       "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... Quand ChatGPT devient un gourou: comment la mystérieuse religion du...",
       "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... Quand ChatGPT devient un gourou: comment la mystérieuse religion du...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Voici ce que prédisent les IA chinoises pour le cours du XRP fin 2026 - Crypto Insiders",
+      "link": "https://www.crypto-insiders.fr/actualites/ripple/voici-ce-que-predisent-les-ia-chinoises-pour-le-cours-du-xrp-fin-2026/",
+      "url": "https://www.crypto-insiders.fr/actualites/ripple/voici-ce-que-predisent-les-ia-chinoises-pour-le-cours-du-xrp-fin-2026/",
+      "publishedAt": "2026-08-16T13:41:22.000Z",
+      "date": "2026-08-16T13:41:22.000Z",
+      "description": "ChatGPT et Claude citent des facteurs similaires. La montée en puissance des modèles d'IA chinois. Parmi les modèles d'IA chinois, DeepSeek et Kimi...",
+      "excerpt": "ChatGPT et Claude citent des facteurs similaires. La montée en puissance des modèles d'IA chinois. Parmi les modèles d'IA chinois, DeepSeek et Kimi...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "ChatGPT pour Mac enregistre désormais clics, frappes et navigation: les fichiers restent...",
@@ -78,56 +128,6 @@
       "description": "Cybersécurité: 5 choses que vous croyez sûres et qui ne le sont pas... OpenAI & ChatGPT 3 OpenAI & ChatGPT · Claude Code & Anthropic 6 Claude...",
       "excerpt": "Cybersécurité: 5 choses que vous croyez sûres et qui ne le sont pas... OpenAI & ChatGPT 3 OpenAI & ChatGPT · Claude Code & Anthropic 6 Claude...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Codex++: modifier l'application de bureau Codex avec des tweaks - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/11308/codex-plusplus-tweaks-application-bureau-codex",
-      "url": "https://pasqualepillitteri.it/fr/news/11308/codex-plusplus-tweaks-application-bureau-codex",
-      "publishedAt": "2026-08-15T19:46:05.000Z",
-      "date": "2026-08-15T19:46:05.000Z",
-      "description": "Ce n'est pas un cas isolé, vu à quel point les applications IA de bureau deviennent invasives, comme dans le cas de ChatGPT qui enregistre ce que vous...",
-      "excerpt": "Ce n'est pas un cas isolé, vu à quel point les applications IA de bureau deviennent invasives, comme dans le cas de ChatGPT qui enregistre ce que vous...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ModRetro M64: la console rétro reçoit sa première grande mise à jour firmware",
-      "link": "https://android-mt.ouest-france.fr/news/modretro-m64-la-console-retro-recoit-sa-premiere-grande-mise-a-jour-firmware/211067/",
-      "url": "https://android-mt.ouest-france.fr/news/modretro-m64-la-console-retro-recoit-sa-premiere-grande-mise-a-jour-firmware/211067/",
-      "publishedAt": "2026-08-15T18:15:42.000Z",
-      "date": "2026-08-15T18:15:42.000Z",
-      "description": "... update that brings some refreshing features to the console. https://t... chatgpt -espionne...",
-      "excerpt": "... update that brings some refreshing features to the console. https://t... chatgpt -espionne...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT est-il un bon psy? Le test avec un psychologue: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/societe/chatgpt-est-il-un-bon-psy-le-test-avec-un-psychologue-CNT000002m1fXT.html?pid=",
-      "url": "https://actu.orange.fr/videos/societe/chatgpt-est-il-un-bon-psy-le-test-avec-un-psychologue-CNT000002m1fXT.html?pid=",
-      "publishedAt": "2026-08-15T18:14:15.000Z",
-      "date": "2026-08-15T18:14:15.000Z",
-      "description": "Avec Olivier Duris, psychologue spécialisé dans les nouvelles technologies, nous avons analysé les réponses apportées par ChatGPT... Cybersécurité et...",
-      "excerpt": "Avec Olivier Duris, psychologue spécialisé dans les nouvelles technologies, nous avons analysé les réponses apportées par ChatGPT... Cybersécurité et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IBM veut démocratiser les outils d'OpenAI auprès des entreprises - 24matins",
-      "link": "https://www.24matins.fr/ibm-veut-democratiser-les-outils-dopenai-aupres-des-entreprises-1418957",
-      "url": "https://www.24matins.fr/ibm-veut-democratiser-les-outils-dopenai-aupres-des-entreprises-1418957",
-      "publishedAt": "2026-08-15T18:06:54.000Z",
-      "date": "2026-08-15T18:06:54.000Z",
-      "description": "En bref · La guerre des grands comptes passe par les cabinets de conseil · IBM va former massivement ses équipes · GPT-5.6, Codex et ChatGPT Work dans la...",
-      "excerpt": "En bref · La guerre des grands comptes passe par les cabinets de conseil · IBM va former massivement ses équipes · GPT-5.6, Codex et ChatGPT Work dans la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Galaxy Watch 4: la fin programmée des mises à jour chez Samsung - Android MT",
-      "link": "https://android-mt.ouest-france.fr/news/smartphones-news/galaxy-watch-4-la-fin-programmee-des-mises-a-jour-chez-samsung/211048/",
-      "url": "https://android-mt.ouest-france.fr/news/smartphones-news/galaxy-watch-4-la-fin-programmee-des-mises-a-jour-chez-samsung/211048/",
-      "publishedAt": "2026-08-15T17:39:40.000Z",
-      "date": "2026-08-15T17:39:40.000Z",
-      "description": "... ChatGPT espionne désormais tout ce que vous tapez sur votre Mac... ChatGPT | Chrome | Cyberghost | Eyezy | Gmail | Google Maps | Instagram...",
-      "excerpt": "... ChatGPT espionne désormais tout ce que vous tapez sur votre Mac... ChatGPT | Chrome | Cyberghost | Eyezy | Gmail | Google Maps | Instagram...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
