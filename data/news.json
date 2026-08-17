@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:22:49.340Z",
+  "generatedAt": "2026-08-17T18:23:27.404Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Mettez votre Mac à jour: la faille du partage d'écran est déjà exploitée - MacGeneration",
+      "link": "https://www.macg.co/macos/2026/08/mettez-votre-mac-jour-la-faille-du-partage-decran-est-deja-exploitee-310403",
+      "url": "https://www.macg.co/macos/2026/08/mettez-votre-mac-jour-la-faille-du-partage-decran-est-deja-exploitee-310403",
+      "publishedAt": "2026-08-17T17:15:37.000Z",
+      "date": "2026-08-17T17:15:37.000Z",
+      "description": "... ChatGPT · Profitez de l'été pour vous abonner au Club iGen! Fermer... Le Centre national de cybersécurité des Pays-Bas (NCSC-NL) a en effet...",
+      "excerpt": "... ChatGPT · Profitez de l'été pour vous abonner au Club iGen! Fermer... Le Centre national de cybersécurité des Pays-Bas (NCSC-NL) a en effet...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Mensonges, vols de données, agents en cavale: bienvenue dans le Far West de l'IA, là où...",
+      "link": "https://www.challenges.fr/entreprise/tech-numerique/mensonges-vols-de-donnees-agents-en-cavale-bienvenue-dans-le-far-west-de-lia-la-ou-les-machines-deviennent-incontrolables_645244",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/mensonges-vols-de-donnees-agents-en-cavale-bienvenue-dans-le-far-west-de-lia-la-ou-les-machines-deviennent-incontrolables_645244",
+      "publishedAt": "2026-08-17T16:31:25.000Z",
+      "date": "2026-08-17T16:31:25.000Z",
+      "description": "Intelligence artificielle ChatGPT GoogleMeta Cybersécurité. Les plus lus. 1. Défense. FORTUNES. Les héritiers Dassault tournent la page des guerres de...",
+      "excerpt": "Intelligence artificielle ChatGPT GoogleMeta Cybersécurité. Les plus lus. 1. Défense. FORTUNES. Les héritiers Dassault tournent la page des guerres de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT gratuit: l'arrivée des publicités confirmée pour août 2026 - Numerama",
+      "link": "https://www.numerama.com/tech/2312843-lere-du-chatgpt-gratuit-et-sans-publicite-touche-officiellement-a-sa-fin.html",
+      "url": "https://www.numerama.com/tech/2312843-lere-du-chatgpt-gratuit-et-sans-publicite-touche-officiellement-a-sa-fin.html",
+      "publishedAt": "2026-08-17T15:47:04.000Z",
+      "date": "2026-08-17T15:47:04.000Z",
+      "description": "Six mois après de premiers tests aux États-Unis, OpenAI annonce le déploiement global des bannières publicitaires dans la version gratuite de ChatGPT.",
+      "excerpt": "Six mois après de premiers tests aux États-Unis, OpenAI annonce le déploiement global des bannières publicitaires dans la version gratuite de ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "« ChatGPT m'a gâché mon voyage »: le cauchemar des touristes qui font aveuglément...",
+      "link": "https://www.01net.com/actualites/chatgpt-ma-gache-mon-voyage-le-cauchemar-des-touristes-qui-font-aveuglement-confiance-a-lia.html",
+      "url": "https://www.01net.com/actualites/chatgpt-ma-gache-mon-voyage-le-cauchemar-des-touristes-qui-font-aveuglement-confiance-a-lia.html",
+      "publishedAt": "2026-08-17T15:03:20.000Z",
+      "date": "2026-08-17T15:03:20.000Z",
+      "description": "« ChatGPT m'a gâché mon voyage »: le cauchemar des touristes qui... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
+      "excerpt": "« ChatGPT m'a gâché mon voyage »: le cauchemar des touristes qui... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un futur outil pour surveiller les faits et gestes d'un salarié? ChatGPT peut désormais suivre...",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/un-futur-outil-pour-surveiller-les-faits-et-gestes-d-un-salarie-chat-gpt-peut-desormais-suivre-vos-clics-et-vos-frappes-sur-le-clavier-pour-vous-suggerer-des-automatisations_AV-202608170379.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/un-futur-outil-pour-surveiller-les-faits-et-gestes-d-un-salarie-chat-gpt-peut-desormais-suivre-vos-clics-et-vos-frappes-sur-le-clavier-pour-vous-suggerer-des-automatisations_AV-202608170379.html",
+      "publishedAt": "2026-08-17T13:52:39.000Z",
+      "date": "2026-08-17T13:52:39.000Z",
+      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... ChatGPT peut désormais suivre vos clics et vos frappes sur le clavier...",
+      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... ChatGPT peut désormais suivre vos clics et vos frappes sur le clavier...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "J'ai testé la nouvelle application ChatGPT pour Linux, mais je va... - ZDNET",
       "link": "https://www.zdnet.fr/actualites/jai-teste-la-nouvelle-application-chatgpt-pour-linux-mais-je-vais-men-tenir-a-mon-navigateur-pour-linstant-500028.htm",
@@ -77,56 +127,6 @@
       "date": "2026-08-17T08:30:14.000Z",
       "description": "OpenAI a prévenu ses utilisateurs européens par email. Les comptes Free et Go verront des publicités dans ChatGPT avant la fin du mois d'août.",
       "excerpt": "OpenAI a prévenu ses utilisateurs européens par email. Les comptes Free et Go verront des publicités dans ChatGPT avant la fin du mois d'août.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT ne pourra pas enregistrer le contenu de… - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6023702-chatgpt-ne-pourra-pas-enregistrer-le-contenu-de-votre-ordinateur-et-c-est-probablement-mieux-comme-ca",
-      "url": "https://www.lefilia.fr/article/6023702-chatgpt-ne-pourra-pas-enregistrer-le-contenu-de-votre-ordinateur-et-c-est-probablement-mieux-comme-ca",
-      "publishedAt": "2026-08-17T08:28:49.000Z",
-      "date": "2026-08-17T08:28:49.000Z",
-      "description": "OpenAI a dévoilé aux États-Unis une nouvelle fonctionnalité baptisée Computer History, intégrée à son application ChatGPT pour Mac. Cet outil permet à...",
-      "excerpt": "OpenAI a dévoilé aux États-Unis une nouvelle fonctionnalité baptisée Computer History, intégrée à son application ChatGPT pour Mac. Cet outil permet à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Avec ChatGPT Computer History, OpenAI présente sa version de Windows Recall sur Mac",
-      "link": "https://www.clubic.com/actualite-625510-avec-chatgpt-computer-history-openai-presente-sa-version-de-windows-recall-sur-mac.htmlt",
-      "url": "https://www.clubic.com/actualite-625510-avec-chatgpt-computer-history-openai-presente-sa-version-de-windows-recall-sur-mac.htmlt",
-      "publishedAt": "2026-08-17T06:45:17.000Z",
-      "date": "2026-08-17T06:45:17.000Z",
-      "description": "OpenAI a commencé à déployer une fonction baptisée \"Computer History\" dans l'application ChatGPT... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN...",
-      "excerpt": "OpenAI a commencé à déployer une fonction baptisée \"Computer History\" dans l'application ChatGPT... Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Computer History: ChatGPT enregistre les clics et le clavier dans les autres applications",
-      "link": "https://www.blogdumoderateur.com/chatgpt-computer-history/",
-      "url": "https://www.blogdumoderateur.com/chatgpt-computer-history/",
-      "publishedAt": "2026-08-17T04:17:58.000Z",
-      "date": "2026-08-17T04:17:58.000Z",
-      "description": "Google OpenAI SEO Anthropic Interviews Gemini Réglementation Community management Transformation digitale Développement Meta Cybersécurité... ChatGPT...",
-      "excerpt": "Google OpenAI SEO Anthropic Interviews Gemini Réglementation Community management Transformation digitale Développement Meta Cybersécurité... ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT's Computer History enregistre vos clics et frappes clavier - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6021717-chatgpt-s-computer-history-enregistre-vos-clics-et-frappes-clavier",
-      "url": "https://www.lefilia.fr/article/6021717-chatgpt-s-computer-history-enregistre-vos-clics-et-frappes-clavier",
-      "publishedAt": "2026-08-17T04:09:38.000Z",
-      "date": "2026-08-17T04:09:38.000Z",
-      "description": "OpenAI a lancé une nouvelle fonctionnalité baptisée Computer History au sein de l'application de bureau ChatGPT pour macOS.",
-      "excerpt": "OpenAI a lancé une nouvelle fonctionnalité baptisée Computer History au sein de l'application de bureau ChatGPT pour macOS.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "85 % des PME interrogées signalent un incident de Cybersécurité selon Kaspersky - infoDSI",
-      "link": "https://infodsi.com/articles/210666/85-des-pme-interrogees-signalent-un-incident-de-cybersecurite-selon-kaspersky.html",
-      "url": "https://infodsi.com/articles/210666/85-des-pme-interrogees-signalent-un-incident-de-cybersecurite-selon-kaspersky.html",
-      "publishedAt": "2026-08-17T03:14:38.000Z",
-      "date": "2026-08-17T03:14:38.000Z",
-      "description": "... cybersécurité au cours des douze derniers mois. Le résultat place... Gemini et ChatGPT occupent les deux plac... Le Robot Phone de Honor...",
-      "excerpt": "... cybersécurité au cours des douze derniers mois. Le résultat place... Gemini et ChatGPT occupent les deux plac... Le Robot Phone de Honor...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
