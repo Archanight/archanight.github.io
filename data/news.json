@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T00:40:56.392Z",
+  "generatedAt": "2026-08-17T06:33:41.532Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Computer History: ChatGPT enregistre les clics et le clavier dans les autres applications",
+      "link": "https://www.blogdumoderateur.com/chatgpt-computer-history/",
+      "url": "https://www.blogdumoderateur.com/chatgpt-computer-history/",
+      "publishedAt": "2026-08-17T04:17:58.000Z",
+      "date": "2026-08-17T04:17:58.000Z",
+      "description": "Google OpenAI SEO Anthropic Interviews Gemini Réglementation Community management Transformation digitale Développement Meta Cybersécurité... ChatGPT...",
+      "excerpt": "Google OpenAI SEO Anthropic Interviews Gemini Réglementation Community management Transformation digitale Développement Meta Cybersécurité... ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT's Computer History enregistre vos clics et frappes clavier - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6021717-chatgpt-s-computer-history-enregistre-vos-clics-et-frappes-clavier",
+      "url": "https://www.lefilia.fr/article/6021717-chatgpt-s-computer-history-enregistre-vos-clics-et-frappes-clavier",
+      "publishedAt": "2026-08-17T04:09:38.000Z",
+      "date": "2026-08-17T04:09:38.000Z",
+      "description": "OpenAI a lancé une nouvelle fonctionnalité baptisée Computer History au sein de l'application de bureau ChatGPT pour macOS.",
+      "excerpt": "OpenAI a lancé une nouvelle fonctionnalité baptisée Computer History au sein de l'application de bureau ChatGPT pour macOS.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Cyberattaque de Bercy: Sébastien Lecornu convoque une réunion de crise lundi après le...",
       "link": "https://www.journalduweb.org/cyberattaque-de-bercy-sebastien-lecornu-convoque-une-reunion-de-crise-lundi-apres-le-vol-de-donnees-fiscales-de-678-000-contribuables/",
@@ -107,26 +127,6 @@
       "date": "2026-08-16T12:01:52.000Z",
       "description": "L'app macOS de ChatGPT gagne un historique de l'ordinateur capable de retrouver vos tâches récentes... La suite, sélectionnée pour vous. Cybersécurité.",
       "excerpt": "L'app macOS de ChatGPT gagne un historique de l'ordinateur capable de retrouver vos tâches récentes... La suite, sélectionnée pour vous. Cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Notes de mise à jour de l'app ChatGPT pour macOS - OpenAI Help Center",
-      "link": "https://help.openai.com/fr-ca/articles/9703738-notes-de-mise-%C3%A0-jour-de-lapp-chatgpt-pour-macos",
-      "url": "https://help.openai.com/fr-ca/articles/9703738-notes-de-mise-%C3%A0-jour-de-lapp-chatgpt-pour-macos",
-      "publishedAt": "2026-08-16T01:35:04.000Z",
-      "date": "2026-08-16T01:35:04.000Z",
-      "description": "Vous pouvez maintenant créer et modifier des canvas sur macOS avec GPT 4o.... ChatGPT — Notes de version. Un journal des plus récentes mises à jour et...",
-      "excerpt": "Vous pouvez maintenant créer et modifier des canvas sur macOS avec GPT 4o.... ChatGPT — Notes de version. Un journal des plus récentes mises à jour et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Cybersécurité: 5 choses que vous croyez sûres et qui ne le sont pas - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/11364/cybersecurite-5-choses-que-vous-croyez-sures",
-      "url": "https://pasqualepillitteri.it/fr/news/11364/cybersecurite-5-choses-que-vous-croyez-sures",
-      "publishedAt": "2026-08-15T19:46:12.000Z",
-      "date": "2026-08-15T19:46:12.000Z",
-      "description": "Cybersécurité: 5 choses que vous croyez sûres et qui ne le sont pas... OpenAI & ChatGPT 3 OpenAI & ChatGPT · Claude Code & Anthropic 6 Claude...",
-      "excerpt": "Cybersécurité: 5 choses que vous croyez sûres et qui ne le sont pas... OpenAI & ChatGPT 3 OpenAI & ChatGPT · Claude Code & Anthropic 6 Claude...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
