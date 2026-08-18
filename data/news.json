@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T00:40:06.860Z",
+  "generatedAt": "2026-08-18T06:25:37.262Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT: pourquoi vous devriez réfléchir à deux fois avant d'activer cette option - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6027107-chatgpt-pourquoi-vous-devriez-reflechir-a-deux-fois-avant-d-activer-cette-option",
+      "url": "https://www.lefilia.fr/article/6027107-chatgpt-pourquoi-vous-devriez-reflechir-a-deux-fois-avant-d-activer-cette-option",
+      "publishedAt": "2026-08-18T01:17:53.000Z",
+      "date": "2026-08-18T01:17:53.000Z",
+      "description": "ChatGPT: pourquoi vous devriez réfléchir à deux fois avant d'activer cette option... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le...",
+      "excerpt": "ChatGPT: pourquoi vous devriez réfléchir à deux fois avant d'activer cette option... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Plus de 5 décideurs IT sur 10 jugent essentielle la sécurité des identités des agents IA",
       "link": "https://itrnews.com/articles/210676/plus-de-5-decideurs-it-sur-10-jugent-essentielle-la-securite-des-identites-des-agents-ia.html",
@@ -117,16 +127,6 @@
       "date": "2026-08-17T13:52:39.000Z",
       "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... ChatGPT peut désormais suivre vos clics et vos frappes sur le clavier...",
       "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... ChatGPT peut désormais suivre vos clics et vos frappes sur le clavier...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "J'ai testé la nouvelle application ChatGPT pour Linux, mais je va... - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/jai-teste-la-nouvelle-application-chatgpt-pour-linux-mais-je-vais-men-tenir-a-mon-navigateur-pour-linstant-500028.htm",
-      "url": "https://www.zdnet.fr/actualites/jai-teste-la-nouvelle-application-chatgpt-pour-linux-mais-je-vais-men-tenir-a-mon-navigateur-pour-linstant-500028.htm",
-      "publishedAt": "2026-08-17T11:14:00.000Z",
-      "date": "2026-08-17T11:14:00.000Z",
-      "description": "La version préliminaire de ChatGPT Desktop pour Linux, compatible avec Ubuntu, Debian et Fedora, est désormais disponible... Cybersécurité.",
-      "excerpt": "La version préliminaire de ChatGPT Desktop pour Linux, compatible avec Ubuntu, Debian et Fedora, est désormais disponible... Cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
