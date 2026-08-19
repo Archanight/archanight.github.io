@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T00:40:12.458Z",
+  "generatedAt": "2026-08-19T06:26:12.925Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI lance ChatGPT pour les adolescents, avec des outils de contrôle parental - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/openai-lance-chatgpt-pour-les-adolescents-avec-des-outils-de-controle-parental-500154.htm",
+      "url": "https://www.zdnet.fr/actualites/openai-lance-chatgpt-pour-les-adolescents-avec-des-outils-de-controle-parental-500154.htm",
+      "publishedAt": "2026-08-19T06:02:55.000Z",
+      "date": "2026-08-19T06:02:55.000Z",
+      "description": "Plutôt que de créer un produit distinct, OpenAI a choisi d'ajouter au ChatGPT... Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification.",
+      "excerpt": "Plutôt que de créer un produit distinct, OpenAI a choisi d'ajouter au ChatGPT... Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI a temporairement suspendu l'entraînement de ses modèles d'IA les plus puissants...",
+      "link": "https://www.vietnam.vn/fr/openai-tam-dung-huan-luyen-cac-mo-hinh-ai-manh-nhat-vi-lo-ngai-an-ninh-mang",
+      "url": "https://www.vietnam.vn/fr/openai-tam-dung-huan-luyen-cac-mo-hinh-ai-manh-nhat-vi-lo-ngai-an-ninh-mang",
+      "publishedAt": "2026-08-19T04:36:04.000Z",
+      "date": "2026-08-19T04:36:04.000Z",
+      "description": "Les logos d'OpenAI et de ChatGPT sont affichés sur un écran à Toulouse, en France.... Tag: cybersécurité incident de cybersécurité intelligence...",
+      "excerpt": "Les logos d'OpenAI et de ChatGPT sont affichés sur un écran à Toulouse, en France.... Tag: cybersécurité incident de cybersécurité intelligence...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un nouveau ChatGPT pour ados, ça change quoi? | En bref - Radio-Canada",
+      "link": "https://ici.radio-canada.ca/en-bref/90-17002/chatgpt-adolescent-ia-protection?liste=28-1013384",
+      "url": "https://ici.radio-canada.ca/en-bref/90-17002/chatgpt-adolescent-ia-protection?liste=28-1013384",
+      "publishedAt": "2026-08-19T03:45:04.000Z",
+      "date": "2026-08-19T03:45:04.000Z",
+      "description": "Un enfant tente de se connecter à un réseau social après avoir reçu un message de. OpenAI ne vérifie pas directement l'âge de ses utilisateurs. Il...",
+      "excerpt": "Un enfant tente de se connecter à un réseau social après avoir reçu un message de. OpenAI ne vérifie pas directement l'âge de ses utilisateurs. Il...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI dévoile ChatGPT pour adolescents, doté de garde-fous renforcés et d'un contrôle parental",
+      "link": "https://ch.zonebourse.com/actualite-bourse/openai-devoile-chatgpt-pour-adolescents-dote-de-garde-fous-renforces-et-d-un-controle-parental-ce7859ddd988f426",
+      "url": "https://ch.zonebourse.com/actualite-bourse/openai-devoile-chatgpt-pour-adolescents-dote-de-garde-fous-renforces-et-d-un-controle-parental-ce7859ddd988f426",
+      "publishedAt": "2026-08-19T03:24:10.000Z",
+      "date": "2026-08-19T03:24:10.000Z",
+      "description": "OpenAI a présenté mardi ChatGPT for Teens », une version adaptée aux mineurs intégrant des outils de contrôle parental et des fonctions de...",
+      "excerpt": "OpenAI a présenté mardi ChatGPT for Teens », une version adaptée aux mineurs intégrant des outils de contrôle parental et des fonctions de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'IA rend-elle stupide? L'illusion de compétence décryptée - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6029813-l-ia-rend-elle-stupide-l-illusion-de-competence-decryptee",
+      "url": "https://www.lefilia.fr/article/6029813-l-ia-rend-elle-stupide-l-illusion-de-competence-decryptee",
+      "publishedAt": "2026-08-19T01:48:33.000Z",
+      "date": "2026-08-19T01:48:33.000Z",
+      "description": "Une étude nommée Heaven révèle que 70 % des jeunes de 18 à 25 ans utilisent ChatGPT quotidiennement, un chiffre qui interroge sur l'impact réel...",
+      "excerpt": "Une étude nommée Heaven révèle que 70 % des jeunes de 18 à 25 ans utilisent ChatGPT quotidiennement, un chiffre qui interroge sur l'impact réel...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La guerre des Claude: quand des IA d'Anthropic inventent un malware auto-répliquant pour...",
+      "link": "https://www.journalduweb.org/la-guerre-des-claude-quand-des-ia-danthropic-inventent-un-malware-auto-repliquant-pour-se-neutraliser-entre-elles/",
+      "url": "https://www.journalduweb.org/la-guerre-des-claude-quand-des-ia-danthropic-inventent-un-malware-auto-repliquant-pour-se-neutraliser-entre-elles/",
+      "publishedAt": "2026-08-19T00:18:30.000Z",
+      "date": "2026-08-19T00:18:30.000Z",
+      "description": "... cybersécurité multi-agents qui a viré à la confrontation. Chaque... ChatGPT pour Mac enregistre désormais clics, frappes et navigation: les...",
+      "excerpt": "... cybersécurité multi-agents qui a viré à la confrontation. Chaque... ChatGPT pour Mac enregistre désormais clics, frappes et navigation: les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI lance ChatGPT pour les adolescents avec des protections - KultureGeek",
       "link": "https://kulturegeek.fr/news-357220/openai-lance-chatgpt-adolescents-protections",
@@ -27,6 +87,16 @@
       "date": "2026-08-18T18:50:57.000Z",
       "description": "Blockchain & Crypto IA & Robotique Informatique & Cybersécurité... Humaniser un texte de ChatGPT et contourner les détecteurs d'IA. 8 avril...",
       "excerpt": "Blockchain & Crypto IA & Robotique Informatique & Cybersécurité... Humaniser un texte de ChatGPT et contourner les détecteurs d'IA. 8 avril...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le président d'OpenAI appelle les entreprises à accélérer leurs défenses en cybersécurité IA",
+      "link": "https://www.lefilia.fr/article/6031501-le-president-d-openai-appelle-les-entreprises-a-accelerer-leurs-defenses-en-cybersecurite-ia",
+      "url": "https://www.lefilia.fr/article/6031501-le-president-d-openai-appelle-les-entreprises-a-accelerer-leurs-defenses-en-cybersecurite-ia",
+      "publishedAt": "2026-08-18T18:50:28.000Z",
+      "date": "2026-08-18T18:50:28.000Z",
+      "description": "... cybersécurité en faveur de la défense. Pour illustrer ce potentiel, Brockman a demandé à ChatGPT Work, s'appuyant sur le modèle public GPT-5.6 Sol...",
+      "excerpt": "... cybersécurité en faveur de la défense. Pour illustrer ce potentiel, Brockman a demandé à ChatGPT Work, s'appuyant sur le modèle public GPT-5.6 Sol...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -57,76 +127,6 @@
       "date": "2026-08-18T18:03:20.000Z",
       "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT se dote d'une version pour les adolescents, qui refuse de faire...",
       "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT se dote d'une version pour les adolescents, qui refuse de faire...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Computer History d'OpenAI: vers un risque de dérive contre les salariés - RSE Magazine",
-      "link": "https://www.rse-magazine.com/computer-history-dopenai-vers-un-risque-de-derive-contre-les-salaries/",
-      "url": "https://www.rse-magazine.com/computer-history-dopenai-vers-un-risque-de-derive-contre-les-salaries/",
-      "publishedAt": "2026-08-18T17:21:08.000Z",
-      "date": "2026-08-18T17:21:08.000Z",
-      "description": "... ChatGPT ou Codex », prévient la documentation officielle. Concrètement... Pour les responsables cybersécurité, ce scénario transforme chaque...",
-      "excerpt": "... ChatGPT ou Codex », prévient la documentation officielle. Concrètement... Pour les responsables cybersécurité, ce scénario transforme chaque...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: publicités en France fin août, abonnements épargnés - Brief IA",
-      "link": "https://www.briefia.fr/article/chatgpt-publicites-en-france-fin-aout-abonnements-epargnes",
-      "url": "https://www.briefia.fr/article/chatgpt-publicites-en-france-fin-aout-abonnements-epargnes",
-      "publishedAt": "2026-08-18T16:27:48.000Z",
-      "date": "2026-08-18T16:27:48.000Z",
-      "description": "ChatGPT: publicités en France fin août, abonnements épargnés... Alvys déploie Foundry et ses agents IA certifiés SOC 2 dans son TMSil y a 1h→...",
-      "excerpt": "ChatGPT: publicités en France fin août, abonnements épargnés... Alvys déploie Foundry et ses agents IA certifiés SOC 2 dans son TMSil y a 1h→...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT pour les ados: OpenAI lance des comptes dédiés pour les moins de 18 ans",
-      "link": "https://www.01net.com/actualites/chatgpt-pour-les-ados-openai-lance-des-comptes-dedies-pour-les-moins-de-18-ans.html",
-      "url": "https://www.01net.com/actualites/chatgpt-pour-les-ados-openai-lance-des-comptes-dedies-pour-les-moins-de-18-ans.html",
-      "publishedAt": "2026-08-18T16:12:25.000Z",
-      "date": "2026-08-18T16:12:25.000Z",
-      "description": "ChatGPT pour les ados: OpenAI lance des comptes dédiés pour les... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "excerpt": "ChatGPT pour les ados: OpenAI lance des comptes dédiés pour les... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance une version de ChatGPT spécialement conçue pour les adolescents.",
-      "link": "https://www.vietnam.vn/fr/openai-ra-mat-phien-ban-chatgpt-danh-rieng-cho-thanh-thieu-nien",
-      "url": "https://www.vietnam.vn/fr/openai-ra-mat-phien-ban-chatgpt-danh-rieng-cho-thanh-thieu-nien",
-      "publishedAt": "2026-08-18T16:06:23.000Z",
-      "date": "2026-08-18T16:06:23.000Z",
-      "description": "De nombreuses mesures de protection des jeunes utilisateurs ont été mises en place sur ChatGPT, notamment des restrictions sur les contenus liés à l'...",
-      "excerpt": "De nombreuses mesures de protection des jeunes utilisateurs ont été mises en place sur ChatGPT, notamment des restrictions sur les contenus liés à l'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT pour ados: OpenAI muscle le contrôle parental dès 13 ans - Stéphane Larue",
-      "link": "https://stephanelarue.com/chatgpt-ados-openai-controle-parental-13-ans/",
-      "url": "https://stephanelarue.com/chatgpt-ados-openai-controle-parental-13-ans/",
-      "publishedAt": "2026-08-18T15:47:37.000Z",
-      "date": "2026-08-18T15:47:37.000Z",
-      "description": "... ChatGPT, Gemini et Claude — un choix que notre... Piratage DGFiP: les arnaques par SMS et mail à surveiller. Alerte · Cybersécurité · 1 min.",
-      "excerpt": "... ChatGPT, Gemini et Claude — un choix que notre... Piratage DGFiP: les arnaques par SMS et mail à surveiller. Alerte · Cybersécurité · 1 min.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile ChatGPT for Teens, une version sécurisée pour limiter les risques chez les mineurs",
-      "link": "https://ch.zonebourse.com/actualite-bourse/openai-devoile-chatgpt-for-teens-une-version-securisee-pour-limiter-les-risques-chez-les-mineurs-ce7859ddd88ef222",
-      "url": "https://ch.zonebourse.com/actualite-bourse/openai-devoile-chatgpt-for-teens-une-version-securisee-pour-limiter-les-risques-chez-les-mineurs-ce7859ddd88ef222",
-      "publishedAt": "2026-08-18T14:17:48.000Z",
-      "date": "2026-08-18T14:17:48.000Z",
-      "description": "Cybersécurité. Trading. Market Timing · Actualités qui impactent · Palmarès... OpenAI dévoile ChatGPT for Teens, une version sécurisée pour limiter les...",
-      "excerpt": "Cybersécurité. Trading. Market Timing · Actualités qui impactent · Palmarès... OpenAI dévoile ChatGPT for Teens, une version sécurisée pour limiter les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance le mode Ados de ChatGPT: les parents reprennent la main - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/openai-lance-le-mode-ados-de-chatgpt-les-parents-reprennent-la-main",
-      "url": "https://www.lebigdata.fr/openai-lance-le-mode-ados-de-chatgpt-les-parents-reprennent-la-main",
-      "publishedAt": "2026-08-18T13:54:28.000Z",
-      "date": "2026-08-18T13:54:28.000Z",
-      "description": "OpenAI vient de présenter ChatGPT for Teens, un mode spécialement pensé pour les ados.... IA Data Cloud Cybersécurité Robotique IoT. Business. FinTech...",
-      "excerpt": "OpenAI vient de présenter ChatGPT for Teens, un mode spécialement pensé pour les ados.... IA Data Cloud Cybersécurité Robotique IoT. Business. FinTech...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
