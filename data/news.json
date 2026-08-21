@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T18:23:39.959Z",
+  "generatedAt": "2026-08-21T00:42:50.954Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,76 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Un PC personnel, sept failles et les fichiers de la police au bout: autopsie d'un piratage",
+      "link": "https://www.macg.co/ailleurs/2026/08/un-pc-personnel-sept-failles-et-les-fichiers-de-la-police-au-bout-autopsie-dun-piratage-310491",
+      "url": "https://www.macg.co/ailleurs/2026/08/un-pc-personnel-sept-failles-et-les-fichiers-de-la-police-au-bout-autopsie-dun-piratage-310491",
+      "publishedAt": "2026-08-20T20:40:20.000Z",
+      "date": "2026-08-20T20:40:20.000Z",
+      "description": "# OpenAI # Promotions # sécurité # Siri AI # macOS 27 # macOS # ChatGPT... cybersécurité. Au vu de l'itinéraire emprunté par les pirates...",
+      "excerpt": "# OpenAI # Promotions # sécurité # Siri AI # macOS 27 # macOS # ChatGPT... cybersécurité. Au vu de l'itinéraire emprunté par les pirates...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT peut désormais lire et répondre à vos iMessage sur Mac - iPhoneSoft",
+      "link": "https://iphonesoft.fr/2026/08/20/chatgpt-lire-repondre-imessage-mac",
+      "url": "https://iphonesoft.fr/2026/08/20/chatgpt-lire-repondre-imessage-mac",
+      "publishedAt": "2026-08-20T20:28:44.000Z",
+      "date": "2026-08-20T20:28:44.000Z",
+      "description": "Ce choix intervient alors qu'Apple prépare justement sa propre refonte de Siri, censée mieux exploiter les données de l'appareil sans les faire...",
+      "excerpt": "Ce choix intervient alors qu'Apple prépare justement sa propre refonte de Siri, censée mieux exploiter les données de l'appareil sans les faire...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Mac: ChatGPT peut chercher et écrire dans Messages - App4Phone",
+      "link": "https://www.app4phone.fr/article-213510/chatgpt-mac-recherche-ecriture-messages",
+      "url": "https://www.app4phone.fr/article-213510/chatgpt-mac-recherche-ecriture-messages",
+      "publishedAt": "2026-08-20T20:14:23.000Z",
+      "date": "2026-08-20T20:14:23.000Z",
+      "description": "L'app ChatGPT pour macOS gagne un plugin Apple Messages destiné à fouiller ces échanges et à aider à y répondre, d'après les notes de version d'OpenAI...",
+      "excerpt": "L'app ChatGPT pour macOS gagne un plugin Apple Messages destiné à fouiller ces échanges et à aider à y répondre, d'après les notes de version d'OpenAI...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI lance ChatGPT pour ados avec de nouveaux garde-fous de sécurité - AOL.com",
+      "link": "https://www.aol.com/articles/openai-lance-chatgpt-ados-nouveaux-121459000.html",
+      "url": "https://www.aol.com/articles/openai-lance-chatgpt-ados-nouveaux-121459000.html",
+      "publishedAt": "2026-08-20T19:15:27.000Z",
+      "date": "2026-08-20T19:15:27.000Z",
+      "description": "PHOTO D'ARCHIVES - L'application ChatGPT affichée sur un iPhone à New York, le 18 mai 2023. (Photo AP... cybersécurité, les garde-fous habituels ayant...",
+      "excerpt": "PHOTO D'ARCHIVES - L'application ChatGPT affichée sur un iPhone à New York, le 18 mai 2023. (Photo AP... cybersécurité, les garde-fous habituels ayant...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT sur Mac peut désormais lire vos Messages - AppSystem",
+      "link": "https://www.appsystem.fr/258831/chatgpt-mac-integration-messages/",
+      "url": "https://www.appsystem.fr/258831/chatgpt-mac-integration-messages/",
+      "publishedAt": "2026-08-20T19:08:30.000Z",
+      "date": "2026-08-20T19:08:30.000Z",
+      "description": "ChatGPT élargit son intégration à macOS avec un plugin Apple Messages. D'après les notes de version d'OpenAI, il permet à l'application de bureau...",
+      "excerpt": "ChatGPT élargit son intégration à macOS avec un plugin Apple Messages. D'après les notes de version d'OpenAI, il permet à l'application de bureau...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI confirme officiellement la dangerosité d'Astra et gèle ses serveurs - GNT",
+      "link": "https://www.generation-nt.com/actualites/openai-astra-ia-cybersecurite-developpement-2080024",
+      "url": "https://www.generation-nt.com/actualites/openai-astra-ia-cybersecurite-developpement-2080024",
+      "publishedAt": "2026-08-20T19:04:50.000Z",
+      "date": "2026-08-20T19:04:50.000Z",
+      "description": "Cette décision fait suite à un incident de sécurité impliquant Hugging Face et à la découverte que les compétences d'Astra en cybersécurité... ChatGPT,...",
+      "excerpt": "Cette décision fait suite à un incident de sécurité impliquant Hugging Face et à la découverte que les compétences d'Astra en cybersécurité... ChatGPT,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT sur Mac accède aux conversations Messages - iPhonote",
+      "link": "https://www.iphonote.com/actu/387122/chatgpt-mac-acces-messages",
+      "url": "https://www.iphonote.com/actu/387122/chatgpt-mac-acces-messages",
+      "publishedAt": "2026-08-20T18:16:48.000Z",
+      "date": "2026-08-20T18:16:48.000Z",
+      "description": "Intégration de ChatGPT dans Apple Intelligence: la date de passage à GPT-5 révélée... Source: OpenAI — notes de version de ChatGPT. Partager.",
+      "excerpt": "Intégration de ChatGPT dans Apple Intelligence: la date de passage à GPT-5 révélée... Source: OpenAI — notes de version de ChatGPT. Partager.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "OpenAI ouvre ChatGPT Ads aux annonceurs européens - lebigdata.fr",
       "link": "https://www.lebigdata.fr/chatgpt-ads-france",
@@ -30,6 +100,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "ChatGPT pour adolescents aborde les conversations à risque et les raccourcis pour faire ses devoirs.",
+      "link": "https://www.malwarebytes.com/fr/blog/family-and-parenting/2026/08/chatgpt-for-teens-tackles-risky-chats-and-homework-shortcuts",
+      "url": "https://www.malwarebytes.com/fr/blog/family-and-parenting/2026/08/chatgpt-for-teens-tackles-risky-chats-and-homework-shortcuts",
+      "publishedAt": "2026-08-20T16:11:38.000Z",
+      "date": "2026-08-20T16:11:38.000Z",
+      "description": "ChatGPT pour adolescents aborde les conversations à risque... Les risques de cybersécurité ne devraient jamais se propager au-delà d'un titre.",
+      "excerpt": "ChatGPT pour adolescents aborde les conversations à risque... Les risques de cybersécurité ne devraient jamais se propager au-delà d'un titre.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "La publicité arrive dans ChatGPT en France dès le 24 août, voici ce qui va changer",
       "link": "https://siecledigital.fr/2026/08/20/la-publicite-arrive-dans-chatgpt-en-france-des-le-24-aout-voici-ce-qui-va-changer/",
       "url": "https://siecledigital.fr/2026/08/20/la-publicite-arrive-dans-chatgpt-en-france-des-le-24-aout-voici-ce-qui-va-changer/",
@@ -48,86 +128,6 @@
       "description": "OpenAI étoffe sa plateforme publicitaire. Dans un premier temps, les annonceurs pourront accéder à ChatGPT Ads directement via l'équipe Ads Solutions...",
       "excerpt": "OpenAI étoffe sa plateforme publicitaire. Dans un premier temps, les annonceurs pourront accéder à ChatGPT Ads directement via l'équipe Ads Solutions...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Cyberattaques: père de famille, jeune de 15 ans, maraîcher... Les surprenants profils... - Europe 1",
-      "link": "https://www.europe1.fr/societe/cyberattaques-pere-de-famille-jeune-de-15-ans-maraicher-les-surprenants-profils-des-pirates-selon-le-hacker-ethique-saxx-1024715",
-      "url": "https://www.europe1.fr/societe/cyberattaques-pere-de-famille-jeune-de-15-ans-maraicher-les-surprenants-profils-des-pirates-selon-le-hacker-ethique-saxx-1024715",
-      "publishedAt": "2026-08-20T13:34:52.000Z",
-      "date": "2026-08-20T13:34:52.000Z",
-      "description": "À lire aussi: Cybersécurité: vos confidences à ChatGPT pourraient un jour se retourner contre vous, selon SaxX, hacker éthique. Le hacker éthique...",
-      "excerpt": "À lire aussi: Cybersécurité: vos confidences à ChatGPT pourraient un jour se retourner contre vous, selon SaxX, hacker éthique. Le hacker éthique...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "En quoi consiste la nouvelle unité spéciale pour lutter contre les cyberattaques voulue par...",
-      "link": "https://www.europe1.fr/politique/en-quoi-consiste-la-nouvelle-unite-speciale-pour-lutter-contre-les-cyberattaques-voulue-par-sebastien-lecornu-1024658",
-      "url": "https://www.europe1.fr/politique/en-quoi-consiste-la-nouvelle-unite-speciale-pour-lutter-contre-les-cyberattaques-voulue-par-sebastien-lecornu-1024658",
-      "publishedAt": "2026-08-20T13:16:29.000Z",
-      "date": "2026-08-20T13:16:29.000Z",
-      "description": "Cybersécurité: vos confidences à ChatGPT pourraient un jour se retourner contre vous, selon SaxX, hacker éthique · Cybersécurité: des milliers de...",
-      "excerpt": "Cybersécurité: vos confidences à ChatGPT pourraient un jour se retourner contre vous, selon SaxX, hacker éthique · Cybersécurité: des milliers de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA, cyberattaques, quantique: quel avenir pour nos données personnelles? - Bpifrance",
-      "link": "https://bigmedia.bpifrance.fr/nos-actualites/ia-cyberattaques-quantique-quel-avenir-pour-nos-donnees-personnelles",
-      "url": "https://bigmedia.bpifrance.fr/nos-actualites/ia-cyberattaques-quantique-quel-avenir-pour-nos-donnees-personnelles",
-      "publishedAt": "2026-08-20T13:05:32.000Z",
-      "date": "2026-08-20T13:05:32.000Z",
-      "description": "logo ChatGPT · logo Perplexity · logo Claude. données personnelles ©. Est-on... Hacker éthique et expert en cybersécurité, il estime « qu'il...",
-      "excerpt": "logo ChatGPT · logo Perplexity · logo Claude. données personnelles ©. Est-on... Hacker éthique et expert en cybersécurité, il estime « qu'il...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Publicité sur ChatGPT: le pari 100% RGPD d'OpenAI en Europe - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/publicite-chatgpt-rgpd-strategie-openai",
-      "url": "https://www.lebigdata.fr/publicite-chatgpt-rgpd-strategie-openai",
-      "publishedAt": "2026-08-20T12:33:03.000Z",
-      "date": "2026-08-20T12:33:03.000Z",
-      "description": "OpenAI lance la publicité sur ChatGPT dans 31 pays européens: une stratégie 100% opt-in pour concilier ciblage IA et conformité au RGPD.",
-      "excerpt": "OpenAI lance la publicité sur ChatGPT dans 31 pays européens: une stratégie 100% opt-in pour concilier ciblage IA et conformité au RGPD.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'intelligence artificielle pourra-t-elle bientôt guérir le cancer? Peut-être, selon cette start-up",
-      "link": "https://www.papergeek.fr/lintelligence-artificielle-pourra-t-elle-bientot-guerir-le-cancer-peut-etre-selon-cette-start-up-2472249",
-      "url": "https://www.papergeek.fr/lintelligence-artificielle-pourra-t-elle-bientot-guerir-le-cancer-peut-etre-selon-cette-start-up-2472249",
-      "publishedAt": "2026-08-20T11:55:43.000Z",
-      "date": "2026-08-20T11:55:43.000Z",
-      "description": "OpenAI propose par exemple ChatGPT Health, un assistant de santé qui, pourtant, ne remplacera pas votre médecin. Toutefois, cette technologie est bel...",
-      "excerpt": "OpenAI propose par exemple ChatGPT Health, un assistant de santé qui, pourtant, ne remplacera pas votre médecin. Toutefois, cette technologie est bel...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "vos confidences à ChatGPT pourraient un jour se retourner contre vous, selon SaxX, hacker éthique",
-      "link": "https://www.europe1.fr/societe/cybersecurite-vos-confidences-a-chatgpt-pourraient-un-jour-se-retourner-contre-vous-selon-saxx-hacker-ethique-1024541",
-      "url": "https://www.europe1.fr/societe/cybersecurite-vos-confidences-a-chatgpt-pourraient-un-jour-se-retourner-contre-vous-selon-saxx-hacker-ethique-1024541",
-      "publishedAt": "2026-08-20T10:18:04.000Z",
-      "date": "2026-08-20T10:18:04.000Z",
-      "description": "Cybersécurité: vos confidences à ChatGPT pourraient un jour se retourner contre vous, selon SaxX, hacker éthique. Par. Raphaël Fernandez-Lopez.",
-      "excerpt": "Cybersécurité: vos confidences à ChatGPT pourraient un jour se retourner contre vous, selon SaxX, hacker éthique. Par. Raphaël Fernandez-Lopez.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "AI Act: Claude Opus 5, GPT-5.6 et Gemini 3.6 Sous Nouvelles Règles [2026] - Tech Insider",
-      "link": "https://tech-insider.org/fr/ai-act-claude-opus-5-gpt-5-6-gemini-2026/",
-      "url": "https://tech-insider.org/fr/ai-act-claude-opus-5-gpt-5-6-gemini-2026/",
-      "publishedAt": "2026-08-20T10:17:04.000Z",
-      "date": "2026-08-20T10:17:04.000Z",
-      "description": "ChatGPT, Claude, Gemini et une dizaine d'autres assistants... cybersécurité, cloud, matériel et les tendances qui comptent. editorial@tech...",
-      "excerpt": "ChatGPT, Claude, Gemini et une dizaine d'autres assistants... cybersécurité, cloud, matériel et les tendances qui comptent. editorial@tech...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT est de plus en plus grossier, mais ce n'est pas forcément un bug - PhonAndroid",
-      "link": "https://www.phonandroid.com/chatgpt-est-de-plus-en-plus-grossier-mais-ce-nest-pas-forcement-un-bug.html",
-      "url": "https://www.phonandroid.com/chatgpt-est-de-plus-en-plus-grossier-mais-ce-nest-pas-forcement-un-bug.html",
-      "publishedAt": "2026-08-20T09:33:49.000Z",
-      "date": "2026-08-20T09:33:49.000Z",
-      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT est de plus en plus grossier, mais ce n'est pas forcément un bug.",
-      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT est de plus en plus grossier, mais ce n'est pas forcément un bug.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
