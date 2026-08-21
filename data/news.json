@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T00:42:50.954Z",
+  "generatedAt": "2026-08-21T06:29:07.697Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Elon Musk évoque les prochains essais et projets de la fusée Starship - Zamin.uz",
+      "link": "https://zamin.uz/fr/technologie/218649-elon-musk-evoque-les-prochains-essais-et-projets-de-la-fusee-starship.html",
+      "url": "https://zamin.uz/fr/technologie/218649-elon-musk-evoque-les-prochains-essais-et-projets-de-la-fusee-starship.html",
+      "publishedAt": "2026-08-20T22:55:40.000Z",
+      "date": "2026-08-20T22:55:40.000Z",
+      "description": "Des spécialistes de la cybersécurité piégés par une fausse conférence.",
+      "excerpt": "Des spécialistes de la cybersécurité piégés par une fausse conférence.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Un PC personnel, sept failles et les fichiers de la police au bout: autopsie d'un piratage",
       "link": "https://www.macg.co/ailleurs/2026/08/un-pc-personnel-sept-failles-et-les-fichiers-de-la-police-au-bout-autopsie-dun-piratage-310491",
@@ -118,16 +128,6 @@
       "description": "À partir du 24 août prochain, OpenAI va intégrer de la publicité dans ChatGPT... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER...",
       "excerpt": "À partir du 24 août prochain, OpenAI va intégrer de la publicité dans ChatGPT... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI introduit la publicité dans ChatGPT en Europe | ICTjournal",
-      "link": "https://www.ictjournal.ch/news/2026-08-20/openai-introduit-la-publicite-dans-chatgpt-en-europe",
-      "url": "https://www.ictjournal.ch/news/2026-08-20/openai-introduit-la-publicite-dans-chatgpt-en-europe",
-      "publishedAt": "2026-08-20T14:11:35.000Z",
-      "date": "2026-08-20T14:11:35.000Z",
-      "description": "OpenAI étoffe sa plateforme publicitaire. Dans un premier temps, les annonceurs pourront accéder à ChatGPT Ads directement via l'équipe Ads Solutions...",
-      "excerpt": "OpenAI étoffe sa plateforme publicitaire. Dans un premier temps, les annonceurs pourront accéder à ChatGPT Ads directement via l'équipe Ads Solutions...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
