@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T18:22:18.558Z",
+  "generatedAt": "2026-08-22T00:39:58.677Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "World Robot Conference 2026: Pékin déroule le tapis rouge à plus de 300 entreprises et...",
+      "link": "https://www.journalduweb.org/world-robot-conference-2026-pekin-deroule-le-tapis-rouge-a-plus-de-300-entreprises-et-affirme-sa-suprematie-sur-les-humanoides/",
+      "url": "https://www.journalduweb.org/world-robot-conference-2026-pekin-deroule-le-tapis-rouge-a-plus-de-300-entreprises-et-affirme-sa-suprematie-sur-les-humanoides/",
+      "publishedAt": "2026-08-21T21:59:06.000Z",
+      "date": "2026-08-21T21:59:06.000Z",
+      "description": "... cybersécurité. Une mesure qui vise directement la Chine et qui pourrait... ChatGPT pour Mac enregistre désormais clics, frappes et...",
+      "excerpt": "... cybersécurité. Une mesure qui vise directement la Chine et qui pourrait... ChatGPT pour Mac enregistre désormais clics, frappes et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT affiche des publicités en Europe dès la semaine prochaine - AOL.com",
+      "link": "https://www.aol.com/articles/chatgpt-affiche-publicit%C3%A9s-europe-d%C3%A8s-142801000.html",
+      "url": "https://www.aol.com/articles/chatgpt-affiche-publicit%C3%A9s-europe-d%C3%A8s-142801000.html",
+      "publishedAt": "2026-08-21T18:32:33.000Z",
+      "date": "2026-08-21T18:32:33.000Z",
+      "description": "\"Les publicités dans ChatGPT sont toujours clairement étiquetées et séparées des réponses de ChatGPT... cybersécurité, les garde-fous habituels ayant...",
+      "excerpt": "\"Les publicités dans ChatGPT sont toujours clairement étiquetées et séparées des réponses de ChatGPT... cybersécurité, les garde-fous habituels ayant...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Binance lance Agent OS: les agents IA peuvent désormais trader des cryptos pour vous...",
+      "link": "https://pasqualepillitteri.it/fr/news/12222/binance-agent-os-agents-ia-trading-crypto",
+      "url": "https://pasqualepillitteri.it/fr/news/12222/binance-agent-os-agents-ia-trading-crypto",
+      "publishedAt": "2026-08-21T18:02:13.000Z",
+      "date": "2026-08-21T18:02:13.000Z",
+      "description": "Binance lance Agent OS et les agents IA comme Claude et ChatGPT peuvent trader des cryptos pour vous via MCP, dans un sous-compte dédié aux...",
+      "excerpt": "Binance lance Agent OS et les agents IA comme Claude et ChatGPT peuvent trader des cryptos pour vous via MCP, dans un sous-compte dédié aux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT pilote désormais iMessage sur Mac: quand l'IA lit vos conversations les plus intimes | JDW",
+      "link": "https://www.journalduweb.org/chatgpt-pilote-desormais-imessage-sur-mac-quand-lia-lit-vos-conversations-les-plus-intimes/",
+      "url": "https://www.journalduweb.org/chatgpt-pilote-desormais-imessage-sur-mac-quand-lia-lit-vos-conversations-les-plus-intimes/",
+      "publishedAt": "2026-08-21T17:34:44.000Z",
+      "date": "2026-08-21T17:34:44.000Z",
+      "description": "OpenAI a dévoilé ce 20 août un plugin Apple Messages pour ChatGPT, capable de fouiller, lire, analyser et même envoyer des iMessages depuis un Mac...",
+      "excerpt": "OpenAI a dévoilé ce 20 août un plugin Apple Messages pour ChatGPT, capable de fouiller, lire, analyser et même envoyer des iMessages depuis un Mac...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Vous pourrez peut-être bientôt envoyer de l'argent directement sur TikTok - CNET France",
       "link": "https://fr.cnet.com/tiktok/5502/vous-pourrez-peut-etre-bientot-envoyer-de-largent-directement-sur-tiktok",
@@ -37,6 +77,16 @@
       "date": "2026-08-21T15:07:15.000Z",
       "description": "Six mois après avoir commencé à tester la publicité dans son chatbot aux Etats-Unis, OpenAI déploie ChatGPT Ads dans 31 pays européens,...",
       "excerpt": "Six mois après avoir commencé à tester la publicité dans son chatbot aux Etats-Unis, OpenAI déploie ChatGPT Ads dans 31 pays européens,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "vos confidences à ChatGPT pourraient un jour se retourner contre vous, selon SaxX, hacker éthique",
+      "link": "https://cybercriminalite.blog/2026/08/21/cybersecurite-vos-confidences-a-chatgpt-pourraient-un-jour-se-retourner-contre-vous-selon-saxx-hacker-ethique/",
+      "url": "https://cybercriminalite.blog/2026/08/21/cybersecurite-vos-confidences-a-chatgpt-pourraient-un-jour-se-retourner-contre-vous-selon-saxx-hacker-ethique/",
+      "publishedAt": "2026-08-21T15:04:36.000Z",
+      "date": "2026-08-21T15:04:36.000Z",
+      "description": "L' INTELLIGENCE CYBER par Jean-Paul Pinte · Cybersécurité: vos confidences à ChatGPT pourraient un jour se retourner contre vous, selon SaxX, hacker...",
+      "excerpt": "L' INTELLIGENCE CYBER par Jean-Paul Pinte · Cybersécurité: vos confidences à ChatGPT pourraient un jour se retourner contre vous, selon SaxX, hacker...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -77,56 +127,6 @@
       "date": "2026-08-21T12:45:58.000Z",
       "description": "OpenAI a publié le plugin Apple Messages pour ChatGPT le 20 août 2026, permettant aux utilisateurs de gérer les conversations sur iMessage,...",
       "excerpt": "OpenAI a publié le plugin Apple Messages pour ChatGPT le 20 août 2026, permettant aux utilisateurs de gérer les conversations sur iMessage,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT peut désormais lire et envoyer vos iMessages sur Mac - Stéphane Larue",
-      "link": "https://stephanelarue.com/chatgpt-peut-desormais-lire-et-envoyer-vos-imessages-sur-mac/",
-      "url": "https://stephanelarue.com/chatgpt-peut-desormais-lire-et-envoyer-vos-imessages-sur-mac/",
-      "publishedAt": "2026-08-21T12:44:08.000Z",
-      "date": "2026-08-21T12:44:08.000Z",
-      "description": "Le plugin ne fonctionne que sur les Mac équipés d'une puce Apple Silicon · ChatGPT peut lire, résumer et rédiger des réponses dans l'app Messages...",
-      "excerpt": "Le plugin ne fonctionne que sur les Mac équipés d'une puce Apple Silicon · ChatGPT peut lire, résumer et rédiger des réponses dans l'app Messages...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT peut maintenant lire et envoyer vos iMessages directement depuis le Mac",
-      "link": "https://korben.info/chatgpt-peut-maintenant-lire-et-envoyer-vos-imessages-directement-depuis-le-mac.html",
-      "url": "https://korben.info/chatgpt-peut-maintenant-lire-et-envoyer-vos-imessages-directement-depuis-le-mac.html",
-      "publishedAt": "2026-08-21T12:28:07.000Z",
-      "date": "2026-08-21T12:28:07.000Z",
-      "description": "Il fallait s'y attendre, mais ça fait quand même drôle de le voir arriver. OpenAI a greffé sur son application ChatGPT pour Mac un plugin,...",
-      "excerpt": "Il fallait s'y attendre, mais ça fait quand même drôle de le voir arriver. OpenAI a greffé sur son application ChatGPT pour Mac un plugin,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'IA envahit le web moins vite que prévu: une page sur dix porterait sa trace - Clubic",
-      "link": "https://www.clubic.com/actualite-626248-l-ia-envahit-le-web-moins-vite-que-prevu-une-page-sur-dix-porterait-sa-trace.html",
-      "url": "https://www.clubic.com/actualite-626248-l-ia-envahit-le-web-moins-vite-que-prevu-une-page-sur-dix-porterait-sa-trace.html",
-      "publishedAt": "2026-08-21T11:51:37.000Z",
-      "date": "2026-08-21T11:51:37.000Z",
-      "description": "... ChatGPT. Le raz-de-marée annoncé ressemble davantage à une marée... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
-      "excerpt": "... ChatGPT. Le raz-de-marée annoncé ressemble davantage à une marée... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT pilote désormais iMessage sur Mac: quand l'IA lit vos conversations les plus intimes | JDW",
-      "link": "https://www.journalduweb.org/chatgpt-pilote-desormais-imessage-sur-mac-quand-lia-lit-vos-conversations-les-plus-intimes/",
-      "url": "https://www.journalduweb.org/chatgpt-pilote-desormais-imessage-sur-mac-quand-lia-lit-vos-conversations-les-plus-intimes/",
-      "publishedAt": "2026-08-21T11:34:42.000Z",
-      "date": "2026-08-21T11:34:42.000Z",
-      "description": "Informatique & Cybersécurité Mobiles & Apps · Windows 11 démembre... iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6...",
-      "excerpt": "Informatique & Cybersécurité Mobiles & Apps · Windows 11 démembre... iOS 27: Apple avec Siri ouvre grand la porte a ChatGPT et Claude AI. 6...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT passe à la publicité: les annonces arrivent dans 31 pays européens le 24 août",
-      "link": "https://pasqualepillitteri.it/fr/news/12026/chatgpt-ads-europa-31-paesi-fr",
-      "url": "https://pasqualepillitteri.it/fr/news/12026/chatgpt-ads-europa-31-paesi-fr",
-      "publishedAt": "2026-08-21T10:53:04.000Z",
-      "date": "2026-08-21T10:53:04.000Z",
-      "description": "OpenAI a annoncé l'expansion de ChatGPT Ads vers 31 marchés européens avec un post officiel intitulé \" ChatGPT Ads expands across Europe\", publié le 18...",
-      "excerpt": "OpenAI a annoncé l'expansion de ChatGPT Ads vers 31 marchés européens avec un post officiel intitulé \" ChatGPT Ads expands across Europe\", publié le 18...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
