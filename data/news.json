@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T00:39:58.677Z",
+  "generatedAt": "2026-08-22T06:22:06.071Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-5.6 Sol dope les revenus d'OpenAI, qui regagne du terrain sur Anthropic - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6045602-gpt-5-6-sol-dope-les-revenus-d-openai-qui-regagne-du-terrain-sur-anthropic",
+      "url": "https://www.lefilia.fr/article/6045602-gpt-5-6-sol-dope-les-revenus-d-openai-qui-regagne-du-terrain-sur-anthropic",
+      "publishedAt": "2026-08-22T01:21:28.000Z",
+      "date": "2026-08-22T01:21:28.000Z",
+      "description": "OpenAI annonce une hausse de 35 % de son chiffre d'affaires ce trimestre, portée par le lancement de GPT-5.6 Sol début juillet 2026.... Cybersécurité...",
+      "excerpt": "OpenAI annonce une hausse de 35 % de son chiffre d'affaires ce trimestre, portée par le lancement de GPT-5.6 Sol début juillet 2026.... Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "World Robot Conference 2026: Pékin déroule le tapis rouge à plus de 300 entreprises et...",
       "link": "https://www.journalduweb.org/world-robot-conference-2026-pekin-deroule-le-tapis-rouge-a-plus-de-300-entreprises-et-affirme-sa-suprematie-sur-les-humanoides/",
@@ -117,16 +127,6 @@
       "date": "2026-08-21T12:50:24.000Z",
       "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
       "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT présente le plugin Apple Messages pour les utilisateurs Mac - Dataconomy FR",
-      "link": "https://fr.dataconomy.com/2026/08/21/chatgpt-presente-le-plugin-apple-messages-pour-les-utilisateurs-mac/",
-      "url": "https://fr.dataconomy.com/2026/08/21/chatgpt-presente-le-plugin-apple-messages-pour-les-utilisateurs-mac/",
-      "publishedAt": "2026-08-21T12:45:58.000Z",
-      "date": "2026-08-21T12:45:58.000Z",
-      "description": "OpenAI a publié le plugin Apple Messages pour ChatGPT le 20 août 2026, permettant aux utilisateurs de gérer les conversations sur iMessage,...",
-      "excerpt": "OpenAI a publié le plugin Apple Messages pour ChatGPT le 20 août 2026, permettant aux utilisateurs de gérer les conversations sur iMessage,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
