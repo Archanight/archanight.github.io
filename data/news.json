@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T12:19:04.753Z",
+  "generatedAt": "2026-08-22T18:15:06.853Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,14 +10,64 @@
   "failedSources": [],
   "items": [
     {
+      "title": "OpenAI permet à ChatGPT de résumer et reformuler les iMessages sur Mac - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-permet-a-chatgpt-de-resumer-et-reformuler-les-imessages-sur-mac",
+      "url": "https://www.briefia.fr/article/openai-permet-a-chatgpt-de-resumer-et-reformuler-les-imessages-sur-mac",
+      "publishedAt": "2026-08-22T16:40:10.000Z",
+      "date": "2026-08-22T16:40:10.000Z",
+      "description": "plugin ChatGPT relie Apple Messages sur Mac. 2Il permet d'envoyer... Anthropic déploie Claude Security sur Mythos 5 pour la cybersécurité il...",
+      "excerpt": "plugin ChatGPT relie Apple Messages sur Mac. 2Il permet d'envoyer... Anthropic déploie Claude Security sur Mythos 5 pour la cybersécurité il...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les publicités ChatGPT ont fait leur apparition en Europe lundi, mais il ne s'agit pas de...",
+      "link": "https://www.notebookcheck.biz/Les-publicites-ChatGPT-ont-fait-leur-apparition-en-Europe-lundi-mais-il-ne-s-agit-pas-de-publicites-personnalisees.1375578.0.html",
+      "url": "https://www.notebookcheck.biz/Les-publicites-ChatGPT-ont-fait-leur-apparition-en-Europe-lundi-mais-il-ne-s-agit-pas-de-publicites-personnalisees.1375578.0.html",
+      "publishedAt": "2026-08-22T16:23:47.000Z",
+      "date": "2026-08-22T16:23:47.000Z",
+      "description": "OpenAI lance les publicités ChatGPT sur 31 marchés européens le 24 août. Seuls les utilisateurs des formules « Free » et « Go » les verront,...",
+      "excerpt": "OpenAI lance les publicités ChatGPT sur 31 marchés européens le 24 août. Seuls les utilisateurs des formules « Free » et « Go » les verront,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Qwen3.8-Max: Alibaba Publie 2,4T Paramètres en Open [2026] - Tech Insider",
+      "link": "https://tech-insider.org/fr/qwen3-8-max-alibaba-open-weight-2026/",
+      "url": "https://tech-insider.org/fr/qwen3-8-max-alibaba-open-weight-2026/",
+      "publishedAt": "2026-08-22T15:34:06.000Z",
+      "date": "2026-08-22T15:34:06.000Z",
+      "description": "Alibaba dévoile Qwen3.8-Max, un modèle open-source à 2,4T de paramètres qui rivalise avec GPT-5. Performances, prix et disponibilité en 2026.",
+      "excerpt": "Alibaba dévoile Qwen3.8-Max, un modèle open-source à 2,4T de paramètres qui rivalise avec GPT-5. Performances, prix et disponibilité en 2026.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Bordouse » à Bordeaux: cette carte de France montre les progrès de ChatGPT en un an et demi",
+      "link": "https://www.numerama.com/tech/2314897-de-bordouse-a-bordeaux-cette-carte-de-france-montre-les-progres-de-chatgpt-en-un-an-et-demi.html",
+      "url": "https://www.numerama.com/tech/2314897-de-bordouse-a-bordeaux-cette-carte-de-france-montre-les-progres-de-chatgpt-en-un-an-et-demi.html",
+      "publishedAt": "2026-08-22T15:18:51.000Z",
+      "date": "2026-08-22T15:18:51.000Z",
+      "description": "En mars 2025, ChatGPT produisait une carte de France complètement délirante, remplie de villes imaginaires. Dix-sept mois plus tard,...",
+      "excerpt": "En mars 2025, ChatGPT produisait une carte de France complètement délirante, remplie de villes imaginaires. Dix-sept mois plus tard,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ATOS GROUP: chatgpt: Est-ce qu'Atos pourrait devenir le Palantir européen - Boursorama",
+      "link": "https://www.boursorama.com/bourse/forum/1rPATO/detail/468366108/",
+      "url": "https://www.boursorama.com/bourse/forum/1rPATO/detail/468366108/",
+      "publishedAt": "2026-08-22T11:44:44.000Z",
+      "date": "2026-08-22T11:44:44.000Z",
+      "description": "ATOS GROUP: chatgpt: Est-ce qu'Atos pourrait devenir le Palantir européen?... cybersécurité vont réellement permettre à Atos de retrouver de la...",
+      "excerpt": "ATOS GROUP: chatgpt: Est-ce qu'Atos pourrait devenir le Palantir européen?... cybersécurité vont réellement permettre à Atos de retrouver de la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "OpenAI baisse de plus de 20% le prix de GPT-5.6 Sol, désormais moins cher que Claude Opus 5",
       "link": "https://pasqualepillitteri.it/fr/news/12264/openai-baisse-prix-gpt-5-6-sol",
       "url": "https://pasqualepillitteri.it/fr/news/12264/openai-baisse-prix-gpt-5-6-sol",
       "publishedAt": "2026-08-22T11:09:06.000Z",
       "date": "2026-08-22T11:09:06.000Z",
-      "description": "... ChatGPT Work et Codex. Le coût des tokens d'entrée passe de 5 à 4... cybersécurité. Ce sont justement ses qualités en matière de sécurité...",
-      "excerpt": "... ChatGPT Work et Codex. Le coût des tokens d'entrée passe de 5 à 4... cybersécurité. Ce sont justement ses qualités en matière de sécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "description": "... ChatGPT Work et Codex. Le coût des tokens d'entrée passe de 5 à 4 dollars par million, celui des tokens de sortie chute de 30 à 20 dollars par...",
+      "excerpt": "... ChatGPT Work et Codex. Le coût des tokens d'entrée passe de 5 à 4 dollars par million, celui des tokens de sortie chute de 30 à 20 dollars par...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Eurostar, SNCF, Booking, Expedia… vos vacances n'échappent désormais plus à l'IA - BFM",
@@ -77,56 +127,6 @@
       "date": "2026-08-21T18:32:33.000Z",
       "description": "\"Les publicités dans ChatGPT sont toujours clairement étiquetées et séparées des réponses de ChatGPT... cybersécurité, les garde-fous habituels ayant...",
       "excerpt": "\"Les publicités dans ChatGPT sont toujours clairement étiquetées et séparées des réponses de ChatGPT... cybersécurité, les garde-fous habituels ayant...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Binance lance Agent OS: les agents IA peuvent désormais trader des cryptos pour vous...",
-      "link": "https://pasqualepillitteri.it/fr/news/12222/binance-agent-os-agents-ia-trading-crypto",
-      "url": "https://pasqualepillitteri.it/fr/news/12222/binance-agent-os-agents-ia-trading-crypto",
-      "publishedAt": "2026-08-21T18:02:13.000Z",
-      "date": "2026-08-21T18:02:13.000Z",
-      "description": "Binance lance Agent OS et les agents IA comme Claude et ChatGPT peuvent trader des cryptos pour vous via MCP, dans un sous-compte dédié aux...",
-      "excerpt": "Binance lance Agent OS et les agents IA comme Claude et ChatGPT peuvent trader des cryptos pour vous via MCP, dans un sous-compte dédié aux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT pilote désormais iMessage sur Mac: quand l'IA lit vos conversations les plus intimes | JDW",
-      "link": "https://www.journalduweb.org/chatgpt-pilote-desormais-imessage-sur-mac-quand-lia-lit-vos-conversations-les-plus-intimes/",
-      "url": "https://www.journalduweb.org/chatgpt-pilote-desormais-imessage-sur-mac-quand-lia-lit-vos-conversations-les-plus-intimes/",
-      "publishedAt": "2026-08-21T17:34:44.000Z",
-      "date": "2026-08-21T17:34:44.000Z",
-      "description": "OpenAI a dévoilé ce 20 août un plugin Apple Messages pour ChatGPT, capable de fouiller, lire, analyser et même envoyer des iMessages depuis un Mac...",
-      "excerpt": "OpenAI a dévoilé ce 20 août un plugin Apple Messages pour ChatGPT, capable de fouiller, lire, analyser et même envoyer des iMessages depuis un Mac...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Vous pourrez peut-être bientôt envoyer de l'argent directement sur TikTok - CNET France",
-      "link": "https://fr.cnet.com/tiktok/5502/vous-pourrez-peut-etre-bientot-envoyer-de-largent-directement-sur-tiktok",
-      "url": "https://fr.cnet.com/tiktok/5502/vous-pourrez-peut-etre-bientot-envoyer-de-largent-directement-sur-tiktok",
-      "publishedAt": "2026-08-21T17:04:57.000Z",
-      "date": "2026-08-21T17:04:57.000Z",
-      "description": "ChatGPT for Teens se met aux règles pour les ados: ce qui va changer. Tests. Galaxy Z Fold 8 Ultra: The Best Update Isn't What I Expected · Les...",
-      "excerpt": "ChatGPT for Teens se met aux règles pour les ados: ce qui va changer. Tests. Galaxy Z Fold 8 Ultra: The Best Update Isn't What I Expected · Les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Slack Code: un canal collaboratif pour orchestrer le travail des agents IA en équipe - BDM",
-      "link": "https://www.blogdumoderateur.com/slack-code-canal-collaboratif-orchestrer-travail-agents-ia-equipe/",
-      "url": "https://www.blogdumoderateur.com/slack-code-canal-collaboratif-orchestrer-travail-agents-ia-equipe/",
-      "publishedAt": "2026-08-21T15:38:17.000Z",
-      "date": "2026-08-21T15:38:17.000Z",
-      "description": "Mentionner Claude, Devin, Vercel, Copilot ou, bientôt, ChatGPT dans Slack ouvre désormais un canal dédié, visible par toute l'équipe,...",
-      "excerpt": "Mentionner Claude, Devin, Vercel, Copilot ou, bientôt, ChatGPT dans Slack ouvre désormais un canal dédié, visible par toute l'équipe,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Publicités dans ChatGPT: comment OpenAI ouvre un nouveau levier de monétisation en Europe",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/publicites-dans-chatgpt-comment-openai-ouvre-un-nouveau-levier-de-monetisation-en-europe.NC4626C5UNDADGRDY5YU7TIUTQ.html",
-      "url": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/publicites-dans-chatgpt-comment-openai-ouvre-un-nouveau-levier-de-monetisation-en-europe.NC4626C5UNDADGRDY5YU7TIUTQ.html",
-      "publishedAt": "2026-08-21T15:07:15.000Z",
-      "date": "2026-08-21T15:07:15.000Z",
-      "description": "Six mois après avoir commencé à tester la publicité dans son chatbot aux Etats-Unis, OpenAI déploie ChatGPT Ads dans 31 pays européens,...",
-      "excerpt": "Six mois après avoir commencé à tester la publicité dans son chatbot aux Etats-Unis, OpenAI déploie ChatGPT Ads dans 31 pays européens,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
