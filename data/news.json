@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T12:19:28.303Z",
+  "generatedAt": "2026-08-23T18:14:45.870Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,96 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Adieu Google, ChatGPT et WhatsApp: nous avons remplacé leurs applications du quotidien...",
+      "link": "https://www.lesnumeriques.com/societe-numerique/adieu-google-chatgpt-et-whatsapp-nous-avons-remplace-leurs-applications-du-quotidien-par-des-equivalents-europeens-n260695.html",
+      "url": "https://www.lesnumeriques.com/societe-numerique/adieu-google-chatgpt-et-whatsapp-nous-avons-remplace-leurs-applications-du-quotidien-par-des-equivalents-europeens-n260695.html",
+      "publishedAt": "2026-08-23T16:49:34.000Z",
+      "date": "2026-08-23T16:49:34.000Z",
+      "description": "Bureautique, IA, GPS ou messagerie: voici sept alternatives européennes pour reprendre la main sur vos données. Adieu Google, ChatGPT et WhatsApp:...",
+      "excerpt": "Bureautique, IA, GPS ou messagerie: voici sept alternatives européennes pour reprendre la main sur vos données. Adieu Google, ChatGPT et WhatsApp:...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Vos conversations ChatGPT bientôt cachées derrière votre empreinte digitale? - Clubic",
+      "link": "https://www.clubic.com/actualite-626371-vos-conversations-chatgpt-bientot-cachees-derriere-votre-empreinte-digitale.html",
+      "url": "https://www.clubic.com/actualite-626371-vos-conversations-chatgpt-bientot-cachees-derriere-votre-empreinte-digitale.html",
+      "publishedAt": "2026-08-23T16:18:22.000Z",
+      "date": "2026-08-23T16:18:22.000Z",
+      "description": "OpenAI développerait une fonction pour verrouiller certaines conversations de ChatGPT par un code ou une empreinte digitale... Top Cybersécurité.",
+      "excerpt": "OpenAI développerait une fonction pour verrouiller certaines conversations de ChatGPT par un code ou une empreinte digitale... Top Cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "1minAI Pro bouscule ChatGPT, Claude et Gemini avec un accès à vie à moins de 35 €",
+      "link": "https://www.clubic.com/bons-plans-626272-fini-les-abonnements-ia-multiples-cvoici-1minai-pro-a-vie-pour-moins-de-35.html",
+      "url": "https://www.clubic.com/bons-plans-626272-fini-les-abonnements-ia-multiples-cvoici-1minai-pro-a-vie-pour-moins-de-35.html",
+      "publishedAt": "2026-08-23T15:19:46.000Z",
+      "date": "2026-08-23T15:19:46.000Z",
+      "description": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... 1minAI Pro bouscule ChatGPT, Claude et Gemini avec un accès à vie à moins...",
+      "excerpt": "Top Cybersécurité. Meilleur VPN · VPN gratuit · VPN gratuit iphone · VPN... 1minAI Pro bouscule ChatGPT, Claude et Gemini avec un accès à vie à moins...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT peut désormais enregistrer votre activité sur Mac en Europe, si vous l'y autorisez",
+      "link": "https://www.notebookcheck.biz/ChatGPT-peut-desormais-enregistrer-votre-activite-sur-Mac-en-Europe-si-vous-l-x27-y-autorisez.1376232.0.html",
+      "url": "https://www.notebookcheck.biz/ChatGPT-peut-desormais-enregistrer-votre-activite-sur-Mac-en-Europe-si-vous-l-x27-y-autorisez.1376232.0.html",
+      "publishedAt": "2026-08-23T14:32:48.000Z",
+      "date": "2026-08-23T14:32:48.000Z",
+      "description": "Ce que « Computer History » enregistre. Cette fonctionnalité est intégrée à l'application de bureau ChatGPT pour macOS et recueille les événements d'...",
+      "excerpt": "Ce que « Computer History » enregistre. Cette fonctionnalité est intégrée à l'application de bureau ChatGPT pour macOS et recueille les événements d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Reddit disparaît des citations de ChatGPT, ce qui change pour la recherche IA",
+      "link": "https://pasqualepillitteri.it/fr/news/12460/reddit-disparait-citations-chatgpt-recherche-ia",
+      "url": "https://pasqualepillitteri.it/fr/news/12460/reddit-disparait-citations-chatgpt-recherche-ia",
+      "publishedAt": "2026-08-23T14:07:40.000Z",
+      "date": "2026-08-23T14:07:40.000Z",
+      "description": "ChatGPT a cessé de citer Reddit avec la même fréquence après un changement dans la façon dont il construit ses recherches internes, et non à cause d'...",
+      "excerpt": "ChatGPT a cessé de citer Reddit avec la même fréquence après un changement dans la façon dont il construit ses recherches internes, et non à cause d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT entre dans Apple Messages: l'IA peut lire et envoyer vos conversations sur Mac",
+      "link": "https://lenversduflux.fr/articles/chatgpt-apple-messages-ia-lire-envoyer-conversations-mac/",
+      "url": "https://lenversduflux.fr/articles/chatgpt-apple-messages-ia-lire-envoyer-conversations-mac/",
+      "publishedAt": "2026-08-23T13:24:05.000Z",
+      "date": "2026-08-23T13:24:05.000Z",
+      "description": "OpenAI — Release notes, 20 août 2026 · OpenAI — Documentation du plugin Apple Messages · 9to5Mac — ChatGPT update adds Apple Messages integration on Mac...",
+      "excerpt": "OpenAI — Release notes, 20 août 2026 · OpenAI — Documentation du plugin Apple Messages · 9to5Mac — ChatGPT update adds Apple Messages integration on Mac...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "GPT‑5.6‑Cyber répond à 95 % des requêtes risquées, mais sous accès contrôlé - Quasa",
+      "link": "https://quasa.io/fr/media/gpt-5-6-cyber-repond-a-95-des-requetes-risquees-mais-sous-acces-controle",
+      "url": "https://quasa.io/fr/media/gpt-5-6-cyber-repond-a-95-des-requetes-risquees-mais-sous-acces-controle",
+      "publishedAt": "2026-08-23T10:57:01.000Z",
+      "date": "2026-08-23T10:57:01.000Z",
+      "description": "OpenAI a dévoilé le 10 août 2026 GPT‑5.6‑Cyber, une variante de GPT‑5.6 Sol conçue pour moins refuser les travaux de cybersécurité avancés. Lors...",
+      "excerpt": "OpenAI a dévoilé le 10 août 2026 GPT‑5.6‑Cyber, une variante de GPT‑5.6 Sol conçue pour moins refuser les travaux de cybersécurité avancés. Lors...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Investissement: peut-on faire confiance à l'intelligence artificielle pour placer son argent?",
+      "link": "https://www.europe1.fr/economie/investissement-peut-on-faire-confiance-a-lintelligence-artificielle-pour-placer-son-argent-1029539",
+      "url": "https://www.europe1.fr/economie/investissement-peut-on-faire-confiance-a-lintelligence-artificielle-pour-placer-son-argent-1029539",
+      "publishedAt": "2026-08-23T08:53:33.000Z",
+      "date": "2026-08-23T08:53:33.000Z",
+      "description": "Cybersécurité: vos confidences à ChatGPT pourraient un jour se retourner contre vous, selon SaxX, hacker éthique. L'Europe ne peut pas «se...",
+      "excerpt": "Cybersécurité: vos confidences à ChatGPT pourraient un jour se retourner contre vous, selon SaxX, hacker éthique. L'Europe ne peut pas «se...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Ton compte ChatGPT contient probablement des mois, voire des années, de conversations...",
+      "link": "https://www.instagram.com/p/DcTqisdiqeA/",
+      "url": "https://www.instagram.com/p/DcTqisdiqeA/",
+      "publishedAt": "2026-08-23T06:24:36.000Z",
+      "date": "2026-08-23T06:24:36.000Z",
+      "description": "Tu en penses quoi? L'IA est-elle plus une opportunité ou un risque? #Tech #IA # ChatGPT # Cybersécurité #Innovation.",
+      "excerpt": "Tu en penses quoi? L'IA est-elle plus une opportunité ou un risque? #Tech #IA # ChatGPT # Cybersécurité #Innovation.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI permet à ChatGPT de résumer et reformuler les iMessages sur Mac - Brief IA",
       "link": "https://www.briefia.fr/article/openai-permet-a-chatgpt-de-resumer-et-reformuler-les-imessages-sur-mac",
@@ -37,96 +127,6 @@
       "date": "2026-08-22T18:46:35.000Z",
       "description": "01Le Nobel de chimie qui dirige l'IA chez Google: « J'aurais préféré guérir le cancer avant de lancer ChatGPT »... GPT-5 DeepSeekDeepSeek V4...",
       "excerpt": "01Le Nobel de chimie qui dirige l'IA chez Google: « J'aurais préféré guérir le cancer avant de lancer ChatGPT »... GPT-5 DeepSeekDeepSeek V4...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les publicités ChatGPT ont fait leur apparition en Europe lundi, mais il ne s'agit pas de...",
-      "link": "https://www.notebookcheck.biz/Les-publicites-ChatGPT-ont-fait-leur-apparition-en-Europe-lundi-mais-il-ne-s-agit-pas-de-publicites-personnalisees.1375578.0.html",
-      "url": "https://www.notebookcheck.biz/Les-publicites-ChatGPT-ont-fait-leur-apparition-en-Europe-lundi-mais-il-ne-s-agit-pas-de-publicites-personnalisees.1375578.0.html",
-      "publishedAt": "2026-08-22T16:23:47.000Z",
-      "date": "2026-08-22T16:23:47.000Z",
-      "description": "OpenAI lance les publicités ChatGPT sur 31 marchés européens le 24 août. Seuls les utilisateurs des formules « Free » et « Go » les verront,...",
-      "excerpt": "OpenAI lance les publicités ChatGPT sur 31 marchés européens le 24 août. Seuls les utilisateurs des formules « Free » et « Go » les verront,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Qwen3.8-Max: Alibaba Publie 2,4T Paramètres en Open [2026] - Tech Insider",
-      "link": "https://tech-insider.org/fr/qwen3-8-max-alibaba-open-weight-2026/",
-      "url": "https://tech-insider.org/fr/qwen3-8-max-alibaba-open-weight-2026/",
-      "publishedAt": "2026-08-22T15:34:06.000Z",
-      "date": "2026-08-22T15:34:06.000Z",
-      "description": "Alibaba dévoile Qwen3.8-Max, un modèle open-source à 2,4T de paramètres qui rivalise avec GPT-5. Performances, prix et disponibilité en 2026.",
-      "excerpt": "Alibaba dévoile Qwen3.8-Max, un modèle open-source à 2,4T de paramètres qui rivalise avec GPT-5. Performances, prix et disponibilité en 2026.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Bordouse » à Bordeaux: cette carte de France montre les progrès de ChatGPT en un an et demi",
-      "link": "https://www.numerama.com/tech/2314897-de-bordouse-a-bordeaux-cette-carte-de-france-montre-les-progres-de-chatgpt-en-un-an-et-demi.html",
-      "url": "https://www.numerama.com/tech/2314897-de-bordouse-a-bordeaux-cette-carte-de-france-montre-les-progres-de-chatgpt-en-un-an-et-demi.html",
-      "publishedAt": "2026-08-22T15:18:51.000Z",
-      "date": "2026-08-22T15:18:51.000Z",
-      "description": "En mars 2025, ChatGPT produisait une carte de France complètement délirante, remplie de villes imaginaires. Dix-sept mois plus tard,...",
-      "excerpt": "En mars 2025, ChatGPT produisait une carte de France complètement délirante, remplie de villes imaginaires. Dix-sept mois plus tard,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ATOS GROUP: chatgpt: Est-ce qu'Atos pourrait devenir le Palantir européen - Boursorama",
-      "link": "https://www.boursorama.com/bourse/forum/1rPATO/detail/468366108/",
-      "url": "https://www.boursorama.com/bourse/forum/1rPATO/detail/468366108/",
-      "publishedAt": "2026-08-22T11:44:44.000Z",
-      "date": "2026-08-22T11:44:44.000Z",
-      "description": "ATOS GROUP: chatgpt: Est-ce qu'Atos pourrait devenir le Palantir européen?... cybersécurité vont réellement permettre à Atos de retrouver de la...",
-      "excerpt": "ATOS GROUP: chatgpt: Est-ce qu'Atos pourrait devenir le Palantir européen?... cybersécurité vont réellement permettre à Atos de retrouver de la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI baisse de plus de 20% le prix de GPT-5.6 Sol, désormais moins cher que Claude Opus 5",
-      "link": "https://pasqualepillitteri.it/fr/news/12264/openai-baisse-prix-gpt-5-6-sol",
-      "url": "https://pasqualepillitteri.it/fr/news/12264/openai-baisse-prix-gpt-5-6-sol",
-      "publishedAt": "2026-08-22T11:09:06.000Z",
-      "date": "2026-08-22T11:09:06.000Z",
-      "description": "... ChatGPT Work et Codex. Le coût des tokens d'entrée passe de 5 à 4 dollars par million, celui des tokens de sortie chute de 30 à 20 dollars par...",
-      "excerpt": "... ChatGPT Work et Codex. Le coût des tokens d'entrée passe de 5 à 4 dollars par million, celui des tokens de sortie chute de 30 à 20 dollars par...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Eurostar, SNCF, Booking, Expedia… vos vacances n'échappent désormais plus à l'IA - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/eurostar-sncf-booking-expedia-vos-vacances-n-echappent-desormais-plus-a-l-ia_AN-202608220040.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/eurostar-sncf-booking-expedia-vos-vacances-n-echappent-desormais-plus-a-l-ia_AN-202608220040.html",
-      "publishedAt": "2026-08-22T08:59:36.000Z",
-      "date": "2026-08-22T08:59:36.000Z",
-      "description": "Depuis quelques jours, Eurostar permet de chercher et réserver un train en discutant avec ChatGPT. Un nouveau venu dans un secteur du voyage qui...",
-      "excerpt": "Depuis quelques jours, Eurostar permet de chercher et réserver un train en discutant avec ChatGPT. Un nouveau venu dans un secteur du voyage qui...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lancera ChatGPT Ads en Europe le 24 août 2026 | Brief IA",
-      "link": "https://www.briefia.fr/article/openai-lancera-chatgpt-ads-en-europe-le-24-aout-2026",
-      "url": "https://www.briefia.fr/article/openai-lancera-chatgpt-ads-en-europe-le-24-aout-2026",
-      "publishedAt": "2026-08-22T07:09:47.000Z",
-      "date": "2026-08-22T07:09:47.000Z",
-      "description": "ChatGPT Ads sera lancé en Europe le 24 août 2026 31 pays européens, dont la France, l'Allemagne, l'Espagne, l'Italie, les Pays-Bas et la Suède,...",
-      "excerpt": "ChatGPT Ads sera lancé en Europe le 24 août 2026 31 pays européens, dont la France, l'Allemagne, l'Espagne, l'Italie, les Pays-Bas et la Suède,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6 Sol dope les revenus d'OpenAI, qui regagne du terrain sur Anthropic - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6045602-gpt-5-6-sol-dope-les-revenus-d-openai-qui-regagne-du-terrain-sur-anthropic",
-      "url": "https://www.lefilia.fr/article/6045602-gpt-5-6-sol-dope-les-revenus-d-openai-qui-regagne-du-terrain-sur-anthropic",
-      "publishedAt": "2026-08-22T01:21:28.000Z",
-      "date": "2026-08-22T01:21:28.000Z",
-      "description": "OpenAI annonce une hausse de 35 % de son chiffre d'affaires ce trimestre, portée par le lancement de GPT-5.6 Sol début juillet 2026.... Cybersécurité...",
-      "excerpt": "OpenAI annonce une hausse de 35 % de son chiffre d'affaires ce trimestre, portée par le lancement de GPT-5.6 Sol début juillet 2026.... Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "World Robot Conference 2026: Pékin déroule le tapis rouge à plus de 300 entreprises et...",
-      "link": "https://www.journalduweb.org/world-robot-conference-2026-pekin-deroule-le-tapis-rouge-a-plus-de-300-entreprises-et-affirme-sa-suprematie-sur-les-humanoides/",
-      "url": "https://www.journalduweb.org/world-robot-conference-2026-pekin-deroule-le-tapis-rouge-a-plus-de-300-entreprises-et-affirme-sa-suprematie-sur-les-humanoides/",
-      "publishedAt": "2026-08-21T21:59:06.000Z",
-      "date": "2026-08-21T21:59:06.000Z",
-      "description": "... cybersécurité. Une mesure qui vise directement la Chine et qui pourrait... ChatGPT pour Mac enregistre désormais clics, frappes et...",
-      "excerpt": "... cybersécurité. Une mesure qui vise directement la Chine et qui pourrait... ChatGPT pour Mac enregistre désormais clics, frappes et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
