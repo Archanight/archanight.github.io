@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T18:15:06.853Z",
+  "generatedAt": "2026-08-23T00:43:30.751Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -13,10 +13,20 @@
       "title": "OpenAI permet à ChatGPT de résumer et reformuler les iMessages sur Mac - Brief IA",
       "link": "https://www.briefia.fr/article/openai-permet-a-chatgpt-de-resumer-et-reformuler-les-imessages-sur-mac",
       "url": "https://www.briefia.fr/article/openai-permet-a-chatgpt-de-resumer-et-reformuler-les-imessages-sur-mac",
-      "publishedAt": "2026-08-22T16:40:10.000Z",
-      "date": "2026-08-22T16:40:10.000Z",
-      "description": "plugin ChatGPT relie Apple Messages sur Mac. 2Il permet d'envoyer... Anthropic déploie Claude Security sur Mythos 5 pour la cybersécurité il...",
-      "excerpt": "plugin ChatGPT relie Apple Messages sur Mac. 2Il permet d'envoyer... Anthropic déploie Claude Security sur Mythos 5 pour la cybersécurité il...",
+      "publishedAt": "2026-08-22T22:40:10.000Z",
+      "date": "2026-08-22T22:40:10.000Z",
+      "description": "Un plugin ChatGPT relie Apple Messages sur Mac Il permet d'envoyer, rechercher, résumer et analyser les échanges L'installation nécessite...",
+      "excerpt": "Un plugin ChatGPT relie Apple Messages sur Mac Il permet d'envoyer, rechercher, résumer et analyser les échanges L'installation nécessite...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Non, l'IA ne va probablement pas guérir le cancer de sitôt, selon des scientifiques - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6051962-non-l-ia-ne-va-probablement-pas-guerir-le-cancer-de-sitot-selon-des-scientifiques",
+      "url": "https://www.lefilia.fr/article/6051962-non-l-ia-ne-va-probablement-pas-guerir-le-cancer-de-sitot-selon-des-scientifiques",
+      "publishedAt": "2026-08-22T18:46:35.000Z",
+      "date": "2026-08-22T18:46:35.000Z",
+      "description": "01Le Nobel de chimie qui dirige l'IA chez Google: « J'aurais préféré guérir le cancer avant de lancer ChatGPT »... GPT-5 DeepSeekDeepSeek V4...",
+      "excerpt": "01Le Nobel de chimie qui dirige l'IA chez Google: « J'aurais préféré guérir le cancer avant de lancer ChatGPT »... GPT-5 DeepSeekDeepSeek V4...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -117,16 +127,6 @@
       "date": "2026-08-21T21:24:46.000Z",
       "description": "dit avoir réduit un lancement de 243 à 77 heures avec Codex · employé a extrait en réunion des métriques via Codex en 20 secondes · 'usage de ChatGPT...",
       "excerpt": "dit avoir réduit un lancement de 243 à 77 heures avec Codex · employé a extrait en réunion des métriques via Codex en 20 secondes · 'usage de ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT affiche des publicités en Europe dès la semaine prochaine - AOL.com",
-      "link": "https://www.aol.com/articles/chatgpt-affiche-publicit%C3%A9s-europe-d%C3%A8s-142801000.html",
-      "url": "https://www.aol.com/articles/chatgpt-affiche-publicit%C3%A9s-europe-d%C3%A8s-142801000.html",
-      "publishedAt": "2026-08-21T18:32:33.000Z",
-      "date": "2026-08-21T18:32:33.000Z",
-      "description": "\"Les publicités dans ChatGPT sont toujours clairement étiquetées et séparées des réponses de ChatGPT... cybersécurité, les garde-fous habituels ayant...",
-      "excerpt": "\"Les publicités dans ChatGPT sont toujours clairement étiquetées et séparées des réponses de ChatGPT... cybersécurité, les garde-fous habituels ayant...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
