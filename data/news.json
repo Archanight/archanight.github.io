@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T06:23:36.935Z",
+  "generatedAt": "2026-08-23T12:19:28.303Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -18,6 +18,16 @@
       "description": "Un plugin ChatGPT relie Apple Messages sur Mac Il permet d'envoyer, rechercher, résumer et analyser les échanges L'installation nécessite...",
       "excerpt": "Un plugin ChatGPT relie Apple Messages sur Mac Il permet d'envoyer, rechercher, résumer et analyser les échanges L'installation nécessite...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Contourner les garde-fous de l'IA: jailbreak, prompt injection et défenses 2026",
+      "link": "https://pasqualepillitteri.it/fr/news/12348/contourner-garde-fous-ia-jailbreak-defenses",
+      "url": "https://pasqualepillitteri.it/fr/news/12348/contourner-garde-fous-ia-jailbreak-defenses",
+      "publishedAt": "2026-08-22T20:31:58.000Z",
+      "date": "2026-08-22T20:31:58.000Z",
+      "description": "OpenAI & ChatGPT 3 OpenAI & ChatGPT · Claude Code & Anthropic 6 Claude... cybersécurité sécurité ia garde-fous ia jailbreak prompt injection...",
+      "excerpt": "OpenAI & ChatGPT 3 OpenAI & ChatGPT · Claude Code & Anthropic 6 Claude... cybersécurité sécurité ia garde-fous ia jailbreak prompt injection...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "Non, l'IA ne va probablement pas guérir le cancer de sitôt, selon des scientifiques - Le Fil IA",
@@ -117,16 +127,6 @@
       "date": "2026-08-21T21:59:06.000Z",
       "description": "... cybersécurité. Une mesure qui vise directement la Chine et qui pourrait... ChatGPT pour Mac enregistre désormais clics, frappes et...",
       "excerpt": "... cybersécurité. Une mesure qui vise directement la Chine et qui pourrait... ChatGPT pour Mac enregistre désormais clics, frappes et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Stampli réduit le temps de lancement avec ChatGPT Work et Codex - Brief IA",
-      "link": "https://www.briefia.fr/article/stampli-reduit-le-temps-de-lancement-avec-chatgpt-work-et-codex",
-      "url": "https://www.briefia.fr/article/stampli-reduit-le-temps-de-lancement-avec-chatgpt-work-et-codex",
-      "publishedAt": "2026-08-21T21:24:46.000Z",
-      "date": "2026-08-21T21:24:46.000Z",
-      "description": "dit avoir réduit un lancement de 243 à 77 heures avec Codex · employé a extrait en réunion des métriques via Codex en 20 secondes · 'usage de ChatGPT...",
-      "excerpt": "dit avoir réduit un lancement de 243 à 77 heures avec Codex · employé a extrait en réunion des métriques via Codex en 20 secondes · 'usage de ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
