@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T12:27:27.613Z",
+  "generatedAt": "2026-08-24T18:26:57.596Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,96 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Google offre un an de Gemini AI Plus aux étudiants - MacGeneration",
+      "link": "https://www.macg.co/intelligence-artificielle/2026/08/google-offre-un-de-gemini-ai-plus-aux-etudiants-310555",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/08/google-offre-un-de-gemini-ai-plus-aux-etudiants-310555",
+      "publishedAt": "2026-08-24T16:40:30.000Z",
+      "date": "2026-08-24T16:40:30.000Z",
+      "description": "À peine trois semaines après la version 3.6, Google sort déjà Gemini 3.7 Flash · image accroche. ChatGPT et Gemini au coude à coude? Tous deux...",
+      "excerpt": "À peine trois semaines après la version 3.6, Google sort déjà Gemini 3.7 Flash · image accroche. ChatGPT et Gemini au coude à coude? Tous deux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "La publicité débarque sur ChatGPT en France dès le 24 août 2026 - Menow",
+      "link": "https://www.menow.fr/la-publicite-debarque-sur-chatgpt-en-france-des-le-24-aout-2026/",
+      "url": "https://www.menow.fr/la-publicite-debarque-sur-chatgpt-en-france-des-le-24-aout-2026/",
+      "publishedAt": "2026-08-24T16:23:47.000Z",
+      "date": "2026-08-24T16:23:47.000Z",
+      "description": "... ChatGPT et les investissements... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
+      "excerpt": "... ChatGPT et les investissements... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "« Eviter de tomber dans les tréfonds de l'algorithme »: pourquoi l'arrivée de la pub... - Challenges",
+      "link": "https://www.challenges.fr/entreprise/tech-numerique/eviter-de-tomber-dans-les-trefonds-de-lalgorithme-pourquoi-larrivee-de-la-pub-sur-chatgpt-pourrait-bouleverser-le-secteur_645312",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/eviter-de-tomber-dans-les-trefonds-de-lalgorithme-pourquoi-larrivee-de-la-pub-sur-chatgpt-pourrait-bouleverser-le-secteur_645312",
+      "publishedAt": "2026-08-24T16:22:46.000Z",
+      "date": "2026-08-24T16:22:46.000Z",
+      "description": "L'arrivée de la publicité sur ChatGPT pourrait bien rebattre les cartes du secteur.... Les Assises de la cybersécurité · PRNewswire · Speak & Act · Au...",
+      "excerpt": "L'arrivée de la publicité sur ChatGPT pourrait bien rebattre les cartes du secteur.... Les Assises de la cybersécurité · PRNewswire · Speak & Act · Au...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les cinq infos Adtech qu'il ne fallait pas louper cet été - Journaldunet.com",
+      "link": "https://www.journaldunet.com/adtech/1553965-les-cinq-infos-adtech-qu-il-ne-fallait-pas-louper-cet-ete/",
+      "url": "https://www.journaldunet.com/adtech/1553965-les-cinq-infos-adtech-qu-il-ne-fallait-pas-louper-cet-ete/",
+      "publishedAt": "2026-08-24T14:05:46.000Z",
+      "date": "2026-08-24T14:05:46.000Z",
+      "description": "Cybersécurité · Economie · IA News · Tech · Action publique · Media · Start-up... ChatGPT pour 10 de ses clients, et Criteo, dont les clients français...",
+      "excerpt": "Cybersécurité · Economie · IA News · Tech · Action publique · Media · Start-up... ChatGPT pour 10 de ses clients, et Criteo, dont les clients français...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Je suis seule avec un Algérien »: l'IA de Google est-elle vraiment raciste - Numerama",
+      "link": "https://www.numerama.com/tech/2316669-je-suis-seule-avec-un-algerien-lia-de-google-est-elle-vraiment-raciste.html",
+      "url": "https://www.numerama.com/tech/2316669-je-suis-seule-avec-un-algerien-lia-de-google-est-elle-vraiment-raciste.html",
+      "publishedAt": "2026-08-24T13:42:25.000Z",
+      "date": "2026-08-24T13:42:25.000Z",
+      "description": "Nous avons donc voulu comparer avec d'autres assistants: ChatGPT, lors de notre essai dans un chat éphémère sur un compte d'entreprise, a reproduit...",
+      "excerpt": "Nous avons donc voulu comparer avec d'autres assistants: ChatGPT, lors de notre essai dans un chat éphémère sur un compte d'entreprise, a reproduit...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT et ses concurrents auraient servi à créer plus d'un tiers des pages Web en ligne...",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/chat-gpt-et-ses-concurrents-auraient-servi-a-creer-plus-d-un-tiers-des-pages-web-en-ligne-depuis-2022_AN-202608240535.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/chat-gpt-et-ses-concurrents-auraient-servi-a-creer-plus-d-un-tiers-des-pages-web-en-ligne-depuis-2022_AN-202608240535.html",
+      "publishedAt": "2026-08-24T13:27:39.000Z",
+      "date": "2026-08-24T13:27:39.000Z",
+      "description": "... ChatGPT ont été générées pour tout ou partie par une IA générative... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons...",
+      "excerpt": "... ChatGPT ont été générées pour tout ou partie par une IA générative... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT sur Mac: l'intégration d'Apple Messages - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/378885/chatgpt-mac-apple-messages-integration/",
+      "url": "https://www.blog-nouvelles-technologies.fr/378885/chatgpt-mac-apple-messages-integration/",
+      "publishedAt": "2026-08-24T12:47:07.000Z",
+      "date": "2026-08-24T12:47:07.000Z",
+      "description": "Le principe est simple: au lieu de copier manuellement une longue conversation dans ChatGPT, l'utilisateur peut désormais demander à l'assistant d'...",
+      "excerpt": "Le principe est simple: au lieu de copier manuellement une longue conversation dans ChatGPT, l'utilisateur peut désormais demander à l'assistant d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT semble délaisser Reddit comme source d'information - Siècle Digital",
+      "link": "https://siecledigital.fr/2026/08/24/chatgpt-semble-delaisser-reddit-comme-source-dinformation/",
+      "url": "https://siecledigital.fr/2026/08/24/chatgpt-semble-delaisser-reddit-comme-source-dinformation/",
+      "publishedAt": "2026-08-24T12:27:35.000Z",
+      "date": "2026-08-24T12:27:35.000Z",
+      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT... ChatGPT n'...",
+      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT... ChatGPT n'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La publicité contextuelle arrive dans ChatGPT en Europe - La Revue du Digital",
+      "link": "https://www.larevuedudigital.com/la-publicite-contextuelle-arrive-dans-chatgpt-en-europe/",
+      "url": "https://www.larevuedudigital.com/la-publicite-contextuelle-arrive-dans-chatgpt-en-europe/",
+      "publishedAt": "2026-08-24T11:57:55.000Z",
+      "date": "2026-08-24T11:57:55.000Z",
+      "description": "... Social. Informatique. DSI · Sécurité · IT · Internet des objets · Intelligence artificielle · Big Data · Projet Agilité · Projet Devops · Web Design.",
+      "excerpt": "... Social. Informatique. DSI · Sécurité · IT · Internet des objets · Intelligence artificielle · Big Data · Projet Agilité · Projet Devops · Web Design.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "La publicité débarque dans ChatGPT: comment OpenAI veut ouvrir un nouveau front face à...",
       "link": "https://www.ladepeche.fr/2026/08/24/la-publicite-debarque-dans-chatgpt-comment-openai-veut-ouvrir-un-nouveau-front-face-a-google-et-meta-13520476.php",
@@ -30,104 +120,14 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "États-Unis: 121 mois de prison pour avoir utilisé ChatGPT pour un braquage",
-      "link": "https://lanouvelletribune.info/2026/08/etats-unis-121-mois-de-prison-pour-avoir-utilise-chatgpt-pour-un-braquage/",
-      "url": "https://lanouvelletribune.info/2026/08/etats-unis-121-mois-de-prison-pour-avoir-utilise-chatgpt-pour-un-braquage/",
-      "publishedAt": "2026-08-24T09:51:46.000Z",
-      "date": "2026-08-24T09:51:46.000Z",
-      "description": "Un braquage préparé avec des recherches sur ChatGPT. Les faits remontent au 10 février 2026. Ce jour-là, Lewis-Payne est entré dans une agence i3Bank...",
-      "excerpt": "Un braquage préparé avec des recherches sur ChatGPT. Les faits remontent au 10 février 2026. Ce jour-là, Lewis-Payne est entré dans une agence i3Bank...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Google August 2026 SPAM update: welcome back! - LEPTIDIGITAL",
-      "link": "https://www.leptidigital.fr/webmarketing/seo/google-august-2026-spam-update-91441/",
-      "url": "https://www.leptidigital.fr/webmarketing/seo/google-august-2026-spam-update-91441/",
-      "publishedAt": "2026-08-24T09:40:41.000Z",
-      "date": "2026-08-24T09:40:41.000Z",
-      "description": "Imaginez la puissance de Claude, ChatGPT et Gemini combinés, 100 % optimisé pour le marketing, et couplé à vos outils favoris (Notion, CapCut...",
-      "excerpt": "Imaginez la puissance de Claude, ChatGPT et Gemini combinés, 100 % optimisé pour le marketing, et couplé à vos outils favoris (Notion, CapCut...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Avec l'entrée de la publicité, les réponses de ChatGPT seront-elles toujours aussi objectives?",
-      "link": "https://actu.orange.fr/videos/france/avec-l-entree-de-la-publicite-les-reponses-de-chatgpt-seront-elles-toujours-aussi-objectives-CNT000002rtZ0w.html",
-      "url": "https://actu.orange.fr/videos/france/avec-l-entree-de-la-publicite-les-reponses-de-chatgpt-seront-elles-toujours-aussi-objectives-CNT000002rtZ0w.html",
-      "publishedAt": "2026-08-24T07:48:30.000Z",
-      "date": "2026-08-24T07:48:30.000Z",
-      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Avec l'entrée de la publicité, les réponses de ChatGPT seront-elles toujours...",
-      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Avec l'entrée de la publicité, les réponses de ChatGPT seront-elles toujours...",
+      "title": "Étudiant à la Sorbonne et gardien de la sécurité IA: le double défi de la rentrée de Samy Nettour",
+      "link": "https://bigmedia.bpifrance.fr/nos-actualites/etudiant-a-la-sorbonne-et-gardien-de-la-securite-ia-le-double-defi-de-la-rentree-de-samy-nettour",
+      "url": "https://bigmedia.bpifrance.fr/nos-actualites/etudiant-a-la-sorbonne-et-gardien-de-la-securite-ia-le-double-defi-de-la-rentree-de-samy-nettour",
+      "publishedAt": "2026-08-24T10:05:20.000Z",
+      "date": "2026-08-24T10:05:20.000Z",
+      "description": "logo ChatGPT... Cofondateur d'Aurel (ex-IntentGuard), cet étudiant en droit à Paris 1 Panthéon-Sorbonne codirige une startup de cybersécurité qui...",
+      "excerpt": "logo ChatGPT... Cofondateur d'Aurel (ex-IntentGuard), cet étudiant en droit à Paris 1 Panthéon-Sorbonne codirige une startup de cybersécurité qui...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La robotique humanoïde va connaître son moment « ChatGPT » avant fin 2027, selon cette...",
-      "link": "https://www.usinenouvelle.com/technos-et-innovations/robotique/la-robotique-humanoide-va-connaitre-son-moment-chatgpt-avant-fin-2027-selon-cette-start-up-chinoise.FIMDGWSQJ5AZFGWTOHKZMDRO2Y.html",
-      "url": "https://www.usinenouvelle.com/technos-et-innovations/robotique/la-robotique-humanoide-va-connaitre-son-moment-chatgpt-avant-fin-2027-selon-cette-start-up-chinoise.FIMDGWSQJ5AZFGWTOHKZMDRO2Y.html",
-      "publishedAt": "2026-08-24T07:46:41.000Z",
-      "date": "2026-08-24T07:46:41.000Z",
-      "description": "Cybersécurité · Économie circulaire · Biosourcé · Nouvelles mobilités · Santé... La robotique humanoïde va connaître son moment « ChatGPT » avant fin...",
-      "excerpt": "Cybersécurité · Économie circulaire · Biosourcé · Nouvelles mobilités · Santé... La robotique humanoïde va connaître son moment « ChatGPT » avant fin...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des publicités sur ChatGPT dès aujourd'hui: faut-il s'inquiéter? - BFM",
-      "link": "https://www.bfmtv.com/tech/video-des-publicites-sur-chat-gpt-des-aujourd-hui-faut-il-s-inquieter_VN-202608240244.html",
-      "url": "https://www.bfmtv.com/tech/video-des-publicites-sur-chat-gpt-des-aujourd-hui-faut-il-s-inquieter_VN-202608240244.html",
-      "publishedAt": "2026-08-24T07:39:36.000Z",
-      "date": "2026-08-24T07:39:36.000Z",
-      "description": "... ChatGPT dès ce lundi 24 août. Une initiative d'OpenAI faite dans l...",
-      "excerpt": "... ChatGPT dès ce lundi 24 août. Une initiative d'OpenAI faite dans l...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT sans publicité, c'est terminé! - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/video-chat-gpt-sans-publicite-c-est-termine_VN-202608240243.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/video-chat-gpt-sans-publicite-c-est-termine_VN-202608240243.html",
-      "publishedAt": "2026-08-24T07:25:26.000Z",
-      "date": "2026-08-24T07:25:26.000Z",
-      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... ChatGPT sans publicité, c'est terminé! OpenAI déploie de la...",
-      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... ChatGPT sans publicité, c'est terminé! OpenAI déploie de la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI va introduire la publicité dans ChatGPT en France: faut-il s'en inquiéter?: Actualités",
-      "link": "https://actu.orange.fr/videos/france/openai-va-introduire-la-publicite-dans-chatgpt-en-france-faut-il-s-en-inquieter-CNT000002rtIBN.html",
-      "url": "https://actu.orange.fr/videos/france/openai-va-introduire-la-publicite-dans-chatgpt-en-france-faut-il-s-en-inquieter-CNT000002rtIBN.html",
-      "publishedAt": "2026-08-24T06:34:00.000Z",
-      "date": "2026-08-24T06:34:00.000Z",
-      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... OpenAI va introduire la publicité dans ChatGPT en France: faut-il s'en...",
-      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... OpenAI va introduire la publicité dans ChatGPT en France: faut-il s'en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment créer et diffuser une publicité dans ChatGPT - BDM",
-      "link": "https://www.blogdumoderateur.com/comment-creer-diffuser-publicite-chatgpt/",
-      "url": "https://www.blogdumoderateur.com/comment-creer-diffuser-publicite-chatgpt/",
-      "publishedAt": "2026-08-24T05:32:17.000Z",
-      "date": "2026-08-24T05:32:17.000Z",
-      "description": "ChatGPT diffuse des... OpenAI Google Anthropic Interviews SEO Réglementation Développement Meta Community management Gemini Vidéo Cybersécurité.",
-      "excerpt": "ChatGPT diffuse des... OpenAI Google Anthropic Interviews SEO Réglementation Développement Meta Community management Gemini Vidéo Cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le récap tech de la semaine: GTA 6, cyberattaques, IA et Nintendo ont animé l'actu",
-      "link": "https://kulturegeek.fr/news-357485/gta-6-victime-nouvelles-fuites-cyberattaques-serie-france-chatgpt-publicite-nintendo-contre-emulateurs-tiktok-sanctionne-voici-recap-tech-semaine",
-      "url": "https://kulturegeek.fr/news-357485/gta-6-victime-nouvelles-fuites-cyberattaques-serie-france-chatgpt-publicite-nintendo-contre-emulateurs-tiktok-sanctionne-voici-recap-tech-semaine",
-      "publishedAt": "2026-08-23T19:18:36.000Z",
-      "date": "2026-08-23T19:18:36.000Z",
-      "description": "Ajoutez à cela ChatGPT qui se prépare à afficher de la publicité en France, TikTok qui accepte de payer 400 millions de dollars dans une affaire...",
-      "excerpt": "Ajoutez à cela ChatGPT qui se prépare à afficher de la publicité en France, TikTok qui accepte de payer 400 millions de dollars dans une affaire...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Adieu Google, ChatGPT et WhatsApp: nous avons remplacé leurs applications du quotidien...",
-      "link": "https://www.lesnumeriques.com/societe-numerique/adieu-google-chatgpt-et-whatsapp-nous-avons-remplace-leurs-applications-du-quotidien-par-des-equivalents-europeens-n260695.html",
-      "url": "https://www.lesnumeriques.com/societe-numerique/adieu-google-chatgpt-et-whatsapp-nous-avons-remplace-leurs-applications-du-quotidien-par-des-equivalents-europeens-n260695.html",
-      "publishedAt": "2026-08-23T16:49:34.000Z",
-      "date": "2026-08-23T16:49:34.000Z",
-      "description": "Bureautique, IA, GPS ou messagerie: voici sept alternatives européennes pour reprendre la main sur vos données. Adieu Google, ChatGPT et WhatsApp:...",
-      "excerpt": "Bureautique, IA, GPS ou messagerie: voici sept alternatives européennes pour reprendre la main sur vos données. Adieu Google, ChatGPT et WhatsApp:...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
