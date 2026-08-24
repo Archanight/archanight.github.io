@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T18:14:45.870Z",
+  "generatedAt": "2026-08-24T00:41:56.582Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le récap tech de la semaine: GTA 6, cyberattaques, IA et Nintendo ont animé l'actu",
+      "link": "https://kulturegeek.fr/news-357485/gta-6-victime-nouvelles-fuites-cyberattaques-serie-france-chatgpt-publicite-nintendo-contre-emulateurs-tiktok-sanctionne-voici-recap-tech-semaine",
+      "url": "https://kulturegeek.fr/news-357485/gta-6-victime-nouvelles-fuites-cyberattaques-serie-france-chatgpt-publicite-nintendo-contre-emulateurs-tiktok-sanctionne-voici-recap-tech-semaine",
+      "publishedAt": "2026-08-23T19:18:36.000Z",
+      "date": "2026-08-23T19:18:36.000Z",
+      "description": "Ajoutez à cela ChatGPT qui se prépare à afficher de la publicité en France, TikTok qui accepte de payer 400 millions de dollars dans une affaire...",
+      "excerpt": "Ajoutez à cela ChatGPT qui se prépare à afficher de la publicité en France, TikTok qui accepte de payer 400 millions de dollars dans une affaire...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Adieu Google, ChatGPT et WhatsApp: nous avons remplacé leurs applications du quotidien...",
       "link": "https://www.lesnumeriques.com/societe-numerique/adieu-google-chatgpt-et-whatsapp-nous-avons-remplace-leurs-applications-du-quotidien-par-des-equivalents-europeens-n260695.html",
@@ -117,16 +127,6 @@
       "date": "2026-08-22T20:31:58.000Z",
       "description": "OpenAI & ChatGPT 3 OpenAI & ChatGPT · Claude Code & Anthropic 6 Claude... cybersécurité sécurité ia garde-fous ia jailbreak prompt injection...",
       "excerpt": "OpenAI & ChatGPT 3 OpenAI & ChatGPT · Claude Code & Anthropic 6 Claude... cybersécurité sécurité ia garde-fous ia jailbreak prompt injection...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Non, l'IA ne va probablement pas guérir le cancer de sitôt, selon des scientifiques - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6051962-non-l-ia-ne-va-probablement-pas-guerir-le-cancer-de-sitot-selon-des-scientifiques",
-      "url": "https://www.lefilia.fr/article/6051962-non-l-ia-ne-va-probablement-pas-guerir-le-cancer-de-sitot-selon-des-scientifiques",
-      "publishedAt": "2026-08-22T18:46:35.000Z",
-      "date": "2026-08-22T18:46:35.000Z",
-      "description": "01Le Nobel de chimie qui dirige l'IA chez Google: « J'aurais préféré guérir le cancer avant de lancer ChatGPT »... GPT-5 DeepSeekDeepSeek V4...",
-      "excerpt": "01Le Nobel de chimie qui dirige l'IA chez Google: « J'aurais préféré guérir le cancer avant de lancer ChatGPT »... GPT-5 DeepSeekDeepSeek V4...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
