@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T00:41:36.537Z",
+  "generatedAt": "2026-08-25T06:28:52.783Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Proton lance Paper Trail: un rapport gratuit sur tout ce que ChatGPT et Claude ont appris de...",
+      "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3213871_proton-lance-paper-trail-un-rapport-gratuit-sur-tout-ce-que-chatgpt-et-claude-ont-appris-de-vos-conversations",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3213871_proton-lance-paper-trail-un-rapport-gratuit-sur-tout-ce-que-chatgpt-et-claude-ont-appris-de-vos-conversations",
+      "publishedAt": "2026-08-25T05:35:31.000Z",
+      "date": "2026-08-25T05:35:31.000Z",
+      "description": "Lumo s'appuie sur le savoir-faire reconnu de Proton en matière de cybersécurité. Gouvernée par une fondation à but non lucratif et libérée de la...",
+      "excerpt": "Lumo s'appuie sur le savoir-faire reconnu de Proton en matière de cybersécurité. Gouvernée par une fondation à but non lucratif et libérée de la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "La pub débarque dans ChatGPT en Europe - 24/08: Actualités - Orange Actu",
       "link": "https://actu.orange.fr/videos/economie/la-pub-debarque-dans-chatgpt-en-europe-24-08-CNT000002ruTy4.html",
@@ -117,16 +127,6 @@
       "date": "2026-08-24T13:42:25.000Z",
       "description": "Nous avons donc voulu comparer avec d'autres assistants: ChatGPT, lors de notre essai dans un chat éphémère sur un compte d'entreprise, a reproduit...",
       "excerpt": "Nous avons donc voulu comparer avec d'autres assistants: ChatGPT, lors de notre essai dans un chat éphémère sur un compte d'entreprise, a reproduit...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT et ses concurrents auraient servi à créer plus d'un tiers des pages Web en ligne...",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/chat-gpt-et-ses-concurrents-auraient-servi-a-creer-plus-d-un-tiers-des-pages-web-en-ligne-depuis-2022_AN-202608240535.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/chat-gpt-et-ses-concurrents-auraient-servi-a-creer-plus-d-un-tiers-des-pages-web-en-ligne-depuis-2022_AN-202608240535.html",
-      "publishedAt": "2026-08-24T13:27:39.000Z",
-      "date": "2026-08-24T13:27:39.000Z",
-      "description": "... ChatGPT ont été générées pour tout ou partie par une IA générative... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons...",
-      "excerpt": "... ChatGPT ont été générées pour tout ou partie par une IA générative... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
