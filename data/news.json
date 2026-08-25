@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T18:26:57.596Z",
+  "generatedAt": "2026-08-25T00:41:36.537Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "La pub débarque dans ChatGPT en Europe - 24/08: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/economie/la-pub-debarque-dans-chatgpt-en-europe-24-08-CNT000002ruTy4.html",
+      "url": "https://actu.orange.fr/videos/economie/la-pub-debarque-dans-chatgpt-en-europe-24-08-CNT000002ruTy4.html",
+      "publishedAt": "2026-08-24T20:50:03.000Z",
+      "date": "2026-08-24T20:50:03.000Z",
+      "description": "... ChatGPT pour le monétiser, au projet de Nvidia d'investir dans la... Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +...",
+      "excerpt": "... ChatGPT pour le monétiser, au projet de Nvidia d'investir dans la... Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Une étude Pew confirme la forte hausse des textes… - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6061690-une-etude-pew-confirme-la-forte-hausse-des-textes-rediges-par-ia-sur-le-web-depuis-le-lancement-de-chatgpt",
+      "url": "https://www.lefilia.fr/article/6061690-une-etude-pew-confirme-la-forte-hausse-des-textes-rediges-par-ia-sur-le-web-depuis-le-lancement-de-chatgpt",
+      "publishedAt": "2026-08-24T20:23:23.000Z",
+      "date": "2026-08-24T20:23:23.000Z",
+      "description": "Selon cette étude, plus d'un tiers des pages publiées depuis le lancement de ChatGPT fin 2022 présentent des signes de rédaction automatisée.... GPT-5...",
+      "excerpt": "Selon cette étude, plus d'un tiers des pages publiées depuis le lancement de ChatGPT fin 2022 présentent des signes de rédaction automatisée.... GPT-5...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI apporte la famille de modèles GPT-5.6 à Kiro d'AWS - Unite.AI",
+      "link": "https://www.unite.ai/fr/openai-brings-gpt-5-6-model-family-to-awss-kiro/",
+      "url": "https://www.unite.ai/fr/openai-brings-gpt-5-6-model-family-to-awss-kiro/",
+      "publishedAt": "2026-08-24T20:13:42.000Z",
+      "date": "2026-08-24T20:13:42.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO · Actualités · Modèles et plateformes d'IA · IAG et IA du futur · AR, XR et...",
+      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO · Actualités · Modèles et plateformes d'IA · IAG et IA du futur · AR, XR et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Criteo accélère l'intégration de ChatGPT Ads - infoDSI",
+      "link": "https://infodsi.com/articles/210708/criteo-accelere-lintegration-de-chatgpt-ads.html",
+      "url": "https://infodsi.com/articles/210708/criteo-accelere-lintegration-de-chatgpt-ads.html",
+      "publishedAt": "2026-08-24T20:00:25.000Z",
+      "date": "2026-08-24T20:00:25.000Z",
+      "description": "... ChatGPT Ads, avec des solutions... IA Act: pourquoi l'adoption de passkeys est devenue une priorité pour la conformité et la cybersécurité.",
+      "excerpt": "... ChatGPT Ads, avec des solutions... IA Act: pourquoi l'adoption de passkeys est devenue une priorité pour la conformité et la cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Prix GPT-5.6: Luna -80 %, Terra -20 %, Sol -33 % - Okibata",
+      "link": "https://www.okibata.com/sciences-et-technologies/openai-gpt-5-6-baisse-prix-luna-terra-sol/",
+      "url": "https://www.okibata.com/sciences-et-technologies/openai-gpt-5-6-baisse-prix-luna-terra-sol/",
+      "publishedAt": "2026-08-24T19:26:05.000Z",
+      "date": "2026-08-24T19:26:05.000Z",
+      "description": "Votre plugin ChatGPT est installé mais jamais réutilisé? OpenAI change... La Spam Update Google d'août 2026 est terminée: ne supprimez pas...",
+      "excerpt": "Votre plugin ChatGPT est installé mais jamais réutilisé? OpenAI change... La Spam Update Google d'août 2026 est terminée: ne supprimez pas...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Liquid AI lance Pipette, le benchmark IA open source qui teste les performances réelles des modèles",
+      "link": "https://www.lebigdata.fr/liquid-ai-lance-pipette-le-benchmark-ia-open-source-qui-teste-les-performances-reelles-des-modeles",
+      "url": "https://www.lebigdata.fr/liquid-ai-lance-pipette-le-benchmark-ia-open-source-qui-teste-les-performances-reelles-des-modeles",
+      "publishedAt": "2026-08-24T17:23:49.000Z",
+      "date": "2026-08-24T17:23:49.000Z",
+      "description": "Today we release Pipette, a model evaluation... ChatGPT: cette nouvelle astuce simplifie l'envoi de vos photos. 2 minutes de lecture. ChatGPT...",
+      "excerpt": "Today we release Pipette, a model evaluation... ChatGPT: cette nouvelle astuce simplifie l'envoi de vos photos. 2 minutes de lecture. ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Google offre un an de Gemini AI Plus aux étudiants - MacGeneration",
       "link": "https://www.macg.co/intelligence-artificielle/2026/08/google-offre-un-de-gemini-ai-plus-aux-etudiants-310555",
@@ -67,66 +127,6 @@
       "date": "2026-08-24T13:27:39.000Z",
       "description": "... ChatGPT ont été générées pour tout ou partie par une IA générative... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons...",
       "excerpt": "... ChatGPT ont été générées pour tout ou partie par une IA générative... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT sur Mac: l'intégration d'Apple Messages - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/378885/chatgpt-mac-apple-messages-integration/",
-      "url": "https://www.blog-nouvelles-technologies.fr/378885/chatgpt-mac-apple-messages-integration/",
-      "publishedAt": "2026-08-24T12:47:07.000Z",
-      "date": "2026-08-24T12:47:07.000Z",
-      "description": "Le principe est simple: au lieu de copier manuellement une longue conversation dans ChatGPT, l'utilisateur peut désormais demander à l'assistant d'...",
-      "excerpt": "Le principe est simple: au lieu de copier manuellement une longue conversation dans ChatGPT, l'utilisateur peut désormais demander à l'assistant d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT semble délaisser Reddit comme source d'information - Siècle Digital",
-      "link": "https://siecledigital.fr/2026/08/24/chatgpt-semble-delaisser-reddit-comme-source-dinformation/",
-      "url": "https://siecledigital.fr/2026/08/24/chatgpt-semble-delaisser-reddit-comme-source-dinformation/",
-      "publishedAt": "2026-08-24T12:27:35.000Z",
-      "date": "2026-08-24T12:27:35.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT... ChatGPT n'...",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT... ChatGPT n'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La publicité contextuelle arrive dans ChatGPT en Europe - La Revue du Digital",
-      "link": "https://www.larevuedudigital.com/la-publicite-contextuelle-arrive-dans-chatgpt-en-europe/",
-      "url": "https://www.larevuedudigital.com/la-publicite-contextuelle-arrive-dans-chatgpt-en-europe/",
-      "publishedAt": "2026-08-24T11:57:55.000Z",
-      "date": "2026-08-24T11:57:55.000Z",
-      "description": "... Social. Informatique. DSI · Sécurité · IT · Internet des objets · Intelligence artificielle · Big Data · Projet Agilité · Projet Devops · Web Design.",
-      "excerpt": "... Social. Informatique. DSI · Sécurité · IT · Internet des objets · Intelligence artificielle · Big Data · Projet Agilité · Projet Devops · Web Design.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La publicité débarque dans ChatGPT: comment OpenAI veut ouvrir un nouveau front face à...",
-      "link": "https://www.ladepeche.fr/2026/08/24/la-publicite-debarque-dans-chatgpt-comment-openai-veut-ouvrir-un-nouveau-front-face-a-google-et-meta-13520476.php",
-      "url": "https://www.ladepeche.fr/2026/08/24/la-publicite-debarque-dans-chatgpt-comment-openai-veut-ouvrir-un-nouveau-front-face-a-google-et-meta-13520476.php",
-      "publishedAt": "2026-08-24T11:48:15.000Z",
-      "date": "2026-08-24T11:48:15.000Z",
-      "description": "OpenAI lance ce 24 août ChatGPT Ads dans 31 pays européens, dont la France. Derrière l'apparition de contenus sponsorisés dans son assistant se...",
-      "excerpt": "OpenAI lance ce 24 août ChatGPT Ads dans 31 pays européens, dont la France. Derrière l'apparition de contenus sponsorisés dans son assistant se...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT Starts Running Ads - YouTube",
-      "link": "https://www.youtube.com/watch?v=NU8nWxdm81w",
-      "url": "https://www.youtube.com/watch?v=NU8nWxdm81w",
-      "publishedAt": "2026-08-24T11:04:54.000Z",
-      "date": "2026-08-24T11:04:54.000Z",
-      "description": "Après les États-Unis, OpenAI commence à intégrer de la publicité dans ChatGPT, désormais dans 31 pays européens, dont la France.",
-      "excerpt": "Après les États-Unis, OpenAI commence à intégrer de la publicité dans ChatGPT, désormais dans 31 pays européens, dont la France.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Étudiant à la Sorbonne et gardien de la sécurité IA: le double défi de la rentrée de Samy Nettour",
-      "link": "https://bigmedia.bpifrance.fr/nos-actualites/etudiant-a-la-sorbonne-et-gardien-de-la-securite-ia-le-double-defi-de-la-rentree-de-samy-nettour",
-      "url": "https://bigmedia.bpifrance.fr/nos-actualites/etudiant-a-la-sorbonne-et-gardien-de-la-securite-ia-le-double-defi-de-la-rentree-de-samy-nettour",
-      "publishedAt": "2026-08-24T10:05:20.000Z",
-      "date": "2026-08-24T10:05:20.000Z",
-      "description": "logo ChatGPT... Cofondateur d'Aurel (ex-IntentGuard), cet étudiant en droit à Paris 1 Panthéon-Sorbonne codirige une startup de cybersécurité qui...",
-      "excerpt": "logo ChatGPT... Cofondateur d'Aurel (ex-IntentGuard), cet étudiant en droit à Paris 1 Panthéon-Sorbonne codirige une startup de cybersécurité qui...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
