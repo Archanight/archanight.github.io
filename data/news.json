@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T18:26:04.390Z",
+  "generatedAt": "2026-08-26T00:42:16.155Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT Plus: OpenAI rétablit la limite des cinq heures sur Codex et Work, six semaines...",
+      "link": "https://www.numerama.com/tech/2317749-chatgpt-plus-openai-retablit-la-limite-des-cinq-heures-sur-codex-et-work-six-semaines-apres-lavoir-supprimee.html",
+      "url": "https://www.numerama.com/tech/2317749-chatgpt-plus-openai-retablit-la-limite-des-cinq-heures-sur-codex-et-work-six-semaines-apres-lavoir-supprimee.html",
+      "publishedAt": "2026-08-25T19:15:12.000Z",
+      "date": "2026-08-25T19:15:12.000Z",
+      "description": "Quelques semaines après l'avoir levée, OpenAI réactive sa limite des cinq heures pour les abonnés ChatGPT Plus, qui doivent de nouveau composer...",
+      "excerpt": "Quelques semaines après l'avoir levée, OpenAI réactive sa limite des cinq heures pour les abonnés ChatGPT Plus, qui doivent de nouveau composer...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cybersécurité militaire: l'américain Lyntris déploie sa plateforme Garda Cyber au Maroc",
+      "link": "https://h24info.ma/maroc/cybersecurite-militaire-lamericain-lyntris-deploie-sa-plateforme-garda-cyber-au-maroc/",
+      "url": "https://h24info.ma/maroc/cybersecurite-militaire-lamericain-lyntris-deploie-sa-plateforme-garda-cyber-au-maroc/",
+      "publishedAt": "2026-08-25T18:58:01.000Z",
+      "date": "2026-08-25T18:58:01.000Z",
+      "description": "Le spécialiste américain Lyntris annonce avoir déployé sa suite de cybersécurité militaire Garda Cyber au Maroc, dans le cadre d'un dispositif...",
+      "excerpt": "Le spécialiste américain Lyntris annonce avoir déployé sa suite de cybersécurité militaire Garda Cyber au Maroc, dans le cadre d'un dispositif...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI rétablit la limite de 5 heures sur Codex et ChatGPT Work pour les abonnés Plus",
       "link": "https://pasqualepillitteri.it/fr/news/12698/openai-limite-5-heures-codex-chatgpt-work-plus",
@@ -48,6 +68,16 @@
       "description": "... ChatGPT et Claude Code. Cette... OpenAI a lancé GPT-5.4-Cyber, une version de ChatGPT dédiée à la cybersécurité, ciblant les experts du domaine.",
       "excerpt": "... ChatGPT et Claude Code. Cette... OpenAI a lancé GPT-5.4-Cyber, une version de ChatGPT dédiée à la cybersécurité, ciblant les experts du domaine.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Strengthening democratic oversight in national security | OpenAI",
+      "link": "https://openai.com/fr-FR/index/strengthening-democratic-oversight-in-national-security/",
+      "url": "https://openai.com/fr-FR/index/strengthening-democratic-oversight-in-national-security/",
+      "publishedAt": "2026-08-25T15:31:34.000Z",
+      "date": "2026-08-25T15:31:34.000Z",
+      "description": "ChatGPT Enterprise (s'ouvre dans une nouvelle fenêtre) · ChatGPT pour l'éducation (s'ouvre dans une nouvelle fenêtre) · Codex · Notes de version.",
+      "excerpt": "ChatGPT Enterprise (s'ouvre dans une nouvelle fenêtre) · ChatGPT pour l'éducation (s'ouvre dans une nouvelle fenêtre) · Codex · Notes de version.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Slack Code: la nouvelle fonction pour les agents IA - BlogNT",
@@ -97,36 +127,6 @@
       "date": "2026-08-25T12:37:37.000Z",
       "description": "OpenAI affirme avoir fermé un groupe de comptes ChatGPT qui provenaient très probablement de Russie et qui participaient à une campagne...",
       "excerpt": "OpenAI affirme avoir fermé un groupe de comptes ChatGPT qui provenaient très probablement de Russie et qui participaient à une campagne...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Une entreprise taïwanaise de cybersécurité alerte: l'IA a plus que doublé les cyberattaques...",
-      "link": "https://www.lefilia.fr/article/6064381-une-entreprise-taiwanaise-de-cybersecurite-alerte-l-ia-a-plus-que-double-les-cyberattaques-soutenues-par-l-etat-chinois",
-      "url": "https://www.lefilia.fr/article/6064381-une-entreprise-taiwanaise-de-cybersecurite-alerte-l-ia-a-plus-que-double-les-cyberattaques-soutenues-par-l-etat-chinois",
-      "publishedAt": "2026-08-25T11:13:52.000Z",
-      "date": "2026-08-25T11:13:52.000Z",
-      "description": "Selon l'entreprise, ces groupes ont également eu recours à ChatGPT d... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
-      "excerpt": "Selon l'entreprise, ces groupes ont également eu recours à ChatGPT d... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Face aux algériens ou aux gitans, Gemini, ChatGPT et Claude présentent des biais racistes",
-      "link": "https://www.lefilia.fr/article/6064220-face-aux-algeriens-ou-aux-gitans-gemini-chatgpt-et-claude-presentent-des-biais-racistes",
-      "url": "https://www.lefilia.fr/article/6064220-face-aux-algeriens-ou-aux-gitans-gemini-chatgpt-et-claude-presentent-des-biais-racistes",
-      "publishedAt": "2026-08-25T11:13:52.000Z",
-      "date": "2026-08-25T11:13:52.000Z",
-      "description": "Face aux algériens ou aux gitans, Gemini, ChatGPT et Claude présentent des biais racistes... Cybersécurité IASouveraineté IATous les dossiers →. ©...",
-      "excerpt": "Face aux algériens ou aux gitans, Gemini, ChatGPT et Claude présentent des biais racistes... Cybersécurité IASouveraineté IATous les dossiers →. ©...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les Experts: Lancement de la publicité sur ChatGPT en France - 25/08: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/economie/les-experts-lancement-de-la-publicite-sur-chatgpt-en-france-25-08-CNT000002rvTg1.html",
-      "url": "https://actu.orange.fr/videos/economie/les-experts-lancement-de-la-publicite-sur-chatgpt-en-france-25-08-CNT000002rvTg1.html",
-      "publishedAt": "2026-08-25T10:55:05.000Z",
-      "date": "2026-08-25T10:55:05.000Z",
-      "description": "... ChatGPT en France ont été évoqués par Dorothée Rouzet, cheffe... Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +...",
-      "excerpt": "... ChatGPT en France ont été évoqués par Dorothée Rouzet, cheffe... Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
