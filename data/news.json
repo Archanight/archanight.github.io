@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T12:30:40.172Z",
+  "generatedAt": "2026-08-26T19:38:03.285Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,123 +10,123 @@
   "failedSources": [],
   "items": [
     {
-      "title": "ChatGPT Ads arrive en France: ce qu'il faut savoir",
-      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/chatgpt-ads-arrive-en-france-91474/",
-      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/chatgpt-ads-arrive-en-france-91474/",
-      "publishedAt": "2026-08-26T07:36:24.000Z",
-      "date": "2026-08-26T07:36:24.000Z",
-      "description": "... ChatGPT Ads.... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD...",
-      "excerpt": "... ChatGPT Ads.... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD...",
+      "title": "GPT-5.6 Luna devient le modèle par défaut de Duck.ai: DuckDuckGo muscle son chatbot",
+      "link": "https://www.lefilia.fr/article/6071419-gpt-5-6-luna-devient-le-modele-par-defaut-de-duck-ai-duckduckgo-muscle-son-chatbot",
+      "url": "https://www.lefilia.fr/article/6071419-gpt-5-6-luna-devient-le-modele-par-defaut-de-duck-ai-duckduckgo-muscle-son-chatbot",
+      "publishedAt": "2026-08-26T17:28:01.000Z",
+      "date": "2026-08-26T17:28:01.000Z",
+      "description": "GPT-5.6 Luna est devenu fin août 2026 le modèle recommandé par défaut... ChatGPT, Claude ou Gemini, à mesure que la sensibilisation du grand...",
+      "excerpt": "GPT-5.6 Luna est devenu fin août 2026 le modèle recommandé par défaut... ChatGPT, Claude ou Gemini, à mesure que la sensibilisation du grand...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un modèle IA mystère affolait les développeurs: son origine serait enfin connue - Menow",
+      "link": "https://www.menow.fr/un-modele-ia-mystere-affolait-les-developpeurs-son-origine-serait-enfin-connue/",
+      "url": "https://www.menow.fr/un-modele-ia-mystere-affolait-les-developpeurs-son-origine-serait-enfin-connue/",
+      "publishedAt": "2026-08-26T16:48:04.000Z",
+      "date": "2026-08-26T16:48:04.000Z",
+      "description": "Selon les informations relayées ces derniers jours, Z.ai aurait confirmé qu'Ox Alpha est lié à la série GLM. A lire: GPT-5 pourrait arriver dès août...",
+      "excerpt": "Selon les informations relayées ces derniers jours, Z.ai aurait confirmé qu'Ox Alpha est lié à la série GLM. A lire: GPT-5 pourrait arriver dès août...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI perd son responsable des centres de données alors que ChatGPT exige toujours... - Menow",
+      "link": "https://www.menow.fr/openai-perd-son-responsable-des-centres-de-donnees-alors-que-chatgpt-exige-toujours-plus-de-puissance/",
+      "url": "https://www.menow.fr/openai-perd-son-responsable-des-centres-de-donnees-alors-que-chatgpt-exige-toujours-plus-de-puissance/",
+      "publishedAt": "2026-08-26T16:23:03.000Z",
+      "date": "2026-08-26T16:23:03.000Z",
+      "description": "OpenAI a d'abord misé sur de grands projets comme Stargate, avant de multiplier les accords avec différents fournisseurs cloud. A lire: iOS 27: Siri...",
+      "excerpt": "OpenAI a d'abord misé sur de grands projets comme Stargate, avant de multiplier les accords avec différents fournisseurs cloud. A lire: iOS 27: Siri...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "Piratée par ChatGPT, valorisée à 13 milliards de dollars: l'été fou de la plateforme IA... - 01net.com",
       "link": "https://www.01net.com/actualites/piratee-par-chatgpt-valorisee-a-13-milliards-de-dollars-lete-fou-de-la-plateforme-ia-hugging-face-en-3-actes.html",
       "url": "https://www.01net.com/actualites/piratee-par-chatgpt-valorisee-a-13-milliards-de-dollars-lete-fou-de-la-plateforme-ia-hugging-face-en-3-actes.html",
-      "publishedAt": "2026-08-26T07:14:28.000Z",
-      "date": "2026-08-26T07:14:28.000Z",
-      "description": "Piraté en juillet par des ChatGPT, courtisé en août par des acheteurs à 13 milliards de dollars... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "excerpt": "Piraté en juillet par des ChatGPT, courtisé en août par des acheteurs à 13 milliards de dollars... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI baisse le prix de GPT-5.6 Sol: une promotion de trois mois pour séduire... - Menow",
-      "link": "https://www.menow.fr/openai-baisse-le-prix-de-gpt-5-6-sol-une-promotion-de-trois-mois-pour-seduire-davantage-de-developpeurs/",
-      "url": "https://www.menow.fr/openai-baisse-le-prix-de-gpt-5-6-sol-une-promotion-de-trois-mois-pour-seduire-davantage-de-developpeurs/",
-      "publishedAt": "2026-08-26T06:47:53.000Z",
-      "date": "2026-08-26T06:47:53.000Z",
-      "description": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.... ChatGPT affiche désormais des...",
-      "excerpt": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.... ChatGPT affiche désormais des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les publicités arrivent sur ChatGPT en Europe - AOL.com",
-      "link": "https://www.aol.com/articles/publicit%C3%A9s-arrivent-chatgpt-europe-100342000.html",
-      "url": "https://www.aol.com/articles/publicit%C3%A9s-arrivent-chatgpt-europe-100342000.html",
-      "publishedAt": "2026-08-26T00:25:25.000Z",
-      "date": "2026-08-26T00:25:25.000Z",
-      "description": "Le géant américain de l'IA OpenAI lance une version de ChatGPT pour les adolescents... cybersécurité, les garde-fous habituels ayant été volontairement...",
-      "excerpt": "Le géant américain de l'IA OpenAI lance une version de ChatGPT pour les adolescents... cybersécurité, les garde-fous habituels ayant été volontairement...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Plus: OpenAI rétablit la limite des cinq heures sur Codex et Work, six semaines...",
-      "link": "https://www.numerama.com/tech/2317749-chatgpt-plus-openai-retablit-la-limite-des-cinq-heures-sur-codex-et-work-six-semaines-apres-lavoir-supprimee.html",
-      "url": "https://www.numerama.com/tech/2317749-chatgpt-plus-openai-retablit-la-limite-des-cinq-heures-sur-codex-et-work-six-semaines-apres-lavoir-supprimee.html",
-      "publishedAt": "2026-08-25T19:15:12.000Z",
-      "date": "2026-08-25T19:15:12.000Z",
-      "description": "Quelques semaines après l'avoir levée, OpenAI réactive sa limite des cinq heures pour les abonnés ChatGPT Plus, qui doivent de nouveau composer...",
-      "excerpt": "Quelques semaines après l'avoir levée, OpenAI réactive sa limite des cinq heures pour les abonnés ChatGPT Plus, qui doivent de nouveau composer...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité militaire: l'américain Lyntris déploie sa plateforme Garda Cyber au Maroc",
-      "link": "https://h24info.ma/maroc/cybersecurite-militaire-lamericain-lyntris-deploie-sa-plateforme-garda-cyber-au-maroc/",
-      "url": "https://h24info.ma/maroc/cybersecurite-militaire-lamericain-lyntris-deploie-sa-plateforme-garda-cyber-au-maroc/",
-      "publishedAt": "2026-08-25T18:58:01.000Z",
-      "date": "2026-08-25T18:58:01.000Z",
-      "description": "Le spécialiste américain Lyntris annonce avoir déployé sa suite de cybersécurité militaire Garda Cyber au Maroc, dans le cadre d'un dispositif...",
-      "excerpt": "Le spécialiste américain Lyntris annonce avoir déployé sa suite de cybersécurité militaire Garda Cyber au Maroc, dans le cadre d'un dispositif...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI rétablit la limite de 5 heures sur Codex et ChatGPT Work pour les abonnés Plus",
-      "link": "https://pasqualepillitteri.it/fr/news/12698/openai-limite-5-heures-codex-chatgpt-work-plus",
-      "url": "https://pasqualepillitteri.it/fr/news/12698/openai-limite-5-heures-codex-chatgpt-work-plus",
-      "publishedAt": "2026-08-25T17:48:58.000Z",
-      "date": "2026-08-25T17:48:58.000Z",
-      "description": "Depuis le 25 août 2026, ceux qui paient l'abonnement ChatGPT Plus à 20 dollars par mois se heurtent de nouveau à un plafond qui avait disparu à la mi-...",
-      "excerpt": "Depuis le 25 août 2026, ceux qui paient l'abonnement ChatGPT Plus à 20 dollars par mois se heurtent de nouveau à un plafond qui avait disparu à la mi-...",
+      "publishedAt": "2026-08-26T16:14:29.000Z",
+      "date": "2026-08-26T16:14:29.000Z",
+      "description": "Piraté en juillet par des ChatGPT, courtisé en août par des acheteurs à 13 milliards de dollars. Pour Hugging Face, l'été de tous les dangers...",
+      "excerpt": "Piraté en juillet par des ChatGPT, courtisé en août par des acheteurs à 13 milliards de dollars. Pour Hugging Face, l'été de tous les dangers...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "️ OpenAI bannit les comptes ChatGPT d'une opération russe de désinformation - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6066107-openai-bannit-les-comptes-chatgpt-d-une-operation-russe-de-desinformation",
-      "url": "https://www.lefilia.fr/article/6066107-openai-bannit-les-comptes-chatgpt-d-une-operation-russe-de-desinformation",
-      "publishedAt": "2026-08-25T17:15:23.000Z",
-      "date": "2026-08-25T17:15:23.000Z",
-      "description": "Le site de l'IBI, enregistré en février 2025, publie des articles qui ne sont pas rédigés par ChatGPT... Cybersécurité IASouveraineté IATous les...",
-      "excerpt": "Le site de l'IBI, enregistré en février 2025, publie des articles qui ne sont pas rédigés par ChatGPT... Cybersécurité IASouveraineté IATous les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Plus remet sa limite de 5 heures: pourquoi OpenAI prend une telle décision",
-      "link": "https://www.lefilia.fr/article/6066038-chatgpt-plus-remet-sa-limite-de-5-heures-pourquoi-openai-prend-une-telle-decision",
-      "url": "https://www.lefilia.fr/article/6066038-chatgpt-plus-remet-sa-limite-de-5-heures-pourquoi-openai-prend-une-telle-decision",
-      "publishedAt": "2026-08-25T17:15:23.000Z",
-      "date": "2026-08-25T17:15:23.000Z",
-      "description": "OpenAI réintroduit à partir du 26 août 2026 la limite de cinq heures d'utilisation pour les abonnés ChatGPT Plus sur les fonctionnalités Work et...",
-      "excerpt": "OpenAI réintroduit à partir du 26 août 2026 la limite de cinq heures d'utilisation pour les abonnés ChatGPT Plus sur les fonctionnalités Work et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "TeamT5: les cyberattaques chinoises doublent avec l'usage de l'IA - Brief IA",
-      "link": "https://www.briefia.fr/article/teamt5-les-cyberattaques-chinoises-doublent-avec-l-usage-de-l-ia",
-      "url": "https://www.briefia.fr/article/teamt5-les-cyberattaques-chinoises-doublent-avec-l-usage-de-l-ia",
-      "publishedAt": "2026-08-25T16:12:36.000Z",
-      "date": "2026-08-25T16:12:36.000Z",
-      "description": "... ChatGPT et Claude Code. Cette... OpenAI a lancé GPT-5.4-Cyber, une version de ChatGPT dédiée à la cybersécurité, ciblant les experts du domaine.",
-      "excerpt": "... ChatGPT et Claude Code. Cette... OpenAI a lancé GPT-5.4-Cyber, une version de ChatGPT dédiée à la cybersécurité, ciblant les experts du domaine.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Strengthening democratic oversight in national security | OpenAI",
-      "link": "https://openai.com/fr-FR/index/strengthening-democratic-oversight-in-national-security/",
-      "url": "https://openai.com/fr-FR/index/strengthening-democratic-oversight-in-national-security/",
-      "publishedAt": "2026-08-25T15:31:34.000Z",
-      "date": "2026-08-25T15:31:34.000Z",
-      "description": "ChatGPT Enterprise (s'ouvre dans une nouvelle fenêtre) · ChatGPT pour l'éducation (s'ouvre dans une nouvelle fenêtre) · Codex · Notes de version.",
-      "excerpt": "ChatGPT Enterprise (s'ouvre dans une nouvelle fenêtre) · ChatGPT pour l'éducation (s'ouvre dans une nouvelle fenêtre) · Codex · Notes de version.",
+      "title": "ChatGPT se connecte désormais à vos comptes et reste connecté - Notebookcheck",
+      "link": "https://www.notebookcheck.biz/ChatGPT-se-connecte-desormais-a-vos-comptes-et-reste-connecte.1379414.0.html",
+      "url": "https://www.notebookcheck.biz/ChatGPT-se-connecte-desormais-a-vos-comptes-et-reste-connecte.1379414.0.html",
+      "publishedAt": "2026-08-26T15:56:58.000Z",
+      "date": "2026-08-26T15:56:58.000Z",
+      "description": "Le navigateur cloud de ChatGPT Work dispose depuis le 25 août de son propre formulaire de connexion. Vous saisissez vous-même votre nom...",
+      "excerpt": "Le navigateur cloud de ChatGPT Work dispose depuis le 25 août de son propre formulaire de connexion. Vous saisissez vous-même votre nom...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "Slack Code: la nouvelle fonction pour les agents IA - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/378953/slack-code-agents-ia-collaboration/",
-      "url": "https://www.blog-nouvelles-technologies.fr/378953/slack-code-agents-ia-collaboration/",
-      "publishedAt": "2026-08-25T15:23:35.000Z",
-      "date": "2026-08-25T15:23:35.000Z",
-      "description": "Tout sur Slack Code! Découvrez comment intégrer Claude Code, ChatGPT et Devin dans vos conversations d'équipe. Foncez voir l'article.",
-      "excerpt": "Tout sur Slack Code! Découvrez comment intégrer Claude Code, ChatGPT et Devin dans vos conversations d'équipe. Foncez voir l'article.",
+      "title": "OpenAI bloque un réseau russe qui utilisait ChatGPT pour fabriquer un faux institut pro-Kremlin",
+      "link": "https://pasqualepillitteri.it/fr/news/12840/openai-reseau-russe-chatgpt-faux-institut",
+      "url": "https://pasqualepillitteri.it/fr/news/12840/openai-reseau-russe-chatgpt-faux-institut",
+      "publishedAt": "2026-08-26T15:33:32.000Z",
+      "date": "2026-08-26T15:33:32.000Z",
+      "description": "OpenAI a banni des comptes ChatGPT russes derrière un faux think tank pro-Kremlin, l'International Burke Institute, dont 34 des 36 articles...",
+      "excerpt": "OpenAI a banni des comptes ChatGPT russes derrière un faux think tank pro-Kremlin, l'International Burke Institute, dont 34 des 36 articles...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT: la fonction de tâches planifiées est enfin disponible sur la version gratuite",
+      "link": "https://www.phonandroid.com/chatgpt-la-fonction-de-taches-planifiees-est-enfin-disponible-sur-la-version-gratuite.html",
+      "url": "https://www.phonandroid.com/chatgpt-la-fonction-de-taches-planifiees-est-enfin-disponible-sur-la-version-gratuite.html",
+      "publishedAt": "2026-08-26T13:46:07.000Z",
+      "date": "2026-08-26T13:46:07.000Z",
+      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT: la fonction de tâches planifiées est enfin disponible sur la...",
+      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT: la fonction de tâches planifiées est enfin disponible sur la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT: planification des tâches pour comptes gratuits - Daily Beirut",
+      "link": "https://dailybeirut.com/fr/intelligence-artificielle/chatgpt-%C3%A9tend-la-fonction-de-planification-des-t%C3%A2ches-aux-comptes-gratuits/",
+      "url": "https://dailybeirut.com/fr/intelligence-artificielle/chatgpt-%C3%A9tend-la-fonction-de-planification-des-t%C3%A2ches-aux-comptes-gratuits/",
+      "publishedAt": "2026-08-26T13:42:34.000Z",
+      "date": "2026-08-26T13:42:34.000Z",
+      "description": "OpenAI vient d'étendre sa plateforme « Daybreak », dédiée à la cybersécurité, et a lancé un nouveau modèle d'intelligence artificielle destiné à des...",
+      "excerpt": "OpenAI vient d'étendre sa plateforme « Daybreak », dédiée à la cybersécurité, et a lancé un nouveau modèle d'intelligence artificielle destiné à des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ComfyUI avec MiniMax H3: est-il plus performant que Kling AI, Seedance et les autres...",
+      "link": "https://www.notebookcheck.biz/ComfyUI-avec-MiniMax-H3-est-il-plus-performant-que-Kling-AI-Seedance-et-les-autres-generateurs-de-videos-en-version-gratuite.1378763.0.html",
+      "url": "https://www.notebookcheck.biz/ComfyUI-avec-MiniMax-H3-est-il-plus-performant-que-Kling-AI-Seedance-et-les-autres-generateurs-de-videos-en-version-gratuite.1378763.0.html",
+      "publishedAt": "2026-08-26T13:35:00.000Z",
+      "date": "2026-08-26T13:35:00.000Z",
+      "description": "(LLM) classiques tels que ChatGPT, la plupart des fournisseurs se montrant avares en crédits gratuits. Il est encore plus difficile de leur faire...",
+      "excerpt": "(LLM) classiques tels que ChatGPT, la plupart des fournisseurs se montrant avares en crédits gratuits. Il est encore plus difficile de leur faire...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI rétablit brusquement les limites strictes de 5 heures pour Codex et Work sur ChatGPT Plus",
+      "link": "https://www.notebookcheck.biz/OpenAI-retablit-brusquement-les-limites-strictes-de-5-heures-pour-Codex-et-Work-sur-ChatGPT-Plus.1378746.0.html",
+      "url": "https://www.notebookcheck.biz/OpenAI-retablit-brusquement-les-limites-strictes-de-5-heures-pour-Codex-et-Work-sur-ChatGPT-Plus.1378746.0.html",
+      "publishedAt": "2026-08-26T13:34:13.000Z",
+      "date": "2026-08-26T13:34:13.000Z",
+      "description": "L'accès illimité dont bénéficiaient récemment les utilisateurs de ChatGPT Plus a désormais pris fin. La limite stricte d'utilisation de cinq...",
+      "excerpt": "L'accès illimité dont bénéficiaient récemment les utilisateurs de ChatGPT Plus a désormais pris fin. La limite stricte d'utilisation de cinq...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Une étude a passé au crible 490 000 pages web et découvre à quel point l'IA a envahi Internet",
+      "link": "https://www.phonandroid.com/une-etude-a-passe-au-crible-490-000-pages-web-et-decouvre-a-quel-point-lia-a-envahi-internet.html",
+      "url": "https://www.phonandroid.com/une-etude-a-passe-au-crible-490-000-pages-web-et-decouvre-a-quel-point-lia-a-envahi-internet.html",
+      "publishedAt": "2026-08-26T12:15:35.000Z",
+      "date": "2026-08-26T12:15:35.000Z",
+      "description": "Une analyse de 490 000 pages révèle quelle part du Web publié depuis ChatGPT porte les signes d'une rédaction automatisée... Cybersécurité · eSIM...",
+      "excerpt": "Une analyse de 490 000 pages révèle quelle part du Web publié depuis ChatGPT porte les signes d'une rédaction automatisée... Cybersécurité · eSIM...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ceux qui ne sont pas cités par ChatGPT disparaissent d'Internet - Xpert.Digital",
+      "link": "https://xpert.digital/fr/la-redistribution-silencieuse-de-la-visibilite/?amp=1",
+      "url": "https://xpert.digital/fr/la-redistribution-silencieuse-de-la-visibilite/?amp=1",
+      "publishedAt": "2026-08-26T12:04:29.000Z",
+      "date": "2026-08-26T12:04:29.000Z",
+      "description": "Pourquoi les sites web perdent des millions de clics – et qui profite de la nouvelle tendance de l'IA. Plantage soudain: voilà pourquoi ChatGPT...",
+      "excerpt": "Pourquoi les sites web perdent des millions de clics – et qui profite de la nouvelle tendance de l'IA. Plantage soudain: voilà pourquoi ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
