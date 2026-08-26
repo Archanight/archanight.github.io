@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T00:42:16.155Z",
+  "generatedAt": "2026-08-26T06:30:36.784Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Les publicités arrivent sur ChatGPT en Europe - AOL.com",
+      "link": "https://www.aol.com/articles/publicit%C3%A9s-arrivent-chatgpt-europe-100342000.html",
+      "url": "https://www.aol.com/articles/publicit%C3%A9s-arrivent-chatgpt-europe-100342000.html",
+      "publishedAt": "2026-08-26T00:25:25.000Z",
+      "date": "2026-08-26T00:25:25.000Z",
+      "description": "Le géant américain de l'IA OpenAI lance une version de ChatGPT pour les adolescents... cybersécurité, les garde-fous habituels ayant été volontairement...",
+      "excerpt": "Le géant américain de l'IA OpenAI lance une version de ChatGPT pour les adolescents... cybersécurité, les garde-fous habituels ayant été volontairement...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT Plus: OpenAI rétablit la limite des cinq heures sur Codex et Work, six semaines...",
       "link": "https://www.numerama.com/tech/2317749-chatgpt-plus-openai-retablit-la-limite-des-cinq-heures-sur-codex-et-work-six-semaines-apres-lavoir-supprimee.html",
@@ -117,16 +127,6 @@
       "date": "2026-08-25T13:21:55.000Z",
       "description": "Voilà le genre de nouvelle qui provoquera certainement de la frustration chez les abonnés Plus qui utilisent ChatGPT Work ou Codex. Dans une mise à...",
       "excerpt": "Voilà le genre de nouvelle qui provoquera certainement de la frustration chez les abonnés Plus qui utilisent ChatGPT Work ou Codex. Dans une mise à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI ferme des comptes utilisés depuis la Russie pour une campagne d'influence clandestine",
-      "link": "https://moncarnet.com/2026/08/25/openai-ferme-des-comptes-utilises-depuis-la-russie-pour-une-campagne-dinfluence-clandestine/",
-      "url": "https://moncarnet.com/2026/08/25/openai-ferme-des-comptes-utilises-depuis-la-russie-pour-une-campagne-dinfluence-clandestine/",
-      "publishedAt": "2026-08-25T12:37:37.000Z",
-      "date": "2026-08-25T12:37:37.000Z",
-      "description": "OpenAI affirme avoir fermé un groupe de comptes ChatGPT qui provenaient très probablement de Russie et qui participaient à une campagne...",
-      "excerpt": "OpenAI affirme avoir fermé un groupe de comptes ChatGPT qui provenaient très probablement de Russie et qui participaient à une campagne...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
