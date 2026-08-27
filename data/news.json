@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T19:38:03.285Z",
+  "generatedAt": "2026-08-27T05:49:33.681Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "A mesure que l'IA se déploie dans les grandes entreprises, les points de rupture apparaissent",
+      "link": "https://itrnews.com/articles/210737/a-mesure-que-lia-se-deploie-dans-les-grandes-entreprises-les-points-de-rupture-apparaissent.html",
+      "url": "https://itrnews.com/articles/210737/a-mesure-que-lia-se-deploie-dans-les-grandes-entreprises-les-points-de-rupture-apparaissent.html",
+      "publishedAt": "2026-08-26T21:57:41.000Z",
+      "date": "2026-08-26T21:57:41.000Z",
+      "description": "Dynatrace vient de publier les résultats de son étude The State of SRE and Platform Engineering 2026 qui analyse la manière dont les grandes...",
+      "excerpt": "Dynatrace vient de publier les résultats de son étude The State of SRE and Platform Engineering 2026 qui analyse la manière dont les grandes...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI offre un an de ChatGPT gratuit aux chercheurs universitaires - Stynx",
+      "link": "https://stynx.fr/article/openai-offre-un-an-de-chatgpt-gratuit-aux-chercheurs-universitaires",
+      "url": "https://stynx.fr/article/openai-offre-un-an-de-chatgpt-gratuit-aux-chercheurs-universitaires",
+      "publishedAt": "2026-08-26T19:08:48.000Z",
+      "date": "2026-08-26T19:08:48.000Z",
+      "description": "Le détail figure dans les notes de version publiées par OpenAI, sans... Sources. ChatGPT Release Notes - OpenAI Help Center. Stynx s'appuie...",
+      "excerpt": "Le détail figure dans les notes de version publiées par OpenAI, sans... Sources. ChatGPT Release Notes - OpenAI Help Center. Stynx s'appuie...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "GPT-5.6 Luna devient le modèle par défaut de Duck.ai: DuckDuckGo muscle son chatbot",
       "link": "https://www.lefilia.fr/article/6071419-gpt-5-6-luna-devient-le-modele-par-defaut-de-duck-ai-duckduckgo-muscle-son-chatbot",
@@ -107,26 +127,6 @@
       "date": "2026-08-26T13:34:13.000Z",
       "description": "L'accès illimité dont bénéficiaient récemment les utilisateurs de ChatGPT Plus a désormais pris fin. La limite stricte d'utilisation de cinq...",
       "excerpt": "L'accès illimité dont bénéficiaient récemment les utilisateurs de ChatGPT Plus a désormais pris fin. La limite stricte d'utilisation de cinq...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Une étude a passé au crible 490 000 pages web et découvre à quel point l'IA a envahi Internet",
-      "link": "https://www.phonandroid.com/une-etude-a-passe-au-crible-490-000-pages-web-et-decouvre-a-quel-point-lia-a-envahi-internet.html",
-      "url": "https://www.phonandroid.com/une-etude-a-passe-au-crible-490-000-pages-web-et-decouvre-a-quel-point-lia-a-envahi-internet.html",
-      "publishedAt": "2026-08-26T12:15:35.000Z",
-      "date": "2026-08-26T12:15:35.000Z",
-      "description": "Une analyse de 490 000 pages révèle quelle part du Web publié depuis ChatGPT porte les signes d'une rédaction automatisée... Cybersécurité · eSIM...",
-      "excerpt": "Une analyse de 490 000 pages révèle quelle part du Web publié depuis ChatGPT porte les signes d'une rédaction automatisée... Cybersécurité · eSIM...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ceux qui ne sont pas cités par ChatGPT disparaissent d'Internet - Xpert.Digital",
-      "link": "https://xpert.digital/fr/la-redistribution-silencieuse-de-la-visibilite/?amp=1",
-      "url": "https://xpert.digital/fr/la-redistribution-silencieuse-de-la-visibilite/?amp=1",
-      "publishedAt": "2026-08-26T12:04:29.000Z",
-      "date": "2026-08-26T12:04:29.000Z",
-      "description": "Pourquoi les sites web perdent des millions de clics – et qui profite de la nouvelle tendance de l'IA. Plantage soudain: voilà pourquoi ChatGPT...",
-      "excerpt": "Pourquoi les sites web perdent des millions de clics – et qui profite de la nouvelle tendance de l'IA. Plantage soudain: voilà pourquoi ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
