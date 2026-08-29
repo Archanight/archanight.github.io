@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T16:15:28.760Z",
+  "generatedAt": "2026-08-29T20:10:41.878Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "la fonctionnalité de discussion temporaire peut désormais utiliser vos souvenirs enregistrés",
+      "link": "https://www.notebookcheck.biz/ChatGPT-la-fonctionnalite-de-discussion-temporaire-peut-desormais-utiliser-vos-souvenirs-enregistres.1382468.0.html",
+      "url": "https://www.notebookcheck.biz/ChatGPT-la-fonctionnalite-de-discussion-temporaire-peut-desormais-utiliser-vos-souvenirs-enregistres.1382468.0.html",
+      "publishedAt": "2026-08-29T11:49:42.000Z",
+      "date": "2026-08-29T11:49:42.000Z",
+      "description": "Le mode de discussion temporaire était celui dans lequel ChatGPT ne savait rien de vous. Depuis le 27 août, un choix s'affiche en haut à droite de...",
+      "excerpt": "Le mode de discussion temporaire était celui dans lequel ChatGPT ne savait rien de vous. Depuis le 27 août, un choix s'affiche en haut à droite de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "plusieurs comptes Gmail et Google Agenda peuvent désormais être connectés en même temps",
       "link": "https://www.menow.fr/chatgpt-plusieurs-comptes-gmail-et-google-agenda-peuvent-desormais-etre-connectes-en-meme-temps/",
@@ -60,6 +70,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
+      "title": "Application Courriel et Calendrier Outlook pour ChatGPT | OpenAI Help Center",
+      "link": "https://help.openai.com/fr-ca/articles/12512241-outlook-email-and-calendar-apps-in-chatgpt",
+      "url": "https://help.openai.com/fr-ca/articles/12512241-outlook-email-and-calendar-apps-in-chatgpt",
+      "publishedAt": "2026-08-28T22:21:44.000Z",
+      "date": "2026-08-28T22:21:44.000Z",
+      "description": "Articles connexes · ChatGPT — Notes de version. Un journal des plus récentes mises à jour et notes de version de ChatGPT · ChatGPT Enterprise et Edu –...",
+      "excerpt": "Articles connexes · ChatGPT — Notes de version. Un journal des plus récentes mises à jour et notes de version de ChatGPT · ChatGPT Enterprise et Edu –...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "ChatGPT Work peut désormais se connecter aux sites à votre place sans voir vos mots de passe",
       "link": "https://pasqualepillitteri.it/fr/news/13320/chatgpt-work-connexion-sites-sans-mots-de-passe",
       "url": "https://pasqualepillitteri.it/fr/news/13320/chatgpt-work-connexion-sites-sans-mots-de-passe",
@@ -80,6 +100,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "AI Overviews, ChatGPT Ads, Spam Update … Décryptage d'un été riche en actualité SEO & GEO",
+      "link": "https://webikeo.fr/webinar/ai-overviews-chatgpt-ads-spam-update-decryptage-d-un-ete-riche-en-actualite-seo-geo",
+      "url": "https://webikeo.fr/webinar/ai-overviews-chatgpt-ads-spam-update-decryptage-d-un-ete-riche-en-actualite-seo-geo",
+      "publishedAt": "2026-08-28T18:04:04.000Z",
+      "date": "2026-08-28T18:04:04.000Z",
+      "description": "Cet été a été particulièrement chargé en actualités SEO & GEO: déploiement des AI Overviews, arrivée des ChatGPT Ads, mise à jour anti-spam de...",
+      "excerpt": "Cet été a été particulièrement chargé en actualités SEO & GEO: déploiement des AI Overviews, arrivée des ChatGPT Ads, mise à jour anti-spam de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Hack des impôts et « corruption »: une association dépose plainte et évoque « - 01net.com",
       "link": "https://www.01net.com/actualites/hack-impots-corruption-association-depose-plainte-eventuelles-complicites.html",
       "url": "https://www.01net.com/actualites/hack-impots-corruption-association-depose-plainte-eventuelles-complicites.html",
@@ -97,36 +127,6 @@
       "date": "2026-08-28T15:01:46.000Z",
       "description": "Les incidents ont débuté avec l'évasion d'une armée de ChatGPT de leur prison numérique. Pour répondre à un examen de cybersécurité, les IA se...",
       "excerpt": "Les incidents ont débuté avec l'évasion d'une armée de ChatGPT de leur prison numérique. Pour répondre à un examen de cybersécurité, les IA se...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Intelligence artificielle: ChatGPT n'en peut pub | Le Canard enchaîné",
-      "link": "https://www.lecanardenchaine.fr/technologie-sciences/54734-chatgpt-n-en-peut-pub",
-      "url": "https://www.lecanardenchaine.fr/technologie-sciences/54734-chatgpt-n-en-peut-pub",
-      "publishedAt": "2026-08-28T14:30:09.000Z",
-      "date": "2026-08-28T14:30:09.000Z",
-      "description": "« Le Canard » lui a posé la question. La pub arrive sur ChatGPT © Lodi - La pub arrive sur ChatGPT... Cybersécurité - Ces failles numériques qui...",
-      "excerpt": "« Le Canard » lui a posé la question. La pub arrive sur ChatGPT © Lodi - La pub arrive sur ChatGPT... Cybersécurité - Ces failles numériques qui...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le rapport d'OpenAI sur son IA devenue incontrôlable dévoile un détail que personne n'avait vu venir",
-      "link": "https://www.phonandroid.com/le-rapport-dopenai-sur-son-ia-devenue-incontrolable-devoile-un-detail-que-personne-navait-vu-venir.html",
-      "url": "https://www.phonandroid.com/le-rapport-dopenai-sur-son-ia-devenue-incontrolable-devoile-un-detail-que-personne-navait-vu-venir.html",
-      "publishedAt": "2026-08-28T14:26:09.000Z",
-      "date": "2026-08-28T14:26:09.000Z",
-      "description": "... cybersécurité ont fini par pirater Hugging Face sans ordre humain. Le créateur de ChatGPT détaille aujourd'hui les cinq jours durant lesquels l...",
-      "excerpt": "... cybersécurité ont fini par pirater Hugging Face sans ordre humain. Le créateur de ChatGPT détaille aujourd'hui les cinq jours durant lesquels l...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI, Google et plus de 100 entreprises appellent à une défense collective contre les...",
-      "link": "https://kulturegeek.fr/news-357788/openai-google-plus-100-entreprises-appellent-defense-collective-contre-cyberattaques-ia",
-      "url": "https://kulturegeek.fr/news-357788/openai-google-plus-100-entreprises-appellent-defense-collective-contre-cyberattaques-ia",
-      "publishedAt": "2026-08-28T14:03:46.000Z",
-      "date": "2026-08-28T14:03:46.000Z",
-      "description": "Plus de 100 entreprises issues de l'intelligence artificielle, du cloud, de la cybersécurité... ChatGPT Translate Traduction Internet · ChatGPT...",
-      "excerpt": "Plus de 100 entreprises issues de l'intelligence artificielle, du cloud, de la cybersécurité... ChatGPT Translate Traduction Internet · ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
