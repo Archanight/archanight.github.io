@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T11:58:21.538Z",
+  "generatedAt": "2026-08-29T16:15:28.760Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "plusieurs comptes Gmail et Google Agenda peuvent désormais être connectés en même temps",
+      "link": "https://www.menow.fr/chatgpt-plusieurs-comptes-gmail-et-google-agenda-peuvent-desormais-etre-connectes-en-meme-temps/",
+      "url": "https://www.menow.fr/chatgpt-plusieurs-comptes-gmail-et-google-agenda-peuvent-desormais-etre-connectes-en-meme-temps/",
+      "publishedAt": "2026-08-29T11:32:18.000Z",
+      "date": "2026-08-29T11:32:18.000Z",
+      "description": "ChatGPT permet désormais de connecter plusieurs comptes Gmail, Google Agenda et Google Contacts à la fois. Une nouveauté particulièrement utile...",
+      "excerpt": "ChatGPT permet désormais de connecter plusieurs comptes Gmail, Google Agenda et Google Contacts à la fois. Une nouveauté particulièrement utile...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI, Anthropic et 100 entreprises tirent la sonnette d'alarme sur un danger urgent de l'IA",
       "link": "https://www.netcost-security.fr/actualites/275617/openai-anthropic-et-100-entreprises-tirent-la-sonnette-dalarme-sur-un-danger-urgent-de-lia/",
@@ -117,16 +127,6 @@
       "date": "2026-08-28T14:03:46.000Z",
       "description": "Plus de 100 entreprises issues de l'intelligence artificielle, du cloud, de la cybersécurité... ChatGPT Translate Traduction Internet · ChatGPT...",
       "excerpt": "Plus de 100 entreprises issues de l'intelligence artificielle, du cloud, de la cybersécurité... ChatGPT Translate Traduction Internet · ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Ads: les enchères automatiques cochées par défaut, ce qu'il faut absolument...",
-      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/chatgpt-ads-encheres-automatiques-cochees-defaut-91511/",
-      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/chatgpt-ads-encheres-automatiques-cochees-defaut-91511/",
-      "publishedAt": "2026-08-28T13:39:39.000Z",
-      "date": "2026-08-28T13:39:39.000Z",
-      "description": "La stratégie « Maximize results » est désormais sélectionnée par défaut pour tout nouveau groupe d'annonces éligible dans ChatGPT Ads Manager.",
-      "excerpt": "La stratégie « Maximize results » est désormais sélectionnée par défaut pour tout nouveau groupe d'annonces éligible dans ChatGPT Ads Manager.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
