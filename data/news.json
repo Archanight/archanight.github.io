@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T01:19:31.757Z",
+  "generatedAt": "2026-08-29T11:58:21.538Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI, Anthropic et 100 entreprises tirent la sonnette d'alarme sur un danger urgent de l'IA",
+      "link": "https://www.netcost-security.fr/actualites/275617/openai-anthropic-et-100-entreprises-tirent-la-sonnette-dalarme-sur-un-danger-urgent-de-lia/",
+      "url": "https://www.netcost-security.fr/actualites/275617/openai-anthropic-et-100-entreprises-tirent-la-sonnette-dalarme-sur-un-danger-urgent-de-lia/",
+      "publishedAt": "2026-08-29T06:30:23.000Z",
+      "date": "2026-08-29T06:30:23.000Z",
+      "description": "La lettre indique que ces nouveaux outils de cybersécurité « offrent déjà aux défenseurs de nouvelles méthodes pour corriger des faiblesses qui se...",
+      "excerpt": "La lettre indique que ces nouveaux outils de cybersécurité « offrent déjà aux défenseurs de nouvelles méthodes pour corriger des faiblesses qui se...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Duck.ai adopte GPT-5.6 Luna et publie une enquête sur les risques - Brief IA",
+      "link": "https://www.briefia.fr/article/duck-ai-adopte-gpt-5-6-luna-et-publie-une-enquete-sur-les-risques",
+      "url": "https://www.briefia.fr/article/duck-ai-adopte-gpt-5-6-luna-et-publie-une-enquete-sur-les-risques",
+      "publishedAt": "2026-08-29T04:46:18.000Z",
+      "date": "2026-08-29T04:46:18.000Z",
+      "description": "GPT-5.4-Cyber: une révolution dans la cybersécurité il y a 4 mois→... ChatGPT et Copilot: défi d'identité vérifiée en entreprise. • Une...",
+      "excerpt": "GPT-5.4-Cyber: une révolution dans la cybersécurité il y a 4 mois→... ChatGPT et Copilot: défi d'identité vérifiée en entreprise. • Une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "On s'attend à une forte augmentation des installations de faux logiciels malveillants comme...",
+      "link": "https://www.vietnam.vn/fr/gia-mao-ai-chatgpt-gemini-de-cai-ma-doc-tang-vot-trong-nam-2026",
+      "url": "https://www.vietnam.vn/fr/gia-mao-ai-chatgpt-gemini-de-cai-ma-doc-tang-vot-trong-nam-2026",
+      "publishedAt": "2026-08-29T03:58:54.000Z",
+      "date": "2026-08-29T03:58:54.000Z",
+      "description": "... ChatGPT, ce qui représente un risque important pour les utilisateurs du... cybersécurité de la société de sécurité. De janvier à mai...",
+      "excerpt": "... ChatGPT, ce qui représente un risque important pour les utilisateurs du... cybersécurité de la société de sécurité. De janvier à mai...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un faux institut pro-russe a copié 34 articles sur 36 pour paraître crédible - Quasa",
+      "link": "https://quasa.io/fr/media/un-faux-institut-pro-russe-a-copie-34-articles-sur-36-pour-paraitre-credible",
+      "url": "https://quasa.io/fr/media/un-faux-institut-pro-russe-a-copie-34-articles-sur-36-pour-paraitre-credible",
+      "publishedAt": "2026-08-28T22:26:38.000Z",
+      "date": "2026-08-28T22:26:38.000Z",
+      "description": "Le 25 août 2026, OpenAI a annoncé avoir bloqué un groupe de comptes ChatGPT très probablement exploités depuis la Russie.",
+      "excerpt": "Le 25 août 2026, OpenAI a annoncé avoir bloqué un groupe de comptes ChatGPT très probablement exploités depuis la Russie.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "ChatGPT Work peut désormais se connecter aux sites à votre place sans voir vos mots de passe",
       "link": "https://pasqualepillitteri.it/fr/news/13320/chatgpt-work-connexion-sites-sans-mots-de-passe",
@@ -87,46 +127,6 @@
       "date": "2026-08-28T13:39:39.000Z",
       "description": "La stratégie « Maximize results » est désormais sélectionnée par défaut pour tout nouveau groupe d'annonces éligible dans ChatGPT Ads Manager.",
       "excerpt": "La stratégie « Maximize results » est désormais sélectionnée par défaut pour tout nouveau groupe d'annonces éligible dans ChatGPT Ads Manager.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT, Claude, Gemini: avez-vous vraiment besoin de payer pour une IA? - Les Numériques",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-claude-gemini-avez-vous-vraiment-besoin-de-payer-pour-une-ia-n261046.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-claude-gemini-avez-vous-vraiment-besoin-de-payer-pour-une-ia-n261046.html",
-      "publishedAt": "2026-08-28T13:26:05.000Z",
-      "date": "2026-08-28T13:26:05.000Z",
-      "description": "ChatGPT, Claude ou Gemini sont de plus en plus généreux sans... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
-      "excerpt": "ChatGPT, Claude ou Gemini sont de plus en plus généreux sans... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Les agents IA d'OpenAI lancent des cyberattaques... et l'entreprise s'en alarme - NLTO",
-      "link": "https://www.nlto.fr/les-agents-ia-dopenai-lancent-des-cyberattaques-et-lentreprise-sen-alarme/",
-      "url": "https://www.nlto.fr/les-agents-ia-dopenai-lancent-des-cyberattaques-et-lentreprise-sen-alarme/",
-      "publishedAt": "2026-08-28T12:14:20.000Z",
-      "date": "2026-08-28T12:14:20.000Z",
-      "description": "Dans leur lettre, les signataires soulignent le « sous-financement historique » de la cybersécurité des infrastructures critiques et appellent à une...",
-      "excerpt": "Dans leur lettre, les signataires soulignent le « sous-financement historique » de la cybersécurité des infrastructures critiques et appellent à une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI, Google, Anthropic: les géants de l'IA alertent sur les risques de l'IA - iPhoneSoft",
-      "link": "https://iphonesoft.fr/2026/08/28/openai-google-anthropic-geants-ia-alertent-risques-ia",
-      "url": "https://iphonesoft.fr/2026/08/28/openai-google-anthropic-geants-ia-alertent-risques-ia",
-      "publishedAt": "2026-08-28T11:43:33.000Z",
-      "date": "2026-08-28T11:43:33.000Z",
-      "description": "chatgpt icone app ipa iphone ipad Les géants de la tech tirent (enfin)... cybersécurité. Parmi les signataires figurent les plus grands noms...",
-      "excerpt": "chatgpt icone app ipa iphone ipad Les géants de la tech tirent (enfin)... cybersécurité. Parmi les signataires figurent les plus grands noms...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cette entreprise avait 10 ans d'avance sur ChatGPT avant de tout gâcher - Orange Actu",
-      "link": "https://actu.orange.fr/videos/high-tech/cette-entreprise-avait-10-ans-d-avance-sur-chatgpt-avant-de-tout-gacher-CNT000002rA9KU.html",
-      "url": "https://actu.orange.fr/videos/high-tech/cette-entreprise-avait-10-ans-d-avance-sur-chatgpt-avant-de-tout-gacher-CNT000002rA9KU.html",
-      "publishedAt": "2026-08-28T10:54:55.000Z",
-      "date": "2026-08-28T10:54:55.000Z",
-      "description": "... ChatGPT.Mais comment le pionnier absolu de la tech a-t-il pu se... Cybersécurité et Télésurveillance. SaferPhone le forfait qui rassure. +...",
-      "excerpt": "... ChatGPT.Mais comment le pionnier absolu de la tech a-t-il pu se... Cybersécurité et Télésurveillance. SaferPhone le forfait qui rassure. +...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
