@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T17:53:59.206Z",
+  "generatedAt": "2026-08-29T01:19:31.757Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT Work peut désormais se connecter aux sites à votre place sans voir vos mots de passe",
+      "link": "https://pasqualepillitteri.it/fr/news/13320/chatgpt-work-connexion-sites-sans-mots-de-passe",
+      "url": "https://pasqualepillitteri.it/fr/news/13320/chatgpt-work-connexion-sites-sans-mots-de-passe",
+      "publishedAt": "2026-08-28T19:41:25.000Z",
+      "date": "2026-08-28T19:41:25.000Z",
+      "description": "OpenAI a ajouté le 25 août 2026, via les notes de version de ChatGPT, une fonctionnalité qui permet à ChatGPT Work de prendre en charge une tâche...",
+      "excerpt": "OpenAI a ajouté le 25 août 2026, via les notes de version de ChatGPT, une fonctionnalité qui permet à ChatGPT Work de prendre en charge une tâche...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT vous laisse désormais garder et personnaliser vos discussions temporaires",
+      "link": "https://www.lefilia.fr/article/6081175-chatgpt-vous-laisse-desormais-garder-et-personnaliser-vos-discussions-temporaires",
+      "url": "https://www.lefilia.fr/article/6081175-chatgpt-vous-laisse-desormais-garder-et-personnaliser-vos-discussions-temporaires",
+      "publishedAt": "2026-08-28T18:44:15.000Z",
+      "date": "2026-08-28T18:44:15.000Z",
+      "description": "OpenAI a annoncé le 27 août 2026, via un message publié sur le compte X officiel de ChatGPT, une évolution du mode de discussion temporaire du...",
+      "excerpt": "OpenAI a annoncé le 27 août 2026, via un message publié sur le compte X officiel de ChatGPT, une évolution du mode de discussion temporaire du...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Hack des impôts et « corruption »: une association dépose plainte et évoque « - 01net.com",
       "link": "https://www.01net.com/actualites/hack-impots-corruption-association-depose-plainte-eventuelles-complicites.html",
@@ -107,26 +127,6 @@
       "date": "2026-08-28T10:54:55.000Z",
       "description": "... ChatGPT.Mais comment le pionnier absolu de la tech a-t-il pu se... Cybersécurité et Télésurveillance. SaferPhone le forfait qui rassure. +...",
       "excerpt": "... ChatGPT.Mais comment le pionnier absolu de la tech a-t-il pu se... Cybersécurité et Télésurveillance. SaferPhone le forfait qui rassure. +...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les agents IA \"always-on\" et autonomes, prochain grand pari d'OpenAI - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6080523-les-agents-ia-always-on-et-autonomes-prochain-grand-pari-d-openai",
-      "url": "https://www.lefilia.fr/article/6080523-les-agents-ia-always-on-et-autonomes-prochain-grand-pari-d-openai",
-      "publishedAt": "2026-08-28T10:45:31.000Z",
-      "date": "2026-08-28T10:45:31.000Z",
-      "description": "Lors des essais menés avec le modèle GPT-5... OpenAI annonce la fin du chat et projette de transformer ChatGPT en application d'agents autonomes...",
-      "excerpt": "Lors des essais menés avec le modèle GPT-5... OpenAI annonce la fin du chat et projette de transformer ChatGPT en application d'agents autonomes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les concepteurs de modèles d'IA demandent aux gouvernements de contribuer au... - Cryptopolitan",
-      "link": "https://www.cryptopolitan.com/fr/ai-labs-ask-governments-fund-cyber-defense/",
-      "url": "https://www.cryptopolitan.com/fr/ai-labs-ask-governments-fund-cyber-defense/",
-      "publishedAt": "2026-08-28T10:44:38.000Z",
-      "date": "2026-08-28T10:44:38.000Z",
-      "description": "Plus de 100 entreprises ont signé, dont les laboratoires d'IA OpenAI, Anthropic, Google et Microsoft, des sociétés de cybersécurité telles que...",
-      "excerpt": "Plus de 100 entreprises ont signé, dont les laboratoires d'IA OpenAI, Anthropic, Google et Microsoft, des sociétés de cybersécurité telles que...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
