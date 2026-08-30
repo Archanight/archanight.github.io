@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T20:10:41.878Z",
+  "generatedAt": "2026-08-30T02:30:20.201Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Vous trouvez aussi que ChatGPT et Claude sont devenus médiocres? Comment j'ai corrigé...",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/vous-trouvez-aussi-que-chatgpt-et-claude-sont-devenus-mediocres-comment-j-ai-corrige-ce-probleme-n261087.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/vous-trouvez-aussi-que-chatgpt-et-claude-sont-devenus-mediocres-comment-j-ai-corrige-ce-probleme-n261087.html",
+      "publishedAt": "2026-08-29T19:19:39.000Z",
+      "date": "2026-08-29T19:19:39.000Z",
+      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris Google. Commenter. Nassim Chentouf. Passionné par l'IA, la société numérique, l...",
+      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris Google. Commenter. Nassim Chentouf. Passionné par l'IA, la société numérique, l...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "la fonctionnalité de discussion temporaire peut désormais utiliser vos souvenirs enregistrés",
       "link": "https://www.notebookcheck.biz/ChatGPT-la-fonctionnalite-de-discussion-temporaire-peut-desormais-utiliser-vos-souvenirs-enregistres.1382468.0.html",
@@ -117,16 +127,6 @@
       "date": "2026-08-28T17:10:35.000Z",
       "description": "Tant que « des garanties concrètes de cybersécurité n'auront pas été... ChatGPT a lancé sa première cyberattaque · Homme Facture Documents.",
       "excerpt": "Tant que « des garanties concrètes de cybersécurité n'auront pas été... ChatGPT a lancé sa première cyberattaque · Homme Facture Documents.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "« Réponse mondiale » d'urgence: OpenAI, Google, Anthropic et plus de 100 entreprises s...",
-      "link": "https://www.01net.com/actualites/reponse-mondiale-durgence-openai-google-anthropic-et-plus-de-100-entreprises-sinquietent-des-cyberattaques-ia.html",
-      "url": "https://www.01net.com/actualites/reponse-mondiale-durgence-openai-google-anthropic-et-plus-de-100-entreprises-sinquietent-des-cyberattaques-ia.html",
-      "publishedAt": "2026-08-28T15:01:46.000Z",
-      "date": "2026-08-28T15:01:46.000Z",
-      "description": "Les incidents ont débuté avec l'évasion d'une armée de ChatGPT de leur prison numérique. Pour répondre à un examen de cybersécurité, les IA se...",
-      "excerpt": "Les incidents ont débuté avec l'évasion d'une armée de ChatGPT de leur prison numérique. Pour répondre à un examen de cybersécurité, les IA se...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
