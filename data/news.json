@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T20:17:58.824Z",
+  "generatedAt": "2026-08-31T02:24:38.232Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI corrige les bugs de Codex, l'usage tient jusqu'à 50% de plus - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/13432/openai-codex-bugs-quota-correction",
+      "url": "https://pasqualepillitteri.it/fr/news/13432/openai-codex-bugs-quota-correction",
+      "publishedAt": "2026-08-30T20:07:47.000Z",
+      "date": "2026-08-30T20:07:47.000Z",
+      "description": "We are reseting usage for all paid users of Codex and ChatGPT Work. Please continue reading for an update on Codex usage limits. The team has been...",
+      "excerpt": "We are reseting usage for all paid users of Codex and ChatGPT Work. Please continue reading for an update on Codex usage limits. The team has been...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Les premiers rendus de mozaik-alpha-fdm, le checkpoint Astra d'OpenAI, ont fuité",
+      "link": "https://pasqualepillitteri.it/fr/news/13446/mozaik-alpha-fdm-premiers-rendus-astra",
+      "url": "https://pasqualepillitteri.it/fr/news/13446/mozaik-alpha-fdm-premiers-rendus-astra",
+      "publishedAt": "2026-08-30T20:07:33.000Z",
+      "date": "2026-08-30T20:07:33.000Z",
+      "description": "Pour qui veut s'y retrouver parmi les sigles, notre guide complet sur OpenAI et ChatGPT reste utile. L'ombre de la pause sur la sécurité cyber.",
+      "excerpt": "Pour qui veut s'y retrouver parmi les sigles, notre guide complet sur OpenAI et ChatGPT reste utile. L'ombre de la pause sur la sécurité cyber.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "IA: OpenAI et Anthropic, deux frères ennemis en concurrence frontale pour lever des... - Le Monde",
       "link": "https://www.lemonde.fr/economie/article/2026/08/30/ia-openai-et-anthropic-deux-freres-ennemis-en-concurrence-frontale-pour-lever-des-sommes-vertigineuses-en-bourse_6761391_3234.html",
@@ -60,16 +80,6 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Les premiers rendus de mozaik-alpha-fdm, le checkpoint Astra d'OpenAI, ont fuité",
-      "link": "https://pasqualepillitteri.it/fr/news/13446/mozaik-alpha-fdm-premiers-rendus-astra",
-      "url": "https://pasqualepillitteri.it/fr/news/13446/mozaik-alpha-fdm-premiers-rendus-astra",
-      "publishedAt": "2026-08-30T11:42:35.000Z",
-      "date": "2026-08-30T11:42:35.000Z",
-      "description": "OpenAI & ChatGPT 6 OpenAI & ChatGPT · Actualites IA & Tendances 18... cybersécurité de son Preparedness Framework, le cadre interne avec...",
-      "excerpt": "OpenAI & ChatGPT 6 OpenAI & ChatGPT · Actualites IA & Tendances 18... cybersécurité de son Preparedness Framework, le cadre interne avec...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
       "title": "Meta AI débarque sur Apple CarPlay - iPhoneSoft",
       "link": "https://iphonesoft.fr/2026/08/30/meta-ai-debarque-apple-carplay",
       "url": "https://iphonesoft.fr/2026/08/30/meta-ai-debarque-apple-carplay",
@@ -117,16 +127,6 @@
       "date": "2026-08-29T11:32:18.000Z",
       "description": "ChatGPT permet désormais de connecter plusieurs comptes Gmail, Google Agenda et Google Contacts à la fois. Une nouveauté particulièrement utile...",
       "excerpt": "ChatGPT permet désormais de connecter plusieurs comptes Gmail, Google Agenda et Google Contacts à la fois. Une nouveauté particulièrement utile...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI, Anthropic et 100 entreprises tirent la sonnette d'alarme sur un danger urgent de l'IA",
-      "link": "https://www.netcost-security.fr/actualites/275617/openai-anthropic-et-100-entreprises-tirent-la-sonnette-dalarme-sur-un-danger-urgent-de-lia/",
-      "url": "https://www.netcost-security.fr/actualites/275617/openai-anthropic-et-100-entreprises-tirent-la-sonnette-dalarme-sur-un-danger-urgent-de-lia/",
-      "publishedAt": "2026-08-29T06:30:23.000Z",
-      "date": "2026-08-29T06:30:23.000Z",
-      "description": "La lettre indique que ces nouveaux outils de cybersécurité « offrent déjà aux défenseurs de nouvelles méthodes pour corriger des faiblesses qui se...",
-      "excerpt": "La lettre indique que ces nouveaux outils de cybersécurité « offrent déjà aux défenseurs de nouvelles méthodes pour corriger des faiblesses qui se...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
