@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T02:40:54.831Z",
+  "generatedAt": "2026-09-01T10:47:22.584Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,86 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT, Gemini et Claude peuvent se mélanger les pinceaux à force de tout mémoriser",
+      "link": "https://www.clubic.com/actualite-627592-chatgpt-gemini-et-claude-peuvent-se-melanger-les-pinceaux-a-force-de-tout-memoriser.html",
+      "url": "https://www.clubic.com/actualite-627592-chatgpt-gemini-et-claude-peuvent-se-melanger-les-pinceaux-a-force-de-tout-memoriser.html",
+      "publishedAt": "2026-09-01T09:46:20.000Z",
+      "date": "2026-09-01T09:46:20.000Z",
+      "description": "ChatGPT, Gemini et Claude peuvent se mélanger les pinceaux à force de tout mémoriser... Le taux de bonnes réponses de GPT-4o tombe de 99 % à 70 %,...",
+      "excerpt": "ChatGPT, Gemini et Claude peuvent se mélanger les pinceaux à force de tout mémoriser... Le taux de bonnes réponses de GPT-4o tombe de 99 % à 70 %,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Procès Apple / OpenAI: le MacBook de Chang Liu relance la bataille du vol de secrets",
+      "link": "https://iphonesoft.fr/2026/09/01/proces-apple-openai-macbook-chang-liu-relance-bataille-vol-secrets",
+      "url": "https://iphonesoft.fr/2026/09/01/proces-apple-openai-macbook-chang-liu-relance-bataille-vol-secrets",
+      "publishedAt": "2026-09-01T09:39:39.000Z",
+      "date": "2026-09-01T09:39:39.000Z",
+      "description": "Deux ans après avoir affiché ChatGPT dans Siri à la WWDC, Apple et... Cybersécurité: la France n'est pas au niveau en 2026 Geek / IA 18...",
+      "excerpt": "Deux ans après avoir affiché ChatGPT dans Siri à la WWDC, Apple et... Cybersécurité: la France n'est pas au niveau en 2026 Geek / IA 18...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "\"Exécuter des missions plus rapidement et avec une plus grande précision\": le Pentagone a...",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/executer-des-missions-plus-rapidement-et-avec-une-plus-grande-precision-le-pentagone-a-desormais-sa-propre-version-de-grok-et-chat-gpt_AN-202609010421.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/executer-des-missions-plus-rapidement-et-avec-une-plus-grande-precision-le-pentagone-a-desormais-sa-propre-version-de-grok-et-chat-gpt_AN-202609010421.html",
+      "publishedAt": "2026-09-01T09:38:19.000Z",
+      "date": "2026-09-01T09:38:19.000Z",
+      "description": "Le Pentagone a lancé ses propres versions de ChatGPT et Grok, donnant à près de trois millions de civils et militaires accès à des outils d'IA...",
+      "excerpt": "Le Pentagone a lancé ses propres versions de ChatGPT et Grok, donnant à près de trois millions de civils et militaires accès à des outils d'IA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT, Reddit et Roblox dans le viseur de l'Europe: qu'est-ce qui va changer?",
+      "link": "https://www.01net.com/actualites/chatgpt-reddit-et-roblox-dans-le-viseur-de-leurope-quest-ce-qui-va-changer.html",
+      "url": "https://www.01net.com/actualites/chatgpt-reddit-et-roblox-dans-le-viseur-de-leurope-quest-ce-qui-va-changer.html",
+      "publishedAt": "2026-09-01T08:21:51.000Z",
+      "date": "2026-09-01T08:21:51.000Z",
+      "description": "À partir de janvier 2027, ChatGPT, Reddit et Roblox seront soumis aux règles les plus strictes du DSA... Cybersécurité · Société · Télécoms · Auto...",
+      "excerpt": "À partir de janvier 2027, ChatGPT, Reddit et Roblox seront soumis aux règles les plus strictes du DSA... Cybersécurité · Société · Télécoms · Auto...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Ads débarque en Europe: les annonceurs peuvent désormais créer leurs... - Menow",
+      "link": "https://www.menow.fr/chatgpt-ads-debarque-en-europe-les-annonceurs-peuvent-desormais-creer-leurs-campagnes-directement-sur-la-plateforme/",
+      "url": "https://www.menow.fr/chatgpt-ads-debarque-en-europe-les-annonceurs-peuvent-desormais-creer-leurs-campagnes-directement-sur-la-plateforme/",
+      "publishedAt": "2026-09-01T08:17:12.000Z",
+      "date": "2026-09-01T08:17:12.000Z",
+      "description": "ChatGPT Ads débarque en Europe... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
+      "excerpt": "ChatGPT Ads débarque en Europe... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un milliard de dollars en moins de 200 jours: comment OpenAI installe la publicité au cœur...",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/un-milliard-de-dollars-en-moins-de-200-jours-comment-openai-installe-la-publicite-au-coeur-de-son-modele.RRBOKAJUG5DAXF2IKCISOTVKEQ.html",
+      "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/un-milliard-de-dollars-en-moins-de-200-jours-comment-openai-installe-la-publicite-au-coeur-de-son-modele.RRBOKAJUG5DAXF2IKCISOTVKEQ.html",
+      "publishedAt": "2026-09-01T06:47:03.000Z",
+      "date": "2026-09-01T06:47:03.000Z",
+      "description": "L'activité publicitaire de ChatGPT dépasse désormais le milliard de dollars de revenus récurrents annualisés... Cybersécurité · Data Centers...",
+      "excerpt": "L'activité publicitaire de ChatGPT dépasse désormais le milliard de dollars de revenus récurrents annualisés... Cybersécurité · Data Centers...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT est un moteur de recherche pour Bruxelles: ce que ça change pour votre GEO",
+      "link": "https://www.leptidigital.fr/webmarketing/seo/chatgpt-moteur-de-recherche-bruxelles-implications-91540/",
+      "url": "https://www.leptidigital.fr/webmarketing/seo/chatgpt-moteur-de-recherche-bruxelles-implications-91540/",
+      "publishedAt": "2026-09-01T06:19:32.000Z",
+      "date": "2026-09-01T06:19:32.000Z",
+      "description": "La Commission européenne a désigné ChatGPT comme moteur de recherche de très grande taille le 31 août 2026... Cybersécurité · Web analytics · WordPress...",
+      "excerpt": "La Commission européenne a désigné ChatGPT comme moteur de recherche de très grande taille le 31 août 2026... Cybersécurité · Web analytics · WordPress...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT, Roblox et Reddit vont être soumis aux règles renforcées de l'Union européenne",
+      "link": "https://www.sudouest.fr/sciences-et-technologie/intelligence-artificielle/chatgpt-roblox-et-reddit-vont-etre-soumis-aux-regles-renforcees-de-l-union-europeenne-30430338.php",
+      "url": "https://www.sudouest.fr/sciences-et-technologie/intelligence-artificielle/chatgpt-roblox-et-reddit-vont-etre-soumis-aux-regles-renforcees-de-l-union-europeenne-30430338.php",
+      "publishedAt": "2026-09-01T02:48:19.000Z",
+      "date": "2026-09-01T02:48:19.000Z",
+      "description": "... social d'Elon Musk X et les sites de commerce en ligne Temu et AliExpress. Les sujets associés. Intelligence artificielle · Europe · Cybersécurité...",
+      "excerpt": "... social d'Elon Musk X et les sites de commerce en ligne Temu et AliExpress. Les sujets associés. Intelligence artificielle · Europe · Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "La Commission européenne soumet ChatGPT, Reddit et Roblox aux dispositions de la loi...",
       "link": "https://www.notebookcheck.biz/La-Commission-europeenne-soumet-ChatGPT-Reddit-et-Roblox-aux-dispositions-de-la-loi-sur-les-services-numeriques.1384576.0.html",
@@ -47,86 +127,6 @@
       "date": "2026-08-31T23:47:30.000Z",
       "description": "Cybersécurité · 5G. Trading. Market Timing · Actualités qui impactent... La plateforme publicitaire ChatGPT d'OpenAI atteint un taux de revenus...",
       "excerpt": "Cybersécurité · 5G. Trading. Market Timing · Actualités qui impactent... La plateforme publicitaire ChatGPT d'OpenAI atteint un taux de revenus...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les géants de la tech réclament une réponse mondiale face aux cyberattaques dopées à l'IA",
-      "link": "https://fr.themedialeader.com/les-geants-de-la-tech-reclament-une-reponse-mondiale-face-aux-cyberattaques-dopees-a-lia/",
-      "url": "https://fr.themedialeader.com/les-geants-de-la-tech-reclament-une-reponse-mondiale-face-aux-cyberattaques-dopees-a-lia/",
-      "publishedAt": "2026-08-31T23:33:13.000Z",
-      "date": "2026-08-31T23:33:13.000Z",
-      "description": "... cybersécurité et de la finance, qui prévoit des attaques « beaucoup... OpenAI annonce que son activité publicitaire a dépassé un milliard de dollars de...",
-      "excerpt": "... cybersécurité et de la finance, qui prévoit des attaques « beaucoup... OpenAI annonce que son activité publicitaire a dépassé un milliard de dollars de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Reddit, Roblox et ChatGPT (soutenu par Microsoft) considérés comme de 'très grandes...",
-      "link": "https://www.zonebourse.com/actualite-bourse/reddit-roblox-et-chatgpt-soutenu-par-microsoft-consideres-comme-de-tres-grandes-plateformes-sel-ce7858dcde89fe23",
-      "url": "https://www.zonebourse.com/actualite-bourse/reddit-roblox-et-chatgpt-soutenu-par-microsoft-consideres-comme-de-tres-grandes-plateformes-sel-ce7858dcde89fe23",
-      "publishedAt": "2026-08-31T22:31:06.000Z",
-      "date": "2026-08-31T22:31:06.000Z",
-      "description": "Cybersécurité · Les SPAC · Or et Argent · La révolution génomique · Trading... Reddit, Roblox et ChatGPT (soutenu par Microsoft) considérés comme de...",
-      "excerpt": "Cybersécurité · Les SPAC · Or et Argent · La révolution génomique · Trading... Reddit, Roblox et ChatGPT (soutenu par Microsoft) considérés comme de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Department of War lance ChatGPT Mil d'OpenAI sur GenAI.mil - Unite.AI",
-      "link": "https://www.unite.ai/fr/department-of-war-launches-openais-chatgpt-mil-on-genai-mil/",
-      "url": "https://www.unite.ai/fr/department-of-war-launches-openais-chatgpt-mil-on-genai-mil/",
-      "publishedAt": "2026-08-31T19:51:26.000Z",
-      "date": "2026-08-31T19:51:26.000Z",
-      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... Le lancement de ChatGPT Mil marque la phase d'adoption du partenariat avec...",
-      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... Le lancement de ChatGPT Mil marque la phase d'adoption du partenariat avec...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI étend l'accès en libre-service aux publicités ChatGPT en Inde et en Europe",
-      "link": "https://www.unite.ai/fr/openai-expands-chatgpt-ads-self-service-access-to-india-and-europe/",
-      "url": "https://www.unite.ai/fr/openai-expands-chatgpt-ads-self-service-access-to-india-and-europe/",
-      "publishedAt": "2026-08-31T19:51:25.000Z",
-      "date": "2026-08-31T19:51:25.000Z",
-      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... Les publicités dans ChatGPT sont toujours clairement identifiées et séparées des...",
-      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... Les publicités dans ChatGPT sont toujours clairement identifiées et séparées des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Intelligence artificielle: ChatGPT va être la première IA soumise à des règles renforcées de l'UE",
-      "link": "https://infos.rtl.lu/lifestyle/tech-world/chatgpt-va-etre-la-premiere-ia-soumise-a-des-regles-renforcees-de-lue-1658901603",
-      "url": "https://infos.rtl.lu/lifestyle/tech-world/chatgpt-va-etre-la-premiere-ia-soumise-a-des-regles-renforcees-de-lue-1658901603",
-      "publishedAt": "2026-08-31T17:39:27.000Z",
-      "date": "2026-08-31T17:39:27.000Z",
-      "description": "ChatGPT va être soumis à des règles renforcées de protection des utilisateurs au sein de l'UE, prévues par l'arsenal législatif européen,...",
-      "excerpt": "ChatGPT va être soumis à des règles renforcées de protection des utilisateurs au sein de l'UE, prévues par l'arsenal législatif européen,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "La publicité sur ChatGPT génère des revenus annualisés de 1 milliard de dollars, selon OpenAI",
-      "link": "https://www.zonebourse.com/actualite-bourse/la-publicite-sur-chatgpt-genere-des-revenus-annualises-de-1-milliard-de-dollars-selon-openai-ce7858ddd889f421",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-publicite-sur-chatgpt-genere-des-revenus-annualises-de-1-milliard-de-dollars-selon-openai-ce7858ddd889f421",
-      "publishedAt": "2026-08-31T17:06:18.000Z",
-      "date": "2026-08-31T17:06:18.000Z",
-      "description": "Cybersécurité · Les SPAC · Or et Argent · La révolution génomique · Trading... La publicité sur ChatGPT génère des revenus annualisés de 1 milliard de...",
-      "excerpt": "Cybersécurité · Les SPAC · Or et Argent · La révolution génomique · Trading... La publicité sur ChatGPT génère des revenus annualisés de 1 milliard de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Régulation: ChatGPT et Reddit face au rouleau compresseur du DSA - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/regulation-chatgpt-et-reddit-face-au-rouleau-compresseur-du-dsa-500904.htm",
-      "url": "https://www.zdnet.fr/actualites/regulation-chatgpt-et-reddit-face-au-rouleau-compresseur-du-dsa-500904.htm",
-      "publishedAt": "2026-08-31T16:47:54.000Z",
-      "date": "2026-08-31T16:47:54.000Z",
-      "description": "L'Union européenne durcit le ton en désignant ChatGPT, Reddit, Roblox et WhatsApp Channels comme de très grandes plateformes ou moteurs de...",
-      "excerpt": "L'Union européenne durcit le ton en désignant ChatGPT, Reddit, Roblox et WhatsApp Channels comme de très grandes plateformes ou moteurs de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI révolutionne la facturation de ChatGPT: fini de payer sans résultat - 01net.com",
-      "link": "https://www.01net.com/actualites/openai-revolutionne-la-facturation-de-chatgpt-fini-de-payer-sans-resultat.html",
-      "url": "https://www.01net.com/actualites/openai-revolutionne-la-facturation-de-chatgpt-fini-de-payer-sans-resultat.html",
-      "publishedAt": "2026-08-31T16:01:08.000Z",
-      "date": "2026-08-31T16:01:08.000Z",
-      "description": "OpenAI révolutionne la facturation de ChatGPT: fini de payer sans résultat... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "excerpt": "OpenAI révolutionne la facturation de ChatGPT: fini de payer sans résultat... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
