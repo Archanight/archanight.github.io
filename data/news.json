@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T10:11:48.094Z",
+  "generatedAt": "2026-09-02T15:38:17.797Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "L'Union européenne durcit la surveillance de ChatGPT, Reddit et Roblox - TechRadar",
+      "link": "https://global.techradar.com/fr-fr/pro/lunion-europeenne-durcit-la-surveillance-de-chatgpt-reddit-et-roblox",
+      "url": "https://global.techradar.com/fr-fr/pro/lunion-europeenne-durcit-la-surveillance-de-chatgpt-reddit-et-roblox",
+      "publishedAt": "2026-09-02T12:13:22.000Z",
+      "date": "2026-09-02T12:13:22.000Z",
+      "description": "ChatGPT ChatGPT peut désormais fouiller dans le bazar de Google... cybersécurité face à l'IA · GTA 6. Gaming GTA 6 sortira à 30 fps sur PS5...",
+      "excerpt": "ChatGPT ChatGPT peut désormais fouiller dans le bazar de Google... cybersécurité face à l'IA · GTA 6. Gaming GTA 6 sortira à 30 fps sur PS5...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude Fable 5.1 coûte moins cher et performe mieux, un double pari réussi - Charles Tech",
+      "link": "https://charlestech.fr/claude-fable-5-1-coute-moins-cher-performe-mieux-double-pari",
+      "url": "https://charlestech.fr/claude-fable-5-1-coute-moins-cher-performe-mieux-double-pari",
+      "publishedAt": "2026-09-02T11:08:08.000Z",
+      "date": "2026-09-02T11:08:08.000Z",
+      "description": "... ChatGPT. Sur plusieurs benchmarks, le modèle dépasse également Opus... cybersécurité. Cela devrait réduire les interruptions inutiles lors d...",
+      "excerpt": "... ChatGPT. Sur plusieurs benchmarks, le modèle dépasse également Opus... cybersécurité. Cela devrait réduire les interruptions inutiles lors d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "\" ChatGPT et Grok font figure de champions dans le domaine du contournement des... - BFM",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/chat-gpt-et-grok-font-figure-de-champions-dans-le-domaine-du-contournement-des-sanctions-europeennes-comment-les-chatbots-continuent-de-relayer-les-contenus-de-medias-russes-interdits-par-l-ue_AD-202609020312.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/chat-gpt-et-grok-font-figure-de-champions-dans-le-domaine-du-contournement-des-sanctions-europeennes-comment-les-chatbots-continuent-de-relayer-les-contenus-de-medias-russes-interdits-par-l-ue_AD-202609020312.html",
+      "publishedAt": "2026-09-02T10:38:09.000Z",
+      "date": "2026-09-02T10:38:09.000Z",
+      "description": "Selon une enquête publiée mercredi 2 septembre par Reporters sans frontières (RSF), plusieurs grands chatbots, dont ChatGPT... Cybersécurité...",
+      "excerpt": "Selon une enquête publiée mercredi 2 septembre par Reporters sans frontières (RSF), plusieurs grands chatbots, dont ChatGPT... Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT franchit un cap « critique »: l'IA la plus redoutable jamais créée par OpenAI arrive «",
       "link": "https://www.01net.com/actualites/chatgpt-franchit-cap-critique-ia-plus-redoutable-jamais-creee-par-openai-arrive-bientot.html",
@@ -97,36 +127,6 @@
       "date": "2026-09-01T17:53:08.000Z",
       "description": "OpenAI veut mettre toujours plus de publicité dans ChatGPT. Mickael Bazoge. Le 01 septembre à 07h19.",
       "excerpt": "OpenAI veut mettre toujours plus de publicité dans ChatGPT. Mickael Bazoge. Le 01 septembre à 07h19.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT comme un pro: abonnements, prompts et fonctionnalités - AI Weekly",
-      "link": "https://aiweekly.co/fr/learning-ai/generative-ai/how-to-use-chatgpt-like-a-pro",
-      "url": "https://aiweekly.co/fr/learning-ai/generative-ai/how-to-use-chatgpt-like-a-pro",
-      "publishedAt": "2026-09-01T17:21:09.000Z",
-      "date": "2026-09-01T17:21:09.000Z",
-      "description": "OpenAI le présente comme état de l'art en programmation, en travail intellectuel, en cybersécurité et en raisonnement scientifique.... ChatGPT sur...",
-      "excerpt": "OpenAI le présente comme état de l'art en programmation, en travail intellectuel, en cybersécurité et en raisonnement scientifique.... ChatGPT sur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI: ChatGPT Ads franchit 1 Md$ d'ARR en moins de 200 jours | Brief IA",
-      "link": "https://www.briefia.fr/article/openai-chatgpt-ads-franchit-1-md-d-arr-en-moins-de-200-jours",
-      "url": "https://www.briefia.fr/article/openai-chatgpt-ads-franchit-1-md-d-arr-en-moins-de-200-jours",
-      "publishedAt": "2026-09-01T16:16:59.000Z",
-      "date": "2026-09-01T16:16:59.000Z",
-      "description": "ChatGPT Ads rassemble plusieurs dizaines de milliers d'annonceurs Le service est disponible dans plus de 40 pays OpenAI annonce avoir franchi 1...",
-      "excerpt": "ChatGPT Ads rassemble plusieurs dizaines de milliers d'annonceurs Le service est disponible dans plus de 40 pays OpenAI annonce avoir franchi 1...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Pentagone: Grok for Government et ChatGPT Mil sur GenAI.mil - Brief IA",
-      "link": "https://www.briefia.fr/article/pentagone-grok-for-government-et-chatgpt-mil-sur-genai-mil",
-      "url": "https://www.briefia.fr/article/pentagone-grok-for-government-et-chatgpt-mil-sur-genai-mil",
-      "publishedAt": "2026-09-01T16:11:55.000Z",
-      "date": "2026-09-01T16:11:55.000Z",
-      "description": "Le Pentagone ajoute Grok for Government et ChatGPT Mil à GenAI.mil Grok for Government est une version sécurisée du modèle de xAI,...",
-      "excerpt": "Le Pentagone ajoute Grok for Government et ChatGPT Mil à GenAI.mil Grok for Government est une version sécurisée du modèle de xAI,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
