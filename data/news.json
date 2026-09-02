@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T20:18:32.725Z",
+  "generatedAt": "2026-09-02T02:01:53.927Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI freine Astra, premier modèle au seuil cyber critique - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/13894/openai-astra-seuil-cyber-critique",
+      "url": "https://pasqualepillitteri.it/fr/news/13894/openai-astra-seuil-cyber-critique",
+      "publishedAt": "2026-09-02T00:37:25.000Z",
+      "date": "2026-09-02T00:37:25.000Z",
+      "description": "Astra est le premier modèle qu'OpenAI place au seuil \"critique\" pour la cybersécurité, la catégorie la plus élevée de son Preparedness Framework, et...",
+      "excerpt": "Astra est le premier modèle qu'OpenAI place au seuil \"critique\" pour la cybersécurité, la catégorie la plus élevée de son Preparedness Framework, et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Après les piratages par des IA en test, OpenAI va lancer un modèle encore plus puissant...",
+      "link": "https://fr.tradingview.com/news/afp:d5e9809747ccb:0/",
+      "url": "https://fr.tradingview.com/news/afp:d5e9809747ccb:0/",
+      "publishedAt": "2026-09-01T20:11:14.000Z",
+      "date": "2026-09-01T20:11:14.000Z",
+      "description": "Astra est le premier modèle des créateurs de ChatGPT à atteindre le niveau de risque le plus élevé de sa propre grille d'évaluation en cybersécurité...",
+      "excerpt": "Astra est le premier modèle des créateurs de ChatGPT à atteindre le niveau de risque le plus élevé de sa propre grille d'évaluation en cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment protéger les enfants de l'IA - Les Echos",
+      "link": "https://www.lesechos.fr/idees-debats/sciences-prospective/comment-proteger-les-enfants-de-lia-2249107",
+      "url": "https://www.lesechos.fr/idees-debats/sciences-prospective/comment-proteger-les-enfants-de-lia-2249107",
+      "publishedAt": "2026-09-01T20:01:37.000Z",
+      "date": "2026-09-01T20:01:37.000Z",
+      "description": "... ChatGPT pour les adolescents », en cours de déploiement. (Photo iStock). Par Jacques Henno. Publié le 1 sept. 2026 à 10:00Mis à jour le 1 sept. 2026...",
+      "excerpt": "... ChatGPT pour les adolescents », en cours de déploiement. (Photo iStock). Par Jacques Henno. Publié le 1 sept. 2026 à 10:00Mis à jour le 1 sept. 2026...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "C'est quoi la température d'une IA?: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/c-est-quoi-la-temperature-d-une-ia-CNT000002rEAql.html",
+      "url": "https://actu.orange.fr/videos/high-tech/c-est-quoi-la-temperature-d-une-ia-CNT000002rEAql.html",
+      "publishedAt": "2026-09-01T19:22:46.000Z",
+      "date": "2026-09-01T19:22:46.000Z",
+      "description": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Le ChatGPT de la langue des signes. Tous publics. OpenAI révèle le...",
+      "excerpt": "Cybersécurité et Télésurveillance. Fibre: mise en service offerte. +... Le ChatGPT de la langue des signes. Tous publics. OpenAI révèle le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT, Reddit et Roblox sous contrôle DSA, des millions d'utilisateurs visés",
+      "link": "https://pasqualepillitteri.it/fr/news/13684/ue-chatgpt-reddit-roblox-regles-dsa",
+      "url": "https://pasqualepillitteri.it/fr/news/13684/ue-chatgpt-reddit-roblox-regles-dsa",
+      "publishedAt": "2026-09-01T19:21:43.000Z",
+      "date": "2026-09-01T19:21:43.000Z",
+      "description": "La Commission européenne désigne ChatGPT, Reddit et Roblox comme très grands services sous le DSA. ChatGPT est traité en moteur de recherche.",
+      "excerpt": "La Commission européenne désigne ChatGPT, Reddit et Roblox comme très grands services sous le DSA. ChatGPT est traité en moteur de recherche.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Le brief du 1 septembre 2026 - Next.ink",
       "link": "https://next.ink/briefs/le-brief-du-1-septembre-2026/",
@@ -77,56 +127,6 @@
       "date": "2026-09-01T14:20:46.000Z",
       "description": "Accueil ChatGPT ChatGPT, Reddit et Roblox entrent dans le cercle des... Guide Cybersécurité. Découvrez la version numérique · Achetez le guide.",
       "excerpt": "Accueil ChatGPT ChatGPT, Reddit et Roblox entrent dans le cercle des... Guide Cybersécurité. Découvrez la version numérique · Achetez le guide.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "DSA: le détail des procédures en cours - Silicon.fr",
-      "link": "https://www.silicon.fr/business-1367/chatgpt-dsa-enquetes-228890",
-      "url": "https://www.silicon.fr/business-1367/chatgpt-dsa-enquetes-228890",
-      "publishedAt": "2026-09-01T13:56:37.000Z",
-      "date": "2026-09-01T13:56:37.000Z",
-      "description": "ChatGPT rejoint la liste des services numériques soumis au DSA. Ils sont désormais 28, dont 8 sous enquête et 3 déjà sanctionnés.",
-      "excerpt": "ChatGPT rejoint la liste des services numériques soumis au DSA. Ils sont désormais 28, dont 8 sous enquête et 3 déjà sanctionnés.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'UE durcit les exigences imposées à ChatGPT, Reddit et Roblox - ICTjournal",
-      "link": "https://www.ictjournal.ch/news/2026-09-01/lue-durcit-les-exigences-imposees-a-chatgpt-reddit-et-roblox",
-      "url": "https://www.ictjournal.ch/news/2026-09-01/lue-durcit-les-exigences-imposees-a-chatgpt-reddit-et-roblox",
-      "publishedAt": "2026-09-01T13:26:29.000Z",
-      "date": "2026-09-01T13:26:29.000Z",
-      "description": "La Commission européenne classe désormais ChatGPT, Reddit et Roblox parmi les très grands services au titre du règl.... Cybersécurité 2026 · Cloud &...",
-      "excerpt": "La Commission européenne classe désormais ChatGPT, Reddit et Roblox parmi les très grands services au titre du règl.... Cybersécurité 2026 · Cloud &...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Digital Services Act: la Commission européenne classe ChatGPT en VLOSE, très grand...",
-      "link": "https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-articles/digital-services-act-la-commission-europeenne-classe-chatgpt-en-vlose-tres-grand-moteur-de-recherche/",
-      "url": "https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-articles/digital-services-act-la-commission-europeenne-classe-chatgpt-en-vlose-tres-grand-moteur-de-recherche/",
-      "publishedAt": "2026-09-01T12:59:36.000Z",
-      "date": "2026-09-01T12:59:36.000Z",
-      "description": "... ChatGPT en VLOSE, très grand moteur de recherche... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "excerpt": "... ChatGPT en VLOSE, très grand moteur de recherche... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI soutient le projet de loi californien sur les règles de sécurité pour les chatbots... - Unite.AI",
-      "link": "https://www.unite.ai/fr/openai-backs-california-bill-on-youth-safety-rules-for-companion-chatbots/",
-      "url": "https://www.unite.ai/fr/openai-backs-california-bill-on-youth-safety-rules-for-companion-chatbots/",
-      "publishedAt": "2026-09-01T11:50:23.000Z",
-      "date": "2026-09-01T11:50:23.000Z",
-      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT Mil d'OpenAI est mis en ligne sur GenAI.mil du Department of...",
-      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT Mil d'OpenAI est mis en ligne sur GenAI.mil du Department of...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le Pentagone mise sur le multi-modèles pour éviter le verrouillage fournisseur dans l'IA",
-      "link": "https://www.solutions-numeriques.com/le-pentagone-mise-sur-le-multi-modeles-pour-eviter-le-verrouillage-fournisseur-dans-lia/",
-      "url": "https://www.solutions-numeriques.com/le-pentagone-mise-sur-le-multi-modeles-pour-eviter-le-verrouillage-fournisseur-dans-lia/",
-      "publishedAt": "2026-09-01T10:40:37.000Z",
-      "date": "2026-09-01T10:40:37.000Z",
-      "description": "ChatGPT Mil et Grok for Government ont tous deux obtenu une... Guide Cybersécurité. Découvrez la version numérique · Achetez le guide.",
-      "excerpt": "ChatGPT Mil et Grok for Government ont tous deux obtenu une... Guide Cybersécurité. Découvrez la version numérique · Achetez le guide.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
