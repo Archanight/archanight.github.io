@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T20:17:42.318Z",
+  "generatedAt": "2026-09-03T02:06:26.005Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI et Anthropic lancent des IA plus puissantes pendant que le monde s'inquiète",
+      "link": "https://www.netcost-security.fr/actualites/275685/openai-et-anthropic-lancent-des-ia-plus-puissantes-pendant-que-le-monde-sinquiete/",
+      "url": "https://www.netcost-security.fr/actualites/275685/openai-et-anthropic-lancent-des-ia-plus-puissantes-pendant-que-le-monde-sinquiete/",
+      "publishedAt": "2026-09-02T23:16:30.000Z",
+      "date": "2026-09-02T23:16:30.000Z",
+      "description": "... ChatGPT et Claude. Ces nouvelles versions offrent des capacités de cybersécurité plus avancées, ce qui inquiète certains experts. Ces outils...",
+      "excerpt": "... ChatGPT et Claude. Ces nouvelles versions offrent des capacités de cybersécurité plus avancées, ce qui inquiète certains experts. Ces outils...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le Tech Flash: GoPro pivote des caméras vers l'IA, par Léa Benaim - 02/09 - Orange Actu",
+      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-gopro-pivote-des-cameras-vers-l-ia-par-lea-benaim-02-09-CNT000002rGe5P.html",
+      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-gopro-pivote-des-cameras-vers-l-ia-par-lea-benaim-02-09-CNT000002rGe5P.html",
+      "publishedAt": "2026-09-02T21:05:47.000Z",
+      "date": "2026-09-02T21:05:47.000Z",
+      "description": "Cybersécurité et Télésurveillance. Offre pour les jeunes. +... Le Tech Flash: la pub arrive dans ChatGPT par Léa Benaim - 19/01. Tous...",
+      "excerpt": "Cybersécurité et Télésurveillance. Offre pour les jeunes. +... Le Tech Flash: la pub arrive dans ChatGPT par Léa Benaim - 19/01. Tous...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI prépare Astra, son modèle le plus avancé en cybersécurité - Agefi.com",
+      "link": "https://agefi.com/actualites/entreprises/openai-prepare-astra-son-modele-le-plus-avance-en-cybersecurite",
+      "url": "https://agefi.com/actualites/entreprises/openai-prepare-astra-son-modele-le-plus-avance-en-cybersecurite",
+      "publishedAt": "2026-09-02T20:07:16.000Z",
+      "date": "2026-09-02T20:07:16.000Z",
+      "description": "... ChatGPT. Son lancement s'accompagnera d'un dispositif de surveillance. Open AI · ChatGPT · Intelligence artificielle · Cybersécurité. En pratique, les...",
+      "excerpt": "... ChatGPT. Son lancement s'accompagnera d'un dispositif de surveillance. Open AI · ChatGPT · Intelligence artificielle · Cybersécurité. En pratique, les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Astra n'est pas encore sorti… mais OpenAI affirme avoir franchi un seuil critique en...",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/astra-nest-pas-encore-sorti-mais-openai-affirme-avoir-franchi-un-seuil-critique-en-cybersecurite-sans-pouvoir-eliminer-tous-les-risques.R2AT524TYNBO5BIGHA7STVS7LY.html",
+      "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/astra-nest-pas-encore-sorti-mais-openai-affirme-avoir-franchi-un-seuil-critique-en-cybersecurite-sans-pouvoir-eliminer-tous-les-risques.R2AT524TYNBO5BIGHA7STVS7LY.html",
+      "publishedAt": "2026-09-02T20:05:50.000Z",
+      "date": "2026-09-02T20:05:50.000Z",
+      "description": "Astra n'est pas encore sorti… mais OpenAI affirme avoir franchi un seuil critique en cybersécurité sans pouvoir éliminer tous les risques... ChatGPT et...",
+      "excerpt": "Astra n'est pas encore sorti… mais OpenAI affirme avoir franchi un seuil critique en cybersécurité sans pouvoir éliminer tous les risques... ChatGPT et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT, Claude, Grok, Vibe et Gemini acceptent de donner des résultats basés sur des...",
       "link": "https://www.bfmtv.com/tech/intelligence-artificielle/chat-gpt-claude-grok-vibe-et-gemini-acceptent-de-donner-des-resultats-bases-sur-des-contenus-de-medias-russes-sous-sanctions-europeennes_AD-202609020774.html",
@@ -88,46 +128,6 @@
       "description": "ChatGPT ChatGPT peut désormais fouiller dans le bazar de Google... cybersécurité face à l'IA · GTA 6. Gaming GTA 6 sortira à 30 fps sur PS5...",
       "excerpt": "ChatGPT ChatGPT peut désormais fouiller dans le bazar de Google... cybersécurité face à l'IA · GTA 6. Gaming GTA 6 sortira à 30 fps sur PS5...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude Fable 5.1 coûte moins cher et performe mieux, un double pari réussi - Charles Tech",
-      "link": "https://charlestech.fr/claude-fable-5-1-coute-moins-cher-performe-mieux-double-pari",
-      "url": "https://charlestech.fr/claude-fable-5-1-coute-moins-cher-performe-mieux-double-pari",
-      "publishedAt": "2026-09-02T11:08:08.000Z",
-      "date": "2026-09-02T11:08:08.000Z",
-      "description": "... ChatGPT. Sur plusieurs benchmarks, le modèle dépasse également Opus... cybersécurité. Cela devrait réduire les interruptions inutiles lors d...",
-      "excerpt": "... ChatGPT. Sur plusieurs benchmarks, le modèle dépasse également Opus... cybersécurité. Cela devrait réduire les interruptions inutiles lors d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "\" ChatGPT et Grok font figure de champions dans le domaine du contournement des... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/chat-gpt-et-grok-font-figure-de-champions-dans-le-domaine-du-contournement-des-sanctions-europeennes-comment-les-chatbots-continuent-de-relayer-les-contenus-de-medias-russes-interdits-par-l-ue_AD-202609020312.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/chat-gpt-et-grok-font-figure-de-champions-dans-le-domaine-du-contournement-des-sanctions-europeennes-comment-les-chatbots-continuent-de-relayer-les-contenus-de-medias-russes-interdits-par-l-ue_AD-202609020312.html",
-      "publishedAt": "2026-09-02T10:38:09.000Z",
-      "date": "2026-09-02T10:38:09.000Z",
-      "description": "Selon une enquête publiée mercredi 2 septembre par Reporters sans frontières (RSF), plusieurs grands chatbots, dont ChatGPT... Cybersécurité...",
-      "excerpt": "Selon une enquête publiée mercredi 2 septembre par Reporters sans frontières (RSF), plusieurs grands chatbots, dont ChatGPT... Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT franchit un cap « critique »: l'IA la plus redoutable jamais créée par OpenAI arrive «",
-      "link": "https://www.01net.com/actualites/chatgpt-franchit-cap-critique-ia-plus-redoutable-jamais-creee-par-openai-arrive-bientot.html",
-      "url": "https://www.01net.com/actualites/chatgpt-franchit-cap-critique-ia-plus-redoutable-jamais-creee-par-openai-arrive-bientot.html",
-      "publishedAt": "2026-09-02T08:32:15.000Z",
-      "date": "2026-09-02T08:32:15.000Z",
-      "description": "ChatGPT franchit un cap « critique »: l'IA la plus redoutable... As we prepare to release Astra, we're focused on making increasingly...",
-      "excerpt": "ChatGPT franchit un cap « critique »: l'IA la plus redoutable... As we prepare to release Astra, we're focused on making increasingly...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Spam update d'août 2026: 16,71 % des URLs du top 10 sont tombées hors du top 100",
-      "link": "https://www.leptidigital.fr/webmarketing/seo/impacts-spam-update-aout-2026-etude-91554/",
-      "url": "https://www.leptidigital.fr/webmarketing/seo/impacts-spam-update-aout-2026-etude-91554/",
-      "publishedAt": "2026-09-02T07:40:59.000Z",
-      "date": "2026-09-02T07:40:59.000Z",
-      "description": "... ChatGPT est un moteur de recherche pour Bruxelles: ce que ça change pour votre GEO · Actualités Digitales Blog & Astuces Content Marketing Blog...",
-      "excerpt": "... ChatGPT est un moteur de recherche pour Bruxelles: ce que ça change pour votre GEO · Actualités Digitales Blog & Astuces Content Marketing Blog...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
