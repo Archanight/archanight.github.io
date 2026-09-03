@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T02:06:26.005Z",
+  "generatedAt": "2026-09-03T10:23:49.301Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI franchit le cap du milliard de dollars sur ChatGPT Ads - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/openai-franchit-le-cap-du-milliard-de-dollars-sur-chatgpt-ads-501109.htm",
+      "url": "https://www.zdnet.fr/actualites/openai-franchit-le-cap-du-milliard-de-dollars-sur-chatgpt-ads-501109.htm",
+      "publishedAt": "2026-09-03T08:40:32.000Z",
+      "date": "2026-09-03T08:40:32.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... L'affichage sponsorisé est donc réservé aux utilisateurs de la...",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... L'affichage sponsorisé est donc réservé aux utilisateurs de la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le Pentagone déploie ChatGPT Mil et Grok pour plus de 3 millions de personnes",
+      "link": "https://kulturegeek.fr/news-358092/pentagone-deploie-chatgpt-mil-grok-plus-3-millions-personnes",
+      "url": "https://kulturegeek.fr/news-358092/pentagone-deploie-chatgpt-mil-grok-plus-3-millions-personnes",
+      "publishedAt": "2026-09-03T07:13:55.000Z",
+      "date": "2026-09-03T07:13:55.000Z",
+      "description": "ChatGPT Mil reprend les éléments familiers du service grand public... La cybersécurité des modèles reste particulièrement sensible.",
+      "excerpt": "ChatGPT Mil reprend les éléments familiers du service grand public... La cybersécurité des modèles reste particulièrement sensible.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI développe une fonctionnalité qui arrête automatiquement l'activité de l'IA après une...",
+      "link": "https://www.vietnam.vn/fr/openai-phat-trien-tinh-nang-tu-dong-ngat-hoat-dong-ai-sau-loat-su-co-thu-nghiem",
+      "url": "https://www.vietnam.vn/fr/openai-phat-trien-tinh-nang-tu-dong-ngat-hoat-dong-ai-sau-loat-su-co-thu-nghiem",
+      "publishedAt": "2026-09-03T04:10:10.000Z",
+      "date": "2026-09-03T04:10:10.000Z",
+      "description": "Les logos d'OpenAI et de ChatGPT sont affichés sur un écran à Toulouse, en France.... cybersécurité internes, se sont connectés à Internet et...",
+      "excerpt": "Les logos d'OpenAI et de ChatGPT sont affichés sur un écran à Toulouse, en France.... cybersécurité internes, se sont connectés à Internet et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI et Anthropic lancent des IA plus puissantes pendant que le monde s'inquiète",
       "link": "https://www.netcost-security.fr/actualites/275685/openai-et-anthropic-lancent-des-ia-plus-puissantes-pendant-que-le-monde-sinquiete/",
@@ -50,6 +80,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Windows 11 en a terminé avec son pire défaut quand des mises à jour sont disponibles",
+      "link": "https://www.buzzarena.com/windows-11-en-a-termine-avec-son-pire-defaut-quand-des-mises-a-jour-sont-disponibles-4561331",
+      "url": "https://www.buzzarena.com/windows-11-en-a-termine-avec-son-pire-defaut-quand-des-mises-a-jour-sont-disponibles-4561331",
+      "publishedAt": "2026-09-02T18:46:00.000Z",
+      "date": "2026-09-02T18:46:00.000Z",
+      "description": "Désormais, Microsoft installera toutes ces mises à jour avec le Patch Tuesday mensuel. À l'heure actuelle, cette amélioration de Windows Update ne...",
+      "excerpt": "Désormais, Microsoft installera toutes ces mises à jour avec le Patch Tuesday mensuel. À l'heure actuelle, cette amélioration de Windows Update ne...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "ChatGPT, Claude, Grok, Vibe et Gemini acceptent de donner des résultats basés sur des...",
       "link": "https://www.bfmtv.com/tech/intelligence-artificielle/chat-gpt-claude-grok-vibe-et-gemini-acceptent-de-donner-des-resultats-bases-sur-des-contenus-de-medias-russes-sous-sanctions-europeennes_AD-202609020774.html",
       "url": "https://www.bfmtv.com/tech/intelligence-artificielle/chat-gpt-claude-grok-vibe-et-gemini-acceptent-de-donner-des-resultats-bases-sur-des-contenus-de-medias-russes-sous-sanctions-europeennes_AD-202609020774.html",
@@ -88,46 +128,6 @@
       "description": "Depuis le 31 août, les annonceurs en Europe, en Inde, au Moyen-Orient et en Afrique du Nord peuvent acheter directement des publicités dans ChatGPT...",
       "excerpt": "Depuis le 31 août, les annonceurs en Europe, en Inde, au Moyen-Orient et en Afrique du Nord peuvent acheter directement des publicités dans ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "« Un niveau critique de cybersécurité »: Astra, le nouveau modèle d'IA d'OpenAI présenté...",
-      "link": "https://www.leparisien.fr/high-tech/un-niveau-critique-de-cybersecurite-astra-le-nouveau-modele-dia-dopenai-presente-comme-surpuissant-mais-surveille-02-09-2026-ZVFFQPU7UBEX7OCRPYMMJCZVRQ.php",
-      "url": "https://www.leparisien.fr/high-tech/un-niveau-critique-de-cybersecurite-astra-le-nouveau-modele-dia-dopenai-presente-comme-surpuissant-mais-surveille-02-09-2026-ZVFFQPU7UBEX7OCRPYMMJCZVRQ.php",
-      "publishedAt": "2026-09-02T15:08:36.000Z",
-      "date": "2026-09-02T15:08:36.000Z",
-      "description": "... cybersécurité, écrit l'entreprise de San Francisco dans une note... En pratique, les utilisateurs de ChatGPT qui auront accès à Astra...",
-      "excerpt": "... cybersécurité, écrit l'entreprise de San Francisco dans une note... En pratique, les utilisateurs de ChatGPT qui auront accès à Astra...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT peut désormais se connecter à vos comptes en ligne sans v... - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/chatgpt-peut-desormais-se-connecter-a-vos-comptes-en-ligne-sans-votre-intervention-mais-devriez-vous-le-laisser-faire-501063.htm",
-      "url": "https://www.zdnet.fr/actualites/chatgpt-peut-desormais-se-connecter-a-vos-comptes-en-ligne-sans-votre-intervention-mais-devriez-vous-le-laisser-faire-501063.htm",
-      "publishedAt": "2026-09-02T14:34:47.000Z",
-      "date": "2026-09-02T14:34:47.000Z",
-      "description": "ChatGPT Work, l'agent d'OpenAI, peut se connecter à vos comptes en... Une fois la porte ouverte, la cybersécurité doit contrôler ce que l...",
-      "excerpt": "ChatGPT Work, l'agent d'OpenAI, peut se connecter à vos comptes en... Une fois la porte ouverte, la cybersécurité doit contrôler ce que l...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Après ChatGPT, Adobe installe plus de 70 outils créatifs dans Slack - BDM",
-      "link": "https://www.blogdumoderateur.com/apres-chatgpt-adobe-installe-outils-creatifs-slack/",
-      "url": "https://www.blogdumoderateur.com/apres-chatgpt-adobe-installe-outils-creatifs-slack/",
-      "publishedAt": "2026-09-02T14:32:57.000Z",
-      "date": "2026-09-02T14:32:57.000Z",
-      "description": "OpenAI Google Développement Réglementation SEO Anthropic Productivité Interviews Meta Cybersécurité Transformation digitale Design... Après ChatGPT...",
-      "excerpt": "OpenAI Google Développement Réglementation SEO Anthropic Productivité Interviews Meta Cybersécurité Transformation digitale Design... Après ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'Union européenne durcit la surveillance de ChatGPT, Reddit et Roblox - TechRadar",
-      "link": "https://global.techradar.com/fr-fr/pro/lunion-europeenne-durcit-la-surveillance-de-chatgpt-reddit-et-roblox",
-      "url": "https://global.techradar.com/fr-fr/pro/lunion-europeenne-durcit-la-surveillance-de-chatgpt-reddit-et-roblox",
-      "publishedAt": "2026-09-02T12:13:22.000Z",
-      "date": "2026-09-02T12:13:22.000Z",
-      "description": "ChatGPT ChatGPT peut désormais fouiller dans le bazar de Google... cybersécurité face à l'IA · GTA 6. Gaming GTA 6 sortira à 30 fps sur PS5...",
-      "excerpt": "ChatGPT ChatGPT peut désormais fouiller dans le bazar de Google... cybersécurité face à l'IA · GTA 6. Gaming GTA 6 sortira à 30 fps sur PS5...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
