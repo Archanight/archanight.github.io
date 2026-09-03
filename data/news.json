@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T10:23:49.301Z",
+  "generatedAt": "2026-09-03T15:29:18.577Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI Astra: de nouvelles mesures de sécurité peuvent interrompre votre tâche ChatGPT...",
+      "link": "https://www.notebookcheck.biz/OpenAI-Astra-de-nouvelles-mesures-de-securite-peuvent-interrompre-votre-tache-ChatGPT-en-cours-d-x27-execution.1387333.0.html",
+      "url": "https://www.notebookcheck.biz/OpenAI-Astra-de-nouvelles-mesures-de-securite-peuvent-interrompre-votre-tache-ChatGPT-en-cours-d-x27-execution.1387333.0.html",
+      "publishedAt": "2026-09-03T11:07:18.000Z",
+      "date": "2026-09-03T11:07:18.000Z",
+      "description": "... cybersécurité. Les mesures de sécurité qui l'accompagnent peuvent également bloquer des tâches inoffensives dans ChatGPT et Codex. OpenAI a classé...",
+      "excerpt": "... cybersécurité. Les mesures de sécurité qui l'accompagnent peuvent également bloquer des tâches inoffensives dans ChatGPT et Codex. OpenAI a classé...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI franchit le cap du milliard de dollars sur ChatGPT Ads - ZDNET",
       "link": "https://www.zdnet.fr/actualites/openai-franchit-le-cap-du-milliard-de-dollars-sur-chatgpt-ads-501109.htm",
@@ -60,6 +70,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "OpenAI développe des fonctionnalités de “mise hors service automatique” pour ses outils d...",
+      "link": "https://www.boursorama.com/actualite-economique/actualites-amp/openai-developpe-des-fonctionnalites-de-mise-hors-service-automatique-pour-ses-outils-d-ia-selon-une-lettre-adressee-aux-legislateurs-b2aa26c98e5a9c42b33c53f931d2f61f",
+      "url": "https://www.boursorama.com/actualite-economique/actualites-amp/openai-developpe-des-fonctionnalites-de-mise-hors-service-automatique-pour-ses-outils-d-ia-selon-une-lettre-adressee-aux-legislateurs-b2aa26c98e5a9c42b33c53f931d2f61f",
+      "publishedAt": "2026-09-02T20:54:23.000Z",
+      "date": "2026-09-02T20:54:23.000Z",
+      "description": "Les pratiques de sécurité de l'entreprise font l'objet d'une attention particulière depuis qu'OpenAI, la société à l'origine de ChatGPT, a révélé...",
+      "excerpt": "Les pratiques de sécurité de l'entreprise font l'objet d'une attention particulière depuis qu'OpenAI, la société à l'origine de ChatGPT, a révélé...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "OpenAI prépare Astra, son modèle le plus avancé en cybersécurité - Agefi.com",
       "link": "https://agefi.com/actualites/entreprises/openai-prepare-astra-son-modele-le-plus-avance-en-cybersecurite",
       "url": "https://agefi.com/actualites/entreprises/openai-prepare-astra-son-modele-le-plus-avance-en-cybersecurite",
@@ -108,26 +128,6 @@
       "description": "Plusieurs chatbots fournissent sur demande des contenus issus de médias russes interdits en Europe ChatGPT, Grok et Claude répondent largement à...",
       "excerpt": "Plusieurs chatbots fournissent sur demande des contenus issus de médias russes interdits en Europe ChatGPT, Grok et Claude répondent largement à...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude Fable 5.1 est disponible: voici ce que propose le nouveau modèle surpuissant d'Anthropic",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/claude-fable-5-1-est-disponible-voici-ce-que-propose-le-nouveau-modele-surpuissant-d-anthropic-n261229.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/claude-fable-5-1-est-disponible-voici-ce-que-propose-le-nouveau-modele-surpuissant-d-anthropic-n261229.html",
-      "publishedAt": "2026-09-02T16:31:21.000Z",
-      "date": "2026-09-02T16:31:21.000Z",
-      "description": "ChatGPT, Claude, Gemini: la Chine a discrètement infiltré les IA, et... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "excerpt": "ChatGPT, Claude, Gemini: la Chine a discrètement infiltré les IA, et... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "La publicité de ChatGPT s'étend à l'international et atteint un milliard de dollars annualisés",
-      "link": "https://www.ictjournal.ch/news/2026-09-02/la-publicite-de-chatgpt-setend-a-linternational-et-atteint-un-milliard-de-dollars",
-      "url": "https://www.ictjournal.ch/news/2026-09-02/la-publicite-de-chatgpt-setend-a-linternational-et-atteint-un-milliard-de-dollars",
-      "publishedAt": "2026-09-02T15:57:44.000Z",
-      "date": "2026-09-02T15:57:44.000Z",
-      "description": "Depuis le 31 août, les annonceurs en Europe, en Inde, au Moyen-Orient et en Afrique du Nord peuvent acheter directement des publicités dans ChatGPT...",
-      "excerpt": "Depuis le 31 août, les annonceurs en Europe, en Inde, au Moyen-Orient et en Afrique du Nord peuvent acheter directement des publicités dans ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
