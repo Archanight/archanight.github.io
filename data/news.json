@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T02:03:37.083Z",
+  "generatedAt": "2026-09-04T10:10:31.220Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,96 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Après la panne, OpenAI lance GPT-6 Astra: “le modèle le plus intelligent et aligné au...",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/apres-la-panne-openai-lance-gpt-6-astra-le-modele-le-plus-intelligent-et-aligne-au-monde-avant-la-vraie-agi-n261359.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/apres-la-panne-openai-lance-gpt-6-astra-le-modele-le-plus-intelligent-et-aligne-au-monde-avant-la-vraie-agi-n261359.html",
+      "publishedAt": "2026-09-04T07:55:29.000Z",
+      "date": "2026-09-04T07:55:29.000Z",
+      "description": "Plus autonome, cette IA franchit un cap critique en cybersécurité, tout en s'approchant de la tant convoitée AGI... ChatGPT passe de nouveau à la...",
+      "excerpt": "Plus autonome, cette IA franchit un cap critique en cybersécurité, tout en s'approchant de la tant convoitée AGI... ChatGPT passe de nouveau à la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance GPT-6 Astra avec de nouveaux garde-fous contre les usages malveillants",
+      "link": "https://www.clubic.com/actualite-628186-openai-lance-gpt-6-astra-avec-de-nouveaux-garde-fous-contre-les-usages-malveillants.html",
+      "url": "https://www.clubic.com/actualite-628186-openai-lance-gpt-6-astra-avec-de-nouveaux-garde-fous-contre-les-usages-malveillants.html",
+      "publishedAt": "2026-09-04T06:42:18.000Z",
+      "date": "2026-09-04T06:42:18.000Z",
+      "description": "Une version équipée de protections de cybersécurité supplémentaires doit être lancée dans les prochains jours, pour les abonnés payants de ChatGPT.",
+      "excerpt": "Une version équipée de protections de cybersécurité supplémentaires doit être lancée dans les prochains jours, pour les abonnés payants de ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-6 est disponible: nouveautés, prix et accès à ChatGPT - Univers-Simu.com",
+      "link": "https://www.univers-simu.com/news/gpt-6-astra-prix-disponibilite-chatgpt-127693/",
+      "url": "https://www.univers-simu.com/news/gpt-6-astra-prix-disponibilite-chatgpt-127693/",
+      "publishedAt": "2026-09-04T05:52:04.000Z",
+      "date": "2026-09-04T05:52:04.000Z",
+      "description": "GPT-6 devient aussi extrêmement puissant en cybersécurité. GPT-6 Astra marque également un bond spectaculaire en cybersécurité. OpenAI le classe...",
+      "excerpt": "GPT-6 devient aussi extrêmement puissant en cybersécurité. GPT-6 Astra marque également un bond spectaculaire en cybersécurité. OpenAI le classe...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT‑6 Astra: OpenAI pense se rapprocher d'une intelligence artificielle comparable à l'humain",
+      "link": "https://www.macg.co/intelligence-artificielle/2026/09/gpt-6-astra-openai-pense-se-rapprocher-dune-intelligence-artificielle-comparable-lhumain-310845",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/09/gpt-6-astra-openai-pense-se-rapprocher-dune-intelligence-artificielle-comparable-lhumain-310845",
+      "publishedAt": "2026-09-04T05:10:39.000Z",
+      "date": "2026-09-04T05:10:39.000Z",
+      "description": "ChatGPT à... La recherche, les sciences, la cybersécurité et les tâches professionnelles figurent également parmi ses points forts.",
+      "excerpt": "ChatGPT à... La recherche, les sciences, la cybersécurité et les tâches professionnelles figurent également parmi ses points forts.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT 6 Astra: OpenAI se vante d'avoir créé le meilleur modèle d'IA au monde",
+      "link": "https://www.tomshardware.fr/gpt-6-astra-openai-se-vante-davoir-cree-le-meilleur-modele-dia-au-monde/",
+      "url": "https://www.tomshardware.fr/gpt-6-astra-openai-se-vante-davoir-cree-le-meilleur-modele-dia-au-monde/",
+      "publishedAt": "2026-09-04T04:48:48.000Z",
+      "date": "2026-09-04T04:48:48.000Z",
+      "description": "... cybersécurité, les sciences et le travail professionnel général. Une... ChatGPT Plus, Pro, Business et Enterprise, ainsi qu'à travers l'API...",
+      "excerpt": "... cybersécurité, les sciences et le travail professionnel général. Une... ChatGPT Plus, Pro, Business et Enterprise, ainsi qu'à travers l'API...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI dévoile GPT-6 Astra, le ChatGPT « le plus intelligent et le plus avancé » à ce jour",
+      "link": "https://www.01net.com/actualites/openai-devoile-gpt-6-astra-le-chatgpt-le-plus-intelligent-et-le-plus-avance-a-ce-jour.html",
+      "url": "https://www.01net.com/actualites/openai-devoile-gpt-6-astra-le-chatgpt-le-plus-intelligent-et-le-plus-avance-a-ce-jour.html",
+      "publishedAt": "2026-09-04T04:33:42.000Z",
+      "date": "2026-09-04T04:33:42.000Z",
+      "description": "Un an après GPT-5... Précisons tout de même que ses capacités les plus avancées en termes de cybersécurité resteront limitées à une poignée d'...",
+      "excerpt": "Un an après GPT-5... Précisons tout de même que ses capacités les plus avancées en termes de cybersécurité resteront limitées à une poignée d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Réveil Courrier du 4 septembre 2026",
+      "link": "https://www.courrierinternational.com/reveil/2026-09-04",
+      "url": "https://www.courrierinternational.com/reveil/2026-09-04",
+      "publishedAt": "2026-09-04T04:31:07.000Z",
+      "date": "2026-09-04T04:31:07.000Z",
+      "description": "OpenAI lance ChatGPT... OpenAI désigne en effet Astra comme son premier modèle à atteindre “le seuil critique de compétences en cybersécurité ”.",
+      "excerpt": "OpenAI lance ChatGPT... OpenAI désigne en effet Astra comme son premier modèle à atteindre “le seuil critique de compétences en cybersécurité ”.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance ChatGPT Astra, son modèle d'IA le plus avancé et le plus “controversé”",
+      "link": "https://fr.news.yahoo.com/openai-lance-chatgpt-astra-mod%C3%A8le-035526045.html",
+      "url": "https://fr.news.yahoo.com/openai-lance-chatgpt-astra-mod%C3%A8le-035526045.html",
+      "publishedAt": "2026-09-04T04:06:58.000Z",
+      "date": "2026-09-04T04:06:58.000Z",
+      "description": "OpenAI lance ChatGPT Astra, son modèle d'IA le plus avancé et le... cybersécurité, le travail professionnel, la création de logiciels, la...",
+      "excerpt": "OpenAI lance ChatGPT Astra, son modèle d'IA le plus avancé et le... cybersécurité, le travail professionnel, la création de logiciels, la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance ChatGPT Astra, son modèle d'IA le plus avancé et le plus “controversé”",
+      "link": "https://www.courrierinternational.com/article/intelligence-artificielle-openai-lance-chatgpt-astra-son-modele-d-ia-le-plus-avance-et-le-plus-controverse_267237",
+      "url": "https://www.courrierinternational.com/article/intelligence-artificielle-openai-lance-chatgpt-astra-son-modele-d-ia-le-plus-avance-et-le-plus-controverse_267237",
+      "publishedAt": "2026-09-04T04:01:10.000Z",
+      "date": "2026-09-04T04:01:10.000Z",
+      "description": "... cybersécurité, le travail professionnel, la... Cybercriminalité et cybersécurité Sciences et environnement Sciences & Techno ChatGPT Amériques.",
+      "excerpt": "... cybersécurité, le travail professionnel, la... Cybercriminalité et cybersécurité Sciences et environnement Sciences & Techno ChatGPT Amériques.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI lance GPT-6, son premier modèle d'IA capable de pirater seul des systèmes...",
       "link": "https://www.lemonde.fr/intelligences-artificielles-generatives/article/2026/09/04/openai-lance-gpt-6-son-premier-modele-d-ia-capable-de-pirater-seul-des-systemes-informatiques-tres-proteges_6765321_6191406.html",
@@ -20,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "OpenAI lance GPT-6, son modèle le plus puissant, conçu pour limiter les risques | JDM",
+      "link": "https://www.qub.ca/article/openai-lance-gpt-6-son-modele-le-plus-puissant-concu-pour-limiter-les-risques-1601919328",
+      "url": "https://www.qub.ca/article/openai-lance-gpt-6-son-modele-le-plus-puissant-concu-pour-limiter-les-risques-1601919328",
+      "publishedAt": "2026-09-04T00:17:52.000Z",
+      "date": "2026-09-04T00:17:52.000Z",
+      "description": "... cybersécurité, il est minuit moins une selon les géants de l'IA. Ce saut de génération, un an après GPT-5... Sur Bluesky @qubradio.bsky.social; Sur...",
+      "excerpt": "... cybersécurité, il est minuit moins une selon les géants de l'IA. Ce saut de génération, un an après GPT-5... Sur Bluesky @qubradio.bsky.social; Sur...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "ChatGPT, Claude et Grok touchés par des pannes simultanées - Quartz",
       "link": "https://fr.qz.com/chatgpt-claude-grok-pannes-simultanes-090326",
       "url": "https://fr.qz.com/chatgpt-claude-grok-pannes-simultanes-090326",
@@ -27,106 +127,6 @@
       "date": "2026-09-04T00:14:27.000Z",
       "description": "ChatGPT, Claude et Grok ont... I.A.OpenAI déploie Astra, son premier modèle d'IA à atteindre son plus haut niveau de risque en cybersécurité.",
       "excerpt": "ChatGPT, Claude et Grok ont... I.A.OpenAI déploie Astra, son premier modèle d'IA à atteindre son plus haut niveau de risque en cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Avec GPT-6, OpenAI franchit un cap de puissance et met ses garde-fous à l'épreuve du public",
-      "link": "https://fr.tradingview.com/news/afp:06f8cdf110d3a:0/",
-      "url": "https://fr.tradingview.com/news/afp:06f8cdf110d3a:0/",
-      "publishedAt": "2026-09-03T21:33:45.000Z",
-      "date": "2026-09-03T21:33:45.000Z",
-      "description": "Astra, un saut de génération un an après GPT-5, est le premier modèle qu'OpenAI classe au niveau de risque maximal en cybersécurité.... Réseau social...",
-      "excerpt": "Astra, un saut de génération un an après GPT-5, est le premier modèle qu'OpenAI classe au niveau de risque maximal en cybersécurité.... Réseau social...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ACTIONS | OpenAI affirme que son dernier modèle d'IA a dépassé Anthropic - Binance",
-      "link": "https://www.binance.com/fr/square/post/362778340385994",
-      "url": "https://www.binance.com/fr/square/post/362778340385994",
-      "publishedAt": "2026-09-03T21:27:05.000Z",
-      "date": "2026-09-03T21:27:05.000Z",
-      "description": "Selon Sina Finance, le développeur de ChatGPT a indiqué que le modèle vise.... cybersécurité. Le président d'OpenAI, Greg Brockman, a déclaré que le...",
-      "excerpt": "Selon Sina Finance, le développeur de ChatGPT a indiqué que le modèle vise.... cybersécurité. Le président d'OpenAI, Greg Brockman, a déclaré que le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Avec GPT-6, OpenAI franchit un cap de puissance et met ses garde-fous à l'épreuve du public",
-      "link": "https://www.mediapart.fr/journal/fil-dactualites/030926/avec-gpt-6-openai-franchit-un-cap-de-puissance-et-met-ses-garde-fous-l-epreuve-du-public",
-      "url": "https://www.mediapart.fr/journal/fil-dactualites/030926/avec-gpt-6-openai-franchit-un-cap-de-puissance-et-met-ses-garde-fous-l-epreuve-du-public",
-      "publishedAt": "2026-09-03T21:18:28.000Z",
-      "date": "2026-09-03T21:18:28.000Z",
-      "description": "Astra, un saut de génération un an après GPT-5, est le premier modèle qu'OpenAI classe au niveau de risque maximal en cybersécurité. Faute de...",
-      "excerpt": "Astra, un saut de génération un an après GPT-5, est le premier modèle qu'OpenAI classe au niveau de risque maximal en cybersécurité. Faute de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Publicité ChatGPT: OpenAI franchit le milliard de dollars de revenus annualisés",
-      "link": "https://www.abondance.com/20260903-2867389-pub-chatgpt-revenus-records.html",
-      "url": "https://www.abondance.com/20260903-2867389-pub-chatgpt-revenus-records.html",
-      "publishedAt": "2026-09-03T21:16:05.000Z",
-      "date": "2026-09-03T21:16:05.000Z",
-      "description": "Ce qu'il faut retenir: ChatGPT Ads atteint 1 milliard de dollars de revenus annualisés en moins de 200 jours d'existence, avec des dizaines de...",
-      "excerpt": "Ce qu'il faut retenir: ChatGPT Ads atteint 1 milliard de dollars de revenus annualisés en moins de 200 jours d'existence, avec des dizaines de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Si Claude vous déconnecte en pleine session, c'est peut-être que des pirates s'en prennent à vous",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/si-claude-vous-deconnecte-en-pleine-session-c-est-peut-etre-que-des-pirates-s-en-prennent-a-vous-n261342.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/si-claude-vous-deconnecte-en-pleine-session-c-est-peut-etre-que-des-pirates-s-en-prennent-a-vous-n261342.html",
-      "publishedAt": "2026-09-03T21:05:03.000Z",
-      "date": "2026-09-03T21:05:03.000Z",
-      "description": "Un marché parallèle s'est développé autour des comptes Claude mais aussi ChatGPT et Gemini piratés. Ils sont ensuite revendus à des prix bien...",
-      "excerpt": "Un marché parallèle s'est développé autour des comptes Claude mais aussi ChatGPT et Gemini piratés. Ils sont ensuite revendus à des prix bien...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Quatre grands modèles d'IA touchés par une panne simultanée rare - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6113118-quatre-grands-modeles-d-ia-touches-par-une-panne-simultanee-rare",
-      "url": "https://www.lefilia.fr/article/6113118-quatre-grands-modeles-d-ia-touches-par-une-panne-simultanee-rare",
-      "publishedAt": "2026-09-03T20:30:14.000Z",
-      "date": "2026-09-03T20:30:14.000Z",
-      "description": "Les entreprises européennes qui intègrent ChatGPT, Claude ou d'autres... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
-      "excerpt": "Les entreprises européennes qui intègrent ChatGPT, Claude ou d'autres... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Intelligence artificielle: le modèle est capable de se servir tout seul d'un ordinateur et de...",
-      "link": "https://www.ladepeche.fr/2026/09/03/intelligence-artificielle-le-modele-est-capable-de-se-servir-tout-seul-dun-ordinateur-et-de-pirater-des-systemes-informatiques-sophistiques-openai-13534602.php",
-      "url": "https://www.ladepeche.fr/2026/09/03/intelligence-artificielle-le-modele-est-capable-de-se-servir-tout-seul-dun-ordinateur-et-de-pirater-des-systemes-informatiques-sophistiques-openai-13534602.php",
-      "publishedAt": "2026-09-03T20:25:57.000Z",
-      "date": "2026-09-03T20:25:57.000Z",
-      "description": "Initialement réservé à quelques organisations, il sera bientôt accessible aux abonnés payants de ChatGPT.... cybersécurité, capable de pirater seul des...",
-      "excerpt": "Initialement réservé à quelques organisations, il sera bientôt accessible aux abonnés payants de ChatGPT.... cybersécurité, capable de pirater seul des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI confirme une dégradation de service affectant les utilisateurs de ChatGPT et Codex",
-      "link": "https://www.unite.ai/fr/openai-confirms-service-degradation-hitting-chatgpt-and-codex-users/",
-      "url": "https://www.unite.ai/fr/openai-confirms-service-degradation-hitting-chatgpt-and-codex-users/",
-      "publishedAt": "2026-09-03T20:14:48.000Z",
-      "date": "2026-09-03T20:14:48.000Z",
-      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT Desktop suivi au sein du groupe ChatGPT. OpenAI n'avait pas...",
-      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT Desktop suivi au sein du groupe ChatGPT. OpenAI n'avait pas...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT, Claude, Grok… Plusieurs plates-formes d'intelligence artificielle victimes de...",
-      "link": "https://www.leparisien.fr/high-tech/chatgpt-claude-grok-plusieurs-plates-formes-dintelligence-artificielle-victimes-de-pannes-massives-03-09-2026-V6ONJYU2U5ALDAVG7HRP5IL6R4.php",
-      "url": "https://www.leparisien.fr/high-tech/chatgpt-claude-grok-plusieurs-plates-formes-dintelligence-artificielle-victimes-de-pannes-massives-03-09-2026-V6ONJYU2U5ALDAVG7HRP5IL6R4.php",
-      "publishedAt": "2026-09-03T20:00:23.000Z",
-      "date": "2026-09-03T20:00:23.000Z",
-      "description": "Plusieurs plates-formes, dont ChatGPT, Claude, ou Grok, ont été victimes ce jeudi après-midi d'importantes pannes dont l'origine reste à préciser. Ces...",
-      "excerpt": "Plusieurs plates-formes, dont ChatGPT, Claude, ou Grok, ont été victimes ce jeudi après-midi d'importantes pannes dont l'origine reste à préciser. Ces...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance GPT-6 Astra, prix, benchmarks et qui peut l'utiliser dès aujourd'hui",
-      "link": "https://pasqualepillitteri.it/fr/news/14247/openai-lance-gpt-6-astra-prix-benchmarks",
-      "url": "https://pasqualepillitteri.it/fr/news/14247/openai-lance-gpt-6-astra-prix-benchmarks",
-      "publishedAt": "2026-09-03T19:34:10.000Z",
-      "date": "2026-09-03T19:34:10.000Z",
-      "description": "OpenAI & ChatGPT 4 OpenAI & ChatGPT · Videogiochi 2 Videogiochi... GPT-6 Astra, le premier modèle OpenAI publié au seuil critique de cybersécurité.",
-      "excerpt": "OpenAI & ChatGPT 4 OpenAI & ChatGPT · Videogiochi 2 Videogiochi... GPT-6 Astra, le premier modèle OpenAI publié au seuil critique de cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
