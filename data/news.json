@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T14:38:23.412Z",
+  "generatedAt": "2026-09-06T19:46:18.551Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,46 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Blog: Aperçu vidéo de mon mod VR Dead Rising en développement - Gamekyo.com",
+      "link": "https://www.gamekyo.com/blog_article487739.html",
+      "url": "https://www.gamekyo.com/blog_article487739.html",
+      "publishedAt": "2026-09-06T17:14:26.000Z",
+      "date": "2026-09-06T17:14:26.000Z",
+      "description": "L'autre gros défi sera de créer une vue FPS, c'est tendu avec la limite d'usage quotidien chatGPT Codex qui tombe à 0% en 5 prompts qui mènent à rien.",
+      "excerpt": "L'autre gros défi sera de créer une vue FPS, c'est tendu avec la limite d'usage quotidien chatGPT Codex qui tombe à 0% en 5 prompts qui mènent à rien.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "GPT-6 Astra: OpenAI ouvre une nouvelle étape pour l'IA",
+      "link": "https://actualitesjeuxvideo.fr/gpt-6-astra-openai-ouvre-une-nouvelle-etape-pour-l-ia-le-code-et-la-creation-numerique/",
+      "url": "https://actualitesjeuxvideo.fr/gpt-6-astra-openai-ouvre-une-nouvelle-etape-pour-l-ia-le-code-et-la-creation-numerique/",
+      "publishedAt": "2026-09-06T17:01:25.000Z",
+      "date": "2026-09-06T17:01:25.000Z",
+      "description": "... cybersécurité... Son déploiement débute auprès d'un nombre limité d'organisations avant une arrivée progressive dans ChatGPT et via plusieurs...",
+      "excerpt": "... cybersécurité... Son déploiement débute auprès d'un nombre limité d'organisations avant une arrivée progressive dans ChatGPT et via plusieurs...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "« J'ai demandé à ChatGPT une combinaison de numéros », elle remporte 100 000 dollars à...",
+      "link": "https://www.lacremedugaming.fr/high-tech/jai-demande-a-chatgpt-une-combinaison-de-numeros-elle-remporte-100-000-dollars-a-la-loterie-grace-a-lia-224598.html",
+      "url": "https://www.lacremedugaming.fr/high-tech/jai-demande-a-chatgpt-une-combinaison-de-numeros-elle-remporte-100-000-dollars-a-la-loterie-grace-a-lia-224598.html",
+      "publishedAt": "2026-09-06T16:45:17.000Z",
+      "date": "2026-09-06T16:45:17.000Z",
+      "description": "Aux États-Unis, Tammy empoche 100 000 dollars grâce à des numéros suggérés par ChatGPT: l'IA peut-elle vraiment faire bouger vos chances au loto...",
+      "excerpt": "Aux États-Unis, Tammy empoche 100 000 dollars grâce à des numéros suggérés par ChatGPT: l'IA peut-elle vraiment faire bouger vos chances au loto...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Cybersécurité: 14 actualités majeures du 6 septembre 2026 (dont le G7)",
+      "link": "https://dcod.ch/2026/09/06/cybersecurite-14-actualites-majeures-du-6-septembre-2026-dont-le-g7/",
+      "url": "https://dcod.ch/2026/09/06/cybersecurite-14-actualites-majeures-du-6-septembre-2026-dont-le-g7/",
+      "publishedAt": "2026-09-06T15:02:14.000Z",
+      "date": "2026-09-06T15:02:14.000Z",
+      "description": "... ChatGPT, Reddit, Roblox), contentieux sur l'usage militaire, et publication d'un modèle revendiquant des capacités de cybersécurité « critical ».",
+      "excerpt": "... ChatGPT, Reddit, Roblox), contentieux sur l'usage militaire, et publication d'un modèle revendiquant des capacités de cybersécurité « critical ».",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "GPT-6 Astra: ce que vous pouvez vraiment faire avec ce nouveau modèle - Bleap",
       "link": "https://www.bleap.finance/fr-fr/blog/gpt-6-astra",
       "url": "https://www.bleap.finance/fr-fr/blog/gpt-6-astra",
@@ -17,6 +57,26 @@
       "date": "2026-09-06T11:58:19.000Z",
       "description": "... ChatGPT et Gemini, avec une carte Mastercard auto-custodiale, sans... Astra domine nettement sur l'utilisation d'ordinateur, la cybersécurité et les...",
       "excerpt": "... ChatGPT et Gemini, avec une carte Mastercard auto-custodiale, sans... Astra domine nettement sur l'utilisation d'ordinateur, la cybersécurité et les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "2 millions de dollars perdus à cause d'un faux lien fourni par ChatGPT - Zamin.uz",
+      "link": "https://zamin.uz/fr/technologie/220393-2-millions-de-dollars-perdus-a-cause-dun-faux-lien-fourni-par-chatgpt.html",
+      "url": "https://zamin.uz/fr/technologie/220393-2-millions-de-dollars-perdus-a-cause-dun-faux-lien-fourni-par-chatgpt.html",
+      "publishedAt": "2026-09-06T11:16:53.000Z",
+      "date": "2026-09-06T11:16:53.000Z",
+      "description": "La victime, connue sous le nom d'Alex sur le réseau social X (anciennement Twitter), a envoyé une requête à ChatGPT en russe pour savoir où échanger...",
+      "excerpt": "La victime, connue sous le nom d'Alex sur le réseau social X (anciennement Twitter), a envoyé une requête à ChatGPT en russe pour savoir où échanger...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Nouveau ChatGPT GPT-6 Astra: pour qui ça vaut le coup - Info-lux.com",
+      "link": "https://www.info-lux.com/nouveau-chatgpt-gpt-6-astra-pour-qui/intelligence-artificielle/",
+      "url": "https://www.info-lux.com/nouveau-chatgpt-gpt-6-astra-pour-qui/intelligence-artificielle/",
+      "publishedAt": "2026-09-06T09:57:06.000Z",
+      "date": "2026-09-06T09:57:06.000Z",
+      "description": "... cybersécurité, la science et le travail professionnel. Sam Altman, le... Au lancement, aucun accès n'a été annoncé pour les comptes gratuits de ChatGPT...",
+      "excerpt": "... cybersécurité, la science et le travail professionnel. Sam Altman, le... Au lancement, aucun accès n'a été annoncé pour les comptes gratuits de ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -67,66 +127,6 @@
       "date": "2026-09-06T03:07:49.000Z",
       "description": "Une version dotée de protections de cybersécurité supplémentaires est prévue dans les prochains jours pour les abonnés payants de ChatGPT. Les...",
       "excerpt": "Une version dotée de protections de cybersécurité supplémentaires est prévue dans les prochains jours pour les abonnés payants de ChatGPT. Les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-6 Astra: OpenAI Bloque son IA, Seuil Critique [2026] - Tech Insider",
-      "link": "https://tech-insider.org/fr/gpt-6-astra-openai-acces-restreint-2026/",
-      "url": "https://tech-insider.org/fr/gpt-6-astra-openai-acces-restreint-2026/",
-      "publishedAt": "2026-09-06T03:06:36.000Z",
-      "date": "2026-09-06T03:06:36.000Z",
-      "description": "... cybersécurité, avant une extension progressive aux abonnements ChatGPT Plus, Pro, Business et Enterprise, ainsi qu'à l'API OpenAI, à Microsoft...",
-      "excerpt": "... cybersécurité, avant une extension progressive aux abonnements ChatGPT Plus, Pro, Business et Enterprise, ainsi qu'à l'API OpenAI, à Microsoft...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI vise les cabinets d'avocats avec ChatGPT - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-vise-les-cabinets-d-avocats-avec-chatgpt",
-      "url": "https://www.briefia.fr/article/openai-vise-les-cabinets-d-avocats-avec-chatgpt",
-      "publishedAt": "2026-09-06T02:57:56.000Z",
-      "date": "2026-09-06T02:57:56.000Z",
-      "description": "OpenAI discute d'intégrations entre ChatGPT et des logiciels juridiques Anthropic et Google vendent déjà leurs modèles directement aux cabinets...",
-      "excerpt": "OpenAI discute d'intégrations entre ChatGPT et des logiciels juridiques Anthropic et Google vendent déjà leurs modèles directement aux cabinets...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Using OneNote in ChatGPT and Codex - OpenAI Help Center",
-      "link": "https://help.openai.com/fr-ca/articles/20001511-using-onenote-in-chatgpt-and-codex",
-      "url": "https://help.openai.com/fr-ca/articles/20001511-using-onenote-in-chatgpt-and-codex",
-      "publishedAt": "2026-09-06T01:08:02.000Z",
-      "date": "2026-09-06T01:08:02.000Z",
-      "description": "ChatGPT — Notes de version. Un journal des plus récentes mises à jour et notes de version de ChatGPT. Cet article vous a-t-il été utile? Envoyer.",
-      "excerpt": "ChatGPT — Notes de version. Un journal des plus récentes mises à jour et notes de version de ChatGPT. Cet article vous a-t-il été utile? Envoyer.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Gilbert + Tobin accélère ses opérations avec ChatGPT et Codex - Brief IA",
-      "link": "https://www.briefia.fr/article/gilbert-tobin-accelere-ses-operations-avec-chatgpt-et-codex",
-      "url": "https://www.briefia.fr/article/gilbert-tobin-accelere-ses-operations-avec-chatgpt-et-codex",
-      "publishedAt": "2026-09-06T00:32:42.000Z",
-      "date": "2026-09-06T00:32:42.000Z",
-      "description": "... ChatGPT dans le recrutement, le marketing, la finance, la... cybersécurité tout en affichant des garde-fous et des limites, ce qui...",
-      "excerpt": "... ChatGPT dans le recrutement, le marketing, la finance, la... cybersécurité tout en affichant des garde-fous et des limites, ce qui...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cyberattaque chez Boston Scientific: quel risque pour les pacemakers? - Le Spécialiste",
-      "link": "https://www.lespecialiste.be/fr/actualites/e-health/cyberattaque-chez-boston-scientific-quel-risque-pour-les-pacemakers.html",
-      "url": "https://www.lespecialiste.be/fr/actualites/e-health/cyberattaque-chez-boston-scientific-quel-risque-pour-les-pacemakers.html",
-      "publishedAt": "2026-09-06T00:02:27.000Z",
-      "date": "2026-09-06T00:02:27.000Z",
-      "description": "... cybersécurité n'a été identifié pour les réseaux hospitaliers. L... OpenAI connecte...",
-      "excerpt": "... cybersécurité n'a été identifié pour les réseaux hospitaliers. L... OpenAI connecte...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI déploie GPT-6 Astra pour les abonnements… - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6120984-openai-deploie-gpt-6-astra-pour-les-abonnements-chatgpt-haut-de-gamme-moitie-moins-cher-que-gpt-5-6-sol",
-      "url": "https://www.lefilia.fr/article/6120984-openai-deploie-gpt-6-astra-pour-les-abonnements-chatgpt-haut-de-gamme-moitie-moins-cher-que-gpt-5-6-sol",
-      "publishedAt": "2026-09-05T18:34:03.000Z",
-      "date": "2026-09-05T18:34:03.000Z",
-      "description": "OpenAI déploie GPT-6 Astra pour les abonnements ChatGPT haut de gamme, moitié moins cher que GPT-5.6 Sol... GPT-5.6 Sol: les abonnés Plus...",
-      "excerpt": "OpenAI déploie GPT-6 Astra pour les abonnements ChatGPT haut de gamme, moitié moins cher que GPT-5.6 Sol... GPT-5.6 Sol: les abonnés Plus...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
