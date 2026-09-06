@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T09:54:59.017Z",
+  "generatedAt": "2026-09-06T14:38:23.412Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-6 Astra: ce que vous pouvez vraiment faire avec ce nouveau modèle - Bleap",
+      "link": "https://www.bleap.finance/fr-fr/blog/gpt-6-astra",
+      "url": "https://www.bleap.finance/fr-fr/blog/gpt-6-astra",
+      "publishedAt": "2026-09-06T11:58:19.000Z",
+      "date": "2026-09-06T11:58:19.000Z",
+      "description": "... ChatGPT et Gemini, avec une carte Mastercard auto-custodiale, sans... Astra domine nettement sur l'utilisation d'ordinateur, la cybersécurité et les...",
+      "excerpt": "... ChatGPT et Gemini, avec une carte Mastercard auto-custodiale, sans... Astra domine nettement sur l'utilisation d'ordinateur, la cybersécurité et les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Astra: beaucoup plus efficace, plus opaque, plus dangereux… voilà pourquoi ChatGPT... - Atlantico",
       "link": "https://atlantico.fr/article/decryptage/astra-beaucoup-plus-efficace-plus-opaque-plus-dangereux-voila-pourquoi-chatgpt6-nous-fait-entrer-dans-une-nouvelle-ere-ia-intelligence-artificielle-Martin-Pavanello",
@@ -117,16 +127,6 @@
       "date": "2026-09-05T18:34:03.000Z",
       "description": "OpenAI déploie GPT-6 Astra pour les abonnements ChatGPT haut de gamme, moitié moins cher que GPT-5.6 Sol... GPT-5.6 Sol: les abonnés Plus...",
       "excerpt": "OpenAI déploie GPT-6 Astra pour les abonnements ChatGPT haut de gamme, moitié moins cher que GPT-5.6 Sol... GPT-5.6 Sol: les abonnés Plus...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-6 Astra vs Claude et Gemini: le comparatif - LoKan.fr",
-      "link": "https://lokan.fr/2026/09/05/gpt-6-astra-chatgpt-work-comparatif/",
-      "url": "https://lokan.fr/2026/09/05/gpt-6-astra-chatgpt-work-comparatif/",
-      "publishedAt": "2026-09-05T18:08:27.000Z",
-      "date": "2026-09-05T18:08:27.000Z",
-      "description": "GPT-6 Astra arrive dans ChatGPT. Voici qui peut l'utiliser dans Chat, Work et Codex, ses nouveautés et son niveau face à Claude et Gemini.",
-      "excerpt": "GPT-6 Astra arrive dans ChatGPT. Voici qui peut l'utiliser dans Chat, Work et Codex, ses nouveautés et son niveau face à Claude et Gemini.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
