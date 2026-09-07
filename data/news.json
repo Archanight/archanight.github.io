@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T19:46:18.551Z",
+  "generatedAt": "2026-09-07T01:56:30.233Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI lance GPT-6 Astra, un modèle capable de pirater seul des systèmes",
+      "link": "https://fr.themedialeader.com/openai-lance-gpt-6-astra-un-modele-capable-de-pirater-seul-des-systemes/",
+      "url": "https://fr.themedialeader.com/openai-lance-gpt-6-astra-un-modele-capable-de-pirater-seul-des-systemes/",
+      "publishedAt": "2026-09-06T22:11:44.000Z",
+      "date": "2026-09-06T22:11:44.000Z",
+      "description": "OpenAI a lancé GPT-6 Astra, son premier modèle d'intelligence artificielle classé au niveau de risque maximal en cybersécurité... ChatGPT, utilisé par...",
+      "excerpt": "OpenAI a lancé GPT-6 Astra, son premier modèle d'intelligence artificielle classé au niveau de risque maximal en cybersécurité... ChatGPT, utilisé par...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le récap tech de la semaine: GPT-6 Astra débarque, GTA 6 cartonne sur Netflix",
+      "link": "https://kulturegeek.fr/news-358652/recap-tech-semaine-gpt-6-astra-debarque-gta-6-cartonne-netflix",
+      "url": "https://kulturegeek.fr/news-358652/recap-tech-semaine-gpt-6-astra-debarque-gta-6-cartonne-netflix",
+      "publishedAt": "2026-09-06T21:02:17.000Z",
+      "date": "2026-09-06T21:02:17.000Z",
+      "description": "ChatGPT, Reddit et Roblox passent sous le régime renforcé du Digital Services Act.... cybersécurité. Son accès initial limité a mécontenté des...",
+      "excerpt": "ChatGPT, Reddit et Roblox passent sous le régime renforcé du Digital Services Act.... cybersécurité. Son accès initial limité a mécontenté des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Blog: Aperçu vidéo de mon mod VR Dead Rising en développement - Gamekyo.com",
       "link": "https://www.gamekyo.com/blog_article487739.html",
@@ -90,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Publicité sur ChatGPT — agence OpenAI Ads en France - We Devops",
+      "link": "https://wedevops.fr/publicite-chatgpt",
+      "url": "https://wedevops.fr/publicite-chatgpt",
+      "publishedAt": "2026-09-06T07:23:13.000Z",
+      "date": "2026-09-06T07:23:13.000Z",
+      "description": "Tout ce qu'on nous demande sur la publicité ChatGPT. 01Peut-on vraiment... We Devops — Tous droits réservés. SASU au capital de 1 000 € — France.",
+      "excerpt": "Tout ce qu'on nous demande sur la publicité ChatGPT. 01Peut-on vraiment... We Devops — Tous droits réservés. SASU au capital de 1 000 € — France.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Astra, le successeur de ChatGPT qui épate et inquiète | Liberation - PressReader",
       "link": "https://www.pressreader.com/france/liberation/20260905/281638197079484",
       "url": "https://www.pressreader.com/france/liberation/20260905/281638197079484",
@@ -97,36 +127,6 @@
       "date": "2026-09-06T04:49:51.000Z",
       "description": "... ChatGPT -6, dit Astra. Après des mois de rumeurs, quelques jours seulement... cybersécurité, avant d'être progressivement déployée auprès des...",
       "excerpt": "... ChatGPT -6, dit Astra. Après des mois de rumeurs, quelques jours seulement... cybersécurité, avant d'être progressivement déployée auprès des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Seattle Times et Newsday poursuivent OpenAI et Microsoft - Brief IA",
-      "link": "https://www.briefia.fr/article/seattle-times-et-newsday-poursuivent-openai-et-microsoft",
-      "url": "https://www.briefia.fr/article/seattle-times-et-newsday-poursuivent-openai-et-microsoft",
-      "publishedAt": "2026-09-06T04:38:01.000Z",
-      "date": "2026-09-06T04:38:01.000Z",
-      "description": "... ChatGPT et Copilot Microsoft, partenaire d'OpenAI, se dit surpris par... cybersécurité. Commentaires. Publier.",
-      "excerpt": "... ChatGPT et Copilot Microsoft, partenaire d'OpenAI, se dit surpris par... cybersécurité. Commentaires. Publier.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-6 Astra: OpenAI met en circulation une IA capable de pirater seule, avec un bouton d'arrêt",
-      "link": "https://www.breizh-info.com/2026/09/06/263736/gpt-6-astra-openai-met-en-circulation-une-ia-capable-de-pirater-seule-avec-un-bouton-darret/",
-      "url": "https://www.breizh-info.com/2026/09/06/263736/gpt-6-astra-openai-met-en-circulation-une-ia-capable-de-pirater-seule-avec-un-bouton-darret/",
-      "publishedAt": "2026-09-06T03:12:37.000Z",
-      "date": "2026-09-06T03:12:37.000Z",
-      "description": "... cybersécurité. Cette classification désigne un système capable d... Tags: agents autonomes, AGI, Anthropic, ChatGPT, Claude, cybersécurité...",
-      "excerpt": "... cybersécurité. Cette classification désigne un système capable d... Tags: agents autonomes, AGI, Anthropic, ChatGPT, Claude, cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI restreint GPT-6 Astra et renforce ses garde-fous | Brief IA",
-      "link": "https://www.briefia.fr/article/openai-restreint-gpt-6-astra-et-renforce-ses-garde-fous",
-      "url": "https://www.briefia.fr/article/openai-restreint-gpt-6-astra-et-renforce-ses-garde-fous",
-      "publishedAt": "2026-09-06T03:07:49.000Z",
-      "date": "2026-09-06T03:07:49.000Z",
-      "description": "Une version dotée de protections de cybersécurité supplémentaires est prévue dans les prochains jours pour les abonnés payants de ChatGPT. Les...",
-      "excerpt": "Une version dotée de protections de cybersécurité supplémentaires est prévue dans les prochains jours pour les abonnés payants de ChatGPT. Les...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
