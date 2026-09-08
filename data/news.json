@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T15:40:26.258Z",
+  "generatedAt": "2026-09-08T20:29:27.434Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,36 @@
   "failedSources": [],
   "items": [
     {
+      "title": "OpenAI lance ChatGPT Images 2.5 avec Sketch et deux nouveaux modèles API - Unite.AI",
+      "link": "https://www.unite.ai/fr/openai-releases-chatgpt-images-2-5-with-sketch-and-two-new-api-models/",
+      "url": "https://www.unite.ai/fr/openai-releases-chatgpt-images-2-5-with-sketch-and-two-new-api-models/",
+      "publishedAt": "2026-09-08T19:54:49.000Z",
+      "date": "2026-09-08T19:54:49.000Z",
+      "description": "Dans le cadre du Preparedness Framework d'OpenAI, qui suit les risques biologiques et chimiques, la cybersécurité et l'auto‑amélioration de l'IA...",
+      "excerpt": "Dans le cadre du Preparedness Framework d'OpenAI, qui suit les risques biologiques et chimiques, la cybersécurité et l'auto‑amélioration de l'IA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'action d'Oracle augmente alors qu'OpenAI lance ChatGPT -6 Astra - Quartz",
+      "link": "https://fr.qz.com/oracle-stock-openai-chatgpt-6-astra-090826",
+      "url": "https://fr.qz.com/oracle-stock-openai-chatgpt-6-astra-090826",
+      "publishedAt": "2026-09-08T17:36:28.000Z",
+      "date": "2026-09-08T17:36:28.000Z",
+      "description": "Les investisseurs considèrent que la fortune d'Oracle est liée au succès d'OpenAI, et le nouveau modèle ChatGPT -6 Astra semble séduire les...",
+      "excerpt": "Les investisseurs considèrent que la fortune d'Oracle est liée au succès d'OpenAI, et le nouveau modèle ChatGPT -6 Astra semble séduire les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Logitech lance le MX Keypad, un petit clavier à touches LCD pensé pour les raccourcis et l'IA",
+      "link": "https://www.mac4ever.com/mac/197904-logitech-lance-le-mx-keypad-un-petit-clavier-a-touches-lcd-pense-pour-les-raccourcis-et-l-ia",
+      "url": "https://www.mac4ever.com/mac/197904-logitech-lance-le-mx-keypad-un-petit-clavier-a-touches-lcd-pense-pour-les-raccourcis-et-l-ia",
+      "publishedAt": "2026-09-08T15:14:10.000Z",
+      "date": "2026-09-08T15:14:10.000Z",
+      "description": "Et cette fois, Logitech vise clairement les développeurs et les utilisateurs qui multiplient les interactions avec ChatGPT, Codex ou GitHub Copilot.",
+      "excerpt": "Et cette fois, Logitech vise clairement les développeurs et les utilisateurs qui multiplient les interactions avec ChatGPT, Codex ou GitHub Copilot.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "ChatGPT apprend à écrire comme vous: le chatbot d'OpenAI se transforme en votre clone...",
       "link": "https://www.phonandroid.com/chatgpt-apprend-a-ecrire-comme-vous-le-chatbot-dopenai-se-transforme-en-votre-clone-redactionnel.html",
       "url": "https://www.phonandroid.com/chatgpt-apprend-a-ecrire-comme-vous-le-chatbot-dopenai-se-transforme-en-votre-clone-redactionnel.html",
@@ -18,6 +48,16 @@
       "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT apprend à écrire comme vous: le chatbot d'OpenAI se transforme...",
       "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT apprend à écrire comme vous: le chatbot d'OpenAI se transforme...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI ouvre aux PME la résidence des données en Europe - ICTjournal",
+      "link": "https://www.ictjournal.ch/news/2026-09-08/openai-ouvre-aux-pme-la-residence-des-donnees-en-europe",
+      "url": "https://www.ictjournal.ch/news/2026-09-08/openai-ouvre-aux-pme-la-residence-des-donnees-en-europe",
+      "publishedAt": "2026-09-08T14:02:39.000Z",
+      "date": "2026-09-08T14:02:39.000Z",
+      "description": "Les clients de ChatGPT Business peuvent désormais choisir l'Europe comme région de résidence de leurs données.",
+      "excerpt": "Les clients de ChatGPT Business peuvent désormais choisir l'Europe comme région de résidence de leurs données.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "ChatGPT teste l'imitation de style via vos applis connectées - Brief IA",
@@ -38,6 +78,16 @@
       "description": "Cybersécurité et Télésurveillance. Offre pour les jeunes. +... \"Je ne lis pas souvent, je regarde des résumés sur ChatGPT \": des élèves...",
       "excerpt": "Cybersécurité et Télésurveillance. Offre pour les jeunes. +... \"Je ne lis pas souvent, je regarde des résumés sur ChatGPT \": des élèves...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT a construit son propre index de recherche - Abondance",
+      "link": "https://www.abondance.com/20260908-2889490-chatgpt-openai-contruction-index-de-recherche.html",
+      "url": "https://www.abondance.com/20260908-2889490-chatgpt-openai-contruction-index-de-recherche.html",
+      "publishedAt": "2026-09-08T13:14:22.000Z",
+      "date": "2026-09-08T13:14:22.000Z",
+      "description": "Un témoignage de Nick Turley (responsable de ChatGPT ) lors du procès antitrust de Google confirme que ce projet remonte à 2023, avec un objectif...",
+      "excerpt": "Un témoignage de Nick Turley (responsable de ChatGPT ) lors du procès antitrust de Google confirme que ce projet remonte à 2023, avec un objectif...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "« Personne n'est préparé »: OpenAI admet perdre le contrôle de ses IA - 01net.com",
@@ -78,56 +128,6 @@
       "description": "Une procédure judiciaire américaine accuse OpenAI d'avoir entraîné ChatGPT sur des livres piratés avant d'effacer les fichiers... Cybersécurité...",
       "excerpt": "Une procédure judiciaire américaine accuse OpenAI d'avoir entraîné ChatGPT sur des livres piratés avant d'effacer les fichiers... Cybersécurité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "5 conseils pour sensibiliser ses collaborateurs à la cybersécurité - Generation Cyb",
-      "link": "https://www.generationcyb.net/5-conseils-pour-sensibiliser-ses-collaborateurs-a-la-cybersecurite/",
-      "url": "https://www.generationcyb.net/5-conseils-pour-sensibiliser-ses-collaborateurs-a-la-cybersecurite/",
-      "publishedAt": "2026-09-08T09:58:51.000Z",
-      "date": "2026-09-08T09:58:51.000Z",
-      "description": "Sans oublier les nouvelles menaces liées à l'IA: fuites via ChatGPT... cybersécurité en entreprise peut intégrer ces éléments. Pour les...",
-      "excerpt": "Sans oublier les nouvelles menaces liées à l'IA: fuites via ChatGPT... cybersécurité en entreprise peut intégrer ces éléments. Pour les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le modèle qu'OpenAI jugeait trop dangereux cet été arrive dans votre ChatGPT Plus",
-      "link": "https://www.clubic.com/actualite-628729-wip-gpt-6-astra-debarque-sur-chatgpt-plus-le-modele-qu-openai-avait-juge-trop-risque.html",
-      "url": "https://www.clubic.com/actualite-628729-wip-gpt-6-astra-debarque-sur-chatgpt-plus-le-modele-qu-openai-avait-juge-trop-risque.html",
-      "publishedAt": "2026-09-08T08:35:25.000Z",
-      "date": "2026-09-08T08:35:25.000Z",
-      "description": "Le modèle qu'OpenAI avait temporairement freiné cet été en raison de risques élevés en cybersécurité commence à s'ouvrir aux abonnés Plus. Pour l...",
-      "excerpt": "Le modèle qu'OpenAI avait temporairement freiné cet été en raison de risques élevés en cybersécurité commence à s'ouvrir aux abonnés Plus. Pour l...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI ouvre aux PME la résidence des données en Europe - ICTjournal",
-      "link": "https://www.ictjournal.ch/news/2026-09-08/openai-ouvre-aux-pme-la-residence-des-donnees-en-europe",
-      "url": "https://www.ictjournal.ch/news/2026-09-08/openai-ouvre-aux-pme-la-residence-des-donnees-en-europe",
-      "publishedAt": "2026-09-08T08:06:32.000Z",
-      "date": "2026-09-08T08:06:32.000Z",
-      "description": "... Cybersécurité 2026 · Cloud & Managed Services · 10 ans d'ICTjournal... ChatGPT. Les clients peuvent sélectionner l'Europe comme région de...",
-      "excerpt": "... Cybersécurité 2026 · Cloud & Managed Services · 10 ans d'ICTjournal... ChatGPT. Les clients peuvent sélectionner l'Europe comme région de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité: Astra, l'ennemi numéro Un - ElectronLibre",
-      "link": "https://electronlibre.info/articles/107341-cybersecurite-astra-l-ennemi-numero-un/",
-      "url": "https://electronlibre.info/articles/107341-cybersecurite-astra-l-ennemi-numero-un/",
-      "publishedAt": "2026-09-08T02:31:52.000Z",
-      "date": "2026-09-08T02:31:52.000Z",
-      "description": "... cybersécurité, eux, regardent surtout l'autre face du tableau. Plus un... ChatGPT, Gemini ou Claude raisonnent, programment et dialoguent avec…",
-      "excerpt": "... cybersécurité, eux, regardent surtout l'autre face du tableau. Plus un... ChatGPT, Gemini ou Claude raisonnent, programment et dialoguent avec…",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude arrive sur CarPlay, la cinquième IA à bord mais sans la commande vocale de Siri",
-      "link": "https://pasqualepillitteri.it/fr/news/14813/claude-carplay-cinquieme-ia-voiture",
-      "url": "https://pasqualepillitteri.it/fr/news/14813/claude-carplay-cinquieme-ia-voiture",
-      "publishedAt": "2026-09-07T21:41:29.000Z",
-      "date": "2026-09-07T21:41:29.000Z",
-      "description": "... à s'installer sur le tableau de bord après ChatGPT,…",
-      "excerpt": "... à s'installer sur le tableau de bord après ChatGPT,…",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
