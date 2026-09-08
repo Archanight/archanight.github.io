@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T02:07:20.853Z",
+  "generatedAt": "2026-09-08T10:17:37.060Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le modèle qu'OpenAI jugeait trop dangereux cet été arrive dans votre ChatGPT Plus",
+      "link": "https://www.clubic.com/actualite-628729-wip-gpt-6-astra-debarque-sur-chatgpt-plus-le-modele-qu-openai-avait-juge-trop-risque.html",
+      "url": "https://www.clubic.com/actualite-628729-wip-gpt-6-astra-debarque-sur-chatgpt-plus-le-modele-qu-openai-avait-juge-trop-risque.html",
+      "publishedAt": "2026-09-08T08:35:25.000Z",
+      "date": "2026-09-08T08:35:25.000Z",
+      "description": "Le modèle qu'OpenAI avait temporairement freiné cet été en raison de risques élevés en cybersécurité commence à s'ouvrir aux abonnés Plus. Pour l...",
+      "excerpt": "Le modèle qu'OpenAI avait temporairement freiné cet été en raison de risques élevés en cybersécurité commence à s'ouvrir aux abonnés Plus. Pour l...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI ouvre aux PME la résidence des données en Europe - ICTjournal",
+      "link": "https://www.ictjournal.ch/news/2026-09-08/openai-ouvre-aux-pme-la-residence-des-donnees-en-europe",
+      "url": "https://www.ictjournal.ch/news/2026-09-08/openai-ouvre-aux-pme-la-residence-des-donnees-en-europe",
+      "publishedAt": "2026-09-08T08:06:32.000Z",
+      "date": "2026-09-08T08:06:32.000Z",
+      "description": "... Cybersécurité 2026 · Cloud & Managed Services · 10 ans d'ICTjournal... ChatGPT. Les clients peuvent sélectionner l'Europe comme région de...",
+      "excerpt": "... Cybersécurité 2026 · Cloud & Managed Services · 10 ans d'ICTjournal... ChatGPT. Les clients peuvent sélectionner l'Europe comme région de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cybersécurité: Astra, l'ennemi numéro Un - ElectronLibre",
+      "link": "https://electronlibre.info/articles/107341-cybersecurite-astra-l-ennemi-numero-un/",
+      "url": "https://electronlibre.info/articles/107341-cybersecurite-astra-l-ennemi-numero-un/",
+      "publishedAt": "2026-09-08T02:31:52.000Z",
+      "date": "2026-09-08T02:31:52.000Z",
+      "description": "... cybersécurité, eux, regardent surtout l'autre face du tableau. Plus un... ChatGPT, Gemini ou Claude raisonnent, programment et dialoguent avec…",
+      "excerpt": "... cybersécurité, eux, regardent surtout l'autre face du tableau. Plus un... ChatGPT, Gemini ou Claude raisonnent, programment et dialoguent avec…",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Claude arrive sur CarPlay, la cinquième IA à bord mais sans la commande vocale de Siri",
       "link": "https://pasqualepillitteri.it/fr/news/14813/claude-carplay-cinquieme-ia-voiture",
@@ -98,36 +128,6 @@
       "description": "Astra a été lancé le 3 septembre et a ensuite été étendu aux utilisateurs Pro, Enterprise et Business Premium via ChatGPT Work et Codex avant d...",
       "excerpt": "Astra a été lancé le 3 septembre et a ensuite été étendu aux utilisateurs Pro, Enterprise et Business Premium via ChatGPT Work et Codex avant d...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI dévoile GPT-6 Astra, son intelligence artificielle la plus avancée à ce jour",
-      "link": "https://lecafedugeek.fr/openai-devoile-gpt-6-astra-son-intelligence-artificielle-la-plus-avancee-a-ce-jour/",
-      "url": "https://lecafedugeek.fr/openai-devoile-gpt-6-astra-son-intelligence-artificielle-la-plus-avancee-a-ce-jour/",
-      "publishedAt": "2026-09-07T15:01:44.000Z",
-      "date": "2026-09-07T15:01:44.000Z",
-      "description": "... ChatGPT pour les ados. Des capacités inédites en cybersécurité sous haute surveillance. Apparemment, le modèle montre un talent inégalé dans le...",
-      "excerpt": "... ChatGPT pour les ados. Des capacités inédites en cybersécurité sous haute surveillance. Apparemment, le modèle montre un talent inégalé dans le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-6 Astra: jusqu'à 33 dollars pour un prompt (et ce n'est pas le plus cher d'OpenAI)",
-      "link": "https://www.lefilia.fr/article/6129749-gpt-6-astra-jusqu-a-33-dollars-pour-un-prompt-et-ce-n-est-pas-le-plus-cher-d-openai",
-      "url": "https://www.lefilia.fr/article/6129749-gpt-6-astra-jusqu-a-33-dollars-pour-un-prompt-et-ce-n-est-pas-le-plus-cher-d-openai",
-      "publishedAt": "2026-09-07T14:44:49.000Z",
-      "date": "2026-09-07T14:44:49.000Z",
-      "description": "... ChatGPT Plus, Pro, Business et Enterprise. Sur l'API, ce modèle est... GPT-5.6 Sol, qui détenait jusque là le record de prix chez OpenAI...",
-      "excerpt": "... ChatGPT Plus, Pro, Business et Enterprise. Sur l'API, ce modèle est... GPT-5.6 Sol, qui détenait jusque là le record de prix chez OpenAI...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA & recrutement: des messages cachés dans les CV - Solutions-Numeriques",
-      "link": "https://www.solutions-numeriques.com/ia-recrutement-des-messages-caches-dans-les-cv/",
-      "url": "https://www.solutions-numeriques.com/ia-recrutement-des-messages-caches-dans-les-cv/",
-      "publishedAt": "2026-09-07T12:57:17.000Z",
-      "date": "2026-09-07T12:57:17.000Z",
-      "description": "➜ ChatGPT veut apprendre à écrire comme vous à partir de vos applications connectées... Guide Cybersécurité. Découvrez la version numérique.",
-      "excerpt": "➜ ChatGPT veut apprendre à écrire comme vous à partir de vos applications connectées... Guide Cybersécurité. Découvrez la version numérique.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
