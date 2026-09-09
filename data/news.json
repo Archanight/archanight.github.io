@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T20:29:27.434Z",
+  "generatedAt": "2026-09-09T02:11:53.184Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,56 @@
   "failedSources": [],
   "items": [
     {
+      "title": "ChatGPT Images 2.5 accélère la génération d'images - Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-images-2-5-accelere-la-generation-d-images",
+      "url": "https://www.briefia.fr/article/chatgpt-images-2-5-accelere-la-generation-d-images",
+      "publishedAt": "2026-09-09T01:43:11.000Z",
+      "date": "2026-09-09T01:43:11.000Z",
+      "description": "Images 2.5 est disponible pour tous les utilisateurs de ChatGPT, Work et Codex, ainsi que via l'API avec deux modèles, Flare et Sunburst La...",
+      "excerpt": "Images 2.5 est disponible pour tous les utilisateurs de ChatGPT, Work et Codex, ainsi que via l'API avec deux modèles, Flare et Sunburst La...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Images 2.5: OpenAI accélère encore la course à l'image générée - iPhoneSoft",
+      "link": "https://iphonesoft.fr/2026/09/09/chatgpt-images-2-5-openai-accelere-course-image-generee",
+      "url": "https://iphonesoft.fr/2026/09/09/chatgpt-images-2-5-openai-accelere-course-image-generee",
+      "publishedAt": "2026-09-09T00:05:43.000Z",
+      "date": "2026-09-09T00:05:43.000Z",
+      "description": "OpenAI accélère encore dans l'image générée par IA avec ChatGPT Images 2.5. Lancée moins de cinq mois après la version 2.0, cette nouvelle mouture...",
+      "excerpt": "OpenAI accélère encore dans l'image générée par IA avec ChatGPT Images 2.5. Lancée moins de cinq mois après la version 2.0, cette nouvelle mouture...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Avis sur You.com: API de recherche pour les agents IA - Quasa.io",
+      "link": "https://quasa.io/fr/video/avis-sur-youcom-api-de-recherche-pour-les-agents-ia",
+      "url": "https://quasa.io/fr/video/avis-sur-youcom-api-de-recherche-pour-les-agents-ia",
+      "publishedAt": "2026-09-08T23:04:54.000Z",
+      "date": "2026-09-08T23:04:54.000Z",
+      "description": "... ChatGPT ». Le SOC 2, la conservation zéro des données (ZDR) et le QPS personnalisé constituent l'argumentaire entreprise. La latence et les...",
+      "excerpt": "... ChatGPT ». Le SOC 2, la conservation zéro des données (ZDR) et le QPS personnalisé constituent l'argumentaire entreprise. La latence et les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le GPT-6 Astra d'OpenAI atteint la disponibilité générale sur Amazon Bedrock - Unite.AI",
+      "link": "https://www.unite.ai/fr/openais-gpt-6-astra-reaches-general-availability-on-amazon-bedrock/",
+      "url": "https://www.unite.ai/fr/openais-gpt-6-astra-reaches-general-availability-on-amazon-bedrock/",
+      "publishedAt": "2026-09-08T22:49:42.000Z",
+      "date": "2026-09-08T22:49:42.000Z",
+      "description": "AWS a déclaré qu'Astra est le premier modèle d'OpenAI à atteindre la classification Critique du cadre pour la capacité en cybersécurité... ChatGPT Work...",
+      "excerpt": "AWS a déclaré qu'Astra est le premier modèle d'OpenAI à atteindre la classification Critique du cadre pour la capacité en cybersécurité... ChatGPT Work...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Lancement de GPT-6 Astra: le nouveau modèle d'OpenAI inaugure l'ère de l'AGI, selon le...",
+      "link": "https://www.indexbox.io/fr/blog/openai-unveils-gpt-6-astra-jensen-huang-declares-agi-era-has-arrived/",
+      "url": "https://www.indexbox.io/fr/blog/openai-unveils-gpt-6-astra-jensen-huang-declares-agi-era-has-arrived/",
+      "publishedAt": "2026-09-08T21:40:43.000Z",
+      "date": "2026-09-08T21:40:43.000Z",
+      "description": "Le déploiement a commencé avec les clients d'entreprise ayant accès à Daybreak, et il est également étendu aux utilisateurs de ChatGPT Plus, Pro,...",
+      "excerpt": "Le déploiement a commencé avec les clients d'entreprise ayant accès à Daybreak, et il est également étendu aux utilisateurs de ChatGPT Plus, Pro,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "OpenAI lance ChatGPT Images 2.5 avec Sketch et deux nouveaux modèles API - Unite.AI",
       "link": "https://www.unite.ai/fr/openai-releases-chatgpt-images-2-5-with-sketch-and-two-new-api-models/",
       "url": "https://www.unite.ai/fr/openai-releases-chatgpt-images-2-5-with-sketch-and-two-new-api-models/",
@@ -18,6 +68,26 @@
       "description": "Dans le cadre du Preparedness Framework d'OpenAI, qui suit les risques biologiques et chimiques, la cybersécurité et l'auto‑amélioration de l'IA...",
       "excerpt": "Dans le cadre du Preparedness Framework d'OpenAI, qui suit les risques biologiques et chimiques, la cybersécurité et l'auto‑amélioration de l'IA...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT teste l'imitation de style via vos applis connectées - Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-teste-l-imitation-de-style-via-vos-applis-connectees",
+      "url": "https://www.briefia.fr/article/chatgpt-teste-l-imitation-de-style-via-vos-applis-connectees",
+      "publishedAt": "2026-09-08T19:23:08.000Z",
+      "date": "2026-09-08T19:23:08.000Z",
+      "description": "ChatGPT, développé par OpenAI, utilise GPT-4 pour offrir des interactions en langage naturel d'une précision inédite. • Entraîné sur des données...",
+      "excerpt": "ChatGPT, développé par OpenAI, utilise GPT-4 pour offrir des interactions en langage naturel d'une précision inédite. • Entraîné sur des données...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT Images 2.5: transformez vos croquis en illustrations ou laissez l'IA décider pour vous",
+      "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3239693_chatgpt-images-2-5-transformez-vos-croquis-en-illustrations-ou-laissez-lia-decider-pour-vous",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3239693_chatgpt-images-2-5-transformez-vos-croquis-en-illustrations-ou-laissez-lia-decider-pour-vous",
+      "publishedAt": "2026-09-08T19:03:50.000Z",
+      "date": "2026-09-08T19:03:50.000Z",
+      "description": "De quoi créer plus vite, mais aussi produire des visuels qui se ressemblent de plus en plus. ChatGPT Images 2.5 // Source: OpenAI. Chez OpenAI, les...",
+      "excerpt": "De quoi créer plus vite, mais aussi produire des visuels qui se ressemblent de plus en plus. ChatGPT Images 2.5 // Source: OpenAI. Chez OpenAI, les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "L'action d'Oracle augmente alors qu'OpenAI lance ChatGPT -6 Astra - Quartz",
@@ -58,76 +128,6 @@
       "description": "Les clients de ChatGPT Business peuvent désormais choisir l'Europe comme région de résidence de leurs données.",
       "excerpt": "Les clients de ChatGPT Business peuvent désormais choisir l'Europe comme région de résidence de leurs données.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT teste l'imitation de style via vos applis connectées - Brief IA",
-      "link": "https://www.briefia.fr/article/chatgpt-teste-l-imitation-de-style-via-vos-applis-connectees",
-      "url": "https://www.briefia.fr/article/chatgpt-teste-l-imitation-de-style-via-vos-applis-connectees",
-      "publishedAt": "2026-09-08T13:23:07.000Z",
-      "date": "2026-09-08T13:23:07.000Z",
-      "description": "OpenAI teste une fonction permettant à ChatGPT d'imiter le style d'écriture de l'utilisateur à partir de contenus issus d'applications connectées...",
-      "excerpt": "OpenAI teste une fonction permettant à ChatGPT d'imiter le style d'écriture de l'utilisateur à partir de contenus issus d'applications connectées...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "des élèves réagissent au classement Pisa, dont les résultats figurent parmi les plus bas...",
-      "link": "https://actu.orange.fr/videos/societe/je-ne-lis-pas-souvent-je-regarde-des-resumes-sur-chatgpt-des-eleves-reagissent-au-classement-pisa-dont-les-resultats-figurent-parmi-les-plus-bas-jamais-enregistres-en-france-CNT000002rMAPv.html",
-      "url": "https://actu.orange.fr/videos/societe/je-ne-lis-pas-souvent-je-regarde-des-resumes-sur-chatgpt-des-eleves-reagissent-au-classement-pisa-dont-les-resultats-figurent-parmi-les-plus-bas-jamais-enregistres-en-france-CNT000002rMAPv.html",
-      "publishedAt": "2026-09-08T13:15:16.000Z",
-      "date": "2026-09-08T13:15:16.000Z",
-      "description": "Cybersécurité et Télésurveillance. Offre pour les jeunes. +... \"Je ne lis pas souvent, je regarde des résumés sur ChatGPT \": des élèves...",
-      "excerpt": "Cybersécurité et Télésurveillance. Offre pour les jeunes. +... \"Je ne lis pas souvent, je regarde des résumés sur ChatGPT \": des élèves...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT a construit son propre index de recherche - Abondance",
-      "link": "https://www.abondance.com/20260908-2889490-chatgpt-openai-contruction-index-de-recherche.html",
-      "url": "https://www.abondance.com/20260908-2889490-chatgpt-openai-contruction-index-de-recherche.html",
-      "publishedAt": "2026-09-08T13:14:22.000Z",
-      "date": "2026-09-08T13:14:22.000Z",
-      "description": "Un témoignage de Nick Turley (responsable de ChatGPT ) lors du procès antitrust de Google confirme que ce projet remonte à 2023, avec un objectif...",
-      "excerpt": "Un témoignage de Nick Turley (responsable de ChatGPT ) lors du procès antitrust de Google confirme que ce projet remonte à 2023, avec un objectif...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "« Personne n'est préparé »: OpenAI admet perdre le contrôle de ses IA - 01net.com",
-      "link": "https://www.01net.com/actualites/personne-prepare-openai-admet-perdre-controle-ia.html",
-      "url": "https://www.01net.com/actualites/personne-prepare-openai-admet-perdre-controle-ia.html",
-      "publishedAt": "2026-09-08T12:05:59.000Z",
-      "date": "2026-09-08T12:05:59.000Z",
-      "description": "Le chercheur estime que « personne n'est préparé » aux conséquences des progrès de l'IA, notamment en matière de cybersécurité.... ChatGPT.",
-      "excerpt": "Le chercheur estime que « personne n'est préparé » aux conséquences des progrès de l'IA, notamment en matière de cybersécurité.... ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT peut désormais imiter votre style d'écriture en se connectant à vos applications...",
-      "link": "https://www.clubic.com/actualite-628759-chatgpt-peut-desormais-imiter-votre-style-d-ecriture-en-se-connectant-a-vos-applications-personnelles.html",
-      "url": "https://www.clubic.com/actualite-628759-chatgpt-peut-desormais-imiter-votre-style-d-ecriture-en-se-connectant-a-vos-applications-personnelles.html",
-      "publishedAt": "2026-09-08T12:01:07.000Z",
-      "date": "2026-09-08T12:01:07.000Z",
-      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... ChatGPT peut désormais imiter votre style d'écriture en se connectant...",
-      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... ChatGPT peut désormais imiter votre style d'écriture en se connectant...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des hackers russes cachent un prompt sur les armes nucléaires dans un malware pour...",
-      "link": "https://pasqualepillitteri.it/fr/news/15094/guardbreaker-prompt-armes-nucleaires-ia",
-      "url": "https://pasqualepillitteri.it/fr/news/15094/guardbreaker-prompt-armes-nucleaires-ia",
-      "publishedAt": "2026-09-08T11:44:15.000Z",
-      "date": "2026-09-08T11:44:15.000Z",
-      "description": "cybersécurité prompt injection GuardBreaker UAC-0099 ESET analyse de... ChatGPT Lockdown Mode: le Bouclier d'OpenAI Contre la Prompt Injection.",
-      "excerpt": "cybersécurité prompt injection GuardBreaker UAC-0099 ESET analyse de... ChatGPT Lockdown Mode: le Bouclier d'OpenAI Contre la Prompt Injection.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI aurait renommé ses fichiers de livres piratés pour effacer leurs traces, la justice a...",
-      "link": "https://www.phonandroid.com/openai-aurait-renomme-ses-fichiers-de-livres-pirates-pour-effacer-leurs-traces-la-justice-a-tout-retrouve.html",
-      "url": "https://www.phonandroid.com/openai-aurait-renomme-ses-fichiers-de-livres-pirates-pour-effacer-leurs-traces-la-justice-a-tout-retrouve.html",
-      "publishedAt": "2026-09-08T11:10:54.000Z",
-      "date": "2026-09-08T11:10:54.000Z",
-      "description": "Une procédure judiciaire américaine accuse OpenAI d'avoir entraîné ChatGPT sur des livres piratés avant d'effacer les fichiers... Cybersécurité...",
-      "excerpt": "Une procédure judiciaire américaine accuse OpenAI d'avoir entraîné ChatGPT sur des livres piratés avant d'effacer les fichiers... Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
