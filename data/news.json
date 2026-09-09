@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T15:34:26.595Z",
+  "generatedAt": "2026-09-09T20:12:14.539Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,66 @@
   "failedSources": [],
   "items": [
     {
+      "title": "NotebookLM vs ChatGPT vs Perplexity: Comparatif 2026 - Tech Insider",
+      "link": "https://tech-insider.org/fr/notebooklm-vs-chatgpt-vs-perplexity-2026/",
+      "url": "https://tech-insider.org/fr/notebooklm-vs-chatgpt-vs-perplexity-2026/",
+      "publishedAt": "2026-09-09T17:53:49.000Z",
+      "date": "2026-09-09T17:53:49.000Z",
+      "description": "... ChatGPT ”. Depuis que Google a rebâti l'outil autour de Gemini 3 et... notes de version publiées au cours des dernières semaines, consultées...",
+      "excerpt": "... ChatGPT ”. Depuis que Google a rebâti l'outil autour de Gemini 3 et... notes de version publiées au cours des dernières semaines, consultées...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI et Samsung partenaires pour des puces IA de nouvelle génération - Clubic",
+      "link": "https://www.clubic.com/actualite-628999-openai-et-samsung-partenaires-pour-des-puces-ia-de-nouvelle-generation.html",
+      "url": "https://www.clubic.com/actualite-628999-openai-et-samsung-partenaires-pour-des-puces-ia-de-nouvelle-generation.html",
+      "publishedAt": "2026-09-09T16:51:43.000Z",
+      "date": "2026-09-09T16:51:43.000Z",
+      "description": "Si OpenAI est le créateur de ChatGPT, la firme de Sam Altman a aussi... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
+      "excerpt": "Si OpenAI est le créateur de ChatGPT, la firme de Sam Altman a aussi... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Rentrée 2026: Edvantis fait entrer l'IA et la Data dans toutes ses formations - Le Matin",
+      "link": "https://lematin.ma/enseignement/edvantis-fait-entrer-lia-et-la-data-dans-toutes-ses-formations/364332/amp",
+      "url": "https://lematin.ma/enseignement/edvantis-fait-entrer-lia-et-la-data-dans-toutes-ses-formations/364332/amp",
+      "publishedAt": "2026-09-09T16:44:40.000Z",
+      "date": "2026-09-09T16:44:40.000Z",
+      "description": "e.s, une nouvelle Licence Informatique & Systèmes Numériques associe informatique, intelligence artificielle, Data, réseaux et cybersécurité... ChatGPT...",
+      "excerpt": "e.s, une nouvelle Licence Informatique & Systèmes Numériques associe informatique, intelligence artificielle, Data, réseaux et cybersécurité... ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI: ChatGPT Work imite votre style d'écriture - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-chatgpt-work-imite-votre-style-d-ecriture",
+      "url": "https://www.briefia.fr/article/openai-chatgpt-work-imite-votre-style-d-ecriture",
+      "publishedAt": "2026-09-09T16:23:13.000Z",
+      "date": "2026-09-09T16:23:13.000Z",
+      "description": "ChatGPT Work propose une fonction qui apprend et imite le style d'écriture de l'utilisateur L'activation se fait via les paramètres web et...",
+      "excerpt": "ChatGPT Work propose une fonction qui apprend et imite le style d'écriture de l'utilisateur L'activation se fait via les paramètres web et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "iPhone Duo: j'ai créé un rendu à partir d'un simple croquis enfantin avec ChatGPT, c'est bluffant",
+      "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3240229_chatgpt-ma-bluffe-jai-cree-un-rendu-de-liphone-duo-avec-un-simple-croquis-dun-enfant-de-4-ans",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3240229_chatgpt-ma-bluffe-jai-cree-un-rendu-de-liphone-duo-avec-un-simple-croquis-dun-enfant-de-4-ans",
+      "publishedAt": "2026-09-09T15:34:43.000Z",
+      "date": "2026-09-09T15:34:43.000Z",
+      "description": "J'ai utilisé la puissance de ChatGPT Images 2.5 pour transformer un croquis enfantin fait à la main en rendu crédible de l'iPhone Duo.",
+      "excerpt": "J'ai utilisé la puissance de ChatGPT Images 2.5 pour transformer un croquis enfantin fait à la main en rendu crédible de l'iPhone Duo.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT a fait croire à cet homme qu'il était Jésus - Korben",
+      "link": "https://korben.info/chatgpt-a-fait-croire-a-cet-homme-quil-etait-jesus.html",
+      "url": "https://korben.info/chatgpt-a-fait-croire-a-cet-homme-quil-etait-jesus.html",
+      "publishedAt": "2026-09-09T15:20:38.000Z",
+      "date": "2026-09-09T15:20:38.000Z",
+      "description": "Michael Lines avait dit à ChatGPT qu'il craignait de se perdre dans un délire, et c'est parti en sucette... Les métiers de la Cybersécurité et de l'...",
+      "excerpt": "Michael Lines avait dit à ChatGPT qu'il craignait de se perdre dans un délire, et c'est parti en sucette... Les métiers de la Cybersécurité et de l'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "ChatGPT peut fouiller dans vos mails et vos documents pour apprendre à écrire comme vous",
       "link": "https://siecledigital.fr/2026/09/09/chatgpt-peut-fouiller-dans-vos-mails-et-vos-documents-pour-apprendre-a-ecrire-comme-vous/",
       "url": "https://siecledigital.fr/2026/09/09/chatgpt-peut-fouiller-dans-vos-mails-et-vos-documents-pour-apprendre-a-ecrire-comme-vous/",
@@ -18,6 +78,16 @@
       "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT peut fouiller...",
       "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT peut fouiller...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "iOS 26.6.2 est disponible: un correctif utile avant l'arrivée d'iOS 27 - JustGeek",
+      "link": "https://www.justgeek.fr/ios-26-6-2-mise-a-jour-157991/",
+      "url": "https://www.justgeek.fr/ios-26-6-2-mise-a-jour-157991/",
+      "publishedAt": "2026-09-09T14:43:40.000Z",
+      "date": "2026-09-09T14:43:40.000Z",
+      "description": "Dans les notes de version, Apple indique: « Cette mise à jour résout... OpenAI vient de lancer ChatGPT Images 2.5, une nouvelle version de...",
+      "excerpt": "Dans les notes de version, Apple indique: « Cette mise à jour résout... OpenAI vient de lancer ChatGPT Images 2.5, une nouvelle version de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "OpenAI dit avoir résolu l'équation de Navier-Stokes restée sans réponse depuis 90 ans",
@@ -30,6 +100,26 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Réalisez vos projets les plus ambitieux avec GPT-6 Astra sur Amazon Bedrock - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6137371-realisez-vos-projets-les-plus-ambitieux-avec-gpt-6-astra-sur-amazon-bedrock",
+      "url": "https://www.lefilia.fr/article/6137371-realisez-vos-projets-les-plus-ambitieux-avec-gpt-6-astra-sur-amazon-bedrock",
+      "publishedAt": "2026-09-09T14:29:22.000Z",
+      "date": "2026-09-09T14:29:22.000Z",
+      "description": "... ChatGPT Work et Codex. Il dispose d'une fenêtre de contexte pouvant... cybersécurité, ce qui déclenche une surveillance automatisée en temps...",
+      "excerpt": "... ChatGPT Work et Codex. Il dispose d'une fenêtre de contexte pouvant... cybersécurité, ce qui déclenche une surveillance automatisée en temps...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Sketch transforme vos dessins maladroits en images IA détaillées - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6137788-chatgpt-sketch-transforme-vos-dessins-maladroits-en-images-ia-detaillees",
+      "url": "https://www.lefilia.fr/article/6137788-chatgpt-sketch-transforme-vos-dessins-maladroits-en-images-ia-detaillees",
+      "publishedAt": "2026-09-09T14:29:20.000Z",
+      "date": "2026-09-09T14:29:20.000Z",
+      "description": "OpenAI a annoncé mardi le déploiement de ChatGPT Images 2.5, une mise à jour qui introduit un nouvel outil baptisé Sketch... Cybersécurité IA...",
+      "excerpt": "OpenAI a annoncé mardi le déploiement de ChatGPT Images 2.5, une mise à jour qui introduit un nouvel outil baptisé Sketch... Cybersécurité IA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "OpenAI dévoile ChatGPT Images 2.5: le générateur d'images passe à la vitesse supérieure",
       "link": "https://www.01net.com/actualites/openai-devoile-chatgpt-images-2-5-le-generateur-dimages-passe-a-la-vitesse-superieure.html",
       "url": "https://www.01net.com/actualites/openai-devoile-chatgpt-images-2-5-le-generateur-dimages-passe-a-la-vitesse-superieure.html",
@@ -38,96 +128,6 @@
       "description": "Le principe de l'outil Sketch est simple: l'utilisateur dessine un croquis directement dans ChatGPT et le modèle le transforme ensuite en une image...",
       "excerpt": "Le principe de l'outil Sketch est simple: l'utilisateur dessine un croquis directement dans ChatGPT et le modèle le transforme ensuite en une image...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Premières images Artificial: Andrew Garfield incarne le créateur de ChatGPT dans ce film...",
-      "link": "https://divertissements.orange.fr/cinema-series/toutes-les-actus-cinema/premieres-images-artificial-andrew-garfield-incarne-le-createur-de-chatgpt-dans-ce-film-qui-fait-deja-polemique-CNT000002rOlFI.html",
-      "url": "https://divertissements.orange.fr/cinema-series/toutes-les-actus-cinema/premieres-images-artificial-andrew-garfield-incarne-le-createur-de-chatgpt-dans-ce-film-qui-fait-deja-polemique-CNT000002rOlFI.html",
-      "publishedAt": "2026-09-09T12:43:48.000Z",
-      "date": "2026-09-09T12:43:48.000Z",
-      "description": "Cybersécurité et Télésurveillance. Offre pour les jeunes. +rɘsponsable... Premières images Artificial: Andrew Garfield incarne le créateur de ChatGPT...",
-      "excerpt": "Cybersécurité et Télésurveillance. Offre pour les jeunes. +rɘsponsable... Premières images Artificial: Andrew Garfield incarne le créateur de ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI affirme avoir résolu l'équation mathématique de Navier-Stokes, un défi vieux... - franceinfo",
-      "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/openai-affirme-avoir-resolu-l-equation-mathematique-de-navier-stokes-un-defi-vieux-de-deux-siecles-mais-la-prouesse-fait-polemique_8168348.html",
-      "url": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/openai-affirme-avoir-resolu-l-equation-mathematique-de-navier-stokes-un-defi-vieux-de-deux-siecles-mais-la-prouesse-fait-polemique_8168348.html",
-      "publishedAt": "2026-09-09T12:37:32.000Z",
-      "date": "2026-09-09T12:37:32.000Z",
-      "description": "OpenAI déploie ChatGPT -6, cette nouvelle version inquiète en matière de cybersécurité. Des soupçons de plagiat. Il y a peut-être triche! Un duo de...",
-      "excerpt": "OpenAI déploie ChatGPT -6, cette nouvelle version inquiète en matière de cybersécurité. Des soupçons de plagiat. Il y a peut-être triche! Un duo de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT a résolu une équation vieille de 200 ans, mais un mathématicien accuse OpenAI de plagiat",
-      "link": "https://www.01net.com/actualites/openai-revele-chatgpt-resolu-equation-vieille-200-ans-mathematicien-accuse-plagiat.html",
-      "url": "https://www.01net.com/actualites/openai-revele-chatgpt-resolu-equation-vieille-200-ans-mathematicien-accuse-plagiat.html",
-      "publishedAt": "2026-09-09T12:32:21.000Z",
-      "date": "2026-09-09T12:32:21.000Z",
-      "description": "ChatGPT a résolu une équation vieille de 200 ans, mais un... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "excerpt": "ChatGPT a résolu une équation vieille de 200 ans, mais un... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Radisson veut simplifier la recherche de séjours grâce à ChatGPT - InfoMagazine Maroc",
-      "link": "https://www.infomagazine.ma/hotellerie/radisson-veut-simplifier-la-recherche-de-sejours-grace-a-chatgpt-17212-2026/",
-      "url": "https://www.infomagazine.ma/hotellerie/radisson-veut-simplifier-la-recherche-de-sejours-grace-a-chatgpt-17212-2026/",
-      "publishedAt": "2026-09-09T12:14:06.000Z",
-      "date": "2026-09-09T12:14:06.000Z",
-      "description": "Radisson veut simplifier la recherche de séjours grâce à ChatGPT... Cybersécurité: Orange Maroc appelle à changer d'échelle · Cybersécurité...",
-      "excerpt": "Radisson veut simplifier la recherche de séjours grâce à ChatGPT... Cybersécurité: Orange Maroc appelle à changer d'échelle · Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Menaces & IA: 14 dérives et avancées clés du 9 septembre 2026 (dont OpenAI)",
-      "link": "https://dcod.ch/2026/09/09/menaces-ia-14-derives-et-avancees-cles-du-9-septembre-2026-dont-openai/",
-      "url": "https://dcod.ch/2026/09/09/menaces-ia-14-derives-et-avancees-cles-du-9-septembre-2026-dont-openai/",
-      "publishedAt": "2026-09-09T12:02:42.000Z",
-      "date": "2026-09-09T12:02:42.000Z",
-      "description": "ChatGPT est désormais visé par le Digital Services Act, tandis que... Illustration de cybersécurité montrant un hacker tapant sur un ordinateur...",
-      "excerpt": "ChatGPT est désormais visé par le Digital Services Act, tandis que... Illustration de cybersécurité montrant un hacker tapant sur un ordinateur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Images 2.5 renforce l'avance d'OpenAI sur l'image IA - InformatiqueNews.fr",
-      "link": "https://www.informatiquenews.fr/chatgpt-images-2-5-corrige-le-principal-defaut-des-generateurs-dimages-ia-en-apprenant-enfin-a-ne-plus-tout-casser-113431",
-      "url": "https://www.informatiquenews.fr/chatgpt-images-2-5-corrige-le-principal-defaut-des-generateurs-dimages-ia-en-apprenant-enfin-a-ne-plus-tout-casser-113431",
-      "publishedAt": "2026-09-09T11:56:15.000Z",
-      "date": "2026-09-09T11:56:15.000Z",
-      "description": "... Le téléphone IP entre dans l'ère de l'IA et de la... ChatGPT utilise ChatGPT Images 2.5, tandis que l'API propose deux déclinaisons.",
-      "excerpt": "... Le téléphone IP entre dans l'ère de l'IA et de la... ChatGPT utilise ChatGPT Images 2.5, tandis que l'API propose deux déclinaisons.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile ChatGPT Images 2.5, son nouveau modèle de pointe pour la génération d... - BDM",
-      "link": "https://www.blogdumoderateur.com/openai-devoile-chatgpt-images-2-5/",
-      "url": "https://www.blogdumoderateur.com/openai-devoile-chatgpt-images-2-5/",
-      "publishedAt": "2026-09-09T11:14:40.000Z",
-      "date": "2026-09-09T11:14:40.000Z",
-      "description": "Google OpenAI Développement Réglementation Interviews SEO Anthropic Productivité Cybersécurité Transformation digitale Meta Design.",
-      "excerpt": "Google OpenAI Développement Réglementation Interviews SEO Anthropic Productivité Cybersécurité Transformation digitale Meta Design.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Bolt intègre la réservation de courses directement dans ChatGPT",
-      "link": "https://www.techafrika.net/Bolt-integre-la-reservation-de-courses-directement-dans-ChatGPT_a2439.html",
-      "url": "https://www.techafrika.net/Bolt-integre-la-reservation-de-courses-directement-dans-ChatGPT_a2439.html",
-      "publishedAt": "2026-09-09T11:13:13.000Z",
-      "date": "2026-09-09T11:13:13.000Z",
-      "description": "La plateforme de VTC Bolt a annoncé l'intégration de ses services de réservation de courses avec ChatGPT... Cybersécurité Dakar Drone e-commerce...",
-      "excerpt": "La plateforme de VTC Bolt a annoncé l'intégration de ses services de réservation de courses avec ChatGPT... Cybersécurité Dakar Drone e-commerce...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Artificial: le teaser du film sur ChatGPT et OpenAI promet un nouveau The Social Network",
-      "link": "https://www.lesnumeriques.com/cine-svod/artificial-le-teaser-du-film-sur-chatgpt-et-openai-promet-un-nouveau-the-social-network-n261576.html",
-      "url": "https://www.lesnumeriques.com/cine-svod/artificial-le-teaser-du-film-sur-chatgpt-et-openai-promet-un-nouveau-the-social-network-n261576.html",
-      "publishedAt": "2026-09-09T10:26:46.000Z",
-      "date": "2026-09-09T10:26:46.000Z",
-      "description": "Artificial, le long-métrage sur la création de ChatGPT avec Andrew Garfield dans le rôle de Sam Altman, vient de sortir un premier teaser à la...",
-      "excerpt": "Artificial, le long-métrage sur la création de ChatGPT avec Andrew Garfield dans le rôle de Sam Altman, vient de sortir un premier teaser à la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
