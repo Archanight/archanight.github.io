@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T15:30:17.260Z",
+  "generatedAt": "2026-09-10T20:13:56.964Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,106 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI lance ChatGPT pour les services financiers avec des données intégrées - Unite.AI",
+      "link": "https://www.unite.ai/fr/openai-launches-chatgpt-for-financial-services-with-built-in-data/",
+      "url": "https://www.unite.ai/fr/openai-launches-chatgpt-for-financial-services-with-built-in-data/",
+      "publishedAt": "2026-09-10T18:07:56.000Z",
+      "date": "2026-09-10T18:07:56.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... OpenAI a lancé le 10 septembre 2026 ChatGPT pour les services financiers, une...",
+      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... OpenAI a lancé le 10 septembre 2026 ChatGPT pour les services financiers, une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT‑Live‑1 d'OpenAI arrive dans l'API à 0,05 $ par minute - Unite.AI",
+      "link": "https://www.unite.ai/fr/openais-gpt-live-1-arrives-in-the-api-at-0-05-per-minute/",
+      "url": "https://www.unite.ai/fr/openais-gpt-live-1-arrives-in-the-api-at-0-05-per-minute/",
+      "publishedAt": "2026-09-10T18:07:55.000Z",
+      "date": "2026-09-10T18:07:55.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT Work. Pour la version API, l'entreprise a déclaré s'être...",
+      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT Work. Pour la version API, l'entreprise a déclaré s'être...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance GPT-6 Astra pour la cybersécurité - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-lance-gpt-6-astra-pour-la-cybersecurite",
+      "url": "https://www.briefia.fr/article/openai-lance-gpt-6-astra-pour-la-cybersecurite",
+      "publishedAt": "2026-09-10T17:23:24.000Z",
+      "date": "2026-09-10T17:23:24.000Z",
+      "description": "... GPT-5 Des réserves persistent sur les garde-fous, la transparence et la... États-Unis: OpenAI offre ChatGPT aux administrations à 0 $.",
+      "excerpt": "... GPT-5 Des réserves persistent sur les garde-fous, la transparence et la... États-Unis: OpenAI offre ChatGPT aux administrations à 0 $.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "États-Unis: OpenAI offre ChatGPT aux administrations à 0 $ | Brief IA",
+      "link": "https://www.briefia.fr/article/etats-unis-openai-offre-chatgpt-aux-administrations-a-0",
+      "url": "https://www.briefia.fr/article/etats-unis-openai-offre-chatgpt-aux-administrations-a-0",
+      "publishedAt": "2026-09-10T16:58:39.000Z",
+      "date": "2026-09-10T16:58:39.000Z",
+      "description": "... cybersécurité pour les défenseurs du secteur public. Aux CDC, la... En Caroline du Nord, le Trésor de l'État s'est appuyé sur ChatGPT pour...",
+      "excerpt": "... cybersécurité pour les défenseurs du secteur public. Aux CDC, la... En Caroline du Nord, le Trésor de l'État s'est appuyé sur ChatGPT pour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Piégés à plus de 4000 m d'altitude: comment Gemini a conduit trois randonneurs en plein calvaire",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/pieges-a-plus-de-4000-m-d-altitude-comment-gemini-a-conduit-trois-randonneurs-en-plein-calvaire-n261474.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/pieges-a-plus-de-4000-m-d-altitude-comment-gemini-a-conduit-trois-randonneurs-en-plein-calvaire-n261474.html",
+      "publishedAt": "2026-09-10T16:55:04.000Z",
+      "date": "2026-09-10T16:55:04.000Z",
+      "description": "On se souvient en effet d'une mésaventure similaire survenue cet été dans les Pyrénées, où deux jeunes randonneuses avaient utilisé ChatGPT pour...",
+      "excerpt": "On se souvient en effet d'une mésaventure similaire survenue cet été dans les Pyrénées, où deux jeunes randonneuses avaient utilisé ChatGPT pour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Terminator, le chiffon rouge agité par les éditeurs d'IA - L'Humanité",
+      "link": "https://www.humanite.fr/social-et-economie/intelligence-artificielle/terminator-le-chiffon-rouge-agite-par-les-editeurs-dia",
+      "url": "https://www.humanite.fr/social-et-economie/intelligence-artificielle/terminator-le-chiffon-rouge-agite-par-les-editeurs-dia",
+      "publishedAt": "2026-09-10T16:42:05.000Z",
+      "date": "2026-09-10T16:42:05.000Z",
+      "description": "La stratégie des éditeurs d'IA a toujours été, dès la sortie du premier modèle de ChatGPT en 2022, de nous sidérer. © iStock. Pourquoi les...",
+      "excerpt": "La stratégie des éditeurs d'IA a toujours été, dès la sortie du premier modèle de ChatGPT en 2022, de nous sidérer. © iStock. Pourquoi les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Amazon s'apprêterait à autoriser ses annonceurs à diffuser des publicités sur ChatGPT d'OpenAI",
+      "link": "https://www.zonebourse.com/actualite-bourse/amazon-s-appreterait-a-autoriser-ses-annonceurs-a-diffuser-des-publicites-sur-chatgpt-d-openai-ce785bdede8df12d",
+      "url": "https://www.zonebourse.com/actualite-bourse/amazon-s-appreterait-a-autoriser-ses-annonceurs-a-diffuser-des-publicites-sur-chatgpt-d-openai-ce785bdede8df12d",
+      "publishedAt": "2026-09-10T16:23:31.000Z",
+      "date": "2026-09-10T16:23:31.000Z",
+      "description": "Amazon s'apprêterait à autoriser ses annonceurs à diffuser des publicités sur ChatGPT d'OpenAI... Anthropic accorde à l'agence de cybersécurité de l'UE...",
+      "excerpt": "Amazon s'apprêterait à autoriser ses annonceurs à diffuser des publicités sur ChatGPT d'OpenAI... Anthropic accorde à l'agence de cybersécurité de l'UE...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI présente l'agent de données dans ChatGPT Work pour analyser les données d'entreprise",
+      "link": "https://www.unite.ai/fr/openai-introduces-data-agent-in-chatgpt-work-to-analyze-company-data/",
+      "url": "https://www.unite.ai/fr/openai-introduces-data-agent-in-chatgpt-work-to-analyze-company-data/",
+      "publishedAt": "2026-09-10T16:10:32.000Z",
+      "date": "2026-09-10T16:10:32.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... OpenAI présente l'agent de données dans ChatGPT Work pour analyser les données d...",
+      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... OpenAI présente l'agent de données dans ChatGPT Work pour analyser les données d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "21,50€ à vie pour accéder à ChatGPT, Claude et Gemini: cette offre IA mérite de s'y attarder",
+      "link": "https://www.clubic.com/bons-plans-628843-marre-de-payer-plusieurs-abonnements-ia-1min-ai-passe-a-environ-21-50-une-fois-a-vie.html",
+      "url": "https://www.clubic.com/bons-plans-628843-marre-de-payer-plusieurs-abonnements-ia-1min-ai-passe-a-environ-21-50-une-fois-a-vie.html",
+      "publishedAt": "2026-09-10T15:41:56.000Z",
+      "date": "2026-09-10T15:41:56.000Z",
+      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... 21,50€ à vie pour accéder à ChatGPT, Claude et Gemini: cette offre IA...",
+      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... 21,50€ à vie pour accéder à ChatGPT, Claude et Gemini: cette offre IA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Tout le monde a besoin d'une muse - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6144720-tout-le-monde-a-besoin-d-une-muse",
+      "url": "https://www.lefilia.fr/article/6144720-tout-le-monde-a-besoin-d-une-muse",
+      "publishedAt": "2026-09-10T15:06:39.000Z",
+      "date": "2026-09-10T15:06:39.000Z",
+      "description": "OpenAI a dévoilé ChatGPT Images 2.5, un nouveau modèle de génération d... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
+      "excerpt": "OpenAI a dévoilé ChatGPT Images 2.5, un nouveau modèle de génération d... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Amazon ouvre les publicités ChatGPT à ses annonceurs. - Quartz",
       "link": "https://fr.qz.com/amazon-publicitaires-chatgpt-publicits-openai-091026",
@@ -28,106 +128,6 @@
       "description": "Cybersécurité et Télésurveillance. Offre pour les jeunes. +rɘsponsable... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics...",
       "excerpt": "Cybersécurité et Télésurveillance. Offre pour les jeunes. +rɘsponsable... ChatGPT peut désormais contrôler ton ordi?! #shorts. Tous publics...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI fait l'objet d'une enquête du Sénat concernant le piratage de Hugging Face par des...",
-      "link": "https://www.boursorama.com/bourse/actualites-amp/openai-fait-l-objet-d-une-enquete-du-senat-concernant-le-piratage-de-hugging-face-par-des-agents-d-ia-rebelles-aa301c5134e7044d7a6241e336c41cac",
-      "url": "https://www.boursorama.com/bourse/actualites-amp/openai-fait-l-objet-d-une-enquete-du-senat-concernant-le-piratage-de-hugging-face-par-des-agents-d-ia-rebelles-aa301c5134e7044d7a6241e336c41cac",
-      "publishedAt": "2026-09-10T11:04:07.000Z",
-      "date": "2026-09-10T11:04:07.000Z",
-      "description": "Cette enquête fait suite à la révélation par le créateur de ChatGPT que des modèles soumis à des tests internes de cybersécurité avaient contourné...",
-      "excerpt": "Cette enquête fait suite à la révélation par le créateur de ChatGPT que des modèles soumis à des tests internes de cybersécurité avaient contourné...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'UE peut enfin accéder à Mythos, le modèle d'IA le plus puissant d'Anthropic - La Libre",
-      "link": "https://www.lalibre.be/economie/entreprises-startup/2026/09/10/lue-peut-enfin-acceder-a-mythos-le-modele-dia-le-plus-puissant-danthropic-XPMILEHEX5BQPOVC4VRUNWFKAE/",
-      "url": "https://www.lalibre.be/economie/entreprises-startup/2026/09/10/lue-peut-enfin-acceder-a-mythos-le-modele-dia-le-plus-puissant-danthropic-XPMILEHEX5BQPOVC4VRUNWFKAE/",
-      "publishedAt": "2026-09-10T10:55:12.000Z",
-      "date": "2026-09-10T10:55:12.000Z",
-      "description": "\"À la suite de notre collaboration constructive avec Anthropic, nous pouvons confirmer que l'agence européenne pour la cybersécurité... ChatGPT...",
-      "excerpt": "\"À la suite de notre collaboration constructive avec Anthropic, nous pouvons confirmer que l'agence européenne pour la cybersécurité... ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le vrai prix de ChatGPT: notre analyse complète, de GPT-3.5 à GPT-6 - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6144051-le-vrai-prix-de-chatgpt-notre-analyse-complete-de-gpt-3-5-a-gpt-6",
-      "url": "https://www.lefilia.fr/article/6144051-le-vrai-prix-de-chatgpt-notre-analyse-complete-de-gpt-3-5-a-gpt-6",
-      "publishedAt": "2026-09-10T10:48:03.000Z",
-      "date": "2026-09-10T10:48:03.000Z",
-      "description": "... GPT-5 à GPT-5.5, la génération GPT-5.6 introduit trois familles... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "excerpt": "... GPT-5 à GPT-5.5, la génération GPT-5.6 introduit trois familles... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-6 Astra avec Codex: l'IA qui ne se contente plus de vous répondre, elle se met au travail",
-      "link": "https://www.tinynews.be/gpt-6-astra-avec-codex-lia-qui-ne-se-contente-plus-de-vous-repondre-elle-se-met-au-travail/",
-      "url": "https://www.tinynews.be/gpt-6-astra-avec-codex-lia-qui-ne-se-contente-plus-de-vous-repondre-elle-se-met-au-travail/",
-      "publishedAt": "2026-09-10T10:23:51.000Z",
-      "date": "2026-09-10T10:23:51.000Z",
-      "description": "... cybersécurité, sciences et travail professionnel. Mais il faut surtout... OpenAI – Tarifs ChatGPT: détail des différentes formules ChatGPT.",
-      "excerpt": "... cybersécurité, sciences et travail professionnel. Mais il faut surtout... OpenAI – Tarifs ChatGPT: détail des différentes formules ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI durcit la politique publicitaire de ChatGPT pour exclure les produits d'IA concurrents",
-      "link": "https://www.zonebourse.com/actualite-bourse/openai-durcit-la-politique-publicitaire-de-chatgpt-pour-exclure-les-produits-d-ia-concurrents-ce785bdedd8df125",
-      "url": "https://www.zonebourse.com/actualite-bourse/openai-durcit-la-politique-publicitaire-de-chatgpt-pour-exclure-les-produits-d-ia-concurrents-ce785bdedd8df125",
-      "publishedAt": "2026-09-10T10:09:16.000Z",
-      "date": "2026-09-10T10:09:16.000Z",
-      "description": "OpenAI, soutenu par Microsoft, a informé ses partenaires publicitaires qu'il n'accepterait plus de publicités dans ChatGPT pour les produits de...",
-      "excerpt": "OpenAI, soutenu par Microsoft, a informé ses partenaires publicitaires qu'il n'accepterait plus de publicités dans ChatGPT pour les produits de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI fait l'objet d'une enquête du Sénat concernant l'affaire Hugging Face - Boursorama",
-      "link": "https://www.boursorama.com/actualite-economique/actualites-amp/openai-fait-l-objet-d-une-enquete-du-senat-concernant-l-affaire-hugging-face-fb17f939c0eb0baa0637299b32231c76",
-      "url": "https://www.boursorama.com/actualite-economique/actualites-amp/openai-fait-l-objet-d-une-enquete-du-senat-concernant-l-affaire-hugging-face-fb17f939c0eb0baa0637299b32231c76",
-      "publishedAt": "2026-09-10T10:05:47.000Z",
-      "date": "2026-09-10T10:05:47.000Z",
-      "description": "... ChatGPT, selon laquelle des modèles soumis à des tests internes de cybersécurité avaient contourné les contrôles destinés à les isoler d'Internet...",
-      "excerpt": "... ChatGPT, selon laquelle des modèles soumis à des tests internes de cybersécurité avaient contourné les contrôles destinés à les isoler d'Internet...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-6 Astra: une nouvelle génération d'intelligence - OpenAI",
-      "link": "https://openai.com/fr-FR/index/gpt-6-astra/",
-      "url": "https://openai.com/fr-FR/index/gpt-6-astra/",
-      "publishedAt": "2026-09-10T09:27:13.000Z",
-      "date": "2026-09-10T09:27:13.000Z",
-      "description": "... ChatGPT Plus, Pro, Business et Enterprise, ainsi que via l'API OpenAI... As we discussed in our safety update ⁠, Astra is a significant jump...",
-      "excerpt": "... ChatGPT Plus, Pro, Business et Enterprise, ainsi que via l'API OpenAI... As we discussed in our safety update ⁠, Astra is a significant jump...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT: ces 3 nouveautés gratuites vous transforment en graphiste. Pas besoin de payer...",
-      "link": "https://www.presse-citron.net/chatgpt-nouveautes-gratuites-graphiste/",
-      "url": "https://www.presse-citron.net/chatgpt-nouveautes-gratuites-graphiste/",
-      "publishedAt": "2026-09-10T09:10:11.000Z",
-      "date": "2026-09-10T09:10:11.000Z",
-      "description": "OpenAI vient de lancer un nouveau générateur d'images sur la version gratuite de ChatGPT. Cette nouvelle IA améliore la qualité, tout en étant...",
-      "excerpt": "OpenAI vient de lancer un nouveau générateur d'images sur la version gratuite de ChatGPT. Cette nouvelle IA améliore la qualité, tout en étant...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI annonce travailler avec Samsung sur des puces de nouvelle génération...",
-      "link": "https://www.boursorama.com/bourse/actualites-amp/openai-annonce-travailler-avec-samsung-sur-des-puces-de-nouvelle-generation-approfondissant-sa-cooperation-70549d2053dce881fa711665796795c9",
-      "url": "https://www.boursorama.com/bourse/actualites-amp/openai-annonce-travailler-avec-samsung-sur-des-puces-de-nouvelle-generation-approfondissant-sa-cooperation-70549d2053dce881fa711665796795c9",
-      "publishedAt": "2026-09-10T09:06:10.000Z",
-      "date": "2026-09-10T09:06:10.000Z",
-      "description": "... ChatGPT par Samsung et une lettre d'intention annoncée en octobre dernier.... cybersécurité. Ad. L'article sur Boursorama. À lire aussi sur...",
-      "excerpt": "... ChatGPT par Samsung et une lettre d'intention annoncée en octobre dernier.... cybersécurité. Ad. L'article sur Boursorama. À lire aussi sur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lui a menti au sujet de l&#x27;entraînement sur ses conversations privées - Notebookcheck",
-      "link": "https://www.notebookcheck.biz/Manifestement-malhonnete-un-mathematicien-affirme-qu-x27-OpenAI-lui-a-menti-au-sujet-de-l-x27-entrainement-sur-ses-conversations-privees.1395827.0.html",
-      "url": "https://www.notebookcheck.biz/Manifestement-malhonnete-un-mathematicien-affirme-qu-x27-OpenAI-lui-a-menti-au-sujet-de-l-x27-entrainement-sur-ses-conversations-privees.1395827.0.html",
-      "publishedAt": "2026-09-10T08:54:30.000Z",
-      "date": "2026-09-10T08:54:30.000Z",
-      "description": "... ChatGPT avaient alimenté les données d'entraînement à l'origine de la preuve d'Astra, qui a permis de construire le premier groupe non-sofic.",
-      "excerpt": "... ChatGPT avaient alimenté les données d'entraînement à l'origine de la preuve d'Astra, qui a permis de construire le premier groupe non-sofic.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
