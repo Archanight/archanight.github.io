@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T02:09:33.841Z",
+  "generatedAt": "2026-09-10T10:15:55.608Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI lui a menti au sujet de l&#x27;entraînement sur ses conversations privées - Notebookcheck",
+      "link": "https://www.notebookcheck.biz/Manifestement-malhonnete-un-mathematicien-affirme-qu-x27-OpenAI-lui-a-menti-au-sujet-de-l-x27-entrainement-sur-ses-conversations-privees.1395827.0.html",
+      "url": "https://www.notebookcheck.biz/Manifestement-malhonnete-un-mathematicien-affirme-qu-x27-OpenAI-lui-a-menti-au-sujet-de-l-x27-entrainement-sur-ses-conversations-privees.1395827.0.html",
+      "publishedAt": "2026-09-10T08:54:30.000Z",
+      "date": "2026-09-10T08:54:30.000Z",
+      "description": "... ChatGPT avaient alimenté les données d'entraînement à l'origine de la... SoC Qualcomm, proposé à un prix raisonnable. Next article. Seiko...",
+      "excerpt": "... ChatGPT avaient alimenté les données d'entraînement à l'origine de la... SoC Qualcomm, proposé à un prix raisonnable. Next article. Seiko...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI double le tarif d'entrée de GPT-6 Astra, que ses intégrateurs mesurent moins en jetons",
+      "link": "https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-articles/openai-double-le-tarif-dentree-de-gpt-6-astra-que-ses-integrateurs-mesurent-moins-gourmand-en-jetons/",
+      "url": "https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-articles/openai-double-le-tarif-dentree-de-gpt-6-astra-que-ses-integrateurs-mesurent-moins-gourmand-en-jetons/",
+      "publishedAt": "2026-09-10T08:41:15.000Z",
+      "date": "2026-09-10T08:41:15.000Z",
+      "description": "... ChatGPT Work, dans Codex et par son interface... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
+      "excerpt": "... ChatGPT Work, dans Codex et par son interface... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Analyse de données: la start-up Arlequin AI lève 28 millions d'euros - TradingView",
+      "link": "https://fr.tradingview.com/news/afp:0bb83ca31efc8:0/",
+      "url": "https://fr.tradingview.com/news/afp:0bb83ca31efc8:0/",
+      "publishedAt": "2026-09-10T07:30:09.000Z",
+      "date": "2026-09-10T07:30:09.000Z",
+      "description": "... ChatGPT d'OpenAI ou Claude d'Anthropic. Les grands modèles de langage... cybersécurité ou encore les groupes médiatiques, explique à l'AFP Hugo...",
+      "excerpt": "... ChatGPT d'OpenAI ou Claude d'Anthropic. Les grands modèles de langage... cybersécurité ou encore les groupes médiatiques, explique à l'AFP Hugo...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Interdire l'IA en entreprise ou l'utiliser sans autorisation: c'est légal ça? - BDM",
+      "link": "https://www.blogdumoderateur.com/interdire-ia-entreprise-utiliser-sans-autorisation-legal/",
+      "url": "https://www.blogdumoderateur.com/interdire-ia-entreprise-utiliser-sans-autorisation-legal/",
+      "publishedAt": "2026-09-10T05:44:51.000Z",
+      "date": "2026-09-10T05:44:51.000Z",
+      "description": "ChatGPT et les autres outils d'IA générative se sont imposés dans les usages professionnels, souvent sans cadre. Deux avocats en droit du travail...",
+      "excerpt": "ChatGPT et les autres outils d'IA générative se sont imposés dans les usages professionnels, souvent sans cadre. Deux avocats en droit du travail...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI plaide en faveur de règles nationales obligatoires en matière de sécurité de l'IA",
+      "link": "https://www.boursorama.com/bourse/actualites-amp/openai-plaide-en-faveur-de-regles-nationales-obligatoires-en-matiere-de-securite-de-l-ia-7138a11beb5d0d0d55f94a7a5308244a",
+      "url": "https://www.boursorama.com/bourse/actualites-amp/openai-plaide-en-faveur-de-regles-nationales-obligatoires-en-matiere-de-securite-de-l-ia-7138a11beb5d0d0d55f94a7a5308244a",
+      "publishedAt": "2026-09-10T03:18:19.000Z",
+      "date": "2026-09-10T03:18:19.000Z",
+      "description": "... cybersécurité et des règles de signalement des incidents pour les systèmes d'IA les plus avancés. Le créateur de ChatGPT a exhorté le Congrès à...",
+      "excerpt": "... cybersécurité et des règles de signalement des incidents pour les systèmes d'IA les plus avancés. Le créateur de ChatGPT a exhorté le Congrès à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Claude Mythos 5.1: benchmarks, tarifs, cas d'usage et guide complet - Bleap",
       "link": "https://www.bleap.finance/fr-fr/blog/claude-mythos-5-1-benchmarks-tarifs-cas-usage",
@@ -78,56 +128,6 @@
       "description": "ChatGPT Images 2.5 est disponible pour les utilisateurs de ChatGPT, ChatGPT... ChatGPT: un lien de phishing aurait coûté 2,1 millions de dollars à un...",
       "excerpt": "ChatGPT Images 2.5 est disponible pour les utilisateurs de ChatGPT, ChatGPT... ChatGPT: un lien de phishing aurait coûté 2,1 millions de dollars à un...",
       "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "OpenAI et Samsung partenaires pour des puces IA de nouvelle génération - Clubic",
-      "link": "https://www.clubic.com/actualite-628999-openai-et-samsung-partenaires-pour-des-puces-ia-de-nouvelle-generation.html",
-      "url": "https://www.clubic.com/actualite-628999-openai-et-samsung-partenaires-pour-des-puces-ia-de-nouvelle-generation.html",
-      "publishedAt": "2026-09-09T16:51:43.000Z",
-      "date": "2026-09-09T16:51:43.000Z",
-      "description": "Si OpenAI est le créateur de ChatGPT, la firme de Sam Altman a aussi... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
-      "excerpt": "Si OpenAI est le créateur de ChatGPT, la firme de Sam Altman a aussi... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Rentrée 2026: Edvantis fait entrer l'IA et la Data dans toutes ses formations - Le Matin",
-      "link": "https://lematin.ma/enseignement/edvantis-fait-entrer-lia-et-la-data-dans-toutes-ses-formations/364332/amp",
-      "url": "https://lematin.ma/enseignement/edvantis-fait-entrer-lia-et-la-data-dans-toutes-ses-formations/364332/amp",
-      "publishedAt": "2026-09-09T16:44:40.000Z",
-      "date": "2026-09-09T16:44:40.000Z",
-      "description": "e.s, une nouvelle Licence Informatique & Systèmes Numériques associe informatique, intelligence artificielle, Data, réseaux et cybersécurité... ChatGPT...",
-      "excerpt": "e.s, une nouvelle Licence Informatique & Systèmes Numériques associe informatique, intelligence artificielle, Data, réseaux et cybersécurité... ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI: ChatGPT Work imite votre style d'écriture - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-chatgpt-work-imite-votre-style-d-ecriture",
-      "url": "https://www.briefia.fr/article/openai-chatgpt-work-imite-votre-style-d-ecriture",
-      "publishedAt": "2026-09-09T16:23:13.000Z",
-      "date": "2026-09-09T16:23:13.000Z",
-      "description": "ChatGPT Work propose une fonction qui apprend et imite le style d'écriture de l'utilisateur L'activation se fait via les paramètres web et...",
-      "excerpt": "ChatGPT Work propose une fonction qui apprend et imite le style d'écriture de l'utilisateur L'activation se fait via les paramètres web et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "iPhone Duo: j'ai créé un rendu à partir d'un simple croquis enfantin avec ChatGPT, c'est bluffant",
-      "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3240229_chatgpt-ma-bluffe-jai-cree-un-rendu-de-liphone-duo-avec-un-simple-croquis-dun-enfant-de-4-ans",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3240229_chatgpt-ma-bluffe-jai-cree-un-rendu-de-liphone-duo-avec-un-simple-croquis-dun-enfant-de-4-ans",
-      "publishedAt": "2026-09-09T15:34:43.000Z",
-      "date": "2026-09-09T15:34:43.000Z",
-      "description": "J'ai utilisé la puissance de ChatGPT Images 2.5 pour transformer un croquis enfantin fait à la main en rendu crédible de l'iPhone Duo.",
-      "excerpt": "J'ai utilisé la puissance de ChatGPT Images 2.5 pour transformer un croquis enfantin fait à la main en rendu crédible de l'iPhone Duo.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT a fait croire à cet homme qu'il était Jésus - Korben",
-      "link": "https://korben.info/chatgpt-a-fait-croire-a-cet-homme-quil-etait-jesus.html",
-      "url": "https://korben.info/chatgpt-a-fait-croire-a-cet-homme-quil-etait-jesus.html",
-      "publishedAt": "2026-09-09T15:20:38.000Z",
-      "date": "2026-09-09T15:20:38.000Z",
-      "description": "Michael Lines avait dit à ChatGPT qu'il craignait de se perdre dans un délire, et c'est parti en sucette... Les métiers de la Cybersécurité et de l'...",
-      "excerpt": "Michael Lines avait dit à ChatGPT qu'il craignait de se perdre dans un délire, et c'est parti en sucette... Les métiers de la Cybersécurité et de l'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
