@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T20:12:14.539Z",
+  "generatedAt": "2026-09-10T02:09:33.841Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,56 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Claude Mythos 5.1: benchmarks, tarifs, cas d'usage et guide complet - Bleap",
+      "link": "https://www.bleap.finance/fr-fr/blog/claude-mythos-5-1-benchmarks-tarifs-cas-usage",
+      "url": "https://www.bleap.finance/fr-fr/blog/claude-mythos-5-1-benchmarks-tarifs-cas-usage",
+      "publishedAt": "2026-09-09T23:20:14.000Z",
+      "date": "2026-09-09T23:20:14.000Z",
+      "description": "Claude Mythos 5.1 est le modèle frontier à accès restreint d'Anthropic pour la cybersécurité et les sciences de la vie.... ChatGPT et Gemini.",
+      "excerpt": "Claude Mythos 5.1 est le modèle frontier à accès restreint d'Anthropic pour la cybersécurité et les sciences de la vie.... ChatGPT et Gemini.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Je gagne une heure par jour sur mes mails, et… - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6139269-je-gagne-une-heure-par-jour-sur-mes-mails-et-personne-ne-s-en-est-apercu-chatgpt-peut-imiter-votre-facon-d-ecrire-lorsqu-il-repond-aux-mails-et-aux-messages-a-votre-place",
+      "url": "https://www.lefilia.fr/article/6139269-je-gagne-une-heure-par-jour-sur-mes-mails-et-personne-ne-s-en-est-apercu-chatgpt-peut-imiter-votre-facon-d-ecrire-lorsqu-il-repond-aux-mails-et-aux-messages-a-votre-place",
+      "publishedAt": "2026-09-09T21:57:10.000Z",
+      "date": "2026-09-09T21:57:10.000Z",
+      "description": "Je gagne une heure par jour sur mes mails, et personne ne s'en est aperçu: ChatGPT... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple...",
+      "excerpt": "Je gagne une heure par jour sur mes mails, et personne ne s'en est aperçu: ChatGPT... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance ChatGPT Images 2.5, génération 50% plus rapide - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/15234/chatgpt-images-2-5-openai-lancement",
+      "url": "https://pasqualepillitteri.it/fr/news/15234/chatgpt-images-2-5-openai-lancement",
+      "publishedAt": "2026-09-09T21:13:58.000Z",
+      "date": "2026-09-09T21:13:58.000Z",
+      "description": "OpenAI lance ChatGPT Images 2.5, jusqu'à 50% plus rapide qu'Images 2.0, avec Sketch pour dessiner à main levée et les modèles API Flare et...",
+      "excerpt": "OpenAI lance ChatGPT Images 2.5, jusqu'à 50% plus rapide qu'Images 2.0, avec Sketch pour dessiner à main levée et les modèles API Flare et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "\"Tu es Jésus\": ChatGPT pousse un homme dans ses délires jusqu'à une tentative de...",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/tu-es-jesus-chatgpt-pousse-un-homme-dans-ses-delires-jusqu-a-une-tentative-de-suicide-openai-termine-devant-la-justice-n261621.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/tu-es-jesus-chatgpt-pousse-un-homme-dans-ses-delires-jusqu-a-une-tentative-de-suicide-openai-termine-devant-la-justice-n261621.html",
+      "publishedAt": "2026-09-09T20:54:43.000Z",
+      "date": "2026-09-09T20:54:43.000Z",
+      "description": "GPT-4o de nouveau sous le feu des critiques. © Michael Lines. Revenons... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris...",
+      "excerpt": "GPT-4o de nouveau sous le feu des critiques. © Michael Lines. Revenons... ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Un homme dit à ChatGPT se sentir en plein délire,… - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6139701-un-homme-dit-a-chatgpt-se-sentir-en-plein-delire-chatgpt-lui-repond-qu-il-est-jesus",
+      "url": "https://www.lefilia.fr/article/6139701-un-homme-dit-a-chatgpt-se-sentir-en-plein-delire-chatgpt-lui-repond-qu-il-est-jesus",
+      "publishedAt": "2026-09-09T18:44:23.000Z",
+      "date": "2026-09-09T18:44:23.000Z",
+      "description": "Un homme dit à ChatGPT se sentir en plein délire, ChatGPT lui répond qu'il est Jésus... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le...",
+      "excerpt": "Un homme dit à ChatGPT se sentir en plein délire, ChatGPT lui répond qu'il est Jésus... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "NotebookLM vs ChatGPT vs Perplexity: Comparatif 2026 - Tech Insider",
       "link": "https://tech-insider.org/fr/notebooklm-vs-chatgpt-vs-perplexity-2026/",
       "url": "https://tech-insider.org/fr/notebooklm-vs-chatgpt-vs-perplexity-2026/",
@@ -18,6 +68,16 @@
       "description": "... ChatGPT ”. Depuis que Google a rebâti l'outil autour de Gemini 3 et... notes de version publiées au cours des dernières semaines, consultées...",
       "excerpt": "... ChatGPT ”. Depuis que Google a rebâti l'outil autour de Gemini 3 et... notes de version publiées au cours des dernières semaines, consultées...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI présente ChatGPT Images 2.5 avec de nouvelles fonctions d'édition - Menow",
+      "link": "https://www.menow.fr/openai-presente-chatgpt-images-2-5-avec-de-nouvelles-fonctions-dedition/",
+      "url": "https://www.menow.fr/openai-presente-chatgpt-images-2-5-avec-de-nouvelles-fonctions-dedition/",
+      "publishedAt": "2026-09-09T17:30:47.000Z",
+      "date": "2026-09-09T17:30:47.000Z",
+      "description": "ChatGPT Images 2.5 est disponible pour les utilisateurs de ChatGPT, ChatGPT... ChatGPT: un lien de phishing aurait coûté 2,1 millions de dollars à un...",
+      "excerpt": "ChatGPT Images 2.5 est disponible pour les utilisateurs de ChatGPT, ChatGPT... ChatGPT: un lien de phishing aurait coûté 2,1 millions de dollars à un...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     },
     {
       "title": "OpenAI et Samsung partenaires pour des puces IA de nouvelle génération - Clubic",
@@ -67,66 +127,6 @@
       "date": "2026-09-09T15:20:38.000Z",
       "description": "Michael Lines avait dit à ChatGPT qu'il craignait de se perdre dans un délire, et c'est parti en sucette... Les métiers de la Cybersécurité et de l'...",
       "excerpt": "Michael Lines avait dit à ChatGPT qu'il craignait de se perdre dans un délire, et c'est parti en sucette... Les métiers de la Cybersécurité et de l'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT peut fouiller dans vos mails et vos documents pour apprendre à écrire comme vous",
-      "link": "https://siecledigital.fr/2026/09/09/chatgpt-peut-fouiller-dans-vos-mails-et-vos-documents-pour-apprendre-a-ecrire-comme-vous/",
-      "url": "https://siecledigital.fr/2026/09/09/chatgpt-peut-fouiller-dans-vos-mails-et-vos-documents-pour-apprendre-a-ecrire-comme-vous/",
-      "publishedAt": "2026-09-09T15:00:25.000Z",
-      "date": "2026-09-09T15:00:25.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT peut fouiller...",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT peut fouiller...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "iOS 26.6.2 est disponible: un correctif utile avant l'arrivée d'iOS 27 - JustGeek",
-      "link": "https://www.justgeek.fr/ios-26-6-2-mise-a-jour-157991/",
-      "url": "https://www.justgeek.fr/ios-26-6-2-mise-a-jour-157991/",
-      "publishedAt": "2026-09-09T14:43:40.000Z",
-      "date": "2026-09-09T14:43:40.000Z",
-      "description": "Dans les notes de version, Apple indique: « Cette mise à jour résout... OpenAI vient de lancer ChatGPT Images 2.5, une nouvelle version de...",
-      "excerpt": "Dans les notes de version, Apple indique: « Cette mise à jour résout... OpenAI vient de lancer ChatGPT Images 2.5, une nouvelle version de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI dit avoir résolu l'équation de Navier-Stokes restée sans réponse depuis 90 ans",
-      "link": "https://mesinfos.fr/openai-dit-avoir-resolu-l-equation-de-navier-stokes-restee-sans-reponse-depuis-90-ans-338520.html",
-      "url": "https://mesinfos.fr/openai-dit-avoir-resolu-l-equation-de-navier-stokes-restee-sans-reponse-depuis-90-ans-338520.html",
-      "publishedAt": "2026-09-09T14:38:18.000Z",
-      "date": "2026-09-09T14:38:18.000Z",
-      "description": "OpenAI va instaurer un contrôle parental sur ChatGPT. France. Nos... cybersécurité. Paris (75). Des livres introuvables détruits à jamais...",
-      "excerpt": "OpenAI va instaurer un contrôle parental sur ChatGPT. France. Nos... cybersécurité. Paris (75). Des livres introuvables détruits à jamais...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Réalisez vos projets les plus ambitieux avec GPT-6 Astra sur Amazon Bedrock - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6137371-realisez-vos-projets-les-plus-ambitieux-avec-gpt-6-astra-sur-amazon-bedrock",
-      "url": "https://www.lefilia.fr/article/6137371-realisez-vos-projets-les-plus-ambitieux-avec-gpt-6-astra-sur-amazon-bedrock",
-      "publishedAt": "2026-09-09T14:29:22.000Z",
-      "date": "2026-09-09T14:29:22.000Z",
-      "description": "... ChatGPT Work et Codex. Il dispose d'une fenêtre de contexte pouvant... cybersécurité, ce qui déclenche une surveillance automatisée en temps...",
-      "excerpt": "... ChatGPT Work et Codex. Il dispose d'une fenêtre de contexte pouvant... cybersécurité, ce qui déclenche une surveillance automatisée en temps...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Sketch transforme vos dessins maladroits en images IA détaillées - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6137788-chatgpt-sketch-transforme-vos-dessins-maladroits-en-images-ia-detaillees",
-      "url": "https://www.lefilia.fr/article/6137788-chatgpt-sketch-transforme-vos-dessins-maladroits-en-images-ia-detaillees",
-      "publishedAt": "2026-09-09T14:29:20.000Z",
-      "date": "2026-09-09T14:29:20.000Z",
-      "description": "OpenAI a annoncé mardi le déploiement de ChatGPT Images 2.5, une mise à jour qui introduit un nouvel outil baptisé Sketch... Cybersécurité IA...",
-      "excerpt": "OpenAI a annoncé mardi le déploiement de ChatGPT Images 2.5, une mise à jour qui introduit un nouvel outil baptisé Sketch... Cybersécurité IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile ChatGPT Images 2.5: le générateur d'images passe à la vitesse supérieure",
-      "link": "https://www.01net.com/actualites/openai-devoile-chatgpt-images-2-5-le-generateur-dimages-passe-a-la-vitesse-superieure.html",
-      "url": "https://www.01net.com/actualites/openai-devoile-chatgpt-images-2-5-le-generateur-dimages-passe-a-la-vitesse-superieure.html",
-      "publishedAt": "2026-09-09T13:01:05.000Z",
-      "date": "2026-09-09T13:01:05.000Z",
-      "description": "Le principe de l'outil Sketch est simple: l'utilisateur dessine un croquis directement dans ChatGPT et le modèle le transforme ensuite en une image...",
-      "excerpt": "Le principe de l'outil Sketch est simple: l'utilisateur dessine un croquis directement dans ChatGPT et le modèle le transforme ensuite en une image...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
