@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T15:32:09.765Z",
+  "generatedAt": "2026-09-11T20:13:11.665Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,116 @@
   "failedSources": [],
   "items": [
     {
+      "title": "OpenAI s'attaque aux opérations financières automatisées avec son nouveau GPT-6 Astra",
+      "link": "https://www.zdnet.fr/actualites/openai-sattaque-aux-operations-financieres-automatisees-avec-son-nouveau-gpt-6-astra-503325.htm",
+      "url": "https://www.zdnet.fr/actualites/openai-sattaque-aux-operations-financieres-automatisees-avec-son-nouveau-gpt-6-astra-503325.htm",
+      "publishedAt": "2026-09-11T19:02:14.000Z",
+      "date": "2026-09-11T19:02:14.000Z",
+      "description": "OpenAI lance ChatGPT for Financial Services, une déclinaison de son assistant conçue pour les banques et institutions financières.",
+      "excerpt": "OpenAI lance ChatGPT for Financial Services, une déclinaison de son assistant conçue pour les banques et institutions financières.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Demande record pour Astra, OpenAI suspend les inscriptions à ChatGPT Pro",
+      "link": "https://pasqualepillitteri.it/fr/news/15707/openai-suspend-inscriptions-chatgpt-pro-astra",
+      "url": "https://pasqualepillitteri.it/fr/news/15707/openai-suspend-inscriptions-chatgpt-pro-astra",
+      "publishedAt": "2026-09-11T17:18:47.000Z",
+      "date": "2026-09-11T17:18:47.000Z",
+      "description": "OpenAI a suspendu les nouvelles inscriptions à ChatGPT Pro à 200 dollars, submergée par la demande pour Astra. Tibo Sottiaux la juge sans...",
+      "excerpt": "OpenAI a suspendu les nouvelles inscriptions à ChatGPT Pro à 200 dollars, submergée par la demande pour Astra. Tibo Sottiaux la juge sans...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Un avocat cite de faux témoins dans une affaire de meurtre et rejette la faute sur ChatGPT",
+      "link": "https://www.zonebourse.com/actualite-bourse/un-avocat-cite-de-faux-temoins-dans-une-affaire-de-meurtre-et-rejette-la-faute-sur-chatgpt-ce785bdfdd80f024",
+      "url": "https://www.zonebourse.com/actualite-bourse/un-avocat-cite-de-faux-temoins-dans-une-affaire-de-meurtre-et-rejette-la-faute-sur-chatgpt-ce785bdfdd80f024",
+      "publishedAt": "2026-09-11T17:17:03.000Z",
+      "date": "2026-09-11T17:17:03.000Z",
+      "description": "... mémoire contenant de faux témoignages de police et des témoins inventés par ChatGPT d'OpenAI, a... -Le 11 septembre 2026 à 14:09 - Zonebourse.",
+      "excerpt": "... mémoire contenant de faux témoignages de police et des témoins inventés par ChatGPT d'OpenAI, a... -Le 11 septembre 2026 à 14:09 - Zonebourse.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI lance ChatGPT for Financial Services pour les banquiers débutants",
+      "link": "https://pasqualepillitteri.it/fr/news/15679/openai-chatgpt-financial-services-banques",
+      "url": "https://pasqualepillitteri.it/fr/news/15679/openai-chatgpt-financial-services-banques",
+      "publishedAt": "2026-09-11T17:09:07.000Z",
+      "date": "2026-09-11T17:09:07.000Z",
+      "description": "OpenAI a lancé ChatGPT for Financial Services, la version de ChatGPT Work sur GPT-6 Astra pour les banques. Recherche, modèles et decks avec les...",
+      "excerpt": "OpenAI a lancé ChatGPT for Financial Services, la version de ChatGPT Work sur GPT-6 Astra pour les banques. Recherche, modèles et decks avec les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI lance des services ChatGPT dédiés aux géants de la finance - Clubic",
+      "link": "https://www.clubic.com/actualite-629356-openai-lance-des-services-chatgpt-dedies-aux-geants-de-la-finance.html",
+      "url": "https://www.clubic.com/actualite-629356-openai-lance-des-services-chatgpt-dedies-aux-geants-de-la-finance.html",
+      "publishedAt": "2026-09-11T16:54:39.000Z",
+      "date": "2026-09-11T16:54:39.000Z",
+      "description": "Chez OpenAI, on cherche à générer de plus en plus de revenus. Et cette nouvelle version de ChatGPT pourrait (un peu) le permettre.",
+      "excerpt": "Chez OpenAI, on cherche à générer de plus en plus de revenus. Et cette nouvelle version de ChatGPT pourrait (un peu) le permettre.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un chercheur s'aide de ChatGPT pour développer un médicament contre la schizophrénie",
+      "link": "https://korben.info/un-chercheur-saide-de-chatgpt-pour-developper-un-medicament-contre-la-schizophrenie.html",
+      "url": "https://korben.info/un-chercheur-saide-de-chatgpt-pour-developper-un-medicament-contre-la-schizophrenie.html",
+      "publishedAt": "2026-09-11T16:27:06.000Z",
+      "date": "2026-09-11T16:27:06.000Z",
+      "description": "Cybersécurité · Linux & Open Source · Jeux Vidéo · Robots, Drones & Véhicules... ChatGPT. Son projet porte sur une molécule appelée PAC-3310...",
+      "excerpt": "Cybersécurité · Linux & Open Source · Jeux Vidéo · Robots, Drones & Véhicules... ChatGPT. Son projet porte sur une molécule appelée PAC-3310...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Course à l'IA: OpenAI se dit prêt à lever le pied, mais refuse d'être le seul - 01net.com",
+      "link": "https://www.01net.com/actualites/course-a-lia-openai-se-dit-pret-a-lever-le-pied-mais-refuse-detre-le-seul.html",
+      "url": "https://www.01net.com/actualites/course-a-lia-openai-se-dit-pret-a-lever-le-pied-mais-refuse-detre-le-seul.html",
+      "publishedAt": "2026-09-11T16:24:43.000Z",
+      "date": "2026-09-11T16:24:43.000Z",
+      "description": "Dans une lettre ouverte, OpenAI, Google, Anthropic et plus de cent entreprises technologiques, financières et de cybersécurité... ChatGPT. En...",
+      "excerpt": "Dans une lettre ouverte, OpenAI, Google, Anthropic et plus de cent entreprises technologiques, financières et de cybersécurité... ChatGPT. En...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance l'API Agents en bêta publique, facturée aux tokens | Brief IA",
+      "link": "https://www.briefia.fr/article/openai-lance-l-api-agents-en-beta-publique-facturee-aux-tokens",
+      "url": "https://www.briefia.fr/article/openai-lance-l-api-agents-en-beta-publique-facturee-aux-tokens",
+      "publishedAt": "2026-09-11T16:17:29.000Z",
+      "date": "2026-09-11T16:17:29.000Z",
+      "description": "L'API Agents utilise la même infrastructure que Codex et ChatGPT et s'appuie sur le cadre open-source de Codex.... cybersécurité et les risques d'abus.",
+      "excerpt": "L'API Agents utilise la même infrastructure que Codex et ChatGPT et s'appuie sur le cadre open-source de Codex.... cybersécurité et les risques d'abus.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI change de cap et demande des règles nationales contraignantes sur l'IA | Euronews",
+      "link": "https://fr.euronews.com/next/2026/09/11/openai-change-de-cap-et-demande-des-regles-nationales-contraignantes-sur-lia",
+      "url": "https://fr.euronews.com/next/2026/09/11/openai-change-de-cap-et-demande-des-regles-nationales-contraignantes-sur-lia",
+      "publishedAt": "2026-09-11T15:34:38.000Z",
+      "date": "2026-09-11T15:34:38.000Z",
+      "description": "Le créateur de ChatGPT appelle les parlementaires américains à légiférer avant l'ajournement du Congrès en décembre. Cette nouvelle offensive...",
+      "excerpt": "Le créateur de ChatGPT appelle les parlementaires américains à légiférer avant l'ajournement du Congrès en décembre. Cette nouvelle offensive...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Ads: le top 10 des meilleures agences pour gérer vos campagnes publicitaires",
+      "link": "https://www.challenges.fr/partenaires/chatgpt-ads-le-top-10-des-meilleures-agences-pour-gerer-vos-campagnes-publicitaires_645716",
+      "url": "https://www.challenges.fr/partenaires/chatgpt-ads-le-top-10-des-meilleures-agences-pour-gerer-vos-campagnes-publicitaires_645716",
+      "publishedAt": "2026-09-11T15:24:18.000Z",
+      "date": "2026-09-11T15:24:18.000Z",
+      "description": "Elle couvre le SEO, le SEA, les social ads et le GEO, avec une entrée GEA dédiée à ChatGPT Ads.... Les Assises de la cybersécurité · PRNewswire.",
+      "excerpt": "Elle couvre le SEO, le SEA, les social ads et le GEO, avec une entrée GEA dédiée à ChatGPT Ads.... Les Assises de la cybersécurité · PRNewswire.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI Launches ChatGPT Finance with Integrated Data and Quotes - Brief IA",
+      "link": "https://www.briefia.fr/en/article/openai-lance-chatgpt-finance-avec-donnees-integrees-et-citations",
+      "url": "https://www.briefia.fr/en/article/openai-lance-chatgpt-finance-avec-donnees-integrees-et-citations",
+      "publishedAt": "2026-09-11T15:12:32.000Z",
+      "date": "2026-09-11T15:12:32.000Z",
+      "description": "OpenAI launches a version of ChatGPT dedicated to finance The tool integrates data from Daloopa, PitchBook, and LSEG News, with verifiable...",
+      "excerpt": "OpenAI launches a version of ChatGPT dedicated to finance The tool integrates data from Daloopa, PitchBook, and LSEG News, with verifiable...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "ChatGPT: OpenAI ne suit plus et suspend les abonnements Pro - 01net.com",
       "link": "https://www.01net.com/actualites/chatgpt-openai-ne-suit-plus-et-suspend-les-abonnements-pro.html",
       "url": "https://www.01net.com/actualites/chatgpt-openai-ne-suit-plus-et-suspend-les-abonnements-pro.html",
@@ -17,116 +127,6 @@
       "date": "2026-09-11T14:32:05.000Z",
       "description": "ChatGPT: OpenAI ne suit plus et suspend les abonnements Pro... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
       "excerpt": "ChatGPT: OpenAI ne suit plus et suspend les abonnements Pro... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Ads manager: \"il est urgent d'attendre!\" - Journaldunet.com",
-      "link": "https://www.journaldunet.com/adtech/1554735-chatgpt-ads-manager-simple-a-utiliser-mais-encore-opaque-et-inachevee/",
-      "url": "https://www.journaldunet.com/adtech/1554735-chatgpt-ads-manager-simple-a-utiliser-mais-encore-opaque-et-inachevee/",
-      "publishedAt": "2026-09-11T13:43:00.000Z",
-      "date": "2026-09-11T13:43:00.000Z",
-      "description": "Le JDN a testé la plateforme publicitaire en libre-service de ChatGPT avec Alban Peltier (Stelleo)... Cybersécurité · Economie · IA News · Tech · Action...",
-      "excerpt": "Le JDN a testé la plateforme publicitaire en libre-service de ChatGPT avec Alban Peltier (Stelleo)... Cybersécurité · Economie · IA News · Tech · Action...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "À 18 ans, elle crée avec ChatGPT un plastique qui libère des enzymes pour s'attaquer aux...",
-      "link": "https://www.lacremedugaming.fr/high-tech/a-18-ans-elle-cree-avec-chatgpt-un-plastique-qui-libere-des-enzymes-pour-sattaquer-aux-microplastiques-et-gagne-10000-e-225065.html",
-      "url": "https://www.lacremedugaming.fr/high-tech/a-18-ans-elle-cree-avec-chatgpt-un-plastique-qui-libere-des-enzymes-pour-sattaquer-aux-microplastiques-et-gagne-10000-e-225065.html",
-      "publishedAt": "2026-09-11T13:38:00.000Z",
-      "date": "2026-09-11T13:38:00.000Z",
-      "description": "À 18 ans, l'Irlandaise Arya Satheesh conçoit Eco Purge, un plastique végétal aidé par ChatGPT, primé par The Earth Prize 2026.",
-      "excerpt": "À 18 ans, l'Irlandaise Arya Satheesh conçoit Eco Purge, un plastique végétal aidé par ChatGPT, primé par The Earth Prize 2026.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Pro suspend les nouvelles inscriptions: Astra met les serveurs d'OpenAI sous pression",
-      "link": "https://www.menow.fr/chatgpt-pro-suspend-les-nouvelles-inscriptions-astra-met-les-serveurs-dopenai-sous-pression/",
-      "url": "https://www.menow.fr/chatgpt-pro-suspend-les-nouvelles-inscriptions-astra-met-les-serveurs-dopenai-sous-pression/",
-      "publishedAt": "2026-09-11T12:59:13.000Z",
-      "date": "2026-09-11T12:59:13.000Z",
-      "description": "ChatGPT Pro suspend les nouvelles... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
-      "excerpt": "ChatGPT Pro suspend les nouvelles... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance une nouvelle API Agents, l'infrastructure derrière Codex et ChatGPT - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6149557-openai-lance-une-nouvelle-api-agents-l-infrastructure-derriere-codex-et-chatgpt",
-      "url": "https://www.lefilia.fr/article/6149557-openai-lance-une-nouvelle-api-agents-l-infrastructure-derriere-codex-et-chatgpt",
-      "publishedAt": "2026-09-11T11:23:42.000Z",
-      "date": "2026-09-11T11:23:42.000Z",
-      "description": "... ChatGPT. Cette API permet de construire des agents cloud capables de... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "excerpt": "... ChatGPT. Cette API permet de construire des agents cloud capables de... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI cible la finance avec ChatGPT for Financial Services - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-cible-la-finance-avec-chatgpt-for-financial-services",
-      "url": "https://www.briefia.fr/article/openai-cible-la-finance-avec-chatgpt-for-financial-services",
-      "publishedAt": "2026-09-11T11:17:22.000Z",
-      "date": "2026-09-11T11:17:22.000Z",
-      "description": "OpenAI lance ChatGPT for Financial Services, une version de ChatGPT Work... cybersécurité • Les attaques informatiques pilotées par l'IA ont...",
-      "excerpt": "OpenAI lance ChatGPT for Financial Services, une version de ChatGPT Work... cybersécurité • Les attaques informatiques pilotées par l'IA ont...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI suspend les abonnements à son modèle d'IA ChatGPT 6 Astra Pro face à une...",
-      "link": "https://intelligence-artificielle.developpez.com/actu/387057/OpenAI-suspend-les-abonnements-a-son-modele-d-IA-ChatGPT-6-Astra-Pro-face-a-une-demande-en-forte-hausse-et-a-la-pression-qui-en-resulte-sur-son-systeme/?amp",
-      "url": "https://intelligence-artificielle.developpez.com/actu/387057/OpenAI-suspend-les-abonnements-a-son-modele-d-IA-ChatGPT-6-Astra-Pro-face-a-une-demande-en-forte-hausse-et-a-la-pression-qui-en-resulte-sur-son-systeme/?amp",
-      "publishedAt": "2026-09-11T10:16:56.000Z",
-      "date": "2026-09-11T10:16:56.000Z",
-      "description": "... cybersécurité « Daybreak ». Astra sera déployé dans les prochains jours auprès des utilisateurs des formules ChatGPT Plus, Pro, Business et Enterprise...",
-      "excerpt": "... cybersécurité « Daybreak ». Astra sera déployé dans les prochains jours auprès des utilisateurs des formules ChatGPT Plus, Pro, Business et Enterprise...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI opère un revirement et réclame des règles nationales contraignantes sur la sécurité de l'IA",
-      "link": "https://fr.euronews.com/next/2026/09/11/openai-opere-un-revirement-et-reclame-des-regles-nationales-contraignantes-sur-la-securite",
-      "url": "https://fr.euronews.com/next/2026/09/11/openai-opere-un-revirement-et-reclame-des-regles-nationales-contraignantes-sur-la-securite",
-      "publishedAt": "2026-09-11T08:54:21.000Z",
-      "date": "2026-09-11T08:54:21.000Z",
-      "description": "Un logo ChatGPT est visible à West Chester, en Pennsylvanie, le mercredi 6 décembre.",
-      "excerpt": "Un logo ChatGPT est visible à West Chester, en Pennsylvanie, le mercredi 6 décembre.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Victime du succès de GPT-6 Astra, OpenAI ferme les vannes de son forfait le plus cher",
-      "link": "https://www.clubic.com/actualite-629269-victime-du-succes-de-gpt-6-astra-openai-ferme-les-vannes-de-son-forfait-le-plus-cher.html",
-      "url": "https://www.clubic.com/actualite-629269-victime-du-succes-de-gpt-6-astra-openai-ferme-les-vannes-de-son-forfait-le-plus-cher.html",
-      "publishedAt": "2026-09-11T08:45:49.000Z",
-      "date": "2026-09-11T08:45:49.000Z",
-      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile... L'offre ChatGPT Pro à 200 dollars n'accepte temporairement plus de nouveaux abonnés.",
-      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile... L'offre ChatGPT Pro à 200 dollars n'accepte temporairement plus de nouveaux abonnés.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "DeepSeek V4.1 Flash se revendique meilleur que Claude Mythos en cybersécurité",
-      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/deepseek-v4-1-flash-vs-claude-mythos-cybersecurite-91792/",
-      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/deepseek-v4-1-flash-vs-claude-mythos-cybersecurite-91792/",
-      "publishedAt": "2026-09-11T08:31:38.000Z",
-      "date": "2026-09-11T08:31:38.000Z",
-      "description": "DeepSeek V4.1 Flash se revendique meilleur que Claude Mythos en cybersécurité: ce que vous devez savoir... ChatGPT Images 2.5: 9 exemples de cas d'...",
-      "excerpt": "DeepSeek V4.1 Flash se revendique meilleur que Claude Mythos en cybersécurité: ce que vous devez savoir... ChatGPT Images 2.5: 9 exemples de cas d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance l'API Agents pour fournir aux développeurs l'infrastructure derrière Codex",
-      "link": "https://www.blogdumoderateur.com/openai-lance-api-agents-fournir-developpeurs-infrastructure-derriere-codex/",
-      "url": "https://www.blogdumoderateur.com/openai-lance-api-agents-fournir-developpeurs-infrastructure-derriere-codex/",
-      "publishedAt": "2026-09-11T08:29:55.000Z",
-      "date": "2026-09-11T08:29:55.000Z",
-      "description": "Google Réglementation OpenAI Développement SEO Interviews Productivité Anthropic Cybersécurité... ChatGPT for Work. Un seul appel API suffit pour créer...",
-      "excerpt": "Google Réglementation OpenAI Développement SEO Interviews Productivité Anthropic Cybersécurité... ChatGPT for Work. Un seul appel API suffit pour créer...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI s'attaque aux opérations financières automatisées avec son nouveau GPT-6 Astra",
-      "link": "https://www.zdnet.fr/actualites/openai-sattaque-aux-operations-financieres-automatisees-avec-son-nouveau-gpt-6-astra-503325.htm",
-      "url": "https://www.zdnet.fr/actualites/openai-sattaque-aux-operations-financieres-automatisees-avec-son-nouveau-gpt-6-astra-503325.htm",
-      "publishedAt": "2026-09-11T07:02:14.000Z",
-      "date": "2026-09-11T07:02:14.000Z",
-      "description": "ChatGPT pour les métiers de la finance. OpenAI veut pousser l'IA générative plus loin dans les salles de marché et les banques d'investissement...",
-      "excerpt": "ChatGPT pour les métiers de la finance. OpenAI veut pousser l'IA générative plus loin dans les salles de marché et les banques d'investissement...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
