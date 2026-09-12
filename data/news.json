@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T02:11:40.023Z",
+  "generatedAt": "2026-09-12T09:48:39.074Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Un avocat sanctionné pour avoir utilisé ChatGPT et cité de faux témoignages inventés",
+      "link": "https://www.lefilia.fr/article/6152633-un-avocat-sanctionne-pour-avoir-utilise-chatgpt-et-cite-de-faux-temoignages-inventes",
+      "url": "https://www.lefilia.fr/article/6152633-un-avocat-sanctionne-pour-avoir-utilise-chatgpt-et-cite-de-faux-temoignages-inventes",
+      "publishedAt": "2026-09-12T05:14:37.000Z",
+      "date": "2026-09-12T05:14:37.000Z",
+      "description": "... ChatGPT. Dans une ordonnance publiée mercredi, la plus haute... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
+      "excerpt": "... ChatGPT. Dans une ordonnance publiée mercredi, la plus haute... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cet avocat a utilisé ChatGPT pour préparer un dossier: l'IA a inventé des témoins qui n'existaient pas",
+      "link": "https://www.menow.fr/cet-avocat-a-utilise-chatgpt-pour-preparer-un-dossier-lia-a-invente-des-temoins-qui-nexistaient-pas/",
+      "url": "https://www.menow.fr/cet-avocat-a-utilise-chatgpt-pour-preparer-un-dossier-lia-a-invente-des-temoins-qui-nexistaient-pas/",
+      "publishedAt": "2026-09-12T04:04:27.000Z",
+      "date": "2026-09-12T04:04:27.000Z",
+      "description": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web. Il s'intéresse aux mises à jour...",
+      "excerpt": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web. Il s'intéresse aux mises à jour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI GPT-5.6 Sol accusé d'avoir supprimé des fichiers et des données de production",
+      "link": "https://www.eweek.com/news/openai-gpt-5-6-sol-accuse-davoir-supprime-des-fichiers-et-des-donnees-de-production/",
+      "url": "https://www.eweek.com/news/openai-gpt-5-6-sol-accuse-davoir-supprime-des-fichiers-et-des-donnees-de-production/",
+      "publishedAt": "2026-09-12T02:37:44.000Z",
+      "date": "2026-09-12T02:37:44.000Z",
+      "description": "ChatGPT interface on a laptop. Source... Le GPT-5 d'OpenAI injecte davantage d'« humanité » dans la voix de l...",
+      "excerpt": "ChatGPT interface on a laptop. Source... Le GPT-5 d'OpenAI injecte davantage d'« humanité » dans la voix de l...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "La Cour de cassation inflige une amende à un avocat pour avoir utilisé ChatGPT dans un...",
+      "link": "https://www.notebookcheck.biz/La-Cour-de-cassation-inflige-une-amende-a-un-avocat-pour-avoir-utilise-ChatGPT-dans-un-proces-pour-meurtre.1397344.0.html",
+      "url": "https://www.notebookcheck.biz/La-Cour-de-cassation-inflige-une-amende-a-un-avocat-pour-avoir-utilise-ChatGPT-dans-un-proces-pour-meurtre.1397344.0.html",
+      "publishedAt": "2026-09-12T01:36:01.000Z",
+      "date": "2026-09-12T01:36:01.000Z",
+      "description": "... ChatGPT dans un procès pour meurtre. Jacob Fisher, 2026-09-12 ( Update: 2026-09-12). Cookie Settings | 12.09.2026 02:32 * If you buy something via...",
+      "excerpt": "... ChatGPT dans un procès pour meurtre. Jacob Fisher, 2026-09-12 ( Update: 2026-09-12). Cookie Settings | 12.09.2026 02:32 * If you buy something via...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "OpenAI s'attaque aux opérations financières automatisées avec son nouveau GPT-6 Astra",
       "link": "https://www.zdnet.fr/actualites/openai-sattaque-aux-operations-financieres-automatisees-avec-son-nouveau-gpt-6-astra-503325.htm",
@@ -87,46 +127,6 @@
       "date": "2026-09-11T16:17:29.000Z",
       "description": "L'API Agents utilise la même infrastructure que Codex et ChatGPT et s'appuie sur le cadre open-source de Codex.... cybersécurité et les risques d'abus.",
       "excerpt": "L'API Agents utilise la même infrastructure que Codex et ChatGPT et s'appuie sur le cadre open-source de Codex.... cybersécurité et les risques d'abus.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI change de cap et demande des règles nationales contraignantes sur l'IA | Euronews",
-      "link": "https://fr.euronews.com/next/2026/09/11/openai-change-de-cap-et-demande-des-regles-nationales-contraignantes-sur-lia",
-      "url": "https://fr.euronews.com/next/2026/09/11/openai-change-de-cap-et-demande-des-regles-nationales-contraignantes-sur-lia",
-      "publishedAt": "2026-09-11T15:34:38.000Z",
-      "date": "2026-09-11T15:34:38.000Z",
-      "description": "Le créateur de ChatGPT appelle les parlementaires américains à légiférer avant l'ajournement du Congrès en décembre. Cette nouvelle offensive...",
-      "excerpt": "Le créateur de ChatGPT appelle les parlementaires américains à légiférer avant l'ajournement du Congrès en décembre. Cette nouvelle offensive...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Ads: le top 10 des meilleures agences pour gérer vos campagnes publicitaires",
-      "link": "https://www.challenges.fr/partenaires/chatgpt-ads-le-top-10-des-meilleures-agences-pour-gerer-vos-campagnes-publicitaires_645716",
-      "url": "https://www.challenges.fr/partenaires/chatgpt-ads-le-top-10-des-meilleures-agences-pour-gerer-vos-campagnes-publicitaires_645716",
-      "publishedAt": "2026-09-11T15:24:18.000Z",
-      "date": "2026-09-11T15:24:18.000Z",
-      "description": "Elle couvre le SEO, le SEA, les social ads et le GEO, avec une entrée GEA dédiée à ChatGPT Ads.... Les Assises de la cybersécurité · PRNewswire.",
-      "excerpt": "Elle couvre le SEO, le SEA, les social ads et le GEO, avec une entrée GEA dédiée à ChatGPT Ads.... Les Assises de la cybersécurité · PRNewswire.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI Launches ChatGPT Finance with Integrated Data and Quotes - Brief IA",
-      "link": "https://www.briefia.fr/en/article/openai-lance-chatgpt-finance-avec-donnees-integrees-et-citations",
-      "url": "https://www.briefia.fr/en/article/openai-lance-chatgpt-finance-avec-donnees-integrees-et-citations",
-      "publishedAt": "2026-09-11T15:12:32.000Z",
-      "date": "2026-09-11T15:12:32.000Z",
-      "description": "OpenAI launches a version of ChatGPT dedicated to finance The tool integrates data from Daloopa, PitchBook, and LSEG News, with verifiable...",
-      "excerpt": "OpenAI launches a version of ChatGPT dedicated to finance The tool integrates data from Daloopa, PitchBook, and LSEG News, with verifiable...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT: OpenAI ne suit plus et suspend les abonnements Pro - 01net.com",
-      "link": "https://www.01net.com/actualites/chatgpt-openai-ne-suit-plus-et-suspend-les-abonnements-pro.html",
-      "url": "https://www.01net.com/actualites/chatgpt-openai-ne-suit-plus-et-suspend-les-abonnements-pro.html",
-      "publishedAt": "2026-09-11T14:32:05.000Z",
-      "date": "2026-09-11T14:32:05.000Z",
-      "description": "ChatGPT: OpenAI ne suit plus et suspend les abonnements Pro... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "excerpt": "ChatGPT: OpenAI ne suit plus et suspend les abonnements Pro... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
