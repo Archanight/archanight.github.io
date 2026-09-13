@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T19:52:24.634Z",
+  "generatedAt": "2026-09-13T02:08:26.687Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-6 Astra pour l'entreprise: sécurité, tarifs, intégration - Brief IA",
+      "link": "https://www.briefia.fr/article/gpt-6-astra-pour-l-entreprise-securite-tarifs-integration",
+      "url": "https://www.briefia.fr/article/gpt-6-astra-pour-l-entreprise-securite-tarifs-integration",
+      "publishedAt": "2026-09-12T23:01:34.000Z",
+      "date": "2026-09-12T23:01:34.000Z",
+      "description": "ChatGPT Work: Big Air ATV dit passer de 3 jours à 3 hil y a 5h→ · OpenAI lance GPT-6 Astra, bridé en cybersécurité et plus cheril y a 6h→ · Trump...",
+      "excerpt": "ChatGPT Work: Big Air ATV dit passer de 3 jours à 3 hil y a 5h→ · OpenAI lance GPT-6 Astra, bridé en cybersécurité et plus cheril y a 6h→ · Trump...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI ouvre GPT-6 Astra à certains abonnés Plus, sous garde | Brief IA",
+      "link": "https://www.briefia.fr/article/openai-ouvre-gpt-6-astra-a-certains-abonnes-plus-sous-garde",
+      "url": "https://www.briefia.fr/article/openai-ouvre-gpt-6-astra-a-certains-abonnes-plus-sous-garde",
+      "publishedAt": "2026-09-12T20:12:47.000Z",
+      "date": "2026-09-12T20:12:47.000Z",
+      "description": "-6 Astra devient accessible à certains abonnés ChatGPT Plus, limité à Work et Codex... cybersécurité. Les capacités observées en programmation...",
+      "excerpt": "-6 Astra devient accessible à certains abonnés ChatGPT Plus, limité à Work et Codex... cybersécurité. Les capacités observées en programmation...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT peut désormais analyser les données d'une entreprise et créer ses tableaux de bord",
       "link": "https://www.menow.fr/chatgpt-peut-desormais-analyser-les-donnees-dune-entreprise-et-creer-ses-tableaux-de-bord/",
@@ -108,26 +128,6 @@
       "description": "... ChatGPT. Dans une ordonnance publiée mercredi, la plus haute... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
       "excerpt": "... ChatGPT. Dans une ordonnance publiée mercredi, la plus haute... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cet avocat a utilisé ChatGPT pour préparer un dossier: l'IA a inventé des témoins qui n'existaient pas",
-      "link": "https://www.menow.fr/cet-avocat-a-utilise-chatgpt-pour-preparer-un-dossier-lia-a-invente-des-temoins-qui-nexistaient-pas/",
-      "url": "https://www.menow.fr/cet-avocat-a-utilise-chatgpt-pour-preparer-un-dossier-lia-a-invente-des-temoins-qui-nexistaient-pas/",
-      "publishedAt": "2026-09-12T04:04:27.000Z",
-      "date": "2026-09-12T04:04:27.000Z",
-      "description": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web. Il s'intéresse aux mises à jour...",
-      "excerpt": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web. Il s'intéresse aux mises à jour...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI GPT-5.6 Sol accusé d'avoir supprimé des fichiers et des données de production",
-      "link": "https://www.eweek.com/news/openai-gpt-5-6-sol-accuse-davoir-supprime-des-fichiers-et-des-donnees-de-production/",
-      "url": "https://www.eweek.com/news/openai-gpt-5-6-sol-accuse-davoir-supprime-des-fichiers-et-des-donnees-de-production/",
-      "publishedAt": "2026-09-12T02:37:44.000Z",
-      "date": "2026-09-12T02:37:44.000Z",
-      "description": "ChatGPT interface on a laptop. Source... Le GPT-5 d'OpenAI injecte davantage d'« humanité » dans la voix de l...",
-      "excerpt": "ChatGPT interface on a laptop. Source... Le GPT-5 d'OpenAI injecte davantage d'« humanité » dans la voix de l...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
