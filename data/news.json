@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T02:08:26.687Z",
+  "generatedAt": "2026-09-13T10:48:27.910Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT, Claude, Deepseek... \"plus évoluées que les normes de sécurité\" - La Provence",
+      "link": "https://www.laprovence.com/article/societe/62231372470887/chatgpt-claude-deepseek-plus-evoluees-que-les-normes-de-securite-comment-proteger-lhumain-de-sa-machine",
+      "url": "https://www.laprovence.com/article/societe/62231372470887/chatgpt-claude-deepseek-plus-evoluees-que-les-normes-de-securite-comment-proteger-lhumain-de-sa-machine",
+      "publishedAt": "2026-09-13T09:48:09.000Z",
+      "date": "2026-09-13T09:48:09.000Z",
+      "description": "ChatGPT, Claude, Deepseek... \"... Parmi les cibles, le média d'extrême droite \"Frontières\", dont la cybersécurité a tenu face à l'attaque.",
+      "excerpt": "ChatGPT, Claude, Deepseek... \"... Parmi les cibles, le média d'extrême droite \"Frontières\", dont la cybersécurité a tenu face à l'attaque.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT à 55,5 % du trafic web des chatbots IA, Gemini recule - Brief IA",
+      "link": "https://www.briefia.fr/article/chatgpt-a-55-5-du-trafic-web-des-chatbots-ia-gemini-recule",
+      "url": "https://www.briefia.fr/article/chatgpt-a-55-5-du-trafic-web-des-chatbots-ia-gemini-recule",
+      "publishedAt": "2026-09-13T01:42:53.000Z",
+      "date": "2026-09-13T01:42:53.000Z",
+      "description": "ChatGPT détient 55,5 % du trafic web des sites de chatbots IA... OpenAI annonce Astra pour la cybersécurité, Anthropic lance Fable 5.1...",
+      "excerpt": "ChatGPT détient 55,5 % du trafic web des sites de chatbots IA... OpenAI annonce Astra pour la cybersécurité, Anthropic lance Fable 5.1...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "GPT-6 Astra pour l'entreprise: sécurité, tarifs, intégration - Brief IA",
       "link": "https://www.briefia.fr/article/gpt-6-astra-pour-l-entreprise-securite-tarifs-integration",
@@ -108,26 +128,6 @@
       "description": "Lancé le 9 septembre 2026 pour les canaux Rapid Release et Scheduled Release... ChatGPT: OpenAI suspend les nouvelles souscriptions à l...",
       "excerpt": "Lancé le 9 septembre 2026 pour les canaux Rapid Release et Scheduled Release... ChatGPT: OpenAI suspend les nouvelles souscriptions à l...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI supprime les frais de licence ChatGPT pour les administrations américaines",
-      "link": "https://www.kingofgeek.com/2026/09/chatgpt-administrations-americaines-onegov-openai/",
-      "url": "https://www.kingofgeek.com/2026/09/chatgpt-administrations-americaines-onegov-openai/",
-      "publishedAt": "2026-09-12T13:37:54.000Z",
-      "date": "2026-09-12T13:37:54.000Z",
-      "description": "Dire qu'OpenAI « offre ChatGPT au gouvernement américain » serait donc un peu trop simpliste.... La cybersécurité devient donc l'un des terrains où la...",
-      "excerpt": "Dire qu'OpenAI « offre ChatGPT au gouvernement américain » serait donc un peu trop simpliste.... La cybersécurité devient donc l'un des terrains où la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un avocat sanctionné pour avoir utilisé ChatGPT et cité de faux témoignages inventés",
-      "link": "https://www.lefilia.fr/article/6152633-un-avocat-sanctionne-pour-avoir-utilise-chatgpt-et-cite-de-faux-temoignages-inventes",
-      "url": "https://www.lefilia.fr/article/6152633-un-avocat-sanctionne-pour-avoir-utilise-chatgpt-et-cite-de-faux-temoignages-inventes",
-      "publishedAt": "2026-09-12T05:14:37.000Z",
-      "date": "2026-09-12T05:14:37.000Z",
-      "description": "... ChatGPT. Dans une ordonnance publiée mercredi, la plus haute... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "excerpt": "... ChatGPT. Dans une ordonnance publiée mercredi, la plus haute... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
