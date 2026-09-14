@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T20:00:20.965Z",
+  "generatedAt": "2026-09-14T02:26:19.449Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Anthropic révèle un quatrième incident de cybersécurité impliquant Claude - Menow",
+      "link": "https://www.menow.fr/anthropic-revele-un-quatrieme-incident-de-cybersecurite-impliquant-claude/",
+      "url": "https://www.menow.fr/anthropic-revele-un-quatrieme-incident-de-cybersecurite-impliquant-claude/",
+      "publishedAt": "2026-09-14T01:04:57.000Z",
+      "date": "2026-09-14T01:04:57.000Z",
+      "description": "... cybersécurité. Là encore, Claude aurait continué à affirmer qu'il... ChatGPT peut désormais analyser les données d'une entreprise et créer...",
+      "excerpt": "... cybersécurité. Là encore, Claude aurait continué à affirmer qu'il... ChatGPT peut désormais analyser les données d'une entreprise et créer...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT commet une énorme erreur en plein procès, l'avocat sanctionné - PhonAndroid",
       "link": "https://www.phonandroid.com/chatgpt-commet-une-enorme-erreur-en-plein-proces-lavocat-sanctionne.html",
@@ -117,16 +127,6 @@
       "date": "2026-09-12T15:33:43.000Z",
       "description": "... ChatGPT. Sa vraie différenciation reposerait plutôt sur le fait de ne... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
       "excerpt": "... ChatGPT. Sa vraie différenciation reposerait plutôt sur le fait de ne... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Images 2.5: OpenAI accélère et affine la retouche d'images pour tous les utilisateurs",
-      "link": "https://lecafedugeek.fr/chatgpt-images-2-5-openai-nouvelle-version/",
-      "url": "https://lecafedugeek.fr/chatgpt-images-2-5-openai-nouvelle-version/",
-      "publishedAt": "2026-09-12T14:13:47.000Z",
-      "date": "2026-09-12T14:13:47.000Z",
-      "description": "Découvrez ChatGPT... Découvrez ses analyses approfondies et ses perspectives sur les dernières tendances high-tech, la cybersécurité, et l'impact des...",
-      "excerpt": "Découvrez ChatGPT... Découvrez ses analyses approfondies et ses perspectives sur les dernières tendances high-tech, la cybersécurité, et l'impact des...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
