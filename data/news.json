@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T02:26:19.449Z",
+  "generatedAt": "2026-09-14T11:15:55.448Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,36 @@
   "failedSources": [],
   "items": [
     {
+      "title": "ChatGPT Ads: la bataille ne se jouera pas sur le CPC - Journaldunet.com",
+      "link": "https://www.journaldunet.com/adtech/1554643-chatgpt-ads-la-bataille-ne-se-jouera-pas-sur-le-cpc/",
+      "url": "https://www.journaldunet.com/adtech/1554643-chatgpt-ads-la-bataille-ne-se-jouera-pas-sur-le-cpc/",
+      "publishedAt": "2026-09-14T08:43:07.000Z",
+      "date": "2026-09-14T08:43:07.000Z",
+      "description": "Cybersécurité · Economie · Industrie · Adtech · Big data · Carrière · Fintech · e-RH... ChatGPT Ads: la bataille ne se jouera pas sur le CPC.",
+      "excerpt": "Cybersécurité · Economie · Industrie · Adtech · Big data · Carrière · Fintech · e-RH... ChatGPT Ads: la bataille ne se jouera pas sur le CPC.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "« Siri With Fable »: un développeur fait tourner… — Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6162859-siri-with-fable-un-developpeur-fait-tourner-claude-dans-siri-grace-a-des-api-cachees-d-ios-27",
+      "url": "https://www.lefilia.fr/article/6162859-siri-with-fable-un-developpeur-fait-tourner-claude-dans-siri-grace-a-des-api-cachees-d-ios-27",
+      "publishedAt": "2026-09-14T08:29:13.000Z",
+      "date": "2026-09-14T08:29:13.000Z",
+      "description": "... ChatGPT, Claude, Gemini et aux IA tierces50Blog du ModérateurOutils... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple IntelligenceSora...",
+      "excerpt": "... ChatGPT, Claude, Gemini et aux IA tierces50Blog du ModérateurOutils... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple IntelligenceSora...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "CBS Warns Humanity May Have a “Narrow Window” to Avoid AI Calamity, Right After...",
+      "link": "https://www.imdb.com/fr/news/ni66014909/?ref_=nwc_art_perm",
+      "url": "https://www.imdb.com/fr/news/ni66014909/?ref_=nwc_art_perm",
+      "publishedAt": "2026-09-14T02:42:43.000Z",
+      "date": "2026-09-14T02:42:43.000Z",
+      "description": "Sunday afternoon, viewers of the NFL on CBS were surprised to hear that the broadcast has a new sponsor this season: OpenAI, the creator of ChatGPT.",
+      "excerpt": "Sunday afternoon, viewers of the NFL on CBS were surprised to hear that the broadcast has a new sponsor this season: OpenAI, the creator of ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Anthropic révèle un quatrième incident de cybersécurité impliquant Claude - Menow",
       "link": "https://www.menow.fr/anthropic-revele-un-quatrieme-incident-de-cybersecurite-impliquant-claude/",
       "url": "https://www.menow.fr/anthropic-revele-un-quatrieme-incident-de-cybersecurite-impliquant-claude/",
@@ -17,6 +47,16 @@
       "date": "2026-09-14T01:04:57.000Z",
       "description": "... cybersécurité. Là encore, Claude aurait continué à affirmer qu'il... ChatGPT peut désormais analyser les données d'une entreprise et créer...",
       "excerpt": "... cybersécurité. Là encore, Claude aurait continué à affirmer qu'il... ChatGPT peut désormais analyser les données d'une entreprise et créer...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI identifie trois défauts derrière la baisse brutale de GPT-6 Astra - Yellow.com",
+      "link": "https://yellow.com/fr/news/openai-identifie-trois-d%C3%A9fauts-derri%C3%A8re-la-chute-soudaine-de-gpt-6-astra",
+      "url": "https://yellow.com/fr/news/openai-identifie-trois-d%C3%A9fauts-derri%C3%A8re-la-chute-soudaine-de-gpt-6-astra",
+      "publishedAt": "2026-09-13T19:21:34.000Z",
+      "date": "2026-09-13T19:21:34.000Z",
+      "description": "D'après de nombreux témoignages, OpenAI a réduit les...",
+      "excerpt": "D'après de nombreux témoignages, OpenAI a réduit les...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -87,46 +127,6 @@
       "date": "2026-09-12T17:27:47.000Z",
       "description": "Le Tour Big Air ATV, géré par deux personnes, affirme avoir réduit certaines tâches de 3 jours à 3 heures avec ChatGPT Work L'entreprise rapporte...",
       "excerpt": "Le Tour Big Air ATV, géré par deux personnes, affirme avoir réduit certaines tâches de 3 jours à 3 heures avec ChatGPT Work L'entreprise rapporte...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance GPT-6 Astra, bridé en cybersécurité et plus cher | Brief IA",
-      "link": "https://www.briefia.fr/article/openai-lance-gpt-6-astra-bride-en-cybersecurite-et-plus-cher",
-      "url": "https://www.briefia.fr/article/openai-lance-gpt-6-astra-bride-en-cybersecurite-et-plus-cher",
-      "publishedAt": "2026-09-12T17:07:47.000Z",
-      "date": "2026-09-12T17:07:47.000Z",
-      "description": "... ChatGPT. Dans ce cadre, Astra... OpenAI a lancé GPT-5.4-Cyber, une version de ChatGPT dédiée à la cybersécurité, ciblant les experts du domaine.",
-      "excerpt": "... ChatGPT. Dans ce cadre, Astra... OpenAI a lancé GPT-5.4-Cyber, une version de ChatGPT dédiée à la cybersécurité, ciblant les experts du domaine.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google bousculé | La Presse - LaPresse.ca",
-      "link": "https://www.lapresse.ca/affaires/techno/commerce-en-ligne/l-ia-revolutionne-deja-le-magasinage/2026-09-12/google-bouscule.php",
-      "url": "https://www.lapresse.ca/affaires/techno/commerce-en-ligne/l-ia-revolutionne-deja-le-magasinage/2026-09-12/google-bouscule.php",
-      "publishedAt": "2026-09-12T15:45:36.000Z",
-      "date": "2026-09-12T15:45:36.000Z",
-      "description": "... ChatGPT, plutôt que ceux du premier cyberdétaillant chinois venu? Il... Cybersécurité Des millions de permis de conduire à vendre sur le web obscur.",
-      "excerpt": "... ChatGPT, plutôt que ceux du premier cyberdétaillant chinois venu? Il... Cybersécurité Des millions de permis de conduire à vendre sur le web obscur.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Bicycles Quilicot | « ChatGPT m'a dit de comparer tel et tel vélos » - LaPresse.ca",
-      "link": "https://www.lapresse.ca/affaires/techno/commerce-en-ligne/l-ia-revolutionne-deja-le-magasinage/2026-09-12/bicycles-quilicot/chatgpt-m-a-dit-de-comparer-tel-et-tel-velos.php",
-      "url": "https://www.lapresse.ca/affaires/techno/commerce-en-ligne/l-ia-revolutionne-deja-le-magasinage/2026-09-12/bicycles-quilicot/chatgpt-m-a-dit-de-comparer-tel-et-tel-velos.php",
-      "publishedAt": "2026-09-12T15:43:46.000Z",
-      "date": "2026-09-12T15:43:46.000Z",
-      "description": "Bicycles Quilicot « ChatGPT m'a dit de comparer tel et tel vélos »... Cybersécurité Des millions de permis de conduire à vendre sur le web obscur.",
-      "excerpt": "Bicycles Quilicot « ChatGPT m'a dit de comparer tel et tel vélos »... Cybersécurité Des millions de permis de conduire à vendre sur le web obscur.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cette start-up française veut que vous trouviez votre logement en discutant simplement avec...",
-      "link": "https://www.01net.com/actualites/cette-start-up-francaise-veut-que-vous-trouviez-votre-logement-en-discutant-simplement-avec-chatgpt.html",
-      "url": "https://www.01net.com/actualites/cette-start-up-francaise-veut-que-vous-trouviez-votre-logement-en-discutant-simplement-avec-chatgpt.html",
-      "publishedAt": "2026-09-12T15:33:43.000Z",
-      "date": "2026-09-12T15:33:43.000Z",
-      "description": "... ChatGPT. Sa vraie différenciation reposerait plutôt sur le fait de ne... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "excerpt": "... ChatGPT. Sa vraie différenciation reposerait plutôt sur le fait de ne... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
