@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T17:15:46.686Z",
+  "generatedAt": "2026-09-14T21:11:11.938Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Siri pourrait déléguer ses tâches à Claude et ChatGPT - AppSystem",
+      "link": "https://www.appsystem.fr/260482/siri-delegation-claude-chatgpt/",
+      "url": "https://www.appsystem.fr/260482/siri-delegation-claude-chatgpt/",
+      "publishedAt": "2026-09-14T19:03:31.000Z",
+      "date": "2026-09-14T19:03:31.000Z",
+      "description": "Dans la Release Candidate de macOS 27 Golden Gate, le menu « Ask… » reste limité à l'extension ChatGPT. Claude n'y est pas encore proposé, mais...",
+      "excerpt": "Dans la Release Candidate de macOS 27 Golden Gate, le menu « Ask… » reste limité à l'extension ChatGPT. Claude n'y est pas encore proposé, mais...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Vous pouvez désormais griffonner dans ChatGPT, qui transformera vos croquis en images abouties",
+      "link": "https://www.zdnet.fr/pratique/vous-pouvez-desormais-griffonner-dans-chatgpt-qui-transformera-vos-croquis-en-images-abouties-comment-lessayer-503467.htm",
+      "url": "https://www.zdnet.fr/pratique/vous-pouvez-desormais-griffonner-dans-chatgpt-qui-transformera-vos-croquis-en-images-abouties-comment-lessayer-503467.htm",
+      "publishedAt": "2026-09-14T18:44:34.000Z",
+      "date": "2026-09-14T18:44:34.000Z",
+      "description": "Grâce au nouvel outil « Sketch » de ChatGPT, vous pouvez dessiner directement dans la fenêtre de discussion, puis voir votre croquis se...",
+      "excerpt": "Grâce au nouvel outil « Sketch » de ChatGPT, vous pouvez dessiner directement dans la fenêtre de discussion, puis voir votre croquis se...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Et si iOS 27 permettait de remplacer Siri AI par Claude ou ChatGPT - Mac4Ever",
+      "link": "https://www.mac4ever.com/iphone/198027-ios-27-permet-de-remplacer-siri-ai-par-claude-ou-chatgpt",
+      "url": "https://www.mac4ever.com/iphone/198027-ios-27-permet-de-remplacer-siri-ai-par-claude-ou-chatgpt",
+      "publishedAt": "2026-09-14T18:25:44.000Z",
+      "date": "2026-09-14T18:25:44.000Z",
+      "description": "Pour l'instant, cette possibilité reste expérimentale: dans la Release Candidate de macOS 27, le menu Ask… ne propose que ChatGPT et Apple n'a...",
+      "excerpt": "Pour l'instant, cette possibilité reste expérimentale: dans la Release Candidate de macOS 27, le menu Ask… ne propose que ChatGPT et Apple n'a...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Siri pourrait laisser sa place à Claude ou ChatGPT, selon du code découvert dans iOS 27",
+      "link": "https://worldissmall.fr/2026/09/14/siri-pourrait-laisser-sa-place-a-claude-ou-chatgpt-selon-du-code-decouvert-dans-ios-27/",
+      "url": "https://worldissmall.fr/2026/09/14/siri-pourrait-laisser-sa-place-a-claude-ou-chatgpt-selon-du-code-decouvert-dans-ios-27/",
+      "publishedAt": "2026-09-14T18:05:06.000Z",
+      "date": "2026-09-14T18:05:06.000Z",
+      "description": "Dans la Release Candidate de macOS 27 Golden Gate, le menu « Ask… » reste pour l'instant limité à l'extension ChatGPT. Claude n'est donc pas...",
+      "excerpt": "Dans la Release Candidate de macOS 27 Golden Gate, le menu « Ask… » reste pour l'instant limité à l'extension ChatGPT. Claude n'est donc pas...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Siri pourrait fonctionner sur les modèles Claude ou ChatGPT dans iOS 27 - iPhoneSoft",
+      "link": "https://iphonesoft.fr/2026/09/14/siri-fonctionner-modeles-claude-chatgpt-ios-27",
+      "url": "https://iphonesoft.fr/2026/09/14/siri-fonctionner-modeles-claude-chatgpt-ios-27",
+      "publishedAt": "2026-09-14T17:44:35.000Z",
+      "date": "2026-09-14T17:44:35.000Z",
+      "description": "Pour l'instant, Claude n'est pas disponible dans cette interface: le Release Candidate de macOS 27 ne propose que l'extension ChatGPT. Apple n'a...",
+      "excerpt": "Pour l'instant, Claude n'est pas disponible dans cette interface: le Release Candidate de macOS 27 ne propose que l'extension ChatGPT. Apple n'a...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "visionOS 27 est disponible sur Apple Vision Pro: les nouveautés - iPhoneAddict.fr",
+      "link": "https://iphoneaddict.fr/post/news-435465-visionos-27-disponible-apple-vision-pro-nouveautes/amp",
+      "url": "https://iphoneaddict.fr/post/news-435465-visionos-27-disponible-apple-vision-pro-nouveautes/amp",
+      "publishedAt": "2026-09-14T17:42:04.000Z",
+      "date": "2026-09-14T17:42:04.000Z",
+      "description": "La mise à jour ajoute le support des iPhone 18 Pro et iPhone 18 Pro Max… macOS 27 Golden Gate Siri AI Remplacement Par ChatGPT Claude. Mac 14...",
+      "excerpt": "La mise à jour ajoute le support des iPhone 18 Pro et iPhone 18 Pro Max… macOS 27 Golden Gate Siri AI Remplacement Par ChatGPT Claude. Mac 14...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Les liens google.com/goto expliqués et comment voir la vraie destination - Pasquale Pillitteri",
       "link": "https://pasqualepillitteri.it/fr/news/16261/liens-google-goto-vraie-destination",
@@ -27,26 +87,6 @@
       "date": "2026-09-14T15:57:53.000Z",
       "description": "Capable d'agir seul sur un ordinateur et de mener des opérations de cybersécurité... \" ChatGPT for Teens\": OpenAI déploie son intelligence artificielle...",
       "excerpt": "Capable d'agir seul sur un ordinateur et de mener des opérations de cybersécurité... \" ChatGPT for Teens\": OpenAI déploie son intelligence artificielle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Vous pouvez désormais griffonner dans ChatGPT, qui transformera vos croquis en images abouties",
-      "link": "https://www.zdnet.fr/pratique/vous-pouvez-desormais-griffonner-dans-chatgpt-qui-transformera-vos-croquis-en-images-abouties-comment-lessayer-503467.htm",
-      "url": "https://www.zdnet.fr/pratique/vous-pouvez-desormais-griffonner-dans-chatgpt-qui-transformera-vos-croquis-en-images-abouties-comment-lessayer-503467.htm",
-      "publishedAt": "2026-09-14T15:33:36.000Z",
-      "date": "2026-09-14T15:33:36.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... Sketch est accessible à tous les utilisateurs de ChatGPT, ChatGPT...",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... Sketch est accessible à tous les utilisateurs de ChatGPT, ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Siri pourrait fonctionner sur les modèles Claude ou ChatGPT dans iOS 27 - iPhoneSoft",
-      "link": "https://iphonesoft.fr/2026/09/14/siri-fonctionner-modeles-claude-chatgpt-ios-27",
-      "url": "https://iphonesoft.fr/2026/09/14/siri-fonctionner-modeles-claude-chatgpt-ios-27",
-      "publishedAt": "2026-09-14T15:22:55.000Z",
-      "date": "2026-09-14T15:22:55.000Z",
-      "description": "Siri pourrait fonctionner sur les modèles Claude ou ChatGPT dans iOS 27... Cybersécurité: la France n'est pas au niveau en 2026 Geek / IA 18...",
-      "excerpt": "Siri pourrait fonctionner sur les modèles Claude ou ChatGPT dans iOS 27... Cybersécurité: la France n'est pas au niveau en 2026 Geek / IA 18...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -87,46 +127,6 @@
       "date": "2026-09-14T08:29:13.000Z",
       "description": "... ChatGPT, Claude, Gemini et aux IA tierces50Blog du ModérateurOutils... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple IntelligenceSora...",
       "excerpt": "... ChatGPT, Claude, Gemini et aux IA tierces50Blog du ModérateurOutils... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple IntelligenceSora...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "CBS Warns Humanity May Have a “Narrow Window” to Avoid AI Calamity, Right After...",
-      "link": "https://www.imdb.com/fr/news/ni66014909/?ref_=nwc_art_perm",
-      "url": "https://www.imdb.com/fr/news/ni66014909/?ref_=nwc_art_perm",
-      "publishedAt": "2026-09-14T02:42:43.000Z",
-      "date": "2026-09-14T02:42:43.000Z",
-      "description": "Sunday afternoon, viewers of the NFL on CBS were surprised to hear that the broadcast has a new sponsor this season: OpenAI, the creator of ChatGPT.",
-      "excerpt": "Sunday afternoon, viewers of the NFL on CBS were surprised to hear that the broadcast has a new sponsor this season: OpenAI, the creator of ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Anthropic révèle un quatrième incident de cybersécurité impliquant Claude - Menow",
-      "link": "https://www.menow.fr/anthropic-revele-un-quatrieme-incident-de-cybersecurite-impliquant-claude/",
-      "url": "https://www.menow.fr/anthropic-revele-un-quatrieme-incident-de-cybersecurite-impliquant-claude/",
-      "publishedAt": "2026-09-14T01:04:57.000Z",
-      "date": "2026-09-14T01:04:57.000Z",
-      "description": "... cybersécurité. Là encore, Claude aurait continué à affirmer qu'il... ChatGPT peut désormais analyser les données d'une entreprise et créer...",
-      "excerpt": "... cybersécurité. Là encore, Claude aurait continué à affirmer qu'il... ChatGPT peut désormais analyser les données d'une entreprise et créer...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Israël bloque ChatGPT et d'autres outils d'IA dans les hôpitaux publics par crainte de cyberattaques",
-      "link": "https://www.aurora-israel.co.il/fr/Isra%C3%ABl-bloque-Chatgpt-et-d%27autres-outils-d%27IA-dans-les-h%C3%B4pitaux-publics-par-crainte-de-cyberattaques./",
-      "url": "https://www.aurora-israel.co.il/fr/Isra%C3%ABl-bloque-Chatgpt-et-d%27autres-outils-d%27IA-dans-les-h%C3%B4pitaux-publics-par-crainte-de-cyberattaques./",
-      "publishedAt": "2026-09-14T01:02:10.000Z",
-      "date": "2026-09-14T01:02:10.000Z",
-      "description": "... ChatGPT et à d'autres outils d'intelligence artificielle pour des raisons de cybersécurité.... ChatGPT, Claude ou Gemini depuis des ordinateurs...",
-      "excerpt": "... ChatGPT et à d'autres outils d'intelligence artificielle pour des raisons de cybersécurité.... ChatGPT, Claude ou Gemini depuis des ordinateurs...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI identifie trois défauts derrière la baisse brutale de GPT-6 Astra - Yellow.com",
-      "link": "https://yellow.com/fr/news/openai-identifie-trois-d%C3%A9fauts-derri%C3%A8re-la-chute-soudaine-de-gpt-6-astra",
-      "url": "https://yellow.com/fr/news/openai-identifie-trois-d%C3%A9fauts-derri%C3%A8re-la-chute-soudaine-de-gpt-6-astra",
-      "publishedAt": "2026-09-13T19:21:34.000Z",
-      "date": "2026-09-13T19:21:34.000Z",
-      "description": "D'après de nombreux témoignages, OpenAI a réduit les...",
-      "excerpt": "D'après de nombreux témoignages, OpenAI a réduit les...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
