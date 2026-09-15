@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T02:31:09.685Z",
+  "generatedAt": "2026-09-15T10:41:51.451Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Oui, il y a vraiment des humains chez OpenAI qui lisent vos conversations sur ChatGPT",
+      "link": "https://www.clubic.com/actualite-629638-oui-il-y-a-vraiment-des-humains-chez-openai-qui-lisent-vos-conversation-sur-chatgpt.html",
+      "url": "https://www.clubic.com/actualite-629638-oui-il-y-a-vraiment-des-humains-chez-openai-qui-lisent-vos-conversation-sur-chatgpt.html",
+      "publishedAt": "2026-09-15T08:15:22.000Z",
+      "date": "2026-09-15T08:15:22.000Z",
+      "description": "... ChatGPT. Ces derniers notent la qualité des réponses générées par le... Cybersécurité · Données personnelles. Oui, il y a vraiment des humains...",
+      "excerpt": "... ChatGPT. Ces derniers notent la qualité des réponses générées par le... Cybersécurité · Données personnelles. Oui, il y a vraiment des humains...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Elon Musk abandonne son procès contre Apple (mais pas OpenAI) - iPhoneSoft",
+      "link": "https://iphonesoft.fr/2026/09/15/elon-musk-abandonne-proces-contre-apple-pas-openai",
+      "url": "https://iphonesoft.fr/2026/09/15/elon-musk-abandonne-proces-contre-apple-pas-openai",
+      "publishedAt": "2026-09-15T06:25:22.000Z",
+      "date": "2026-09-15T06:25:22.000Z",
+      "description": "... ChatGPT à Siri. La demande vise à abandonner définitivement les... Cybersécurité: la France n'est pas au niveau en 2026 Geek / IA 18; L...",
+      "excerpt": "... ChatGPT à Siri. La demande vise à abandonner définitivement les... Cybersécurité: la France n'est pas au niveau en 2026 Geek / IA 18; L...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cybersécurité: comment les spécialistes de l'IA nous enfument - Marianne",
+      "link": "https://www.marianne.net/economie/cybersecurite-comment-les-specialistes-de-l-ia-nous-enfument",
+      "url": "https://www.marianne.net/economie/cybersecurite-comment-les-specialistes-de-l-ia-nous-enfument",
+      "publishedAt": "2026-09-15T03:20:11.000Z",
+      "date": "2026-09-15T03:20:11.000Z",
+      "description": "« OpenAI », l'entreprise à l'origine de l'explosion de l'intelligence artificielle générative avec son agent conversationnel ChatGPT, a ébranlé les...",
+      "excerpt": "« OpenAI », l'entreprise à l'origine de l'explosion de l'intelligence artificielle générative avec son agent conversationnel ChatGPT, a ébranlé les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI emploie des centaines de prestataires qui lisent vos conversations avec ChatGPT - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6166730-openai-emploie-des-centaines-de-prestataires-qui-lisent-vos-conversations-avec-chatgpt",
+      "url": "https://www.lefilia.fr/article/6166730-openai-emploie-des-centaines-de-prestataires-qui-lisent-vos-conversations-avec-chatgpt",
+      "publishedAt": "2026-09-15T03:11:57.000Z",
+      "date": "2026-09-15T03:11:57.000Z",
+      "description": "OpenAI emploie des centaines de travailleurs contractuels chargés de lire de véritables conversations d'utilisateurs de ChatGPT et de les noter...",
+      "excerpt": "OpenAI emploie des centaines de travailleurs contractuels chargés de lire de véritables conversations d'utilisateurs de ChatGPT et de les noter...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment OpenAI s'est installé au cœur des logiciels d'entreprise - Silicon.fr",
+      "link": "https://www.silicon.fr/business-1367/comment-openai-sest-installe-au-coeur-des-logiciels-dentreprise-229128",
+      "url": "https://www.silicon.fr/business-1367/comment-openai-sest-installe-au-coeur-des-logiciels-dentreprise-229128",
+      "publishedAt": "2026-09-15T00:44:54.000Z",
+      "date": "2026-09-15T00:44:54.000Z",
+      "description": "Les éditeurs de logiciels deviennent eux-mêmes un canal de distribution. GPT-5: le modèle devient le moteur des agents. La deuxième étape apparaît...",
+      "excerpt": "Les éditeurs de logiciels deviennent eux-mêmes un canal de distribution. GPT-5: le modèle devient le moteur des agents. La deuxième étape apparaît...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Elon Musk (SpaceXAI) abandonne les poursuites contre Apple et l'IA - iPhoneAddict.fr",
       "link": "https://iphoneaddict.fr/post/news-435461-elon-musk-spacexai-abandonne-poursuites-contre-apple-lia",
@@ -78,56 +128,6 @@
       "description": "Dans la Release Candidate de macOS 27 Golden Gate, le menu « Ask… » reste pour l'instant limité à l'extension ChatGPT. Claude n'est donc pas...",
       "excerpt": "Dans la Release Candidate de macOS 27 Golden Gate, le menu « Ask… » reste pour l'instant limité à l'extension ChatGPT. Claude n'est donc pas...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Siri pourrait fonctionner sur les modèles Claude ou ChatGPT dans iOS 27 - iPhoneSoft",
-      "link": "https://iphonesoft.fr/2026/09/14/siri-fonctionner-modeles-claude-chatgpt-ios-27",
-      "url": "https://iphonesoft.fr/2026/09/14/siri-fonctionner-modeles-claude-chatgpt-ios-27",
-      "publishedAt": "2026-09-14T17:44:35.000Z",
-      "date": "2026-09-14T17:44:35.000Z",
-      "description": "Pour l'instant, Claude n'est pas disponible dans cette interface: le Release Candidate de macOS 27 ne propose que l'extension ChatGPT. Apple n'a...",
-      "excerpt": "Pour l'instant, Claude n'est pas disponible dans cette interface: le Release Candidate de macOS 27 ne propose que l'extension ChatGPT. Apple n'a...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "visionOS 27 est disponible sur Apple Vision Pro: les nouveautés - iPhoneAddict.fr",
-      "link": "https://iphoneaddict.fr/post/news-435465-visionos-27-disponible-apple-vision-pro-nouveautes/amp",
-      "url": "https://iphoneaddict.fr/post/news-435465-visionos-27-disponible-apple-vision-pro-nouveautes/amp",
-      "publishedAt": "2026-09-14T17:42:04.000Z",
-      "date": "2026-09-14T17:42:04.000Z",
-      "description": "La mise à jour ajoute le support des iPhone 18 Pro et iPhone 18 Pro Max… macOS 27 Golden Gate Siri AI Remplacement Par ChatGPT Claude. Mac 14...",
-      "excerpt": "La mise à jour ajoute le support des iPhone 18 Pro et iPhone 18 Pro Max… macOS 27 Golden Gate Siri AI Remplacement Par ChatGPT Claude. Mac 14...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Les liens google.com/goto expliqués et comment voir la vraie destination - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/16261/liens-google-goto-vraie-destination",
-      "url": "https://pasqualepillitteri.it/fr/news/16261/liens-google-goto-vraie-destination",
-      "publishedAt": "2026-09-14T16:53:27.000Z",
-      "date": "2026-09-14T16:53:27.000Z",
-      "description": "Cybersecurite cybersécurité google goto liens google goto passthrough url scraping seo... ChatGPT Recommande des Sites Frauduleux: les...",
-      "excerpt": "Cybersecurite cybersécurité google goto liens google goto passthrough url scraping seo... ChatGPT Recommande des Sites Frauduleux: les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Au bout du monde, Sam Altman prépare son prochain pari à 25 milliards de dollars",
-      "link": "https://www.lalibre.be/economie/entreprises-startup/2026/09/14/au-bout-du-monde-sam-altman-prepare-son-prochain-pari-a-25-milliards-de-dollars-WN2CCPL5K5D2DJGWDDPXAGWF2Y/",
-      "url": "https://www.lalibre.be/economie/entreprises-startup/2026/09/14/au-bout-du-monde-sam-altman-prepare-son-prochain-pari-a-25-milliards-de-dollars-WN2CCPL5K5D2DJGWDDPXAGWF2Y/",
-      "publishedAt": "2026-09-14T15:57:53.000Z",
-      "date": "2026-09-14T15:57:53.000Z",
-      "description": "Capable d'agir seul sur un ordinateur et de mener des opérations de cybersécurité... \" ChatGPT for Teens\": OpenAI déploie son intelligence artificielle...",
-      "excerpt": "Capable d'agir seul sur un ordinateur et de mener des opérations de cybersécurité... \" ChatGPT for Teens\": OpenAI déploie son intelligence artificielle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Extensions de navigateur malveillantes: risques - Panda Security",
-      "link": "https://www.pandasecurity.com/fr/mediacenter/extensions-navigateur-malveillantes-risque-cache-dans-outils-installons-jours/",
-      "url": "https://www.pandasecurity.com/fr/mediacenter/extensions-navigateur-malveillantes-risque-cache-dans-outils-installons-jours/",
-      "publishedAt": "2026-09-14T13:16:17.000Z",
-      "date": "2026-09-14T13:16:17.000Z",
-      "description": "Bloquer les publicités, traduire une page, gérer ses mots de passe, comparer les prix ou accéder plus facilement à ChatGPT.... cybersécurité avancés...",
-      "excerpt": "Bloquer les publicités, traduire une page, gérer ses mots de passe, comparer les prix ou accéder plus facilement à ChatGPT.... cybersécurité avancés...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
