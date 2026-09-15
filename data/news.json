@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T21:11:11.938Z",
+  "generatedAt": "2026-09-15T02:31:09.685Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Elon Musk (SpaceXAI) abandonne les poursuites contre Apple et l'IA - iPhoneAddict.fr",
+      "link": "https://iphoneaddict.fr/post/news-435461-elon-musk-spacexai-abandonne-poursuites-contre-apple-lia",
+      "url": "https://iphoneaddict.fr/post/news-435461-elon-musk-spacexai-abandonne-poursuites-contre-apple-lia",
+      "publishedAt": "2026-09-14T21:23:43.000Z",
+      "date": "2026-09-14T21:23:43.000Z",
+      "description": "Un conflit qui se concentre désormais sur OpenAI. La plainte initiale visait à la fois Apple et OpenAI autour de la place occupée par ChatGPT dans l'...",
+      "excerpt": "Un conflit qui se concentre désormais sur OpenAI. La plainte initiale visait à la fois Apple et OpenAI autour de la place occupée par ChatGPT dans l'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Plus risqué que l'arme nucléaire, selon Elon Musk… - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6164866-plus-risque-que-l-arme-nucleaire-selon-elon-musk-l-ia-fait-peur-aux-patrons-de-claude-chatgpt-et-grok-mais-donald-trump-balaie-leur-appel-au-ralentissement-d-un-revers-de-la-main",
+      "url": "https://www.lefilia.fr/article/6164866-plus-risque-que-l-arme-nucleaire-selon-elon-musk-l-ia-fait-peur-aux-patrons-de-claude-chatgpt-et-grok-mais-donald-trump-balaie-leur-appel-au-ralentissement-d-un-revers-de-la-main",
+      "publishedAt": "2026-09-14T19:12:32.000Z",
+      "date": "2026-09-14T19:12:32.000Z",
+      "description": "Pour les utilisateurs et la société, le décalage entre les avertissements des concepteurs de Claude, ChatGPT... GPT-5 DeepSeekDeepSeek V4Gemini...",
+      "excerpt": "Pour les utilisateurs et la société, le décalage entre les avertissements des concepteurs de Claude, ChatGPT... GPT-5 DeepSeekDeepSeek V4Gemini...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Siri pourrait déléguer ses tâches à Claude et ChatGPT - AppSystem",
       "link": "https://www.appsystem.fr/260482/siri-delegation-claude-chatgpt/",
@@ -37,6 +57,16 @@
       "date": "2026-09-14T18:25:44.000Z",
       "description": "Pour l'instant, cette possibilité reste expérimentale: dans la Release Candidate de macOS 27, le menu Ask… ne propose que ChatGPT et Apple n'a...",
       "excerpt": "Pour l'instant, cette possibilité reste expérimentale: dans la Release Candidate de macOS 27, le menu Ask… ne propose que ChatGPT et Apple n'a...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Remplacer Siri AI par ChatGPT ou Claude sera possible - iPhoneAddict.fr",
+      "link": "https://iphoneaddict.fr/post/news-435451-remplacer-siri-ai-chatgpt-claude-sera-possible",
+      "url": "https://iphoneaddict.fr/post/news-435451-remplacer-siri-ai-chatgpt-claude-sera-possible",
+      "publishedAt": "2026-09-14T18:17:33.000Z",
+      "date": "2026-09-14T18:17:33.000Z",
+      "description": "Apple propose une nouvelle bêta de Xcode 26 avec GPT-5 et Claude. 0... Cela fait suite à plusieurs bêtas et une release candidate. Le… macOS...",
+      "excerpt": "Apple propose une nouvelle bêta de Xcode 26 avec GPT-5 et Claude. 0... Cela fait suite à plusieurs bêtas et une release candidate. Le… macOS...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
@@ -97,36 +127,6 @@
       "date": "2026-09-14T13:16:17.000Z",
       "description": "Bloquer les publicités, traduire une page, gérer ses mots de passe, comparer les prix ou accéder plus facilement à ChatGPT.... cybersécurité avancés...",
       "excerpt": "Bloquer les publicités, traduire une page, gérer ses mots de passe, comparer les prix ou accéder plus facilement à ChatGPT.... cybersécurité avancés...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI suspend les nouvelles souscriptions à ChatGPT Pro face à la forte demande pour... - BDM",
-      "link": "https://www.blogdumoderateur.com/openai-suspend-nouvelles-souscriptions-chatgpt-pro-forte-demande-gpt-6-astra/",
-      "url": "https://www.blogdumoderateur.com/openai-suspend-nouvelles-souscriptions-chatgpt-pro-forte-demande-gpt-6-astra/",
-      "publishedAt": "2026-09-14T09:48:13.000Z",
-      "date": "2026-09-14T09:48:13.000Z",
-      "description": "Social · Tech · Tools. Trouver un article. Rechercher: Google Réglementation OpenAI Développement Interviews SEO Cybersécurité Productivité Anthropic...",
-      "excerpt": "Social · Tech · Tools. Trouver un article. Rechercher: Google Réglementation OpenAI Développement Interviews SEO Cybersécurité Productivité Anthropic...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Ads: la bataille ne se jouera pas sur le CPC - Journaldunet.com",
-      "link": "https://www.journaldunet.com/adtech/1554643-chatgpt-ads-la-bataille-ne-se-jouera-pas-sur-le-cpc/",
-      "url": "https://www.journaldunet.com/adtech/1554643-chatgpt-ads-la-bataille-ne-se-jouera-pas-sur-le-cpc/",
-      "publishedAt": "2026-09-14T08:43:07.000Z",
-      "date": "2026-09-14T08:43:07.000Z",
-      "description": "Cybersécurité · Economie · Industrie · Adtech · Big data · Carrière · Fintech · e-RH... ChatGPT Ads: la bataille ne se jouera pas sur le CPC.",
-      "excerpt": "Cybersécurité · Economie · Industrie · Adtech · Big data · Carrière · Fintech · e-RH... ChatGPT Ads: la bataille ne se jouera pas sur le CPC.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "« Siri With Fable »: un développeur fait tourner… — Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6162859-siri-with-fable-un-developpeur-fait-tourner-claude-dans-siri-grace-a-des-api-cachees-d-ios-27",
-      "url": "https://www.lefilia.fr/article/6162859-siri-with-fable-un-developpeur-fait-tourner-claude-dans-siri-grace-a-des-api-cachees-d-ios-27",
-      "publishedAt": "2026-09-14T08:29:13.000Z",
-      "date": "2026-09-14T08:29:13.000Z",
-      "description": "... ChatGPT, Claude, Gemini et aux IA tierces50Blog du ModérateurOutils... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple IntelligenceSora...",
-      "excerpt": "... ChatGPT, Claude, Gemini et aux IA tierces50Blog du ModérateurOutils... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple IntelligenceSora...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
