@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T10:41:51.451Z",
+  "generatedAt": "2026-09-15T15:55:05.100Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,96 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT: oui, des inconnus sont payés pour lire vos conversations, voici comment l'empêcher",
+      "link": "https://www.phonandroid.com/chatgpt-des-inconnus-payes-pour-lire-vos-conversations-voici-comment-lempecher.html",
+      "url": "https://www.phonandroid.com/chatgpt-des-inconnus-payes-pour-lire-vos-conversations-voici-comment-lempecher.html",
+      "publishedAt": "2026-09-15T15:18:49.000Z",
+      "date": "2026-09-15T15:18:49.000Z",
+      "description": "OpenAI recrute des réviseurs humains pour lire vos discussions avec ChatGPT via un paramètre activé par défaut. Voici comment le désactiver.",
+      "excerpt": "OpenAI recrute des réviseurs humains pour lire vos discussions avec ChatGPT via un paramètre activé par défaut. Voici comment le désactiver.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "xAI abandonne ses poursuites contre Apple, il les avait engagées après l'intégration de...",
+      "link": "https://www.bfmtv.com/tech/actualites/reseaux-sociaux/x-ai-abandonne-ses-poursuites-contre-apple-il-les-avait-engagees-apres-l-integration-de-chat-gpt-au-sein-d-i-os_AV-202609150580.html",
+      "url": "https://www.bfmtv.com/tech/actualites/reseaux-sociaux/x-ai-abandonne-ses-poursuites-contre-apple-il-les-avait-engagees-apres-l-integration-de-chat-gpt-au-sein-d-i-os_AV-202609150580.html",
+      "publishedAt": "2026-09-15T14:47:17.000Z",
+      "date": "2026-09-15T14:47:17.000Z",
+      "description": "À l'époque, ce rapprochement avait permis à la start-up de Sam Altman d'intégrer ChatGPT au cœur d'iOS pour aider Siri, l'assistant intelligent du...",
+      "excerpt": "À l'époque, ce rapprochement avait permis à la start-up de Sam Altman d'intégrer ChatGPT au cœur d'iOS pour aider Siri, l'assistant intelligent du...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le créateur de Siri révèle pourquoi l'assistant d'Apple n'est pas au niveau - Clubic",
+      "link": "https://www.clubic.com/actualite-629773-le-createur-de-siri-revele-pourquoi-l-assistant-d-apple-n-est-pas-au-niveau.html",
+      "url": "https://www.clubic.com/actualite-629773-le-createur-de-siri-revele-pourquoi-l-assistant-d-apple-n-est-pas-au-niveau.html",
+      "publishedAt": "2026-09-15T14:05:51.000Z",
+      "date": "2026-09-15T14:05:51.000Z",
+      "description": "Pour sauver Siri, Apple hésite entre ChatGPT et Claude pour...",
+      "excerpt": "Pour sauver Siri, Apple hésite entre ChatGPT et Claude pour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Omny: chercher son logement directement dans ChatGPT, sans changer d'appli",
+      "link": "https://lecafedugeek.fr/omny-chatgpt-recherche-logement-immobilier/",
+      "url": "https://lecafedugeek.fr/omny-chatgpt-recherche-logement-immobilier/",
+      "publishedAt": "2026-09-15T14:02:37.000Z",
+      "date": "2026-09-15T14:02:37.000Z",
+      "description": "... ChatGPT.... Découvrez ses analyses approfondies et ses perspectives sur les dernières tendances high-tech, la cybersécurité, et l'impact des...",
+      "excerpt": "... ChatGPT.... Découvrez ses analyses approfondies et ses perspectives sur les dernières tendances high-tech, la cybersécurité, et l'impact des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Samsung travaille avec OpenAI sur des puces et équipe ses salariés de ChatGPT - Korben",
+      "link": "https://korben.info/samsung-travaille-avec-openai-sur-des-puces-et-equipe-ses-salaries-de-chatgpt.html",
+      "url": "https://korben.info/samsung-travaille-avec-openai-sur-des-puces-et-equipe-ses-salaries-de-chatgpt.html",
+      "publishedAt": "2026-09-15T13:52:50.000Z",
+      "date": "2026-09-15T13:52:50.000Z",
+      "description": "L'accord rend ChatGPT Enterprise et Codex accessibles à tous les salariés de Samsung Electronics en Corée, ainsi qu'aux équipes de sa division Device...",
+      "excerpt": "L'accord rend ChatGPT Enterprise et Codex accessibles à tous les salariés de Samsung Electronics en Corée, ainsi qu'aux équipes de sa division Device...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI met 300 millions pour une technologie photo créée par des anciens d'Apple",
+      "link": "https://www.mac4ever.com/ia/198044-openai-met-300-millions-pour-une-technologie-photo-creee-par-des-anciens-d-apple-pour-quoi-faire",
+      "url": "https://www.mac4ever.com/ia/198044-openai-met-300-millions-pour-une-technologie-photo-creee-par-des-anciens-d-apple-pour-quoi-faire",
+      "publishedAt": "2026-09-15T12:22:34.000Z",
+      "date": "2026-09-15T12:22:34.000Z",
+      "description": "Après avoir déboursé 6,5 milliards de dollars pour mettre la main sur io, la société de Jony Ive, le créateur de ChatGPT aurait acquis Glass...",
+      "excerpt": "Après avoir déboursé 6,5 milliards de dollars pour mettre la main sur io, la société de Jony Ive, le créateur de ChatGPT aurait acquis Glass...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Templafy intègre les Document Agents à Claude, ChatGPT et Microsoft Copilot via MCP",
+      "link": "https://www.globenewswire.com/news-release/2026/09/15/3361928/0/fr/templafy-int%C3%A8gre-les-document-agents-%C3%A0-claude-chatgpt-et-microsoft-copilot-via-mcp.html",
+      "url": "https://www.globenewswire.com/news-release/2026/09/15/3361928/0/fr/templafy-int%C3%A8gre-les-document-agents-%C3%A0-claude-chatgpt-et-microsoft-copilot-via-mcp.html",
+      "publishedAt": "2026-09-15T11:26:18.000Z",
+      "date": "2026-09-15T11:26:18.000Z",
+      "description": "... ChatGPT et Microsoft Copilot, facilitant ainsi l'accès à ses... Press Release Actions. Print · Download PDF · Subscribe via RSS · Subscribe...",
+      "excerpt": "... ChatGPT et Microsoft Copilot, facilitant ainsi l'accès à ses... Press Release Actions. Print · Download PDF · Subscribe via RSS · Subscribe...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT: une enquête révèle que des humains peuvent lire certaines de vos conversations",
+      "link": "https://www.lefilia.fr/article/6169395-chatgpt-une-enquete-revele-que-des-humains-peuvent-lire-certaines-de-vos-conversations",
+      "url": "https://www.lefilia.fr/article/6169395-chatgpt-une-enquete-revele-que-des-humains-peuvent-lire-certaines-de-vos-conversations",
+      "publishedAt": "2026-09-15T11:12:04.000Z",
+      "date": "2026-09-15T11:12:04.000Z",
+      "description": "ChatGPT: une enquête révèle que des humains peuvent lire certaines de vos conversations... Cybersécurité IASouveraineté IATous les dossiers →. © 2026...",
+      "excerpt": "ChatGPT: une enquête révèle que des humains peuvent lire certaines de vos conversations... Cybersécurité IASouveraineté IATous les dossiers →. © 2026...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Payhawk révolutionne la manière de travailler des équipes - GlobeNewswire",
+      "link": "https://www.globenewswire.com/news-release/2026/09/15/3361686/0/fr/payhawk-r%C3%A9volutionne-la-mani%C3%A8re-de-travailler-des-%C3%A9quipes-finance-gr%C3%A2ce-%C3%A0-de-nouveaux-playbooks-agentiques.html",
+      "url": "https://www.globenewswire.com/news-release/2026/09/15/3361686/0/fr/payhawk-r%C3%A9volutionne-la-mani%C3%A8re-de-travailler-des-%C3%A9quipes-finance-gr%C3%A2ce-%C3%A0-de-nouveaux-playbooks-agentiques.html",
+      "publishedAt": "2026-09-15T08:17:08.000Z",
+      "date": "2026-09-15T08:17:08.000Z",
+      "description": "... ChatGPT, allégeant considérablement la charge de travail des équipes Finance. Les clients sont également en mesure d'interagir avec l'ensemble des...",
+      "excerpt": "... ChatGPT, allégeant considérablement la charge de travail des équipes Finance. Les clients sont également en mesure d'interagir avec l'ensemble des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Oui, il y a vraiment des humains chez OpenAI qui lisent vos conversations sur ChatGPT",
       "link": "https://www.clubic.com/actualite-629638-oui-il-y-a-vraiment-des-humains-chez-openai-qui-lisent-vos-conversation-sur-chatgpt.html",
@@ -38,96 +128,6 @@
       "description": "« OpenAI », l'entreprise à l'origine de l'explosion de l'intelligence artificielle générative avec son agent conversationnel ChatGPT, a ébranlé les...",
       "excerpt": "« OpenAI », l'entreprise à l'origine de l'explosion de l'intelligence artificielle générative avec son agent conversationnel ChatGPT, a ébranlé les...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI emploie des centaines de prestataires qui lisent vos conversations avec ChatGPT - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6166730-openai-emploie-des-centaines-de-prestataires-qui-lisent-vos-conversations-avec-chatgpt",
-      "url": "https://www.lefilia.fr/article/6166730-openai-emploie-des-centaines-de-prestataires-qui-lisent-vos-conversations-avec-chatgpt",
-      "publishedAt": "2026-09-15T03:11:57.000Z",
-      "date": "2026-09-15T03:11:57.000Z",
-      "description": "OpenAI emploie des centaines de travailleurs contractuels chargés de lire de véritables conversations d'utilisateurs de ChatGPT et de les noter...",
-      "excerpt": "OpenAI emploie des centaines de travailleurs contractuels chargés de lire de véritables conversations d'utilisateurs de ChatGPT et de les noter...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment OpenAI s'est installé au cœur des logiciels d'entreprise - Silicon.fr",
-      "link": "https://www.silicon.fr/business-1367/comment-openai-sest-installe-au-coeur-des-logiciels-dentreprise-229128",
-      "url": "https://www.silicon.fr/business-1367/comment-openai-sest-installe-au-coeur-des-logiciels-dentreprise-229128",
-      "publishedAt": "2026-09-15T00:44:54.000Z",
-      "date": "2026-09-15T00:44:54.000Z",
-      "description": "Les éditeurs de logiciels deviennent eux-mêmes un canal de distribution. GPT-5: le modèle devient le moteur des agents. La deuxième étape apparaît...",
-      "excerpt": "Les éditeurs de logiciels deviennent eux-mêmes un canal de distribution. GPT-5: le modèle devient le moteur des agents. La deuxième étape apparaît...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Elon Musk (SpaceXAI) abandonne les poursuites contre Apple et l'IA - iPhoneAddict.fr",
-      "link": "https://iphoneaddict.fr/post/news-435461-elon-musk-spacexai-abandonne-poursuites-contre-apple-lia",
-      "url": "https://iphoneaddict.fr/post/news-435461-elon-musk-spacexai-abandonne-poursuites-contre-apple-lia",
-      "publishedAt": "2026-09-14T21:23:43.000Z",
-      "date": "2026-09-14T21:23:43.000Z",
-      "description": "Un conflit qui se concentre désormais sur OpenAI. La plainte initiale visait à la fois Apple et OpenAI autour de la place occupée par ChatGPT dans l'...",
-      "excerpt": "Un conflit qui se concentre désormais sur OpenAI. La plainte initiale visait à la fois Apple et OpenAI autour de la place occupée par ChatGPT dans l'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Plus risqué que l'arme nucléaire, selon Elon Musk… - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6164866-plus-risque-que-l-arme-nucleaire-selon-elon-musk-l-ia-fait-peur-aux-patrons-de-claude-chatgpt-et-grok-mais-donald-trump-balaie-leur-appel-au-ralentissement-d-un-revers-de-la-main",
-      "url": "https://www.lefilia.fr/article/6164866-plus-risque-que-l-arme-nucleaire-selon-elon-musk-l-ia-fait-peur-aux-patrons-de-claude-chatgpt-et-grok-mais-donald-trump-balaie-leur-appel-au-ralentissement-d-un-revers-de-la-main",
-      "publishedAt": "2026-09-14T19:12:32.000Z",
-      "date": "2026-09-14T19:12:32.000Z",
-      "description": "Pour les utilisateurs et la société, le décalage entre les avertissements des concepteurs de Claude, ChatGPT... GPT-5 DeepSeekDeepSeek V4Gemini...",
-      "excerpt": "Pour les utilisateurs et la société, le décalage entre les avertissements des concepteurs de Claude, ChatGPT... GPT-5 DeepSeekDeepSeek V4Gemini...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Siri pourrait déléguer ses tâches à Claude et ChatGPT - AppSystem",
-      "link": "https://www.appsystem.fr/260482/siri-delegation-claude-chatgpt/",
-      "url": "https://www.appsystem.fr/260482/siri-delegation-claude-chatgpt/",
-      "publishedAt": "2026-09-14T19:03:31.000Z",
-      "date": "2026-09-14T19:03:31.000Z",
-      "description": "Dans la Release Candidate de macOS 27 Golden Gate, le menu « Ask… » reste limité à l'extension ChatGPT. Claude n'y est pas encore proposé, mais...",
-      "excerpt": "Dans la Release Candidate de macOS 27 Golden Gate, le menu « Ask… » reste limité à l'extension ChatGPT. Claude n'y est pas encore proposé, mais...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Vous pouvez désormais griffonner dans ChatGPT, qui transformera vos croquis en images abouties",
-      "link": "https://www.zdnet.fr/pratique/vous-pouvez-desormais-griffonner-dans-chatgpt-qui-transformera-vos-croquis-en-images-abouties-comment-lessayer-503467.htm",
-      "url": "https://www.zdnet.fr/pratique/vous-pouvez-desormais-griffonner-dans-chatgpt-qui-transformera-vos-croquis-en-images-abouties-comment-lessayer-503467.htm",
-      "publishedAt": "2026-09-14T18:44:34.000Z",
-      "date": "2026-09-14T18:44:34.000Z",
-      "description": "Grâce au nouvel outil « Sketch » de ChatGPT, vous pouvez dessiner directement dans la fenêtre de discussion, puis voir votre croquis se...",
-      "excerpt": "Grâce au nouvel outil « Sketch » de ChatGPT, vous pouvez dessiner directement dans la fenêtre de discussion, puis voir votre croquis se...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Et si iOS 27 permettait de remplacer Siri AI par Claude ou ChatGPT - Mac4Ever",
-      "link": "https://www.mac4ever.com/iphone/198027-ios-27-permet-de-remplacer-siri-ai-par-claude-ou-chatgpt",
-      "url": "https://www.mac4ever.com/iphone/198027-ios-27-permet-de-remplacer-siri-ai-par-claude-ou-chatgpt",
-      "publishedAt": "2026-09-14T18:25:44.000Z",
-      "date": "2026-09-14T18:25:44.000Z",
-      "description": "Pour l'instant, cette possibilité reste expérimentale: dans la Release Candidate de macOS 27, le menu Ask… ne propose que ChatGPT et Apple n'a...",
-      "excerpt": "Pour l'instant, cette possibilité reste expérimentale: dans la Release Candidate de macOS 27, le menu Ask… ne propose que ChatGPT et Apple n'a...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Remplacer Siri AI par ChatGPT ou Claude sera possible - iPhoneAddict.fr",
-      "link": "https://iphoneaddict.fr/post/news-435451-remplacer-siri-ai-chatgpt-claude-sera-possible",
-      "url": "https://iphoneaddict.fr/post/news-435451-remplacer-siri-ai-chatgpt-claude-sera-possible",
-      "publishedAt": "2026-09-14T18:17:33.000Z",
-      "date": "2026-09-14T18:17:33.000Z",
-      "description": "Apple propose une nouvelle bêta de Xcode 26 avec GPT-5 et Claude. 0... Cela fait suite à plusieurs bêtas et une release candidate. Le… macOS...",
-      "excerpt": "Apple propose une nouvelle bêta de Xcode 26 avec GPT-5 et Claude. 0... Cela fait suite à plusieurs bêtas et une release candidate. Le… macOS...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Siri pourrait laisser sa place à Claude ou ChatGPT, selon du code découvert dans iOS 27",
-      "link": "https://worldissmall.fr/2026/09/14/siri-pourrait-laisser-sa-place-a-claude-ou-chatgpt-selon-du-code-decouvert-dans-ios-27/",
-      "url": "https://worldissmall.fr/2026/09/14/siri-pourrait-laisser-sa-place-a-claude-ou-chatgpt-selon-du-code-decouvert-dans-ios-27/",
-      "publishedAt": "2026-09-14T18:05:06.000Z",
-      "date": "2026-09-14T18:05:06.000Z",
-      "description": "Dans la Release Candidate de macOS 27 Golden Gate, le menu « Ask… » reste pour l'instant limité à l'extension ChatGPT. Claude n'est donc pas...",
-      "excerpt": "Dans la Release Candidate de macOS 27 Golden Gate, le menu « Ask… » reste pour l'instant limité à l'extension ChatGPT. Claude n'est donc pas...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
