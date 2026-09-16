@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T15:47:08.457Z",
+  "generatedAt": "2026-09-16T20:38:58.347Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,96 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Groupon Opens Its Platform to Builders and AI Agents - TMX Newsfile",
+      "link": "https://www.newsfilecorp.com/release/314573/Groupon-Opens-Its-Platform-to-Builders-and-AI-Agents?lang=fr",
+      "url": "https://www.newsfilecorp.com/release/314573/Groupon-Opens-Its-Platform-to-Builders-and-AI-Agents?lang=fr",
+      "publishedAt": "2026-09-16T17:34:10.000Z",
+      "date": "2026-09-16T17:34:10.000Z",
+      "description": "I am looking forward to seeing what people build.\" Opening the Platform. Groupon is already inside ChatGPT as a plugin and inside Claude as a...",
+      "excerpt": "I am looking forward to seeing what people build.\" Opening the Platform. Groupon is already inside ChatGPT as a plugin and inside Claude as a...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Le pionnier de ChatGPT lance le modèle Jev pour la logique programmatique - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6175995-le-pionnier-de-chatgpt-lance-le-modele-jev-pour-la-logique-programmatique",
+      "url": "https://www.lefilia.fr/article/6175995-le-pionnier-de-chatgpt-lance-le-modele-jev-pour-la-logique-programmatique",
+      "publishedAt": "2026-09-16T15:56:12.000Z",
+      "date": "2026-09-16T15:56:12.000Z",
+      "description": "TypeSafe, une startup fondée par Diogo Almeida, ancien ingénieur d'OpenAI et co-inventeur de ChatGPT, sort de son mode furtif après deux ans de…",
+      "excerpt": "TypeSafe, une startup fondée par Diogo Almeida, ancien ingénieur d'OpenAI et co-inventeur de ChatGPT, sort de son mode furtif après deux ans de…",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Vous payez ChatGPT et Claude tous les mois? 1min.AI propose un accès multi-IA à vie...",
+      "link": "https://www.clubic.com/bons-plans-629920-vous-payez-chatgpt-et-claude-tous-les-mois-1min-ai-propose-un-acces-multi-ia-a-vie-pour-environ-35.html",
+      "url": "https://www.clubic.com/bons-plans-629920-vous-payez-chatgpt-et-claude-tous-les-mois-1min-ai-propose-un-acces-multi-ia-a-vie-pour-environ-35.html",
+      "publishedAt": "2026-09-16T15:19:58.000Z",
+      "date": "2026-09-16T15:19:58.000Z",
+      "description": "1min.AI n'est pas un abonnement direct à ChatGPT Plus ou Claude Pro, mais un agrégateur qui donne accès à de nombreux modèles depuis un tableau de...",
+      "excerpt": "1min.AI n'est pas un abonnement direct à ChatGPT Plus ou Claude Pro, mais un agrégateur qui donne accès à de nombreux modèles depuis un tableau de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Research Solutions annonce la disponibilité d'Article Galaxy en tant que plugin ChatGPT",
+      "link": "https://www.zonebourse.com/actualite-bourse/research-solutions-annonce-la-disponibilite-d-article-galaxy-en-tant-que-plugin-chatgpt-ce785bd2df8cf324",
+      "url": "https://www.zonebourse.com/actualite-bourse/research-solutions-annonce-la-disponibilite-d-article-galaxy-en-tant-que-plugin-chatgpt-ce785bd2df8cf324",
+      "publishedAt": "2026-09-16T14:56:14.000Z",
+      "date": "2026-09-16T14:56:14.000Z",
+      "description": "Le référencement dans le répertoire des plugins ChatGPT prolonge les efforts de Research Solutions pour rendre ses produits disponibles partout où la...",
+      "excerpt": "Le référencement dans le répertoire des plugins ChatGPT prolonge les efforts de Research Solutions pour rendre ses produits disponibles partout où la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Angi Inc. participe au projet pilote d'agents sponsorisés d'OpenAI dans ChatGPT",
+      "link": "https://www.zonebourse.com/actualite-bourse/angi-inc-participe-au-projet-pilote-d-agents-sponsorises-d-openai-dans-chatgpt-ce785bd2df8cf521",
+      "url": "https://www.zonebourse.com/actualite-bourse/angi-inc-participe-au-projet-pilote-d-agents-sponsorises-d-openai-dans-chatgpt-ce785bd2df8cf521",
+      "publishedAt": "2026-09-16T14:56:13.000Z",
+      "date": "2026-09-16T14:56:13.000Z",
+      "description": "Dans le cadre de ce pilote, un agent sponsorisé aux couleurs d'Angi pourra apparaître dans les conversations ChatGPT pertinentes relatives aux...",
+      "excerpt": "Dans le cadre de ce pilote, un agent sponsorisé aux couleurs d'Angi pourra apparaître dans les conversations ChatGPT pertinentes relatives aux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT n'a pas rendu mes étudiants moins intelligents. Il a rendu leur rapport à l'effort...",
+      "link": "https://www.journaldunet.com/management/formation/1554843-chatgpt-n-a-pas-rendu-mes-etudiants-moins-intelligents-il-a-rendu-leur-rapport-a-l-effort-beaucoup-plus-visible/",
+      "url": "https://www.journaldunet.com/management/formation/1554843-chatgpt-n-a-pas-rendu-mes-etudiants-moins-intelligents-il-a-rendu-leur-rapport-a-l-effort-beaucoup-plus-visible/",
+      "publishedAt": "2026-09-16T14:52:37.000Z",
+      "date": "2026-09-16T14:52:37.000Z",
+      "description": "ChatGPT n'a pas rendu mes étudiants moins intelligents.... Pendant cinq ans, j'ai formé des étudiants en développement web et en cybersécurité,...",
+      "excerpt": "ChatGPT n'a pas rendu mes étudiants moins intelligents.... Pendant cinq ans, j'ai formé des étudiants en développement web et en cybersécurité,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI teste les agents sponsorisés et lance des outils d'IA pour les publicités ChatGPT Ads",
+      "link": "https://www.unite.ai/fr/openai-tests-sponsored-agents-and-rolls-out-ai-tools-for-chatgpt-ads/",
+      "url": "https://www.unite.ai/fr/openai-tests-sponsored-agents-and-rolls-out-ai-tools-for-chatgpt-ads/",
+      "publishedAt": "2026-09-16T14:18:37.000Z",
+      "date": "2026-09-16T14:18:37.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT et séparée de la conversation ChatGPT originale de l'utilisateur.",
+      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT et séparée de la conversation ChatGPT originale de l'utilisateur.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Canada-Union européenne: le projet de « membre associé » ouvre une nouvelle voie...",
+      "link": "https://moncarnet.com/2026/09/16/canada-union-europeenne-le-projet-de-membre-associe-ouvre-une-nouvelle-voie-technologique/",
+      "url": "https://moncarnet.com/2026/09/16/canada-union-europeenne-le-projet-de-membre-associe-ouvre-une-nouvelle-voie-technologique/",
+      "publishedAt": "2026-09-16T10:24:57.000Z",
+      "date": "2026-09-16T10:24:57.000Z",
+      "description": "Credit: ChatGPT L'invitation est sans... cybersécurité, infrastructures numériques, gouvernance des données et services de confiance numérique.",
+      "excerpt": "Credit: ChatGPT L'invitation est sans... cybersécurité, infrastructures numériques, gouvernance des données et services de confiance numérique.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Notes de mise à jour de ChatGPT Enterprise et Edu - OpenAI Help Center",
+      "link": "https://help.openai.com/fr-ca/articles/10128477-chatgpt-enterprise-and-edu-release-notes",
+      "url": "https://help.openai.com/fr-ca/articles/10128477-chatgpt-enterprise-and-edu-release-notes",
+      "publishedAt": "2026-09-16T05:47:07.000Z",
+      "date": "2026-09-16T05:47:07.000Z",
+      "description": "Les crédits pour GPT-5.2 resteront les mêmes que pour GPT-5. Consultez la grille tarifaire ChatGPT actuelle pour les renseignements sur les prix.",
+      "excerpt": "Les crédits pour GPT-5.2 resteront les mêmes que pour GPT-5. Consultez la grille tarifaire ChatGPT actuelle pour les renseignements sur les prix.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "GPT-6 Astra commence à être déployé, voici comment l'accéder à ChatGPT",
       "link": "https://voi.id/fr/amp/594234",
@@ -37,96 +127,6 @@
       "date": "2026-09-15T22:53:59.000Z",
       "description": "... cybersécurité avancée. Pourquoi c'est... Apple prépare une refonte de Siri dans iOS 27, intégrant des IA tierces comme ChatGPT et Gemini.",
       "excerpt": "... cybersécurité avancée. Pourquoi c'est... Apple prépare une refonte de Siri dans iOS 27, intégrant des IA tierces comme ChatGPT et Gemini.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cet administrateur a vu un agent IA tenter de s'inscrire 19 fois sur son réseau social",
-      "link": "https://www.menow.fr/cet-administrateur-a-vu-un-agent-ia-tenter-de-sinscrire-19-fois-sur-son-reseau-social/",
-      "url": "https://www.menow.fr/cet-administrateur-a-vu-un-agent-ia-tenter-de-sinscrire-19-fois-sur-son-reseau-social/",
-      "publishedAt": "2026-09-15T22:16:25.000Z",
-      "date": "2026-09-15T22:16:25.000Z",
-      "description": "Kevin Beaumont est chercheur indépendant en cybersécurité et administrateur de cyberplace.social.... Avec ChatGPT, Gemini ou Claude, l'utilisateur...",
-      "excerpt": "Kevin Beaumont est chercheur indépendant en cybersécurité et administrateur de cyberplace.social.... Avec ChatGPT, Gemini ou Claude, l'utilisateur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le Tech Flash: Streaming, alliance de Netflix, Amazon et Youtube, par Léa Benaim - 15/09",
-      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-streaming-alliance-de-netflix-amazon-et-youtube-par-lea-benaim-15-09-CNT000002rUaen.html",
-      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-streaming-alliance-de-netflix-amazon-et-youtube-par-lea-benaim-15-09-CNT000002rUaen.html",
-      "publishedAt": "2026-09-15T21:48:23.000Z",
-      "date": "2026-09-15T21:48:23.000Z",
-      "description": "Cybersécurité et Télésurveillance. Nouveautés Apple. +... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/10.",
-      "excerpt": "Cybersécurité et Télésurveillance. Nouveautés Apple. +... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/10.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA: revers en série, de Siri retardée à Recall contesté - Brief IA",
-      "link": "https://www.briefia.fr/article/ia-revers-en-serie-de-siri-retardee-a-recall-conteste",
-      "url": "https://www.briefia.fr/article/ia-revers-en-serie-de-siri-retardee-a-recall-conteste",
-      "publishedAt": "2026-09-15T19:47:32.000Z",
-      "date": "2026-09-15T19:47:32.000Z",
-      "description": "Un chercheur en cybersécurité a ensuite développé un outil capable d... ChatGPT Atlas, interrompu le 9 août après moins d'un an, a vu ses...",
-      "excerpt": "Un chercheur en cybersécurité a ensuite développé un outil capable d... ChatGPT Atlas, interrompu le 9 août après moins d'un an, a vu ses...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI aurait racheté une société spécialisée dans les appareils photo de smartphones... - Menow",
-      "link": "https://www.menow.fr/openai-aurait-rachete-une-societe-specialisee-dans-les-appareils-photo-de-smartphones-pour-plus-de-300-millions-de-dollars/",
-      "url": "https://www.menow.fr/openai-aurait-rachete-une-societe-specialisee-dans-les-appareils-photo-de-smartphones-pour-plus-de-300-millions-de-dollars/",
-      "publishedAt": "2026-09-15T18:04:03.000Z",
-      "date": "2026-09-15T18:04:03.000Z",
-      "description": "Cette opération intervient alors qu'OpenAI prépare déjà un mystérieux appareil compatible avec ChatGPT.... cybersécurité grand public et des outils web...",
-      "excerpt": "Cette opération intervient alors qu'OpenAI prépare déjà un mystérieux appareil compatible avec ChatGPT.... cybersécurité grand public et des outils web...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Nantes: Studio Ricom veut encadrer l'usage de ChatGPT en mairie - Presse Agence",
-      "link": "https://presseagence.fr/nantes-intelligence-artificielle-une-agence-specialisee-veut-encadrer-lusage-de-chatgpt-dans-les-mairies/",
-      "url": "https://presseagence.fr/nantes-intelligence-artificielle-une-agence-specialisee-veut-encadrer-lusage-de-chatgpt-dans-les-mairies/",
-      "publishedAt": "2026-09-15T18:01:15.000Z",
-      "date": "2026-09-15T18:01:15.000Z",
-      "description": "À Nantes, l'agence Studio Ricom forme les mairies à l'usage sécurisé de ChatGPT... cybersécurité, mais aussi la pertinence des tâches à déléguer à une...",
-      "excerpt": "À Nantes, l'agence Studio Ricom forme les mairies à l'usage sécurisé de ChatGPT... cybersécurité, mais aussi la pertinence des tâches à déléguer à une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Android stuck on “Continue with Google” with multiple Google accounts - Reddit",
-      "link": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1wh19zw/chatgpt_android_stuck_on_continue_with_google/",
-      "url": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1wh19zw/chatgpt_android_stuck_on_continue_with_google/",
-      "publishedAt": "2026-09-15T15:28:04.000Z",
-      "date": "2026-09-15T15:28:04.000Z",
-      "description": "ChatGPT Ignoring Thinking Mode and Forcing Instant on GPT-5.2? 19... New ChatGPT app update is complete and utter trash. 17 upvotes · 20...",
-      "excerpt": "ChatGPT Ignoring Thinking Mode and Forcing Instant on GPT-5.2? 19... New ChatGPT app update is complete and utter trash. 17 upvotes · 20...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT: oui, des inconnus sont payés pour lire vos conversations, voici comment l'empêcher",
-      "link": "https://www.phonandroid.com/chatgpt-des-inconnus-payes-pour-lire-vos-conversations-voici-comment-lempecher.html",
-      "url": "https://www.phonandroid.com/chatgpt-des-inconnus-payes-pour-lire-vos-conversations-voici-comment-lempecher.html",
-      "publishedAt": "2026-09-15T15:18:49.000Z",
-      "date": "2026-09-15T15:18:49.000Z",
-      "description": "OpenAI recrute des réviseurs humains pour lire vos discussions avec ChatGPT via un paramètre activé par défaut. Voici comment le désactiver.",
-      "excerpt": "OpenAI recrute des réviseurs humains pour lire vos discussions avec ChatGPT via un paramètre activé par défaut. Voici comment le désactiver.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "xAI abandonne ses poursuites contre Apple, il les avait engagées après l'intégration de...",
-      "link": "https://www.bfmtv.com/tech/actualites/reseaux-sociaux/x-ai-abandonne-ses-poursuites-contre-apple-il-les-avait-engagees-apres-l-integration-de-chat-gpt-au-sein-d-i-os_AV-202609150580.html",
-      "url": "https://www.bfmtv.com/tech/actualites/reseaux-sociaux/x-ai-abandonne-ses-poursuites-contre-apple-il-les-avait-engagees-apres-l-integration-de-chat-gpt-au-sein-d-i-os_AV-202609150580.html",
-      "publishedAt": "2026-09-15T14:47:17.000Z",
-      "date": "2026-09-15T14:47:17.000Z",
-      "description": "À l'époque, ce rapprochement avait permis à la start-up de Sam Altman d'intégrer ChatGPT au cœur d'iOS pour aider Siri, l'assistant intelligent du...",
-      "excerpt": "À l'époque, ce rapprochement avait permis à la start-up de Sam Altman d'intégrer ChatGPT au cœur d'iOS pour aider Siri, l'assistant intelligent du...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "️ iOS 27 et macOS 27 pourraient permettre de remplacer Siri AI - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6168459-ios-27-et-macos-27-pourraient-permettre-de-remplacer-siri-ai",
-      "url": "https://www.lefilia.fr/article/6168459-ios-27-et-macos-27-pourraient-permettre-de-remplacer-siri-ai",
-      "publishedAt": "2026-09-15T14:29:27.000Z",
-      "date": "2026-09-15T14:29:27.000Z",
-      "description": "... Siri par GPT-5.6 Terra, la dernière itération du modèle d'OpenAI: Siri conserverait alors son interface visible, animations, voix et affichage à...",
-      "excerpt": "... Siri par GPT-5.6 Terra, la dernière itération du modèle d'OpenAI: Siri conserverait alors son interface visible, animations, voix et affichage à...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
