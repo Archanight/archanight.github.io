@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T20:39:08.758Z",
+  "generatedAt": "2026-09-16T02:25:10.611Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Comment se désinscrire de la formation des chatbots IA - Malwarebytes",
+      "link": "https://www.malwarebytes.com/fr/blog/how-to/2026/09/how-to-opt-out-of-ai-chatbot-training",
+      "url": "https://www.malwarebytes.com/fr/blog/how-to/2026/09/how-to-opt-out-of-ai-chatbot-training",
+      "publishedAt": "2026-09-15T23:33:16.000Z",
+      "date": "2026-09-15T23:33:16.000Z",
+      "description": "Les sous-traitants de ChatGPT analysent les conversations de vrais utilisateurs. Voici comment empêcher les entreprises d'IA d'utiliser vos...",
+      "excerpt": "Les sous-traitants de ChatGPT analysent les conversations de vrais utilisateurs. Voici comment empêcher les entreprises d'IA d'utiliser vos...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Assistants modulables, Claude Money et Tau de Hugging Face - Brief IA",
+      "link": "https://www.briefia.fr/article/assistants-modulables-claude-money-et-tau-de-hugging-face",
+      "url": "https://www.briefia.fr/article/assistants-modulables-claude-money-et-tau-de-hugging-face",
+      "publishedAt": "2026-09-15T22:53:59.000Z",
+      "date": "2026-09-15T22:53:59.000Z",
+      "description": "... cybersécurité avancée. Pourquoi c'est... Apple prépare une refonte de Siri dans iOS 27, intégrant des IA tierces comme ChatGPT et Gemini.",
+      "excerpt": "... cybersécurité avancée. Pourquoi c'est... Apple prépare une refonte de Siri dans iOS 27, intégrant des IA tierces comme ChatGPT et Gemini.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cet administrateur a vu un agent IA tenter de s'inscrire 19 fois sur son réseau social",
+      "link": "https://www.menow.fr/cet-administrateur-a-vu-un-agent-ia-tenter-de-sinscrire-19-fois-sur-son-reseau-social/",
+      "url": "https://www.menow.fr/cet-administrateur-a-vu-un-agent-ia-tenter-de-sinscrire-19-fois-sur-son-reseau-social/",
+      "publishedAt": "2026-09-15T22:16:25.000Z",
+      "date": "2026-09-15T22:16:25.000Z",
+      "description": "Kevin Beaumont est chercheur indépendant en cybersécurité et administrateur de cyberplace.social.... Avec ChatGPT, Gemini ou Claude, l'utilisateur...",
+      "excerpt": "Kevin Beaumont est chercheur indépendant en cybersécurité et administrateur de cyberplace.social.... Avec ChatGPT, Gemini ou Claude, l'utilisateur...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le Tech Flash: Streaming, alliance de Netflix, Amazon et Youtube, par Léa Benaim - 15/09",
+      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-streaming-alliance-de-netflix-amazon-et-youtube-par-lea-benaim-15-09-CNT000002rUaen.html",
+      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-streaming-alliance-de-netflix-amazon-et-youtube-par-lea-benaim-15-09-CNT000002rUaen.html",
+      "publishedAt": "2026-09-15T21:48:23.000Z",
+      "date": "2026-09-15T21:48:23.000Z",
+      "description": "Cybersécurité et Télésurveillance. Nouveautés Apple. +... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/10.",
+      "excerpt": "Cybersécurité et Télésurveillance. Nouveautés Apple. +... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/10.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "IA: revers en série, de Siri retardée à Recall contesté - Brief IA",
       "link": "https://www.briefia.fr/article/ia-revers-en-serie-de-siri-retardee-a-recall-conteste",
@@ -87,46 +127,6 @@
       "date": "2026-09-15T14:02:37.000Z",
       "description": "... ChatGPT.... Découvrez ses analyses approfondies et ses perspectives sur les dernières tendances high-tech, la cybersécurité, et l'impact des...",
       "excerpt": "... ChatGPT.... Découvrez ses analyses approfondies et ses perspectives sur les dernières tendances high-tech, la cybersécurité, et l'impact des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Samsung travaille avec OpenAI sur des puces et équipe ses salariés de ChatGPT - Korben",
-      "link": "https://korben.info/samsung-travaille-avec-openai-sur-des-puces-et-equipe-ses-salaries-de-chatgpt.html",
-      "url": "https://korben.info/samsung-travaille-avec-openai-sur-des-puces-et-equipe-ses-salaries-de-chatgpt.html",
-      "publishedAt": "2026-09-15T13:52:50.000Z",
-      "date": "2026-09-15T13:52:50.000Z",
-      "description": "L'accord rend ChatGPT Enterprise et Codex accessibles à tous les salariés de Samsung Electronics en Corée, ainsi qu'aux équipes de sa division Device...",
-      "excerpt": "L'accord rend ChatGPT Enterprise et Codex accessibles à tous les salariés de Samsung Electronics en Corée, ainsi qu'aux équipes de sa division Device...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI met 300 millions pour une technologie photo créée par des anciens d'Apple",
-      "link": "https://www.mac4ever.com/ia/198044-openai-met-300-millions-pour-une-technologie-photo-creee-par-des-anciens-d-apple-pour-quoi-faire",
-      "url": "https://www.mac4ever.com/ia/198044-openai-met-300-millions-pour-une-technologie-photo-creee-par-des-anciens-d-apple-pour-quoi-faire",
-      "publishedAt": "2026-09-15T12:22:34.000Z",
-      "date": "2026-09-15T12:22:34.000Z",
-      "description": "Après avoir déboursé 6,5 milliards de dollars pour mettre la main sur io, la société de Jony Ive, le créateur de ChatGPT aurait acquis Glass...",
-      "excerpt": "Après avoir déboursé 6,5 milliards de dollars pour mettre la main sur io, la société de Jony Ive, le créateur de ChatGPT aurait acquis Glass...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Templafy intègre les Document Agents à Claude, ChatGPT et Microsoft Copilot via MCP",
-      "link": "https://www.globenewswire.com/news-release/2026/09/15/3361928/0/fr/templafy-int%C3%A8gre-les-document-agents-%C3%A0-claude-chatgpt-et-microsoft-copilot-via-mcp.html",
-      "url": "https://www.globenewswire.com/news-release/2026/09/15/3361928/0/fr/templafy-int%C3%A8gre-les-document-agents-%C3%A0-claude-chatgpt-et-microsoft-copilot-via-mcp.html",
-      "publishedAt": "2026-09-15T11:26:18.000Z",
-      "date": "2026-09-15T11:26:18.000Z",
-      "description": "... ChatGPT et Microsoft Copilot, facilitant ainsi l'accès à ses... Press Release Actions. Print · Download PDF · Subscribe via RSS · Subscribe...",
-      "excerpt": "... ChatGPT et Microsoft Copilot, facilitant ainsi l'accès à ses... Press Release Actions. Print · Download PDF · Subscribe via RSS · Subscribe...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT: une enquête révèle que des humains peuvent lire certaines de vos conversations",
-      "link": "https://www.lefilia.fr/article/6169395-chatgpt-une-enquete-revele-que-des-humains-peuvent-lire-certaines-de-vos-conversations",
-      "url": "https://www.lefilia.fr/article/6169395-chatgpt-une-enquete-revele-que-des-humains-peuvent-lire-certaines-de-vos-conversations",
-      "publishedAt": "2026-09-15T11:12:04.000Z",
-      "date": "2026-09-15T11:12:04.000Z",
-      "description": "ChatGPT: une enquête révèle que des humains peuvent lire certaines de vos conversations... Cybersécurité IASouveraineté IATous les dossiers →. © 2026...",
-      "excerpt": "ChatGPT: une enquête révèle que des humains peuvent lire certaines de vos conversations... Cybersécurité IASouveraineté IATous les dossiers →. © 2026...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
