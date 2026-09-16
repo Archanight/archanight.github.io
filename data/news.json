@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T02:25:10.611Z",
+  "generatedAt": "2026-09-16T10:30:05.887Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-6 Astra commence à être déployé, voici comment l'accéder à ChatGPT",
+      "link": "https://voi.id/fr/amp/594234",
+      "url": "https://voi.id/fr/amp/594234",
+      "publishedAt": "2026-09-16T02:11:17.000Z",
+      "date": "2026-09-16T02:11:17.000Z",
+      "description": "GPT-6 Astra commence à être déployé, voici comment l'accéder à ChatGPT... cybersécurité, de sciences et de travail professionnel. La capacité d...",
+      "excerpt": "GPT-6 Astra commence à être déployé, voici comment l'accéder à ChatGPT... cybersécurité, de sciences et de travail professionnel. La capacité d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Comment se désinscrire de la formation des chatbots IA - Malwarebytes",
       "link": "https://www.malwarebytes.com/fr/blog/how-to/2026/09/how-to-opt-out-of-ai-chatbot-training",
@@ -80,6 +90,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "ChatGPT Android stuck on “Continue with Google” with multiple Google accounts - Reddit",
+      "link": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1wh19zw/chatgpt_android_stuck_on_continue_with_google/",
+      "url": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1wh19zw/chatgpt_android_stuck_on_continue_with_google/",
+      "publishedAt": "2026-09-15T15:28:04.000Z",
+      "date": "2026-09-15T15:28:04.000Z",
+      "description": "ChatGPT Ignoring Thinking Mode and Forcing Instant on GPT-5.2? 19... New ChatGPT app update is complete and utter trash. 17 upvotes · 20...",
+      "excerpt": "ChatGPT Ignoring Thinking Mode and Forcing Instant on GPT-5.2? 19... New ChatGPT app update is complete and utter trash. 17 upvotes · 20...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "ChatGPT: oui, des inconnus sont payés pour lire vos conversations, voici comment l'empêcher",
       "link": "https://www.phonandroid.com/chatgpt-des-inconnus-payes-pour-lire-vos-conversations-voici-comment-lempecher.html",
       "url": "https://www.phonandroid.com/chatgpt-des-inconnus-payes-pour-lire-vos-conversations-voici-comment-lempecher.html",
@@ -107,26 +127,6 @@
       "date": "2026-09-15T14:29:27.000Z",
       "description": "... Siri par GPT-5.6 Terra, la dernière itération du modèle d'OpenAI: Siri conserverait alors son interface visible, animations, voix et affichage à...",
       "excerpt": "... Siri par GPT-5.6 Terra, la dernière itération du modèle d'OpenAI: Siri conserverait alors son interface visible, animations, voix et affichage à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le créateur de Siri révèle pourquoi l'assistant d'Apple n'est pas au niveau - Clubic",
-      "link": "https://www.clubic.com/actualite-629773-le-createur-de-siri-revele-pourquoi-l-assistant-d-apple-n-est-pas-au-niveau.html",
-      "url": "https://www.clubic.com/actualite-629773-le-createur-de-siri-revele-pourquoi-l-assistant-d-apple-n-est-pas-au-niveau.html",
-      "publishedAt": "2026-09-15T14:05:51.000Z",
-      "date": "2026-09-15T14:05:51.000Z",
-      "description": "Pour sauver Siri, Apple hésite entre ChatGPT et Claude pour...",
-      "excerpt": "Pour sauver Siri, Apple hésite entre ChatGPT et Claude pour...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Omny: chercher son logement directement dans ChatGPT, sans changer d'appli",
-      "link": "https://lecafedugeek.fr/omny-chatgpt-recherche-logement-immobilier/",
-      "url": "https://lecafedugeek.fr/omny-chatgpt-recherche-logement-immobilier/",
-      "publishedAt": "2026-09-15T14:02:37.000Z",
-      "date": "2026-09-15T14:02:37.000Z",
-      "description": "... ChatGPT.... Découvrez ses analyses approfondies et ses perspectives sur les dernières tendances high-tech, la cybersécurité, et l'impact des...",
-      "excerpt": "... ChatGPT.... Découvrez ses analyses approfondies et ses perspectives sur les dernières tendances high-tech, la cybersécurité, et l'impact des...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
