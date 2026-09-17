@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T15:53:52.643Z",
+  "generatedAt": "2026-09-17T20:45:34.746Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "L'IA, nouvelle arme à double tranchant en cybersécurité | Journal Informe Affaires",
+      "link": "https://informeaffaires.com/regional/technologie/lia-nouvelle-arme-a-double-tranchant-en-cybersecurite",
+      "url": "https://informeaffaires.com/regional/technologie/lia-nouvelle-arme-a-double-tranchant-en-cybersecurite",
+      "publishedAt": "2026-09-17T19:01:55.000Z",
+      "date": "2026-09-17T19:01:55.000Z",
+      "description": "... ChatGPT, Copilot ou Claude, représente une nouvelle étape dans un vieux... cybersécurité, mais on peut le voir aussi comme un autre cycle du...",
+      "excerpt": "... ChatGPT, Copilot ou Claude, représente une nouvelle étape dans un vieux... cybersécurité, mais on peut le voir aussi comme un autre cycle du...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Blog: Dead Rising VR mod, je teste les motion controls - Gamekyo.com",
+      "link": "https://www.gamekyo.com/blog_article488015.html",
+      "url": "https://www.gamekyo.com/blog_article488015.html",
+      "publishedAt": "2026-09-17T17:12:52.000Z",
+      "date": "2026-09-17T17:12:52.000Z",
+      "description": "survival horror. european release date: 09/08/2006. us release date... La limite d'usage hebdomadaire chatGPT Plus me ralentit tellement. Tap...",
+      "excerpt": "survival horror. european release date: 09/08/2006. us release date... La limite d'usage hebdomadaire chatGPT Plus me ralentit tellement. Tap...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "le patron de ChatGPT l'admet, l'IA va trop vite - Les Numériques",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/notre-modele-interne-surpasse-les-meilleurs-mathematiciens-au-monde-le-patron-de-chatgpt-l-admet-l-ia-va-trop-vite-n261972.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/notre-modele-interne-surpasse-les-meilleurs-mathematiciens-au-monde-le-patron-de-chatgpt-l-admet-l-ia-va-trop-vite-n261972.html",
+      "publishedAt": "2026-09-17T15:54:49.000Z",
+      "date": "2026-09-17T15:54:49.000Z",
+      "description": "”Notre modèle interne surpasse les meilleurs mathématiciens au monde”: le patron de ChatGPT l'admet, l'IA va trop vite... cybersécurité d'OpenAI, s'...",
+      "excerpt": "”Notre modèle interne surpasse les meilleurs mathématiciens au monde”: le patron de ChatGPT l'admet, l'IA va trop vite... cybersécurité d'OpenAI, s'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI limite l'accès à ChatGPT Pro face à la demande pour Astra - ICTjournal",
       "link": "https://www.ictjournal.ch/news/2026-09-17/openai-limite-lacces-a-chatgpt-pro-face-a-la-demande-pour-astra",
@@ -97,36 +127,6 @@
       "date": "2026-09-17T12:52:27.000Z",
       "description": "... ChatGPT et Claude. Une ouverture inédite, réservée pour l'instant aux... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
       "excerpt": "... ChatGPT et Claude. Une ouverture inédite, réservée pour l'instant aux... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "CookieYes lance son serveur MCP (protocole de contexte de modèle) pour gérer le...",
-      "link": "https://www.lelezard.com/communique-22369419.html",
-      "url": "https://www.lelezard.com/communique-22369419.html",
-      "publishedAt": "2026-09-17T12:10:02.000Z",
-      "date": "2026-09-17T12:10:02.000Z",
-      "description": "CookieYes lance son serveur MCP (protocole de contexte de modèle) pour gérer le consentement aux cookies dans Claude et ChatGPT... Cybersécurité...",
-      "excerpt": "CookieYes lance son serveur MCP (protocole de contexte de modèle) pour gérer le consentement aux cookies dans Claude et ChatGPT... Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "CookieYes lance son serveur MCP (protocole de contexte de modèle) pour gérer le...",
-      "link": "https://www.prnewswire.com/news-releases/cookieyes-lance-son-serveur-mcp-protocole-de-contexte-de-modele-pour-gerer-le-consentement-aux-cookies-dans-claude-et-chatgpt-302881126.html",
-      "url": "https://www.prnewswire.com/news-releases/cookieyes-lance-son-serveur-mcp-protocole-de-contexte-de-modele-pour-gerer-le-consentement-aux-cookies-dans-claude-et-chatgpt-302881126.html",
-      "publishedAt": "2026-09-17T12:04:13.000Z",
-      "date": "2026-09-17T12:04:13.000Z",
-      "description": "Gestion des bannières, analyse de cookies et application des mises à jour approuvées à partir de Claude, ChatGPT ou d'autres assistants IA à...",
-      "excerpt": "Gestion des bannières, analyse de cookies et application des mises à jour approuvées à partir de Claude, ChatGPT ou d'autres assistants IA à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Ils pensaient leurs conversations avec ChatGPT privées: deux utilisateurs attaquent OpenAI...",
-      "link": "https://www.menow.fr/ils-pensaient-leurs-conversations-avec-chatgpt-privees-deux-utilisateurs-attaquent-openai-en-justice/",
-      "url": "https://www.menow.fr/ils-pensaient-leurs-conversations-avec-chatgpt-privees-deux-utilisateurs-attaquent-openai-en-justice/",
-      "publishedAt": "2026-09-17T10:19:05.000Z",
-      "date": "2026-09-17T10:19:05.000Z",
-      "description": "... ChatGPT, notamment parce que... Anthropic a révélé le 9 septembre 2026 un quatrième incident de cybersécurité impliquant Claude, après...",
-      "excerpt": "... ChatGPT, notamment parce que... Anthropic a révélé le 9 septembre 2026 un quatrième incident de cybersécurité impliquant Claude, après...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
