@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T20:45:34.746Z",
+  "generatedAt": "2026-09-18T02:14:53.704Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI applique une mesure d'atténuation alors que des taux d'erreur élevés touchent les...",
+      "link": "https://www.unite.ai/fr/openai-applies-mitigation-as-elevated-error-rates-hit-api-models/",
+      "url": "https://www.unite.ai/fr/openai-applies-mitigation-as-elevated-error-rates-hit-api-models/",
+      "publishedAt": "2026-09-17T22:27:19.000Z",
+      "date": "2026-09-17T22:27:19.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique... L'atténuation d'OpenAI ne couvrait que les modèles API, laissant ChatGPT Codex FedRAMP…",
+      "excerpt": "Conférences cybersécurité · Conférences robotique... L'atténuation d'OpenAI ne couvrait que les modèles API, laissant ChatGPT Codex FedRAMP…",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "le patron de ChatGPT l'admet, l'IA va trop vite - Les Numériques",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/notre-modele-interne-surpasse-les-meilleurs-mathematiciens-au-monde-le-patron-de-chatgpt-l-admet-l-ia-va-trop-vite-n261972.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/notre-modele-interne-surpasse-les-meilleurs-mathematiciens-au-monde-le-patron-de-chatgpt-l-admet-l-ia-va-trop-vite-n261972.html",
+      "publishedAt": "2026-09-17T22:11:26.000Z",
+      "date": "2026-09-17T22:11:26.000Z",
+      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI présente Astra for Law avec la recherche juridique et l'accès fiable - Unite.AI",
+      "link": "https://www.unite.ai/fr/openai-introduces-astra-for-law-with-legal-search-and-trusted-access/",
+      "url": "https://www.unite.ai/fr/openai-introduces-astra-for-law-with-legal-search-and-trusted-access/",
+      "publishedAt": "2026-09-17T21:29:12.000Z",
+      "date": "2026-09-17T21:29:12.000Z",
+      "description": "... cybersécurité critique selon le cadre de préparation de l'entreprise. GPT-6 Astra est déployé auprès des utilisateurs de ChatGPT Plus, Pro...",
+      "excerpt": "... cybersécurité critique selon le cadre de préparation de l'entreprise. GPT-6 Astra est déployé auprès des utilisateurs de ChatGPT Plus, Pro...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI révèle six nouveaux dérapages de ses agents, par Léa Benaim - 17/09: Actualités",
+      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-openai-revele-six-nouveaux-derapages-de-ses-agents-par-lea-benaim-17-09-CNT000002rXkzi.html",
+      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-openai-revele-six-nouveaux-derapages-de-ses-agents-par-lea-benaim-17-09-CNT000002rXkzi.html",
+      "publishedAt": "2026-09-17T21:25:20.000Z",
+      "date": "2026-09-17T21:25:20.000Z",
+      "description": "Cybersécurité et Télésurveillance. Nouveautés Apple. +rɘsponsable. Aide et... Le Tech Flash: la pub arrive dans ChatGPT par Léa Benaim - 19/01.",
+      "excerpt": "Cybersécurité et Télésurveillance. Nouveautés Apple. +rɘsponsable. Aide et... Le Tech Flash: la pub arrive dans ChatGPT par Léa Benaim - 19/01.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "L'IA, nouvelle arme à double tranchant en cybersécurité | Journal Informe Affaires",
       "link": "https://informeaffaires.com/regional/technologie/lia-nouvelle-arme-a-double-tranchant-en-cybersecurite",
@@ -28,16 +68,6 @@
       "description": "survival horror. european release date: 09/08/2006. us release date... La limite d'usage hebdomadaire chatGPT Plus me ralentit tellement. Tap...",
       "excerpt": "survival horror. european release date: 09/08/2006. us release date... La limite d'usage hebdomadaire chatGPT Plus me ralentit tellement. Tap...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "le patron de ChatGPT l'admet, l'IA va trop vite - Les Numériques",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/notre-modele-interne-surpasse-les-meilleurs-mathematiciens-au-monde-le-patron-de-chatgpt-l-admet-l-ia-va-trop-vite-n261972.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/notre-modele-interne-surpasse-les-meilleurs-mathematiciens-au-monde-le-patron-de-chatgpt-l-admet-l-ia-va-trop-vite-n261972.html",
-      "publishedAt": "2026-09-17T15:54:49.000Z",
-      "date": "2026-09-17T15:54:49.000Z",
-      "description": "”Notre modèle interne surpasse les meilleurs mathématiciens au monde”: le patron de ChatGPT l'admet, l'IA va trop vite... cybersécurité d'OpenAI, s'...",
-      "excerpt": "”Notre modèle interne surpasse les meilleurs mathématiciens au monde”: le patron de ChatGPT l'admet, l'IA va trop vite... cybersécurité d'OpenAI, s'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "OpenAI limite l'accès à ChatGPT Pro face à la demande pour Astra - ICTjournal",
@@ -97,36 +127,6 @@
       "date": "2026-09-17T13:35:24.000Z",
       "description": "ChatGPT - © Economie Matin... Ces révélations prennent une dimension particulière après l'incident de cybersécurité impliquant Hugging Face durant l'...",
       "excerpt": "ChatGPT - © Economie Matin... Ces révélations prennent une dimension particulière après l'incident de cybersécurité impliquant Hugging Face durant l'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Six ChatGPT hors de contrôle: OpenAI reconnaît plusieurs nouveaux dérapages « préoccupants »",
-      "link": "https://www.01net.com/actualites/six-chatgpt-hors-controle-openai-reconnait-plusieurs-nouveaux-derapages-preoccupants.html",
-      "url": "https://www.01net.com/actualites/six-chatgpt-hors-controle-openai-reconnait-plusieurs-nouveaux-derapages-preoccupants.html",
-      "publishedAt": "2026-09-17T13:15:11.000Z",
-      "date": "2026-09-17T13:15:11.000Z",
-      "description": "Six ChatGPT hors de contrôle: OpenAI reconnaît plusieurs nouveaux dérapages « préoccupants »... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "excerpt": "Six ChatGPT hors de contrôle: OpenAI reconnaît plusieurs nouveaux dérapages « préoccupants »... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI teste les agents sponsorisés, une nouvelle forme de publicité conversationnelle...",
-      "link": "https://www.blogdumoderateur.com/openai-teste-agents-sponsorises-nouvelle-forme-publicite-conversationnelle-chatgpt/",
-      "url": "https://www.blogdumoderateur.com/openai-teste-agents-sponsorises-nouvelle-forme-publicite-conversationnelle-chatgpt/",
-      "publishedAt": "2026-09-17T13:13:07.000Z",
-      "date": "2026-09-17T13:13:07.000Z",
-      "description": "Jusqu'ici, une publicité dans ChatGPT s'arrêtait au clic vers le site de l'annonceur.... Google Réglementation Développement Interviews Cybersécurité...",
-      "excerpt": "Jusqu'ici, une publicité dans ChatGPT s'arrêtait au clic vers le site de l'annonceur.... Google Réglementation Développement Interviews Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google Home s'ouvre à ChatGPT et Claude, mais il y a un vrai risque - Clubic",
-      "link": "https://www.clubic.com/actualite-630154-google-home-s-ouvre-a-chatgpt-et-claude-mais-il-y-a-un-vrai-risque.html",
-      "url": "https://www.clubic.com/actualite-630154-google-home-s-ouvre-a-chatgpt-et-claude-mais-il-y-a-un-vrai-risque.html",
-      "publishedAt": "2026-09-17T12:52:27.000Z",
-      "date": "2026-09-17T12:52:27.000Z",
-      "description": "... ChatGPT et Claude. Une ouverture inédite, réservée pour l'instant aux... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
-      "excerpt": "... ChatGPT et Claude. Une ouverture inédite, réservée pour l'instant aux... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
