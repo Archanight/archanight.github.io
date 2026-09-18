@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T02:14:53.704Z",
+  "generatedAt": "2026-09-18T10:15:37.083Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Cooley lance GO Public avec ChatGPT Work pour les IPO - Brief IA",
+      "link": "https://www.briefia.fr/article/cooley-lance-go-public-avec-chatgpt-work-pour-les-ipo",
+      "url": "https://www.briefia.fr/article/cooley-lance-go-public-avec-chatgpt-work-pour-les-ipo",
+      "publishedAt": "2026-09-18T07:25:46.000Z",
+      "date": "2026-09-18T07:25:46.000Z",
+      "description": "OpenAI lance ChatGPT for Financial Services, une version de ChatGPT Work dédiée à la finance... SOC 2 visée dès le départ, isolation des données, pas d...",
+      "excerpt": "OpenAI lance ChatGPT for Financial Services, une version de ChatGPT Work dédiée à la finance... SOC 2 visée dès le départ, isolation des données, pas d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Ces documents internes descellés montrent ce que Microsoft pensait vraiment de l... - PhonAndroid",
+      "link": "https://www.phonandroid.com/ces-documents-internes-descelles-montrent-ce-que-microsoft-pensait-vraiment-de-lentrainement-des-ia.html",
+      "url": "https://www.phonandroid.com/ces-documents-internes-descelles-montrent-ce-que-microsoft-pensait-vraiment-de-lentrainement-des-ia.html",
+      "publishedAt": "2026-09-18T07:00:23.000Z",
+      "date": "2026-09-18T07:00:23.000Z",
+      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT lance une cyberattaque sans qu'on lui demande: OpenAI annonce...",
+      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT lance une cyberattaque sans qu'on lui demande: OpenAI annonce...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Achat en ligne: 119 000 fausses boutiques cherchent à vous voler",
+      "link": "https://francoischarron.com/securite/fraude-et-arnaques-web/achat-en-ligne-119-000-fausses-boutiques-cherche-a-vous-voler/ockyx54swe/",
+      "url": "https://francoischarron.com/securite/fraude-et-arnaques-web/achat-en-ligne-119-000-fausses-boutiques-cherche-a-vous-voler/ockyx54swe/",
+      "publishedAt": "2026-09-18T04:24:42.000Z",
+      "date": "2026-09-18T04:24:42.000Z",
+      "description": "... ChatGPT. Des chercheurs en cybersécurité ont découvert un vaste réseau de fabrication de fausses boutiques en ligne. Pas moins de 119 000 boutiques...",
+      "excerpt": "... ChatGPT. Des chercheurs en cybersécurité ont découvert un vaste réseau de fabrication de fausses boutiques en ligne. Pas moins de 119 000 boutiques...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI applique une mesure d'atténuation alors que des taux d'erreur élevés touchent les...",
       "link": "https://www.unite.ai/fr/openai-applies-mitigation-as-elevated-error-rates-hit-api-models/",
@@ -97,36 +127,6 @@
       "date": "2026-09-17T15:03:40.000Z",
       "description": "OpenAI avait alors indiqué qu'Astra présentait des capacités avancées en matière de codage autonome et de cybersécurité... ChatGPT pour mener...",
       "excerpt": "OpenAI avait alors indiqué qu'Astra présentait des capacités avancées en matière de codage autonome et de cybersécurité... ChatGPT pour mener...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "AI has officially entered the dating scam business - La Nouvelle Tribune",
-      "link": "https://lnt.ma/ai-has-officially-entered-the-dating-scam-business/",
-      "url": "https://lnt.ma/ai-has-officially-entered-the-dating-scam-business/",
-      "publishedAt": "2026-09-17T14:47:25.000Z",
-      "date": "2026-09-17T14:47:25.000Z",
-      "description": "only to discover your situationship was basically ChatGPT with a profile picture.... Catfishing has officially received a software update. At this...",
-      "excerpt": "only to discover your situationship was basically ChatGPT with a profile picture.... Catfishing has officially received a software update. At this...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Google Home laisse ChatGPT et Claude piloter votre maison - Korben",
-      "link": "https://korben.info/google-home-laisse-chatgpt-et-claude-piloter-votre-maison.html",
-      "url": "https://korben.info/google-home-laisse-chatgpt-et-claude-piloter-votre-maison.html",
-      "publishedAt": "2026-09-17T13:56:53.000Z",
-      "date": "2026-09-17T13:56:53.000Z",
-      "description": "Google a commencé cette semaine à ouvrir sa maison connectée aux assistants IA concurrents: ChatGPT... Les métiers de la Cybersécurité et de l'...",
-      "excerpt": "Google a commencé cette semaine à ouvrir sa maison connectée aux assistants IA concurrents: ChatGPT... Les métiers de la Cybersécurité et de l'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI veut rendre publics les comportements inquiétants de ses modèles d'intelligence artificielle",
-      "link": "https://www.economiematin.fr/openai-comportements-intelligence-artificielle-ia",
-      "url": "https://www.economiematin.fr/openai-comportements-intelligence-artificielle-ia",
-      "publishedAt": "2026-09-17T13:35:24.000Z",
-      "date": "2026-09-17T13:35:24.000Z",
-      "description": "ChatGPT - © Economie Matin... Ces révélations prennent une dimension particulière après l'incident de cybersécurité impliquant Hugging Face durant l'...",
-      "excerpt": "ChatGPT - © Economie Matin... Ces révélations prennent une dimension particulière après l'incident de cybersécurité impliquant Hugging Face durant l'...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
