@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:09:38.953Z",
+  "generatedAt": "2026-09-19T02:17:38.326Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Des chercheurs en sécurité ont piraté OpenAI grâce à l'IA Claude - KultureGeek",
+      "link": "https://kulturegeek.fr/news-359758/chercheurs-securite-pirate-openai-grace-lia-claude",
+      "url": "https://kulturegeek.fr/news-359758/chercheurs-securite-pirate-openai-grace-lia-claude",
+      "publishedAt": "2026-09-18T23:55:36.000Z",
+      "date": "2026-09-18T23:55:36.000Z",
+      "description": "L'équipe de chercheurs en sécurité de Hacktron AI a notamment pris le contrôle de comptes ChatGPT... cybersécurité. En juillet, certains de ses...",
+      "excerpt": "L'équipe de chercheurs en sécurité de Hacktron AI a notamment pris le contrôle de comptes ChatGPT... cybersécurité. En juillet, certains de ses...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Des pirates informatiques \"éthiques\" s'introduisent dans OpenAI en 72 heures - La Libre",
+      "link": "https://www.lalibre.be/dernieres-depeches/2026/09/18/des-pirates-informatiques-ethiques-sintroduisent-dans-openai-en-72-heures-5BXFWMRJFZBEXL3PCNZ3MX3S7A/",
+      "url": "https://www.lalibre.be/dernieres-depeches/2026/09/18/des-pirates-informatiques-ethiques-sintroduisent-dans-openai-en-72-heures-5BXFWMRJFZBEXL3PCNZ3MX3S7A/",
+      "publishedAt": "2026-09-18T23:16:54.000Z",
+      "date": "2026-09-18T23:16:54.000Z",
+      "description": "Des pirates informatiques dits \"éthiques\" ont réussi à s'introduire dans les systèmes d'OpenAI, l'entreprise derrière ChatGPT.",
+      "excerpt": "Des pirates informatiques dits \"éthiques\" ont réussi à s'introduire dans les systèmes d'OpenAI, l'entreprise derrière ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cybersécurité: Claude plus performant que ChatGPT - Managers",
+      "link": "https://managers.tn/2026/09/18/cybersecurite-claude-plus-performant-que-chatgpt/",
+      "url": "https://managers.tn/2026/09/18/cybersecurite-claude-plus-performant-que-chatgpt/",
+      "publishedAt": "2026-09-18T22:25:56.000Z",
+      "date": "2026-09-18T22:25:56.000Z",
+      "description": "Des chercheurs de la start-up de cybersécurité Hacktron AI sont parvenus à compromettre le compte ChatGPT d'un employé d'OpenAI en utilisant...",
+      "excerpt": "Des chercheurs de la start-up de cybersécurité Hacktron AI sont parvenus à compromettre le compte ChatGPT d'un employé d'OpenAI en utilisant...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic - Le Devoir",
+      "link": "https://www.ledevoir.com/economie/techno/1010147/chercheurs-ont-pirate-openai-utilisant-ia-anthropic",
+      "url": "https://www.ledevoir.com/economie/techno/1010147/chercheurs-ont-pirate-openai-utilisant-ia-anthropic",
+      "publishedAt": "2026-09-18T21:51:17.000Z",
+      "date": "2026-09-18T21:51:17.000Z",
+      "description": "Des chercheurs de la jeune pousse de cybersécurité Hacktron AI ont accédé aux comptes ChatGPT d'employés d'OpenAI en utilisant un modèle d...",
+      "excerpt": "Des chercheurs de la jeune pousse de cybersécurité Hacktron AI ont accédé aux comptes ChatGPT d'employés d'OpenAI en utilisant un modèle d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI piraté grâce à Claude: des comptes ChatGPT d'employés compromis en moins de...",
+      "link": "https://frenchbreaches.com/blog/openai-pirate-grace-a-claude-des-comptes-chatgpt-demployes-compromis-en-moins-de-72-heures",
+      "url": "https://frenchbreaches.com/blog/openai-pirate-grace-a-claude-des-comptes-chatgpt-demployes-compromis-en-moins-de-72-heures",
+      "publishedAt": "2026-09-18T21:14:05.000Z",
+      "date": "2026-09-18T21:14:05.000Z",
+      "description": "OpenAI piraté grâce à Claude: des comptes ChatGPT d'employés compromis en moins de 72 heures. Des chercheurs en cybersécurité de Hacktron AI ont...",
+      "excerpt": "OpenAI piraté grâce à Claude: des comptes ChatGPT d'employés compromis en moins de 72 heures. Des chercheurs en cybersécurité de Hacktron AI ont...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le compte ChatGPT d'un employé d'OpenAI piraté à l'aide de Claude d'Anthropic",
+      "link": "https://www.zonebourse.com/actualite-bourse/le-compte-chatgpt-d-un-employe-d-openai-pirate-a-l-aide-de-claude-d-anthropic-ce785adad881fe23",
+      "url": "https://www.zonebourse.com/actualite-bourse/le-compte-chatgpt-d-un-employe-d-openai-pirate-a-l-aide-de-claude-d-anthropic-ce785adad881fe23",
+      "publishedAt": "2026-09-18T19:54:39.000Z",
+      "date": "2026-09-18T19:54:39.000Z",
+      "description": "Des chercheurs indépendants en cybersécurité ont récemment utilisé le logiciel Claude d'Anthropic pour accéder au compte ChatGPT d'un employé...",
+      "excerpt": "Des chercheurs indépendants en cybersécurité ont récemment utilisé le logiciel Claude d'Anthropic pour accéder au compte ChatGPT d'un employé...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Stockage de fichiers et bibliothèque dans ChatGPT - OpenAI Help Center",
       "link": "https://help.openai.com/fr-fr/articles/20001052-using-library-to-manage-files-in-chatgpt",
@@ -67,66 +127,6 @@
       "date": "2026-09-18T15:57:07.000Z",
       "description": "Hacktron AI, une start-up américaine spécialisée dans la recherche en cybersécurité, a annoncé vendredi avoir compromis les comptes ChatGPT de...",
       "excerpt": "Hacktron AI, une start-up américaine spécialisée dans la recherche en cybersécurité, a annoncé vendredi avoir compromis les comptes ChatGPT de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI a été piraté: des chercheurs en cybersécurité ont réussi à outrepasser les... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/open-ai-a-ete-pirate-des-chercheurs-en-cybersecurite-ont-reussi-a-outrepasser-la-securite-du-geant-de-l-ia-en-utilisant-claude-l-outil-d-anthropic_AV-202609180613.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/open-ai-a-ete-pirate-des-chercheurs-en-cybersecurite-ont-reussi-a-outrepasser-la-securite-du-geant-de-l-ia-en-utilisant-claude-l-outil-d-anthropic_AV-202609180613.html",
-      "publishedAt": "2026-09-18T15:36:06.000Z",
-      "date": "2026-09-18T15:36:06.000Z",
-      "description": "Dans le cadre d'une étude, des chercheurs en cybersécurité ont réussi à s'introduire dans les coulisses de ChatGPT, le chatbot d'OpenAI,...",
-      "excerpt": "Dans le cadre d'une étude, des chercheurs en cybersécurité ont réussi à s'introduire dans les coulisses de ChatGPT, le chatbot d'OpenAI,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Uber: AI Takes Hold Internally, Balancing Gains and Restrictions - Brief IA",
-      "link": "https://www.briefia.fr/en/article/uber-l-ia-s-impose-en-interne-entre-gains-et-restrictions",
-      "url": "https://www.briefia.fr/en/article/uber-l-ia-s-impose-en-interne-entre-gains-et-restrictions",
-      "publishedAt": "2026-09-18T15:33:14.000Z",
-      "date": "2026-09-18T15:33:14.000Z",
-      "description": "... ChatGPT. Another former employee states that they did not feel... announcement memo. The company reaffirmed its focus on managerial layers...",
-      "excerpt": "... ChatGPT. Another former employee states that they did not feel... announcement memo. The company reaffirmed its focus on managerial layers...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Gemini Live vs ChatGPT Vocal vs Grok Voice [2026] - Tech Insider",
-      "link": "https://tech-insider.org/fr/gemini-live-vs-chatgpt-vocal-vs-grok-voice-2026/",
-      "url": "https://tech-insider.org/fr/gemini-live-vs-chatgpt-vocal-vs-grok-voice-2026/",
-      "publishedAt": "2026-09-18T15:13:51.000Z",
-      "date": "2026-09-18T15:13:51.000Z",
-      "description": "... notes de version publiées sur le centre d'aide d'OpenAI et mises à jour... ChatGPT Advanced Voice Mode est disponible dans l'application ChatGPT...",
-      "excerpt": "... notes de version publiées sur le centre d'aide d'OpenAI et mises à jour... ChatGPT Advanced Voice Mode est disponible dans l'application ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "IA: Vertige… Des chercheurs ont piraté ChatGPT en utilisant Claude, l'IA concurrente d'Anthropic",
-      "link": "https://www.20minutes.fr/high-tech/4246613-20260918-ia-vertige-chercheurs-pirate-chatgpt-utilisant-ia-concurrente-anthropic",
-      "url": "https://www.20minutes.fr/high-tech/4246613-20260918-ia-vertige-chercheurs-pirate-chatgpt-utilisant-ia-concurrente-anthropic",
-      "publishedAt": "2026-09-18T15:06:31.000Z",
-      "date": "2026-09-18T15:06:31.000Z",
-      "description": "Des chercheurs de la start-up de cybersécurité Hacktron AI ont accédé aux comptes ChatGPT d'employés d'OpenAI en utilisant un modèle d'Anthropic,...",
-      "excerpt": "Des chercheurs de la start-up de cybersécurité Hacktron AI ont accédé aux comptes ChatGPT d'employés d'OpenAI en utilisant un modèle d'Anthropic,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic - La Libre",
-      "link": "https://www.lalibre.be/economie/entreprises-startup/2026/09/18/des-chercheurs-ont-pirate-openai-en-utilisant-une-ia-danthropic-BNOFOLFXHBEDHGKOJUJF63LARI/",
-      "url": "https://www.lalibre.be/economie/entreprises-startup/2026/09/18/des-chercheurs-ont-pirate-openai-en-utilisant-une-ia-danthropic-BNOFOLFXHBEDHGKOJUJF63LARI/",
-      "publishedAt": "2026-09-18T15:01:02.000Z",
-      "date": "2026-09-18T15:01:02.000Z",
-      "description": "Des chercheurs ont réussi à accéder aux comptes ChatGPT d'employés d'OpenAI lors d'un exercice de sécurité organisé par l'entreprise, en utilisant...",
-      "excerpt": "Des chercheurs ont réussi à accéder aux comptes ChatGPT d'employés d'OpenAI lors d'un exercice de sécurité organisé par l'entreprise, en utilisant...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic - Le Soir",
-      "link": "https://www.lesoir.be/771700/article/2026-09-18/des-chercheurs-ont-pirate-openai-en-utilisant-une-ia-danthropic",
-      "url": "https://www.lesoir.be/771700/article/2026-09-18/des-chercheurs-ont-pirate-openai-en-utilisant-une-ia-danthropic",
-      "publishedAt": "2026-09-18T14:55:09.000Z",
-      "date": "2026-09-18T14:55:09.000Z",
-      "description": "Des pirates informatiques dits « éthiques » ont réussi à s'introduire dans les systèmes d'OpenAI, l'entreprise derrière ChatGPT. En 72 heures, ces...",
-      "excerpt": "Des pirates informatiques dits « éthiques » ont réussi à s'introduire dans les systèmes d'OpenAI, l'entreprise derrière ChatGPT. En 72 heures, ces...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
