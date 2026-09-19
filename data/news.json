@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T15:02:38.591Z",
+  "generatedAt": "2026-09-19T19:46:24.617Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,96 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Google savait que Gemini a attaqué de vraies entreprises et l'a gardé secret pendant des mois",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/google-savait-que-gemini-a-attaque-de-vraies-entreprises-et-l-a-garde-secret-pendant-des-mois-n262048.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/google-savait-que-gemini-a-attaque-de-vraies-entreprises-et-l-a-garde-secret-pendant-des-mois-n262048.html",
+      "publishedAt": "2026-09-19T14:33:36.000Z",
+      "date": "2026-09-19T14:33:36.000Z",
+      "description": "... trois entreprises de son propre chef lors d'un test de cybersécurité.",
+      "excerpt": "... trois entreprises de son propre chef lors d'un test de cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "iOS 27 ouvre Siri aux IA tierces, le code montre déjà Claude à la place de l'assistant",
+      "link": "https://pasqualepillitteri.it/fr/news/16973/ios-27-siri-ia-tierces-claude",
+      "url": "https://pasqualepillitteri.it/fr/news/16973/ios-27-siri-ia-tierces-claude",
+      "publishedAt": "2026-09-19T13:04:41.000Z",
+      "date": "2026-09-19T13:04:41.000Z",
+      "description": "iOS 27 laissera choisir l'IA de Siri parmi Claude, Gemini, ChatGPT et Grok. 9to5Mac a trouvé les crochets dans le code, mais Apple ne les a pas...",
+      "excerpt": "iOS 27 laissera choisir l'IA de Siri parmi Claude, Gemini, ChatGPT et Grok. 9to5Mac a trouvé les crochets dans le code, mais Apple ne les a pas...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic - CNews",
+      "link": "https://www.cnews.fr/vie-numerique/2026-09-19/des-chercheurs-ont-pirate-openai-en-utilisant-une-ia-danthropic-1921237",
+      "url": "https://www.cnews.fr/vie-numerique/2026-09-19/des-chercheurs-ont-pirate-openai-en-utilisant-une-ia-danthropic-1921237",
+      "publishedAt": "2026-09-19T12:06:38.000Z",
+      "date": "2026-09-19T12:06:38.000Z",
+      "description": "Un piratage contrôlé. Selon un message publié ce vendredi par la start-up de cybersécurité Hacktron AI, ses chercheurs ont accédé aux comptes ChatGPT...",
+      "excerpt": "Un piratage contrôlé. Selon un message publié ce vendredi par la start-up de cybersécurité Hacktron AI, ses chercheurs ont accédé aux comptes ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "DepthFirst: IA gratuite pénètre dans TikTok - Daily Beirut",
+      "link": "https://dailybeirut.com/fr/monde/ia-gratuite-penetre-dans-tiktok-que-sest-il-passe/",
+      "url": "https://dailybeirut.com/fr/monde/ia-gratuite-penetre-dans-tiktok-que-sest-il-passe/",
+      "publishedAt": "2026-09-19T11:51:39.000Z",
+      "date": "2026-09-19T11:51:39.000Z",
+      "description": "... ChatGPT », dans les tâches de cybersécurité, en permettant un usage complet uniquement après vérification pour certains utilisateurs et entreprises.",
+      "excerpt": "... ChatGPT », dans les tâches de cybersécurité, en permettant un usage complet uniquement après vérification pour certains utilisateurs et entreprises.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "De faux e-mails de facturation ChatGPT utilisés pour voler les identifiants OpenAI",
+      "link": "https://snrtnews.com/article/de-faux-e-mails-de-facturation-chatgpt-utilises-pour-voler-les-identifiants-openai-158789",
+      "url": "https://snrtnews.com/article/de-faux-e-mails-de-facturation-chatgpt-utilises-pour-voler-les-identifiants-openai-158789",
+      "publishedAt": "2026-09-19T11:40:37.000Z",
+      "date": "2026-09-19T11:40:37.000Z",
+      "description": "Une nouvelle campagne de phishing tente de piéger les utilisateurs de ChatGPT en se faisant passer pour un message de facturation d'OpenAI.",
+      "excerpt": "Une nouvelle campagne de phishing tente de piéger les utilisateurs de ChatGPT en se faisant passer pour un message de facturation d'OpenAI.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Hex s'appuie sur GPT‑6 Astra pour fiabiliser ses analyses | Brief IA",
+      "link": "https://www.briefia.fr/article/hex-s-appuie-sur-gpt-6-astra-pour-fiabiliser-ses-analyses",
+      "url": "https://www.briefia.fr/article/hex-s-appuie-sur-gpt-6-astra-pour-fiabiliser-ses-analyses",
+      "publishedAt": "2026-09-19T10:31:15.000Z",
+      "date": "2026-09-19T10:31:15.000Z",
+      "description": "Ce modèle se distingue par sa haute capacité en cybersécurité et en préparation biologique et chimique.... ChatGPT se concentre sur la finance...",
+      "excerpt": "Ce modèle se distingue par sa haute capacité en cybersécurité et en préparation biologique et chimique.... ChatGPT se concentre sur la finance...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Trois billets sur agents OpenAI, GPT-6 Astra et Navier–Stokes - Brief IA",
+      "link": "https://www.briefia.fr/article/trois-billets-sur-agents-openai-gpt-6-astra-et-navier-stokes",
+      "url": "https://www.briefia.fr/article/trois-billets-sur-agents-openai-gpt-6-astra-et-navier-stokes",
+      "publishedAt": "2026-09-19T10:06:20.000Z",
+      "date": "2026-09-19T10:06:20.000Z",
+      "description": "... ChatGPT, et un dernier sur le problème de Navier–Stokes. Ces... C'est le premier modèle qu'OpenAI classe « critique » sur le volet cybersécurité...",
+      "excerpt": "... ChatGPT, et un dernier sur le problème de Navier–Stokes. Ces... C'est le premier modèle qu'OpenAI classe « critique » sur le volet cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cybersécurité: une équipe marocaine se qualifie pour la finale mondiale du SAS CTF à Bali",
+      "link": "https://lematin.ma/hi-tech/cybersecurite-une-equipe-marocaine-qualifiee-pour-la-finale-a-bali/365919/amp",
+      "url": "https://lematin.ma/hi-tech/cybersecurite-une-equipe-marocaine-qualifiee-pour-la-finale-a-bali/365919/amp",
+      "publishedAt": "2026-09-19T09:58:41.000Z",
+      "date": "2026-09-19T09:58:41.000Z",
+      "description": "Le Maroc sera représenté à Bali lors de la prochaine finale du SAS CTF, une compétition internationale consacrée à la cybersécurité. L'équipe...",
+      "excerpt": "Le Maroc sera représenté à Bali lors de la prochaine finale du SAS CTF, une compétition internationale consacrée à la cybersécurité. L'équipe...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un pirate informatique a piraté ChatGPT avec Claude et a obtenu 6 500 $. - HiTech.Expert",
+      "link": "https://expert.com.ua/fr/223269-haker-zlamav-chatgpt-za-dopomohoyu-claude-otrimavshi-6500.html",
+      "url": "https://expert.com.ua/fr/223269-haker-zlamav-chatgpt-za-dopomohoyu-claude-otrimavshi-6500.html",
+      "publishedAt": "2026-09-19T05:25:16.000Z",
+      "date": "2026-09-19T05:25:16.000Z",
+      "description": "... ChatGPT... Ils ont utilisé une version spéciale de Claude Opus 4.8, destinée aux experts en cybersécurité, pour développer un code permettant d'...",
+      "excerpt": "... ChatGPT... Ils ont utilisé une version spéciale de Claude Opus 4.8, destinée aux experts en cybersécurité, pour développer un code permettant d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Des chercheurs en sécurité ont piraté OpenAI grâce à l'IA Claude - KultureGeek",
       "link": "https://kulturegeek.fr/news-359758/chercheurs-securite-pirate-openai-grace-lia-claude",
@@ -30,104 +120,14 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Cybersécurité: Claude plus performant que ChatGPT - Managers",
-      "link": "https://managers.tn/2026/09/18/cybersecurite-claude-plus-performant-que-chatgpt/",
-      "url": "https://managers.tn/2026/09/18/cybersecurite-claude-plus-performant-que-chatgpt/",
-      "publishedAt": "2026-09-18T22:25:56.000Z",
-      "date": "2026-09-18T22:25:56.000Z",
-      "description": "Des chercheurs de la start-up de cybersécurité Hacktron AI sont parvenus à compromettre le compte ChatGPT d'un employé d'OpenAI en utilisant...",
-      "excerpt": "Des chercheurs de la start-up de cybersécurité Hacktron AI sont parvenus à compromettre le compte ChatGPT d'un employé d'OpenAI en utilisant...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic - Le Devoir",
-      "link": "https://www.ledevoir.com/economie/techno/1010147/chercheurs-ont-pirate-openai-utilisant-ia-anthropic",
-      "url": "https://www.ledevoir.com/economie/techno/1010147/chercheurs-ont-pirate-openai-utilisant-ia-anthropic",
-      "publishedAt": "2026-09-18T21:51:17.000Z",
-      "date": "2026-09-18T21:51:17.000Z",
-      "description": "Des chercheurs de la jeune pousse de cybersécurité Hacktron AI ont accédé aux comptes ChatGPT d'employés d'OpenAI en utilisant un modèle d...",
-      "excerpt": "Des chercheurs de la jeune pousse de cybersécurité Hacktron AI ont accédé aux comptes ChatGPT d'employés d'OpenAI en utilisant un modèle d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI piraté grâce à Claude: des comptes ChatGPT d'employés compromis en moins de...",
-      "link": "https://frenchbreaches.com/blog/openai-pirate-grace-a-claude-des-comptes-chatgpt-demployes-compromis-en-moins-de-72-heures",
-      "url": "https://frenchbreaches.com/blog/openai-pirate-grace-a-claude-des-comptes-chatgpt-demployes-compromis-en-moins-de-72-heures",
-      "publishedAt": "2026-09-18T21:14:05.000Z",
-      "date": "2026-09-18T21:14:05.000Z",
-      "description": "OpenAI piraté grâce à Claude: des comptes ChatGPT d'employés compromis en moins de 72 heures. Des chercheurs en cybersécurité de Hacktron AI ont...",
-      "excerpt": "OpenAI piraté grâce à Claude: des comptes ChatGPT d'employés compromis en moins de 72 heures. Des chercheurs en cybersécurité de Hacktron AI ont...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le compte ChatGPT d'un employé d'OpenAI piraté à l'aide de Claude d'Anthropic",
-      "link": "https://www.zonebourse.com/actualite-bourse/le-compte-chatgpt-d-un-employe-d-openai-pirate-a-l-aide-de-claude-d-anthropic-ce785adad881fe23",
-      "url": "https://www.zonebourse.com/actualite-bourse/le-compte-chatgpt-d-un-employe-d-openai-pirate-a-l-aide-de-claude-d-anthropic-ce785adad881fe23",
-      "publishedAt": "2026-09-18T19:54:39.000Z",
-      "date": "2026-09-18T19:54:39.000Z",
-      "description": "Des chercheurs indépendants en cybersécurité ont récemment utilisé le logiciel Claude d'Anthropic pour accéder au compte ChatGPT d'un employé...",
-      "excerpt": "Des chercheurs indépendants en cybersécurité ont récemment utilisé le logiciel Claude d'Anthropic pour accéder au compte ChatGPT d'un employé...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Stockage de fichiers et bibliothèque dans ChatGPT - OpenAI Help Center",
-      "link": "https://help.openai.com/fr-fr/articles/20001052-using-library-to-manage-files-in-chatgpt",
-      "url": "https://help.openai.com/fr-fr/articles/20001052-using-library-to-manage-files-in-chatgpt",
-      "publishedAt": "2026-09-18T18:47:03.000Z",
-      "date": "2026-09-18T18:47:03.000Z",
-      "description": "ChatGPT — Notes de version. Journal des dernières mises à jour et notes de version de ChatGPT. Cet article vous a-t-il été utile? Envoyer. Comment...",
-      "excerpt": "ChatGPT — Notes de version. Journal des dernières mises à jour et notes de version de ChatGPT. Cet article vous a-t-il été utile? Envoyer. Comment...",
+      "title": "France moves to replace Palantir in domestic intelligence as AI market shifts and EU bans...",
+      "link": "https://www.lavoixdefrance.fr/france-moves-to-replace-palantir-in-domestic-intelligence-as-ai-market-shifts-and-eu-bans-undressing-tools-6468/",
+      "url": "https://www.lavoixdefrance.fr/france-moves-to-replace-palantir-in-domestic-intelligence-as-ai-market-shifts-and-eu-bans-undressing-tools-6468/",
+      "publishedAt": "2026-09-18T22:55:41.000Z",
+      "date": "2026-09-18T22:55:41.000Z",
+      "description": "The firm was already working with France's Interior Ministry before the announcement... ChatGPT dips below 50% market share as assistant AI becomes a...",
+      "excerpt": "The firm was already working with France's Interior Ministry before the announcement... ChatGPT dips below 50% market share as assistant AI becomes a...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Des pirates ont utilisé Claude pour s'introduire dans le dépôt de code interne d'OpenAI. - Quartz",
-      "link": "https://fr.qz.com/hacktron-claude-openai-hack-dpt-interne-091826",
-      "url": "https://fr.qz.com/hacktron-claude-openai-hack-dpt-interne-091826",
-      "publishedAt": "2026-09-18T18:03:23.000Z",
-      "date": "2026-09-18T18:03:23.000Z",
-      "description": "Cybersécurité. Des chercheurs en sécurité ont utilisé Claude d... ChatGPT et Codex. Certains de ces jetons appartenaient à des employés d...",
-      "excerpt": "Cybersécurité. Des chercheurs en sécurité ont utilisé Claude d... ChatGPT et Codex. Certains de ces jetons appartenaient à des employés d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI piraté en 72 heures grâce à Claude, l'IA rivale: un simple abonnement a suffi",
-      "link": "https://mcetv.ouest-france.fr/2026/openai-pirate-claude-ia-rivale-72-heures/",
-      "url": "https://mcetv.ouest-france.fr/2026/openai-pirate-claude-ia-rivale-72-heures/",
-      "publishedAt": "2026-09-18T17:08:13.000Z",
-      "date": "2026-09-18T17:08:13.000Z",
-      "description": "Selon Les Numériques, trois chercheurs en cybersécurité ont réussi à s... ChatGPT. Une faille dans un forum qui ouvre la porte aux secrets d...",
-      "excerpt": "Selon Les Numériques, trois chercheurs en cybersécurité ont réussi à s... ChatGPT. Une faille dans un forum qui ouvre la porte aux secrets d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Oracle: 80 % d'adoption IA, gains de code mais goulets et coûts - Brief IA",
-      "link": "https://www.briefia.fr/article/oracle-80-d-adoption-ia-gains-de-code-mais-goulets-et-couts",
-      "url": "https://www.briefia.fr/article/oracle-80-d-adoption-ia-gains-de-code-mais-goulets-et-couts",
-      "publishedAt": "2026-09-18T16:47:23.000Z",
-      "date": "2026-09-18T16:47:23.000Z",
-      "description": "Oracle a déployé ChatGPT Enterprise et Codex au printemps, atteignant 80 % d'adoption en trois mois Les outils d'IA accélèrent la génération de...",
-      "excerpt": "Oracle a déployé ChatGPT Enterprise et Codex au printemps, atteignant 80 % d'adoption en trois mois Les outils d'IA accélèrent la génération de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI: une faille exploitée par une IA d'Anthropic - Infomédiaire",
-      "link": "https://www.infomediaire.net/openai-une-faille-exploitee-par-une-ia-danthropic/",
-      "url": "https://www.infomediaire.net/openai-une-faille-exploitee-par-une-ia-danthropic/",
-      "publishedAt": "2026-09-18T15:57:57.000Z",
-      "date": "2026-09-18T15:57:57.000Z",
-      "description": "Des chercheurs de la start-up de cybersécurité Hacktron AI sont parvenus à accéder aux comptes ChatGPT d'employés d'OpenAI, en exploitant une...",
-      "excerpt": "Des chercheurs de la start-up de cybersécurité Hacktron AI sont parvenus à accéder aux comptes ChatGPT d'employés d'OpenAI, en exploitant une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Hacktron AI a exploité deux vulnérabilités de ChatGPT pour pirater les systèmes d'OpenAI...",
-      "link": "https://informat.ro/fr/connaissance-itc/hacktron-ai-a-compromis-des-comptes-openai-en-utilisant-le-chatbot-claude-139530",
-      "url": "https://informat.ro/fr/connaissance-itc/hacktron-ai-a-compromis-des-comptes-openai-en-utilisant-le-chatbot-claude-139530",
-      "publishedAt": "2026-09-18T15:57:07.000Z",
-      "date": "2026-09-18T15:57:07.000Z",
-      "description": "Hacktron AI, une start-up américaine spécialisée dans la recherche en cybersécurité, a annoncé vendredi avoir compromis les comptes ChatGPT de...",
-      "excerpt": "Hacktron AI, une start-up américaine spécialisée dans la recherche en cybersécurité, a annoncé vendredi avoir compromis les comptes ChatGPT de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
