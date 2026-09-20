@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T15:07:09.491Z",
+  "generatedAt": "2026-09-20T19:59:21.021Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Cybersécurité: 16 actualités majeures du 20 septembre 2026 (dont ENISA)",
+      "link": "https://dcod.ch/2026/09/20/cybersecurite-16-actualites-majeures-du-20-septembre-2026-dont-enisa/",
+      "url": "https://dcod.ch/2026/09/20/cybersecurite-16-actualites-majeures-du-20-septembre-2026-dont-enisa/",
+      "publishedAt": "2026-09-20T15:01:25.000Z",
+      "date": "2026-09-20T15:01:25.000Z",
+      "description": "Cybersécurité: 16 actualités majeures du 20 septembre 2026 (dont ENISA)... ChatGPT d'employés d'OpenAI. Côté services, le Royaume-Uni déploie les...",
+      "excerpt": "Cybersécurité: 16 actualités majeures du 20 septembre 2026 (dont ENISA)... ChatGPT d'employés d'OpenAI. Côté services, le Royaume-Uni déploie les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Ces trois chercheurs ont utilisé Claude pour pirater OpenAI en moins de 72 heures - Menow",
+      "link": "https://www.menow.fr/ces-trois-chercheurs-ont-utilise-claude-pour-pirater-openai-en-moins-de-72-heures/",
+      "url": "https://www.menow.fr/ces-trois-chercheurs-ont-utilise-claude-pour-pirater-openai-en-moins-de-72-heures/",
+      "publishedAt": "2026-09-20T14:33:15.000Z",
+      "date": "2026-09-20T14:33:15.000Z",
+      "description": "Trois chercheurs en cybersécurité ont réussi à compromettre plusieurs comptes ChatGPT et Codex d'employés d'OpenAI, puis à démontrer un accès au...",
+      "excerpt": "Trois chercheurs en cybersécurité ont réussi à compromettre plusieurs comptes ChatGPT et Codex d'employés d'OpenAI, puis à démontrer un accès au...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Gemini: Google confirme des intrusions dans trois entreprises pendant un test de cybersécurité",
+      "link": "https://www.menow.fr/gemini-google-confirme-des-intrusions-dans-trois-entreprises-pendant-un-test-de-cybersecurite/",
+      "url": "https://www.menow.fr/gemini-google-confirme-des-intrusions-dans-trois-entreprises-pendant-un-test-de-cybersecurite/",
+      "publishedAt": "2026-09-20T12:03:18.000Z",
+      "date": "2026-09-20T12:03:18.000Z",
+      "description": "Au moins une entreprise fictive utilisée pendant le test portait le même nom qu'une société réelle. A lire: Vous cherchez une alternative à ChatGPT?",
+      "excerpt": "Au moins une entreprise fictive utilisée pendant le test portait le même nom qu'une société réelle. A lire: Vous cherchez une alternative à ChatGPT?",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Intelligence artificielle: après l'ivresse, l'heure du contrôle - La Libre",
       "link": "https://www.lalibre.be/economie/decideurs-chroniqueurs/2026/09/20/intelligence-artificielle-apres-livresse-lheure-du-controle-MR2S22MESNELBAHM3XXJV7CQDM/",
@@ -97,36 +127,6 @@
       "date": "2026-09-19T10:31:15.000Z",
       "description": "Ce modèle se distingue par sa haute capacité en cybersécurité et en préparation biologique et chimique.... ChatGPT se concentre sur la finance...",
       "excerpt": "Ce modèle se distingue par sa haute capacité en cybersécurité et en préparation biologique et chimique.... ChatGPT se concentre sur la finance...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Trois billets sur agents OpenAI, GPT-6 Astra et Navier–Stokes - Brief IA",
-      "link": "https://www.briefia.fr/article/trois-billets-sur-agents-openai-gpt-6-astra-et-navier-stokes",
-      "url": "https://www.briefia.fr/article/trois-billets-sur-agents-openai-gpt-6-astra-et-navier-stokes",
-      "publishedAt": "2026-09-19T10:06:20.000Z",
-      "date": "2026-09-19T10:06:20.000Z",
-      "description": "... ChatGPT, et un dernier sur le problème de Navier–Stokes. Ces... C'est le premier modèle qu'OpenAI classe « critique » sur le volet cybersécurité...",
-      "excerpt": "... ChatGPT, et un dernier sur le problème de Navier–Stokes. Ces... C'est le premier modèle qu'OpenAI classe « critique » sur le volet cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité: une équipe marocaine se qualifie pour la finale mondiale du SAS CTF à Bali",
-      "link": "https://lematin.ma/hi-tech/cybersecurite-une-equipe-marocaine-qualifiee-pour-la-finale-a-bali/365919/amp",
-      "url": "https://lematin.ma/hi-tech/cybersecurite-une-equipe-marocaine-qualifiee-pour-la-finale-a-bali/365919/amp",
-      "publishedAt": "2026-09-19T09:58:41.000Z",
-      "date": "2026-09-19T09:58:41.000Z",
-      "description": "Le Maroc sera représenté à Bali lors de la prochaine finale du SAS CTF, une compétition internationale consacrée à la cybersécurité. L'équipe...",
-      "excerpt": "Le Maroc sera représenté à Bali lors de la prochaine finale du SAS CTF, une compétition internationale consacrée à la cybersécurité. L'équipe...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un pirate informatique a piraté ChatGPT avec Claude et a obtenu 6 500 $. - HiTech.Expert",
-      "link": "https://expert.com.ua/fr/223269-haker-zlamav-chatgpt-za-dopomohoyu-claude-otrimavshi-6500.html",
-      "url": "https://expert.com.ua/fr/223269-haker-zlamav-chatgpt-za-dopomohoyu-claude-otrimavshi-6500.html",
-      "publishedAt": "2026-09-19T05:25:16.000Z",
-      "date": "2026-09-19T05:25:16.000Z",
-      "description": "... ChatGPT... Ils ont utilisé une version spéciale de Claude Opus 4.8, destinée aux experts en cybersécurité, pour développer un code permettant d'...",
-      "excerpt": "... ChatGPT... Ils ont utilisé une version spéciale de Claude Opus 4.8, destinée aux experts en cybersécurité, pour développer un code permettant d'...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
