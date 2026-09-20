@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T02:26:32.883Z",
+  "generatedAt": "2026-09-20T10:18:02.376Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Intelligence artificielle: après l'ivresse, l'heure du contrôle - La Libre",
+      "link": "https://www.lalibre.be/economie/decideurs-chroniqueurs/2026/09/20/intelligence-artificielle-apres-livresse-lheure-du-controle-MR2S22MESNELBAHM3XXJV7CQDM/",
+      "url": "https://www.lalibre.be/economie/decideurs-chroniqueurs/2026/09/20/intelligence-artificielle-apres-livresse-lheure-du-controle-MR2S22MESNELBAHM3XXJV7CQDM/",
+      "publishedAt": "2026-09-20T10:11:40.000Z",
+      "date": "2026-09-20T10:11:40.000Z",
+      "description": "ChatGPT, Claude, Gemini ou même Grok: quelle IA mérite vraiment son... J'écrivais récemment qu'en cybersécurité, l'Europe n'était pas condamnée à...",
+      "excerpt": "ChatGPT, Claude, Gemini ou même Grok: quelle IA mérite vraiment son... J'écrivais récemment qu'en cybersécurité, l'Europe n'était pas condamnée à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment préserver vos conversations avec ChatGPT et éviter qu'elles ne soient lues par un...",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/comment-preserver-vos-conversations-avec-chat-gpt-et-eviter-qu-elles-ne-soient-lues-par-un-operateur-humain_AV-202609200111.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/comment-preserver-vos-conversations-avec-chat-gpt-et-eviter-qu-elles-ne-soient-lues-par-un-operateur-humain_AV-202609200111.html",
+      "publishedAt": "2026-09-20T10:05:54.000Z",
+      "date": "2026-09-20T10:05:54.000Z",
+      "description": "Afin d'améliorer ses modèles conversationnels, OpenAI utilise des prestataires qui relisent les conversations des utilisateurs de ChatGPT.",
+      "excerpt": "Afin d'améliorer ses modèles conversationnels, OpenAI utilise des prestataires qui relisent les conversations des utilisateurs de ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Google savait que Gemini a attaqué de vraies entreprises et l'a gardé secret pendant des mois",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/google-savait-que-gemini-a-attaque-de-vraies-entreprises-et-l-a-garde-secret-pendant-des-mois-n262048.html",
@@ -38,6 +58,16 @@
       "description": "Un piratage contrôlé. Selon un message publié ce vendredi par la start-up de cybersécurité Hacktron AI, ses chercheurs ont accédé aux comptes ChatGPT...",
       "excerpt": "Un piratage contrôlé. Selon un message publié ce vendredi par la start-up de cybersécurité Hacktron AI, ses chercheurs ont accédé aux comptes ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "WordPress.com plugin for ChatGPT - OpenAI",
+      "link": "https://openai.com/fr-FR/business/plugins/wordpress-com/",
+      "url": "https://openai.com/fr-FR/business/plugins/wordpress-com/",
+      "publishedAt": "2026-09-19T12:00:15.000Z",
+      "date": "2026-09-19T12:00:15.000Z",
+      "description": "... update settings. 70+ abilities across your full site. WordPress.com's plugin connects ChatGPT... Répertoire de plugins ChatGPT affichant Google...",
+      "excerpt": "... update settings. 70+ abilities across your full site. WordPress.com's plugin connects ChatGPT... Répertoire de plugins ChatGPT affichant Google...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "DepthFirst: IA gratuite pénètre dans TikTok - Daily Beirut",
@@ -98,36 +128,6 @@
       "description": "... ChatGPT... Ils ont utilisé une version spéciale de Claude Opus 4.8, destinée aux experts en cybersécurité, pour développer un code permettant d'...",
       "excerpt": "... ChatGPT... Ils ont utilisé une version spéciale de Claude Opus 4.8, destinée aux experts en cybersécurité, pour développer un code permettant d'...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des chercheurs en sécurité ont piraté OpenAI grâce à l'IA Claude - KultureGeek",
-      "link": "https://kulturegeek.fr/news-359758/chercheurs-securite-pirate-openai-grace-lia-claude",
-      "url": "https://kulturegeek.fr/news-359758/chercheurs-securite-pirate-openai-grace-lia-claude",
-      "publishedAt": "2026-09-18T23:55:36.000Z",
-      "date": "2026-09-18T23:55:36.000Z",
-      "description": "L'équipe de chercheurs en sécurité de Hacktron AI a notamment pris le contrôle de comptes ChatGPT... cybersécurité. En juillet, certains de ses...",
-      "excerpt": "L'équipe de chercheurs en sécurité de Hacktron AI a notamment pris le contrôle de comptes ChatGPT... cybersécurité. En juillet, certains de ses...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des pirates informatiques \"éthiques\" s'introduisent dans OpenAI en 72 heures - La Libre",
-      "link": "https://www.lalibre.be/dernieres-depeches/2026/09/18/des-pirates-informatiques-ethiques-sintroduisent-dans-openai-en-72-heures-5BXFWMRJFZBEXL3PCNZ3MX3S7A/",
-      "url": "https://www.lalibre.be/dernieres-depeches/2026/09/18/des-pirates-informatiques-ethiques-sintroduisent-dans-openai-en-72-heures-5BXFWMRJFZBEXL3PCNZ3MX3S7A/",
-      "publishedAt": "2026-09-18T23:16:54.000Z",
-      "date": "2026-09-18T23:16:54.000Z",
-      "description": "Des pirates informatiques dits \"éthiques\" ont réussi à s'introduire dans les systèmes d'OpenAI, l'entreprise derrière ChatGPT.",
-      "excerpt": "Des pirates informatiques dits \"éthiques\" ont réussi à s'introduire dans les systèmes d'OpenAI, l'entreprise derrière ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "France moves to replace Palantir in domestic intelligence as AI market shifts and EU bans...",
-      "link": "https://www.lavoixdefrance.fr/france-moves-to-replace-palantir-in-domestic-intelligence-as-ai-market-shifts-and-eu-bans-undressing-tools-6468/",
-      "url": "https://www.lavoixdefrance.fr/france-moves-to-replace-palantir-in-domestic-intelligence-as-ai-market-shifts-and-eu-bans-undressing-tools-6468/",
-      "publishedAt": "2026-09-18T22:55:41.000Z",
-      "date": "2026-09-18T22:55:41.000Z",
-      "description": "The firm was already working with France's Interior Ministry before the announcement... ChatGPT dips below 50% market share as assistant AI becomes a...",
-      "excerpt": "The firm was already working with France's Interior Ministry before the announcement... ChatGPT dips below 50% market share as assistant AI becomes a...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
