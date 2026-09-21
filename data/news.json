@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T19:59:21.021Z",
+  "generatedAt": "2026-09-21T02:24:46.459Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT, Gemini, Claude: IA gratuite pour rédaction et design - Daily Beirut",
+      "link": "https://dailybeirut.com/fr/intelligence-artificielle/outils-dia-gratuits-pour-r%C3%A9daction-recherche-et-design/",
+      "url": "https://dailybeirut.com/fr/intelligence-artificielle/outils-dia-gratuits-pour-r%C3%A9daction-recherche-et-design/",
+      "publishedAt": "2026-09-21T00:14:57.000Z",
+      "date": "2026-09-21T00:14:57.000Z",
+      "description": "ChatGPT, Gemini et Claude offrent des fonctionnalités d'IA gratuites pour... Gemini a piraté trois entreprises lors d'un test de cybersécurité.",
+      "excerpt": "ChatGPT, Gemini et Claude offrent des fonctionnalités d'IA gratuites pour... Gemini a piraté trois entreprises lors d'un test de cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Cybersécurité: 16 actualités majeures du 20 septembre 2026 (dont ENISA)",
       "link": "https://dcod.ch/2026/09/20/cybersecurite-16-actualites-majeures-du-20-septembre-2026-dont-enisa/",
@@ -117,16 +127,6 @@
       "date": "2026-09-19T11:40:37.000Z",
       "description": "Une nouvelle campagne de phishing tente de piéger les utilisateurs de ChatGPT en se faisant passer pour un message de facturation d'OpenAI.",
       "excerpt": "Une nouvelle campagne de phishing tente de piéger les utilisateurs de ChatGPT en se faisant passer pour un message de facturation d'OpenAI.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Hex s'appuie sur GPT‑6 Astra pour fiabiliser ses analyses | Brief IA",
-      "link": "https://www.briefia.fr/article/hex-s-appuie-sur-gpt-6-astra-pour-fiabiliser-ses-analyses",
-      "url": "https://www.briefia.fr/article/hex-s-appuie-sur-gpt-6-astra-pour-fiabiliser-ses-analyses",
-      "publishedAt": "2026-09-19T10:31:15.000Z",
-      "date": "2026-09-19T10:31:15.000Z",
-      "description": "Ce modèle se distingue par sa haute capacité en cybersécurité et en préparation biologique et chimique.... ChatGPT se concentre sur la finance...",
-      "excerpt": "Ce modèle se distingue par sa haute capacité en cybersécurité et en préparation biologique et chimique.... ChatGPT se concentre sur la finance...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
