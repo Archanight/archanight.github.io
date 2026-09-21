@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T17:26:51.238Z",
+  "generatedAt": "2026-09-21T21:25:20.693Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI appelle à la création de normes internationales sur l'IA de pointe, sans ralentir pour autant",
+      "link": "https://www.lesechos.fr/tech-medias/intelligence-artificielle/openai-appelle-a-la-creation-de-normes-internationales-sur-lia-de-pointe-sans-ralentir-pour-autant-2252759",
+      "url": "https://www.lesechos.fr/tech-medias/intelligence-artificielle/openai-appelle-a-la-creation-de-normes-internationales-sur-lia-de-pointe-sans-ralentir-pour-autant-2252759",
+      "publishedAt": "2026-09-21T17:34:15.000Z",
+      "date": "2026-09-21T17:34:15.000Z",
+      "description": "En plein débat sur la sécurité de l'IA, la start-up derrière ChatGPT... Cybersécurité · Japon.",
+      "excerpt": "En plein débat sur la sécurité de l'IA, la start-up derrière ChatGPT... Cybersécurité · Japon.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Unit 42 dévoile le vol d'identifiants sur les agents IA d'AWS AgentCore - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/17317/aws-agentcore-unit42-vol-identifiants-agents-ia",
+      "url": "https://pasqualepillitteri.it/fr/news/17317/aws-agentcore-unit42-vol-identifiants-agents-ia",
+      "publishedAt": "2026-09-21T16:51:58.000Z",
+      "date": "2026-09-21T16:51:58.000Z",
+      "description": "Vulnérabilité ChatGPT: le Résumé IA Transforme une Page Web en Hameçonnage. OpenAI & ChatGPT. # cybersécurité #sécurité informatique. Vulnérabilité...",
+      "excerpt": "Vulnérabilité ChatGPT: le Résumé IA Transforme une Page Web en Hameçonnage. OpenAI & ChatGPT. # cybersécurité #sécurité informatique. Vulnérabilité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Google Gemini pirate trois entreprises lors de tests qui tournent mal - Tom's Hardware",
       "link": "https://www.tomshardware.fr/google-gemini-pirate-trois-entreprises-lors-de-tests-qui-tournent-mal/",
@@ -27,6 +47,16 @@
       "date": "2026-09-21T15:58:21.000Z",
       "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT -6 Astra déchiffre un message secret vieux de 108 ans, voici ce...",
       "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT -6 Astra déchiffre un message secret vieux de 108 ans, voici ce...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Top 20 des modèles d'IA les plus performants en septembre 2026: le classement complet",
+      "link": "https://www.blogdumoderateur.com/top-20-modeles-ia-performants-septembre-2026/",
+      "url": "https://www.blogdumoderateur.com/top-20-modeles-ia-performants-septembre-2026/",
+      "publishedAt": "2026-09-21T15:56:04.000Z",
+      "date": "2026-09-21T15:56:04.000Z",
+      "description": "ChatGPT. Générateur de texte par IA. Le générateur de texte par intelligence artificielle d'OpenAI. Voir plus...",
+      "excerpt": "ChatGPT. Générateur de texte par IA. Le générateur de texte par intelligence artificielle d'OpenAI. Voir plus...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -97,36 +127,6 @@
       "date": "2026-09-21T09:12:15.000Z",
       "description": "En effet, sur chatgpt.com, il est généré aléatoirement puis signé par le serveur avec un jeton qui contient aussi l'identifiant de votre compte. Les...",
       "excerpt": "En effet, sur chatgpt.com, il est généré aléatoirement puis signé par le serveur avec un jeton qui contient aussi l'identifiant de votre compte. Les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatMinerva piratée, accès aux bases de données et aux conversations - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/17217/chatminerva-piratee-donnees-conversations-fr",
-      "url": "https://pasqualepillitteri.it/fr/news/17217/chatminerva-piratee-donnees-conversations-fr",
-      "publishedAt": "2026-09-21T07:39:25.000Z",
-      "date": "2026-09-21T07:39:25.000Z",
-      "description": "L'incident a été clos le 2 avril avec le soutien de l'Agence nationale italienne pour la cybersécurité (ACN).... ChatGPT. Cybersecurity.",
-      "excerpt": "L'incident a été clos le 2 avril avec le soutien de l'Agence nationale italienne pour la cybersécurité (ACN).... ChatGPT. Cybersecurity.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Une analyse dévoile le cookie __obi d'OpenAI, qui suit les utilisateurs de ChatGPT",
-      "link": "https://pasqualepillitteri.it/fr/news/17192/cookie-obi-openai-suit-utilisateurs-chatgpt",
-      "url": "https://pasqualepillitteri.it/fr/news/17192/cookie-obi-openai-suit-utilisateurs-chatgpt",
-      "publishedAt": "2026-09-21T07:25:16.000Z",
-      "date": "2026-09-21T07:25:16.000Z",
-      "description": "Selon l'analyse indépendante de Buchodi, le cookie __obi d'OpenAI relie les utilisateurs de ChatGPT aux sites des annonceurs, même sans compte.",
-      "excerpt": "Selon l'analyse indépendante de Buchodi, le cookie __obi d'OpenAI relie les utilisateurs de ChatGPT aux sites des annonceurs, même sans compte.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Google: Gemini impliqué dans trois intrusions lors de tests - Brief IA",
-      "link": "https://www.briefia.fr/article/google-gemini-implique-dans-trois-intrusions-lors-de-tests",
-      "url": "https://www.briefia.fr/article/google-gemini-implique-dans-trois-intrusions-lors-de-tests",
-      "publishedAt": "2026-09-21T04:11:38.000Z",
-      "date": "2026-09-21T04:11:38.000Z",
-      "description": "Trois intrusions attribuées au modèle Gemini ont eu lieu lors de tests de cybersécurité menés par Irregular.... ChatGPT, Gemini, Copilot: Protégez vos...",
-      "excerpt": "Trois intrusions attribuées au modèle Gemini ont eu lieu lors de tests de cybersécurité menés par Irregular.... ChatGPT, Gemini, Copilot: Protégez vos...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
