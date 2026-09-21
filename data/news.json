@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T02:24:46.459Z",
+  "generatedAt": "2026-09-21T11:28:10.773Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Des abonnés à ChatGPT, Claude, Grok et Gemini attaquent les géants de l'IA en justice - Menow",
+      "link": "https://www.menow.fr/des-abonnes-a-chatgpt-claude-grok-et-gemini-attaquent-les-geants-de-lia-en-justice-ce-quils-leur-reprochent/",
+      "url": "https://www.menow.fr/des-abonnes-a-chatgpt-claude-grok-et-gemini-attaquent-les-geants-de-lia-en-justice-ce-quils-leur-reprochent/",
+      "publishedAt": "2026-09-21T10:03:32.000Z",
+      "date": "2026-09-21T10:03:32.000Z",
+      "description": "... ChatGPT, Claude, Grok ou Gemini à partir du 12 septembre 2026.... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand...",
+      "excerpt": "... ChatGPT, Claude, Grok ou Gemini à partir du 12 septembre 2026.... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Méfiez-vous du mouchard de ChatGPT - Korben",
+      "link": "https://korben.info/chatgpt-ad-collector-tracking.html",
+      "url": "https://korben.info/chatgpt-ad-collector-tracking.html",
+      "publishedAt": "2026-09-21T09:12:15.000Z",
+      "date": "2026-09-21T09:12:15.000Z",
+      "description": "En effet, sur chatgpt.com, il est généré aléatoirement puis signé par le serveur avec un jeton qui contient aussi l'identifiant de votre compte. Les...",
+      "excerpt": "En effet, sur chatgpt.com, il est généré aléatoirement puis signé par le serveur avec un jeton qui contient aussi l'identifiant de votre compte. Les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google: Gemini impliqué dans trois intrusions lors de tests - Brief IA",
+      "link": "https://www.briefia.fr/article/google-gemini-implique-dans-trois-intrusions-lors-de-tests",
+      "url": "https://www.briefia.fr/article/google-gemini-implique-dans-trois-intrusions-lors-de-tests",
+      "publishedAt": "2026-09-21T04:11:38.000Z",
+      "date": "2026-09-21T04:11:38.000Z",
+      "description": "Trois intrusions attribuées au modèle Gemini ont eu lieu lors de tests de cybersécurité menés par Irregular.... ChatGPT, Gemini, Copilot: Protégez vos...",
+      "excerpt": "Trois intrusions attribuées au modèle Gemini ont eu lieu lors de tests de cybersécurité menés par Irregular.... ChatGPT, Gemini, Copilot: Protégez vos...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT, Gemini, Claude: IA gratuite pour rédaction et design - Daily Beirut",
       "link": "https://dailybeirut.com/fr/intelligence-artificielle/outils-dia-gratuits-pour-r%C3%A9daction-recherche-et-design/",
@@ -97,36 +127,6 @@
       "date": "2026-09-19T12:06:38.000Z",
       "description": "Un piratage contrôlé. Selon un message publié ce vendredi par la start-up de cybersécurité Hacktron AI, ses chercheurs ont accédé aux comptes ChatGPT...",
       "excerpt": "Un piratage contrôlé. Selon un message publié ce vendredi par la start-up de cybersécurité Hacktron AI, ses chercheurs ont accédé aux comptes ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "WordPress.com plugin for ChatGPT - OpenAI",
-      "link": "https://openai.com/fr-FR/business/plugins/wordpress-com/",
-      "url": "https://openai.com/fr-FR/business/plugins/wordpress-com/",
-      "publishedAt": "2026-09-19T12:00:15.000Z",
-      "date": "2026-09-19T12:00:15.000Z",
-      "description": "... update settings. 70+ abilities across your full site. WordPress.com's plugin connects ChatGPT... Répertoire de plugins ChatGPT affichant Google...",
-      "excerpt": "... update settings. 70+ abilities across your full site. WordPress.com's plugin connects ChatGPT... Répertoire de plugins ChatGPT affichant Google...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "DepthFirst: IA gratuite pénètre dans TikTok - Daily Beirut",
-      "link": "https://dailybeirut.com/fr/monde/ia-gratuite-penetre-dans-tiktok-que-sest-il-passe/",
-      "url": "https://dailybeirut.com/fr/monde/ia-gratuite-penetre-dans-tiktok-que-sest-il-passe/",
-      "publishedAt": "2026-09-19T11:51:39.000Z",
-      "date": "2026-09-19T11:51:39.000Z",
-      "description": "... ChatGPT », dans les tâches de cybersécurité, en permettant un usage complet uniquement après vérification pour certains utilisateurs et entreprises.",
-      "excerpt": "... ChatGPT », dans les tâches de cybersécurité, en permettant un usage complet uniquement après vérification pour certains utilisateurs et entreprises.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "De faux e-mails de facturation ChatGPT utilisés pour voler les identifiants OpenAI",
-      "link": "https://snrtnews.com/article/de-faux-e-mails-de-facturation-chatgpt-utilises-pour-voler-les-identifiants-openai-158789",
-      "url": "https://snrtnews.com/article/de-faux-e-mails-de-facturation-chatgpt-utilises-pour-voler-les-identifiants-openai-158789",
-      "publishedAt": "2026-09-19T11:40:37.000Z",
-      "date": "2026-09-19T11:40:37.000Z",
-      "description": "Une nouvelle campagne de phishing tente de piéger les utilisateurs de ChatGPT en se faisant passer pour un message de facturation d'OpenAI.",
-      "excerpt": "Une nouvelle campagne de phishing tente de piéger les utilisateurs de ChatGPT en se faisant passer pour un message de facturation d'OpenAI.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
