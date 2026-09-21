@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:28:10.773Z",
+  "generatedAt": "2026-09-21T17:26:51.238Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,76 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Google Gemini pirate trois entreprises lors de tests qui tournent mal - Tom's Hardware",
+      "link": "https://www.tomshardware.fr/google-gemini-pirate-trois-entreprises-lors-de-tests-qui-tournent-mal/",
+      "url": "https://www.tomshardware.fr/google-gemini-pirate-trois-entreprises-lors-de-tests-qui-tournent-mal/",
+      "publishedAt": "2026-09-21T16:06:32.000Z",
+      "date": "2026-09-21T16:06:32.000Z",
+      "description": "Après ChatGPT d'OpenAI, c'est au tour de Gemini de Google de se mettre... Au cours d'évaluations de cybersécurité menées en mai dernier, le...",
+      "excerpt": "Après ChatGPT d'OpenAI, c'est au tour de Gemini de Google de se mettre... Au cours d'évaluations de cybersécurité menées en mai dernier, le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT -6 Astra déchiffre un message secret vieux de 108 ans, voici ce qu'il dit",
+      "link": "https://www.phonandroid.com/chatgpt-6-astra-dechiffre-un-message-secret-vieux-de-108-ans-voici-ce-quil-dit.html",
+      "url": "https://www.phonandroid.com/chatgpt-6-astra-dechiffre-un-message-secret-vieux-de-108-ans-voici-ce-quil-dit.html",
+      "publishedAt": "2026-09-21T15:58:21.000Z",
+      "date": "2026-09-21T15:58:21.000Z",
+      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT -6 Astra déchiffre un message secret vieux de 108 ans, voici ce...",
+      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT -6 Astra déchiffre un message secret vieux de 108 ans, voici ce...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI ( ChatGPT ) va encore brûler la somme folle de 280 milliards de dollars d'ici 2030",
+      "link": "https://www.clubic.com/actualite-630628-openai-chatgpt-va-encore-bruler-la-somme-folle-de-280-milliards-de-dollars-d-ici-2030.html",
+      "url": "https://www.clubic.com/actualite-630628-openai-chatgpt-va-encore-bruler-la-somme-folle-de-280-milliards-de-dollars-d-ici-2030.html",
+      "publishedAt": "2026-09-21T15:50:39.000Z",
+      "date": "2026-09-21T15:50:39.000Z",
+      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Selon la même présentation, les 122 milliards de dollars levés en mars...",
+      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Selon la même présentation, les 122 milliards de dollars levés en mars...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Intelligence artificielle: une équipe exploite des failles d'OpenAI avec Claude - Linfo.re",
+      "link": "https://www.linfo.re/magazine/culture/intelligence-artificielle-une-equipe-exploite-des-failles-d-openai-avec-claude",
+      "url": "https://www.linfo.re/magazine/culture/intelligence-artificielle-une-equipe-exploite-des-failles-d-openai-avec-claude",
+      "publishedAt": "2026-09-21T15:26:40.000Z",
+      "date": "2026-09-21T15:26:40.000Z",
+      "description": "OpenAI a confirmé qu'un test mené fin juillet avait permis à des chercheurs d'accéder à des comptes ChatGPT internes avec Claude.",
+      "excerpt": "OpenAI a confirmé qu'un test mené fin juillet avait permis à des chercheurs d'accéder à des comptes ChatGPT internes avec Claude.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Durabilité et IA: préserver les capacités humaines face aux nouveaux défis - lematin.ch",
+      "link": "https://www.lematin.ch/story/opinion-ia-humain-et-durabilite-ou-se-situe-le-veritable-enjeu-103630405",
+      "url": "https://www.lematin.ch/story/opinion-ia-humain-et-durabilite-ou-se-situe-le-veritable-enjeu-103630405",
+      "publishedAt": "2026-09-21T15:22:48.000Z",
+      "date": "2026-09-21T15:22:48.000Z",
+      "description": "L'interface de ChatGPT sur l'écran, reflet des nouvelles dynamiques de travail et de productivité. dra/20min. Capacités humaines, esprit critique,...",
+      "excerpt": "L'interface de ChatGPT sur l'écran, reflet des nouvelles dynamiques de travail et de productivité. dra/20min. Capacités humaines, esprit critique,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI prépare-t-il ses propres robots? Ses recrutements donnent un indice très clair",
+      "link": "https://www.menow.fr/openai-prepare-t-il-ses-propres-robots-ses-recrutements-donnent-un-indice-tres-clair/",
+      "url": "https://www.menow.fr/openai-prepare-t-il-ses-propres-robots-ses-recrutements-donnent-un-indice-tres-clair/",
+      "publishedAt": "2026-09-21T13:34:37.000Z",
+      "date": "2026-09-21T13:34:37.000Z",
+      "description": "Et la liste donne une indication assez claire: OpenAI ne cherche pas simplement à connecter ChatGPT à un robot construit par quelqu'un d'autre.",
+      "excerpt": "Et la liste donne une indication assez claire: OpenAI ne cherche pas simplement à connecter ChatGPT à un robot construit par quelqu'un d'autre.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Quartile ajoute l'accès à la publicité ChatGPT en tant que partenaire technologique",
+      "link": "https://www.unite.ai/fr/quartile-adds-chatgpt-advertising-access-as-technology-partner/",
+      "url": "https://www.unite.ai/fr/quartile-adds-chatgpt-advertising-access-as-technology-partner/",
+      "publishedAt": "2026-09-21T11:06:48.000Z",
+      "date": "2026-09-21T11:06:48.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... Quartile permet aux marques d'accéder à la publicité sur ChatGPT sans constituer...",
+      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... Quartile permet aux marques d'accéder à la publicité sur ChatGPT sans constituer...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Des abonnés à ChatGPT, Claude, Grok et Gemini attaquent les géants de l'IA en justice - Menow",
       "link": "https://www.menow.fr/des-abonnes-a-chatgpt-claude-grok-et-gemini-attaquent-les-geants-de-lia-en-justice-ce-quils-leur-reprochent/",
@@ -30,6 +100,26 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "ChatMinerva piratée, accès aux bases de données et aux conversations - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/17217/chatminerva-piratee-donnees-conversations-fr",
+      "url": "https://pasqualepillitteri.it/fr/news/17217/chatminerva-piratee-donnees-conversations-fr",
+      "publishedAt": "2026-09-21T07:39:25.000Z",
+      "date": "2026-09-21T07:39:25.000Z",
+      "description": "L'incident a été clos le 2 avril avec le soutien de l'Agence nationale italienne pour la cybersécurité (ACN).... ChatGPT. Cybersecurity.",
+      "excerpt": "L'incident a été clos le 2 avril avec le soutien de l'Agence nationale italienne pour la cybersécurité (ACN).... ChatGPT. Cybersecurity.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Une analyse dévoile le cookie __obi d'OpenAI, qui suit les utilisateurs de ChatGPT",
+      "link": "https://pasqualepillitteri.it/fr/news/17192/cookie-obi-openai-suit-utilisateurs-chatgpt",
+      "url": "https://pasqualepillitteri.it/fr/news/17192/cookie-obi-openai-suit-utilisateurs-chatgpt",
+      "publishedAt": "2026-09-21T07:25:16.000Z",
+      "date": "2026-09-21T07:25:16.000Z",
+      "description": "Selon l'analyse indépendante de Buchodi, le cookie __obi d'OpenAI relie les utilisateurs de ChatGPT aux sites des annonceurs, même sans compte.",
+      "excerpt": "Selon l'analyse indépendante de Buchodi, le cookie __obi d'OpenAI relie les utilisateurs de ChatGPT aux sites des annonceurs, même sans compte.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Google: Gemini impliqué dans trois intrusions lors de tests - Brief IA",
       "link": "https://www.briefia.fr/article/google-gemini-implique-dans-trois-intrusions-lors-de-tests",
       "url": "https://www.briefia.fr/article/google-gemini-implique-dans-trois-intrusions-lors-de-tests",
@@ -37,96 +127,6 @@
       "date": "2026-09-21T04:11:38.000Z",
       "description": "Trois intrusions attribuées au modèle Gemini ont eu lieu lors de tests de cybersécurité menés par Irregular.... ChatGPT, Gemini, Copilot: Protégez vos...",
       "excerpt": "Trois intrusions attribuées au modèle Gemini ont eu lieu lors de tests de cybersécurité menés par Irregular.... ChatGPT, Gemini, Copilot: Protégez vos...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT, Gemini, Claude: IA gratuite pour rédaction et design - Daily Beirut",
-      "link": "https://dailybeirut.com/fr/intelligence-artificielle/outils-dia-gratuits-pour-r%C3%A9daction-recherche-et-design/",
-      "url": "https://dailybeirut.com/fr/intelligence-artificielle/outils-dia-gratuits-pour-r%C3%A9daction-recherche-et-design/",
-      "publishedAt": "2026-09-21T00:14:57.000Z",
-      "date": "2026-09-21T00:14:57.000Z",
-      "description": "ChatGPT, Gemini et Claude offrent des fonctionnalités d'IA gratuites pour... Gemini a piraté trois entreprises lors d'un test de cybersécurité.",
-      "excerpt": "ChatGPT, Gemini et Claude offrent des fonctionnalités d'IA gratuites pour... Gemini a piraté trois entreprises lors d'un test de cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité: 16 actualités majeures du 20 septembre 2026 (dont ENISA)",
-      "link": "https://dcod.ch/2026/09/20/cybersecurite-16-actualites-majeures-du-20-septembre-2026-dont-enisa/",
-      "url": "https://dcod.ch/2026/09/20/cybersecurite-16-actualites-majeures-du-20-septembre-2026-dont-enisa/",
-      "publishedAt": "2026-09-20T15:01:25.000Z",
-      "date": "2026-09-20T15:01:25.000Z",
-      "description": "Cybersécurité: 16 actualités majeures du 20 septembre 2026 (dont ENISA)... ChatGPT d'employés d'OpenAI. Côté services, le Royaume-Uni déploie les...",
-      "excerpt": "Cybersécurité: 16 actualités majeures du 20 septembre 2026 (dont ENISA)... ChatGPT d'employés d'OpenAI. Côté services, le Royaume-Uni déploie les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ces trois chercheurs ont utilisé Claude pour pirater OpenAI en moins de 72 heures - Menow",
-      "link": "https://www.menow.fr/ces-trois-chercheurs-ont-utilise-claude-pour-pirater-openai-en-moins-de-72-heures/",
-      "url": "https://www.menow.fr/ces-trois-chercheurs-ont-utilise-claude-pour-pirater-openai-en-moins-de-72-heures/",
-      "publishedAt": "2026-09-20T14:33:15.000Z",
-      "date": "2026-09-20T14:33:15.000Z",
-      "description": "Trois chercheurs en cybersécurité ont réussi à compromettre plusieurs comptes ChatGPT et Codex d'employés d'OpenAI, puis à démontrer un accès au...",
-      "excerpt": "Trois chercheurs en cybersécurité ont réussi à compromettre plusieurs comptes ChatGPT et Codex d'employés d'OpenAI, puis à démontrer un accès au...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Gemini: Google confirme des intrusions dans trois entreprises pendant un test de cybersécurité",
-      "link": "https://www.menow.fr/gemini-google-confirme-des-intrusions-dans-trois-entreprises-pendant-un-test-de-cybersecurite/",
-      "url": "https://www.menow.fr/gemini-google-confirme-des-intrusions-dans-trois-entreprises-pendant-un-test-de-cybersecurite/",
-      "publishedAt": "2026-09-20T12:03:18.000Z",
-      "date": "2026-09-20T12:03:18.000Z",
-      "description": "Au moins une entreprise fictive utilisée pendant le test portait le même nom qu'une société réelle. A lire: Vous cherchez une alternative à ChatGPT?",
-      "excerpt": "Au moins une entreprise fictive utilisée pendant le test portait le même nom qu'une société réelle. A lire: Vous cherchez une alternative à ChatGPT?",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Intelligence artificielle: après l'ivresse, l'heure du contrôle - La Libre",
-      "link": "https://www.lalibre.be/economie/decideurs-chroniqueurs/2026/09/20/intelligence-artificielle-apres-livresse-lheure-du-controle-MR2S22MESNELBAHM3XXJV7CQDM/",
-      "url": "https://www.lalibre.be/economie/decideurs-chroniqueurs/2026/09/20/intelligence-artificielle-apres-livresse-lheure-du-controle-MR2S22MESNELBAHM3XXJV7CQDM/",
-      "publishedAt": "2026-09-20T10:11:40.000Z",
-      "date": "2026-09-20T10:11:40.000Z",
-      "description": "ChatGPT, Claude, Gemini ou même Grok: quelle IA mérite vraiment son... J'écrivais récemment qu'en cybersécurité, l'Europe n'était pas condamnée à...",
-      "excerpt": "ChatGPT, Claude, Gemini ou même Grok: quelle IA mérite vraiment son... J'écrivais récemment qu'en cybersécurité, l'Europe n'était pas condamnée à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment préserver vos conversations avec ChatGPT et éviter qu'elles ne soient lues par un...",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/comment-preserver-vos-conversations-avec-chat-gpt-et-eviter-qu-elles-ne-soient-lues-par-un-operateur-humain_AV-202609200111.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/comment-preserver-vos-conversations-avec-chat-gpt-et-eviter-qu-elles-ne-soient-lues-par-un-operateur-humain_AV-202609200111.html",
-      "publishedAt": "2026-09-20T10:05:54.000Z",
-      "date": "2026-09-20T10:05:54.000Z",
-      "description": "Afin d'améliorer ses modèles conversationnels, OpenAI utilise des prestataires qui relisent les conversations des utilisateurs de ChatGPT.",
-      "excerpt": "Afin d'améliorer ses modèles conversationnels, OpenAI utilise des prestataires qui relisent les conversations des utilisateurs de ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google savait que Gemini a attaqué de vraies entreprises et l'a gardé secret pendant des mois",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/google-savait-que-gemini-a-attaque-de-vraies-entreprises-et-l-a-garde-secret-pendant-des-mois-n262048.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/google-savait-que-gemini-a-attaque-de-vraies-entreprises-et-l-a-garde-secret-pendant-des-mois-n262048.html",
-      "publishedAt": "2026-09-19T14:33:36.000Z",
-      "date": "2026-09-19T14:33:36.000Z",
-      "description": "... trois entreprises de son propre chef lors d'un test de cybersécurité.",
-      "excerpt": "... trois entreprises de son propre chef lors d'un test de cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "iOS 27 ouvre Siri aux IA tierces, le code montre déjà Claude à la place de l'assistant",
-      "link": "https://pasqualepillitteri.it/fr/news/16973/ios-27-siri-ia-tierces-claude",
-      "url": "https://pasqualepillitteri.it/fr/news/16973/ios-27-siri-ia-tierces-claude",
-      "publishedAt": "2026-09-19T13:04:41.000Z",
-      "date": "2026-09-19T13:04:41.000Z",
-      "description": "iOS 27 laissera choisir l'IA de Siri parmi Claude, Gemini, ChatGPT et Grok. 9to5Mac a trouvé les crochets dans le code, mais Apple ne les a pas...",
-      "excerpt": "iOS 27 laissera choisir l'IA de Siri parmi Claude, Gemini, ChatGPT et Grok. 9to5Mac a trouvé les crochets dans le code, mais Apple ne les a pas...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic - CNews",
-      "link": "https://www.cnews.fr/vie-numerique/2026-09-19/des-chercheurs-ont-pirate-openai-en-utilisant-une-ia-danthropic-1921237",
-      "url": "https://www.cnews.fr/vie-numerique/2026-09-19/des-chercheurs-ont-pirate-openai-en-utilisant-une-ia-danthropic-1921237",
-      "publishedAt": "2026-09-19T12:06:38.000Z",
-      "date": "2026-09-19T12:06:38.000Z",
-      "description": "Un piratage contrôlé. Selon un message publié ce vendredi par la start-up de cybersécurité Hacktron AI, ses chercheurs ont accédé aux comptes ChatGPT...",
-      "excerpt": "Un piratage contrôlé. Selon un message publié ce vendredi par la start-up de cybersécurité Hacktron AI, ses chercheurs ont accédé aux comptes ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
