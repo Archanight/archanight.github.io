@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T21:25:20.693Z",
+  "generatedAt": "2026-09-22T02:28:15.099Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Comment V7 dote les agents d'IA d'une mémoire institutionnelle - OpenAI",
+      "link": "https://openai.com/fr-CA/index/v7/",
+      "url": "https://openai.com/fr-CA/index/v7/",
+      "publishedAt": "2026-09-21T20:46:07.000Z",
+      "date": "2026-09-21T20:46:07.000Z",
+      "description": "Les clients peuvent donc l'utiliser depuis ChatGPT et d'autres clients compatibles.... Notes de version. Plateforme API. Présentation · Se connecter...",
+      "excerpt": "Les clients peuvent donc l'utiliser depuis ChatGPT et d'autres clients compatibles.... Notes de version. Plateforme API. Présentation · Se connecter...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI prépare des fonctionnalités pour contrer Grok Bot et étudie une réponse à Muse de Meta",
+      "link": "https://www.lefilia.fr/article/6203019-openai-prepare-des-fonctionnalites-pour-contrer-grok-bot-et-etudie-une-reponse-a-muse-de-meta",
+      "url": "https://www.lefilia.fr/article/6203019-openai-prepare-des-fonctionnalites-pour-contrer-grok-bot-et-etudie-une-reponse-a-muse-de-meta",
+      "publishedAt": "2026-09-21T20:29:24.000Z",
+      "date": "2026-09-21T20:29:24.000Z",
+      "description": "... ChatGPT. Certains clients de ces applications ont déjà connecte leurs... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
+      "excerpt": "... ChatGPT. Certains clients de ces applications ont déjà connecte leurs... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT l'aide: Ainsi, cette cubaine organise les achats qu'elle envoie à sa famille sur l'île",
+      "link": "https://fr.cibercuba.com/noticias/2026-09-21-u1-e208487-s27065-nid340846-chatgpt-ayuda-asi-organiza-esta-cubana-compras-envia",
+      "url": "https://fr.cibercuba.com/noticias/2026-09-21-u1-e208487-s27065-nid340846-chatgpt-ayuda-asi-organiza-esta-cubana-compras-envia",
+      "publishedAt": "2026-09-21T19:57:09.000Z",
+      "date": "2026-09-21T19:57:09.000Z",
+      "description": "Une Cubaine aux États-Unis utilise ChatGPT pour calculer avec précision les produits de base qu'elle envoie à sa famille à Cuba, répartis par...",
+      "excerpt": "Une Cubaine aux États-Unis utilise ChatGPT pour calculer avec précision les produits de base qu'elle envoie à sa famille à Cuba, répartis par...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "OpenAI appelle à la création de normes internationales sur l'IA de pointe, sans ralentir pour autant",
       "link": "https://www.lesechos.fr/tech-medias/intelligence-artificielle/openai-appelle-a-la-creation-de-normes-internationales-sur-lia-de-pointe-sans-ralentir-pour-autant-2252759",
@@ -97,36 +127,6 @@
       "date": "2026-09-21T13:34:37.000Z",
       "description": "Et la liste donne une indication assez claire: OpenAI ne cherche pas simplement à connecter ChatGPT à un robot construit par quelqu'un d'autre.",
       "excerpt": "Et la liste donne une indication assez claire: OpenAI ne cherche pas simplement à connecter ChatGPT à un robot construit par quelqu'un d'autre.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Quartile ajoute l'accès à la publicité ChatGPT en tant que partenaire technologique",
-      "link": "https://www.unite.ai/fr/quartile-adds-chatgpt-advertising-access-as-technology-partner/",
-      "url": "https://www.unite.ai/fr/quartile-adds-chatgpt-advertising-access-as-technology-partner/",
-      "publishedAt": "2026-09-21T11:06:48.000Z",
-      "date": "2026-09-21T11:06:48.000Z",
-      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... Quartile permet aux marques d'accéder à la publicité sur ChatGPT sans constituer...",
-      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... Quartile permet aux marques d'accéder à la publicité sur ChatGPT sans constituer...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des abonnés à ChatGPT, Claude, Grok et Gemini attaquent les géants de l'IA en justice - Menow",
-      "link": "https://www.menow.fr/des-abonnes-a-chatgpt-claude-grok-et-gemini-attaquent-les-geants-de-lia-en-justice-ce-quils-leur-reprochent/",
-      "url": "https://www.menow.fr/des-abonnes-a-chatgpt-claude-grok-et-gemini-attaquent-les-geants-de-lia-en-justice-ce-quils-leur-reprochent/",
-      "publishedAt": "2026-09-21T10:03:32.000Z",
-      "date": "2026-09-21T10:03:32.000Z",
-      "description": "... ChatGPT, Claude, Grok ou Gemini à partir du 12 septembre 2026.... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand...",
-      "excerpt": "... ChatGPT, Claude, Grok ou Gemini à partir du 12 septembre 2026.... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Méfiez-vous du mouchard de ChatGPT - Korben",
-      "link": "https://korben.info/chatgpt-ad-collector-tracking.html",
-      "url": "https://korben.info/chatgpt-ad-collector-tracking.html",
-      "publishedAt": "2026-09-21T09:12:15.000Z",
-      "date": "2026-09-21T09:12:15.000Z",
-      "description": "En effet, sur chatgpt.com, il est généré aléatoirement puis signé par le serveur avec un jeton qui contient aussi l'identifiant de votre compte. Les...",
-      "excerpt": "En effet, sur chatgpt.com, il est généré aléatoirement puis signé par le serveur avec un jeton qui contient aussi l'identifiant de votre compte. Les...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
