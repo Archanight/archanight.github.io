@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T02:28:15.099Z",
+  "generatedAt": "2026-09-22T10:35:48.492Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT débarque dans Microsoft Word, et vous n'avez même pas besoin de payer - Clubic",
+      "link": "https://www.clubic.com/actualite-630691-chatgpt-debarque-dans-microsoft-word-et-vous-n-avez-meme-pas-besoin-de-payer.html",
+      "url": "https://www.clubic.com/actualite-630691-chatgpt-debarque-dans-microsoft-word-et-vous-n-avez-meme-pas-besoin-de-payer.html",
+      "publishedAt": "2026-09-22T09:28:08.000Z",
+      "date": "2026-09-22T09:28:08.000Z",
+      "description": "ChatGPT débarque dans Microsoft Word, et vous n'avez même pas besoin de payer. ParChloé ClaessensSpécialiste cybersécurité. Publié le 22 septembre...",
+      "excerpt": "ChatGPT débarque dans Microsoft Word, et vous n'avez même pas besoin de payer. ParChloé ClaessensSpécialiste cybersécurité. Publié le 22 septembre...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI gagne du terrain avec GPT-6 Astra... Anthropic prépare sa riposte - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/openai-gagne-du-terrain-avec-gpt-6-astra-anthropic-prepare-sa-riposte-un-nouveau-claude-se-profile-504238.htm",
+      "url": "https://www.zdnet.fr/actualites/openai-gagne-du-terrain-avec-gpt-6-astra-anthropic-prepare-sa-riposte-un-nouveau-claude-se-profile-504238.htm",
+      "publishedAt": "2026-09-22T07:01:33.000Z",
+      "date": "2026-09-22T07:01:33.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT Translate est un outil distinct de ChatGPT. Il n'est pas encore...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Des hackers éthiques ont compromis OpenAI avec Claude Opus 5 en moins de 72 heures",
+      "link": "https://global.techradar.com/fr-fr/pro/security/des-hackers-ethiques-ont-compromis-openai-avec-claude-opus-5-en-moins-de-72-heures",
+      "url": "https://global.techradar.com/fr-fr/pro/security/des-hackers-ethiques-ont-compromis-openai-avec-claude-opus-5-en-moins-de-72-heures",
+      "publishedAt": "2026-09-22T06:52:13.000Z",
+      "date": "2026-09-22T06:52:13.000Z",
+      "description": "Dans le cadre d'un programme de bug bounty d'OpenAI, des chercheurs en sécurité de Hacktron sont parvenus à compromettre un compte ChatGPT interne et...",
+      "excerpt": "Dans le cadre d'un programme de bug bounty d'OpenAI, des chercheurs en sécurité de Hacktron sont parvenus à compromettre un compte ChatGPT interne et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un forum hébergé et un SSO mal réglé ont ouvert le dépôt interne d'OpenAI - IT SOCIAL",
+      "link": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/un-forum-heberge-et-un-sso-mal-regle-ont-ouvert-le-depot-interne-dopenai/",
+      "url": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/un-forum-heberge-et-un-sso-mal-regle-ont-ouvert-le-depot-interne-dopenai/",
+      "publishedAt": "2026-09-22T06:27:16.000Z",
+      "date": "2026-09-22T06:27:16.000Z",
+      "description": "Cybersécurité Cybersécurité... Le 25 juillet entre 13 h 30 et 15 h 30 UTC, ils ont pris la main sur des comptes ChatGPT et Codex d'employés d'OpenAI...",
+      "excerpt": "Cybersécurité Cybersécurité... Le 25 juillet entre 13 h 30 et 15 h 30 UTC, ils ont pris la main sur des comptes ChatGPT et Codex d'employés d'OpenAI...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Comment V7 dote les agents d'IA d'une mémoire institutionnelle - OpenAI",
       "link": "https://openai.com/fr-CA/index/v7/",
@@ -87,46 +127,6 @@
       "date": "2026-09-21T15:56:04.000Z",
       "description": "ChatGPT. Générateur de texte par IA. Le générateur de texte par intelligence artificielle d'OpenAI. Voir plus...",
       "excerpt": "ChatGPT. Générateur de texte par IA. Le générateur de texte par intelligence artificielle d'OpenAI. Voir plus...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI ( ChatGPT ) va encore brûler la somme folle de 280 milliards de dollars d'ici 2030",
-      "link": "https://www.clubic.com/actualite-630628-openai-chatgpt-va-encore-bruler-la-somme-folle-de-280-milliards-de-dollars-d-ici-2030.html",
-      "url": "https://www.clubic.com/actualite-630628-openai-chatgpt-va-encore-bruler-la-somme-folle-de-280-milliards-de-dollars-d-ici-2030.html",
-      "publishedAt": "2026-09-21T15:50:39.000Z",
-      "date": "2026-09-21T15:50:39.000Z",
-      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Selon la même présentation, les 122 milliards de dollars levés en mars...",
-      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Selon la même présentation, les 122 milliards de dollars levés en mars...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Intelligence artificielle: une équipe exploite des failles d'OpenAI avec Claude - Linfo.re",
-      "link": "https://www.linfo.re/magazine/culture/intelligence-artificielle-une-equipe-exploite-des-failles-d-openai-avec-claude",
-      "url": "https://www.linfo.re/magazine/culture/intelligence-artificielle-une-equipe-exploite-des-failles-d-openai-avec-claude",
-      "publishedAt": "2026-09-21T15:26:40.000Z",
-      "date": "2026-09-21T15:26:40.000Z",
-      "description": "OpenAI a confirmé qu'un test mené fin juillet avait permis à des chercheurs d'accéder à des comptes ChatGPT internes avec Claude.",
-      "excerpt": "OpenAI a confirmé qu'un test mené fin juillet avait permis à des chercheurs d'accéder à des comptes ChatGPT internes avec Claude.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Durabilité et IA: préserver les capacités humaines face aux nouveaux défis - lematin.ch",
-      "link": "https://www.lematin.ch/story/opinion-ia-humain-et-durabilite-ou-se-situe-le-veritable-enjeu-103630405",
-      "url": "https://www.lematin.ch/story/opinion-ia-humain-et-durabilite-ou-se-situe-le-veritable-enjeu-103630405",
-      "publishedAt": "2026-09-21T15:22:48.000Z",
-      "date": "2026-09-21T15:22:48.000Z",
-      "description": "L'interface de ChatGPT sur l'écran, reflet des nouvelles dynamiques de travail et de productivité. dra/20min. Capacités humaines, esprit critique,...",
-      "excerpt": "L'interface de ChatGPT sur l'écran, reflet des nouvelles dynamiques de travail et de productivité. dra/20min. Capacités humaines, esprit critique,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI prépare-t-il ses propres robots? Ses recrutements donnent un indice très clair",
-      "link": "https://www.menow.fr/openai-prepare-t-il-ses-propres-robots-ses-recrutements-donnent-un-indice-tres-clair/",
-      "url": "https://www.menow.fr/openai-prepare-t-il-ses-propres-robots-ses-recrutements-donnent-un-indice-tres-clair/",
-      "publishedAt": "2026-09-21T13:34:37.000Z",
-      "date": "2026-09-21T13:34:37.000Z",
-      "description": "Et la liste donne une indication assez claire: OpenAI ne cherche pas simplement à connecter ChatGPT à un robot construit par quelqu'un d'autre.",
-      "excerpt": "Et la liste donne une indication assez claire: OpenAI ne cherche pas simplement à connecter ChatGPT à un robot construit par quelqu'un d'autre.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
