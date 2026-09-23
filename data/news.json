@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T02:28:22.915Z",
+  "generatedAt": "2026-09-23T10:28:44.850Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI lance GPT-6 Sol, quelques minutes après la sortie de Claude Opus 5.5 - Frandroid",
+      "link": "https://www.frandroid.com/marques/openai/3256771_openai-lance-gpt-6-sol-quelques-minutes-apres-la-sortie-de-claude-opus-5-5",
+      "url": "https://www.frandroid.com/marques/openai/3256771_openai-lance-gpt-6-sol-quelques-minutes-apres-la-sortie-de-claude-opus-5-5",
+      "publishedAt": "2026-09-23T07:08:06.000Z",
+      "date": "2026-09-23T07:08:06.000Z",
+      "description": "Anthropic Claude AI ChatGPT (OpenAI) Intelligence artificielle Société OpenAI GPT-6... Processeurs ( SoC ) · Qualcomm dévoile ses Snapdragon 8 Elite Gen...",
+      "excerpt": "Anthropic Claude AI ChatGPT (OpenAI) Intelligence artificielle Société OpenAI GPT-6... Processeurs ( SoC ) · Qualcomm dévoile ses Snapdragon 8 Elite Gen...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Quelle IA utilisent vos clients? La carte belge 2026 - Info-lux.com",
+      "link": "https://www.info-lux.com/quelle-ia-utilisent-vos-clients-belgique-points-entree/intelligence-artificielle/",
+      "url": "https://www.info-lux.com/quelle-ia-utilisent-vos-clients-belgique-points-entree/intelligence-artificielle/",
+      "publishedAt": "2026-09-23T07:05:41.000Z",
+      "date": "2026-09-23T07:05:41.000Z",
+      "description": "ChatGPT, Gemini, Copilot, Perplexity, Siri, Ask Maps: où un client... Google — Notes de version de Gemini Apps (10 septembre 2026, application Windows).",
+      "excerpt": "ChatGPT, Gemini, Copilot, Perplexity, Siri, Ask Maps: où un client... Google — Notes de version de Gemini Apps (10 septembre 2026, application Windows).",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT vs Claude: OpenAI et Anthropic dégainent des IA moins chers et plus efficaces...",
+      "link": "https://www.01net.com/actualites/chatgpt-vs-claude-openai-et-anthropic-degainent-ia-moins-chers-lieu-ralentir.html",
+      "url": "https://www.01net.com/actualites/chatgpt-vs-claude-openai-et-anthropic-degainent-ia-moins-chers-lieu-ralentir.html",
+      "publishedAt": "2026-09-23T06:18:11.000Z",
+      "date": "2026-09-23T06:18:11.000Z",
+      "description": "ChatGPT... La start-up reconnaît qu'Opus 5.5 atteint, en biologie et en cybersécurité, le niveau de Claude Mythos 5.1, son modèle le plus avancé.",
+      "excerpt": "ChatGPT... La start-up reconnaît qu'Opus 5.5 atteint, en biologie et en cybersécurité, le niveau de Claude Mythos 5.1, son modèle le plus avancé.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La guerre des IA: ChatGPT -6 Sol/Luna et Claude Opus 5.5 dévoilés à quelques minutes d'intervalle",
+      "link": "https://leclaireur.fnac.com/article/693361-la-guerre-des-ia-chatgpt-6-sol-luna-et-claude-opus-5-5-devoiles-a-quelques-minutes-dintervalle/",
+      "url": "https://leclaireur.fnac.com/article/693361-la-guerre-des-ia-chatgpt-6-sol-luna-et-claude-opus-5-5-devoiles-a-quelques-minutes-dintervalle/",
+      "publishedAt": "2026-09-23T06:05:57.000Z",
+      "date": "2026-09-23T06:05:57.000Z",
+      "description": "Signalons au passage une particularité, Opus 5.5 peut rebasculer vers un modèle plus ancien pour certaines tâches de cybersécurité ou scientifiques.",
+      "excerpt": "Signalons au passage une particularité, Opus 5.5 peut rebasculer vers un modèle plus ancien pour certaines tâches de cybersécurité ou scientifiques.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI réduit de moitié les tarifs de GPT-6 Sol et Luna - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-reduit-de-moitie-les-tarifs-de-gpt-6-sol-et-luna",
+      "url": "https://www.briefia.fr/article/openai-reduit-de-moitie-les-tarifs-de-gpt-6-sol-et-luna",
+      "publishedAt": "2026-09-23T04:37:26.000Z",
+      "date": "2026-09-23T04:37:26.000Z",
+      "description": "De plus, une remise de 90 % sur les jetons d'entrée mis en cache a été annoncée, avec un déploiement dans ChatGPT Work, Codex et l'API.",
+      "excerpt": "De plus, une remise de 90 % sur les jetons d'entrée mis en cache a été annoncée, avec un déploiement dans ChatGPT Work, Codex et l'API.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Contrôle parental de ChatGPT: les 3 cas où OpenAI peut vous alerter sans montrer la conversation",
+      "link": "https://selectra.info/telecom/actualites/marche/controle-parental-chatgpt-alertes-parents",
+      "url": "https://selectra.info/telecom/actualites/marche/controle-parental-chatgpt-alertes-parents",
+      "publishedAt": "2026-09-23T04:08:53.000Z",
+      "date": "2026-09-23T04:08:53.000Z",
+      "description": "Le contrôle parental de ChatGPT ne montre aucune conversation, mais peut alerter les parents dans 3 cas... OpenAI l'a annoncé dans ses notes de version...",
+      "excerpt": "Le contrôle parental de ChatGPT ne montre aucune conversation, mais peut alerter les parents dans 3 cas... OpenAI l'a annoncé dans ses notes de version...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "OpenAI dévoile GPT-6 Sol et Luna - iPhoneSoft",
       "link": "https://iphonesoft.fr/2026/09/23/openai-gpt-6-sol-luna",
@@ -45,9 +105,9 @@
       "url": "https://openai.com/fr-FR/index/research-acceleration-view-inside-openai/",
       "publishedAt": "2026-09-22T23:37:07.000Z",
       "date": "2026-09-22T23:37:07.000Z",
-      "description": "Essayer ChatGPT (ouverture dans une nouvelle fenêtre)... Le 7 août, des éléments préliminaires indiquant qu'Astra pourrait disposer de capacités...",
-      "excerpt": "Essayer ChatGPT (ouverture dans une nouvelle fenêtre)... Le 7 août, des éléments préliminaires indiquant qu'Astra pourrait disposer de capacités...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "description": "ChatGPT Enterprise (ouverture dans une nouvelle fenêtre) · ChatGPT for Education (ouverture dans une nouvelle fenêtre) · Codex · Notes de version.",
+      "excerpt": "ChatGPT Enterprise (ouverture dans une nouvelle fenêtre) · ChatGPT for Education (ouverture dans une nouvelle fenêtre) · Codex · Notes de version.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "GPT-6: OpenAI complète sa nouvelle gamme avec deux modèles moitié moins chers",
@@ -68,66 +128,6 @@
       "description": "... ChatGPT... Cybersécurité Un hacker sinophone a utilisé des agents d'IA pour infiltrer 100 entreprises et voler...",
       "excerpt": "... ChatGPT... Cybersécurité Un hacker sinophone a utilisé des agents d'IA pour infiltrer 100 entreprises et voler...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des chercheurs ont utilisé Claude pour pirater OpenAI - Malwarebytes",
-      "link": "https://www.malwarebytes.com/fr/blog/news/2026/09/researchers-used-claude-to-hack-openai",
-      "url": "https://www.malwarebytes.com/fr/blog/news/2026/09/researchers-used-claude-to-hack-openai",
-      "publishedAt": "2026-09-22T21:21:07.000Z",
-      "date": "2026-09-22T21:21:07.000Z",
-      "description": "Désormais, une société de cybersécurité a retourné la situation contre l'opérateur de ChatGPT en utilisant l'IA pour pirater OpenAI elle-même. Ce...",
-      "excerpt": "Désormais, une société de cybersécurité a retourné la situation contre l'opérateur de ChatGPT en utilisant l'IA pour pirater OpenAI elle-même. Ce...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude Opus 5.5 et GPT-6 Sol sortent le même jour: Anthropic et OpenAI ont du mal à « ralentir » l'IA",
-      "link": "https://www.numerama.com/tech/2338131-claude-opus-5-5-et-gpt-6-sol-sortent-le-meme-jour-anthropic-et-openai-ont-du-mal-a-ralentir-lia.html",
-      "url": "https://www.numerama.com/tech/2338131-claude-opus-5-5-et-gpt-6-sol-sortent-le-meme-jour-anthropic-et-openai-ont-du-mal-a-ralentir-lia.html",
-      "publishedAt": "2026-09-22T20:57:05.000Z",
-      "date": "2026-09-22T20:57:05.000Z",
-      "description": "Il n'est plus possible non plus de désactiver le mode réflexion. Enfin, Opus 5.5 hérite des garde-fous de Fable 5.1: les demandes de cybersécurité...",
-      "excerpt": "Il n'est plus possible non plus de désactiver le mode réflexion. Enfin, Opus 5.5 hérite des garde-fous de Fable 5.1: les demandes de cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA pour cabinets d'avocats: recherche juridique et flux de travail | OpenAI",
-      "link": "https://openai.com/fr-CA/solutions/industries/law/",
-      "url": "https://openai.com/fr-CA/solutions/industries/law/",
-      "publishedAt": "2026-09-22T20:09:40.000Z",
-      "date": "2026-09-22T20:09:40.000Z",
-      "description": "Offert initialement à certains cabinets d'avocats par l'entremise de Trusted Access dans ChatGPT et Codex.... Codex · Notes de version. Plateforme...",
-      "excerpt": "Offert initialement à certains cabinets d'avocats par l'entremise de Trusted Access dans ChatGPT et Codex.... Codex · Notes de version. Plateforme...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI gagne du terrain avec GPT-6 Astra... Anthropic prépare sa riposte - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/openai-gagne-du-terrain-avec-gpt-6-astra-anthropic-prepare-sa-riposte-un-nouveau-claude-se-profile-504238.htm",
-      "url": "https://www.zdnet.fr/actualites/openai-gagne-du-terrain-avec-gpt-6-astra-anthropic-prepare-sa-riposte-un-nouveau-claude-se-profile-504238.htm",
-      "publishedAt": "2026-09-22T19:01:34.000Z",
-      "date": "2026-09-22T19:01:34.000Z",
-      "description": "Grâce au nouvel outil « Sketch » de ChatGPT, vous pouvez dessiner directement dans la fenêtre de discussion, puis voir votre croquis se transformer en...",
-      "excerpt": "Grâce au nouvel outil « Sketch » de ChatGPT, vous pouvez dessiner directement dans la fenêtre de discussion, puis voir votre croquis se transformer en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT débarque gratuitement dans Word: voici comment l'installer et ce qu'il peut faire",
-      "link": "https://selectra.info/telecom/actualites/marche/chatgpt-word-complement-gratuit-documents",
-      "url": "https://selectra.info/telecom/actualites/marche/chatgpt-word-complement-gratuit-documents",
-      "publishedAt": "2026-09-22T18:48:56.000Z",
-      "date": "2026-09-22T18:48:56.000Z",
-      "description": "Un assistant dans la marge de vos documents. OpenAI l'a annoncé dans ses notes de version du 17 septembre 2026: ChatGPT est désormais disponible dans...",
-      "excerpt": "Un assistant dans la marge de vos documents. OpenAI l'a annoncé dans ses notes de version du 17 septembre 2026: ChatGPT est désormais disponible dans...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Equativ apporte les ChatGPT Ads aux marques en tant que partenaire publicitaire - Begeek",
-      "link": "https://www.begeek.fr/pr/equativ-apporte-les-chatgpt-ads-aux-marques-en-tant-que-partenaire-publicitaire",
-      "url": "https://www.begeek.fr/pr/equativ-apporte-les-chatgpt-ads-aux-marques-en-tant-que-partenaire-publicitaire",
-      "publishedAt": "2026-09-22T18:14:48.000Z",
-      "date": "2026-09-22T18:14:48.000Z",
-      "description": "Equativ devient partenaire technologique des ChatGPT Ads, apportant une expertise full-funnel contextuelle et native aux marques du monde entier...",
-      "excerpt": "Equativ devient partenaire technologique des ChatGPT Ads, apportant une expertise full-funnel contextuelle et native aux marques du monde entier...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
