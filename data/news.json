@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T16:09:09.587Z",
+  "generatedAt": "2026-09-24T20:56:35.770Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,26 @@
   "failedSources": [],
   "items": [
     {
+      "title": "[Maroc] Intelligence artificielle générative et criminalité: quelle responsabilité lorsque l'IA...",
+      "link": "https://www.village-justice.com/articles/intelligence-artificielle-generative-criminalite-quelle-responsabilite-lorsque,59193.html",
+      "url": "https://www.village-justice.com/articles/intelligence-artificielle-generative-criminalite-quelle-responsabilite-lorsque,59193.html",
+      "publishedAt": "2026-09-24T17:39:42.000Z",
+      "date": "2026-09-24T17:39:42.000Z",
+      "description": "... CyberSécurité · • Management et méthodes de travail · • Se Former, notre... ChatGPT dans le contexte d'une enquête pour double meurtre. Les...",
+      "excerpt": "... CyberSécurité · • Management et méthodes de travail · • Se Former, notre... ChatGPT dans le contexte d'une enquête pour double meurtre. Les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Free intègre désormais GPT-6 Luna, mais uniquement dans l'application de bureau",
+      "link": "https://www.notebookcheck.biz/ChatGPT-Free-integre-desormais-GPT-6-Luna-mais-uniquement-dans-l-x27-application-de-bureau.1407459.0.html",
+      "url": "https://www.notebookcheck.biz/ChatGPT-Free-integre-desormais-GPT-6-Luna-mais-uniquement-dans-l-x27-application-de-bureau.1407459.0.html",
+      "publishedAt": "2026-09-24T17:22:03.000Z",
+      "date": "2026-09-24T17:22:03.000Z",
+      "description": "GPT-6 Luna est le premier modèle GPT-6 que les utilisateurs de ChatGPT Free et Go peuvent utiliser sans frais supplémentaires.",
+      "excerpt": "GPT-6 Luna est le premier modèle GPT-6 que les utilisateurs de ChatGPT Free et Go peuvent utiliser sans frais supplémentaires.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "une IA d'OpenAI a piraté un portail de santé du gouvernement australien, une première mondiale",
       "link": "https://www.lesnumeriques.com/intelligence-artificielle/profondement-alarmant-une-ia-d-openai-a-pirate-un-portail-de-sante-du-gouvernement-australien-une-premiere-mondiale-n262253.html",
       "url": "https://www.lesnumeriques.com/intelligence-artificielle/profondement-alarmant-une-ia-d-openai-a-pirate-un-portail-de-sante-du-gouvernement-australien-une-premiere-mondiale-n262253.html",
@@ -18,6 +38,16 @@
       "description": "Un agent d'IA d'OpenAI ( ChatGPT ) devait trouver des statistiques de santé sur le web.... L'Australian Signals Directorate, l'agence de cybersécurité...",
       "excerpt": "Un agent d'IA d'OpenAI ( ChatGPT ) devait trouver des statistiques de santé sur le web.... L'Australian Signals Directorate, l'agence de cybersécurité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Recursive self improvement incoming: r/ ChatGPT - Reddit",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1wohjws/recursive_self_improvement_incoming/",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1wohjws/recursive_self_improvement_incoming/",
+      "publishedAt": "2026-09-24T12:13:08.000Z",
+      "date": "2026-09-24T12:13:08.000Z",
+      "description": "Imagine if ChatGPT had skipped every intermediate release between ChatGPT 4, 4.5, 5, 5.5 and Astra... gpt 4, I feel like gpt 5.6 sol to gpt 6...",
+      "excerpt": "Imagine if ChatGPT had skipped every intermediate release between ChatGPT 4, 4.5, 5, 5.5 and Astra... gpt 4, I feel like gpt 5.6 sol to gpt 6...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "ChatGPT: un agent IA a cette fois piraté un site gouvernemental - L'Eclaireur Fnac",
@@ -98,36 +128,6 @@
       "description": "La combinaison de scénarios vise à tester les réponses des modèles et ne représente pas la fréquence de ces sujets dans ChatGPT.... Cybersécurité 26...",
       "excerpt": "La combinaison de scénarios vise à tester les réponses des modèles et ne représente pas la fréquence de ces sujets dans ChatGPT.... Cybersécurité 26...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT transforme un téléphone en assistant de travail - Journal Lao Động",
-      "link": "https://fr.laodong.vn/cong-nghe/chatgpt-bien-dien-thoai-thanh-tro-ly-cong-viec-1771782.ldo",
-      "url": "https://fr.laodong.vn/cong-nghe/chatgpt-bien-dien-thoai-thanh-tro-ly-cong-viec-1771782.ldo",
-      "publishedAt": "2026-09-24T01:14:02.000Z",
-      "date": "2026-09-24T01:14:02.000Z",
-      "description": "... ChatGPT et Gemini sont en augmentation, posant de nombreux risques de cybersécurité préoccupants. ChatGPT et Roblox font face à des...",
-      "excerpt": "... ChatGPT et Gemini sont en augmentation, posant de nombreux risques de cybersécurité préoccupants. ChatGPT et Roblox font face à des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI étend l'accès cyber à l'Ukraine pour la défense civile",
-      "link": "https://openai.com/fr-FR/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/",
-      "url": "https://openai.com/fr-FR/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/",
-      "publishedAt": "2026-09-24T00:58:25.000Z",
-      "date": "2026-09-24T00:58:25.000Z",
-      "description": "Fondation (ouverture dans une nouvelle fenêtre) · Essayer ChatGPT (ouverture dans une nouvelle fenêtre)... Notes de version. Plateforme API.",
-      "excerpt": "Fondation (ouverture dans une nouvelle fenêtre) · Essayer ChatGPT (ouverture dans une nouvelle fenêtre)... Notes de version. Plateforme API.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Grab et OpenAI apportent des compétences pratiques en IA en Asie du Sud-Est",
-      "link": "https://openai.com/fr-FR/index/grab-openai-ai-skills-southeast-asia/",
-      "url": "https://openai.com/fr-FR/index/grab-openai-ai-skills-southeast-asia/",
-      "publishedAt": "2026-09-23T23:43:18.000Z",
-      "date": "2026-09-23T23:43:18.000Z",
-      "description": "Un chauffeur ou un livreur partenaire pourrait utiliser ChatGPT pour explorer une idée d'entreprise, réfléchir à ce qui la distinguerait et élaborer...",
-      "excerpt": "Un chauffeur ou un livreur partenaire pourrait utiliser ChatGPT pour explorer une idée d'entreprise, réfléchir à ce qui la distinguerait et élaborer...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
