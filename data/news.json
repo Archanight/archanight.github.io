@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T20:51:44.214Z",
+  "generatedAt": "2026-09-24T02:17:08.927Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT transforme un téléphone en assistant de travail - Journal Lao Động",
+      "link": "https://fr.laodong.vn/cong-nghe/chatgpt-bien-dien-thoai-thanh-tro-ly-cong-viec-1771782.ldo",
+      "url": "https://fr.laodong.vn/cong-nghe/chatgpt-bien-dien-thoai-thanh-tro-ly-cong-viec-1771782.ldo",
+      "publishedAt": "2026-09-24T01:14:02.000Z",
+      "date": "2026-09-24T01:14:02.000Z",
+      "description": "... ChatGPT et Gemini sont en augmentation, posant de nombreux risques de cybersécurité préoccupants. ChatGPT et Roblox font face à des...",
+      "excerpt": "... ChatGPT et Gemini sont en augmentation, posant de nombreux risques de cybersécurité préoccupants. ChatGPT et Roblox font face à des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI étend l'accès cyber à l'Ukraine pour la défense civile",
+      "link": "https://openai.com/fr-FR/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/",
+      "url": "https://openai.com/fr-FR/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/",
+      "publishedAt": "2026-09-23T23:18:34.000Z",
+      "date": "2026-09-23T23:18:34.000Z",
+      "description": "OpenAI a déjà donné accès à ses modèles de cybersécurité à des défenseurs en Europe, notamment en France, en Allemagne et en Pologne, ainsi que dans d...",
+      "excerpt": "OpenAI a déjà donné accès à ses modèles de cybersécurité à des défenseurs en Europe, notamment en France, en Allemagne et en Pologne, ainsi que dans d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Des experts utilisant Claude d'Anthropic ont réussi à pirater OpenAI. - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/chuyen-gia-dung-claude-cua-anthropic-xam-nhap-thanh-cong-openai",
+      "url": "https://www.vietnam.vn/fr/chuyen-gia-dung-claude-cua-anthropic-xam-nhap-thanh-cong-openai",
+      "publishedAt": "2026-09-23T23:11:38.000Z",
+      "date": "2026-09-23T23:11:38.000Z",
+      "description": "Des experts en cybersécurité ont utilisé le modèle avancé Claude Opus 5 pour attaquer le dépôt de code source d'OpenAI.",
+      "excerpt": "Des experts en cybersécurité ont utilisé le modèle avancé Claude Opus 5 pour attaquer le dépôt de code source d'OpenAI.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Muse sur Mac: Meta corrige une zero-day locale - Brief IA",
+      "link": "https://www.briefia.fr/article/muse-sur-mac-meta-corrige-une-zero-day-locale",
+      "url": "https://www.briefia.fr/article/muse-sur-mac-meta-corrige-une-zero-day-locale",
+      "publishedAt": "2026-09-23T22:42:33.000Z",
+      "date": "2026-09-23T22:42:33.000Z",
+      "description": "Malgré cela, Muse aurait enregistré plus de téléchargements que ChatGPT aux États-Unis et au Canada lors de ses 12 premiers jours.... cybersécurité en...",
+      "excerpt": "Malgré cela, Muse aurait enregistré plus de téléchargements que ChatGPT aux États-Unis et au Canada lors de ses 12 premiers jours.... cybersécurité en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "«Plus rapides et plus abordables»: Anthropic et OpenAI innovent malgré les débats sur le...",
+      "link": "https://www.capital.fr/entreprises-marches/plus-rapides-et-plus-abordables-anthropic-et-openai-innovent-malgre-les-debats-sur-le-ralentissement-de-l-ia-1530390",
+      "url": "https://www.capital.fr/entreprises-marches/plus-rapides-et-plus-abordables-anthropic-et-openai-innovent-malgre-les-debats-sur-le-ralentissement-de-l-ia-1530390",
+      "publishedAt": "2026-09-23T21:00:48.000Z",
+      "date": "2026-09-23T21:00:48.000Z",
+      "description": "Ils sont réservés dans un premier temps aux professionnels et aux développeurs, hors de la version grand public de ChatGPT.... cybersécurité, la...",
+      "excerpt": "Ils sont réservés dans un premier temps aux professionnels et aux développeurs, hors de la version grand public de ChatGPT.... cybersécurité, la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI lance MentalHealthBench pour les conversations d'IA en santé mentale - Unite.AI",
       "link": "https://www.unite.ai/fr/openai-debuts-mentalhealthbench-for-ai-mental-health-conversations/",
@@ -78,56 +128,6 @@
       "description": "... ChatGPT, le 21 mars 2023, à Boston. (Photo AP/Michael Dwyer, archives)... cybersécurité pour «détecter des vulnérabilités» et les corriger, a...",
       "excerpt": "... ChatGPT, le 21 mars 2023, à Boston. (Photo AP/Michael Dwyer, archives)... cybersécurité pour «détecter des vulnérabilités» et les corriger, a...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Grid My Business Launches AI Search to Map Local Visibility Across AI Platforms",
-      "link": "https://www.newsfilecorp.com/release/315664/Grid-My-Business-Launches-AI-Search-to-Map-Local-Visibility-Across-AI-Platforms?lang=fr",
-      "url": "https://www.newsfilecorp.com/release/315664/Grid-My-Business-Launches-AI-Search-to-Map-Local-Visibility-Across-AI-Platforms?lang=fr",
-      "publishedAt": "2026-09-23T16:03:04.000Z",
-      "date": "2026-09-23T16:03:04.000Z",
-      "description": "Businesses and agencies can measure where ChatGPT, Gemini, Google AI Mode, and Google AI Overviews mention them, cite their websites, or name...",
-      "excerpt": "Businesses and agencies can measure where ChatGPT, Gemini, Google AI Mode, and Google AI Overviews mention them, cite their websites, or name...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI lance GPT-6 Sol et Luna, avec des tarifs API divisés par deux - BDM",
-      "link": "https://www.blogdumoderateur.com/openai-lance-gpt-6-sol-luna-tarifs-api-divises-deux/",
-      "url": "https://www.blogdumoderateur.com/openai-lance-gpt-6-sol-luna-tarifs-api-divises-deux/",
-      "publishedAt": "2026-09-23T15:50:01.000Z",
-      "date": "2026-09-23T15:50:01.000Z",
-      "description": "GPT-6 Sol et Luna sont disponibles dans ChatGPT Work et Codex pour les abonnés Plus, Pro, Business, Enterprise et Edu. Les comptes gratuits et Go ont...",
-      "excerpt": "GPT-6 Sol et Luna sont disponibles dans ChatGPT Work et Codex pour les abonnés Plus, Pro, Business, Enterprise et Edu. Les comptes gratuits et Go ont...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "“Un seul appel aurait suffi”: une province canadienne attaque OpenAI après une tuerie...",
-      "link": "https://www.clubic.com/actualite-630910-un-seul-appel-aurait-suffi-une-province-canadienne-attaque-openai-apres-une-tuerie-dans-un-lycee.html",
-      "url": "https://www.clubic.com/actualite-630910-un-seul-appel-aurait-suffi-une-province-canadienne-attaque-openai-apres-une-tuerie-dans-un-lycee.html",
-      "publishedAt": "2026-09-23T15:23:39.000Z",
-      "date": "2026-09-23T15:23:39.000Z",
-      "description": "... ChatGPT. L'entreprise n'a jamais prévenu la police, et elle doit... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
-      "excerpt": "... ChatGPT. L'entreprise n'a jamais prévenu la police, et elle doit... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-6 Astra dévoile le message secret allemand de 1918 - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/17715/gpt-6-astra-message-allemand-1918",
-      "url": "https://pasqualepillitteri.it/fr/news/17715/gpt-6-astra-message-allemand-1918",
-      "publishedAt": "2026-09-23T14:59:14.000Z",
-      "date": "2026-09-23T14:59:14.000Z",
-      "description": "C'est le modèle phare lancé par OpenAI début septembre 2026. Il remplace la génération précédente GPT-5 sur ChatGPT Plus, Pro, Business, Enterprise et...",
-      "excerpt": "C'est le modèle phare lancé par OpenAI début septembre 2026. Il remplace la génération précédente GPT-5 sur ChatGPT Plus, Pro, Business, Enterprise et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT sert à bien plus qu'écrire et faire des recherches — voici 7 usages inattendus à essayer",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/chatgpt-sert-a-bien-plus-quecrire-et-faire-des-recherches-voici-7-usages-inattendus-a-essayer",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/chatgpt-sert-a-bien-plus-quecrire-et-faire-des-recherches-voici-7-usages-inattendus-a-essayer",
-      "publishedAt": "2026-09-23T14:20:44.000Z",
-      "date": "2026-09-23T14:20:44.000Z",
-      "description": "Three way split images of possible ChatGPT uses. (Crédit photo: Becca Caddy / Graham Barlow). Partager.",
-      "excerpt": "Three way split images of possible ChatGPT uses. (Crédit photo: Becca Caddy / Graham Barlow). Partager.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
