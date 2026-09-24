@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T10:45:32.458Z",
+  "generatedAt": "2026-09-24T16:09:09.587Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "une IA d'OpenAI a piraté un portail de santé du gouvernement australien, une première mondiale",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/profondement-alarmant-une-ia-d-openai-a-pirate-un-portail-de-sante-du-gouvernement-australien-une-premiere-mondiale-n262253.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/profondement-alarmant-une-ia-d-openai-a-pirate-un-portail-de-sante-du-gouvernement-australien-une-premiere-mondiale-n262253.html",
+      "publishedAt": "2026-09-24T12:32:24.000Z",
+      "date": "2026-09-24T12:32:24.000Z",
+      "description": "Un agent d'IA d'OpenAI ( ChatGPT ) devait trouver des statistiques de santé sur le web.... L'Australian Signals Directorate, l'agence de cybersécurité...",
+      "excerpt": "Un agent d'IA d'OpenAI ( ChatGPT ) devait trouver des statistiques de santé sur le web.... L'Australian Signals Directorate, l'agence de cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT: un agent IA a cette fois piraté un site gouvernemental - L'Eclaireur Fnac",
+      "link": "https://leclaireur.fnac.com/article/693694-chatgpt-un-agent-ia-a-cette-fois-pirate-un-site-gouvernemental/",
+      "url": "https://leclaireur.fnac.com/article/693694-chatgpt-un-agent-ia-a-cette-fois-pirate-un-site-gouvernemental/",
+      "publishedAt": "2026-09-24T10:42:17.000Z",
+      "date": "2026-09-24T10:42:17.000Z",
+      "description": "Le message n'a donc été lu que le lendemain, et Services Australia n'a signalé l'affaire au Centre australien de cybersécurité que le 15 septembre.",
+      "excerpt": "Le message n'a donc été lu que le lendemain, et Services Australia n'a signalé l'affaire au Centre australien de cybersécurité que le 15 septembre.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT a piraté une nouvelle plateforme sans qu'on lui demande et cette fois c'est encore...",
+      "link": "https://www.phonandroid.com/chatgpt-a-pirate-une-nouvelle-plateforme-sans-quon-lui-demande-et-cette-fois-cest-encore-plus-grave.html",
+      "url": "https://www.phonandroid.com/chatgpt-a-pirate-une-nouvelle-plateforme-sans-quon-lui-demande-et-cette-fois-cest-encore-plus-grave.html",
+      "publishedAt": "2026-09-24T09:38:23.000Z",
+      "date": "2026-09-24T09:38:23.000Z",
+      "description": "Après le piratage de la plateforme de Hugging Face en juillet dernier, voilà que ChatGPT remet le couvert... Cybersécurité · eSIM avec · Streaming · IA...",
+      "excerpt": "Après le piratage de la plateforme de Hugging Face en juillet dernier, voilà que ChatGPT remet le couvert... Cybersécurité · eSIM avec · Streaming · IA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT dans Siri/Apple Intelligence a sous-performé, dit OpenAI - iPhoneAddict.fr",
+      "link": "https://iphoneaddict.fr/post/news-436182-chatgpt-siri-apple-intelligence-performe-dit-openai",
+      "url": "https://iphoneaddict.fr/post/news-436182-chatgpt-siri-apple-intelligence-performe-dit-openai",
+      "publishedAt": "2026-09-24T08:35:02.000Z",
+      "date": "2026-09-24T08:35:02.000Z",
+      "description": "iOS 18 Siri ChatGPT Craig Federighi · iPhone 8 août 2025 à 08:48. ChatGPT GPT-5 arrivera avec iOS 26 dans Siri et Apple Intelligence. 0 commentaires...",
+      "excerpt": "iOS 18 Siri ChatGPT Craig Federighi · iPhone 8 août 2025 à 08:48. ChatGPT GPT-5 arrivera avec iOS 26 dans Siri et Apple Intelligence. 0 commentaires...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Accélérer la découverte d'antibiotiques avec ChatGPT - OpenAI",
+      "link": "https://openai.com/fr-FR/index/accelerating-antibiotic-discovery/",
+      "url": "https://openai.com/fr-FR/index/accelerating-antibiotic-discovery/",
+      "publishedAt": "2026-09-24T07:35:10.000Z",
+      "date": "2026-09-24T07:35:10.000Z",
+      "description": "ChatGPT est devenu un élément essentiel du flux de travail du... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "excerpt": "ChatGPT est devenu un élément essentiel du flux de travail du... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Deux ans d'OpenAI Academy",
+      "link": "https://openai.com/fr-FR/index/two-years-of-openai-academy/",
+      "url": "https://openai.com/fr-FR/index/two-years-of-openai-academy/",
+      "publishedAt": "2026-09-24T07:13:38.000Z",
+      "date": "2026-09-24T07:13:38.000Z",
+      "description": "Un enseignant peut utiliser ChatGPT pour adapter un cours. Le... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "excerpt": "Un enseignant peut utiliser ChatGPT pour adapter un cours. Le... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "ChatGPT a lancé une nouvelle cyberattaque: le site d'un gouvernement a été piraté",
       "link": "https://www.01net.com/actualites/chatgpt-lance-nouvelle-cyberattaque-site-gouvernement-pirate.html",
@@ -53,80 +113,20 @@
       "title": "OpenAI étend l'accès cyber à l'Ukraine pour la défense civile",
       "link": "https://openai.com/fr-FR/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/",
       "url": "https://openai.com/fr-FR/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/",
-      "publishedAt": "2026-09-23T23:18:34.000Z",
-      "date": "2026-09-23T23:18:34.000Z",
-      "description": "OpenAI a déjà donné accès à ses modèles de cybersécurité à des défenseurs en Europe, notamment en France, en Allemagne et en Pologne, ainsi que dans d...",
-      "excerpt": "OpenAI a déjà donné accès à ses modèles de cybersécurité à des défenseurs en Europe, notamment en France, en Allemagne et en Pologne, ainsi que dans d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "publishedAt": "2026-09-24T00:58:25.000Z",
+      "date": "2026-09-24T00:58:25.000Z",
+      "description": "Fondation (ouverture dans une nouvelle fenêtre) · Essayer ChatGPT (ouverture dans une nouvelle fenêtre)... Notes de version. Plateforme API.",
+      "excerpt": "Fondation (ouverture dans une nouvelle fenêtre) · Essayer ChatGPT (ouverture dans une nouvelle fenêtre)... Notes de version. Plateforme API.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "Des experts utilisant Claude d'Anthropic ont réussi à pirater OpenAI. - Vietnam.vn",
-      "link": "https://www.vietnam.vn/fr/chuyen-gia-dung-claude-cua-anthropic-xam-nhap-thanh-cong-openai",
-      "url": "https://www.vietnam.vn/fr/chuyen-gia-dung-claude-cua-anthropic-xam-nhap-thanh-cong-openai",
-      "publishedAt": "2026-09-23T23:11:38.000Z",
-      "date": "2026-09-23T23:11:38.000Z",
-      "description": "Des experts en cybersécurité ont utilisé le modèle avancé Claude Opus 5 pour attaquer le dépôt de code source d'OpenAI.",
-      "excerpt": "Des experts en cybersécurité ont utilisé le modèle avancé Claude Opus 5 pour attaquer le dépôt de code source d'OpenAI.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Muse sur Mac: Meta corrige une zero-day locale - Brief IA",
-      "link": "https://www.briefia.fr/article/muse-sur-mac-meta-corrige-une-zero-day-locale",
-      "url": "https://www.briefia.fr/article/muse-sur-mac-meta-corrige-une-zero-day-locale",
-      "publishedAt": "2026-09-23T22:42:33.000Z",
-      "date": "2026-09-23T22:42:33.000Z",
-      "description": "Malgré cela, Muse aurait enregistré plus de téléchargements que ChatGPT aux États-Unis et au Canada lors de ses 12 premiers jours.... cybersécurité en...",
-      "excerpt": "Malgré cela, Muse aurait enregistré plus de téléchargements que ChatGPT aux États-Unis et au Canada lors de ses 12 premiers jours.... cybersécurité en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "«Plus rapides et plus abordables»: Anthropic et OpenAI innovent malgré les débats sur le...",
-      "link": "https://www.capital.fr/entreprises-marches/plus-rapides-et-plus-abordables-anthropic-et-openai-innovent-malgre-les-debats-sur-le-ralentissement-de-l-ia-1530390",
-      "url": "https://www.capital.fr/entreprises-marches/plus-rapides-et-plus-abordables-anthropic-et-openai-innovent-malgre-les-debats-sur-le-ralentissement-de-l-ia-1530390",
-      "publishedAt": "2026-09-23T21:00:48.000Z",
-      "date": "2026-09-23T21:00:48.000Z",
-      "description": "Ils sont réservés dans un premier temps aux professionnels et aux développeurs, hors de la version grand public de ChatGPT.... cybersécurité, la...",
-      "excerpt": "Ils sont réservés dans un premier temps aux professionnels et aux développeurs, hors de la version grand public de ChatGPT.... cybersécurité, la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance MentalHealthBench pour les conversations d'IA en santé mentale - Unite.AI",
-      "link": "https://www.unite.ai/fr/openai-debuts-mentalhealthbench-for-ai-mental-health-conversations/",
-      "url": "https://www.unite.ai/fr/openai-debuts-mentalhealthbench-for-ai-mental-health-conversations/",
-      "publishedAt": "2026-09-23T20:28:45.000Z",
-      "date": "2026-09-23T20:28:45.000Z",
-      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO · Actualités... ChatGPT, Trusted Contact et ChatGPT for Teens. mm. Jonas Reeve...",
-      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO · Actualités... ChatGPT, Trusted Contact et ChatGPT for Teens. mm. Jonas Reeve...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Voice se rapproche de \"Her\" avec l'accès à l'email, au calendrier et à Slack",
-      "link": "https://www.lefilia.fr/article/6216384-chatgpt-voice-se-rapproche-de-her-avec-l-acces-a-l-email-au-calendrier-et-a-slack",
-      "url": "https://www.lefilia.fr/article/6216384-chatgpt-voice-se-rapproche-de-her-avec-l-acces-a-l-email-au-calendrier-et-a-slack",
-      "publishedAt": "2026-09-23T20:03:06.000Z",
-      "date": "2026-09-23T20:03:06.000Z",
-      "description": "ChatGPT Voice se rapproche de \"Her\" avec l'accès à l'email, au... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "excerpt": "ChatGPT Voice se rapproche de \"Her\" avec l'accès à l'email, au... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Muse, le nouvel « agent IA personnel » de Meta, dépasse ChatGPT en nombre de...",
-      "link": "https://intelligence-artificielle.developpez.com/actu/387499/Muse-le-nouvel-agent-IA-personnel-de-Meta-depasse-ChatGPT-en-nombre-de-telechargements-mais-se-fait-bloquer-par-Amazon-a-cause-des-risques-lies-a-la-vie-privee-et-a-la-securite/",
-      "url": "https://intelligence-artificielle.developpez.com/actu/387499/Muse-le-nouvel-agent-IA-personnel-de-Meta-depasse-ChatGPT-en-nombre-de-telechargements-mais-se-fait-bloquer-par-Amazon-a-cause-des-risques-lies-a-la-vie-privee-et-a-la-securite/",
-      "publishedAt": "2026-09-23T19:26:19.000Z",
-      "date": "2026-09-23T19:26:19.000Z",
-      "description": "L'outil d'agent IA personnel « Muse » de Meta a dépassé ChatGPT... cybersécurité, qui ont secoué le secteur technologique ces dernières semaines.",
-      "excerpt": "L'outil d'agent IA personnel « Muse » de Meta a dépassé ChatGPT... cybersécurité, qui ont secoué le secteur technologique ces dernières semaines.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI ajoute des plugins à la voix en direct et la voix à Work dans ChatGPT - Unite.AI",
-      "link": "https://www.unite.ai/fr/openai-brings-plugins-to-live-voice-and-voice-to-work-in-chatgpt/",
-      "url": "https://www.unite.ai/fr/openai-brings-plugins-to-live-voice-and-voice-to-work-in-chatgpt/",
-      "publishedAt": "2026-09-23T18:31:31.000Z",
-      "date": "2026-09-23T18:31:31.000Z",
-      "description": "... ChatGPT sur le web, iOS et Android et a intégré la voix à ChatGPT Work sur le web et mobile, selon les notes de version de ChatGPT. La mise à jour...",
-      "excerpt": "... ChatGPT sur le web, iOS et Android et a intégré la voix à ChatGPT Work sur le web et mobile, selon les notes de version de ChatGPT. La mise à jour...",
+      "title": "Grab et OpenAI apportent des compétences pratiques en IA en Asie du Sud-Est",
+      "link": "https://openai.com/fr-FR/index/grab-openai-ai-skills-southeast-asia/",
+      "url": "https://openai.com/fr-FR/index/grab-openai-ai-skills-southeast-asia/",
+      "publishedAt": "2026-09-23T23:43:18.000Z",
+      "date": "2026-09-23T23:43:18.000Z",
+      "description": "Un chauffeur ou un livreur partenaire pourrait utiliser ChatGPT pour explorer une idée d'entreprise, réfléchir à ce qui la distinguerait et élaborer...",
+      "excerpt": "Un chauffeur ou un livreur partenaire pourrait utiliser ChatGPT pour explorer une idée d'entreprise, réfléchir à ce qui la distinguerait et élaborer...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
