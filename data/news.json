@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:56:35.770Z",
+  "generatedAt": "2026-09-25T02:33:48.045Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Sakana AI recrute Jürgen Schmidhuber, inventeur… - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6222164-sakana-ai-recrute-jurgen-schmidhuber-inventeur-du-deep-learning-des-world-models-et-de-la-prochaine-mise-a-jour-de-chatgpt",
+      "url": "https://www.lefilia.fr/article/6222164-sakana-ai-recrute-jurgen-schmidhuber-inventeur-du-deep-learning-des-world-models-et-de-la-prochaine-mise-a-jour-de-chatgpt",
+      "publishedAt": "2026-09-24T20:29:34.000Z",
+      "date": "2026-09-24T20:29:34.000Z",
+      "description": "... ChatGPT, en permettant aux modèles d'apprendre et de se restructurer de... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
+      "excerpt": "... ChatGPT, en permettant aux modèles d'apprendre et de se restructurer de... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Airbnb élargit l'accès à GPT-6 Astra et aux modèles de pointe d'OpenAI",
+      "link": "https://openai.com/fr-FR/index/airbnb-gpt-6-astra/",
+      "url": "https://openai.com/fr-FR/index/airbnb-gpt-6-astra/",
+      "publishedAt": "2026-09-24T18:28:13.000Z",
+      "date": "2026-09-24T18:28:13.000Z",
+      "description": "Produits ChatGPT for Education (ouverture dans une nouvelle fenêtre) · Codex · Notes de version · Plateforme API. Présentation · Se connecter à l'API...",
+      "excerpt": "Produits ChatGPT for Education (ouverture dans une nouvelle fenêtre) · Codex · Notes de version · Plateforme API. Présentation · Se connecter à l'API...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "[Maroc] Intelligence artificielle générative et criminalité: quelle responsabilité lorsque l'IA...",
       "link": "https://www.village-justice.com/articles/intelligence-artificielle-generative-criminalite-quelle-responsabilite-lorsque,59193.html",
@@ -80,6 +100,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
+      "title": "Deux ans d'OpenAI Academy",
+      "link": "https://openai.com/fr-CA/index/two-years-of-openai-academy/",
+      "url": "https://openai.com/fr-CA/index/two-years-of-openai-academy/",
+      "publishedAt": "2026-09-24T08:12:33.000Z",
+      "date": "2026-09-24T08:12:33.000Z",
+      "description": "Une personne enseignante pourrait utiliser ChatGPT pour adapter une leçon.... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "excerpt": "Une personne enseignante pourrait utiliser ChatGPT pour adapter une leçon.... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Accélérer la découverte d'antibiotiques avec ChatGPT - OpenAI",
       "link": "https://openai.com/fr-FR/index/accelerating-antibiotic-discovery/",
       "url": "https://openai.com/fr-FR/index/accelerating-antibiotic-discovery/",
@@ -98,36 +128,6 @@
       "description": "Un enseignant peut utiliser ChatGPT pour adapter un cours. Le... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
       "excerpt": "Un enseignant peut utiliser ChatGPT pour adapter un cours. Le... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT a lancé une nouvelle cyberattaque: le site d'un gouvernement a été piraté",
-      "link": "https://www.01net.com/actualites/chatgpt-lance-nouvelle-cyberattaque-site-gouvernement-pirate.html",
-      "url": "https://www.01net.com/actualites/chatgpt-lance-nouvelle-cyberattaque-site-gouvernement-pirate.html",
-      "publishedAt": "2026-09-24T06:36:17.000Z",
-      "date": "2026-09-24T06:36:17.000Z",
-      "description": "ChatGPT a lancé une nouvelle cyberattaque: le site d'un... L'Australian Signals Directorate, l'agence australienne de cybersécurité...",
-      "excerpt": "ChatGPT a lancé une nouvelle cyberattaque: le site d'un... L'Australian Signals Directorate, l'agence australienne de cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI déploie ChatGPT Ads dans sept nouveaux marchés asiatiques - Unite.AI",
-      "link": "https://www.unite.ai/fr/openai-rolls-out-chatgpt-ads-in-seven-new-asian-markets/",
-      "url": "https://www.unite.ai/fr/openai-rolls-out-chatgpt-ads-in-seven-new-asian-markets/",
-      "publishedAt": "2026-09-24T03:16:20.000Z",
-      "date": "2026-09-24T03:16:20.000Z",
-      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT, et la publicité n'influence pas les réponses fournies par ChatGPT.",
-      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT, et la publicité n'influence pas les réponses fournies par ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Présentation de MentalHealthBench - OpenAI",
-      "link": "https://openai.com/fr-CA/index/introducing-mentalhealthbench/",
-      "url": "https://openai.com/fr-CA/index/introducing-mentalhealthbench/",
-      "publishedAt": "2026-09-24T01:37:55.000Z",
-      "date": "2026-09-24T01:37:55.000Z",
-      "description": "La combinaison de scénarios vise à tester les réponses des modèles et ne représente pas la fréquence de ces sujets dans ChatGPT.... Cybersécurité 26...",
-      "excerpt": "La combinaison de scénarios vise à tester les réponses des modèles et ne représente pas la fréquence de ces sujets dans ChatGPT.... Cybersécurité 26...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
