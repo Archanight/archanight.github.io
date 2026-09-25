@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T02:33:48.045Z",
+  "generatedAt": "2026-09-25T10:50:15.811Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Fuite sur ChatGPT Pro Max, OpenAI prépare un abonnement à 500 dollars par mois avec Cerebras",
+      "link": "https://pasqualepillitteri.it/fr/news/18144/chatgpt-pro-max-abonnement-500-dollars-cerebras",
+      "url": "https://pasqualepillitteri.it/fr/news/18144/chatgpt-pro-max-abonnement-500-dollars-cerebras",
+      "publishedAt": "2026-09-25T06:39:15.000Z",
+      "date": "2026-09-25T06:39:15.000Z",
+      "description": "OpenAI prépare ChatGPT Pro Max à 500 dollars par mois, soit 515 € TVA incluse en France. Le nom figure déjà dans le code de Codex, avec « Fastest...",
+      "excerpt": "OpenAI prépare ChatGPT Pro Max à 500 dollars par mois, soit 515 € TVA incluse en France. Le nom figure déjà dans le code de Codex, avec « Fastest...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT représente désormais 95 % du trafic envoyé par les IA aux sites - Clubic",
+      "link": "https://www.clubic.com/actualite-631225-chatgpt-represente-desormais-95-du-trafic-envoye-par-les-ia-aux-sites.html",
+      "url": "https://www.clubic.com/actualite-631225-chatgpt-represente-desormais-95-du-trafic-envoye-par-les-ia-aux-sites.html",
+      "publishedAt": "2026-09-25T06:07:28.000Z",
+      "date": "2026-09-25T06:07:28.000Z",
+      "description": "ChatGPT représente désormais 95 % du trafic envoyé par les IA aux sites. ParMélina LoupiaJournaliste rédactrice, spécialiste tech et cybersécurité.",
+      "excerpt": "ChatGPT représente désormais 95 % du trafic envoyé par les IA aux sites. ParMélina LoupiaJournaliste rédactrice, spécialiste tech et cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un partenariat « en dessous des attentes »: les utilisateurs d'iPhone ont boudé ChatGPT...",
+      "link": "https://www.01net.com/actualites/un-partenariat-en-dessous-des-attentes-les-utilisateurs-diphone-ont-boude-chatgpt-dans-apple-intelligence.html",
+      "url": "https://www.01net.com/actualites/un-partenariat-en-dessous-des-attentes-les-utilisateurs-diphone-ont-boude-chatgpt-dans-apple-intelligence.html",
+      "publishedAt": "2026-09-25T06:04:16.000Z",
+      "date": "2026-09-25T06:04:16.000Z",
+      "description": "Pour rappel, le renvoi vers ChatGPT se trouve dans les réglages de Siri... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
+      "excerpt": "Pour rappel, le renvoi vers ChatGPT se trouve dans les réglages de Siri... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Sakana AI recrute Jürgen Schmidhuber, inventeur… - Le Fil IA",
       "link": "https://www.lefilia.fr/article/6222164-sakana-ai-recrute-jurgen-schmidhuber-inventeur-du-deep-learning-des-world-models-et-de-la-prochaine-mise-a-jour-de-chatgpt",
@@ -97,36 +127,6 @@
       "date": "2026-09-24T08:35:02.000Z",
       "description": "iOS 18 Siri ChatGPT Craig Federighi · iPhone 8 août 2025 à 08:48. ChatGPT GPT-5 arrivera avec iOS 26 dans Siri et Apple Intelligence. 0 commentaires...",
       "excerpt": "iOS 18 Siri ChatGPT Craig Federighi · iPhone 8 août 2025 à 08:48. ChatGPT GPT-5 arrivera avec iOS 26 dans Siri et Apple Intelligence. 0 commentaires...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Deux ans d'OpenAI Academy",
-      "link": "https://openai.com/fr-CA/index/two-years-of-openai-academy/",
-      "url": "https://openai.com/fr-CA/index/two-years-of-openai-academy/",
-      "publishedAt": "2026-09-24T08:12:33.000Z",
-      "date": "2026-09-24T08:12:33.000Z",
-      "description": "Une personne enseignante pourrait utiliser ChatGPT pour adapter une leçon.... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
-      "excerpt": "Une personne enseignante pourrait utiliser ChatGPT pour adapter une leçon.... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Accélérer la découverte d'antibiotiques avec ChatGPT - OpenAI",
-      "link": "https://openai.com/fr-FR/index/accelerating-antibiotic-discovery/",
-      "url": "https://openai.com/fr-FR/index/accelerating-antibiotic-discovery/",
-      "publishedAt": "2026-09-24T07:35:10.000Z",
-      "date": "2026-09-24T07:35:10.000Z",
-      "description": "ChatGPT est devenu un élément essentiel du flux de travail du... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
-      "excerpt": "ChatGPT est devenu un élément essentiel du flux de travail du... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Deux ans d'OpenAI Academy",
-      "link": "https://openai.com/fr-FR/index/two-years-of-openai-academy/",
-      "url": "https://openai.com/fr-FR/index/two-years-of-openai-academy/",
-      "publishedAt": "2026-09-24T07:13:38.000Z",
-      "date": "2026-09-24T07:13:38.000Z",
-      "description": "Un enseignant peut utiliser ChatGPT pour adapter un cours. Le... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
-      "excerpt": "Un enseignant peut utiliser ChatGPT pour adapter un cours. Le... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
