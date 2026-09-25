@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T16:09:41.422Z",
+  "generatedAt": "2026-09-25T20:52:37.955Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Un abonnement ChatGPT Pro Max à 500 $ par mois arrive bientôt, pour quelles nouveautés?",
+      "link": "https://www.phonandroid.com/un-abonnement-chatgpt-pro-max-a-500-par-mois-arrive-bientot-pour-quelles-nouveautes.html",
+      "url": "https://www.phonandroid.com/un-abonnement-chatgpt-pro-max-a-500-par-mois-arrive-bientot-pour-quelles-nouveautes.html",
+      "publishedAt": "2026-09-25T18:24:12.000Z",
+      "date": "2026-09-25T18:24:12.000Z",
+      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Un abonnement ChatGPT Pro Max à 500 $ par mois arrive bientôt, pour...",
+      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Un abonnement ChatGPT Pro Max à 500 $ par mois arrive bientôt, pour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Spam update de Google Septembre: le grand nettoyage mondial va tenir le SEO en haleine...",
+      "link": "https://www.journalduweb.org/spam-update-de-google-le-grand-nettoyage-mondial-va-tenir-le-seo-en-haleine-quinze-jours/",
+      "url": "https://www.journalduweb.org/spam-update-de-google-le-grand-nettoyage-mondial-va-tenir-le-seo-en-haleine-quinze-jours/",
+      "publishedAt": "2026-09-25T16:32:15.000Z",
+      "date": "2026-09-25T16:32:15.000Z",
+      "description": "Art officiel OpenAI du navigateur IA ChatGPT Atlas · Web & Internet · ChatGPT Atlas: OpenAI débranche son navigateur IA ce 9 août, dix mois à peine...",
+      "excerpt": "Art officiel OpenAI du navigateur IA ChatGPT Atlas · Web & Internet · ChatGPT Atlas: OpenAI débranche son navigateur IA ce 9 août, dix mois à peine...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Claude Opus 5.5 vs GPT 6-Sol: une bataille entre la puissance et le prix - Frandroid",
       "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3258013_claude-opus-5-5-vs-gpt-6-sol-une-bataille-entre-la-puissance-et-le-prix",
@@ -107,26 +127,6 @@
       "date": "2026-09-24T18:01:10.000Z",
       "description": "ChatGPT, Gemini et Claude évoluent de chatbots en plates-formes d\\'IA agentiques OpenAI mettant l\\'accent sur le travail autonome,...",
       "excerpt": "ChatGPT, Gemini et Claude évoluent de chatbots en plates-formes d\\'IA agentiques OpenAI mettant l\\'accent sur le travail autonome,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "[Maroc] Intelligence artificielle générative et criminalité: quelle responsabilité lorsque l'IA...",
-      "link": "https://www.village-justice.com/articles/intelligence-artificielle-generative-criminalite-quelle-responsabilite-lorsque,59193.html",
-      "url": "https://www.village-justice.com/articles/intelligence-artificielle-generative-criminalite-quelle-responsabilite-lorsque,59193.html",
-      "publishedAt": "2026-09-24T17:39:42.000Z",
-      "date": "2026-09-24T17:39:42.000Z",
-      "description": "... CyberSécurité · • Management et méthodes de travail · • Se Former, notre... ChatGPT dans le contexte d'une enquête pour double meurtre. Les...",
-      "excerpt": "... CyberSécurité · • Management et méthodes de travail · • Se Former, notre... ChatGPT dans le contexte d'une enquête pour double meurtre. Les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Free intègre désormais GPT-6 Luna, mais uniquement dans l'application de bureau",
-      "link": "https://www.notebookcheck.biz/ChatGPT-Free-integre-desormais-GPT-6-Luna-mais-uniquement-dans-l-x27-application-de-bureau.1407459.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-Free-integre-desormais-GPT-6-Luna-mais-uniquement-dans-l-x27-application-de-bureau.1407459.0.html",
-      "publishedAt": "2026-09-24T17:22:03.000Z",
-      "date": "2026-09-24T17:22:03.000Z",
-      "description": "GPT-6 Luna est le premier modèle GPT-6 que les utilisateurs de ChatGPT Free et Go peuvent utiliser sans frais supplémentaires.",
-      "excerpt": "GPT-6 Luna est le premier modèle GPT-6 que les utilisateurs de ChatGPT Free et Go peuvent utiliser sans frais supplémentaires.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
