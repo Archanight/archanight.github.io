@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T10:50:15.811Z",
+  "generatedAt": "2026-09-25T16:09:41.422Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Claude Opus 5.5 vs GPT 6-Sol: une bataille entre la puissance et le prix - Frandroid",
+      "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3258013_claude-opus-5-5-vs-gpt-6-sol-une-bataille-entre-la-puissance-et-le-prix",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3258013_claude-opus-5-5-vs-gpt-6-sol-une-bataille-entre-la-puissance-et-le-prix",
+      "publishedAt": "2026-09-25T12:44:17.000Z",
+      "date": "2026-09-25T12:44:17.000Z",
+      "description": "GPT-6 Sol est proposé dans l'API d'OpenAI, dans ChatGPT Work et dans... Quand un filtre de sécurité bloque une requête, en cybersécurité par...",
+      "excerpt": "GPT-6 Sol est proposé dans l'API d'OpenAI, dans ChatGPT Work et dans... Quand un filtre de sécurité bloque une requête, en cybersécurité par...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google Spam Update de septembre 2026: la mise à jour anti-spam de la rentrée",
+      "link": "https://www.abondance.com/20260925-2970575-google-spam-update-septembre-2026-annonce.html",
+      "url": "https://www.abondance.com/20260925-2970575-google-spam-update-septembre-2026-annonce.html",
+      "publishedAt": "2026-09-25T12:07:01.000Z",
+      "date": "2026-09-25T12:07:01.000Z",
+      "description": "Résumer cet article avec: ChatGPT · Mistral · Claude · Perplexity · Grok. Résumer cet article avec: Résumer l'article sur ChatGPT ChatGPT · Résumer...",
+      "excerpt": "Résumer cet article avec: ChatGPT · Mistral · Claude · Perplexity · Grok. Résumer cet article avec: Résumer l'article sur ChatGPT ChatGPT · Résumer...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "N'utilisez jamais ChatGPT pour ces cinq types de tâches - Worldissmall",
+      "link": "https://worldissmall.fr/2026/09/25/nutilisez-jamais-chatgpt-pour-ces-cinq-types-de-taches/",
+      "url": "https://worldissmall.fr/2026/09/25/nutilisez-jamais-chatgpt-pour-ces-cinq-types-de-taches/",
+      "publishedAt": "2026-09-25T11:49:25.000Z",
+      "date": "2026-09-25T11:49:25.000Z",
+      "description": "... ChatGPT continue de s'allonger: ingénieurs de Samsung ayant partagé du code interne, responsables de la cybersécurité américaine ayant envoyé des...",
+      "excerpt": "... ChatGPT continue de s'allonger: ingénieurs de Samsung ayant partagé du code interne, responsables de la cybersécurité américaine ayant envoyé des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Tor publie la 0.4.9.13 avec des correctifs de sécurité urgents pour tout le réseau",
+      "link": "https://pasqualepillitteri.it/fr/news/18200/tor-0-4-9-13-correctifs-securite-urgents",
+      "url": "https://pasqualepillitteri.it/fr/news/18200/tor-0-4-9-13-correctifs-securite-urgents",
+      "publishedAt": "2026-09-25T08:29:50.000Z",
+      "date": "2026-09-25T08:29:50.000Z",
+      "description": "Ce que corrigent les notes de version · Mémoire des relais. · Use-after-free dans les connexions. · Isolation des flux sur les services onion. · Attaques...",
+      "excerpt": "Ce que corrigent les notes de version · Mémoire des relais. · Use-after-free dans les connexions. · Isolation des flux sur les services onion. · Attaques...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Fuite sur ChatGPT Pro Max, OpenAI prépare un abonnement à 500 dollars par mois avec Cerebras",
       "link": "https://pasqualepillitteri.it/fr/news/18144/chatgpt-pro-max-abonnement-500-dollars-cerebras",
@@ -60,6 +100,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
+      "title": "ChatGPT vs Gemini vs Claude: La bataille de l\\'IA obtient des géants plus grands-trois, trois...",
+      "link": "https://www.sphericalinsights.com/fr/blogs/chatgpt-vs-gemini-vs-claude-the-ai-battle-gets-bigger-three-giants-three-visions-of-the-future",
+      "url": "https://www.sphericalinsights.com/fr/blogs/chatgpt-vs-gemini-vs-claude-the-ai-battle-gets-bigger-three-giants-three-visions-of-the-future",
+      "publishedAt": "2026-09-24T18:01:10.000Z",
+      "date": "2026-09-24T18:01:10.000Z",
+      "description": "ChatGPT, Gemini et Claude évoluent de chatbots en plates-formes d\\'IA agentiques OpenAI mettant l\\'accent sur le travail autonome,...",
+      "excerpt": "ChatGPT, Gemini et Claude évoluent de chatbots en plates-formes d\\'IA agentiques OpenAI mettant l\\'accent sur le travail autonome,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "[Maroc] Intelligence artificielle générative et criminalité: quelle responsabilité lorsque l'IA...",
       "link": "https://www.village-justice.com/articles/intelligence-artificielle-generative-criminalite-quelle-responsabilite-lorsque,59193.html",
       "url": "https://www.village-justice.com/articles/intelligence-artificielle-generative-criminalite-quelle-responsabilite-lorsque,59193.html",
@@ -77,56 +127,6 @@
       "date": "2026-09-24T17:22:03.000Z",
       "description": "GPT-6 Luna est le premier modèle GPT-6 que les utilisateurs de ChatGPT Free et Go peuvent utiliser sans frais supplémentaires.",
       "excerpt": "GPT-6 Luna est le premier modèle GPT-6 que les utilisateurs de ChatGPT Free et Go peuvent utiliser sans frais supplémentaires.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "une IA d'OpenAI a piraté un portail de santé du gouvernement australien, une première mondiale",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/profondement-alarmant-une-ia-d-openai-a-pirate-un-portail-de-sante-du-gouvernement-australien-une-premiere-mondiale-n262253.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/profondement-alarmant-une-ia-d-openai-a-pirate-un-portail-de-sante-du-gouvernement-australien-une-premiere-mondiale-n262253.html",
-      "publishedAt": "2026-09-24T12:32:24.000Z",
-      "date": "2026-09-24T12:32:24.000Z",
-      "description": "Un agent d'IA d'OpenAI ( ChatGPT ) devait trouver des statistiques de santé sur le web.... L'Australian Signals Directorate, l'agence de cybersécurité...",
-      "excerpt": "Un agent d'IA d'OpenAI ( ChatGPT ) devait trouver des statistiques de santé sur le web.... L'Australian Signals Directorate, l'agence de cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Recursive self improvement incoming: r/ ChatGPT - Reddit",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1wohjws/recursive_self_improvement_incoming/",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1wohjws/recursive_self_improvement_incoming/",
-      "publishedAt": "2026-09-24T12:13:08.000Z",
-      "date": "2026-09-24T12:13:08.000Z",
-      "description": "Imagine if ChatGPT had skipped every intermediate release between ChatGPT 4, 4.5, 5, 5.5 and Astra... gpt 4, I feel like gpt 5.6 sol to gpt 6...",
-      "excerpt": "Imagine if ChatGPT had skipped every intermediate release between ChatGPT 4, 4.5, 5, 5.5 and Astra... gpt 4, I feel like gpt 5.6 sol to gpt 6...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT: un agent IA a cette fois piraté un site gouvernemental - L'Eclaireur Fnac",
-      "link": "https://leclaireur.fnac.com/article/693694-chatgpt-un-agent-ia-a-cette-fois-pirate-un-site-gouvernemental/",
-      "url": "https://leclaireur.fnac.com/article/693694-chatgpt-un-agent-ia-a-cette-fois-pirate-un-site-gouvernemental/",
-      "publishedAt": "2026-09-24T10:42:17.000Z",
-      "date": "2026-09-24T10:42:17.000Z",
-      "description": "Le message n'a donc été lu que le lendemain, et Services Australia n'a signalé l'affaire au Centre australien de cybersécurité que le 15 septembre.",
-      "excerpt": "Le message n'a donc été lu que le lendemain, et Services Australia n'a signalé l'affaire au Centre australien de cybersécurité que le 15 septembre.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT a piraté une nouvelle plateforme sans qu'on lui demande et cette fois c'est encore...",
-      "link": "https://www.phonandroid.com/chatgpt-a-pirate-une-nouvelle-plateforme-sans-quon-lui-demande-et-cette-fois-cest-encore-plus-grave.html",
-      "url": "https://www.phonandroid.com/chatgpt-a-pirate-une-nouvelle-plateforme-sans-quon-lui-demande-et-cette-fois-cest-encore-plus-grave.html",
-      "publishedAt": "2026-09-24T09:38:23.000Z",
-      "date": "2026-09-24T09:38:23.000Z",
-      "description": "Après le piratage de la plateforme de Hugging Face en juillet dernier, voilà que ChatGPT remet le couvert... Cybersécurité · eSIM avec · Streaming · IA...",
-      "excerpt": "Après le piratage de la plateforme de Hugging Face en juillet dernier, voilà que ChatGPT remet le couvert... Cybersécurité · eSIM avec · Streaming · IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT dans Siri/Apple Intelligence a sous-performé, dit OpenAI - iPhoneAddict.fr",
-      "link": "https://iphoneaddict.fr/post/news-436182-chatgpt-siri-apple-intelligence-performe-dit-openai",
-      "url": "https://iphoneaddict.fr/post/news-436182-chatgpt-siri-apple-intelligence-performe-dit-openai",
-      "publishedAt": "2026-09-24T08:35:02.000Z",
-      "date": "2026-09-24T08:35:02.000Z",
-      "description": "iOS 18 Siri ChatGPT Craig Federighi · iPhone 8 août 2025 à 08:48. ChatGPT GPT-5 arrivera avec iOS 26 dans Siri et Apple Intelligence. 0 commentaires...",
-      "excerpt": "iOS 18 Siri ChatGPT Craig Federighi · iPhone 8 août 2025 à 08:48. ChatGPT GPT-5 arrivera avec iOS 26 dans Siri et Apple Intelligence. 0 commentaires...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
