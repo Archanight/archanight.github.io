@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T10:31:06.829Z",
+  "generatedAt": "2026-09-26T15:23:58.570Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,26 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Leak OpenAI, « o » serait l'assistant toujours actif de ChatGPT Pro - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/18597/openai-o-assistant-toujours-actif-chatgpt-pro",
+      "url": "https://pasqualepillitteri.it/fr/news/18597/openai-o-assistant-toujours-actif-chatgpt-pro",
+      "publishedAt": "2026-09-26T14:35:40.000Z",
+      "date": "2026-09-26T14:35:40.000Z",
+      "description": "OpenAI prépare peut-être « o », un assistant toujours actif listé sur l'écran ChatGPT... OpenAI & ChatGPT · Cybersécurité...",
+      "excerpt": "OpenAI prépare peut-être « o », un assistant toujours actif listé sur l'écran ChatGPT... OpenAI & ChatGPT · Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI: des images privées d'utilisateurs envoyées par erreur sur des sites tiers par ses agents IA",
+      "link": "https://www.clubic.com/actualite-631426-openai-des-images-privees-d-utilisateurs-envoyees-par-erreur-sur-des-sites-tiers-par-ses-agents-ia.html",
+      "url": "https://www.clubic.com/actualite-631426-openai-des-images-privees-d-utilisateurs-envoyees-par-erreur-sur-des-sites-tiers-par-ses-agents-ia.html",
+      "publishedAt": "2026-09-26T14:27:13.000Z",
+      "date": "2026-09-26T14:27:13.000Z",
+      "description": "Des agents IA d'OpenAI ont publié sur des sites d'hébergement d'images 53 photos envoyées par des utilisateurs de ChatGPT.",
+      "excerpt": "Des agents IA d'OpenAI ont publié sur des sites d'hébergement d'images 53 photos envoyées par des utilisateurs de ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "On a testé Duck.ai Pro, l'IA confidentielle qui donne accès aux meilleurs modèles de Claude...",
       "link": "https://www.clubic.com/avis-629521-on-a-teste-duck-ai-plus-et-pro.html",
       "url": "https://www.clubic.com/avis-629521-on-a-teste-duck-ai-plus-et-pro.html",
@@ -17,6 +37,16 @@
       "date": "2026-09-26T09:42:19.000Z",
       "description": "On a testé Duck.ai Pro, l'IA confidentielle qui donne accès aux meilleurs modèles de Claude et ChatGPT... Cybersécurité · Moteur de recherche.",
       "excerpt": "On a testé Duck.ai Pro, l'IA confidentielle qui donne accès aux meilleurs modèles de Claude et ChatGPT... Cybersécurité · Moteur de recherche.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Panne de Codex pendant 56 minutes, OpenAI remet à zéro les limites payantes",
+      "link": "https://pasqualepillitteri.it/fr/news/18524/codex-panne-56-minutes-openai-limites-remises-a-zero",
+      "url": "https://pasqualepillitteri.it/fr/news/18524/codex-panne-56-minutes-openai-limites-remises-a-zero",
+      "publishedAt": "2026-09-26T09:25:59.000Z",
+      "date": "2026-09-26T09:25:59.000Z",
+      "description": "OpenAI & ChatGPT · Cybersécurité · Open Source · Tech Automobile · Droit...",
+      "excerpt": "OpenAI & ChatGPT · Cybersécurité · Open Source · Tech Automobile · Droit...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -98,36 +128,6 @@
       "description": "GPT-6 Sol est proposé dans l'API d'OpenAI, dans ChatGPT Work et dans... Quand un filtre de sécurité bloque une requête, en cybersécurité par...",
       "excerpt": "GPT-6 Sol est proposé dans l'API d'OpenAI, dans ChatGPT Work et dans... Quand un filtre de sécurité bloque une requête, en cybersécurité par...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google Spam Update de septembre 2026: la mise à jour anti-spam de la rentrée",
-      "link": "https://www.abondance.com/20260925-2970575-google-spam-update-septembre-2026-annonce.html",
-      "url": "https://www.abondance.com/20260925-2970575-google-spam-update-septembre-2026-annonce.html",
-      "publishedAt": "2026-09-25T12:07:01.000Z",
-      "date": "2026-09-25T12:07:01.000Z",
-      "description": "Résumer cet article avec: ChatGPT · Mistral · Claude · Perplexity · Grok. Résumer cet article avec: Résumer l'article sur ChatGPT ChatGPT · Résumer...",
-      "excerpt": "Résumer cet article avec: ChatGPT · Mistral · Claude · Perplexity · Grok. Résumer cet article avec: Résumer l'article sur ChatGPT ChatGPT · Résumer...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "N'utilisez jamais ChatGPT pour ces cinq types de tâches - Worldissmall",
-      "link": "https://worldissmall.fr/2026/09/25/nutilisez-jamais-chatgpt-pour-ces-cinq-types-de-taches/",
-      "url": "https://worldissmall.fr/2026/09/25/nutilisez-jamais-chatgpt-pour-ces-cinq-types-de-taches/",
-      "publishedAt": "2026-09-25T11:49:25.000Z",
-      "date": "2026-09-25T11:49:25.000Z",
-      "description": "... ChatGPT continue de s'allonger: ingénieurs de Samsung ayant partagé du code interne, responsables de la cybersécurité américaine ayant envoyé des...",
-      "excerpt": "... ChatGPT continue de s'allonger: ingénieurs de Samsung ayant partagé du code interne, responsables de la cybersécurité américaine ayant envoyé des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Tor publie la 0.4.9.13 avec des correctifs de sécurité urgents pour tout le réseau",
-      "link": "https://pasqualepillitteri.it/fr/news/18200/tor-0-4-9-13-correctifs-securite-urgents",
-      "url": "https://pasqualepillitteri.it/fr/news/18200/tor-0-4-9-13-correctifs-securite-urgents",
-      "publishedAt": "2026-09-25T08:29:50.000Z",
-      "date": "2026-09-25T08:29:50.000Z",
-      "description": "Ce que corrigent les notes de version · Mémoire des relais. · Use-after-free dans les connexions. · Isolation des flux sur les services onion. · Attaques...",
-      "excerpt": "Ce que corrigent les notes de version · Mémoire des relais. · Use-after-free dans les connexions. · Isolation des flux sur les services onion. · Attaques...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
