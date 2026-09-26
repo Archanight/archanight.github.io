@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T20:52:37.955Z",
+  "generatedAt": "2026-09-26T02:36:09.323Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Espagne: la compagnie ferroviaire publique touchée par une cyberattaque - 25/09/2026 à 22:58",
+      "link": "https://www.boursorama.com/actualite-economique/actualites-amp/espagne-la-compagnie-ferroviaire-publique-touchee-par-une-cyberattaque-9e87ca685eaee7b3abdf016fa6fdebe9",
+      "url": "https://www.boursorama.com/actualite-economique/actualites-amp/espagne-la-compagnie-ferroviaire-publique-touchee-par-une-cyberattaque-9e87ca685eaee7b3abdf016fa6fdebe9",
+      "publishedAt": "2026-09-25T21:06:04.000Z",
+      "date": "2026-09-25T21:06:04.000Z",
+      "description": "Renfe a indiqué dans un communiqué que \"l'incident de cybersécurité \" trouvait son origine dans des serveurs du gestionnaire d'infrastructures...",
+      "excerpt": "Renfe a indiqué dans un communiqué que \"l'incident de cybersécurité \" trouvait son origine dans des serveurs du gestionnaire d'infrastructures...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Un abonnement ChatGPT Pro Max à 500 $ par mois arrive bientôt, pour quelles nouveautés?",
       "link": "https://www.phonandroid.com/un-abonnement-chatgpt-pro-max-a-500-par-mois-arrive-bientot-pour-quelles-nouveautes.html",
@@ -117,16 +127,6 @@
       "date": "2026-09-24T18:28:13.000Z",
       "description": "Produits ChatGPT for Education (ouverture dans une nouvelle fenêtre) · Codex · Notes de version · Plateforme API. Présentation · Se connecter à l'API...",
       "excerpt": "Produits ChatGPT for Education (ouverture dans une nouvelle fenêtre) · Codex · Notes de version · Plateforme API. Présentation · Se connecter à l'API...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT vs Gemini vs Claude: La bataille de l\\'IA obtient des géants plus grands-trois, trois...",
-      "link": "https://www.sphericalinsights.com/fr/blogs/chatgpt-vs-gemini-vs-claude-the-ai-battle-gets-bigger-three-giants-three-visions-of-the-future",
-      "url": "https://www.sphericalinsights.com/fr/blogs/chatgpt-vs-gemini-vs-claude-the-ai-battle-gets-bigger-three-giants-three-visions-of-the-future",
-      "publishedAt": "2026-09-24T18:01:10.000Z",
-      "date": "2026-09-24T18:01:10.000Z",
-      "description": "ChatGPT, Gemini et Claude évoluent de chatbots en plates-formes d\\'IA agentiques OpenAI mettant l\\'accent sur le travail autonome,...",
-      "excerpt": "ChatGPT, Gemini et Claude évoluent de chatbots en plates-formes d\\'IA agentiques OpenAI mettant l\\'accent sur le travail autonome,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
