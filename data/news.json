@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T02:36:09.323Z",
+  "generatedAt": "2026-09-26T10:31:06.829Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "On a testé Duck.ai Pro, l'IA confidentielle qui donne accès aux meilleurs modèles de Claude...",
+      "link": "https://www.clubic.com/avis-629521-on-a-teste-duck-ai-plus-et-pro.html",
+      "url": "https://www.clubic.com/avis-629521-on-a-teste-duck-ai-plus-et-pro.html",
+      "publishedAt": "2026-09-26T09:42:19.000Z",
+      "date": "2026-09-26T09:42:19.000Z",
+      "description": "On a testé Duck.ai Pro, l'IA confidentielle qui donne accès aux meilleurs modèles de Claude et ChatGPT... Cybersécurité · Moteur de recherche.",
+      "excerpt": "On a testé Duck.ai Pro, l'IA confidentielle qui donne accès aux meilleurs modèles de Claude et ChatGPT... Cybersécurité · Moteur de recherche.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI reconnaît que ses outils ont mis en ligne par erreur des images d'utilisateurs de ChatGPT",
+      "link": "https://actu.orange.fr/societe/high-tech/openai-reconnait-que-ses-outils-ont-mis-en-ligne-par-erreur-des-images-d-utilisateurs-de-chatgpt-CNT000002s7kYa.html",
+      "url": "https://actu.orange.fr/societe/high-tech/openai-reconnait-que-ses-outils-ont-mis-en-ligne-par-erreur-des-images-d-utilisateurs-de-chatgpt-CNT000002s7kYa.html",
+      "publishedAt": "2026-09-26T09:01:34.000Z",
+      "date": "2026-09-26T09:01:34.000Z",
+      "description": "OpenAI a reconnu vendredi que ses outils d'intelligence artificielle (IA) avaient mis en ligne 53 images envoyées sur ChatGPT... Cybersécurité et...",
+      "excerpt": "OpenAI a reconnu vendredi que ses outils d'intelligence artificielle (IA) avaient mis en ligne 53 images envoyées sur ChatGPT... Cybersécurité et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT a tenté de pirater plusieurs sites du gouvernement américain - 01net.com",
+      "link": "https://www.01net.com/actualites/ia-openai-chatgpt-sonde-sites-gouvernement-americain.html",
+      "url": "https://www.01net.com/actualites/ia-openai-chatgpt-sonde-sites-gouvernement-americain.html",
+      "publishedAt": "2026-09-26T07:14:02.000Z",
+      "date": "2026-09-26T07:14:02.000Z",
+      "description": "Apple Intelligence Siri. Un partenariat « en dessous des attentes »: les utilisateurs d'iPhone ont boudé ChatGPT dans Apple Intelligence. Les...",
+      "excerpt": "Apple Intelligence Siri. Un partenariat « en dessous des attentes »: les utilisateurs d'iPhone ont boudé ChatGPT dans Apple Intelligence. Les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un internaute donne 100 dollars à ChatGPT pour s'enrichir: deux ans plus tard, le bilan surprend",
+      "link": "https://www.lacremedugaming.fr/high-tech/un-internaute-donne-100-dollars-a-chatgpt-pour-senrichir-deux-ans-plus-tard-le-bilan-surprend-226372.html",
+      "url": "https://www.lacremedugaming.fr/high-tech/un-internaute-donne-100-dollars-a-chatgpt-pour-senrichir-deux-ans-plus-tard-le-bilan-surprend-226372.html",
+      "publishedAt": "2026-09-26T04:22:48.000Z",
+      "date": "2026-09-26T04:22:48.000Z",
+      "description": "En mars 2023, l'Américain Jackson Greathouse Fall lance sur X un défi viral. Cet internaute donne 100 dollars, environ 93 €, à ChatGPT version GPT-4...",
+      "excerpt": "En mars 2023, l'Américain Jackson Greathouse Fall lance sur X un défi viral. Cet internaute donne 100 dollars, environ 93 €, à ChatGPT version GPT-4...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Des agents IA d'OpenAI ont fait fuiter sur Internet des images d'utilisateurs de ChatGPT",
+      "link": "https://www.lemonde.fr/pixels/article/2026/09/26/des-agents-ia-d-openai-ont-fait-fuiter-sur-internet-des-images-d-utilisateurs-de-chatgpt_6782839_4408996.html",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/26/des-agents-ia-d-openai-ont-fait-fuiter-sur-internet-des-images-d-utilisateurs-de-chatgpt_6782839_4408996.html",
+      "publishedAt": "2026-09-26T02:39:50.000Z",
+      "date": "2026-09-26T02:39:50.000Z",
+      "description": "OpenAI a reconnu, vendredi 25 septembre, que ses outils d'intelligence artificielle (IA) avaient mis en ligne 53 images envoyées sur ChatGPT par...",
+      "excerpt": "OpenAI a reconnu, vendredi 25 septembre, que ses outils d'intelligence artificielle (IA) avaient mis en ligne 53 images envoyées sur ChatGPT par...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Espagne: la compagnie ferroviaire publique touchée par une cyberattaque - 25/09/2026 à 22:58",
       "link": "https://www.boursorama.com/actualite-economique/actualites-amp/espagne-la-compagnie-ferroviaire-publique-touchee-par-une-cyberattaque-9e87ca685eaee7b3abdf016fa6fdebe9",
@@ -77,56 +127,6 @@
       "date": "2026-09-25T08:29:50.000Z",
       "description": "Ce que corrigent les notes de version · Mémoire des relais. · Use-after-free dans les connexions. · Isolation des flux sur les services onion. · Attaques...",
       "excerpt": "Ce que corrigent les notes de version · Mémoire des relais. · Use-after-free dans les connexions. · Isolation des flux sur les services onion. · Attaques...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Fuite sur ChatGPT Pro Max, OpenAI prépare un abonnement à 500 dollars par mois avec Cerebras",
-      "link": "https://pasqualepillitteri.it/fr/news/18144/chatgpt-pro-max-abonnement-500-dollars-cerebras",
-      "url": "https://pasqualepillitteri.it/fr/news/18144/chatgpt-pro-max-abonnement-500-dollars-cerebras",
-      "publishedAt": "2026-09-25T06:39:15.000Z",
-      "date": "2026-09-25T06:39:15.000Z",
-      "description": "OpenAI prépare ChatGPT Pro Max à 500 dollars par mois, soit 515 € TVA incluse en France. Le nom figure déjà dans le code de Codex, avec « Fastest...",
-      "excerpt": "OpenAI prépare ChatGPT Pro Max à 500 dollars par mois, soit 515 € TVA incluse en France. Le nom figure déjà dans le code de Codex, avec « Fastest...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT représente désormais 95 % du trafic envoyé par les IA aux sites - Clubic",
-      "link": "https://www.clubic.com/actualite-631225-chatgpt-represente-desormais-95-du-trafic-envoye-par-les-ia-aux-sites.html",
-      "url": "https://www.clubic.com/actualite-631225-chatgpt-represente-desormais-95-du-trafic-envoye-par-les-ia-aux-sites.html",
-      "publishedAt": "2026-09-25T06:07:28.000Z",
-      "date": "2026-09-25T06:07:28.000Z",
-      "description": "ChatGPT représente désormais 95 % du trafic envoyé par les IA aux sites. ParMélina LoupiaJournaliste rédactrice, spécialiste tech et cybersécurité.",
-      "excerpt": "ChatGPT représente désormais 95 % du trafic envoyé par les IA aux sites. ParMélina LoupiaJournaliste rédactrice, spécialiste tech et cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un partenariat « en dessous des attentes »: les utilisateurs d'iPhone ont boudé ChatGPT...",
-      "link": "https://www.01net.com/actualites/un-partenariat-en-dessous-des-attentes-les-utilisateurs-diphone-ont-boude-chatgpt-dans-apple-intelligence.html",
-      "url": "https://www.01net.com/actualites/un-partenariat-en-dessous-des-attentes-les-utilisateurs-diphone-ont-boude-chatgpt-dans-apple-intelligence.html",
-      "publishedAt": "2026-09-25T06:04:16.000Z",
-      "date": "2026-09-25T06:04:16.000Z",
-      "description": "Pour rappel, le renvoi vers ChatGPT se trouve dans les réglages de Siri... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "excerpt": "Pour rappel, le renvoi vers ChatGPT se trouve dans les réglages de Siri... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Sakana AI recrute Jürgen Schmidhuber, inventeur… - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6222164-sakana-ai-recrute-jurgen-schmidhuber-inventeur-du-deep-learning-des-world-models-et-de-la-prochaine-mise-a-jour-de-chatgpt",
-      "url": "https://www.lefilia.fr/article/6222164-sakana-ai-recrute-jurgen-schmidhuber-inventeur-du-deep-learning-des-world-models-et-de-la-prochaine-mise-a-jour-de-chatgpt",
-      "publishedAt": "2026-09-24T20:29:34.000Z",
-      "date": "2026-09-24T20:29:34.000Z",
-      "description": "... ChatGPT, en permettant aux modèles d'apprendre et de se restructurer de... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
-      "excerpt": "... ChatGPT, en permettant aux modèles d'apprendre et de se restructurer de... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Airbnb élargit l'accès à GPT-6 Astra et aux modèles de pointe d'OpenAI",
-      "link": "https://openai.com/fr-FR/index/airbnb-gpt-6-astra/",
-      "url": "https://openai.com/fr-FR/index/airbnb-gpt-6-astra/",
-      "publishedAt": "2026-09-24T18:28:13.000Z",
-      "date": "2026-09-24T18:28:13.000Z",
-      "description": "Produits ChatGPT for Education (ouverture dans une nouvelle fenêtre) · Codex · Notes de version · Plateforme API. Présentation · Se connecter à l'API...",
-      "excerpt": "Produits ChatGPT for Education (ouverture dans une nouvelle fenêtre) · Codex · Notes de version · Plateforme API. Présentation · Se connecter à l'API...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
