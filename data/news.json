@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T16:02:29.395Z",
+  "generatedAt": "2026-09-27T20:36:25.556Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "J'ai confié ma boîte Gmail à ChatGPT: jusqu'où peut-on vraiment le laisser agir? - Clubic",
+      "link": "https://www.clubic.com/dossier-631363-j-ai-confie-ma-boite-gmail-a-chatgpt-jusqu-ou-peut-on-vraiment-le-laisser-agir.html",
+      "url": "https://www.clubic.com/dossier-631363-j-ai-confie-ma-boite-gmail-a-chatgpt-jusqu-ou-peut-on-vraiment-le-laisser-agir.html",
+      "publishedAt": "2026-09-27T16:38:03.000Z",
+      "date": "2026-09-27T16:38:03.000Z",
+      "description": "J'ai confié ma boîte Gmail à ChatGPT pour trier, classer et envoyer mes e-mails. Un test grandeur nature entre gain de temps, limites et sécurité.",
+      "excerpt": "J'ai confié ma boîte Gmail à ChatGPT pour trier, classer et envoyer mes e-mails. Un test grandeur nature entre gain de temps, limites et sécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Gmail avec ChatGPT: automatiser sa boîte sans perdre le contrôle - Brief IA",
+      "link": "https://www.briefia.fr/blog/automatiser-boite-gmail-chatgpt-2026",
+      "url": "https://www.briefia.fr/blog/automatiser-boite-gmail-chatgpt-2026",
+      "publishedAt": "2026-09-27T16:02:04.000Z",
+      "date": "2026-09-27T16:02:04.000Z",
+      "description": "... notes de version de ChatGPT Business, Enterprise et Edu. OpenAI, notes de version Business OpenAI, notes de version Enterprise et Edu. Étape 3...",
+      "excerpt": "... notes de version de ChatGPT Business, Enterprise et Edu. OpenAI, notes de version Business OpenAI, notes de version Enterprise et Edu. Étape 3...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI préparerait un nouvel agent capable de travailler en continu et un abonnement... - Menow",
+      "link": "https://www.menow.fr/openai-preparerait-un-nouvel-agent-capable-de-travailler-en-continu-et-un-abonnement-chatgpt-encore-plus-cher/",
+      "url": "https://www.menow.fr/openai-preparerait-un-nouvel-agent-capable-de-travailler-en-continu-et-un-abonnement-chatgpt-encore-plus-cher/",
+      "publishedAt": "2026-09-27T16:01:46.000Z",
+      "date": "2026-09-27T16:01:46.000Z",
+      "description": "OpenAI préparerait un nouvel agent capable de travailler en continu et un abonnement ChatGPT encore plus cher... cybersécurité grand public et des...",
+      "excerpt": "OpenAI préparerait un nouvel agent capable de travailler en continu et un abonnement ChatGPT encore plus cher... cybersécurité grand public et des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-6 Luna gratuit: l'astuce indispensable pour activer ce modèle introuvable sur smartphone",
+      "link": "https://selectra.info/telecom/actualites/marche/chatgpt-gratuit-gpt-6-luna-appli-ordinateur",
+      "url": "https://selectra.info/telecom/actualites/marche/chatgpt-gratuit-gpt-6-luna-appli-ordinateur",
+      "publishedAt": "2026-09-27T14:00:38.000Z",
+      "date": "2026-09-27T14:00:38.000Z",
+      "description": "GPT-6 Luna est ouvert aux comptes ChatGPT gratuits, mais introuvable sur mobile et sur le web. Où OpenAI l'a placé et comment vous en servir.",
+      "excerpt": "GPT-6 Luna est ouvert aux comptes ChatGPT gratuits, mais introuvable sur mobile et sur le web. Où OpenAI l'a placé et comment vous en servir.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Images d'utilisateurs de ChatGPT publiées en ligne par des agents d'OpenAI",
       "link": "https://www.notebookcheck.biz/Images-d-utilisateurs-de-ChatGPT-publiees-en-ligne-par-des-agents-d-OpenAI-comment-se-desinscrire.1409777.0.html",
@@ -88,46 +128,6 @@
       "description": "Depuis mercredi, le mode vocal de ChatGPT peut extraire des données d'applications connectées telles que Gmail, Google Agenda et Slack,...",
       "excerpt": "Depuis mercredi, le mode vocal de ChatGPT peut extraire des données d'applications connectées telles que Gmail, Google Agenda et Slack,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Adieu Google, ChatGPT et WhatsApp: nous avons remplacé leurs applications du quotidien...",
-      "link": "https://www.lesnumeriques.com/societe-numerique/adieu-google-chatgpt-et-whatsapp-nous-avons-remplace-leurs-applications-du-quotidien-par-des-equivalents-europeens-122-n260695.html",
-      "url": "https://www.lesnumeriques.com/societe-numerique/adieu-google-chatgpt-et-whatsapp-nous-avons-remplace-leurs-applications-du-quotidien-par-des-equivalents-europeens-122-n260695.html",
-      "publishedAt": "2026-09-26T14:40:23.000Z",
-      "date": "2026-09-26T14:40:23.000Z",
-      "description": "Bureautique, IA, GPS ou messagerie: voici sept alternatives européennes pour reprendre la main sur vos données. Adieu Google, ChatGPT et WhatsApp:...",
-      "excerpt": "Bureautique, IA, GPS ou messagerie: voici sept alternatives européennes pour reprendre la main sur vos données. Adieu Google, ChatGPT et WhatsApp:...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Leak OpenAI, « o » serait l'assistant toujours actif de ChatGPT Pro - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/18597/openai-o-assistant-toujours-actif-chatgpt-pro",
-      "url": "https://pasqualepillitteri.it/fr/news/18597/openai-o-assistant-toujours-actif-chatgpt-pro",
-      "publishedAt": "2026-09-26T14:35:40.000Z",
-      "date": "2026-09-26T14:35:40.000Z",
-      "description": "OpenAI prépare peut-être « o », un assistant toujours actif listé sur l'écran ChatGPT Pro à 100 dollars. Ce que montre le leak et ce que dira le...",
-      "excerpt": "OpenAI prépare peut-être « o », un assistant toujours actif listé sur l'écran ChatGPT Pro à 100 dollars. Ce que montre le leak et ce que dira le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI: des images privées d'utilisateurs envoyées par erreur sur des sites tiers par ses agents IA",
-      "link": "https://www.clubic.com/actualite-631426-openai-des-images-privees-d-utilisateurs-envoyees-par-erreur-sur-des-sites-tiers-par-ses-agents-ia.html",
-      "url": "https://www.clubic.com/actualite-631426-openai-des-images-privees-d-utilisateurs-envoyees-par-erreur-sur-des-sites-tiers-par-ses-agents-ia.html",
-      "publishedAt": "2026-09-26T14:27:13.000Z",
-      "date": "2026-09-26T14:27:13.000Z",
-      "description": "Des agents IA d'OpenAI ont publié sur des sites d'hébergement d'images 53 photos envoyées par des utilisateurs de ChatGPT.",
-      "excerpt": "Des agents IA d'OpenAI ont publié sur des sites d'hébergement d'images 53 photos envoyées par des utilisateurs de ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ShinyHunters revendique le piratage de FBIjobs.gov, le FBI enquête - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/18473/shinyhunters-piratage-fbijobs-gov-fbi-enquete",
-      "url": "https://pasqualepillitteri.it/fr/news/18473/shinyhunters-piratage-fbijobs-gov-fbi-enquete",
-      "publishedAt": "2026-09-26T12:07:26.000Z",
-      "date": "2026-09-26T12:07:26.000Z",
-      "description": "OpenAI & ChatGPT... Cybersécurité cybersécurité piratage fuite de données extorsion ShinyHunters FBIjobs.gov FBI Oracle PeopleSoft.",
-      "excerpt": "OpenAI & ChatGPT... Cybersécurité cybersécurité piratage fuite de données extorsion ShinyHunters FBIjobs.gov FBI Oracle PeopleSoft.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
