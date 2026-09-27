@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T11:02:43.448Z",
+  "generatedAt": "2026-09-27T16:02:29.395Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Images d'utilisateurs de ChatGPT publiées en ligne par des agents d'OpenAI",
+      "link": "https://www.notebookcheck.biz/Images-d-utilisateurs-de-ChatGPT-publiees-en-ligne-par-des-agents-d-OpenAI-comment-se-desinscrire.1409777.0.html",
+      "url": "https://www.notebookcheck.biz/Images-d-utilisateurs-de-ChatGPT-publiees-en-ligne-par-des-agents-d-OpenAI-comment-se-desinscrire.1409777.0.html",
+      "publishedAt": "2026-09-27T12:48:15.000Z",
+      "date": "2026-09-27T12:48:15.000Z",
+      "description": "Smartphone affichant une galerie de photos. Des agents OpenAI ont publié 53 images issues de conversations sur ChatGPT sur des sites d'hébergement d'...",
+      "excerpt": "Smartphone affichant une galerie de photos. Des agents OpenAI ont publié 53 images issues de conversations sur ChatGPT sur des sites d'hébergement d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Mode vocal de ChatGPT: l'option à cocher d'urgence pour qu'il ne fouille pas vos e-mails",
+      "link": "https://selectra.info/telecom/actualites/marche/chatgpt-vocal-lit-mails-agenda",
+      "url": "https://selectra.info/telecom/actualites/marche/chatgpt-vocal-lit-mails-agenda",
+      "publishedAt": "2026-09-27T10:07:34.000Z",
+      "date": "2026-09-27T10:07:34.000Z",
+      "description": "Depuis le 23 septembre, le mode vocal de ChatGPT peut consulter Gmail et Google Agenda... Selon les notes de version publiées par OpenAI, le mode vocal...",
+      "excerpt": "Depuis le 23 septembre, le mode vocal de ChatGPT peut consulter Gmail et Google Agenda... Selon les notes de version publiées par OpenAI, le mode vocal...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Publicité dans ChatGPT gratuit: ce que l'IA lit dans votre conversation pour choisir l'annonce",
       "link": "https://selectra.info/telecom/actualites/marche/publicite-chatgpt-gratuit-ce-que-l-annonce-sait",
@@ -108,26 +128,6 @@
       "description": "OpenAI & ChatGPT... Cybersécurité cybersécurité piratage fuite de données extorsion ShinyHunters FBIjobs.gov FBI Oracle PeopleSoft.",
       "excerpt": "OpenAI & ChatGPT... Cybersécurité cybersécurité piratage fuite de données extorsion ShinyHunters FBIjobs.gov FBI Oracle PeopleSoft.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "On a testé Duck.ai Pro, l'IA confidentielle qui donne accès aux meilleurs modèles de Claude...",
-      "link": "https://www.clubic.com/avis-629521-on-a-teste-duck-ai-plus-et-pro.html",
-      "url": "https://www.clubic.com/avis-629521-on-a-teste-duck-ai-plus-et-pro.html",
-      "publishedAt": "2026-09-26T09:42:19.000Z",
-      "date": "2026-09-26T09:42:19.000Z",
-      "description": "On a testé Duck.ai Pro, l'IA confidentielle qui donne accès aux meilleurs modèles de Claude et ChatGPT... Cybersécurité · Moteur de recherche.",
-      "excerpt": "On a testé Duck.ai Pro, l'IA confidentielle qui donne accès aux meilleurs modèles de Claude et ChatGPT... Cybersécurité · Moteur de recherche.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Panne de Codex pendant 56 minutes, OpenAI remet à zéro les limites payantes",
-      "link": "https://pasqualepillitteri.it/fr/news/18524/codex-panne-56-minutes-openai-limites-remises-a-zero",
-      "url": "https://pasqualepillitteri.it/fr/news/18524/codex-panne-56-minutes-openai-limites-remises-a-zero",
-      "publishedAt": "2026-09-26T09:25:59.000Z",
-      "date": "2026-09-26T09:25:59.000Z",
-      "description": "OpenAI & ChatGPT · Cybersécurité · Open Source · Tech Automobile · Droit...",
-      "excerpt": "OpenAI & ChatGPT · Cybersécurité · Open Source · Tech Automobile · Droit...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
