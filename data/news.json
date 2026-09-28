@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T20:36:25.556Z",
+  "generatedAt": "2026-09-28T02:38:04.756Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Line-up des Assises de la cybersécurité 2026 - Global Security Mag",
+      "link": "http://www.globalsecuritymag.fr/line-up-des-assises-de-la-cybersecurite-2026.html",
+      "url": "http://www.globalsecuritymag.fr/line-up-des-assises-de-la-cybersecurite-2026.html",
+      "publishedAt": "2026-09-27T23:24:44.000Z",
+      "date": "2026-09-27T23:24:44.000Z",
+      "description": "Cybersécurité Sécurité informatique réseau Global Security Mag Magazine Online antivirus offres emploi sécurité actualité sécurité réseau SOC CERT...",
+      "excerpt": "Cybersécurité Sécurité informatique réseau Global Security Mag Magazine Online antivirus offres emploi sécurité actualité sécurité réseau SOC CERT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "SNL tourne en dérision Dario Amodei et les alarmes sur l'IA - Brief IA",
+      "link": "https://www.briefia.fr/article/snl-tourne-en-derision-dario-amodei-et-les-alarmes-sur-l-ia",
+      "url": "https://www.briefia.fr/article/snl-tourne-en-derision-dario-amodei-et-les-alarmes-sur-l-ia",
+      "publishedAt": "2026-09-27T22:16:57.000Z",
+      "date": "2026-09-27T22:16:57.000Z",
+      "description": "Le principal défi reste l'intégration des utilisateurs, avec une évolution d'usage de GPT-4... ChatGPT a été relié à une boîte Gmail réelle pour...",
+      "excerpt": "Le principal défi reste l'intégration des utilisateurs, avec une évolution d'usage de GPT-4... ChatGPT a été relié à une boîte Gmail réelle pour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "J'ai confié ma boîte Gmail à ChatGPT: jusqu'où peut-on vraiment le laisser agir? - Clubic",
       "link": "https://www.clubic.com/dossier-631363-j-ai-confie-ma-boite-gmail-a-chatgpt-jusqu-ou-peut-on-vraiment-le-laisser-agir.html",
@@ -108,26 +128,6 @@
       "description": "Des pirates éthiques ont réussi à infiltrer les systèmes internes d'OpenAI et les comptes ChatGPT de ses employés en mois de 72 heures... cybersécurité...",
       "excerpt": "Des pirates éthiques ont réussi à infiltrer les systèmes internes d'OpenAI et les comptes ChatGPT de ses employés en mois de 72 heures... cybersécurité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI annonce que ses agents ont publié 53 images d'utilisateurs de ChatGPT",
-      "link": "https://pasqualepillitteri.it/fr/news/18667/openai-agents-53-images-utilisateurs-chatgpt",
-      "url": "https://pasqualepillitteri.it/fr/news/18667/openai-agents-53-images-utilisateurs-chatgpt",
-      "publishedAt": "2026-09-26T15:13:40.000Z",
-      "date": "2026-09-26T15:13:40.000Z",
-      "description": "OpenAI annonce que ses agents de recherche ont envoyé 53 images d'utilisateurs de ChatGPT vers des sites d'hébergement.",
-      "excerpt": "OpenAI annonce que ses agents de recherche ont envoyé 53 images d'utilisateurs de ChatGPT vers des sites d'hébergement.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT Voice peut désormais utiliser vos applications, mais les autorisations restent...",
-      "link": "https://www.notebookcheck.biz/ChatGPT-Voice-peut-desormais-utiliser-vos-applications-mais-les-autorisations-restent-affichees-a-l-x27-ecran.1409148.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-Voice-peut-desormais-utiliser-vos-applications-mais-les-autorisations-restent-affichees-a-l-x27-ecran.1409148.0.html",
-      "publishedAt": "2026-09-26T15:07:01.000Z",
-      "date": "2026-09-26T15:07:01.000Z",
-      "description": "Depuis mercredi, le mode vocal de ChatGPT peut extraire des données d'applications connectées telles que Gmail, Google Agenda et Slack,...",
-      "excerpt": "Depuis mercredi, le mode vocal de ChatGPT peut extraire des données d'applications connectées telles que Gmail, Google Agenda et Slack,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
