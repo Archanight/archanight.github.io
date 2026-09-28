@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T02:38:04.756Z",
+  "generatedAt": "2026-09-28T12:22:55.627Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "16 000 tentatives de piratage contre l'ONU: des ChatGPT ont aspiré des données pendant des mois",
+      "link": "https://www.01net.com/actualites/16-000-tentatives-piratage-chatgpt-aspire-donnees-site-onu.html",
+      "url": "https://www.01net.com/actualites/16-000-tentatives-piratage-chatgpt-aspire-donnees-site-onu.html",
+      "publishedAt": "2026-09-28T08:01:03.000Z",
+      "date": "2026-09-28T08:01:03.000Z",
+      "description": "Pour Alex Stamos, un expert en cybersécurité interrogé par le Wall Street Journal, l'incident se situe à la frontière du piratage. Le chercheur y voit...",
+      "excerpt": "Pour Alex Stamos, un expert en cybersécurité interrogé par le Wall Street Journal, l'incident se situe à la frontière du piratage. Le chercheur y voit...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Maps, une nouvelle façon de chercher un lieu en France face à Google Maps et...",
+      "link": "https://www.frandroid.com/marques/openai/3262407_chatgpt-maps-une-nouvelle-facon-de-chercher-un-lieu-en-france-face-a-google-maps-et-apple-plans",
+      "url": "https://www.frandroid.com/marques/openai/3262407_chatgpt-maps-une-nouvelle-facon-de-chercher-un-lieu-en-france-face-a-google-maps-et-apple-plans",
+      "publishedAt": "2026-09-28T07:37:33.000Z",
+      "date": "2026-09-28T07:37:33.000Z",
+      "description": "ChatGPT (OpenAI) Intelligence artificielle Société Google Maps OpenAI ChatGPT OpenStreetMap... Processeurs ( SoC ) · Snapdragon 8 Elite Gen 6 et 8 Elite...",
+      "excerpt": "ChatGPT (OpenAI) Intelligence artificielle Société Google Maps OpenAI ChatGPT OpenStreetMap... Processeurs ( SoC ) · Snapdragon 8 Elite Gen 6 et 8 Elite...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google déploie la September 2026 Spam Update: ce qu'il faut savoir - LEPTIDIGITAL",
+      "link": "https://www.leptidigital.fr/webmarketing/seo/google-september-2026-spam-update-92022/",
+      "url": "https://www.leptidigital.fr/webmarketing/seo/google-september-2026-spam-update-92022/",
+      "publishedAt": "2026-09-28T07:15:30.000Z",
+      "date": "2026-09-28T07:15:30.000Z",
+      "description": "Imaginez la puissance de Claude, ChatGPT et Gemini combinés, 100... Pour rappel, il ne faut pas confondre une spam update avec une core update...",
+      "excerpt": "Imaginez la puissance de Claude, ChatGPT et Gemini combinés, 100... Pour rappel, il ne faut pas confondre une spam update avec une core update...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "YouTube, Facebook, Wikipedia, Forbes: ChatGPT cite beaucoup moins ces domaines",
+      "link": "https://www.abondance.com/20260928-2976087-youtube-facebook-wikipedia-forbes-chute-citations-chatgpt.html",
+      "url": "https://www.abondance.com/20260928-2976087-youtube-facebook-wikipedia-forbes-chute-citations-chatgpt.html",
+      "publishedAt": "2026-09-28T06:57:31.000Z",
+      "date": "2026-09-28T06:57:31.000Z",
+      "description": "Ce qu'il faut retenir: Selon David Konitzny (Peec AI), YouTube a perdu 91 % de sa part des citations de ChatGPT par rapport à août,...",
+      "excerpt": "Ce qu'il faut retenir: Selon David Konitzny (Peec AI), YouTube a perdu 91 % de sa part des citations de ChatGPT par rapport à août,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Vous utilisez ChatGPT pour faire des images? Attention, certaines se sont retrouvées en ligne",
+      "link": "https://www.capital.fr/conso/vous-utilisez-chatgpt-pour-faire-des-images-attention-certaines-se-sont-retrouvees-en-ligne-1530524",
+      "url": "https://www.capital.fr/conso/vous-utilisez-chatgpt-pour-faire-des-images-attention-certaines-se-sont-retrouvees-en-ligne-1530524",
+      "publishedAt": "2026-09-28T06:41:40.000Z",
+      "date": "2026-09-28T06:41:40.000Z",
+      "description": "... ChatGPT par des internautes.... Thèmes associés. OpenAI · intelligence artificielle · technologie · Cybersécurité...",
+      "excerpt": "... ChatGPT par des internautes.... Thèmes associés. OpenAI · intelligence artificielle · technologie · Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Line-up des Assises de la cybersécurité 2026 - Global Security Mag",
       "link": "http://www.globalsecuritymag.fr/line-up-des-assises-de-la-cybersecurite-2026.html",
@@ -78,56 +128,6 @@
       "description": "Smartphone affichant une galerie de photos. Des agents OpenAI ont publié 53 images issues de conversations sur ChatGPT sur des sites d'hébergement d'...",
       "excerpt": "Smartphone affichant une galerie de photos. Des agents OpenAI ont publié 53 images issues de conversations sur ChatGPT sur des sites d'hébergement d'...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Mode vocal de ChatGPT: l'option à cocher d'urgence pour qu'il ne fouille pas vos e-mails",
-      "link": "https://selectra.info/telecom/actualites/marche/chatgpt-vocal-lit-mails-agenda",
-      "url": "https://selectra.info/telecom/actualites/marche/chatgpt-vocal-lit-mails-agenda",
-      "publishedAt": "2026-09-27T10:07:34.000Z",
-      "date": "2026-09-27T10:07:34.000Z",
-      "description": "Depuis le 23 septembre, le mode vocal de ChatGPT peut consulter Gmail et Google Agenda... Selon les notes de version publiées par OpenAI, le mode vocal...",
-      "excerpt": "Depuis le 23 septembre, le mode vocal de ChatGPT peut consulter Gmail et Google Agenda... Selon les notes de version publiées par OpenAI, le mode vocal...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Publicité dans ChatGPT gratuit: ce que l'IA lit dans votre conversation pour choisir l'annonce",
-      "link": "https://selectra.info/telecom/actualites/marche/publicite-chatgpt-gratuit-ce-que-l-annonce-sait",
-      "url": "https://selectra.info/telecom/actualites/marche/publicite-chatgpt-gratuit-ce-que-l-annonce-sait",
-      "publishedAt": "2026-09-27T08:31:12.000Z",
-      "date": "2026-09-27T08:31:12.000Z",
-      "description": "Depuis le 24 août, ChatGPT gratuit affiche des publicités en France: ce qui sert à choisir l'annonce, ce que reçoit la marque et les réglages à...",
-      "excerpt": "Depuis le 24 août, ChatGPT gratuit affiche des publicités en France: ce qui sert à choisir l'annonce, ce que reçoit la marque et les réglages à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI reconnaît que ses outils ont mis en ligne par erreur des images d'utilisateurs de ChatGPT",
-      "link": "https://www.boursedirect.fr/fr/actualites/categorie/economie-et-finances/openai-reconnait-que-ses-outils-ont-mis-en-ligne-par-erreur-des-images-d-utilisateurs-de-chatgpt-afp-a37f890447c3f322d97f83035bf8e9137bedd029",
-      "url": "https://www.boursedirect.fr/fr/actualites/categorie/economie-et-finances/openai-reconnait-que-ses-outils-ont-mis-en-ligne-par-erreur-des-images-d-utilisateurs-de-chatgpt-afp-a37f890447c3f322d97f83035bf8e9137bedd029",
-      "publishedAt": "2026-09-26T21:01:46.000Z",
-      "date": "2026-09-26T21:01:46.000Z",
-      "description": "OpenAI reconnaît que ses outils ont mis en ligne par erreur des images d'utilisateurs de ChatGPT... Cybersécurité: Airbus va empêcher les secrets l'...",
-      "excerpt": "OpenAI reconnaît que ses outils ont mis en ligne par erreur des images d'utilisateurs de ChatGPT... Cybersécurité: Airbus va empêcher les secrets l'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Meta prépare Muse pour lunettes et gadget type Tamagotchi - Brief IA",
-      "link": "https://www.briefia.fr/article/meta-prepare-muse-pour-lunettes-et-gadget-type-tamagotchi",
-      "url": "https://www.briefia.fr/article/meta-prepare-muse-pour-lunettes-et-gadget-type-tamagotchi",
-      "publishedAt": "2026-09-26T19:10:26.000Z",
-      "date": "2026-09-26T19:10:26.000Z",
-      "description": "Meta prépare Muse pour des lunettes connectées et un appareil de type Tamagotchi Muse dépasserait les premiers chiffres de ChatGPT selon des...",
-      "excerpt": "Meta prépare Muse pour des lunettes connectées et un appareil de type Tamagotchi Muse dépasserait les premiers chiffres de ChatGPT selon des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des pirates \"white hat\" ont compromis OpenAI en moins de trois jours à l'aide de l'IA Claude!",
-      "link": "https://sciencepost.fr/ces-pirates-white-hat-ont-compromis-openai-en-moins-de-trois-jours-a-laide-de-lia-claude/",
-      "url": "https://sciencepost.fr/ces-pirates-white-hat-ont-compromis-openai-en-moins-de-trois-jours-a-laide-de-lia-claude/",
-      "publishedAt": "2026-09-26T17:54:33.000Z",
-      "date": "2026-09-26T17:54:33.000Z",
-      "description": "Des pirates éthiques ont réussi à infiltrer les systèmes internes d'OpenAI et les comptes ChatGPT de ses employés en mois de 72 heures... cybersécurité...",
-      "excerpt": "Des pirates éthiques ont réussi à infiltrer les systèmes internes d'OpenAI et les comptes ChatGPT de ses employés en mois de 72 heures... cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
