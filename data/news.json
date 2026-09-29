@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T22:45:45.328Z",
+  "generatedAt": "2026-09-29T03:20:43.423Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,16 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Floride: interdire l'anthropomorphisme de ChatGPT - Brief IA",
+      "link": "https://www.briefia.fr/article/floride-interdire-l-anthropomorphisme-de-chatgpt",
+      "url": "https://www.briefia.fr/article/floride-interdire-l-anthropomorphisme-de-chatgpt",
+      "publishedAt": "2026-09-28T23:48:42.000Z",
+      "date": "2026-09-28T23:48:42.000Z",
+      "description": "La Floride demande d'interdire à OpenAI de donner à ChatGPT des caractéristiques humaines Le dépôt réclame aussi l'obligation de garde-fous de...",
+      "excerpt": "La Floride demande d'interdire à OpenAI de donner à ChatGPT des caractéristiques humaines Le dépôt réclame aussi l'obligation de garde-fous de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "La Floride demande l'interdiction pour ChatGPT de se faire passer pour une personne",
       "link": "https://www.lefilia.fr/article/6242931-la-floride-demande-l-interdiction-pour-chatgpt-de-se-faire-passer-pour-une-personne",
       "url": "https://www.lefilia.fr/article/6242931-la-floride-demande-l-interdiction-pour-chatgpt-de-se-faire-passer-pour-une-personne",
@@ -17,6 +27,16 @@
       "date": "2026-09-28T20:29:35.000Z",
       "description": "... ChatGPT »... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
       "excerpt": "... ChatGPT »... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude et ChatGPT semblent moins intelligents après chaque mise à jour ou lors de pics d'affluence",
+      "link": "https://www.lefilia.fr/article/6241628-claude-et-chatgpt-semblent-moins-intelligents-apres-chaque-mise-a-jour-ou-lors-de-pics-d-affluence-simple-biais-ou-realite",
+      "url": "https://www.lefilia.fr/article/6241628-claude-et-chatgpt-semblent-moins-intelligents-apres-chaque-mise-a-jour-ou-lors-de-pics-d-affluence-simple-biais-ou-realite",
+      "publishedAt": "2026-09-28T20:29:31.000Z",
+      "date": "2026-09-28T20:29:31.000Z",
+      "description": "Depuis l'arrivée des grands modèles de langage grand public, un scénario se répète à chaque sortie de Claude ou de ChatGPT: un accueil...",
+      "excerpt": "Depuis l'arrivée des grands modèles de langage grand public, un scénario se répète à chaque sortie de Claude ou de ChatGPT: un accueil...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -107,26 +127,6 @@
       "date": "2026-09-28T14:08:13.000Z",
       "description": "Des agents de ChatGPT ont publié sur le Web des photos envoyées par des utilisateurs, de leur propre initiative. OpenAI a retiré l'essentiel des...",
       "excerpt": "Des agents de ChatGPT ont publié sur le Web des photos envoyées par des utilisateurs, de leur propre initiative. OpenAI a retiré l'essentiel des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Ads en France ouvre une nouvelle bataille pour le choix du consommateur",
-      "link": "https://www.journaldunet.com/adtech/1555279-chatgpt-ads-en-france-ouvre-une-nouvelle-bataille-pour-le-choix-du-consommateur/",
-      "url": "https://www.journaldunet.com/adtech/1555279-chatgpt-ads-en-france-ouvre-une-nouvelle-bataille-pour-le-choix-du-consommateur/",
-      "publishedAt": "2026-09-28T13:42:30.000Z",
-      "date": "2026-09-28T13:42:30.000Z",
-      "description": "Cybersécurité · Adtech · Big data · Carrière · Fintech · e-RH · IoT · Martech... ChatGPT Ads en France ouvre une nouvelle bataille pour le choix du...",
-      "excerpt": "Cybersécurité · Adtech · Big data · Carrière · Fintech · e-RH · IoT · Martech... ChatGPT Ads en France ouvre une nouvelle bataille pour le choix du...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'autonomie technologique européenne se construit là où les capacités deviennent stratégiques.",
-      "link": "https://www.challenges.fr/partenaires/lautonomie-technologique-europeenne-se-construit-la-ou-les-capacites-deviennent-strategiques_646036",
-      "url": "https://www.challenges.fr/partenaires/lautonomie-technologique-europeenne-se-construit-la-ou-les-capacites-deviennent-strategiques_646036",
-      "publishedAt": "2026-09-28T13:28:48.000Z",
-      "date": "2026-09-28T13:28:48.000Z",
-      "description": "L'intelligence artificielle n'a pas commencé avec ChatGPT. Dans la cybersécurité, des mécanismes d'IA sont utilisés depuis la fin des années 1990. La...",
-      "excerpt": "L'intelligence artificielle n'a pas commencé avec ChatGPT. Dans la cybersécurité, des mécanismes d'IA sont utilisés depuis la fin des années 1990. La...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
