@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T03:20:43.423Z",
+  "generatedAt": "2026-09-29T11:49:02.229Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,106 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Google déploie Gemini 3.8 Flash et un nouveau modèle axé sur la cybersécurité",
+      "link": "https://almcorp.com/fr/news/google-gemini-3-8-flash-and-cyber-model-launch/",
+      "url": "https://almcorp.com/fr/news/google-gemini-3-8-flash-and-cyber-model-launch/",
+      "publishedAt": "2026-09-29T08:31:23.000Z",
+      "date": "2026-09-29T08:31:23.000Z",
+      "description": "ChatGPT a discrètement développé son propre moteur de recherche. Emilio Fuentes 25 septembre. Pendant des années, la plupart des spécialistes du...",
+      "excerpt": "ChatGPT a discrètement développé son propre moteur de recherche. Emilio Fuentes 25 septembre. Pendant des années, la plupart des spécialistes du...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cybersécurité: des agents IA autonomes ont volé 600.000 cartes de crédit - RTBF Actus",
+      "link": "https://www.rtbf.be/article/cybersecurite-des-agents-ia-autonomes-ont-vole-600-000-cartes-de-credit-11792095",
+      "url": "https://www.rtbf.be/article/cybersecurite-des-agents-ia-autonomes-ont-vole-600-000-cartes-de-credit-11792095",
+      "publishedAt": "2026-09-29T08:30:57.000Z",
+      "date": "2026-09-29T08:30:57.000Z",
+      "description": "Selon la firme de cybersécurité Gambit Security, qui a découvert l'opération, l'attaque a été coordonnée par une...",
+      "excerpt": "Selon la firme de cybersécurité Gambit Security, qui a découvert l'opération, l'attaque a été coordonnée par une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Sur le dark web, \"une économie en pleine croissance associée à l'accès à l'IA\", entre... - BFM",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/sur-le-dark-web-une-economie-en-pleine-croissance-associee-a-l-acces-a-l-ia-entre-comptes-claude-chat-gpt-et-gemini-voles-et-revendus-et-puissance-de-calcul-detournee_AV-202609290308.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/sur-le-dark-web-une-economie-en-pleine-croissance-associee-a-l-acces-a-l-ia-entre-comptes-claude-chat-gpt-et-gemini-voles-et-revendus-et-puissance-de-calcul-detournee_AV-202609290308.html",
+      "publishedAt": "2026-09-29T08:28:23.000Z",
+      "date": "2026-09-29T08:28:23.000Z",
+      "description": "... ChatGPT et Gemini, mais aussi celui des ressources informatiques. Ce... cybersécurité devait donc en faire de même. Il prêche bien...",
+      "excerpt": "... ChatGPT et Gemini, mais aussi celui des ressources informatiques. Ce... cybersécurité devait donc en faire de même. Il prêche bien...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI annule la sortie du nouveau ChatGPT pour « garantir la sécurité » de ses IA",
+      "link": "https://www.01net.com/actualites/openai-annule-sortie-nouveau-chatgpt-garantir-securite.html",
+      "url": "https://www.01net.com/actualites/openai-annule-sortie-nouveau-chatgpt-garantir-securite.html",
+      "publishedAt": "2026-09-29T08:01:29.000Z",
+      "date": "2026-09-29T08:01:29.000Z",
+      "description": "OpenAI annule la sortie du nouveau ChatGPT pour « garantir la sécurité » de ses IA... Cybersécurité · Société · Télécoms · Auto · Médias · Politique &...",
+      "excerpt": "OpenAI annule la sortie du nouveau ChatGPT pour « garantir la sécurité » de ses IA... Cybersécurité · Société · Télécoms · Auto · Médias · Politique &...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI renforce sa cybersécurité après un incident en Australie. - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/openai-tang-cuong-an-ninh-mang-sau-su-co-tai-australia",
+      "url": "https://www.vietnam.vn/fr/openai-tang-cuong-an-ninh-mang-sau-su-co-tai-australia",
+      "publishedAt": "2026-09-29T07:37:18.000Z",
+      "date": "2026-09-29T07:37:18.000Z",
+      "description": "... cybersécurité après qu... OpenAI a découvert que son agent d'IA avait téléchargé 53 photos d'utilisateurs de ChatGPT en ligne sans autorisation.",
+      "excerpt": "... cybersécurité après qu... OpenAI a découvert que son agent d'IA avait téléchargé 53 photos d'utilisateurs de ChatGPT en ligne sans autorisation.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Pourquoi ChatGPT et Gemini ne recommandent pas les mêmes enseignes",
+      "link": "https://lavienumerique.com/articles/211099/pourquoi-chatgpt-et-gemini-ne-recommandent-pas-les-memes-enseignes.html",
+      "url": "https://lavienumerique.com/articles/211099/pourquoi-chatgpt-et-gemini-ne-recommandent-pas-les-memes-enseignes.html",
+      "publishedAt": "2026-09-29T05:50:20.000Z",
+      "date": "2026-09-29T05:50:20.000Z",
+      "description": "Pourquoi ChatGPT et Gemini ne recommandent pas les mêmes enseignes. lundi... Cybersécurité: les Français maîtrisent les bases mais restent...",
+      "excerpt": "Pourquoi ChatGPT et Gemini ne recommandent pas les mêmes enseignes. lundi... Cybersécurité: les Français maîtrisent les bases mais restent...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Baromètre France Num 2026: 40 % des TPE PME utilisent l'IA, 39 % ont subi un incident cyber",
+      "link": "https://itrnews.com/articles/211095/barometre-france-num-2026-40-des-tpe-pme-utilisent-lia-39-ont-subi-un-incident-cyber.html",
+      "url": "https://itrnews.com/articles/211095/barometre-france-num-2026-40-des-tpe-pme-utilisent-lia-39-ont-subi-un-incident-cyber.html",
+      "publishedAt": "2026-09-29T05:45:53.000Z",
+      "date": "2026-09-29T05:45:53.000Z",
+      "description": "Pourquoi ChatGPT et Gemini ne recommandent pas les mêmes enseignes · Cybersécurité: les Français maîtrisent les bases mais restent vulnérables à l'...",
+      "excerpt": "Pourquoi ChatGPT et Gemini ne recommandent pas les mêmes enseignes · Cybersécurité: les Français maîtrisent les bases mais restent vulnérables à l'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "SNL parodie Dario Amodei et ses alertes sur l'IA - Brief IA",
+      "link": "https://www.briefia.fr/article/snl-parodie-dario-amodei-et-ses-alertes-sur-l-ia",
+      "url": "https://www.briefia.fr/article/snl-parodie-dario-amodei-et-ses-alertes-sur-l-ia",
+      "publishedAt": "2026-09-29T04:13:11.000Z",
+      "date": "2026-09-29T04:13:11.000Z",
+      "description": "Un outil nommé « o » a été repéré dans ChatGPT Pro, présenté comme un assistant toujours actif • Une mention « email » a été relevée dans le code...",
+      "excerpt": "Un outil nommé « o » a été repéré dans ChatGPT Pro, présenté comme un assistant toujours actif • Une mention « email » a été relevée dans le code...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI regrette de ne pas avoir prévenu \"plus tôt\" l'Australie d'une intrusion de son IA, se dit \"désolé\"",
+      "link": "https://fr.tradingview.com/news/afp:98540766c7f46:0/",
+      "url": "https://fr.tradingview.com/news/afp:98540766c7f46:0/",
+      "publishedAt": "2026-09-29T03:30:12.000Z",
+      "date": "2026-09-29T03:30:12.000Z",
+      "description": "Au total, quatre plateformes du gouvernement australien ont été visées par l'IA du créateur de ChatGPT... cybersécurité. OpenAI a expliqué n...",
+      "excerpt": "Au total, quatre plateformes du gouvernement australien ont été visées par l'IA du créateur de ChatGPT... cybersécurité. OpenAI a expliqué n...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI reporte GPT-6.1 Astra après des tests de sécurité révélant une tromperie - IndexBox",
+      "link": "https://www.indexbox.io/fr/blog/openai-halts-gpt-61-astra-release-over-safety-concerns/",
+      "url": "https://www.indexbox.io/fr/blog/openai-halts-gpt-61-astra-release-over-safety-concerns/",
+      "publishedAt": "2026-09-29T00:23:38.000Z",
+      "date": "2026-09-29T00:23:38.000Z",
+      "description": "Saachi Jain, responsable de la sécurité chez la maison mère de ChatGPT, a déclaré lundi au Journal qu'Astra n'avait pas atteint les normes de l'...",
+      "excerpt": "Saachi Jain, responsable de la sécurité chez la maison mère de ChatGPT, a déclaré lundi au Journal qu'Astra n'avait pas atteint les normes de l'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Floride: interdire l'anthropomorphisme de ChatGPT - Brief IA",
       "link": "https://www.briefia.fr/article/floride-interdire-l-anthropomorphisme-de-chatgpt",
@@ -27,106 +127,6 @@
       "date": "2026-09-28T20:29:35.000Z",
       "description": "... ChatGPT »... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
       "excerpt": "... ChatGPT »... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude et ChatGPT semblent moins intelligents après chaque mise à jour ou lors de pics d'affluence",
-      "link": "https://www.lefilia.fr/article/6241628-claude-et-chatgpt-semblent-moins-intelligents-apres-chaque-mise-a-jour-ou-lors-de-pics-d-affluence-simple-biais-ou-realite",
-      "url": "https://www.lefilia.fr/article/6241628-claude-et-chatgpt-semblent-moins-intelligents-apres-chaque-mise-a-jour-ou-lors-de-pics-d-affluence-simple-biais-ou-realite",
-      "publishedAt": "2026-09-28T20:29:31.000Z",
-      "date": "2026-09-28T20:29:31.000Z",
-      "description": "Depuis l'arrivée des grands modèles de langage grand public, un scénario se répète à chaque sortie de Claude ou de ChatGPT: un accueil...",
-      "excerpt": "Depuis l'arrivée des grands modèles de langage grand public, un scénario se répète à chaque sortie de Claude ou de ChatGPT: un accueil...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Manulife Financial Corporation lance un nouveau plug-in CoverMe dans ChatGPT pour...",
-      "link": "https://www.zonebourse.com/actualite-bourse/manulife-financial-corporation-lance-un-nouveau-plug-in-coverme-dans-chatgpt-pour-obtenir-des-devis-ce785adcdf8cff25",
-      "url": "https://www.zonebourse.com/actualite-bourse/manulife-financial-corporation-lance-un-nouveau-plug-in-coverme-dans-chatgpt-pour-obtenir-des-devis-ce785adcdf8cff25",
-      "publishedAt": "2026-09-28T19:10:45.000Z",
-      "date": "2026-09-28T19:10:45.000Z",
-      "description": "Manulife Financial Corporation a annoncé le lancement d'un nouveau plug-in CoverMe dans ChatGPT, permettant aux Canadiens d'explorer plus...",
-      "excerpt": "Manulife Financial Corporation a annoncé le lancement d'un nouveau plug-in CoverMe dans ChatGPT, permettant aux Canadiens d'explorer plus...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La Floride demande au tribunal d'enjoindre OpenAI et le PDG Sam Altman pendant le procès",
-      "link": "https://www.unite.ai/fr/florida-asks-court-to-enjoin-openai-and-ceo-sam-altman-during-lawsuit/",
-      "url": "https://www.unite.ai/fr/florida-asks-court-to-enjoin-openai-and-ceo-sam-altman-during-lawsuit/",
-      "publishedAt": "2026-09-28T17:07:19.000Z",
-      "date": "2026-09-28T17:07:19.000Z",
-      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT aux mineurs en Floride; collecter ou traiter des données d...",
-      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT aux mineurs en Floride; collecter ou traiter des données d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: \"o\", l'assistant toujours actif préparé par OpenAI - Clubic",
-      "link": "https://www.clubic.com/actualite-631627-chatgpt-o-l-assistant-toujours-actif-prepare-par-openai.html",
-      "url": "https://www.clubic.com/actualite-631627-chatgpt-o-l-assistant-toujours-actif-prepare-par-openai.html",
-      "publishedAt": "2026-09-28T16:32:44.000Z",
-      "date": "2026-09-28T16:32:44.000Z",
-      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... ChatGPT: \"o\", l'assistant toujours actif préparé par OpenAI. ParSamir...",
-      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... ChatGPT: \"o\", l'assistant toujours actif préparé par OpenAI. ParSamir...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude et ChatGPT semblent moins intelligents après chaque mise à jour ou lors de pics d'affluence",
-      "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3263025_claude-et-chatgpt-semblent-moins-intelligents-apres-chaque-mise-a-jour-ou-lors-de-pics-daffluence-simple-biais-ou-realite",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3263025_claude-et-chatgpt-semblent-moins-intelligents-apres-chaque-mise-a-jour-ou-lors-de-pics-daffluence-simple-biais-ou-realite",
-      "publishedAt": "2026-09-28T16:04:40.000Z",
-      "date": "2026-09-28T16:04:40.000Z",
-      "description": "Cet été-là, des chercheurs de Stanford et Berkeley avaient constaté que GPT-4... Au lancement de GPT-5 en août 2025, le trafic de l'API a doublé...",
-      "excerpt": "Cet été-là, des chercheurs de Stanford et Berkeley avaient constaté que GPT-4... Au lancement de GPT-5 en août 2025, le trafic de l'API a doublé...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Gemini 4: Google s'impatiente de la sortie de son nouveau modèle - Clubic",
-      "link": "https://www.clubic.com/actualite-631564-gemini-4-google-s-impatiente-de-la-sortie-de-son-nouveau-modele.html",
-      "url": "https://www.clubic.com/actualite-631564-gemini-4-google-s-impatiente-de-la-sortie-de-son-nouveau-modele.html",
-      "publishedAt": "2026-09-28T15:57:36.000Z",
-      "date": "2026-09-28T15:57:36.000Z",
-      "description": "Du retard face à la concurrence de ChatGPT et Claude. Ce lancement... Le coup de grâce pour ChatGPT? Gemini 3.0 pourrait sortir bien plus...",
-      "excerpt": "Du retard face à la concurrence de ChatGPT et Claude. Ce lancement... Le coup de grâce pour ChatGPT? Gemini 3.0 pourrait sortir bien plus...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Les IA de ChatGPT ont piraté des sites gouvernementaux américains, OpenAI arrête tout",
-      "link": "https://elwatan.dz/les-ia-de-chatgpt-ont-pirate-des-sites-gouvernementaux-americains-openai-arrete-tout/",
-      "url": "https://elwatan.dz/les-ia-de-chatgpt-ont-pirate-des-sites-gouvernementaux-americains-openai-arrete-tout/",
-      "publishedAt": "2026-09-28T14:49:39.000Z",
-      "date": "2026-09-28T14:49:39.000Z",
-      "description": "ChatGPT AIs hacked US... The most consequential assessment remains the internal warning embedded in the organization's own framework release...",
-      "excerpt": "ChatGPT AIs hacked US... The most consequential assessment remains the internal warning embedded in the organization's own framework release...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI suspend l'entraînement de ses modèles IA les plus avancés - Courrier international",
-      "link": "https://www.courrierinternational.com/article/technologie-openai-suspend-l-entrainement-de-ses-modeles-ia-les-plus-avances_274670",
-      "url": "https://www.courrierinternational.com/article/technologie-openai-suspend-l-entrainement-de-ses-modeles-ia-les-plus-avances_274670",
-      "publishedAt": "2026-09-28T14:17:27.000Z",
-      "date": "2026-09-28T14:17:27.000Z",
-      "description": "... ChatGPT ” et que “ses modèles avaient tenté de pirater le site web... Cybercriminalité et cybersécurité Nouvelles technologies ChatGPT Amériques.",
-      "excerpt": "... ChatGPT ” et que “ses modèles avaient tenté de pirater le site web... Cybercriminalité et cybersécurité Nouvelles technologies ChatGPT Amériques.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA: le vrai danger n'est pas celui qu'on croit - Les Echos",
-      "link": "https://www.lesechos.fr/idees-debats/editos-analyses/ia-le-vrai-danger-nest-pas-celui-quon-croit-2253851",
-      "url": "https://www.lesechos.fr/idees-debats/editos-analyses/ia-le-vrai-danger-nest-pas-celui-quon-croit-2253851",
-      "publishedAt": "2026-09-28T14:11:48.000Z",
-      "date": "2026-09-28T14:11:48.000Z",
-      "description": "Lors du développement d'un prédécesseur de ChatGPT, en 2019, OpenAI avait... cybersécurité comme la cyberattaque contre Hugging Face en juillet.",
-      "excerpt": "Lors du développement d'un prédécesseur de ChatGPT, en 2019, OpenAI avait... cybersécurité comme la cyberattaque contre Hugging Face en juillet.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Scandale chez OpenAI: ChatGPT a publié les images de certains utilisateurs sur Internet",
-      "link": "https://www.01net.com/actualites/scandale-chez-openai-chatgpt-a-publie-les-images-de-certains-utilisateurs-sur-internet.html",
-      "url": "https://www.01net.com/actualites/scandale-chez-openai-chatgpt-a-publie-les-images-de-certains-utilisateurs-sur-internet.html",
-      "publishedAt": "2026-09-28T14:08:13.000Z",
-      "date": "2026-09-28T14:08:13.000Z",
-      "description": "Des agents de ChatGPT ont publié sur le Web des photos envoyées par des utilisateurs, de leur propre initiative. OpenAI a retiré l'essentiel des...",
-      "excerpt": "Des agents de ChatGPT ont publié sur le Web des photos envoyées par des utilisateurs, de leur propre initiative. OpenAI a retiré l'essentiel des...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
