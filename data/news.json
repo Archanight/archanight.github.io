@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T17:15:08.795Z",
+  "generatedAt": "2026-09-30T21:40:13.178Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,116 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Google lance un nouveau modèle d'IA mais en limite l'accès à des experts en cybersécurité",
+      "link": "https://www.dhnet.be/actu/new-tech/2026/09/30/google-lance-un-nouveau-modele-dia-mais-en-limite-lacces-a-des-experts-en-cybersecurite-5NQ3EF2U7JBPFHB7ILRRKGTJRE/",
+      "url": "https://www.dhnet.be/actu/new-tech/2026/09/30/google-lance-un-nouveau-modele-dia-mais-en-limite-lacces-a-des-experts-en-cybersecurite-5NQ3EF2U7JBPFHB7ILRRKGTJRE/",
+      "publishedAt": "2026-09-30T21:01:46.000Z",
+      "date": "2026-09-30T21:01:46.000Z",
+      "description": "Google lance un nouveau modèle d'IA mais en limite l'accès à des experts en cybersécurité. Le géant américain Google a dévoilé mercredi Gemini 4...",
+      "excerpt": "Google lance un nouveau modèle d'IA mais en limite l'accès à des experts en cybersécurité. Le géant américain Google a dévoilé mercredi Gemini 4...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le plan d'OpenAI et Meta pour tuer les ordinateurs - Décode: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/le-plan-d-openai-et-meta-pour-tuer-les-ordinateurs-decode-CNT000002sedwM.html",
+      "url": "https://actu.orange.fr/videos/high-tech/le-plan-d-openai-et-meta-pour-tuer-les-ordinateurs-decode-CNT000002sedwM.html",
+      "publishedAt": "2026-09-30T20:58:56.000Z",
+      "date": "2026-09-30T20:58:56.000Z",
+      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés... ChatGPT est déjà mort, mais OpenAI ne le sait pas encore. Tous publics...",
+      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés... ChatGPT est déjà mort, mais OpenAI ne le sait pas encore. Tous publics...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "« Dots »: OpenAI lance des agents IA autonomes qui travaillent 24 h/24 - Abondance",
+      "link": "https://www.abondance.com/20260930-2981273-dots-openai-lance-des-agents-ia-autonomes-qui-travaillent-24-h-24.html",
+      "url": "https://www.abondance.com/20260930-2981273-dots-openai-lance-des-agents-ia-autonomes-qui-travaillent-24-h-24.html",
+      "publishedAt": "2026-09-30T19:56:45.000Z",
+      "date": "2026-09-30T19:56:45.000Z",
+      "description": "OpenAI a présenté le 29 septembre 2026 les « dots », des agents IA toujours actifs intégrés à ChatGPT et propulsés par le modèle GPT 6 Astra.",
+      "excerpt": "OpenAI a présenté le 29 septembre 2026 les « dots », des agents IA toujours actifs intégrés à ChatGPT et propulsés par le modèle GPT 6 Astra.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Le point aveugle politique de ChatGPT constitue un risque pour les investisseurs - Securities.io",
+      "link": "https://www.securities.io/fr/ai-political-analysis-investment-risk/",
+      "url": "https://www.securities.io/fr/ai-political-analysis-investment-risk/",
+      "publishedAt": "2026-09-30T19:41:08.000Z",
+      "date": "2026-09-30T19:41:08.000Z",
+      "description": "Cybersécurité · Actifs numériques · Titres numériques · Forex · Entretiens... ChatGPT a comprimé les différences entre partis et penché vers la...",
+      "excerpt": "Cybersécurité · Actifs numériques · Titres numériques · Forex · Entretiens... ChatGPT a comprimé les différences entre partis et penché vers la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Windows 11 26H2 est officiellement disponible, voici comment l'installer - Clubic",
+      "link": "https://www.clubic.com/actualite-631906-windows-11-26h2-est-officiellement-disponible-voici-comment-l-installer.html",
+      "url": "https://www.clubic.com/actualite-631906-windows-11-26h2-est-officiellement-disponible-voici-comment-l-installer.html",
+      "publishedAt": "2026-09-30T19:15:26.000Z",
+      "date": "2026-09-30T19:15:26.000Z",
+      "description": "Disponible depuis le 29 septembre sur les PC compatibles, la Windows 11 2026 Update fait l'objet d'un déploiement progressif qui s'étendra durant les...",
+      "excerpt": "Disponible depuis le 29 septembre sur les PC compatibles, la Windows 11 2026 Update fait l'objet d'un déploiement progressif qui s'étendra durant les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI Dots: 10 cas d'usage concrets à envisager pour les pros du marketing",
+      "link": "https://www.leptidigital.fr/intelligence-artificielle-ia/openai-dots-cas-usage-concrets-pros-marketing-92043/",
+      "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/openai-dots-cas-usage-concrets-pros-marketing-92043/",
+      "publishedAt": "2026-09-30T18:43:56.000Z",
+      "date": "2026-09-30T18:43:56.000Z",
+      "description": "OpenAI a lancé lors de son Dev day du 29 septembre 2026 les dots, des agents ChatGPT qui tournent en continu sur GPT-6 Astra, avec leur propre...",
+      "excerpt": "OpenAI a lancé lors de son Dev day du 29 septembre 2026 les dots, des agents ChatGPT qui tournent en continu sur GPT-6 Astra, avec leur propre...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Un assistant IA détecte des risques liés aux licences Java et à la sécurité",
+      "link": "https://b2b-cyber-security.de/fr/Un-assistant-IA-d%C3%A9tecte-des-risques-li%C3%A9s-aux-licences-Java-et-%C3%A0-la-s%C3%A9curit%C3%A9/",
+      "url": "https://b2b-cyber-security.de/fr/Un-assistant-IA-d%C3%A9tecte-des-risques-li%C3%A9s-aux-licences-Java-et-%C3%A0-la-s%C3%A9curit%C3%A9/",
+      "publishedAt": "2026-09-30T18:21:58.000Z",
+      "date": "2026-09-30T18:21:58.000Z",
+      "description": "... GPT-5 qui a identifié et signalé de manière... Le Centre national de cybersécurité du Royaume-Uni estime que les outils de cybersécurité...",
+      "excerpt": "... GPT-5 qui a identifié et signalé de manière... Le Centre national de cybersécurité du Royaume-Uni estime que les outils de cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance Space et Pages, les slides suivront - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-lance-space-et-pages-les-slides-suivront",
+      "url": "https://www.briefia.fr/article/openai-lance-space-et-pages-les-slides-suivront",
+      "publishedAt": "2026-09-30T16:36:37.000Z",
+      "date": "2026-09-30T16:36:37.000Z",
+      "description": "... ChatGPT comme une suite bureautique, en réponse à la concurrence d'Anthropic.... OpenAI déploie GPT-6 Astra, bond en bureautique et cybersécurité...",
+      "excerpt": "... ChatGPT comme une suite bureautique, en réponse à la concurrence d'Anthropic.... OpenAI déploie GPT-6 Astra, bond en bureautique et cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI annonce Dots!: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/openai-annonce-dots-CNT000002sdYn5.html",
+      "url": "https://actu.orange.fr/videos/high-tech/openai-annonce-dots-CNT000002sdYn5.html",
+      "publishedAt": "2026-09-30T16:17:11.000Z",
+      "date": "2026-09-30T16:17:11.000Z",
+      "description": "ChatGPT c'est le passé, OpenAI vient d'annoncer Dots! On vous explique... Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés...",
+      "excerpt": "ChatGPT c'est le passé, OpenAI vient d'annoncer Dots! On vous explique... Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le résumé des annonces d'OpenAI lors du DevDay 2026: dots, ChatGPT Space, Codex…",
+      "link": "https://www.blogdumoderateur.com/resume-annonces-openai-devday-2026/",
+      "url": "https://www.blogdumoderateur.com/resume-annonces-openai-devday-2026/",
+      "publishedAt": "2026-09-30T16:11:53.000Z",
+      "date": "2026-09-30T16:11:53.000Z",
+      "description": "Bousculé par Anthropic, et plus récemment par Meta avec le lancement de Muse, le créateur de ChatGPT a voulu marquer les esprits.",
+      "excerpt": "Bousculé par Anthropic, et plus récemment par Meta avec le lancement de Muse, le créateur de ChatGPT a voulu marquer les esprits.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT Plus dans d'autres applications: la déconnexion n'interrompt pas l'utilisation",
+      "link": "https://www.notebookcheck.biz/ChatGPT-Plus-dans-d-autres-applications-la-deconnexion-n-interrompt-pas-l-utilisation.1412342.0.html",
+      "url": "https://www.notebookcheck.biz/ChatGPT-Plus-dans-d-autres-applications-la-deconnexion-n-interrompt-pas-l-utilisation.1412342.0.html",
+      "publishedAt": "2026-09-30T15:38:06.000Z",
+      "date": "2026-09-30T15:38:06.000Z",
+      "description": "... ChatGPT dans d'autres applications et sur d'autres sites · OpenAI: récapitulatif du DevDay 2026 · Centre d'aide OpenAI: notes de version de ChatGPT.",
+      "excerpt": "... ChatGPT dans d'autres applications et sur d'autres sites · OpenAI: récapitulatif du DevDay 2026 · Centre d'aide OpenAI: notes de version de ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Android dit non à l'Union européenne: Google refuse d'ouvrir l'OS à ChatGPT et Claude",
       "link": "https://www.01net.com/actualites/android-dit-non-a-lunion-europeenne-google-refuse-douvrir-los-a-chatgpt-et-claude.html",
       "url": "https://www.01net.com/actualites/android-dit-non-a-lunion-europeenne-google-refuse-douvrir-los-a-chatgpt-et-claude.html",
@@ -17,116 +127,6 @@
       "date": "2026-09-30T15:35:07.000Z",
       "description": "Android dit non à l'Union européenne: Google refuse d'ouvrir l'OS à ChatGPT et Claude... Cybersécurité · Société · Télécoms · Auto · Médias...",
       "excerpt": "Android dit non à l'Union européenne: Google refuse d'ouvrir l'OS à ChatGPT et Claude... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Chat GPT à 500 dollars?!: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/high-tech/chat-gpt-a-500-dollars-CNT000002sdMpF.html",
-      "url": "https://actu.orange.fr/videos/high-tech/chat-gpt-a-500-dollars-CNT000002sdMpF.html",
-      "publishedAt": "2026-09-30T13:04:20.000Z",
-      "date": "2026-09-30T13:04:20.000Z",
-      "description": "ChatGPT lance un abonnement à 500 dollars, c'est quoi ça?? Suivez... Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés Apple.",
-      "excerpt": "ChatGPT lance un abonnement à 500 dollars, c'est quoi ça?? Suivez... Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés Apple.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ce que l'on sait sur le code de bonne conduite signé par les géants américains de l'IA",
-      "link": "https://fr.tradingview.com/news/afp:acdc8c39bc374:0/",
-      "url": "https://fr.tradingview.com/news/afp:acdc8c39bc374:0/",
-      "publishedAt": "2026-09-30T10:56:27.000Z",
-      "date": "2026-09-30T10:56:27.000Z",
-      "description": "... ChatGPT, de politiques, notamment dans le camp démocrate aux États-Unis... cybersécurité \" et de \"biosécurité\". L'objectif est ainsi de...",
-      "excerpt": "... ChatGPT, de politiques, notamment dans le camp démocrate aux États-Unis... cybersécurité \" et de \"biosécurité\". L'objectif est ainsi de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT est-il votre nouvelle alternative à Google Workspace? Découvrez Space, Pages et Slides",
-      "link": "https://www.zdnet.fr/actualites/chatgpt-est-il-votre-nouvelle-alternative-a-google-workspace-decouvrez-space-pages-et-slides-504757.htm",
-      "url": "https://www.zdnet.fr/actualites/chatgpt-est-il-votre-nouvelle-alternative-a-google-workspace-decouvrez-space-pages-et-slides-504757.htm",
-      "publishedAt": "2026-09-30T10:53:49.000Z",
-      "date": "2026-09-30T10:53:49.000Z",
-      "description": "... ChatGPT.... Entre incidents de cybersécurité liés à ses agents autonomes...",
-      "excerpt": "... ChatGPT.... Entre incidents de cybersécurité liés à ses agents autonomes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT peut conduire une Toyota Corolla à votre place sans entraînement, la preuve",
-      "link": "https://www.phonandroid.com/chatgpt-peut-conduire-une-toyota-corolla-a-votre-place-sans-entrainement-la-preuve.html",
-      "url": "https://www.phonandroid.com/chatgpt-peut-conduire-une-toyota-corolla-a-votre-place-sans-entrainement-la-preuve.html",
-      "publishedAt": "2026-09-30T10:11:39.000Z",
-      "date": "2026-09-30T10:11:39.000Z",
-      "description": "Pas besoin d'une IA spécialement entraînée à la conduite pour que votre voiture se déplace toute seule. ChatGPT suffit. Enfin presque... Cybersécurité...",
-      "excerpt": "Pas besoin d'une IA spécialement entraînée à la conduite pour que votre voiture se déplace toute seule. ChatGPT suffit. Enfin presque... Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI propose à ses abonnés un agent toujours actif, « dots », que la DSI doit encadrer",
-      "link": "https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-actualites/openai-propose-a-ses-abonnes-un-agent-toujours-actif-dots-que-les-dsi-doivent-apprendre-a-encadrer/",
-      "url": "https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-actualites/openai-propose-a-ses-abonnes-un-agent-toujours-actif-dots-que-les-dsi-doivent-apprendre-a-encadrer/",
-      "publishedAt": "2026-09-30T10:03:38.000Z",
-      "date": "2026-09-30T10:03:38.000Z",
-      "description": "... ChatGPT, Slack ou Teams. OpenAI décrit un agent... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "excerpt": "... ChatGPT, Slack ou Teams. OpenAI décrit un agent... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Malgré les alertes de cybersécurité, OpenAI lance Dots, son agent IA à tout faire",
-      "link": "https://www.latribune.fr/article/tech/intelligence-artificielle/25475047722306/malgre-les-alertes-de-cybersecurite-openai-lance-dots-son-agent-ia-a-tout-faire",
-      "url": "https://www.latribune.fr/article/tech/intelligence-artificielle/25475047722306/malgre-les-alertes-de-cybersecurite-openai-lance-dots-son-agent-ia-a-tout-faire",
-      "publishedAt": "2026-09-30T09:42:09.000Z",
-      "date": "2026-09-30T09:42:09.000Z",
-      "description": "... ChatGPT Pro. Le lancement intervient après plusieurs incidents de cybersécurité impliquant ses modèles, qui interrogent la capacité de ces...",
-      "excerpt": "... ChatGPT Pro. Le lancement intervient après plusieurs incidents de cybersécurité impliquant ses modèles, qui interrogent la capacité de ces...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-6.1 Sol: performances, tarifs et disponibilité du nouveau modèle d'OpenAI - BDM",
-      "link": "https://www.blogdumoderateur.com/gpt-6-1-sol-performances-tarifs-disponibilite-nouveau-modele-openai/",
-      "url": "https://www.blogdumoderateur.com/gpt-6-1-sol-performances-tarifs-disponibilite-nouveau-modele-openai/",
-      "publishedAt": "2026-09-30T09:27:50.000Z",
-      "date": "2026-09-30T09:27:50.000Z",
-      "description": "Une version jusqu'à huit fois plus rapide selon OpenAI, GPT-6.1 Sol Ultrafast, est accessible dans l'API, ainsi que dans ChatGPT Work et Codex avec la...",
-      "excerpt": "Une version jusqu'à huit fois plus rapide selon OpenAI, GPT-6.1 Sol Ultrafast, est accessible dans l'API, ainsi que dans ChatGPT Work et Codex avec la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT va bientôt brider votre abonnement et gentiment vous proposer de payer deux fois plus",
-      "link": "https://www.phonandroid.com/chatgpt-va-bientot-brider-votre-abonnement-et-gentiment-vous-proposer-de-payer-deux-fois-plus.html",
-      "url": "https://www.phonandroid.com/chatgpt-va-bientot-brider-votre-abonnement-et-gentiment-vous-proposer-de-payer-deux-fois-plus.html",
-      "publishedAt": "2026-09-30T09:23:38.000Z",
-      "date": "2026-09-30T09:23:38.000Z",
-      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT va bientôt brider votre abonnement et gentiment vous proposer de...",
-      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT va bientôt brider votre abonnement et gentiment vous proposer de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT franchit le milliard d'utilisateurs par semaine: ce que ça change au quotidien",
-      "link": "https://mcetv.ouest-france.fr/2026/chatgpt-milliard-utilisateurs-semaine-openai/",
-      "url": "https://mcetv.ouest-france.fr/2026/chatgpt-milliard-utilisateurs-semaine-openai/",
-      "publishedAt": "2026-09-30T09:12:32.000Z",
-      "date": "2026-09-30T09:12:32.000Z",
-      "description": "ChatGPT compte désormais plus d'1,2 milliard d... cybersécurité. Ce que ça change pour les utilisateurs au quotidien.",
-      "excerpt": "ChatGPT compte désormais plus d'1,2 milliard d... cybersécurité. Ce que ça change pour les utilisateurs au quotidien.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le risque de fuite de données personnelles lié à la tendance de la création de photos par IA...",
-      "link": "https://www.vietnam.vn/fr/nguy-co-lo-du-lieu-ca-nhan-tu-trao-luu-tao-anh-ai-thap-nien-80",
-      "url": "https://www.vietnam.vn/fr/nguy-co-lo-du-lieu-ca-nhan-tu-trao-luu-tao-anh-ai-thap-nien-80",
-      "publishedAt": "2026-09-30T08:34:22.000Z",
-      "date": "2026-09-30T08:34:22.000Z",
-      "description": "Le département de la cybersécurité et de la prévention de la criminalité de haute technologie de la police de la ville de Quang Ninh recommande aux...",
-      "excerpt": "Le département de la cybersécurité et de la prévention de la criminalité de haute technologie de la police de la ville de Quang Ninh recommande aux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Intelligence artificielle: ChatGPT est utilisé chaque semaine par plus d'1,2 milliard de...",
-      "link": "https://www.sudouest.fr/sciences-et-technologie/intelligence-artificielle/intelligence-artificielle-chatgpt-est-utilise-chaque-semaine-par-plus-d-1-2-milliard-de-personnes-selon-openai-30846757.php",
-      "url": "https://www.sudouest.fr/sciences-et-technologie/intelligence-artificielle/intelligence-artificielle-chatgpt-est-utilise-chaque-semaine-par-plus-d-1-2-milliard-de-personnes-selon-openai-30846757.php",
-      "publishedAt": "2026-09-30T07:54:02.000Z",
-      "date": "2026-09-30T07:54:02.000Z",
-      "description": "Le créateur de ChatGPT, qui revendique plus d'un milliard d'utilisateurs hebdomadaires, a dévoilé de nouveaux outils et un modèle moins coûteux...",
-      "excerpt": "Le créateur de ChatGPT, qui revendique plus d'un milliard d'utilisateurs hebdomadaires, a dévoilé de nouveaux outils et un modèle moins coûteux...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
