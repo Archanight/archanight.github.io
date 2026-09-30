@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:35:32.512Z",
+  "generatedAt": "2026-09-30T17:15:08.795Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,36 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Android dit non à l'Union européenne: Google refuse d'ouvrir l'OS à ChatGPT et Claude",
+      "link": "https://www.01net.com/actualites/android-dit-non-a-lunion-europeenne-google-refuse-douvrir-los-a-chatgpt-et-claude.html",
+      "url": "https://www.01net.com/actualites/android-dit-non-a-lunion-europeenne-google-refuse-douvrir-los-a-chatgpt-et-claude.html",
+      "publishedAt": "2026-09-30T15:35:07.000Z",
+      "date": "2026-09-30T15:35:07.000Z",
+      "description": "Android dit non à l'Union européenne: Google refuse d'ouvrir l'OS à ChatGPT et Claude... Cybersécurité · Société · Télécoms · Auto · Médias...",
+      "excerpt": "Android dit non à l'Union européenne: Google refuse d'ouvrir l'OS à ChatGPT et Claude... Cybersécurité · Société · Télécoms · Auto · Médias...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Chat GPT à 500 dollars?!: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/chat-gpt-a-500-dollars-CNT000002sdMpF.html",
+      "url": "https://actu.orange.fr/videos/high-tech/chat-gpt-a-500-dollars-CNT000002sdMpF.html",
+      "publishedAt": "2026-09-30T13:04:20.000Z",
+      "date": "2026-09-30T13:04:20.000Z",
+      "description": "ChatGPT lance un abonnement à 500 dollars, c'est quoi ça?? Suivez... Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés Apple.",
+      "excerpt": "ChatGPT lance un abonnement à 500 dollars, c'est quoi ça?? Suivez... Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés Apple.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Ce que l'on sait sur le code de bonne conduite signé par les géants américains de l'IA",
+      "link": "https://fr.tradingview.com/news/afp:acdc8c39bc374:0/",
+      "url": "https://fr.tradingview.com/news/afp:acdc8c39bc374:0/",
+      "publishedAt": "2026-09-30T10:56:27.000Z",
+      "date": "2026-09-30T10:56:27.000Z",
+      "description": "... ChatGPT, de politiques, notamment dans le camp démocrate aux États-Unis... cybersécurité \" et de \"biosécurité\". L'objectif est ainsi de...",
+      "excerpt": "... ChatGPT, de politiques, notamment dans le camp démocrate aux États-Unis... cybersécurité \" et de \"biosécurité\". L'objectif est ainsi de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "ChatGPT est-il votre nouvelle alternative à Google Workspace? Découvrez Space, Pages et Slides",
       "link": "https://www.zdnet.fr/actualites/chatgpt-est-il-votre-nouvelle-alternative-a-google-workspace-decouvrez-space-pages-et-slides-504757.htm",
       "url": "https://www.zdnet.fr/actualites/chatgpt-est-il-votre-nouvelle-alternative-a-google-workspace-decouvrez-space-pages-et-slides-504757.htm",
@@ -17,6 +47,16 @@
       "date": "2026-09-30T10:53:49.000Z",
       "description": "... ChatGPT.... Entre incidents de cybersécurité liés à ses agents autonomes...",
       "excerpt": "... ChatGPT.... Entre incidents de cybersécurité liés à ses agents autonomes...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT peut conduire une Toyota Corolla à votre place sans entraînement, la preuve",
+      "link": "https://www.phonandroid.com/chatgpt-peut-conduire-une-toyota-corolla-a-votre-place-sans-entrainement-la-preuve.html",
+      "url": "https://www.phonandroid.com/chatgpt-peut-conduire-une-toyota-corolla-a-votre-place-sans-entrainement-la-preuve.html",
+      "publishedAt": "2026-09-30T10:11:39.000Z",
+      "date": "2026-09-30T10:11:39.000Z",
+      "description": "Pas besoin d'une IA spécialement entraînée à la conduite pour que votre voiture se déplace toute seule. ChatGPT suffit. Enfin presque... Cybersécurité...",
+      "excerpt": "Pas besoin d'une IA spécialement entraînée à la conduite pour que votre voiture se déplace toute seule. ChatGPT suffit. Enfin presque... Cybersécurité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -87,46 +127,6 @@
       "date": "2026-09-30T07:54:02.000Z",
       "description": "Le créateur de ChatGPT, qui revendique plus d'un milliard d'utilisateurs hebdomadaires, a dévoilé de nouveaux outils et un modèle moins coûteux...",
       "excerpt": "Le créateur de ChatGPT, qui revendique plus d'un milliard d'utilisateurs hebdomadaires, a dévoilé de nouveaux outils et un modèle moins coûteux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT sauve un père de famille en repérant ce que personne n'avait vu durant le dîner",
-      "link": "https://www.phonandroid.com/chatgpt-sauve-un-pere-de-famille-en-reperant-ce-que-personne-navait-vu-durant-le-diner.html",
-      "url": "https://www.phonandroid.com/chatgpt-sauve-un-pere-de-famille-en-reperant-ce-que-personne-navait-vu-durant-le-diner.html",
-      "publishedAt": "2026-09-30T07:06:27.000Z",
-      "date": "2026-09-30T07:06:27.000Z",
-      "description": "ChatGPT a lu les symptômes d'un père de famille attablé avec les siens, sa... Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-...",
-      "excerpt": "ChatGPT a lu les symptômes d'un père de famille attablé avec les siens, sa... Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI réplique à Meta et Instinct avec ses agents personnels Dots - Les Echos",
-      "link": "https://www.lesechos.fr/tech-medias/intelligence-artificielle/openai-replique-a-meta-et-instinct-avec-ses-agents-personnels-dots-2254176",
-      "url": "https://www.lesechos.fr/tech-medias/intelligence-artificielle/openai-replique-a-meta-et-instinct-avec-ses-agents-personnels-dots-2254176",
-      "publishedAt": "2026-09-30T06:07:46.000Z",
-      "date": "2026-09-30T06:07:46.000Z",
-      "description": "L'entreprise à l'origine de ChatGPT n'a pas ralenti le rythme auquel elle égrène ses nouveaux produits. Elle vient de dévoiler plus de vingt...",
-      "excerpt": "L'entreprise à l'origine de ChatGPT n'a pas ralenti le rythme auquel elle égrène ses nouveaux produits. Elle vient de dévoiler plus de vingt...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI dévoile GPT-6.1 Sol, un modèle qui talonne Astra mais passe au rouge en cybersécurité",
-      "link": "https://leclaireur.fnac.com/article/694588-openai-devoile-gpt-6-1-sol-un-modele-qui-talonne-astra-mais-passe-au-rouge-en-cybersecurite/",
-      "url": "https://leclaireur.fnac.com/article/694588-openai-devoile-gpt-6-1-sol-un-modele-qui-talonne-astra-mais-passe-au-rouge-en-cybersecurite/",
-      "publishedAt": "2026-09-30T06:06:52.000Z",
-      "date": "2026-09-30T06:06:52.000Z",
-      "description": "... cybersécurité... La guerre des IA: ChatGPT -6 Sol/Luna et Claude Opus 5.5 dévoilés à...",
-      "excerpt": "... cybersécurité... La guerre des IA: ChatGPT -6 Sol/Luna et Claude Opus 5.5 dévoilés à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Exiptel et Avanguard unissent leurs forces - ITRnews",
-      "link": "https://itrnews.com/articles/211112/exiptel-et-avanguard-unissent-leurs-forces.html",
-      "url": "https://itrnews.com/articles/211112/exiptel-et-avanguard-unissent-leurs-forces.html",
-      "publishedAt": "2026-09-30T04:45:49.000Z",
-      "date": "2026-09-30T04:45:49.000Z",
-      "description": "... DevOps et à l'ensemble du périmètre de la cybersécurité. En réponse aux... Pourquoi ChatGPT et Gemini ne recommandent pas les mêmes enseignes.",
-      "excerpt": "... DevOps et à l'ensemble du périmètre de la cybersécurité. En réponse aux... Pourquoi ChatGPT et Gemini ne recommandent pas les mêmes enseignes.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
