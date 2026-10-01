@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T21:40:13.178Z",
+  "generatedAt": "2026-10-01T03:09:37.122Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Google lance un nouveau modèle d'IA, mais en limite l'accès à des experts en cybersécurité",
+      "link": "https://www.journaldequebec.com/2026/09/30/google-lance-un-nouveau-modele-dia-mais-en-limite-lacces-a-des-experts-en-cybersecurite",
+      "url": "https://www.journaldequebec.com/2026/09/30/google-lance-un-nouveau-modele-dia-mais-en-limite-lacces-a-des-experts-en-cybersecurite",
+      "publishedAt": "2026-10-01T01:20:32.000Z",
+      "date": "2026-10-01T01:20:32.000Z",
+      "description": "... cybersécurité. Le robot conversationnel Gemini est la réponse de...",
+      "excerpt": "... cybersécurité. Le robot conversationnel Gemini est la réponse de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google mise sur Gemini 4 Argon pour la cybersécurité - Brief IA",
+      "link": "https://www.briefia.fr/article/google-mise-sur-gemini-4-argon-pour-la-cybersecurite",
+      "url": "https://www.briefia.fr/article/google-mise-sur-gemini-4-argon-pour-la-cybersecurite",
+      "publishedAt": "2026-10-01T01:16:55.000Z",
+      "date": "2026-10-01T01:16:55.000Z",
+      "description": "... cybersécurité et la performance technique.... Audience professionnelle française · Référencé Google News · Cité par ChatGPT, Claude et Perplexity",
+      "excerpt": "... cybersécurité et la performance technique.... Audience professionnelle française · Référencé Google News · Cité par ChatGPT, Claude et Perplexity",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "America.gov connaît-il aussi bien la politique relative au bitcoin que ChatGPT et Claude...",
+      "link": "https://news.bitcoin.com/fr/regulation-and-legal/america-gov-connait-il-aussi-bien-la-politique-relative-au-bitcoin-que-chatgpt-et-claude-nous-avons-pose-la-question/",
+      "url": "https://news.bitcoin.com/fr/regulation-and-legal/america-gov-connait-il-aussi-bien-la-politique-relative-au-bitcoin-que-chatgpt-et-claude-nous-avons-pose-la-question/",
+      "publishedAt": "2026-09-30T22:33:50.000Z",
+      "date": "2026-09-30T22:33:50.000Z",
+      "description": "America.gov, Claude et ChatGPT répondent à 12 questions sur la réglementation du bitcoin et des cryptomonnaies. Voici une comparaison de leurs...",
+      "excerpt": "America.gov, Claude et ChatGPT répondent à 12 questions sur la réglementation du bitcoin et des cryptomonnaies. Voici une comparaison de leurs...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Google lance un nouveau modèle d'IA mais en limite l'accès à des experts en cybersécurité",
       "link": "https://www.dhnet.be/actu/new-tech/2026/09/30/google-lance-un-nouveau-modele-dia-mais-en-limite-lacces-a-des-experts-en-cybersecurite-5NQ3EF2U7JBPFHB7ILRRKGTJRE/",
@@ -97,36 +127,6 @@
       "date": "2026-09-30T16:17:11.000Z",
       "description": "ChatGPT c'est le passé, OpenAI vient d'annoncer Dots! On vous explique... Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés...",
       "excerpt": "ChatGPT c'est le passé, OpenAI vient d'annoncer Dots! On vous explique... Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le résumé des annonces d'OpenAI lors du DevDay 2026: dots, ChatGPT Space, Codex…",
-      "link": "https://www.blogdumoderateur.com/resume-annonces-openai-devday-2026/",
-      "url": "https://www.blogdumoderateur.com/resume-annonces-openai-devday-2026/",
-      "publishedAt": "2026-09-30T16:11:53.000Z",
-      "date": "2026-09-30T16:11:53.000Z",
-      "description": "Bousculé par Anthropic, et plus récemment par Meta avec le lancement de Muse, le créateur de ChatGPT a voulu marquer les esprits.",
-      "excerpt": "Bousculé par Anthropic, et plus récemment par Meta avec le lancement de Muse, le créateur de ChatGPT a voulu marquer les esprits.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT Plus dans d'autres applications: la déconnexion n'interrompt pas l'utilisation",
-      "link": "https://www.notebookcheck.biz/ChatGPT-Plus-dans-d-autres-applications-la-deconnexion-n-interrompt-pas-l-utilisation.1412342.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-Plus-dans-d-autres-applications-la-deconnexion-n-interrompt-pas-l-utilisation.1412342.0.html",
-      "publishedAt": "2026-09-30T15:38:06.000Z",
-      "date": "2026-09-30T15:38:06.000Z",
-      "description": "... ChatGPT dans d'autres applications et sur d'autres sites · OpenAI: récapitulatif du DevDay 2026 · Centre d'aide OpenAI: notes de version de ChatGPT.",
-      "excerpt": "... ChatGPT dans d'autres applications et sur d'autres sites · OpenAI: récapitulatif du DevDay 2026 · Centre d'aide OpenAI: notes de version de ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Android dit non à l'Union européenne: Google refuse d'ouvrir l'OS à ChatGPT et Claude",
-      "link": "https://www.01net.com/actualites/android-dit-non-a-lunion-europeenne-google-refuse-douvrir-los-a-chatgpt-et-claude.html",
-      "url": "https://www.01net.com/actualites/android-dit-non-a-lunion-europeenne-google-refuse-douvrir-los-a-chatgpt-et-claude.html",
-      "publishedAt": "2026-09-30T15:35:07.000Z",
-      "date": "2026-09-30T15:35:07.000Z",
-      "description": "Android dit non à l'Union européenne: Google refuse d'ouvrir l'OS à ChatGPT et Claude... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "excerpt": "Android dit non à l'Union européenne: Google refuse d'ouvrir l'OS à ChatGPT et Claude... Cybersécurité · Société · Télécoms · Auto · Médias...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
