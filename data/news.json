@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T03:11:14.227Z",
+  "generatedAt": "2026-10-02T11:35:26.507Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI envoie des alertes à plus de 100 organisations. - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/openai-gui-canh-bao-den-hon-100-to-chuc",
+      "url": "https://www.vietnam.vn/fr/openai-gui-canh-bao-den-hon-100-to-chuc",
+      "publishedAt": "2026-10-02T04:40:46.000Z",
+      "date": "2026-10-02T04:40:46.000Z",
+      "description": "Plus inquiétant encore, selon un rapport publié le 1er octobre par la société de cybersécurité Asymmetric Security, les agents développés par OpenAI...",
+      "excerpt": "Plus inquiétant encore, selon un rapport publié le 1er octobre par la société de cybersécurité Asymmetric Security, les agents développés par OpenAI...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Technologie du 2 octobre: ChatGPT sait tester des objets, la NASA construit un réseau 5G...",
       "link": "https://fr.laodong.vn/cong-nghe/cong-nghe-ngay-210-chatgpt-biet-thu-do-nasa-xay-mang-5g-tren-mat-trang-1776250.ldo",
@@ -117,16 +127,6 @@
       "date": "2026-10-01T16:02:03.000Z",
       "description": "Le nouveau Gemini à la traîne face à ChatGPT et Claude?... Il a seulement été déployé auprès d'un groupe de spécialistes de la cybersécurité de...",
       "excerpt": "Le nouveau Gemini à la traîne face à ChatGPT et Claude?... Il a seulement été déployé auprès d'un groupe de spécialistes de la cybersécurité de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google lance un nouveau modèle d'IA mais en limite l'accès à des experts en cybersécurité",
-      "link": "https://french.ahram.org.eg/News/93921.aspx",
-      "url": "https://french.ahram.org.eg/News/93921.aspx",
-      "publishedAt": "2026-10-01T15:45:33.000Z",
-      "date": "2026-10-01T15:45:33.000Z",
-      "description": "Google,lance,un,nouveau,modèle,dIA,mais,en,limite,laccès,à,des,experts,en, cybersécurité,-,Tech,-,Economie.... ChatGPT. # Microsoft intègre Word, Excel...",
-      "excerpt": "Google,lance,un,nouveau,modèle,dIA,mais,en,limite,laccès,à,des,experts,en, cybersécurité,-,Tech,-,Economie.... ChatGPT. # Microsoft intègre Word, Excel...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
