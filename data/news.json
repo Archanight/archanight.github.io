@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T22:07:55.167Z",
+  "generatedAt": "2026-10-02T03:11:14.227Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Technologie du 2 octobre: ChatGPT sait tester des objets, la NASA construit un réseau 5G...",
+      "link": "https://fr.laodong.vn/cong-nghe/cong-nghe-ngay-210-chatgpt-biet-thu-do-nasa-xay-mang-5g-tren-mat-trang-1776250.ldo",
+      "url": "https://fr.laodong.vn/cong-nghe/cong-nghe-ngay-210-chatgpt-biet-thu-do-nasa-xay-mang-5g-tren-mat-trang-1776250.ldo",
+      "publishedAt": "2026-10-02T02:11:43.000Z",
+      "date": "2026-10-02T02:11:43.000Z",
+      "description": "ChatGPT étend l... Selon les normes industrielles, Argon a des performances équivalentes à celles d'OpenAI pour les tests de cybersécurité...",
+      "excerpt": "ChatGPT étend l... Selon les normes industrielles, Argon a des performances équivalentes à celles d'OpenAI pour les tests de cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI DevDay 2026: Dots, GPT-6.1 Sol et Ultrafast annoncés | Brief IA",
+      "link": "https://www.briefia.fr/article/openai-devday-2026-dots-gpt-6-1-sol-et-ultrafast-annonces",
+      "url": "https://www.briefia.fr/article/openai-devday-2026-dots-gpt-6-1-sol-et-ultrafast-annonces",
+      "publishedAt": "2026-10-01T22:28:43.000Z",
+      "date": "2026-10-01T22:28:43.000Z",
+      "description": "Marketplace, l'API Decisions, des extensions de plugins et des avancées sur ChatGPT Sites sont dévoilés... cybersécurité de confiance » du programme...",
+      "excerpt": "Marketplace, l'API Decisions, des extensions de plugins et des avancées sur ChatGPT Sites sont dévoilés... cybersécurité de confiance » du programme...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Déjouer une campagne coordonnée de distillation de modèles | OpenAI",
+      "link": "https://openai.com/fr-FR/index/disrupting-a-coordinated-model-distillation-campaign/",
+      "url": "https://openai.com/fr-FR/index/disrupting-a-coordinated-model-distillation-campaign/",
+      "publishedAt": "2026-10-01T20:36:37.000Z",
+      "date": "2026-10-01T20:36:37.000Z",
+      "description": "Essayer ChatGPT (ouverture dans une nouvelle fenêtre) Connexion. OpenAI. 30 septembre 2026. Cybersécurité. Déjouer une campagne coordonnée de...",
+      "excerpt": "Essayer ChatGPT (ouverture dans une nouvelle fenêtre) Connexion. OpenAI. 30 septembre 2026. Cybersécurité. Déjouer une campagne coordonnée de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Google lance Gemini 4, mais que pour les experts cyber - 01/10: Actualités - Orange Actu",
       "link": "https://actu.orange.fr/videos/economie/google-lance-gemini-4-mais-que-pour-les-experts-cyber-01-10-CNT000002sfVjx.html",
@@ -97,36 +127,6 @@
       "date": "2026-10-01T15:45:33.000Z",
       "description": "Google,lance,un,nouveau,modèle,dIA,mais,en,limite,laccès,à,des,experts,en, cybersécurité,-,Tech,-,Economie.... ChatGPT. # Microsoft intègre Word, Excel...",
       "excerpt": "Google,lance,un,nouveau,modèle,dIA,mais,en,limite,laccès,à,des,experts,en, cybersécurité,-,Tech,-,Economie.... ChatGPT. # Microsoft intègre Word, Excel...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Une campagne ClickFix détourne les GPT personnalisés de ChatGPT pour diffuser un malware",
-      "link": "https://www.clubic.com/actualite-632089-une-campagne-clickfix-detourne-les-gpt-personnalises-de-chatgpt-pour-diffuser-un-malware.html",
-      "url": "https://www.clubic.com/actualite-632089-une-campagne-clickfix-detourne-les-gpt-personnalises-de-chatgpt-pour-diffuser-un-malware.html",
-      "publishedAt": "2026-10-01T15:42:20.000Z",
-      "date": "2026-10-01T15:42:20.000Z",
-      "description": "Cybersécurité · Cyber Pro. Une campagne ClickFix détourne les GPT... Les cybercriminels ont trouvé le moyen d'intégrer ChatGPT à leur chaîne d'...",
-      "excerpt": "Cybersécurité · Cyber Pro. Une campagne ClickFix détourne les GPT... Les cybercriminels ont trouvé le moyen d'intégrer ChatGPT à leur chaîne d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google lance Gemini 4 Argon pour des partenaires cybersécurité sélectionnés",
-      "link": "https://fr.dataconomy.com/2026/10/01/google-lance-gemini-4-argon-pour-des-partenaires-cybersecurite-selectionnes/",
-      "url": "https://fr.dataconomy.com/2026/10/01/google-lance-gemini-4-argon-pour-des-partenaires-cybersecurite-selectionnes/",
-      "publishedAt": "2026-10-01T15:37:25.000Z",
-      "date": "2026-10-01T15:37:25.000Z",
-      "description": "... cybersécurité. Argon est déployé uniquement auprès d'un groupe... ChatGPT d'OpenAI, qui a également récemment atteint un milliard d...",
-      "excerpt": "... cybersécurité. Argon est déployé uniquement auprès d'un groupe... ChatGPT d'OpenAI, qui a également récemment atteint un milliard d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google souhaite \"transformer radicalement notre manière de travailler\" avec Gemini 4 Argon...",
-      "link": "https://www.netcost-security.fr/mobilite/276479/google-souhaite-transformer-radicalement-notre-maniere-de-travailler-avec-gemini-4-argon-et-surpasser-chatgpt/",
-      "url": "https://www.netcost-security.fr/mobilite/276479/google-souhaite-transformer-radicalement-notre-maniere-de-travailler-avec-gemini-4-argon-et-surpasser-chatgpt/",
-      "publishedAt": "2026-10-01T15:37:07.000Z",
-      "date": "2026-10-01T15:37:07.000Z",
-      "description": "Ces domaines incluent la programmation, la finance ou la cybersécurité. Le déploiement initial sera progressif. Pour le moment, Argon n'est accessible...",
-      "excerpt": "Ces domaines incluent la programmation, la finance ou la cybersécurité. Le déploiement initial sera progressif. Pour le moment, Argon n'est accessible...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
