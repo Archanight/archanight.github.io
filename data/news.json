@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T21:35:17.864Z",
+  "generatedAt": "2026-10-03T02:57:20.279Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI lance l'essayage virtuel dans ChatGPT - Dataconomy FR",
+      "link": "https://fr.dataconomy.com/2026/10/02/openai-lance-lessayage-virtuel-dans-chatgpt/",
+      "url": "https://fr.dataconomy.com/2026/10/02/openai-lance-lessayage-virtuel-dans-chatgpt/",
+      "publishedAt": "2026-10-02T21:40:25.000Z",
+      "date": "2026-10-02T21:40:25.000Z",
+      "description": "ChatGPT Images 2.5 alimente des outils d'achat avec un éclairage... Google lance Gemini 4 Argon pour des partenaires cybersécurité sélectionnés.",
+      "excerpt": "ChatGPT Images 2.5 alimente des outils d'achat avec un éclairage... Google lance Gemini 4 Argon pour des partenaires cybersécurité sélectionnés.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Launches Virtual Clothing Try-On - Brief IA",
+      "link": "https://www.briefia.fr/en/article/chatgpt-lance-l-essayage-virtuel-de-vetements",
+      "url": "https://www.briefia.fr/en/article/chatgpt-lance-l-essayage-virtuel-de-vetements",
+      "publishedAt": "2026-10-02T21:25:59.000Z",
+      "date": "2026-10-02T21:25:59.000Z",
+      "description": "Before this official announcement, ChatGPT's image models were already capable of replacing a garment in a photo with an item found online.",
+      "excerpt": "Before this official announcement, ChatGPT's image models were already capable of replacing a garment in a photo with an item found online.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Release Notes Coverage Checker - ChatGPT",
+      "link": "https://chatgpt.com/plugins/plugin_asdk_app_6a5de9822aa48191851c41e1a4bbe049?locale=fr-FR",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a5de9822aa48191851c41e1a4bbe049?locale=fr-FR",
+      "publishedAt": "2026-10-02T19:35:08.000Z",
+      "date": "2026-10-02T19:35:08.000Z",
+      "description": "1.0.0. Politique de confidentialité. Conditions de service. Lorsque vous êtes connecté à Release Notes Coverage Checker, ChatGPT peut partager avec...",
+      "excerpt": "1.0.0. Politique de confidentialité. Conditions de service. Lorsque vous êtes connecté à Release Notes Coverage Checker, ChatGPT peut partager avec...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Guide des modèles de la famille GPT-6 - OpenAI",
       "link": "https://openai.com/fr-FR/index/practical-guide-building-gpt-6/",
@@ -98,36 +128,6 @@
       "description": "OpenAI & ChatGPT · Jeux Vidéo · Finance... Quelques semaines plus tard est arrivée la version 7.1.2, la cinquième release de sécurité sur le noyau...",
       "excerpt": "OpenAI & ChatGPT · Jeux Vidéo · Finance... Quelques semaines plus tard est arrivée la version 7.1.2, la cinquième release de sécurité sur le noyau...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI découvre une nouvelle faille dans les systèmes informatiques du gouvernement australien.",
-      "link": "https://www.vietnam.vn/fr/openai-phat-hien-them-vu-xam-nhap-he-thong-chinh-phu-australia",
-      "url": "https://www.vietnam.vn/fr/openai-phat-hien-them-vu-xam-nhap-he-thong-chinh-phu-australia",
-      "publishedAt": "2026-10-02T15:30:35.000Z",
-      "date": "2026-10-02T15:30:35.000Z",
-      "description": "L'agence de cybersécurité de Nouvelle-Galles du Sud collabore actuellement avec la Direction australienne du renseignement électromagnétique (ASD)...",
-      "excerpt": "L'agence de cybersécurité de Nouvelle-Galles du Sud collabore actuellement avec la Direction australienne du renseignement électromagnétique (ASD)...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Données des clients sur ChatGPT et Claude, comment les anonymiser selon le RGPD",
-      "link": "https://pasqualepillitteri.it/fr/news/19971/anonymiser-donnees-clients-ia-rgpd",
-      "url": "https://pasqualepillitteri.it/fr/news/19971/anonymiser-donnees-clients-ia-rgpd",
-      "publishedAt": "2026-10-02T15:07:38.000Z",
-      "date": "2026-10-02T15:07:38.000Z",
-      "description": "Coller le nom, l'IBAN ou le numéro fiscal d'un client dans ChatGPT ou Claude est un traitement de données au sens de l'article 28 du RGPD.",
-      "excerpt": "Coller le nom, l'IBAN ou le numéro fiscal d'un client dans ChatGPT ou Claude est un traitement de données au sens de l'article 28 du RGPD.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT, suite collaborative: OpenAI s'en approche - Silicon.fr",
-      "link": "https://www.silicon.fr/workspace-1376/chatgpt-suite-collaborative-229492/amp",
-      "url": "https://www.silicon.fr/workspace-1376/chatgpt-suite-collaborative-229492/amp",
-      "publishedAt": "2026-10-02T15:01:36.000Z",
-      "date": "2026-10-02T15:01:36.000Z",
-      "description": "ChatGPT, suite collaborative: OpenAI s'en approche. ChatGPT suite... Cybersécurité · OpenAI alerte plus de 100 organisations sur les...",
-      "excerpt": "ChatGPT, suite collaborative: OpenAI s'en approche. ChatGPT suite... Cybersécurité · OpenAI alerte plus de 100 organisations sur les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
