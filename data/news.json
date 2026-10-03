@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T15:25:31.186Z",
+  "generatedAt": "2026-10-03T20:21:01.519Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,26 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Créativité des agents LLM: GPT-5 juge mieux que les embeddings - Brief IA",
+      "link": "https://www.briefia.fr/article/creativite-des-agents-llm-gpt-5-juge-mieux-que-les-embeddings",
+      "url": "https://www.briefia.fr/article/creativite-des-agents-llm-gpt-5-juge-mieux-que-les-embeddings",
+      "publishedAt": "2026-10-03T16:24:53.000Z",
+      "date": "2026-10-03T16:24:53.000Z",
+      "description": "Gemini 4 Argon introduit un contexte de 1 million de tokens et cible des tâches complexes, notamment en cybersécurité... ChatGPT, 30 min pour l'API...",
+      "excerpt": "Gemini 4 Argon introduit un contexte de 1 million de tokens et cible des tâches complexes, notamment en cybersécurité... ChatGPT, 30 min pour l'API...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Chatham étend son expertise des marchés financiers avec OpenAI",
+      "link": "https://openai.com/fr-FR/index/chatham-financial/",
+      "url": "https://openai.com/fr-FR/index/chatham-financial/",
+      "publishedAt": "2026-10-03T05:06:53.000Z",
+      "date": "2026-10-03T05:06:53.000Z",
+      "description": "ChatGPT for Education (ouverture dans une nouvelle fenêtre) · Codex · Dots (ouverture dans une nouvelle fenêtre) · Notes de version. Plateforme API.",
+      "excerpt": "ChatGPT for Education (ouverture dans une nouvelle fenêtre) · Codex · Dots (ouverture dans une nouvelle fenêtre) · Notes de version. Plateforme API.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "La sécurité de ChatGPT fait l'objet d'un audit. OpenAI décide de ce que les auditeurs examinent",
       "link": "https://businessmodelanalyst.com/fr/openai-incendies-chercheurs-securite-evaluateur-limitation-de-la-portee/",
       "url": "https://businessmodelanalyst.com/fr/openai-incendies-chercheurs-securite-evaluateur-limitation-de-la-portee/",
@@ -18,6 +38,16 @@
       "description": "La sécurité de ChatGPT fait l'objet d'un audit. OpenAI décide de ce que... cybersécurité impliquant ses modèles, prolongeant ainsi l'enquête...",
       "excerpt": "La sécurité de ChatGPT fait l'objet d'un audit. OpenAI décide de ce que... cybersécurité impliquant ses modèles, prolongeant ainsi l'enquête...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Apple Requires Explicit Approval for Full Disk Access on macOS - Brief IA",
+      "link": "https://www.briefia.fr/en/article/apple-requires-explicit-approval-for-full-disk-access-on-macos",
+      "url": "https://www.briefia.fr/en/article/apple-requires-explicit-approval-for-full-disk-access-on-macos",
+      "publishedAt": "2026-10-03T03:21:17.000Z",
+      "date": "2026-10-03T03:21:17.000Z",
+      "description": "The announcement comes after reports concerning AI applications on Mac.... A vulnerability in the Mac version of ChatGPT may have allowed hackers to...",
+      "excerpt": "The announcement comes after reports concerning AI applications on Mac.... A vulnerability in the Mac version of ChatGPT may have allowed hackers to...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "OpenAI lance l'essayage virtuel dans ChatGPT - Dataconomy FR",
@@ -98,36 +128,6 @@
       "description": "Cybersécurité: les Français maîtrisent les bases mais restent... Pourquoi ChatGPT et Gemini ne recommandent pas les mêmes enseignes. lundi...",
       "excerpt": "Cybersécurité: les Français maîtrisent les bases mais restent... Pourquoi ChatGPT et Gemini ne recommandent pas les mêmes enseignes. lundi...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "80 % des TPE-PME se disent mal préparées face aux cyberattaques - ITRnews",
-      "link": "https://itrnews.com/articles/211145/80-des-tpe-pme-se-disent-mal-preparees-face-aux-cyberattaques.html",
-      "url": "https://itrnews.com/articles/211145/80-des-tpe-pme-se-disent-mal-preparees-face-aux-cyberattaques.html",
-      "publishedAt": "2026-10-02T16:50:26.000Z",
-      "date": "2026-10-02T16:50:26.000Z",
-      "description": "Pour Laurent Galvani, expert cybersécurité GRC et responsable avant-vente cybersécurité... Pourquoi ChatGPT et Gemini ne recommandent pas les...",
-      "excerpt": "Pour Laurent Galvani, expert cybersécurité GRC et responsable avant-vente cybersécurité... Pourquoi ChatGPT et Gemini ne recommandent pas les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "SFR Business lance SmartSOC Expert et fédère ses expertises cyber dans un SOC unique - infoDSI",
-      "link": "https://infodsi.com/articles/211146/sfr-business-lance-smartsoc-expert-et-federe-ses-expertises-cyber-dans-un-soc-unique.html",
-      "url": "https://infodsi.com/articles/211146/sfr-business-lance-smartsoc-expert-et-federe-ses-expertises-cyber-dans-un-soc-unique.html",
-      "publishedAt": "2026-10-02T16:49:59.000Z",
-      "date": "2026-10-02T16:49:59.000Z",
-      "description": "Cette mutualisation couvre SmartSOC Expert pour les ETI, SmartSOC pour les PME, CyberShield pour la protection anti-DDoS et plusieurs services SOC sur...",
-      "excerpt": "Cette mutualisation couvre SmartSOC Expert pour les ETI, SmartSOC pour les PME, CyberShield pour la protection anti-DDoS et plusieurs services SOC sur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un faux « Plus 5.6 » hébergé sur ChatGPT piège les utilisateurs avec un faux CAPTCHA",
-      "link": "https://global.techradar.com/fr-fr/pro/security/un-faux-plus-5-6-heberge-sur-chatgpt-piege-les-utilisateurs-avec-un-faux-captcha",
-      "url": "https://global.techradar.com/fr-fr/pro/security/un-faux-plus-5-6-heberge-sur-chatgpt-piege-les-utilisateurs-avec-un-faux-captcha",
-      "publishedAt": "2026-10-02T16:48:58.000Z",
-      "date": "2026-10-02T16:48:58.000Z",
-      "description": "Des cybercriminels utilisent des GPT personnalisés hébergés directement sur ChatGPT ainsi que plusieurs services Google afin de diffuser une campagne...",
-      "excerpt": "Des cybercriminels utilisent des GPT personnalisés hébergés directement sur ChatGPT ainsi que plusieurs services Google afin de diffuser une campagne...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
