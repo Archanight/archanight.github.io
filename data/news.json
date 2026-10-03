@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T02:57:20.279Z",
+  "generatedAt": "2026-10-03T10:49:25.735Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "La sécurité de ChatGPT fait l'objet d'un audit. OpenAI décide de ce que les auditeurs examinent",
+      "link": "https://businessmodelanalyst.com/fr/openai-incendies-chercheurs-securite-evaluateur-limitation-de-la-portee/",
+      "url": "https://businessmodelanalyst.com/fr/openai-incendies-chercheurs-securite-evaluateur-limitation-de-la-portee/",
+      "publishedAt": "2026-10-03T04:44:25.000Z",
+      "date": "2026-10-03T04:44:25.000Z",
+      "description": "La sécurité de ChatGPT fait l'objet d'un audit. OpenAI décide de ce que... cybersécurité impliquant ses modèles, prolongeant ainsi l'enquête...",
+      "excerpt": "La sécurité de ChatGPT fait l'objet d'un audit. OpenAI décide de ce que... cybersécurité impliquant ses modèles, prolongeant ainsi l'enquête...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI lance l'essayage virtuel dans ChatGPT - Dataconomy FR",
       "link": "https://fr.dataconomy.com/2026/10/02/openai-lance-lessayage-virtuel-dans-chatgpt/",
@@ -117,16 +127,6 @@
       "date": "2026-10-02T16:48:58.000Z",
       "description": "Des cybercriminels utilisent des GPT personnalisés hébergés directement sur ChatGPT ainsi que plusieurs services Google afin de diffuser une campagne...",
       "excerpt": "Des cybercriminels utilisent des GPT personnalisés hébergés directement sur ChatGPT ainsi que plusieurs services Google afin de diffuser une campagne...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Click2Shell et les risques one-click sur WordPress, comment sécuriser son site",
-      "link": "https://pasqualepillitteri.it/fr/news/20027/click2shell-wordpress-risques-one-click-proteger",
-      "url": "https://pasqualepillitteri.it/fr/news/20027/click2shell-wordpress-risques-one-click-proteger",
-      "publishedAt": "2026-10-02T16:17:52.000Z",
-      "date": "2026-10-02T16:17:52.000Z",
-      "description": "OpenAI & ChatGPT · Jeux Vidéo · Finance... Quelques semaines plus tard est arrivée la version 7.1.2, la cinquième release de sécurité sur le noyau...",
-      "excerpt": "OpenAI & ChatGPT · Jeux Vidéo · Finance... Quelques semaines plus tard est arrivée la version 7.1.2, la cinquième release de sécurité sur le noyau...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
