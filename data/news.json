@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T11:31:47.546Z",
+  "generatedAt": "2026-10-04T16:10:23.041Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Avant même d'arriver en France, Muse, le nouvel agent IA de Meta devance tous ses...",
+      "link": "https://www.decideo.fr/Avant-meme-d-arriver-en-France-Muse-le-nouvel-agent-IA-de-Meta-devance-tous-ses-concurrents-en-matiere-de-collecte-de_a14824.html",
+      "url": "https://www.decideo.fr/Avant-meme-d-arriver-en-France-Muse-le-nouvel-agent-IA-de-Meta-devance-tous-ses-concurrents-en-matiere-de-collecte-de_a14824.html",
+      "publishedAt": "2026-10-04T13:34:27.000Z",
+      "date": "2026-10-04T13:34:27.000Z",
+      "description": "Une comparaison réalisée par la société de cybersécurité, portant... ChatGPT au classement des téléchargements aux États-Unis. Or ces agents...",
+      "excerpt": "Une comparaison réalisée par la société de cybersécurité, portant... ChatGPT au classement des téléchargements aux États-Unis. Or ces agents...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Affaire Thélyson Orélien: que prouve vraiment un score à 97 % IA? Nous avons fait le test",
       "link": "https://www.clubic.com/dossier-632419-affaire-thelyson-orelien-que-prouve-vraiment-un-score-a-97-ia-nous-avons-fait-le-test.html",
@@ -28,6 +38,26 @@
       "description": "Un programme malveillant installé sur un Mac pouvait prendre la main sur l'application ChatGPT pour lire l'historique des conversations et puiser...",
       "excerpt": "Un programme malveillant installé sur un Mac pouvait prendre la main sur l'application ChatGPT pour lire l'historique des conversations et puiser...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Wallet est la pièce qui manque aux dots d'OpenAI - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/20427/chatgpt-wallet-piece-manquante-dots-openai",
+      "url": "https://pasqualepillitteri.it/fr/news/20427/chatgpt-wallet-piece-manquante-dots-openai",
+      "publishedAt": "2026-10-04T06:57:06.000Z",
+      "date": "2026-10-04T06:57:06.000Z",
+      "description": "ChatGPT Wallet serait la pièce manquante des dots d'OpenAI pour payer à votre place. Six indices d'août à octobre, triés avec soin entre faits et...",
+      "excerpt": "ChatGPT Wallet serait la pièce manquante des dots d'OpenAI pour payer à votre place. Six indices d'août à octobre, triés avec soin entre faits et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT Dots sur le plan gratuit par... - Polymarket",
+      "link": "https://polymarket.com/fr/event/chatgpt-dots-on-the-free-plan-by/will-chatgpt-dots-be-available-on-the-free-plan-by-october-31-2026",
+      "url": "https://polymarket.com/fr/event/chatgpt-dots-on-the-free-plan-by/will-chatgpt-dots-be-available-on-the-free-plan-by-october-31-2026",
+      "publishedAt": "2026-10-04T06:26:31.000Z",
+      "date": "2026-10-04T06:26:31.000Z",
+      "description": "Consultez les cotes en temps réel pour « ChatGPT Dots sur le plan gratuit pa... » au 4 octobre 2026 et négociez sur le plus grand marché de...",
+      "excerpt": "Consultez les cotes en temps réel pour « ChatGPT Dots sur le plan gratuit pa... » au 4 octobre 2026 et négociez sur le plus grand marché de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Un faux ChatGPT piégé se cache sur le site officiel - Android MT",
@@ -98,36 +128,6 @@
       "description": "ChatGPT for Education (ouverture dans une nouvelle fenêtre) · Codex · Dots (ouverture dans une nouvelle fenêtre) · Notes de version. Plateforme API.",
       "excerpt": "ChatGPT for Education (ouverture dans une nouvelle fenêtre) · Codex · Dots (ouverture dans une nouvelle fenêtre) · Notes de version. Plateforme API.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "La sécurité de ChatGPT fait l'objet d'un audit. OpenAI décide de ce que les auditeurs examinent",
-      "link": "https://businessmodelanalyst.com/fr/openai-incendies-chercheurs-securite-evaluateur-limitation-de-la-portee/",
-      "url": "https://businessmodelanalyst.com/fr/openai-incendies-chercheurs-securite-evaluateur-limitation-de-la-portee/",
-      "publishedAt": "2026-10-03T04:44:25.000Z",
-      "date": "2026-10-03T04:44:25.000Z",
-      "description": "La sécurité de ChatGPT fait l'objet d'un audit. OpenAI décide de ce que... cybersécurité impliquant ses modèles, prolongeant ainsi l'enquête...",
-      "excerpt": "La sécurité de ChatGPT fait l'objet d'un audit. OpenAI décide de ce que... cybersécurité impliquant ses modèles, prolongeant ainsi l'enquête...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Apple Requires Explicit Approval for Full Disk Access on macOS - Brief IA",
-      "link": "https://www.briefia.fr/en/article/apple-requires-explicit-approval-for-full-disk-access-on-macos",
-      "url": "https://www.briefia.fr/en/article/apple-requires-explicit-approval-for-full-disk-access-on-macos",
-      "publishedAt": "2026-10-03T03:21:17.000Z",
-      "date": "2026-10-03T03:21:17.000Z",
-      "description": "The announcement comes after reports concerning AI applications on Mac.... A vulnerability in the Mac version of ChatGPT may have allowed hackers to...",
-      "excerpt": "The announcement comes after reports concerning AI applications on Mac.... A vulnerability in the Mac version of ChatGPT may have allowed hackers to...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI lance l'essayage virtuel dans ChatGPT - Dataconomy FR",
-      "link": "https://fr.dataconomy.com/2026/10/02/openai-lance-lessayage-virtuel-dans-chatgpt/",
-      "url": "https://fr.dataconomy.com/2026/10/02/openai-lance-lessayage-virtuel-dans-chatgpt/",
-      "publishedAt": "2026-10-02T21:40:25.000Z",
-      "date": "2026-10-02T21:40:25.000Z",
-      "description": "ChatGPT Images 2.5 alimente des outils d'achat avec un éclairage... Google lance Gemini 4 Argon pour des partenaires cybersécurité sélectionnés.",
-      "excerpt": "ChatGPT Images 2.5 alimente des outils d'achat avec un éclairage... Google lance Gemini 4 Argon pour des partenaires cybersécurité sélectionnés.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
