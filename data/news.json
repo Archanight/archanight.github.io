@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T20:21:01.519Z",
+  "generatedAt": "2026-10-04T03:27:13.897Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -18,6 +18,16 @@
       "description": "Gemini 4 Argon introduit un contexte de 1 million de tokens et cible des tâches complexes, notamment en cybersécurité... ChatGPT, 30 min pour l'API...",
       "excerpt": "Gemini 4 Argon introduit un contexte de 1 million de tokens et cible des tâches complexes, notamment en cybersécurité... ChatGPT, 30 min pour l'API...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "FortiMail, faille zero-day à 9,8 déjà exploitée, correctifs attendus - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/20279/fortimail-faille-zero-day-98-exploitee-correctifs-attendus",
+      "url": "https://pasqualepillitteri.it/fr/news/20279/fortimail-faille-zero-day-98-exploitee-correctifs-attendus",
+      "publishedAt": "2026-10-03T09:22:12.000Z",
+      "date": "2026-10-03T09:22:12.000Z",
+      "description": "La faille CVE -2026-104286 de FortiMail, notée CVSS 9,8, est déjà exploitée et, si un workaround existe, les correctifs de Fortinet restent à...",
+      "excerpt": "La faille CVE -2026-104286 de FortiMail, notée CVSS 9,8, est déjà exploitée et, si un workaround existe, les correctifs de Fortinet restent à...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     },
     {
       "title": "Chatham étend son expertise des marchés financiers avec OpenAI",
@@ -117,16 +127,6 @@
       "date": "2026-10-02T17:00:38.000Z",
       "description": "ChatGPT change la publicité... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
       "excerpt": "ChatGPT change la publicité... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Sécurité ou rapidité: 78 % des Européens prêts à attendre pour mieux se protéger",
-      "link": "https://itrnews.com/articles/211149/securite-ou-rapidite-78-des-europeens-prets-a-attendre-pour-mieux-se-proteger.html",
-      "url": "https://itrnews.com/articles/211149/securite-ou-rapidite-78-des-europeens-prets-a-attendre-pour-mieux-se-proteger.html",
-      "publishedAt": "2026-10-02T16:55:14.000Z",
-      "date": "2026-10-02T16:55:14.000Z",
-      "description": "Cybersécurité: les Français maîtrisent les bases mais restent... Pourquoi ChatGPT et Gemini ne recommandent pas les mêmes enseignes. lundi...",
-      "excerpt": "Cybersécurité: les Français maîtrisent les bases mais restent... Pourquoi ChatGPT et Gemini ne recommandent pas les mêmes enseignes. lundi...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
