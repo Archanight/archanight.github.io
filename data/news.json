@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T16:10:23.041Z",
+  "generatedAt": "2026-10-04T20:39:09.683Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le monde de la technologie continue de suivre les dernières avancées de @openai... - Instagram",
+      "link": "https://www.instagram.com/p/DeEUkEIvjS2/",
+      "url": "https://www.instagram.com/p/DeEUkEIvjS2/",
+      "publishedAt": "2026-10-04T13:43:26.000Z",
+      "date": "2026-10-04T13:43:26.000Z",
+      "description": "... ChatGPT et ses outils destinés aux professionnels. Ces évolutions... #TechIAFutur # Chatgpt # Cybersécurité #IA · September 8 · xyrotek's profile...",
+      "excerpt": "... ChatGPT et ses outils destinés aux professionnels. Ces évolutions... #TechIAFutur # Chatgpt # Cybersécurité #IA · September 8 · xyrotek's profile...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Avant même d'arriver en France, Muse, le nouvel agent IA de Meta devance tous ses...",
       "link": "https://www.decideo.fr/Avant-meme-d-arriver-en-France-Muse-le-nouvel-agent-IA-de-Meta-devance-tous-ses-concurrents-en-matiere-de-collecte-de_a14824.html",
@@ -118,16 +128,6 @@
       "description": "La faille CVE -2026-104286 de FortiMail, notée CVSS 9,8, est déjà exploitée et, si un workaround existe, les correctifs de Fortinet restent à...",
       "excerpt": "La faille CVE -2026-104286 de FortiMail, notée CVSS 9,8, est déjà exploitée et, si un workaround existe, les correctifs de Fortinet restent à...",
       "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "Chatham étend son expertise des marchés financiers avec OpenAI",
-      "link": "https://openai.com/fr-FR/index/chatham-financial/",
-      "url": "https://openai.com/fr-FR/index/chatham-financial/",
-      "publishedAt": "2026-10-03T05:06:53.000Z",
-      "date": "2026-10-03T05:06:53.000Z",
-      "description": "ChatGPT for Education (ouverture dans une nouvelle fenêtre) · Codex · Dots (ouverture dans une nouvelle fenêtre) · Notes de version. Plateforme API.",
-      "excerpt": "ChatGPT for Education (ouverture dans une nouvelle fenêtre) · Codex · Dots (ouverture dans une nouvelle fenêtre) · Notes de version. Plateforme API.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
