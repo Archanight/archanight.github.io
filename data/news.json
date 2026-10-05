@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T03:05:12.415Z",
+  "generatedAt": "2026-10-05T13:03:00.988Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "tabiori - ChatGPT",
+      "link": "https://chatgpt.com/plugins/plugin_asdk_app_6a750ed633b88191a49785a74c7d35bd?locale=fr-CA",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a750ed633b88191a49785a74c7d35bd?locale=fr-CA",
+      "publishedAt": "2026-10-05T10:31:49.000Z",
+      "date": "2026-10-05T10:31:49.000Z",
+      "description": "tabiori helps travelers create and update shareable trip plans from ChatGPT conversations.... update itineraries, schedules, checklists, notes...",
+      "excerpt": "tabiori helps travelers create and update shareable trip plans from ChatGPT conversations.... update itineraries, schedules, checklists, notes...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Faut-il encore savoir écrire quand ChatGPT écrit pour nous? - Les Echos Solutions",
+      "link": "https://solutions.lesechos.fr/equipe-management/metier/faut-il-encore-savoir-ecrire-quand-chatgpt-ecrit-pour-nous/",
+      "url": "https://solutions.lesechos.fr/equipe-management/metier/faut-il-encore-savoir-ecrire-quand-chatgpt-ecrit-pour-nous/",
+      "publishedAt": "2026-10-05T09:26:40.000Z",
+      "date": "2026-10-05T09:26:40.000Z",
+      "description": "Cybersécurité; Data et stockage; Innovation; Logiciels et outils; Web; Tous... Faut-il encore savoir écrire quand ChatGPT écrit pour nous?",
+      "excerpt": "Cybersécurité; Data et stockage; Innovation; Logiciels et outils; Web; Tous... Faut-il encore savoir écrire quand ChatGPT écrit pour nous?",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google met en pause le programme de bug bounty open source en raison de signalements...",
+      "link": "https://fr.dataconomy.com/2026/10/05/google-met-en-pause-le-programme-de-bug-bounty-open-source-en-raison-de-signalements-ai-invalides/",
+      "url": "https://fr.dataconomy.com/2026/10/05/google-met-en-pause-le-programme-de-bug-bounty-open-source-en-raison-de-signalements-ai-invalides/",
+      "publishedAt": "2026-10-05T09:11:42.000Z",
+      "date": "2026-10-05T09:11:42.000Z",
+      "description": "OpenAI lance l'essayage virtuel dans ChatGPT · octobre 2, 2026... Google lance Gemini 4 Argon pour des partenaires cybersécurité sélectionnés.",
+      "excerpt": "OpenAI lance l'essayage virtuel dans ChatGPT · octobre 2, 2026... Google lance Gemini 4 Argon pour des partenaires cybersécurité sélectionnés.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Work rencontre des erreurs ce matin et les tâches programmées peuvent aussi...",
+      "link": "https://www.menow.fr/chatgpt-work-rencontre-des-erreurs-ce-matin-et-les-taches-programmees-peuvent-aussi-etre-touchees/",
+      "url": "https://www.menow.fr/chatgpt-work-rencontre-des-erreurs-ce-matin-et-les-taches-programmees-peuvent-aussi-etre-touchees/",
+      "publishedAt": "2026-10-05T08:23:52.000Z",
+      "date": "2026-10-05T08:23:52.000Z",
+      "description": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web. Il s'intéresse aux mises à jour...",
+      "excerpt": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web. Il s'intéresse aux mises à jour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Culture IA: Un nez électronique pour dépister le cancer du sein, par Anthony Morel - 05/10",
+      "link": "https://actu.orange.fr/videos/economie/culture-ia-un-nez-electronique-pour-depister-le-cancer-du-sein-par-anthony-morel-05-10-CNT000002sjEbO.html",
+      "url": "https://actu.orange.fr/videos/economie/culture-ia-un-nez-electronique-pour-depister-le-cancer-du-sein-par-anthony-morel-05-10-CNT000002sjEbO.html",
+      "publishedAt": "2026-10-05T06:45:14.000Z",
+      "date": "2026-10-05T06:45:14.000Z",
+      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés Apple... Tous publics. Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel...",
+      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés Apple... Tous publics. Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le monde de la technologie continue de suivre les dernières avancées de @openai... - Instagram",
       "link": "https://www.instagram.com/p/DeEUkEIvjS2/",
@@ -78,56 +128,6 @@
       "description": "Un GPT personnalisé piégé a été repéré directement sur le site officiel de ChatGPT par l'entreprise de cybersécurité Huntress, selon un article du...",
       "excerpt": "Un GPT personnalisé piégé a été repéré directement sur le site officiel de ChatGPT par l'entreprise de cybersécurité Huntress, selon un article du...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Paris Fashion week: John Galliano décode sa mariée en noire: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/france/paris-fashion-week-john-galliano-decode-sa-mariee-en-noire-CNT000002shOnF.html",
-      "url": "https://actu.orange.fr/videos/france/paris-fashion-week-john-galliano-decode-sa-mariee-en-noire-CNT000002shOnF.html",
-      "publishedAt": "2026-10-04T00:39:17.000Z",
-      "date": "2026-10-04T00:39:17.000Z",
-      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés Apple... CHATGPT - Décode. Précédent Suivant. Actu · Actu · Sports · Auto · Météo.",
-      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés Apple... CHATGPT - Décode. Précédent Suivant. Actu · Actu · Sports · Auto · Météo.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Paris Fashion week: John Galliano décode sa mariée en noire: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/france/paris-fashion-week-john-galliano-decode-sa-mariee-en-noire-CNT000002shOnF.html?pid=",
-      "url": "https://actu.orange.fr/videos/france/paris-fashion-week-john-galliano-decode-sa-mariee-en-noire-CNT000002shOnF.html?pid=",
-      "publishedAt": "2026-10-03T19:55:07.000Z",
-      "date": "2026-10-03T19:55:07.000Z",
-      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés Apple... ChatGPT. Tous publics. Laurence Allard s'est rendue en Espagne pour...",
-      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Nouveautés Apple... ChatGPT. Tous publics. Laurence Allard s'est rendue en Espagne pour...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Créativité des agents LLM: GPT-5 juge mieux que les embeddings - Brief IA",
-      "link": "https://www.briefia.fr/article/creativite-des-agents-llm-gpt-5-juge-mieux-que-les-embeddings",
-      "url": "https://www.briefia.fr/article/creativite-des-agents-llm-gpt-5-juge-mieux-que-les-embeddings",
-      "publishedAt": "2026-10-03T16:24:53.000Z",
-      "date": "2026-10-03T16:24:53.000Z",
-      "description": "Gemini 4 Argon introduit un contexte de 1 million de tokens et cible des tâches complexes, notamment en cybersécurité... ChatGPT, 30 min pour l'API...",
-      "excerpt": "Gemini 4 Argon introduit un contexte de 1 million de tokens et cible des tâches complexes, notamment en cybersécurité... ChatGPT, 30 min pour l'API...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "How to Update ChatGPT on Your Android Smartphone (Complete Guide) - YouTube",
-      "link": "https://www.youtube.com/watch?v=NOoUtiiy_H8",
-      "url": "https://www.youtube.com/watch?v=NOoUtiiy_H8",
-      "publishedAt": "2026-10-03T14:32:05.000Z",
-      "date": "2026-10-03T14:32:05.000Z",
-      "description": "Tu souhaites mettre à jour l'application ChatGPT sur ton smartphone Android? Dans ce guide complet, découvre comment vérifier si une nouvelle...",
-      "excerpt": "Tu souhaites mettre à jour l'application ChatGPT sur ton smartphone Android? Dans ce guide complet, découvre comment vérifier si une nouvelle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "FortiMail, faille zero-day à 9,8 déjà exploitée, correctifs attendus - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/20279/fortimail-faille-zero-day-98-exploitee-correctifs-attendus",
-      "url": "https://pasqualepillitteri.it/fr/news/20279/fortimail-faille-zero-day-98-exploitee-correctifs-attendus",
-      "publishedAt": "2026-10-03T09:22:12.000Z",
-      "date": "2026-10-03T09:22:12.000Z",
-      "description": "La faille CVE -2026-104286 de FortiMail, notée CVSS 9,8, est déjà exploitée et, si un workaround existe, les correctifs de Fortinet restent à...",
-      "excerpt": "La faille CVE -2026-104286 de FortiMail, notée CVSS 9,8, est déjà exploitée et, si un workaround existe, les correctifs de Fortinet restent à...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     }
   ]
 }
