@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T23:28:58.656Z",
+  "generatedAt": "2026-10-06T03:54:22.564Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT teste l'affichage de publicités visuelles - KultureGeek - Culture Geek",
+      "link": "https://kulturegeek.fr/news-360906/chatgpt-teste-laffichage-publicites-visuelles",
+      "url": "https://kulturegeek.fr/news-360906/chatgpt-teste-laffichage-publicites-visuelles",
+      "publishedAt": "2026-10-05T20:40:28.000Z",
+      "date": "2026-10-05T20:40:28.000Z",
+      "description": "OpenAI va tester un nouveau format de publicités visuelles dans ChatGPT à partir de la fin du mois. Les pubs apparaîtront pendant la génération...",
+      "excerpt": "OpenAI va tester un nouveau format de publicités visuelles dans ChatGPT à partir de la fin du mois. Les pubs apparaîtront pendant la génération...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Le Tech Flash: Siri AI, pas disponible en Europe avant mars 2027? par Léa Benaim - 05/10",
       "link": "https://actu.orange.fr/videos/economie/le-tech-flash-siri-ai-pas-disponible-en-europe-avant-mars-2027-par-lea-benaim-05-10-CNT000002sl3jc.html",
@@ -38,6 +48,16 @@
       "description": "Avec cette annonce, DV permet aux annonceurs de mesurer les publicités ChatGPT au même titre que leurs autres points de contact marketing, aidant...",
       "excerpt": "Avec cette annonce, DV permet aux annonceurs de mesurer les publicités ChatGPT au même titre que leurs autres points de contact marketing, aidant...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La CISA donne l'alerte pour une RCE critique dans MikroTik RouterOS - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/20921/cisa-alerte-rce-critique-mikrotik-routeros",
+      "url": "https://pasqualepillitteri.it/fr/news/20921/cisa-alerte-rce-critique-mikrotik-routeros",
+      "publishedAt": "2026-10-05T14:05:45.000Z",
+      "date": "2026-10-05T14:05:45.000Z",
+      "description": "OpenAI & ChatGPT... Début septembre, le CERT Polska a décrit la chaîne MikroTrick, formée de CVE -2026-67279 et CVE -2026-86060.",
+      "excerpt": "OpenAI & ChatGPT... Début septembre, le CERT Polska a décrit la chaîne MikroTrick, formée de CVE -2026-67279 et CVE -2026-86060.",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     },
     {
       "title": "ChatGPT: cette nouvelle arnaque vous incite à installer un logiciel malveillant, voici...",
@@ -107,26 +127,6 @@
       "date": "2026-10-05T09:26:40.000Z",
       "description": "Cybersécurité; Data et stockage; Innovation; Logiciels et outils; Web; Tous... Faut-il encore savoir écrire quand ChatGPT écrit pour nous?",
       "excerpt": "Cybersécurité; Data et stockage; Innovation; Logiciels et outils; Web; Tous... Faut-il encore savoir écrire quand ChatGPT écrit pour nous?",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google met en pause le programme de bug bounty open source en raison de signalements...",
-      "link": "https://fr.dataconomy.com/2026/10/05/google-met-en-pause-le-programme-de-bug-bounty-open-source-en-raison-de-signalements-ai-invalides/",
-      "url": "https://fr.dataconomy.com/2026/10/05/google-met-en-pause-le-programme-de-bug-bounty-open-source-en-raison-de-signalements-ai-invalides/",
-      "publishedAt": "2026-10-05T09:11:42.000Z",
-      "date": "2026-10-05T09:11:42.000Z",
-      "description": "OpenAI lance l'essayage virtuel dans ChatGPT · octobre 2, 2026... Google lance Gemini 4 Argon pour des partenaires cybersécurité sélectionnés.",
-      "excerpt": "OpenAI lance l'essayage virtuel dans ChatGPT · octobre 2, 2026... Google lance Gemini 4 Argon pour des partenaires cybersécurité sélectionnés.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Work rencontre des erreurs ce matin et les tâches programmées peuvent aussi...",
-      "link": "https://www.menow.fr/chatgpt-work-rencontre-des-erreurs-ce-matin-et-les-taches-programmees-peuvent-aussi-etre-touchees/",
-      "url": "https://www.menow.fr/chatgpt-work-rencontre-des-erreurs-ce-matin-et-les-taches-programmees-peuvent-aussi-etre-touchees/",
-      "publishedAt": "2026-10-05T08:23:52.000Z",
-      "date": "2026-10-05T08:23:52.000Z",
-      "description": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web. Il s'intéresse aux mises à jour...",
-      "excerpt": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web. Il s'intéresse aux mises à jour...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
