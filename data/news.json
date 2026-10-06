@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T03:54:22.564Z",
+  "generatedAt": "2026-10-06T12:26:14.089Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI lance les annonces visuelles de ChatGPT pendant la génération d'images",
+      "link": "https://pasqualepillitteri.it/fr/news/21011/chatgpt-annonces-visuelles-generation-images",
+      "url": "https://pasqualepillitteri.it/fr/news/21011/chatgpt-annonces-visuelles-generation-images",
+      "publishedAt": "2026-10-06T07:12:45.000Z",
+      "date": "2026-10-06T07:12:45.000Z",
+      "description": "OpenAI a en effet annoncé le 5 octobre 2026 les annonces visuelles de ChatGPT, un format publicitaire qui s'affiche pendant que l'utilisateur...",
+      "excerpt": "OpenAI a en effet annoncé le 5 octobre 2026 les annonces visuelles de ChatGPT, un format publicitaire qui s'affiche pendant que l'utilisateur...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT a attaqué Wikipédia: des millions de pages aspirées et une panne de quatre jours",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-a-attaque-wikipedia-des-millions-de-pages-aspirees-et-une-panne-de-quatre-jours-n262876.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-a-attaque-wikipedia-des-millions-de-pages-aspirees-et-une-panne-de-quatre-jours-n262876.html",
+      "publishedAt": "2026-10-06T06:57:59.000Z",
+      "date": "2026-10-06T06:57:59.000Z",
+      "description": "ChatGPT a attaqué Wikipédia: des millions de pages aspirées et... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
+      "excerpt": "ChatGPT a attaqué Wikipédia: des millions de pages aspirées et... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que jamais...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT va afficher des publicités visuelles lors de la génération d'images - Android MT",
+      "link": "https://android-mt.ouest-france.fr/news/chatgpt-va-afficher-des-publicites-visuelles-lors-de-la-generation-dimages/224477/",
+      "url": "https://android-mt.ouest-france.fr/news/chatgpt-va-afficher-des-publicites-visuelles-lors-de-la-generation-dimages/224477/",
+      "publishedAt": "2026-10-06T05:32:34.000Z",
+      "date": "2026-10-06T05:32:34.000Z",
+      "description": "OpenAI étend son programme publicitaire à ChatGPT Images, avec un nouveau format plus visuel testé d'abord aux États-Unis.",
+      "excerpt": "OpenAI étend son programme publicitaire à ChatGPT Images, avec un nouveau format plus visuel testé d'abord aux États-Unis.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI atténue les erreurs accrues sur plusieurs services ChatGPT - Unite.AI",
+      "link": "https://www.unite.ai/fr/openai-mitigates-elevated-errors-across-multiple-chatgpt-services/",
+      "url": "https://www.unite.ai/fr/openai-mitigates-elevated-errors-across-multiple-chatgpt-services/",
+      "publishedAt": "2026-10-06T04:10:59.000Z",
+      "date": "2026-10-06T04:10:59.000Z",
+      "description": "... ChatGPT au début... Miles Okada est un agent de recherche généré par IA chez Unite.AI, couvrant l'intelligence artificielle et la cybersécurité...",
+      "excerpt": "... ChatGPT au début... Miles Okada est un agent de recherche généré par IA chez Unite.AI, couvrant l'intelligence artificielle et la cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Concevoir une publicité adaptée aux usages de l'IA - OpenAI",
+      "link": "https://openai.com/fr-FR/index/new-chatgpt-ads-format-and-measurement/",
+      "url": "https://openai.com/fr-FR/index/new-chatgpt-ads-format-and-measurement/",
+      "publishedAt": "2026-10-06T02:40:25.000Z",
+      "date": "2026-10-06T02:40:25.000Z",
+      "description": "ChatGPT touche 1,2 milliard de personnes chaque semaine, ce qui en fait... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "excerpt": "ChatGPT touche 1,2 milliard de personnes chaque semaine, ce qui en fait... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "ChatGPT teste l'affichage de publicités visuelles - KultureGeek - Culture Geek",
       "link": "https://kulturegeek.fr/news-360906/chatgpt-teste-laffichage-publicites-visuelles",
@@ -77,56 +127,6 @@
       "date": "2026-10-05T13:20:32.000Z",
       "description": "Des liens directs sont fournis vers ChatGPT Sites ( chatgpt.com/sites) et OpenAI... SOC 2 d'Ollie et l'approbation d'Apple pour Poke apparaissent...",
       "excerpt": "Des liens directs sont fournis vers ChatGPT Sites ( chatgpt.com/sites) et OpenAI... SOC 2 d'Ollie et l'approbation d'Apple pour Poke apparaissent...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI introduit le format publicitaire visuel ChatGPT et élargit la mesure - Unite.AI",
-      "link": "https://www.unite.ai/fr/openai-introduces-visual-chatgpt-ad-format-and-expanded-measurement/",
-      "url": "https://www.unite.ai/fr/openai-introduces-visual-chatgpt-ad-format-and-expanded-measurement/",
-      "publishedAt": "2026-10-05T10:41:44.000Z",
-      "date": "2026-10-05T10:41:44.000Z",
-      "description": "OpenAI testera d'abord le format lors de la génération d'images dans ChatGPT, et l'entreprise a indiqué que les tests débuteront fin octobre 2026 aux...",
-      "excerpt": "OpenAI testera d'abord le format lors de la génération d'images dans ChatGPT, et l'entreprise a indiqué que les tests débuteront fin octobre 2026 aux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "tabiori - ChatGPT",
-      "link": "https://chatgpt.com/plugins/plugin_asdk_app_6a750ed633b88191a49785a74c7d35bd?locale=fr-CA",
-      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a750ed633b88191a49785a74c7d35bd?locale=fr-CA",
-      "publishedAt": "2026-10-05T10:31:49.000Z",
-      "date": "2026-10-05T10:31:49.000Z",
-      "description": "tabiori helps travelers create and update shareable trip plans from ChatGPT conversations.... update itineraries, schedules, checklists, notes...",
-      "excerpt": "tabiori helps travelers create and update shareable trip plans from ChatGPT conversations.... update itineraries, schedules, checklists, notes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Fleuret AI lève 4 M€ pour automatiser les tests d'intrusion avec l'IA - Silicon.fr",
-      "link": "https://www.silicon.fr/cybersecurite-1371/fleuret-ai-leve-4-me-pour-automatiser-les-tests-dintrusion-avec-lia-229514/amp",
-      "url": "https://www.silicon.fr/cybersecurite-1371/fleuret-ai-leve-4-me-pour-automatiser-les-tests-dintrusion-avec-lia-229514/amp",
-      "publishedAt": "2026-10-05T10:04:18.000Z",
-      "date": "2026-10-05T10:04:18.000Z",
-      "description": "Aucun segment de la cybersécurité n'échappe à l'impact de l'IA. Avec sa... ChatGPT, suite collaborative: OpenAI s'en approche. Dans la...",
-      "excerpt": "Aucun segment de la cybersécurité n'échappe à l'impact de l'IA. Avec sa... ChatGPT, suite collaborative: OpenAI s'en approche. Dans la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI promet une amélioration de Codex ou un reset complet chaque jour pendant 28 jours",
-      "link": "https://www.menow.fr/openai-promet-une-amelioration-de-codex-ou-un-reset-complet-chaque-jour-pendant-28-jours/",
-      "url": "https://www.menow.fr/openai-promet-une-amelioration-de-codex-ou-un-reset-complet-chaque-jour-pendant-28-jours/",
-      "publishedAt": "2026-10-05T09:33:42.000Z",
-      "date": "2026-10-05T09:33:42.000Z",
-      "description": "OpenAI vient de prendre un engagement plutôt inhabituel envers les utilisateurs intensifs de Codex et de ChatGPT Work.... cybersécurité grand public et...",
-      "excerpt": "OpenAI vient de prendre un engagement plutôt inhabituel envers les utilisateurs intensifs de Codex et de ChatGPT Work.... cybersécurité grand public et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Faut-il encore savoir écrire quand ChatGPT écrit pour nous? - Les Echos Solutions",
-      "link": "https://solutions.lesechos.fr/equipe-management/metier/faut-il-encore-savoir-ecrire-quand-chatgpt-ecrit-pour-nous/",
-      "url": "https://solutions.lesechos.fr/equipe-management/metier/faut-il-encore-savoir-ecrire-quand-chatgpt-ecrit-pour-nous/",
-      "publishedAt": "2026-10-05T09:26:40.000Z",
-      "date": "2026-10-05T09:26:40.000Z",
-      "description": "Cybersécurité; Data et stockage; Innovation; Logiciels et outils; Web; Tous... Faut-il encore savoir écrire quand ChatGPT écrit pour nous?",
-      "excerpt": "Cybersécurité; Data et stockage; Innovation; Logiciels et outils; Web; Tous... Faut-il encore savoir écrire quand ChatGPT écrit pour nous?",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
