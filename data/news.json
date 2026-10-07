@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T22:01:21.011Z",
+  "generatedAt": "2026-10-07T03:22:13.263Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -37,6 +37,16 @@
       "date": "2026-10-06T19:54:37.000Z",
       "description": "D'ici-là, l'entreprise entend travailler « avec les développeurs, spécialistes de la cybersécurité... ChatGPT, a par exemple levé en début d...",
       "excerpt": "D'ici-là, l'entreprise entend travailler « avec les développeurs, spécialistes de la cybersécurité... ChatGPT, a par exemple levé en début d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Publicité ChatGPT et Reddit en B2B: ce qu'il faut savoir | Bang Marketing",
+      "link": "https://www.bang-marketing.com/chatgpt-et-reddit-deux-terrains-de-jeu-publicitaires-encore-sous-exploites-en-b2b/",
+      "url": "https://www.bang-marketing.com/chatgpt-et-reddit-deux-terrains-de-jeu-publicitaires-encore-sous-exploites-en-b2b/",
+      "publishedAt": "2026-10-06T19:33:09.000Z",
+      "date": "2026-10-06T19:33:09.000Z",
+      "description": "ChatGPT et Reddit: deux terrains de jeu publicitaires encore sous-exploités en B2B... cybersécurité, en comptabilité, en ingénierie ou en logistique.",
+      "excerpt": "ChatGPT et Reddit: deux terrains de jeu publicitaires encore sous-exploités en B2B... cybersécurité, en comptabilité, en ingénierie ou en logistique.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -117,16 +127,6 @@
       "date": "2026-10-06T15:01:02.000Z",
       "description": "D'ici là, l'entreprise entend travailler \"avec les développeurs, spécialistes de la cybersécurité... ChatGPT, a par exemple levé en début d...",
       "excerpt": "D'ici là, l'entreprise entend travailler \"avec les développeurs, spécialistes de la cybersécurité... ChatGPT, a par exemple levé en début d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT va bientôt signer tous les textes qu'il écrit à votre place - 01net.com",
-      "link": "https://www.01net.com/actualites/chatgpt-filigrane-invisible-textes-union-europeenne-ai-act.html",
-      "url": "https://www.01net.com/actualites/chatgpt-filigrane-invisible-textes-union-europeenne-ai-act.html",
-      "publishedAt": "2026-10-06T15:00:54.000Z",
-      "date": "2026-10-06T15:00:54.000Z",
-      "description": "ChatGPT va bientôt signer tous les textes qu'il écrit à votre place... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "excerpt": "ChatGPT va bientôt signer tous les textes qu'il écrit à votre place... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
