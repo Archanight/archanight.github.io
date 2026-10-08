@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T03:37:20.000Z",
+  "generatedAt": "2026-10-08T12:28:57.435Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "HubSpot mise sur une architecture « AI-Native » pilotée par l'orchestration d'agents et le...",
+      "link": "https://www.linformaticien.com/magazine/info-partenaire/65348-hubspot-mise-sur-une-architecture-ai-native-pilotee-par-l-orchestration-d-agents-et-le-contexte-des-donnees.html",
+      "url": "https://www.linformaticien.com/magazine/info-partenaire/65348-hubspot-mise-sur-une-architecture-ai-native-pilotee-par-l-orchestration-d-agents-et-le-contexte-des-donnees.html",
+      "publishedAt": "2026-10-08T06:40:50.000Z",
+      "date": "2026-10-08T06:40:50.000Z",
+      "description": "Biz'IT · Tendances · Transfo · Cloud · Infra · Cybersécurité · Devops · Débats...",
+      "excerpt": "Biz'IT · Tendances · Transfo · Cloud · Infra · Cybersécurité · Devops · Débats...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Avec Large 4, Mistral monte en gamme et en prix mais reste moins cher que Claude Sonnet...",
+      "link": "https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-actualites/avec-large-4-mistral-monte-en-gamme-et-en-prix-mais-reste-moins-cher-que-claude-sonnet-et-gpt-5-6-terra/",
+      "url": "https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-actualites/avec-large-4-mistral-monte-en-gamme-et-en-prix-mais-reste-moins-cher-que-claude-sonnet-et-gpt-5-6-terra/",
+      "publishedAt": "2026-10-08T06:22:41.000Z",
+      "date": "2026-10-08T06:22:41.000Z",
+      "description": "Le laboratoire indique aussi avoir éprouvé le modèle avec des experts en cybersécurité, des partenaires et des autorités publiques, sans les nommer.",
+      "excerpt": "Le laboratoire indique aussi avoir éprouvé le modèle avec des experts en cybersécurité, des partenaires et des autorités publiques, sans les nommer.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT fait peau neuve pour l'arrivée de GPT-6, voici tout ce qui change - 01net.com",
+      "link": "https://www.01net.com/actualites/chatgpt-gpt-6-intelligent-ui-ce-qui-change.html",
+      "url": "https://www.01net.com/actualites/chatgpt-gpt-6-intelligent-ui-ce-qui-change.html",
+      "publishedAt": "2026-10-08T06:01:52.000Z",
+      "date": "2026-10-08T06:01:52.000Z",
+      "description": "Les abonnés des offres payantes, comme ChatGPT Plus et ChatGPT Pro... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
+      "excerpt": "Les abonnés des offres payantes, comme ChatGPT Plus et ChatGPT Pro... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT‑6 pour tous: la nouvelle IA d'OpenAI arrive pour le grand public - Clubic",
+      "link": "https://www.clubic.com/actualite-633151-gpt-6-pour-tous-la-nouvelle-ia-d-openai-arrive-pour-le-grand-public.html",
+      "url": "https://www.clubic.com/actualite-633151-gpt-6-pour-tous-la-nouvelle-ia-d-openai-arrive-pour-le-grand-public.html",
+      "publishedAt": "2026-10-08T06:01:21.000Z",
+      "date": "2026-10-08T06:01:21.000Z",
+      "description": "OpenAI réservait avant la famille GPT-6 aux abonnés payants, dans les espaces Work et Codex de ChatGPT.... cybersécurité, dont ses garde-fous contre...",
+      "excerpt": "OpenAI réservait avant la famille GPT-6 aux abonnés payants, dans les espaces Work et Codex de ChatGPT.... cybersécurité, dont ses garde-fous contre...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Des garde-fous de ChatGPT pour adolescents ne fonctionneraient pas - Le Devoir",
       "link": "https://www.ledevoir.com/economie/techno/1015370/garde-fous-chatgpt-adolescents-ne-fonctionneraient-pas",
@@ -87,46 +127,6 @@
       "date": "2026-10-07T20:12:22.000Z",
       "description": "ChatGPT propose de nouveaux outils pour les adolescents... Alerte en Albanie concernant WhatsApp: l'Autorité de cybersécurité signale que des comptes...",
       "excerpt": "ChatGPT propose de nouveaux outils pour les adolescents... Alerte en Albanie concernant WhatsApp: l'Autorité de cybersécurité signale que des comptes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI apporte GPT-6 avec Intelligent UI à tous les niveaux de ChatGPT - Unite.AI",
-      "link": "https://www.unite.ai/fr/openai-brings-gpt-6-with-intelligent-ui-to-all-chatgpt-tiers/",
-      "url": "https://www.unite.ai/fr/openai-brings-gpt-6-with-intelligent-ui-to-all-chatgpt-tiers/",
-      "publishedAt": "2026-10-07T19:04:40.000Z",
-      "date": "2026-10-07T19:04:40.000Z",
-      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT,” et a indiqué que le nouveau modèle GPT-6 dans ChatGPT est conçu...",
-      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT,” et a indiqué que le nouveau modèle GPT-6 dans ChatGPT est conçu...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Qualité du trafic, CPC, CPM… Les retours de la première campagne de Bouygues Telecom...",
-      "link": "https://www.journaldunet.com/adtech/1555645-qualite-du-trafic-cpc-cpm-les-retours-de-la-premiere-campagne-de-bouygues-telecom-sur-chatgpt/",
-      "url": "https://www.journaldunet.com/adtech/1555645-qualite-du-trafic-cpc-cpm-les-retours-de-la-premiere-campagne-de-bouygues-telecom-sur-chatgpt/",
-      "publishedAt": "2026-10-07T18:12:24.000Z",
-      "date": "2026-10-07T18:12:24.000Z",
-      "description": "Pour l'annonceur et Cosmo5, l'agence qui l'accompagne, ChatGPT est... Cybersécurité · Adtech · Big data · Carrière · Fintech · e-RH · IoT · Martech...",
-      "excerpt": "Pour l'annonceur et Cosmo5, l'agence qui l'accompagne, ChatGPT est... Cybersécurité · Adtech · Big data · Carrière · Fintech · e-RH · IoT · Martech...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT et les ados: moins de 15 minutes par jour, mais les garde-fous inquiètent",
-      "link": "https://moncarnet.com/2026/10/07/chatgpt-et-les-ados-moins-de-15-minutes-par-jour-mais-les-garde-fous-inquietent/",
-      "url": "https://moncarnet.com/2026/10/07/chatgpt-et-les-ados-moins-de-15-minutes-par-jour-mais-les-garde-fous-inquietent/",
-      "publishedAt": "2026-10-07T18:10:28.000Z",
-      "date": "2026-10-07T18:10:28.000Z",
-      "description": "... ChatGPT. Dans un... OpenAI introduit de nouveaux contrôles parentaux pour ChatGPT destiné aux ados 30 septembre 2025 Dans \" Cybersécurité \"...",
-      "excerpt": "... ChatGPT. Dans un... OpenAI introduit de nouveaux contrôles parentaux pour ChatGPT destiné aux ados 30 septembre 2025 Dans \" Cybersécurité \"...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI publie les premiers résultats du plugin ChatGPT pour les hôtels Radisson - Unite.AI",
-      "link": "https://www.unite.ai/fr/openai-reports-early-results-for-radisson-hotels-chatgpt-plugin/",
-      "url": "https://www.unite.ai/fr/openai-reports-early-results-for-radisson-hotels-chatgpt-plugin/",
-      "publishedAt": "2026-10-07T18:06:13.000Z",
-      "date": "2026-10-07T18:06:13.000Z",
-      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... OpenAI a publié le 7 octobre 2026 une étude de cas client révélant les premiers...",
-      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... OpenAI a publié le 7 octobre 2026 une étude de cas client révélant les premiers...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
