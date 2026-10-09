@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T22:39:28.708Z",
+  "generatedAt": "2026-10-09T03:42:39.739Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,26 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Un développeur chinois rend l'agent IA ARTEX « closed-source » après le piratage d'une...",
+      "link": "https://www.boursorama.com/bourse/actualites-amp/un-developpeur-chinois-rend-l-agent-ia-artex-closed-source-apres-le-piratage-d-une-banque-coreenne-15e9f3d6b3c570a5fab81f43953d0345",
+      "url": "https://www.boursorama.com/bourse/actualites-amp/un-developpeur-chinois-rend-l-agent-ia-artex-closed-source-apres-le-piratage-d-une-banque-coreenne-15e9f3d6b3c570a5fab81f43953d0345",
+      "publishedAt": "2026-10-09T01:58:55.000Z",
+      "date": "2026-10-09T01:58:55.000Z",
+      "description": "La société américaine de cybersécurité Crowdstrike a déclaré mercredi que le suspect à l'origine des récentes cyberattaques contre des banques sud-...",
+      "excerpt": "La société américaine de cybersécurité Crowdstrike a déclaré mercredi que le suspect à l'origine des récentes cyberattaques contre des banques sud-...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Oracle: des jours de travail en minutes avec ChatGPT et Codex - OpenAI",
+      "link": "https://openai.com/fr-FR/index/oracle/",
+      "url": "https://openai.com/fr-FR/index/oracle/",
+      "publishedAt": "2026-10-09T00:56:25.000Z",
+      "date": "2026-10-09T00:56:25.000Z",
+      "description": "... ( SRE ) utilisent Codex pour rassembler les éléments de contexte pertinents sur un incident et afficher automatiquement la procédure adaptée. Les SRE...",
+      "excerpt": "... ( SRE ) utilisent Codex pour rassembler les éléments de contexte pertinents sur un incident et afficher automatiquement la procédure adaptée. Les SRE...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "IA: Argon, Haiku 5.5 et Large 4 entre accès limité et coût",
       "link": "https://www.briefia.fr/article/ia-argon-haiku-5-5-et-large-4-entre-acces-limite-et-cout",
       "url": "https://www.briefia.fr/article/ia-argon-haiku-5-5-et-large-4-entre-acces-limite-et-cout",
@@ -17,6 +37,16 @@
       "date": "2026-10-08T22:20:47.000Z",
       "description": "Anthropic indique des améliorations d'alignement et de cybersécurité pour Haiku 5.5, avec des protections renforcées.... ChatGPT coupe l'accès à deux...",
       "excerpt": "Anthropic indique des améliorations d'alignement et de cybersécurité pour Haiku 5.5, avec des protections renforcées.... ChatGPT coupe l'accès à deux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les textes de ChatGPT démasqués en Europe - Tech&Co la quotidienne du 07/10/2026",
+      "link": "https://www.youtube.com/watch?v=qLDlFCwiu2U",
+      "url": "https://www.youtube.com/watch?v=qLDlFCwiu2U",
+      "publishedAt": "2026-10-08T21:25:28.000Z",
+      "date": "2026-10-08T21:25:28.000Z",
+      "description": "... ChatGPT va bientôt marquer ses textes avec un filigrane invisible dans l'UE - Apple et LG s'associent pour proposer de nouveaux équipements pour...",
+      "excerpt": "... ChatGPT va bientôt marquer ses textes avec un filigrane invisible dans l'UE - Apple et LG s'associent pour proposer de nouveaux équipements pour...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -97,36 +127,6 @@
       "date": "2026-10-08T16:33:19.000Z",
       "description": "Une option permettant de réinitialiser les limites d'utilisation de ChatGPT moyennant un paiement supplémentaire est en cours de…",
       "excerpt": "Une option permettant de réinitialiser les limites d'utilisation de ChatGPT moyennant un paiement supplémentaire est en cours de…",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Mistral AI lance ML4 en open-weight, priorité cybersécurité - Brief IA",
-      "link": "https://www.briefia.fr/article/mistral-ai-lance-ml4-en-open-weight-priorite-cybersecurite",
-      "url": "https://www.briefia.fr/article/mistral-ai-lance-ml4-en-open-weight-priorite-cybersecurite",
-      "publishedAt": "2026-10-08T16:32:50.000Z",
-      "date": "2026-10-08T16:32:50.000Z",
-      "description": "... Cybersécurité... par mois. Réserver un format→Recevoir le media kit. Audience professionnelle française · Référencé Google News · Cité par ChatGPT,...",
-      "excerpt": "... Cybersécurité... par mois. Réserver un format→Recevoir le media kit. Audience professionnelle française · Référencé Google News · Cité par ChatGPT,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "USA TODAY poursuit OpenAI pour contenu d'actualité protégé par le droit d'auteur dans la...",
-      "link": "https://www.unite.ai/fr/usa-today-sues-openai-over-copyrighted-news-content-in-ai-training/",
-      "url": "https://www.unite.ai/fr/usa-today-sues-openai-over-copyrighted-news-content-in-ai-training/",
-      "publishedAt": "2026-10-08T16:32:13.000Z",
-      "date": "2026-10-08T16:32:13.000Z",
-      "description": "Conférences cybersécurité · Conférences robotique... Elle cite le responsable de ChatGPT chez OpenAI reconnaissant qu'une fois que ChatGPT...",
-      "excerpt": "Conférences cybersécurité · Conférences robotique... Elle cite le responsable de ChatGPT chez OpenAI reconnaissant qu'une fois que ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Prix EY de l'Entrepreneur de l'Année: l'Ouest récompense l'industrie, la tech et la création",
-      "link": "https://bigmedia.bpifrance.fr/nos-actualites/prix-ey-de-lentrepreneur-de-lannee-louest-recompense-lindustrie-la-tech-et-la-creation",
-      "url": "https://bigmedia.bpifrance.fr/nos-actualites/prix-ey-de-lentrepreneur-de-lannee-louest-recompense-lindustrie-la-tech-et-la-creation",
-      "publishedAt": "2026-10-08T16:24:36.000Z",
-      "date": "2026-10-08T16:24:36.000Z",
-      "description": "... cybersécurité ou de l'alimentation. 08 octobre 2026 Temps de lecture: 2-3 min. Partenaires Entrepreneuriat. Résumer avec: logo Mistral · logo ChatGPT...",
-      "excerpt": "... cybersécurité ou de l'alimentation. 08 octobre 2026 Temps de lecture: 2-3 min. Partenaires Entrepreneuriat. Résumer avec: logo Mistral · logo ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
