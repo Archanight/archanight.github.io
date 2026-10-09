@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T03:42:39.739Z",
+  "generatedAt": "2026-10-09T12:17:37.981Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Chatbots IA, le baromètre de septembre: Claude tombe sous 1%, ChatGPT remonte à 80%",
+      "link": "https://www.clubic.com/actualite-633280-chatbot-ia-le-barometre-de-septembre-claude-tombe-sous-1-chatgpt-remonte-a-80.html",
+      "url": "https://www.clubic.com/actualite-633280-chatbot-ia-le-barometre-de-septembre-claude-tombe-sous-1-chatgpt-remonte-a-80.html",
+      "publishedAt": "2026-10-09T09:37:55.000Z",
+      "date": "2026-10-09T09:37:55.000Z",
+      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Chatbots IA, le baromètre de septembre: Claude tombe sous 1%, ChatGPT...",
+      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Chatbots IA, le baromètre de septembre: Claude tombe sous 1%, ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI demande.gpt,. chatgpt et.agi à l'ICANN, 15 extensions - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/21788/openai-demande-icann-gpt-chatgpt-agi-extensions",
+      "url": "https://pasqualepillitteri.it/fr/news/21788/openai-demande-icann-gpt-chatgpt-agi-extensions",
+      "publishedAt": "2026-10-09T06:54:17.000Z",
+      "date": "2026-10-09T06:54:17.000Z",
+      "description": "OpenAI a demandé à l'ICANN quinze extensions de domaine de premier niveau (gTLD, generic top-level domain), dont. chatgpt,.gpt et.agi.",
+      "excerpt": "OpenAI a demandé à l'ICANN quinze extensions de domaine de premier niveau (gTLD, generic top-level domain), dont. chatgpt,.gpt et.agi.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-6 arrive enfin dans ChatGPT, et il fait bien que répondre seulement par du texte",
+      "link": "https://leclaireur.fnac.com/article/695951-gpt-6-arrive-enfin-dans-chatgpt-et-il-fait-bien-que-repondre-seulement-par-du-texte/",
+      "url": "https://leclaireur.fnac.com/article/695951-gpt-6-arrive-enfin-dans-chatgpt-et-il-fait-bien-que-repondre-seulement-par-du-texte/",
+      "publishedAt": "2026-10-09T06:43:45.000Z",
+      "date": "2026-10-09T06:43:45.000Z",
+      "description": "GPT-6 arrive enfin dans ChatGPT, et il fait bien que répondre seulement par du texte... cybersécurité · Société numérique. •. 30 sep. 2026. Avec les...",
+      "excerpt": "GPT-6 arrive enfin dans ChatGPT, et il fait bien que répondre seulement par du texte... cybersécurité · Société numérique. •. 30 sep. 2026. Avec les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT passe à GPT-6, avec une nouvelle interface interactive - BDM",
+      "link": "https://www.blogdumoderateur.com/chatgpt-passe-gpt-6-nouvelle-interface/",
+      "url": "https://www.blogdumoderateur.com/chatgpt-passe-gpt-6-nouvelle-interface/",
+      "publishedAt": "2026-10-09T04:42:19.000Z",
+      "date": "2026-10-09T04:42:19.000Z",
+      "description": "OpenAI ouvre GPT-6 au grand public avec Intelligent UI, une fonction qui génère des interfaces interactives directement dans les réponses de ChatGPT.",
+      "excerpt": "OpenAI ouvre GPT-6 au grand public avec Intelligent UI, une fonction qui génère des interfaces interactives directement dans les réponses de ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Un développeur chinois rend l'agent IA ARTEX « closed-source » après le piratage d'une...",
       "link": "https://www.boursorama.com/bourse/actualites-amp/un-developpeur-chinois-rend-l-agent-ia-artex-closed-source-apres-le-piratage-d-une-banque-coreenne-15e9f3d6b3c570a5fab81f43953d0345",
@@ -87,46 +127,6 @@
       "date": "2026-10-08T19:45:46.000Z",
       "description": "déploie ChatGPT Work et Codex auprès de plus de cent mille employés · délais de préparation en recrutement passent de 2-4 jours à 15-20 minutes · SRE et...",
       "excerpt": "déploie ChatGPT Work et Codex auprès de plus de cent mille employés · délais de préparation en recrutement passent de 2-4 jours à 15-20 minutes · SRE et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Adieu ChatGPT et Claude: Mistral n'est plus qu'à quelques mois des géants américains, d...",
-      "link": "https://www.journaldugeek.com/2026/10/08/adieu-chatgpt-et-claude-mistral-nest-plus-qua-quelques-mois-des-geants-americains-dapres-son-ceo/",
-      "url": "https://www.journaldugeek.com/2026/10/08/adieu-chatgpt-et-claude-mistral-nest-plus-qua-quelques-mois-des-geants-americains-dapres-son-ceo/",
-      "publishedAt": "2026-10-08T19:36:22.000Z",
-      "date": "2026-10-08T19:36:22.000Z",
-      "description": "Adieu ChatGPT et Claude: Mistral n'est plus qu'à quelques mois des... release the weights… pic.twitter.com/pzGQujfDlH. — Artificial Analysis...",
-      "excerpt": "Adieu ChatGPT et Claude: Mistral n'est plus qu'à quelques mois des... release the weights… pic.twitter.com/pzGQujfDlH. — Artificial Analysis...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "\" ChatGPT pour les adolescsents\": malgré les garde-fous, l'expérience conçue pour protéger... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/chat-gpt-pour-les-adolescsents-malgre-les-garde-fous-l-experience-concue-pour-proteger-les-mineurs-represente-un-risque-inacceptable-pour-eux-denonce-une-association_AV-202610080837.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/chat-gpt-pour-les-adolescsents-malgre-les-garde-fous-l-experience-concue-pour-proteger-les-mineurs-represente-un-risque-inacceptable-pour-eux-denonce-une-association_AV-202610080837.html",
-      "publishedAt": "2026-10-08T17:26:13.000Z",
-      "date": "2026-10-08T17:26:13.000Z",
-      "description": "Dans un rapport, l'ONG Common Sense Media pointe les nombreux défauts de \" ChatGPT... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'...",
-      "excerpt": "Dans un rapport, l'ONG Common Sense Media pointe les nombreux défauts de \" ChatGPT... Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT transforme ses réponses avec des visuels et des outils interactifs - Siècle Digital",
-      "link": "https://siecledigital.fr/2026/10/08/chatgpt-transforme-ses-reponses-avec-des-visuels-et-des-outils-interactifs/",
-      "url": "https://siecledigital.fr/2026/10/08/chatgpt-transforme-ses-reponses-avec-des-visuels-et-des-outils-interactifs/",
-      "publishedAt": "2026-10-08T16:55:50.000Z",
-      "date": "2026-10-08T16:55:50.000Z",
-      "description": "... Retail · Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT...",
-      "excerpt": "... Retail · Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Test d'une option de réinitialisation payante des limites sur ChatGPT - Zamin.uz",
-      "link": "https://zamin.uz/fr/technologie/223982-test-dune-option-de-reinitialisation-payante-des-limites-sur-chatgpt.html",
-      "url": "https://zamin.uz/fr/technologie/223982-test-dune-option-de-reinitialisation-payante-des-limites-sur-chatgpt.html",
-      "publishedAt": "2026-10-08T16:33:19.000Z",
-      "date": "2026-10-08T16:33:19.000Z",
-      "description": "Une option permettant de réinitialiser les limites d'utilisation de ChatGPT moyennant un paiement supplémentaire est en cours de…",
-      "excerpt": "Une option permettant de réinitialiser les limites d'utilisation de ChatGPT moyennant un paiement supplémentaire est en cours de…",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
