@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:35:49.412Z",
+  "generatedAt": "2026-10-10T16:36:45.358Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT Plus vs Google AI Pro: un prix presque identique, mais des avantages très différents",
+      "link": "https://www.zdnet.fr/guide-achat/chatgpt-plus-vs-google-ai-pro-un-prix-presque-identique-mais-des-avantages-tres-differents-505526.htm",
+      "url": "https://www.zdnet.fr/guide-achat/chatgpt-plus-vs-google-ai-pro-un-prix-presque-identique-mais-des-avantages-tres-differents-505526.htm",
+      "publishedAt": "2026-10-10T13:27:06.000Z",
+      "date": "2026-10-10T13:27:06.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... Parmi les nouveautés, on trouve ChatGPT Work (qui est ensuite...",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... Parmi les nouveautés, on trouve ChatGPT Work (qui est ensuite...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment les détecteurs d'IA devinent-ils qu'un texte vient de ChatGPT? - Clubic",
+      "link": "https://www.clubic.com/dossier-632884-comment-les-detecteurs-d-ia-devinent-ils-qu-un-texte-vient-de-chatgpt.html",
+      "url": "https://www.clubic.com/dossier-632884-comment-les-detecteurs-d-ia-devinent-ils-qu-un-texte-vient-de-chatgpt.html",
+      "publishedAt": "2026-10-10T13:19:09.000Z",
+      "date": "2026-10-10T13:19:09.000Z",
+      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Comment les détecteurs d'IA devinent-ils qu'un texte vient de ChatGPT?",
+      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Comment les détecteurs d'IA devinent-ils qu'un texte vient de ChatGPT?",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-6 Intelligent UI: 1,2 Md d'Utilisateurs ChatGPT [2026] - Tech Insider",
+      "link": "https://tech-insider.org/fr/gpt-6-intelligent-ui-chatgpt-2026/",
+      "url": "https://tech-insider.org/fr/gpt-6-intelligent-ui-chatgpt-2026/",
+      "publishedAt": "2026-10-10T10:18:10.000Z",
+      "date": "2026-10-10T10:18:10.000Z",
+      "description": "Tech Insider propose une couverture approfondie des technologies qui façonnent l'avenir: IA, cybersécurité, cloud, matériel et les tendances qui...",
+      "excerpt": "Tech Insider propose une couverture approfondie des technologies qui façonnent l'avenir: IA, cybersécurité, cloud, matériel et les tendances qui...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Sophos: temps d'enquête réduit de 96 % avec OpenAI Daybreak",
       "link": "https://openai.com/fr-FR/index/sophos/",
@@ -98,36 +128,6 @@
       "description": "OpenAI apprécie visiblement les mises à jour discrètes de ChatGPT, parfois déployées sans grande annonce préalable.",
       "excerpt": "OpenAI apprécie visiblement les mises à jour discrètes de ChatGPT, parfois déployées sans grande annonce préalable.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Après les fuites de Claude, ChatGPT et Grok, Duck.ai lance les partages sécurisés pour son chatbot",
-      "link": "https://www.clubic.com/actualite-633343-apres-les-fuites-de-claude-chatgpt-et-grok-duck-ai-lance-les-partages-securises-pour-son-chatbot.html",
-      "url": "https://www.clubic.com/actualite-633343-apres-les-fuites-de-claude-chatgpt-et-grok-duck-ai-lance-les-partages-securises-pour-son-chatbot.html",
-      "publishedAt": "2026-10-09T12:18:59.000Z",
-      "date": "2026-10-09T12:18:59.000Z",
-      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Après les fuites de Claude, ChatGPT et Grok, Duck.ai lance les partages...",
-      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Après les fuites de Claude, ChatGPT et Grok, Duck.ai lance les partages...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Muse leads ahead of ChatGPT, Meta shares surge 11.4% on Wall Street - BENIN WEB TV",
-      "link": "https://beninwebtv.bj/en/muse-leads-ahead-of-chatgpt-meta-shares-surge-11-4-on-wall-street/",
-      "url": "https://beninwebtv.bj/en/muse-leads-ahead-of-chatgpt-meta-shares-surge-11-4-on-wall-street/",
-      "publishedAt": "2026-10-09T10:40:58.000Z",
-      "date": "2026-10-09T10:40:58.000Z",
-      "description": "Muse, Meta's new artificial intelligence agent, has taken the lead among free applications on the US App Store, surpassing ChatGPT.",
-      "excerpt": "Muse, Meta's new artificial intelligence agent, has taken the lead among free applications on the US App Store, surpassing ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Chatbots IA, le baromètre de septembre: Claude tombe sous 1%, ChatGPT remonte à 80%",
-      "link": "https://www.clubic.com/actualite-633280-chatbot-ia-le-barometre-de-septembre-claude-tombe-sous-1-chatgpt-remonte-a-80.html",
-      "url": "https://www.clubic.com/actualite-633280-chatbot-ia-le-barometre-de-septembre-claude-tombe-sous-1-chatgpt-remonte-a-80.html",
-      "publishedAt": "2026-10-09T09:37:55.000Z",
-      "date": "2026-10-09T09:37:55.000Z",
-      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Chatbots IA, le baromètre de septembre: Claude tombe sous 1%, ChatGPT...",
-      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Chatbots IA, le baromètre de septembre: Claude tombe sous 1%, ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
