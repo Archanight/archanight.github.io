@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T16:36:45.358Z",
+  "generatedAt": "2026-10-10T20:53:13.504Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "A Amiens, des élèves analysent des affiches faites par IA: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/actu-locale/a-amiens-des-eleves-analysent-des-affiches-faites-par-ia-CNT000002sziKI.html",
+      "url": "https://actu.orange.fr/videos/actu-locale/a-amiens-des-eleves-analysent-des-affiches-faites-par-ia-CNT000002sziKI.html",
+      "publishedAt": "2026-10-10T15:46:50.000Z",
+      "date": "2026-10-10T15:46:50.000Z",
+      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Décodeur Home... Faut-il faire confiance à ChatGPT pour lui parler de ses problèmes de couple...",
+      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Décodeur Home... Faut-il faire confiance à ChatGPT pour lui parler de ses problèmes de couple...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le lancement de Spaces de Twitter, l'arrivée prochaine de Clubhouse sur Android... - Orange Actu",
+      "link": "https://actu.orange.fr/videos/economie/le-lancement-de-spaces-de-twitter-l-arrivee-prochaine-de-clubhouse-sur-android-le-debrief-de-l-actu-tech-du-lundi-03-05-CNT000002sxmPZ.html?pid=",
+      "url": "https://actu.orange.fr/videos/economie/le-lancement-de-spaces-de-twitter-l-arrivee-prochaine-de-clubhouse-sur-android-le-debrief-de-l-actu-tech-du-lundi-03-05-CNT000002sxmPZ.html?pid=",
+      "publishedAt": "2026-10-10T13:27:40.000Z",
+      "date": "2026-10-10T13:27:40.000Z",
+      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Décodeur... Le Tech Flash: De la pub en approche sur ChatGPT? Par Léa Benaim - 01...",
+      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Décodeur... Le Tech Flash: De la pub en approche sur ChatGPT? Par Léa Benaim - 01...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT Plus vs Google AI Pro: un prix presque identique, mais des avantages très différents",
       "link": "https://www.zdnet.fr/guide-achat/chatgpt-plus-vs-google-ai-pro-un-prix-presque-identique-mais-des-avantages-tres-differents-505526.htm",
@@ -35,9 +55,9 @@
       "url": "https://tech-insider.org/fr/gpt-6-intelligent-ui-chatgpt-2026/",
       "publishedAt": "2026-10-10T10:18:10.000Z",
       "date": "2026-10-10T10:18:10.000Z",
-      "description": "Tech Insider propose une couverture approfondie des technologies qui façonnent l'avenir: IA, cybersécurité, cloud, matériel et les tendances qui...",
-      "excerpt": "Tech Insider propose une couverture approfondie des technologies qui façonnent l'avenir: IA, cybersécurité, cloud, matériel et les tendances qui...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "description": "Selon les notes de version publiées par OpenAI, le déploiement mondial de GPT-6 avec Intelligent UI a démarré le 7 octobre 2026 dans l'onglet Chat de...",
+      "excerpt": "Selon les notes de version publiées par OpenAI, le déploiement mondial de GPT-6 avec Intelligent UI a démarré le 7 octobre 2026 dans l'onglet Chat de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Sophos: temps d'enquête réduit de 96 % avec OpenAI Daybreak",
@@ -107,26 +127,6 @@
       "date": "2026-10-09T14:34:34.000Z",
       "description": "Imaginez la puissance de Claude, ChatGPT et Gemini combinés, 100 % optimisé pour le marketing, et couplé à vos outils favoris (Notion, CapCut...",
       "excerpt": "Imaginez la puissance de Claude, ChatGPT et Gemini combinés, 100 % optimisé pour le marketing, et couplé à vos outils favoris (Notion, CapCut...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Revenus d'OpenAI sous les attentes, le Financial Times annonce 50 milliards et non 70",
-      "link": "https://pasqualepillitteri.it/fr/news/21873/revenus-openai-50-milliards-financial-times",
-      "url": "https://pasqualepillitteri.it/fr/news/21873/revenus-openai-50-milliards-financial-times",
-      "publishedAt": "2026-10-09T13:20:03.000Z",
-      "date": "2026-10-09T13:20:03.000Z",
-      "description": "Cybersécurité · Outils IA & Avis · Google AI & Gemini · Tech Automobile...",
-      "excerpt": "Cybersécurité · Outils IA & Avis · Google AI & Gemini · Tech Automobile...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT change de visage avec Intelligent UI: voici 5 nouvelles choses à essayer",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/chatgpt-change-de-visage-avec-intelligent-ui-voici-5-nouvelles-choses-a-essayer",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/chatgpt-change-de-visage-avec-intelligent-ui-voici-5-nouvelles-choses-a-essayer",
-      "publishedAt": "2026-10-09T13:10:16.000Z",
-      "date": "2026-10-09T13:10:16.000Z",
-      "description": "OpenAI apprécie visiblement les mises à jour discrètes de ChatGPT, parfois déployées sans grande annonce préalable.",
-      "excerpt": "OpenAI apprécie visiblement les mises à jour discrètes de ChatGPT, parfois déployées sans grande annonce préalable.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
