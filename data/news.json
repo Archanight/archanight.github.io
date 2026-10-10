@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T03:24:59.412Z",
+  "generatedAt": "2026-10-10T11:35:49.412Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,16 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Sophos: temps d'enquête réduit de 96 % avec OpenAI Daybreak",
+      "link": "https://openai.com/fr-FR/index/sophos/",
+      "url": "https://openai.com/fr-FR/index/sophos/",
+      "publishedAt": "2026-10-10T03:07:12.000Z",
+      "date": "2026-10-10T03:07:12.000Z",
+      "description": "Avec OpenAI Daybreak, Sophos allie intelligence de pointe et expertise en cybersécurité pour enquêter plus vite sur les menaces et protéger ses...",
+      "excerpt": "Avec OpenAI Daybreak, Sophos allie intelligence de pointe et expertise en cybersécurité pour enquêter plus vite sur les menaces et protéger ses...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "\"Ils n'oublient rien!\" Le Français DataDome alerte sur les données que l'on confie aux...",
       "link": "https://www.clubic.com/actualite-633367-ils-n-oublient-rien-le-francais-datadome-alerte-sur-les-donnees-que-l-on-confie-aux-fameux-agents-ia.html",
       "url": "https://www.clubic.com/actualite-633367-ils-n-oublient-rien-le-francais-datadome-alerte-sur-les-donnees-que-l-on-confie-aux-fameux-agents-ia.html",
@@ -18,6 +28,16 @@
       "description": "Les agents IA ne se contentent plus de lire le web, ils commencent à y faire des achats. Aux Assises de la cybersécurité, Gilles Walbrou,...",
       "excerpt": "Les agents IA ne se contentent plus de lire le web, ils commencent à y faire des achats. Aux Assises de la cybersécurité, Gilles Walbrou,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Faire évoluer Atlas vers ChatGPT pour le travail agentique basé sur navigateur",
+      "link": "https://help.openai.com/fr-fr/articles/20001371-chatgpt-atlas-retirement",
+      "url": "https://help.openai.com/fr-fr/articles/20001371-chatgpt-atlas-retirement",
+      "publishedAt": "2026-10-09T17:27:42.000Z",
+      "date": "2026-10-09T17:27:42.000Z",
+      "description": "Notes de version de ChatGPT Enterprise et Edu. Découvrez les nouvelles... ChatGPT — Notes de version. Journal des dernières mises à jour et...",
+      "excerpt": "Notes de version de ChatGPT Enterprise et Edu. Découvrez les nouvelles... ChatGPT — Notes de version. Journal des dernières mises à jour et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "OpenAI neutralise des campagnes d'influence russes et iraniennes - Armees.com",
@@ -108,26 +128,6 @@
       "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Chatbots IA, le baromètre de septembre: Claude tombe sous 1%, ChatGPT...",
       "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Chatbots IA, le baromètre de septembre: Claude tombe sous 1%, ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Trois chercheurs licenciés d'OpenAI l'accusent de faire taire ses spécialistes de la sécurité",
-      "link": "https://www.lagazettefrance.fr/article/trois-chercheurs-licencies-d-openai-l-accusent-de-faire-taire-ses-specialistes-de-la-securite",
-      "url": "https://www.lagazettefrance.fr/article/trois-chercheurs-licencies-d-openai-l-accusent-de-faire-taire-ses-specialistes-de-la-securite",
-      "publishedAt": "2026-10-09T07:57:02.000Z",
-      "date": "2026-10-09T07:57:02.000Z",
-      "description": "Trois chercheurs en sécurité d'OpenAI ont accusé jeudi le créateur de ChatGPT... Cybersécurité Informatique · La Gazette France · Linkedin La...",
-      "excerpt": "Trois chercheurs en sécurité d'OpenAI ont accusé jeudi le créateur de ChatGPT... Cybersécurité Informatique · La Gazette France · Linkedin La...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI demande.gpt,. chatgpt et.agi à l'ICANN, 15 extensions - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/21788/openai-demande-icann-gpt-chatgpt-agi-extensions",
-      "url": "https://pasqualepillitteri.it/fr/news/21788/openai-demande-icann-gpt-chatgpt-agi-extensions",
-      "publishedAt": "2026-10-09T06:54:17.000Z",
-      "date": "2026-10-09T06:54:17.000Z",
-      "description": "OpenAI a demandé à l'ICANN quinze extensions de domaine de premier niveau (gTLD, generic top-level domain), dont. chatgpt,.gpt et.agi.",
-      "excerpt": "OpenAI a demandé à l'ICANN quinze extensions de domaine de premier niveau (gTLD, generic top-level domain), dont. chatgpt,.gpt et.agi.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
