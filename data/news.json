@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T17:02:02.870Z",
+  "generatedAt": "2026-10-11T21:14:38.534Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Filigrane ChatGPT par langue, OpenAI dévoile les chiffres et le français tourne autour de 62 %",
+      "link": "https://pasqualepillitteri.it/fr/news/22794/filigrane-chatgpt-par-langue-openai-francais",
+      "url": "https://pasqualepillitteri.it/fr/news/22794/filigrane-chatgpt-par-langue-openai-francais",
+      "publishedAt": "2026-10-11T19:30:46.000Z",
+      "date": "2026-10-11T19:30:46.000Z",
+      "description": "ChatGPT · Grok · Jeux Vidéo · Cybersécurité · Apple · Applis Mobiles · IA en local...",
+      "excerpt": "ChatGPT · Grok · Jeux Vidéo · Cybersécurité · Apple · Applis Mobiles · IA en local...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Filigrane ChatGPT, pas de détecteur pour devoirs et mémoires, confirme OpenAI",
+      "link": "https://pasqualepillitteri.it/fr/news/22784/filigrane-chatgpt-detecteur-devoirs-memoires-openai",
+      "url": "https://pasqualepillitteri.it/fr/news/22784/filigrane-chatgpt-detecteur-devoirs-memoires-openai",
+      "publishedAt": "2026-10-11T19:28:52.000Z",
+      "date": "2026-10-11T19:28:52.000Z",
+      "description": "Cybersécurité · Apple · Applis Mobiles · IA... ChatGPT actualités ia outils ia chatgpt openai textGrain filigrane chatgpt intégrité académique...",
+      "excerpt": "Cybersécurité · Apple · Applis Mobiles · IA... ChatGPT actualités ia outils ia chatgpt openai textGrain filigrane chatgpt intégrité académique...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Filigrane ChatGPT, OpenAI confirme que les watermark remover échouent",
+      "link": "https://pasqualepillitteri.it/fr/news/22770/supprimer-filigrane-chatgpt-textgrain",
+      "url": "https://pasqualepillitteri.it/fr/news/22770/supprimer-filigrane-chatgpt-textgrain",
+      "publishedAt": "2026-10-11T18:46:08.000Z",
+      "date": "2026-10-11T18:46:08.000Z",
+      "description": "Cybersécurité · Apple · Applis Mobiles... L'espace U+202F est d'ailleurs réapparue plus tard dans les réponses de GPT-5...",
+      "excerpt": "Cybersécurité · Apple · Applis Mobiles... L'espace U+202F est d'ailleurs réapparue plus tard dans les réponses de GPT-5...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Bien avant ChatGPT, un mathématicien avait créé une souris capable d'apprendre sans ordinateur",
+      "link": "https://dailygeekshow.com/bien-avant-chatgpt-un-mathematicien-avait-cree-une-souris-capable-dapprendre-sans-ordinateur/",
+      "url": "https://dailygeekshow.com/bien-avant-chatgpt-un-mathematicien-avait-cree-une-souris-capable-dapprendre-sans-ordinateur/",
+      "publishedAt": "2026-10-11T17:32:26.000Z",
+      "date": "2026-10-11T17:32:26.000Z",
+      "description": "Cybersécurité · Entreprises & Startups · Robots & IA · Tests et Avis · Sciences... Bien avant ChatGPT, un mathématicien avait créé une souris capable d...",
+      "excerpt": "Cybersécurité · Entreprises & Startups · Robots & IA · Tests et Avis · Sciences... Bien avant ChatGPT, un mathématicien avait créé une souris capable d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT Plus vs Google AI Pro: innovation, tarifs et usages professionnels en 2026",
       "link": "https://infos-it.fr/tech/11856/chatgpt-plus-vs-google-ai-pro-innovation-tarifs-et-usages-professionnels-en-2026/",
@@ -87,46 +127,6 @@
       "date": "2026-10-10T15:46:50.000Z",
       "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Décodeur Home... Faut-il faire confiance à ChatGPT pour lui parler de ses problèmes de couple...",
       "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Décodeur Home... Faut-il faire confiance à ChatGPT pour lui parler de ses problèmes de couple...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "10 minutes d'IA réduisent la persévérance, dit l'étude de Berkeley - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/22293/10-minutes-ia-reduisent-perseverance-etude-berkeley",
-      "url": "https://pasqualepillitteri.it/fr/news/22293/10-minutes-ia-reduisent-perseverance-etude-berkeley",
-      "publishedAt": "2026-10-10T14:25:48.000Z",
-      "date": "2026-10-10T14:25:48.000Z",
-      "description": "On disait à tous qu'ils utiliseraient ChatGPT. Derrière la barre latérale se trouvait en réalité GPT-5, préconfiguré avec chaque problème et sa...",
-      "excerpt": "On disait à tous qu'ils utiliseraient ChatGPT. Derrière la barre latérale se trouvait en réalité GPT-5, préconfiguré avec chaque problème et sa...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Le lancement de Spaces de Twitter, l'arrivée prochaine de Clubhouse sur Android... - Orange Actu",
-      "link": "https://actu.orange.fr/videos/economie/le-lancement-de-spaces-de-twitter-l-arrivee-prochaine-de-clubhouse-sur-android-le-debrief-de-l-actu-tech-du-lundi-03-05-CNT000002sxmPZ.html?pid=",
-      "url": "https://actu.orange.fr/videos/economie/le-lancement-de-spaces-de-twitter-l-arrivee-prochaine-de-clubhouse-sur-android-le-debrief-de-l-actu-tech-du-lundi-03-05-CNT000002sxmPZ.html?pid=",
-      "publishedAt": "2026-10-10T13:27:40.000Z",
-      "date": "2026-10-10T13:27:40.000Z",
-      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Décodeur... Le Tech Flash: De la pub en approche sur ChatGPT? Par Léa Benaim - 01...",
-      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Décodeur... Le Tech Flash: De la pub en approche sur ChatGPT? Par Léa Benaim - 01...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Plus vs Google AI Pro: un prix presque identique, mais des avantages très différents",
-      "link": "https://www.zdnet.fr/guide-achat/chatgpt-plus-vs-google-ai-pro-un-prix-presque-identique-mais-des-avantages-tres-differents-505526.htm",
-      "url": "https://www.zdnet.fr/guide-achat/chatgpt-plus-vs-google-ai-pro-un-prix-presque-identique-mais-des-avantages-tres-differents-505526.htm",
-      "publishedAt": "2026-10-10T13:27:06.000Z",
-      "date": "2026-10-10T13:27:06.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... Parmi les nouveautés, on trouve ChatGPT Work (qui est ensuite...",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... Parmi les nouveautés, on trouve ChatGPT Work (qui est ensuite...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment les détecteurs d'IA devinent-ils qu'un texte vient de ChatGPT? - Clubic",
-      "link": "https://www.clubic.com/dossier-632884-comment-les-detecteurs-d-ia-devinent-ils-qu-un-texte-vient-de-chatgpt.html",
-      "url": "https://www.clubic.com/dossier-632884-comment-les-detecteurs-d-ia-devinent-ils-qu-un-texte-vient-de-chatgpt.html",
-      "publishedAt": "2026-10-10T13:19:09.000Z",
-      "date": "2026-10-10T13:19:09.000Z",
-      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Comment les détecteurs d'IA devinent-ils qu'un texte vient de ChatGPT?",
-      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Comment les détecteurs d'IA devinent-ils qu'un texte vient de ChatGPT?",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
