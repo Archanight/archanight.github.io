@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T11:49:11.863Z",
+  "generatedAt": "2026-10-11T17:02:02.870Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT Plus vs Google AI Pro: innovation, tarifs et usages professionnels en 2026",
+      "link": "https://infos-it.fr/tech/11856/chatgpt-plus-vs-google-ai-pro-innovation-tarifs-et-usages-professionnels-en-2026/",
+      "url": "https://infos-it.fr/tech/11856/chatgpt-plus-vs-google-ai-pro-innovation-tarifs-et-usages-professionnels-en-2026/",
+      "publishedAt": "2026-10-11T14:17:46.000Z",
+      "date": "2026-10-11T14:17:46.000Z",
+      "description": "Miguel Desforêt suit au quotidien l'actualité de l'informatique, de la cybersécurité et des nouvelles technologies. Il propose des analyses, des...",
+      "excerpt": "Miguel Desforêt suit au quotidien l'actualité de l'informatique, de la cybersécurité et des nouvelles technologies. Il propose des analyses, des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT contre Claude: OpenAI casse ses prix jusqu'à 80 % et bouscule Anthropic sur le...",
+      "link": "https://www.menow.fr/chatgpt-contre-claude-openai-casse-ses-prix-jusqua-80-et-bouscule-anthropic-sur-le-marche-de-lia/",
+      "url": "https://www.menow.fr/chatgpt-contre-claude-openai-casse-ses-prix-jusqua-80-et-bouscule-anthropic-sur-le-marche-de-lia/",
+      "publishedAt": "2026-10-11T12:35:04.000Z",
+      "date": "2026-10-11T12:35:04.000Z",
+      "description": "ChatGPT contre Claude: OpenAI... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
+      "excerpt": "ChatGPT contre Claude: OpenAI... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT vs Claude: quel abonnement IA est le plus généreux? Une étude a tranché",
+      "link": "https://www.01net.com/actualites/chatgpt-vs-claude-quel-abonnement-ia-est-le-plus-genereux-une-etude-a-tranche.html",
+      "url": "https://www.01net.com/actualites/chatgpt-vs-claude-quel-abonnement-ia-est-le-plus-genereux-une-etude-a-tranche.html",
+      "publishedAt": "2026-10-11T12:31:34.000Z",
+      "date": "2026-10-11T12:31:34.000Z",
+      "description": "ChatGPT vs Claude: quel abonnement IA est le plus généreux? Une... cybersécurité » · Citroen 2cv (1). Voici les 10 voitures incontournables à...",
+      "excerpt": "ChatGPT vs Claude: quel abonnement IA est le plus généreux? Une... cybersécurité » · Citroen 2cv (1). Voici les 10 voitures incontournables à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Anthropic lance Cyber Mission et un OSS Scanner gratuit - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/22686/anthropic-cyber-mission-oss-scanner-gratuit",
+      "url": "https://pasqualepillitteri.it/fr/news/22686/anthropic-cyber-mission-oss-scanner-gratuit",
+      "publishedAt": "2026-10-11T12:28:37.000Z",
+      "date": "2026-10-11T12:28:37.000Z",
+      "description": "OpenAI & ChatGPT · Économie SaaS... Cybersécurité cybersécurité anthropic cyber mission oss scanner claude...",
+      "excerpt": "OpenAI & ChatGPT · Économie SaaS... Cybersécurité cybersécurité anthropic cyber mission oss scanner claude...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Fuite de données: la Cnaf suspend un site d'urgence après un « incident de cybersécurité »",
+      "link": "https://www.01net.com/actualites/caf-vacaf-pirate-site-coupe-urgence-fuite-donnees.html",
+      "url": "https://www.01net.com/actualites/caf-vacaf-pirate-site-coupe-urgence-fuite-donnees.html",
+      "publishedAt": "2026-10-11T12:23:39.000Z",
+      "date": "2026-10-11T12:23:39.000Z",
+      "description": "La Cnaf a été victime d'un incident de cybersécurité sur Vacaf, le service d'aide aux vacances... ChatGPT vs Claude: quel abonnement IA est le plus...",
+      "excerpt": "La Cnaf a été victime d'un incident de cybersécurité sur Vacaf, le service d'aide aux vacances... ChatGPT vs Claude: quel abonnement IA est le plus...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Meta prospère après que l'agent Muse AI ait surpassé ChatGPT et Gemini à son lancement",
+      "link": "https://www.kucoin.com/fr/blog/hk-meta-stock-rises-muse-ai-launch",
+      "url": "https://www.kucoin.com/fr/blog/hk-meta-stock-rises-muse-ai-launch",
+      "publishedAt": "2026-10-11T06:25:53.000Z",
+      "date": "2026-10-11T06:25:53.000Z",
+      "description": "Meta prospère après que l'agent Muse AI ait surpassé ChatGPT et Gemini à son lancement... ( SOC 2 Type II, ISO 27001:2022). Créez votre compte en...",
+      "excerpt": "Meta prospère après que l'agent Muse AI ait surpassé ChatGPT et Gemini à son lancement... ( SOC 2 Type II, ISO 27001:2022). Créez votre compte en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT attaque SHA-256? L'attaque des anniversaires est une satire - Pasquale Pillitteri",
       "link": "https://pasqualepillitteri.it/fr/news/22364/chatgpt-sha-256-attaque-anniversaires-satire",
@@ -67,66 +127,6 @@
       "date": "2026-10-10T13:19:09.000Z",
       "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Comment les détecteurs d'IA devinent-ils qu'un texte vient de ChatGPT?",
       "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Comment les détecteurs d'IA devinent-ils qu'un texte vient de ChatGPT?",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Symboles dans les prompts ChatGPT, ce que recommande réellement OpenAI",
-      "link": "https://pasqualepillitteri.it/fr/news/22237/symboles-prompt-chatgpt-recommandations-openai",
-      "url": "https://pasqualepillitteri.it/fr/news/22237/symboles-prompt-chatgpt-recommandations-openai",
-      "publishedAt": "2026-10-10T10:57:04.000Z",
-      "date": "2026-10-10T10:57:04.000Z",
-      "description": "OpenAI recommande Markdown et les balises XML pour structurer les prompts ChatGPT. Ce que dit vraiment la documentation officielle à propos de #...",
-      "excerpt": "OpenAI recommande Markdown et les balises XML pour structurer les prompts ChatGPT. Ce que dit vraiment la documentation officielle à propos de #...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "GPT-6 Intelligent UI: 1,2 Md d'Utilisateurs ChatGPT [2026] - Tech Insider",
-      "link": "https://tech-insider.org/fr/gpt-6-intelligent-ui-chatgpt-2026/",
-      "url": "https://tech-insider.org/fr/gpt-6-intelligent-ui-chatgpt-2026/",
-      "publishedAt": "2026-10-10T10:18:10.000Z",
-      "date": "2026-10-10T10:18:10.000Z",
-      "description": "Selon les notes de version publiées par OpenAI, le déploiement mondial de GPT-6 avec Intelligent UI a démarré le 7 octobre 2026 dans l'onglet Chat de...",
-      "excerpt": "Selon les notes de version publiées par OpenAI, le déploiement mondial de GPT-6 avec Intelligent UI a démarré le 7 octobre 2026 dans l'onglet Chat de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Sophos: temps d'enquête réduit de 96 % avec OpenAI Daybreak",
-      "link": "https://openai.com/fr-FR/index/sophos/",
-      "url": "https://openai.com/fr-FR/index/sophos/",
-      "publishedAt": "2026-10-10T07:38:24.000Z",
-      "date": "2026-10-10T07:38:24.000Z",
-      "description": "Poursuivez votre lecture. Radisson Hotel Group — cover. Radisson Hotel Group fait découvrir ses hôtels dans ChatGPT... Notes de version. Plateforme...",
-      "excerpt": "Poursuivez votre lecture. Radisson Hotel Group — cover. Radisson Hotel Group fait découvrir ses hôtels dans ChatGPT... Notes de version. Plateforme...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Asana divise les coûts des modèles par 76 avec GPT-6.1 Sol - OpenAI",
-      "link": "https://openai.com/fr-FR/index/asana-browser-agent/",
-      "url": "https://openai.com/fr-FR/index/asana-browser-agent/",
-      "publishedAt": "2026-10-10T02:41:04.000Z",
-      "date": "2026-10-10T02:41:04.000Z",
-      "description": "ChatGPT (ouverture dans une nouvelle fenêtre) · ChatGPT Business... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
-      "excerpt": "ChatGPT (ouverture dans une nouvelle fenêtre) · ChatGPT Business... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT pour les adolescents testé, plusieurs fonctionnalités dites non fonctionnelles - VOI",
-      "link": "https://voi.id/fr/teknologi/597665",
-      "url": "https://voi.id/fr/teknologi/597665",
-      "publishedAt": "2026-10-09T21:05:42.000Z",
-      "date": "2026-10-09T21:05:42.000Z",
-      "description": "JAKARTA - ChatGPT pour les adolescents a été mis en lumière après que Common Sense Media a déclaré que plusieurs de ses fonctions de sécurité ne...",
-      "excerpt": "JAKARTA - ChatGPT pour les adolescents a été mis en lumière après que Common Sense Media a déclaré que plusieurs de ses fonctions de sécurité ne...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "\"Ils n'oublient rien!\" Le Français DataDome alerte sur les données que l'on confie aux...",
-      "link": "https://www.clubic.com/actualite-633367-ils-n-oublient-rien-le-francais-datadome-alerte-sur-les-donnees-que-l-on-confie-aux-fameux-agents-ia.html",
-      "url": "https://www.clubic.com/actualite-633367-ils-n-oublient-rien-le-francais-datadome-alerte-sur-les-donnees-que-l-on-confie-aux-fameux-agents-ia.html",
-      "publishedAt": "2026-10-09T18:02:43.000Z",
-      "date": "2026-10-09T18:02:43.000Z",
-      "description": "Les agents IA ne se contentent plus de lire le web, ils commencent à y faire des achats. Aux Assises de la cybersécurité, Gilles Walbrou,...",
-      "excerpt": "Les agents IA ne se contentent plus de lire le web, ils commencent à y faire des achats. Aux Assises de la cybersécurité, Gilles Walbrou,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
