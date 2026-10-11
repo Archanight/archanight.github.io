@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T20:53:13.504Z",
+  "generatedAt": "2026-10-11T02:58:04.391Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,16 @@
   "failedSources": [],
   "items": [
     {
+      "title": "ChatGPT attaque SHA-256? L'attaque des anniversaires est une satire - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/22364/chatgpt-sha-256-attaque-anniversaires-satire",
+      "url": "https://pasqualepillitteri.it/fr/news/22364/chatgpt-sha-256-attaque-anniversaires-satire",
+      "publishedAt": "2026-10-10T23:23:43.000Z",
+      "date": "2026-10-10T23:23:43.000Z",
+      "description": "BREAKING: We believe that ChatGPT has been performing a birthday attack on SHA256 every since its release. Our research team found tens of...",
+      "excerpt": "BREAKING: We believe that ChatGPT has been performing a birthday attack on SHA256 every since its release. Our research team found tens of...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "A Amiens, des élèves analysent des affiches faites par IA: Actualités - Orange Actu",
       "link": "https://actu.orange.fr/videos/actu-locale/a-amiens-des-eleves-analysent-des-affiches-faites-par-ia-CNT000002sziKI.html",
       "url": "https://actu.orange.fr/videos/actu-locale/a-amiens-des-eleves-analysent-des-affiches-faites-par-ia-CNT000002sziKI.html",
@@ -18,6 +28,16 @@
       "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Décodeur Home... Faut-il faire confiance à ChatGPT pour lui parler de ses problèmes de couple...",
       "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Décodeur Home... Faut-il faire confiance à ChatGPT pour lui parler de ses problèmes de couple...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "10 minutes d'IA réduisent la persévérance, dit l'étude de Berkeley - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/22293/10-minutes-ia-reduisent-perseverance-etude-berkeley",
+      "url": "https://pasqualepillitteri.it/fr/news/22293/10-minutes-ia-reduisent-perseverance-etude-berkeley",
+      "publishedAt": "2026-10-10T14:25:48.000Z",
+      "date": "2026-10-10T14:25:48.000Z",
+      "description": "On disait à tous qu'ils utiliseraient ChatGPT. Derrière la barre latérale se trouvait en réalité GPT-5, préconfiguré avec chaque problème et sa...",
+      "excerpt": "On disait à tous qu'ils utiliseraient ChatGPT. Derrière la barre latérale se trouvait en réalité GPT-5, préconfiguré avec chaque problème et sa...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Le lancement de Spaces de Twitter, l'arrivée prochaine de Clubhouse sur Android... - Orange Actu",
@@ -50,6 +70,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Symboles dans les prompts ChatGPT, ce que recommande réellement OpenAI",
+      "link": "https://pasqualepillitteri.it/fr/news/22237/symboles-prompt-chatgpt-recommandations-openai",
+      "url": "https://pasqualepillitteri.it/fr/news/22237/symboles-prompt-chatgpt-recommandations-openai",
+      "publishedAt": "2026-10-10T10:57:04.000Z",
+      "date": "2026-10-10T10:57:04.000Z",
+      "description": "OpenAI recommande Markdown et les balises XML pour structurer les prompts ChatGPT. Ce que dit vraiment la documentation officielle à propos de #...",
+      "excerpt": "OpenAI recommande Markdown et les balises XML pour structurer les prompts ChatGPT. Ce que dit vraiment la documentation officielle à propos de #...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "GPT-6 Intelligent UI: 1,2 Md d'Utilisateurs ChatGPT [2026] - Tech Insider",
       "link": "https://tech-insider.org/fr/gpt-6-intelligent-ui-chatgpt-2026/",
       "url": "https://tech-insider.org/fr/gpt-6-intelligent-ui-chatgpt-2026/",
@@ -63,11 +93,31 @@
       "title": "Sophos: temps d'enquête réduit de 96 % avec OpenAI Daybreak",
       "link": "https://openai.com/fr-FR/index/sophos/",
       "url": "https://openai.com/fr-FR/index/sophos/",
-      "publishedAt": "2026-10-10T03:07:12.000Z",
-      "date": "2026-10-10T03:07:12.000Z",
-      "description": "Avec OpenAI Daybreak, Sophos allie intelligence de pointe et expertise en cybersécurité pour enquêter plus vite sur les menaces et protéger ses...",
-      "excerpt": "Avec OpenAI Daybreak, Sophos allie intelligence de pointe et expertise en cybersécurité pour enquêter plus vite sur les menaces et protéger ses...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "publishedAt": "2026-10-10T07:38:24.000Z",
+      "date": "2026-10-10T07:38:24.000Z",
+      "description": "Poursuivez votre lecture. Radisson Hotel Group — cover. Radisson Hotel Group fait découvrir ses hôtels dans ChatGPT... Notes de version. Plateforme...",
+      "excerpt": "Poursuivez votre lecture. Radisson Hotel Group — cover. Radisson Hotel Group fait découvrir ses hôtels dans ChatGPT... Notes de version. Plateforme...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Asana divise les coûts des modèles par 76 avec GPT-6.1 Sol - OpenAI",
+      "link": "https://openai.com/fr-FR/index/asana-browser-agent/",
+      "url": "https://openai.com/fr-FR/index/asana-browser-agent/",
+      "publishedAt": "2026-10-10T02:41:04.000Z",
+      "date": "2026-10-10T02:41:04.000Z",
+      "description": "ChatGPT (ouverture dans une nouvelle fenêtre) · ChatGPT Business... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "excerpt": "ChatGPT (ouverture dans une nouvelle fenêtre) · ChatGPT Business... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT pour les adolescents testé, plusieurs fonctionnalités dites non fonctionnelles - VOI",
+      "link": "https://voi.id/fr/teknologi/597665",
+      "url": "https://voi.id/fr/teknologi/597665",
+      "publishedAt": "2026-10-09T21:05:42.000Z",
+      "date": "2026-10-09T21:05:42.000Z",
+      "description": "JAKARTA - ChatGPT pour les adolescents a été mis en lumière après que Common Sense Media a déclaré que plusieurs de ses fonctions de sécurité ne...",
+      "excerpt": "JAKARTA - ChatGPT pour les adolescents a été mis en lumière après que Common Sense Media a déclaré que plusieurs de ses fonctions de sécurité ne...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "\"Ils n'oublient rien!\" Le Français DataDome alerte sur les données que l'on confie aux...",
@@ -78,56 +128,6 @@
       "description": "Les agents IA ne se contentent plus de lire le web, ils commencent à y faire des achats. Aux Assises de la cybersécurité, Gilles Walbrou,...",
       "excerpt": "Les agents IA ne se contentent plus de lire le web, ils commencent à y faire des achats. Aux Assises de la cybersécurité, Gilles Walbrou,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Faire évoluer Atlas vers ChatGPT pour le travail agentique basé sur navigateur",
-      "link": "https://help.openai.com/fr-fr/articles/20001371-chatgpt-atlas-retirement",
-      "url": "https://help.openai.com/fr-fr/articles/20001371-chatgpt-atlas-retirement",
-      "publishedAt": "2026-10-09T17:27:42.000Z",
-      "date": "2026-10-09T17:27:42.000Z",
-      "description": "Notes de version de ChatGPT Enterprise et Edu. Découvrez les nouvelles... ChatGPT — Notes de version. Journal des dernières mises à jour et...",
-      "excerpt": "Notes de version de ChatGPT Enterprise et Edu. Découvrez les nouvelles... ChatGPT — Notes de version. Journal des dernières mises à jour et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI neutralise des campagnes d'influence russes et iraniennes - Armees.com",
-      "link": "https://armees.com/openai-neutralise-campagnes-influence-russes-iraniennes/",
-      "url": "https://armees.com/openai-neutralise-campagnes-influence-russes-iraniennes/",
-      "publishedAt": "2026-10-09T16:59:59.000Z",
-      "date": "2026-10-09T16:59:59.000Z",
-      "description": "OpenAI a fermé des comptes russes et iraniens utilisant ChatGPT pour mener des opérations de désinformation... cybersécurité ou la défense territoriale...",
-      "excerpt": "OpenAI a fermé des comptes russes et iraniens utilisant ChatGPT pour mener des opérations de désinformation... cybersécurité ou la défense territoriale...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Gemini dans Chrome lit l'onglet ouvert par défaut, Google confirme - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/21971/gemini-chrome-lit-onglet-ouvert-par-defaut",
-      "url": "https://pasqualepillitteri.it/fr/news/21971/gemini-chrome-lit-onglet-ouvert-par-defaut",
-      "publishedAt": "2026-10-09T16:57:01.000Z",
-      "date": "2026-10-09T16:57:01.000Z",
-      "description": "Cybersécurité · Jeux Vidéo · Apple... OpenAI & ChatGPT · Finance.",
-      "excerpt": "Cybersécurité · Jeux Vidéo · Apple... OpenAI & ChatGPT · Finance.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT for Teens: un test de sécurité révèle des lacunes dans les alertes aux parents",
-      "link": "https://www.notebookcheck.biz/ChatGPT-for-Teens-un-test-de-securite-revele-des-lacunes-dans-les-alertes-aux-parents.1420092.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-for-Teens-un-test-de-securite-revele-des-lacunes-dans-les-alertes-aux-parents.1420092.0.html",
-      "publishedAt": "2026-10-09T14:49:36.000Z",
-      "date": "2026-10-09T14:49:36.000Z",
-      "description": "Common Sense Media classe ChatGPT pour les adolescents comme présentant un « risque inacceptable ». Lors de plus de 4 000 tests, les parents n'ont...",
-      "excerpt": "Common Sense Media classe ChatGPT pour les adolescents comme présentant un « risque inacceptable ». Lors de plus de 4 000 tests, les parents n'ont...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Les vrais délais de Google: indexation, migration et core update (selon Gary Illyes)",
-      "link": "https://www.leptidigital.fr/webmarketing/seo/vrais-delais-google-indexation-migration-core-update-gary-illyes-92154/",
-      "url": "https://www.leptidigital.fr/webmarketing/seo/vrais-delais-google-indexation-migration-core-update-gary-illyes-92154/",
-      "publishedAt": "2026-10-09T14:34:34.000Z",
-      "date": "2026-10-09T14:34:34.000Z",
-      "description": "Imaginez la puissance de Claude, ChatGPT et Gemini combinés, 100 % optimisé pour le marketing, et couplé à vos outils favoris (Notion, CapCut...",
-      "excerpt": "Imaginez la puissance de Claude, ChatGPT et Gemini combinés, 100 % optimisé pour le marketing, et couplé à vos outils favoris (Notion, CapCut...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
