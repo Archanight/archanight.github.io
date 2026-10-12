@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T21:14:38.534Z",
+  "generatedAt": "2026-10-12T03:21:20.690Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Comment activer textGrain dans l'API OpenAI (et pourquoi le code est plus difficile à marquer)",
+      "link": "https://pasqualepillitteri.it/fr/news/22812/activer-textgrain-api-openai",
+      "url": "https://pasqualepillitteri.it/fr/news/22812/activer-textgrain-api-openai",
+      "publishedAt": "2026-10-11T19:44:50.000Z",
+      "date": "2026-10-11T19:44:50.000Z",
+      "description": "ChatGPT · Grok · Jeux Vidéo · Cybersécurité... Sur ChatGPT et Codex, en revanche, OpenAI déploie le filigrane dans...",
+      "excerpt": "ChatGPT · Grok · Jeux Vidéo · Cybersécurité... Sur ChatGPT et Codex, en revanche, OpenAI déploie le filigrane dans...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Filigrane ChatGPT par langue, OpenAI dévoile les chiffres et le français tourne autour de 62 %",
       "link": "https://pasqualepillitteri.it/fr/news/22794/filigrane-chatgpt-par-langue-openai-francais",
@@ -115,18 +125,8 @@
       "url": "https://pasqualepillitteri.it/fr/news/22364/chatgpt-sha-256-attaque-anniversaires-satire",
       "publishedAt": "2026-10-10T23:23:43.000Z",
       "date": "2026-10-10T23:23:43.000Z",
-      "description": "BREAKING: We believe that ChatGPT has been performing a birthday attack on SHA256 every since its release. Our research team found tens of...",
-      "excerpt": "BREAKING: We believe that ChatGPT has been performing a birthday attack on SHA256 every since its release. Our research team found tens of...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "A Amiens, des élèves analysent des affiches faites par IA: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/actu-locale/a-amiens-des-eleves-analysent-des-affiches-faites-par-ia-CNT000002sziKI.html",
-      "url": "https://actu.orange.fr/videos/actu-locale/a-amiens-des-eleves-analysent-des-affiches-faites-par-ia-CNT000002sziKI.html",
-      "publishedAt": "2026-10-10T15:46:50.000Z",
-      "date": "2026-10-10T15:46:50.000Z",
-      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Décodeur Home... Faut-il faire confiance à ChatGPT pour lui parler de ses problèmes de couple...",
-      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Décodeur Home... Faut-il faire confiance à ChatGPT pour lui parler de ses problèmes de couple...",
+      "description": "ChatGPT attaque SHA-256? L'attaque des anniversaires est une satire. Le... Cybersécurité · Actualités IA & Tendances...",
+      "excerpt": "ChatGPT attaque SHA-256? L'attaque des anniversaires est une satire. Le... Cybersécurité · Actualités IA & Tendances...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
