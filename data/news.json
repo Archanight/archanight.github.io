@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T13:54:42.938Z",
+  "generatedAt": "2026-10-12T23:57:34.041Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,124 +10,124 @@
   "failedSources": [],
   "items": [
     {
-      "title": "Culture IA: Il sera bientôt interdit de maltraiter l'IA, par Anthony Morel - 12/10 - Orange Actu",
-      "link": "https://actu.orange.fr/videos/economie/culture-ia-il-sera-bientot-interdit-de-maltraiter-l-ia-par-anthony-morel-12-10-CNT000002sEePC.html",
-      "url": "https://actu.orange.fr/videos/economie/culture-ia-il-sera-bientot-interdit-de-maltraiter-l-ia-par-anthony-morel-12-10-CNT000002sEePC.html",
-      "publishedAt": "2026-10-12T07:43:33.000Z",
-      "date": "2026-10-12T07:43:33.000Z",
-      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Décodeur Home... Tous publics. Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel -...",
-      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Décodeur Home... Tous publics. Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel -...",
+      "title": "\"Les cyberattaques constitueront le défi le plus marquant au cours de l'année à venir\": Bill... - BFM",
+      "link": "https://www.bfmtv.com/tech/cybersecurite/les-cyberattaques-constitueront-le-defi-le-plus-marquant-au-cours-de-l-annee-a-venir-bill-gates-s-inquiete-du-potentiel-destructeur-de-l-ia-en-matiere-de-cybersecurite-bien-plus-immediat-qu-une-ia-incontrolable_AD-202610120350.html",
+      "url": "https://www.bfmtv.com/tech/cybersecurite/les-cyberattaques-constitueront-le-defi-le-plus-marquant-au-cours-de-l-annee-a-venir-bill-gates-s-inquiete-du-potentiel-destructeur-de-l-ia-en-matiere-de-cybersecurite-bien-plus-immediat-qu-une-ia-incontrolable_AD-202610120350.html",
+      "publishedAt": "2026-10-12T21:22:22.000Z",
+      "date": "2026-10-12T21:22:22.000Z",
+      "description": "\"Au cours de l'année à venir, surtout dans le domaine de la cybersécurité... ChatGPT pour des opérations d'influence · \"Un système de freinage d...",
+      "excerpt": "\"Au cours de l'année à venir, surtout dans le domaine de la cybersécurité... ChatGPT pour des opérations d'influence · \"Un système de freinage d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Guerre en Ukraine, conflit entre les États-Unis et l'Iran: OpenAI a banni des comptes qui ont... - BFM",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/guerre-en-ukraine-conflit-entre-les-etats-unis-et-l-iran-open-ai-a-banni-des-comptes-qui-ont-utilise-chat-gpt-pour-des-operations-d-influence_AN-202610120802.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/guerre-en-ukraine-conflit-entre-les-etats-unis-et-l-iran-open-ai-a-banni-des-comptes-qui-ont-utilise-chat-gpt-pour-des-operations-d-influence_AN-202610120802.html",
+      "publishedAt": "2026-10-12T17:53:46.000Z",
+      "date": "2026-10-12T17:53:46.000Z",
+      "description": "Depuis deux ans et demi, OpenAI lutte contre l'utilisation de ChatGPT par des acteurs malveillants.... cybersécurité, bien plus immédiat qu'une \"IA...",
+      "excerpt": "Depuis deux ans et demi, OpenAI lutte contre l'utilisation de ChatGPT par des acteurs malveillants.... cybersécurité, bien plus immédiat qu'une \"IA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cloud et cybersécurité: les opérateurs télécoms insistent sur la maîtrise des données et... - Le Matin",
+      "link": "https://lematin.ma/hi-tech/cloud-les-operateurs-telecoms-insistent-sur-la-maitrise-des-donnees/369903/amp",
+      "url": "https://lematin.ma/hi-tech/cloud-les-operateurs-telecoms-insistent-sur-la-maitrise-des-donnees/369903/amp",
+      "publishedAt": "2026-10-12T16:54:39.000Z",
+      "date": "2026-10-12T16:54:39.000Z",
+      "description": "C'est l'un des principaux messages de la Semaine nationale de la cybersécurité, « Morocco CyberSecurity Week », organisée du 12 au 14 octobre à Rabat...",
+      "excerpt": "C'est l'un des principaux messages de la Semaine nationale de la cybersécurité, « Morocco CyberSecurity Week », organisée du 12 au 14 octobre à Rabat...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Votre PC Windows pourrait être privé de mise à jour en 2027, mais il y a un moyen d'éviter ça",
+      "link": "https://www.01net.com/actualites/votre-pc-windows-pourrait-etre-prive-de-mise-a-jour-en-2027-mais-il-y-a-un-moyen-deviter-ca.html",
+      "url": "https://www.01net.com/actualites/votre-pc-windows-pourrait-etre-prive-de-mise-a-jour-en-2027-mais-il-y-a-un-moyen-deviter-ca.html",
+      "publishedAt": "2026-10-12T16:31:46.000Z",
+      "date": "2026-10-12T16:31:46.000Z",
+      "description": "Cela concerne les machines qui n'auront pas reçu les nouveaux certificats de Windows Update.... Après le fiasco GPT-4o, OpenAI promet un ChatGPT moins...",
+      "excerpt": "Cela concerne les machines qui n'auront pas reçu les nouveaux certificats de Windows Update.... Après le fiasco GPT-4o, OpenAI promet un ChatGPT moins...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Un VPN protège-t-il vraiment la confidentialité avec ChatGPT ou Claude? Voici ce qu'il peut",
+      "link": "https://global.techradar.com/fr-fr/vpn/vpn-privacy-security/un-vpn-protege-t-il-vraiment-la-confidentialite-avec-chatgpt-ou-claude-voici-ce-quil-peut-et-ne-peut-pas-cacher",
+      "url": "https://global.techradar.com/fr-fr/vpn/vpn-privacy-security/un-vpn-protege-t-il-vraiment-la-confidentialite-avec-chatgpt-ou-claude-voici-ce-quil-peut-et-ne-peut-pas-cacher",
+      "publishedAt": "2026-10-12T16:20:17.000Z",
+      "date": "2026-10-12T16:20:17.000Z",
+      "description": "ChatGPT ChatGPT peut-il vraiment remplacer vos applications? Nous l'avons... Pro Bâtir des fondations de cybersécurité solides à l'ère de l'IA.",
+      "excerpt": "ChatGPT ChatGPT peut-il vraiment remplacer vos applications? Nous l'avons... Pro Bâtir des fondations de cybersécurité solides à l'ère de l'IA.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Après le fiasco GPT-4o, OpenAI promet un ChatGPT moins flatteur - 01net.com",
+      "link": "https://www.01net.com/actualites/apres-le-fiasco-gpt-4o-openai-promet-un-chatgpt-moins-flatteur.html",
+      "url": "https://www.01net.com/actualites/apres-le-fiasco-gpt-4o-openai-promet-un-chatgpt-moins-flatteur.html",
+      "publishedAt": "2026-10-12T16:01:50.000Z",
+      "date": "2026-10-12T16:01:50.000Z",
+      "description": "Retrait du modèle le plus complaisant, bancs d'essai dédiés, garde-fous pour les mineurs: OpenAI affirme que ChatGPT... Cybersécurité · Société...",
+      "excerpt": "Retrait du modèle le plus complaisant, bancs d'essai dédiés, garde-fous pour les mineurs: OpenAI affirme que ChatGPT... Cybersécurité · Société...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les 100 outils IA les plus utilisés dans le monde à l'automne 2026 - BDM",
+      "link": "https://www.blogdumoderateur.com/100-outils-ia-plus-utilises-monde-automne-2026/",
+      "url": "https://www.blogdumoderateur.com/100-outils-ia-plus-utilises-monde-automne-2026/",
+      "publishedAt": "2026-10-12T15:14:40.000Z",
+      "date": "2026-10-12T15:14:40.000Z",
+      "description": "ChatGPT reste l'outil d'IA générative le plus utilisé au monde, sur le... Cybersécurité: les attaquants exploitent la confiance des...",
+      "excerpt": "ChatGPT reste l'outil d'IA générative le plus utilisé au monde, sur le... Cybersécurité: les attaquants exploitent la confiance des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Home Assistant ouvre grand les portes de votre maison à ChatGPT et Claude, mais...",
+      "link": "https://www.clubic.com/actualite-633793-home-assistant-ouvre-grand-les-portes-de-votre-maison-a-chatgpt-et-claude-mais-attention-a-ce-detail.html",
+      "url": "https://www.clubic.com/actualite-633793-home-assistant-ouvre-grand-les-portes-de-votre-maison-a-chatgpt-et-claude-mais-attention-a-ce-detail.html",
+      "publishedAt": "2026-10-12T14:39:04.000Z",
+      "date": "2026-10-12T14:39:04.000Z",
+      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Home Assistant ouvre grand les portes de votre maison à ChatGPT et Claude...",
+      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Home Assistant ouvre grand les portes de votre maison à ChatGPT et Claude...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cybersécurité: jusqu'à 5 ans pour corriger une faille, les logiciels de santé traînent des pieds",
+      "link": "https://www.whatsupdoc-lemag.fr/article/cybersecurite-jusqua-5-ans-pour-corriger-une-faille-les-logiciels-de-sante-trainent-des",
+      "url": "https://www.whatsupdoc-lemag.fr/article/cybersecurite-jusqua-5-ans-pour-corriger-une-faille-les-logiciels-de-sante-trainent-des",
+      "publishedAt": "2026-10-12T14:37:36.000Z",
+      "date": "2026-10-12T14:37:36.000Z",
+      "description": "... cybersécurité, malgré des risques pour les données et la sécurité des patients... Article ChatGPT, imagerie, DPI… l'IA en médecine, c'est quoi au juste...",
+      "excerpt": "... cybersécurité, malgré des risques pour les données et la sécurité des patients... Article ChatGPT, imagerie, DPI… l'IA en médecine, c'est quoi au juste...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Si l'IA ne vous connaît pas, vous n'existez pas: comment Getmint aide L'Oréal, Accor... - Challenges",
+      "link": "https://www.challenges.fr/entreprise/tech-numerique/si-lia-ne-vous-connait-pas-vous-nexistez-pas-comment-getmint-aide-loreal-accor-ou-encore-bnp-a-emerger-sur-chatgpt-ou-gemini_646275",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/si-lia-ne-vous-connait-pas-vous-nexistez-pas-comment-getmint-aide-loreal-accor-ou-encore-bnp-a-emerger-sur-chatgpt-ou-gemini_646275",
+      "publishedAt": "2026-10-12T14:01:50.000Z",
+      "date": "2026-10-12T14:01:50.000Z",
+      "description": "Chaque modèle a aussi ses penchants: celui de Google s'appuie volontiers sur YouTube, quand ChatGPT... Les Assises de la cybersécurité.",
+      "excerpt": "Chaque modèle a aussi ses penchants: celui de Google s'appuie volontiers sur YouTube, quand ChatGPT... Les Assises de la cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "Publicités ChatGPT: OpenAI teste un nouveau format visuel (ce qu'il faut savoir)",
       "link": "https://www.leptidigital.fr/webmarketing/publicites-chatgpt-nouveau-format-visuel-92158/",
       "url": "https://www.leptidigital.fr/webmarketing/publicites-chatgpt-nouveau-format-visuel-92158/",
-      "publishedAt": "2026-10-12T07:43:25.000Z",
-      "date": "2026-10-12T07:43:25.000Z",
-      "description": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Aperçu du nouveau format publicitaire visuel de ChatGPT. Pour...",
-      "excerpt": "... Cybersécurité · Web analytics · WordPress · Webdesign · High-tech · VPN · RGPD... Aperçu du nouveau format publicitaire visuel de ChatGPT. Pour...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "publishedAt": "2026-10-12T13:43:25.000Z",
+      "date": "2026-10-12T13:43:25.000Z",
+      "description": "OpenAI va tester, d'ici la fin octobre aux États-Unis, un format publicitaire visuel affiché pendant que ChatGPT génère une image.",
+      "excerpt": "OpenAI va tester, d'ici la fin octobre aux États-Unis, un format publicitaire visuel affiché pendant que ChatGPT génère une image.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "Comment activer textGrain dans l'API OpenAI (et pourquoi le code est plus difficile à marquer)",
-      "link": "https://pasqualepillitteri.it/fr/news/22812/activer-textgrain-api-openai",
-      "url": "https://pasqualepillitteri.it/fr/news/22812/activer-textgrain-api-openai",
-      "publishedAt": "2026-10-11T19:44:50.000Z",
-      "date": "2026-10-11T19:44:50.000Z",
-      "description": "ChatGPT · Grok · Jeux Vidéo · Cybersécurité... Sur ChatGPT et Codex, en revanche, OpenAI déploie le filigrane dans...",
-      "excerpt": "ChatGPT · Grok · Jeux Vidéo · Cybersécurité... Sur ChatGPT et Codex, en revanche, OpenAI déploie le filigrane dans...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Filigrane ChatGPT par langue, OpenAI dévoile les chiffres et le français tourne autour de 62 %",
-      "link": "https://pasqualepillitteri.it/fr/news/22794/filigrane-chatgpt-par-langue-openai-francais",
-      "url": "https://pasqualepillitteri.it/fr/news/22794/filigrane-chatgpt-par-langue-openai-francais",
-      "publishedAt": "2026-10-11T19:30:46.000Z",
-      "date": "2026-10-11T19:30:46.000Z",
-      "description": "ChatGPT · Grok · Jeux Vidéo · Cybersécurité · Apple · Applis Mobiles · IA en local...",
-      "excerpt": "ChatGPT · Grok · Jeux Vidéo · Cybersécurité · Apple · Applis Mobiles · IA en local...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Filigrane ChatGPT, pas de détecteur pour devoirs et mémoires, confirme OpenAI",
-      "link": "https://pasqualepillitteri.it/fr/news/22784/filigrane-chatgpt-detecteur-devoirs-memoires-openai",
-      "url": "https://pasqualepillitteri.it/fr/news/22784/filigrane-chatgpt-detecteur-devoirs-memoires-openai",
-      "publishedAt": "2026-10-11T19:28:52.000Z",
-      "date": "2026-10-11T19:28:52.000Z",
-      "description": "Cybersécurité · Apple · Applis Mobiles · IA... ChatGPT actualités ia outils ia chatgpt openai textGrain filigrane chatgpt intégrité académique...",
-      "excerpt": "Cybersécurité · Apple · Applis Mobiles · IA... ChatGPT actualités ia outils ia chatgpt openai textGrain filigrane chatgpt intégrité académique...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Filigrane ChatGPT, OpenAI confirme que les watermark remover échouent",
-      "link": "https://pasqualepillitteri.it/fr/news/22770/supprimer-filigrane-chatgpt-textgrain",
-      "url": "https://pasqualepillitteri.it/fr/news/22770/supprimer-filigrane-chatgpt-textgrain",
-      "publishedAt": "2026-10-11T18:46:08.000Z",
-      "date": "2026-10-11T18:46:08.000Z",
-      "description": "Cybersécurité · Apple · Applis Mobiles... L'espace U+202F est d'ailleurs réapparue plus tard dans les réponses de GPT-5...",
-      "excerpt": "Cybersécurité · Apple · Applis Mobiles... L'espace U+202F est d'ailleurs réapparue plus tard dans les réponses de GPT-5...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Bien avant ChatGPT, un mathématicien avait créé une souris capable d'apprendre sans ordinateur",
-      "link": "https://dailygeekshow.com/bien-avant-chatgpt-un-mathematicien-avait-cree-une-souris-capable-dapprendre-sans-ordinateur/",
-      "url": "https://dailygeekshow.com/bien-avant-chatgpt-un-mathematicien-avait-cree-une-souris-capable-dapprendre-sans-ordinateur/",
-      "publishedAt": "2026-10-11T17:32:26.000Z",
-      "date": "2026-10-11T17:32:26.000Z",
-      "description": "Cybersécurité · Entreprises & Startups · Robots & IA · Tests et Avis · Sciences... Bien avant ChatGPT, un mathématicien avait créé une souris capable d...",
-      "excerpt": "Cybersécurité · Entreprises & Startups · Robots & IA · Tests et Avis · Sciences... Bien avant ChatGPT, un mathématicien avait créé une souris capable d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT pouvait être détourné sur Mac pour lire vos conversations et exécuter des commandes",
-      "link": "https://www.macg.co/intelligence-artificielle/2026/10/chatgpt-pouvait-etre-detourne-sur-mac-pour-lire-vos-conversations-et-executer-des-commandes-311567",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/10/chatgpt-pouvait-etre-detourne-sur-mac-pour-lire-vos-conversations-et-executer-des-commandes-311567",
-      "publishedAt": "2026-10-11T14:39:51.000Z",
-      "date": "2026-10-11T14:39:51.000Z",
-      "description": "ChatGPT pouvait être détourné sur Mac pour lire vos conversations et exécuter des commandes... CVE -2026-100754: ChatGPT's code-signing checks on macOS/...",
-      "excerpt": "ChatGPT pouvait être détourné sur Mac pour lire vos conversations et exécuter des commandes... CVE -2026-100754: ChatGPT's code-signing checks on macOS/...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "ChatGPT Plus vs Google AI Pro: innovation, tarifs et usages professionnels en 2026",
-      "link": "https://infos-it.fr/tech/11856/chatgpt-plus-vs-google-ai-pro-innovation-tarifs-et-usages-professionnels-en-2026/",
-      "url": "https://infos-it.fr/tech/11856/chatgpt-plus-vs-google-ai-pro-innovation-tarifs-et-usages-professionnels-en-2026/",
-      "publishedAt": "2026-10-11T14:17:46.000Z",
-      "date": "2026-10-11T14:17:46.000Z",
-      "description": "Miguel Desforêt suit au quotidien l'actualité de l'informatique, de la cybersécurité et des nouvelles technologies. Il propose des analyses, des...",
-      "excerpt": "Miguel Desforêt suit au quotidien l'actualité de l'informatique, de la cybersécurité et des nouvelles technologies. Il propose des analyses, des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT contre Claude: OpenAI casse ses prix jusqu'à 80 % et bouscule Anthropic sur le...",
-      "link": "https://www.menow.fr/chatgpt-contre-claude-openai-casse-ses-prix-jusqua-80-et-bouscule-anthropic-sur-le-marche-de-lia/",
-      "url": "https://www.menow.fr/chatgpt-contre-claude-openai-casse-ses-prix-jusqua-80-et-bouscule-anthropic-sur-le-marche-de-lia/",
-      "publishedAt": "2026-10-11T12:35:04.000Z",
-      "date": "2026-10-11T12:35:04.000Z",
-      "description": "ChatGPT contre Claude: OpenAI... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
-      "excerpt": "ChatGPT contre Claude: OpenAI... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT vs Claude: quel abonnement IA est le plus généreux? Une étude a tranché",
-      "link": "https://www.01net.com/actualites/chatgpt-vs-claude-quel-abonnement-ia-est-le-plus-genereux-une-etude-a-tranche.html",
-      "url": "https://www.01net.com/actualites/chatgpt-vs-claude-quel-abonnement-ia-est-le-plus-genereux-une-etude-a-tranche.html",
-      "publishedAt": "2026-10-11T12:31:34.000Z",
-      "date": "2026-10-11T12:31:34.000Z",
-      "description": "ChatGPT vs Claude: quel abonnement IA est le plus généreux? Une... cybersécurité » · Citroen 2cv (1). Voici les 10 voitures incontournables à...",
-      "excerpt": "ChatGPT vs Claude: quel abonnement IA est le plus généreux? Une... cybersécurité » · Citroen 2cv (1). Voici les 10 voitures incontournables à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic lance Cyber Mission et un OSS Scanner gratuit - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/22686/anthropic-cyber-mission-oss-scanner-gratuit",
-      "url": "https://pasqualepillitteri.it/fr/news/22686/anthropic-cyber-mission-oss-scanner-gratuit",
-      "publishedAt": "2026-10-11T12:28:37.000Z",
-      "date": "2026-10-11T12:28:37.000Z",
-      "description": "OpenAI & ChatGPT · Économie SaaS... Cybersécurité cybersécurité anthropic cyber mission oss scanner claude...",
-      "excerpt": "OpenAI & ChatGPT · Économie SaaS... Cybersécurité cybersécurité anthropic cyber mission oss scanner claude...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "title": "GPT-6 ChatGPT gratuit, Claude, WordPress: 5 infos IA - Info-lux.com",
+      "link": "https://www.info-lux.com/gpt-6-chatgpt-gratuit-claude-faux-sites-recap-semaine/intelligence-artificielle/",
+      "url": "https://www.info-lux.com/gpt-6-chatgpt-gratuit-claude-faux-sites-recap-semaine/intelligence-artificielle/",
+      "publishedAt": "2026-10-12T13:04:01.000Z",
+      "date": "2026-10-12T13:04:01.000Z",
+      "description": "IA et web, la semaine du 5 au 11 octobre 2026: GPT-6 arrive dans ChatGPT... Google Search Status Dashboard — September 2026 spam update (terminée le 8...",
+      "excerpt": "IA et web, la semaine du 5 au 11 octobre 2026: GPT-6 arrive dans ChatGPT... Google Search Status Dashboard — September 2026 spam update (terminée le 8...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
