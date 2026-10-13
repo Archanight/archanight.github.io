@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T05:23:44.470Z",
+  "generatedAt": "2026-10-13T13:11:36.033Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "De faux sites Gemini, ChatGPT et Perplexity attaquent des comptes publicitaires",
+      "link": "https://africanmanager.com/de-faux-sites-gemini-chatgpt-et-perplexity-attaquent-des-comptes-publicitaires/",
+      "url": "https://africanmanager.com/de-faux-sites-gemini-chatgpt-et-perplexity-attaquent-des-comptes-publicitaires/",
+      "publishedAt": "2026-10-13T08:57:53.000Z",
+      "date": "2026-10-13T08:57:53.000Z",
+      "description": "De faux sites Gemini, ChatGPT et Perplexity attaquent des comptes publicitaires! Par. Africanmanager. -. 13 octobre 2026. 0.",
+      "excerpt": "De faux sites Gemini, ChatGPT et Perplexity attaquent des comptes publicitaires! Par. Africanmanager. -. 13 octobre 2026. 0.",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
+      "title": "Bricksforge, la faille CVE -2026-85097 de WordPress exploitée, CVSS 10 - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/23303/bricksforge-cve-2026-85097-faille-wordpress-exploitee",
+      "url": "https://pasqualepillitteri.it/fr/news/23303/bricksforge-cve-2026-85097-faille-wordpress-exploitee",
+      "publishedAt": "2026-10-13T07:17:16.000Z",
+      "date": "2026-10-13T07:17:16.000Z",
+      "description": "ChatGPT · Applis Mobiles · IA en local... Les premières attaques remontent au 7 octobre 2026 à 21 h 47 UTC. Bricksforge CVE...",
+      "excerpt": "ChatGPT · Applis Mobiles · IA en local... Les premières attaques remontent au 7 octobre 2026 à 21 h 47 UTC. Bricksforge CVE...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
+      "title": "Muse Wonder, le grand comeback de Meta dans l'IA, par Anthony Morel - 13/10: Actualités",
+      "link": "https://actu.orange.fr/videos/economie/culture-ia-muse-wonder-le-grand-comeback-de-meta-dans-l-ia-par-anthony-morel-13-10-CNT000002sILWz.html",
+      "url": "https://actu.orange.fr/videos/economie/culture-ia-muse-wonder-le-grand-comeback-de-meta-dans-l-ia-par-anthony-morel-13-10-CNT000002sILWz.html",
+      "publishedAt": "2026-10-13T06:52:58.000Z",
+      "date": "2026-10-13T06:52:58.000Z",
+      "description": "Ce mardi 13 octobre, l'annonce de Meta de sa dernière IA plus performante que les meilleures versions de ChatGPT... Cybersécurité et Télésurveillance...",
+      "excerpt": "Ce mardi 13 octobre, l'annonce de Meta de sa dernière IA plus performante que les meilleures versions de ChatGPT... Cybersécurité et Télésurveillance...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Assises de la cybersécurité: l'ANSSI rejette les solutions miracles - ITforBusiness.fr",
+      "link": "https://www.itforbusiness.fr/assises-cybersecurite-anssi-solutions-miracles-108438",
+      "url": "https://www.itforbusiness.fr/assises-cybersecurite-anssi-solutions-miracles-108438",
+      "publishedAt": "2026-10-13T06:03:04.000Z",
+      "date": "2026-10-13T06:03:04.000Z",
+      "description": "Aux Assises de la cybersécurité, à Monaco, l'heure des vérités plutôt que des miracles... Accès à Albert ( ChatGPT for IT). +. Contenus réservés à la...",
+      "excerpt": "Aux Assises de la cybersécurité, à Monaco, l'heure des vérités plutôt que des miracles... Accès à Albert ( ChatGPT for IT). +. Contenus réservés à la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "N °2 de l'application gratuite dans l'Apple App Store américain le 16 octobre - Polymarket",
       "link": "https://polymarket.com/fr/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012?marketSlug=will-chatgpt-be-2-free-app-in-the-us-apple-app-store-on-october-16-20261012&outcomeIndex=1",
@@ -87,46 +127,6 @@
       "date": "2026-10-12T15:16:04.000Z",
       "description": "Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts. Screeners. Actions · ETFs · Obligations · Crypto coins · Paires CEX · Paires DEX...",
       "excerpt": "Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts. Screeners. Actions · ETFs · Obligations · Crypto coins · Paires CEX · Paires DEX...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les 100 outils IA les plus utilisés dans le monde à l'automne 2026 - BDM",
-      "link": "https://www.blogdumoderateur.com/100-outils-ia-plus-utilises-monde-automne-2026/",
-      "url": "https://www.blogdumoderateur.com/100-outils-ia-plus-utilises-monde-automne-2026/",
-      "publishedAt": "2026-10-12T15:14:40.000Z",
-      "date": "2026-10-12T15:14:40.000Z",
-      "description": "ChatGPT reste l'outil d'IA générative le plus utilisé au monde, sur le... Cybersécurité: les attaquants exploitent la confiance des...",
-      "excerpt": "ChatGPT reste l'outil d'IA générative le plus utilisé au monde, sur le... Cybersécurité: les attaquants exploitent la confiance des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Home Assistant ouvre grand les portes de votre maison à ChatGPT et Claude, mais...",
-      "link": "https://www.clubic.com/actualite-633793-home-assistant-ouvre-grand-les-portes-de-votre-maison-a-chatgpt-et-claude-mais-attention-a-ce-detail.html",
-      "url": "https://www.clubic.com/actualite-633793-home-assistant-ouvre-grand-les-portes-de-votre-maison-a-chatgpt-et-claude-mais-attention-a-ce-detail.html",
-      "publishedAt": "2026-10-12T14:39:04.000Z",
-      "date": "2026-10-12T14:39:04.000Z",
-      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Home Assistant ouvre grand les portes de votre maison à ChatGPT et Claude...",
-      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... Home Assistant ouvre grand les portes de votre maison à ChatGPT et Claude...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité: jusqu'à 5 ans pour corriger une faille, les logiciels de santé traînent des pieds",
-      "link": "https://www.whatsupdoc-lemag.fr/article/cybersecurite-jusqua-5-ans-pour-corriger-une-faille-les-logiciels-de-sante-trainent-des",
-      "url": "https://www.whatsupdoc-lemag.fr/article/cybersecurite-jusqua-5-ans-pour-corriger-une-faille-les-logiciels-de-sante-trainent-des",
-      "publishedAt": "2026-10-12T14:37:36.000Z",
-      "date": "2026-10-12T14:37:36.000Z",
-      "description": "... cybersécurité, malgré des risques pour les données et la sécurité des patients... Article ChatGPT, imagerie, DPI… l'IA en médecine, c'est quoi au juste...",
-      "excerpt": "... cybersécurité, malgré des risques pour les données et la sécurité des patients... Article ChatGPT, imagerie, DPI… l'IA en médecine, c'est quoi au juste...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Si l'IA ne vous connaît pas, vous n'existez pas: comment Getmint aide L'Oréal, Accor... - Challenges",
-      "link": "https://www.challenges.fr/entreprise/tech-numerique/si-lia-ne-vous-connait-pas-vous-nexistez-pas-comment-getmint-aide-loreal-accor-ou-encore-bnp-a-emerger-sur-chatgpt-ou-gemini_646275",
-      "url": "https://www.challenges.fr/entreprise/tech-numerique/si-lia-ne-vous-connait-pas-vous-nexistez-pas-comment-getmint-aide-loreal-accor-ou-encore-bnp-a-emerger-sur-chatgpt-ou-gemini_646275",
-      "publishedAt": "2026-10-12T14:01:50.000Z",
-      "date": "2026-10-12T14:01:50.000Z",
-      "description": "Chaque modèle a aussi ses penchants: celui de Google s'appuie volontiers sur YouTube, quand ChatGPT... Les Assises de la cybersécurité.",
-      "excerpt": "Chaque modèle a aussi ses penchants: celui de Google s'appuie volontiers sur YouTube, quand ChatGPT... Les Assises de la cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
