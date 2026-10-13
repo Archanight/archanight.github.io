@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T23:57:34.041Z",
+  "generatedAt": "2026-10-13T05:23:44.470Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "N °2 de l'application gratuite dans l'Apple App Store américain le 16 octobre - Polymarket",
+      "link": "https://polymarket.com/fr/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012?marketSlug=will-chatgpt-be-2-free-app-in-the-us-apple-app-store-on-october-16-20261012&outcomeIndex=1",
+      "url": "https://polymarket.com/fr/event/2-free-app-in-the-us-apple-app-store-on-october-16-20261012?marketSlug=will-chatgpt-be-2-free-app-in-the-us-apple-app-store-on-october-16-20261012&outcomeIndex=1",
+      "publishedAt": "2026-10-12T22:29:11.000Z",
+      "date": "2026-10-12T22:29:11.000Z",
+      "description": "Vinted: Pre-loved marketplace 16%; ChatGPT 12%; Muse de Meta 12%; Trump Accounts: Official App 3.0%.",
+      "excerpt": "Vinted: Pre-loved marketplace 16%; ChatGPT 12%; Muse de Meta 12%; Trump Accounts: Official App 3.0%.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "\"Les cyberattaques constitueront le défi le plus marquant au cours de l'année à venir\": Bill... - BFM",
       "link": "https://www.bfmtv.com/tech/cybersecurite/les-cyberattaques-constitueront-le-defi-le-plus-marquant-au-cours-de-l-annee-a-venir-bill-gates-s-inquiete-du-potentiel-destructeur-de-l-ia-en-matiere-de-cybersecurite-bien-plus-immediat-qu-une-ia-incontrolable_AD-202610120350.html",
@@ -70,6 +80,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Meta's Muse retention nearly matches ChatGPT - TradingView",
+      "link": "https://fr.tradingview.com/news/seekingalpha:f0a1ad038094b:0-meta-s-muse-retention-nearly-matches-chatgpt/",
+      "url": "https://fr.tradingview.com/news/seekingalpha:f0a1ad038094b:0-meta-s-muse-retention-nearly-matches-chatgpt/",
+      "publishedAt": "2026-10-12T15:16:04.000Z",
+      "date": "2026-10-12T15:16:04.000Z",
+      "description": "Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts. Screeners. Actions · ETFs · Obligations · Crypto coins · Paires CEX · Paires DEX...",
+      "excerpt": "Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts. Screeners. Actions · ETFs · Obligations · Crypto coins · Paires CEX · Paires DEX...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Les 100 outils IA les plus utilisés dans le monde à l'automne 2026 - BDM",
       "link": "https://www.blogdumoderateur.com/100-outils-ia-plus-utilises-monde-automne-2026/",
       "url": "https://www.blogdumoderateur.com/100-outils-ia-plus-utilises-monde-automne-2026/",
@@ -108,26 +128,6 @@
       "description": "Chaque modèle a aussi ses penchants: celui de Google s'appuie volontiers sur YouTube, quand ChatGPT... Les Assises de la cybersécurité.",
       "excerpt": "Chaque modèle a aussi ses penchants: celui de Google s'appuie volontiers sur YouTube, quand ChatGPT... Les Assises de la cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Publicités ChatGPT: OpenAI teste un nouveau format visuel (ce qu'il faut savoir)",
-      "link": "https://www.leptidigital.fr/webmarketing/publicites-chatgpt-nouveau-format-visuel-92158/",
-      "url": "https://www.leptidigital.fr/webmarketing/publicites-chatgpt-nouveau-format-visuel-92158/",
-      "publishedAt": "2026-10-12T13:43:25.000Z",
-      "date": "2026-10-12T13:43:25.000Z",
-      "description": "OpenAI va tester, d'ici la fin octobre aux États-Unis, un format publicitaire visuel affiché pendant que ChatGPT génère une image.",
-      "excerpt": "OpenAI va tester, d'ici la fin octobre aux États-Unis, un format publicitaire visuel affiché pendant que ChatGPT génère une image.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "GPT-6 ChatGPT gratuit, Claude, WordPress: 5 infos IA - Info-lux.com",
-      "link": "https://www.info-lux.com/gpt-6-chatgpt-gratuit-claude-faux-sites-recap-semaine/intelligence-artificielle/",
-      "url": "https://www.info-lux.com/gpt-6-chatgpt-gratuit-claude-faux-sites-recap-semaine/intelligence-artificielle/",
-      "publishedAt": "2026-10-12T13:04:01.000Z",
-      "date": "2026-10-12T13:04:01.000Z",
-      "description": "IA et web, la semaine du 5 au 11 octobre 2026: GPT-6 arrive dans ChatGPT... Google Search Status Dashboard — September 2026 spam update (terminée le 8...",
-      "excerpt": "IA et web, la semaine du 5 au 11 octobre 2026: GPT-6 arrive dans ChatGPT... Google Search Status Dashboard — September 2026 spam update (terminée le 8...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
