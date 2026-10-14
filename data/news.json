@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T16:10:58.331Z",
+  "generatedAt": "2026-10-14T21:06:32.809Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Delhaize contraint à un approvisionnement alternatif après un incident informatique",
+      "link": "https://www.lalibre.be/dernieres-depeches/2026/10/14/delhaize-contraint-a-un-approvisionnement-alternatif-apres-un-incident-informatique-Z4HC5DP47NCQDJ7OVYECON4EW4/",
+      "url": "https://www.lalibre.be/dernieres-depeches/2026/10/14/delhaize-contraint-a-un-approvisionnement-alternatif-apres-un-incident-informatique-Z4HC5DP47NCQDJ7OVYECON4EW4/",
+      "publishedAt": "2026-10-14T19:46:35.000Z",
+      "date": "2026-10-14T19:46:35.000Z",
+      "description": "Ahold Delhaize est confrontée depuis dimanche après-midi à un incident de cybersécurité. La nature exacte du problème n'est pas encore connue. En...",
+      "excerpt": "Ahold Delhaize est confrontée depuis dimanche après-midi à un incident de cybersécurité. La nature exacte du problème n'est pas encore connue. En...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "USA-Huit Etats portent plainte contre OpenAI, accusent ChatGPT de nuire aux enfants",
+      "link": "https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N4602B8:0/",
+      "url": "https://fr.tradingview.com/news/reuters.com,2026:newsml_L8N4602B8:0/",
+      "publishedAt": "2026-10-14T19:22:50.000Z",
+      "date": "2026-10-14T19:22:50.000Z",
+      "description": "Huit Etats américains ont annoncé mercredi avoir engagé des poursuites judiciaires contre OpenAI, l'éditeur de ChatGPT... Conforme à SOC 2 Conforme au...",
+      "excerpt": "Huit Etats américains ont annoncé mercredi avoir engagé des poursuites judiciaires contre OpenAI, l'éditeur de ChatGPT... Conforme à SOC 2 Conforme au...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "USA-huit Etats portent plainte contre OpenAI, accusent ChatGPT de nuire aux enfants",
+      "link": "https://www.zonebourse.com/actualite-bourse/usa-huit-etats-portent-plainte-contre-openai-accusent-chatgpt-de-nuire-aux-enfants-ce785dd2d18ff125",
+      "url": "https://www.zonebourse.com/actualite-bourse/usa-huit-etats-portent-plainte-contre-openai-accusent-chatgpt-de-nuire-aux-enfants-ce785dd2d18ff125",
+      "publishedAt": "2026-10-14T19:15:13.000Z",
+      "date": "2026-10-14T19:15:13.000Z",
+      "description": "Huit Etats américains ont annoncé mercredi avoir engagé des poursuites judiciaires contre OpenAI, l'éditeur de ChatGPT, accusant la plateforme de...",
+      "excerpt": "Huit Etats américains ont annoncé mercredi avoir engagé des poursuites judiciaires contre OpenAI, l'éditeur de ChatGPT, accusant la plateforme de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "« Où est mon colis? » ChatGPT peut maintenant vous répondre grâce à Chronopost",
+      "link": "https://www.clubic.com/actualite-634219-ou-est-mon-colis-chatgpt-peut-maintenant-vous-repondre-grace-a-chronopost.html",
+      "url": "https://www.clubic.com/actualite-634219-ou-est-mon-colis-chatgpt-peut-maintenant-vous-repondre-grace-a-chronopost.html",
+      "publishedAt": "2026-10-14T18:11:24.000Z",
+      "date": "2026-10-14T18:11:24.000Z",
+      "description": "Depuis quelques jours, Chronopost propose ses services dans ChatGPT, une première pour un transporteur français... Cybersécurité · Logiciels & services...",
+      "excerpt": "Depuis quelques jours, Chronopost propose ses services dans ChatGPT, une première pour un transporteur français... Cybersécurité · Logiciels & services...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI Dots: comment utiliser l'agent IA de ChatGPT qui travaille même quand votre PC est éteint?",
+      "link": "https://www.phonandroid.com/openai-dots-comment-utiliser-agent-ia-chatgpt-travaille-votre-pc-eteint.html",
+      "url": "https://www.phonandroid.com/openai-dots-comment-utiliser-agent-ia-chatgpt-travaille-votre-pc-eteint.html",
+      "publishedAt": "2026-10-14T16:08:32.000Z",
+      "date": "2026-10-14T16:08:32.000Z",
+      "description": "ChatGPT peut désormais aller plus loin que répondre à vos questions. Avec la... Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-...",
+      "excerpt": "ChatGPT peut désormais aller plus loin que répondre à vos questions. Avec la... Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Cybersécurité: Spie construit l'avenir de son SOC avec des agents IA - ITforBusiness.fr",
       "link": "https://www.itforbusiness.fr/agents-ia-soc-spie-sekoia-108515",
@@ -77,56 +127,6 @@
       "date": "2026-10-14T10:47:46.000Z",
       "description": "Quelque 225 scientifiques spécialisés en intelligence artificielle et cybersécurité, dont le Canadien Yoshua Bengio, considéré comme l'un des pères de...",
       "excerpt": "Quelque 225 scientifiques spécialisés en intelligence artificielle et cybersécurité, dont le Canadien Yoshua Bengio, considéré comme l'un des pères de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "J'ai testé l'essayage virtuel de ChatGPT: les vêtements sont bluffants, mais il y a un gros problème",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/jai-teste-lessayage-virtuel-de-chatgpt-les-vetements-sont-bluffants-mais-il-y-a-un-gros-probleme",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/jai-teste-lessayage-virtuel-de-chatgpt-les-vetements-sont-bluffants-mais-il-y-a-un-gros-probleme",
-      "publishedAt": "2026-10-14T09:39:58.000Z",
-      "date": "2026-10-14T09:39:58.000Z",
-      "description": "La dernière fonction shopping de ChatGPT se montre cependant beaucoup plus intéressante, puisqu'il est désormais possible d'essayer virtuellement des...",
-      "excerpt": "La dernière fonction shopping de ChatGPT se montre cependant beaucoup plus intéressante, puisqu'il est désormais possible d'essayer virtuellement des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Un automobiliste utilise ChatGPT pour contester une amende pendant trois ans — et finit par gagner",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/un-automobiliste-utilise-chatgpt-pour-contester-une-amende-pendant-trois-ans-et-finit-par-gagner",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/un-automobiliste-utilise-chatgpt-pour-contester-une-amende-pendant-trois-ans-et-finit-par-gagner",
-      "publishedAt": "2026-10-14T09:38:40.000Z",
-      "date": "2026-10-14T09:38:40.000Z",
-      "description": "Les chatbots IA comme ChatGPT sont utilisés pour toutes sortes de tâches, mais leur intervention dans une contestation d'amende de stationnement reste...",
-      "excerpt": "Les chatbots IA comme ChatGPT sont utilisés pour toutes sortes de tâches, mais leur intervention dans une contestation d'amende de stationnement reste...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Meta lance une nouvelle IA qui dépasse tous les modèles ChatGPT - Journal du Geek",
-      "link": "https://www.journaldugeek.com/2026/10/14/meta-lance-une-nouvelle-ia-qui-depasse-tous-les-modeles-chatgpt/",
-      "url": "https://www.journaldugeek.com/2026/10/14/meta-lance-une-nouvelle-ia-qui-depasse-tous-les-modeles-chatgpt/",
-      "publishedAt": "2026-10-14T08:09:39.000Z",
-      "date": "2026-10-14T08:09:39.000Z",
-      "description": "... ChatGPT, d'après le classement d'Artificial Analysis... release gap of only 6 weeks. Muse Wonder is available for users on… pic...",
-      "excerpt": "... ChatGPT, d'après le classement d'Artificial Analysis... release gap of only 6 weeks. Muse Wonder is available for users on… pic...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Les grandes questions du GEO en 2026: débats et découvertes - Abondance",
-      "link": "https://www.abondance.com/20261014-3006846-grandes-questions-geo-2026.html",
-      "url": "https://www.abondance.com/20261014-3006846-grandes-questions-geo-2026.html",
-      "publishedAt": "2026-10-14T06:42:07.000Z",
-      "date": "2026-10-14T06:42:07.000Z",
-      "description": "GEO ou SEO, fiabilité de la mesure, backlink ou mention, pages que ChatGPT ne lit pas: les grandes questions du GEO en 2026.",
-      "excerpt": "GEO ou SEO, fiabilité de la mesure, backlink ou mention, pages que ChatGPT ne lit pas: les grandes questions du GEO en 2026.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Menaces & IA: 14 dérives et avancées clés du 14 octobre 2026 (dont OpenAI)",
-      "link": "https://dcod.ch/2026/10/14/menaces-ia-14-derives-et-avancees-cles-du-14-octobre-2026-dont-openai/",
-      "url": "https://dcod.ch/2026/10/14/menaces-ia-14-derives-et-avancees-cles-du-14-octobre-2026-dont-openai/",
-      "publishedAt": "2026-10-14T06:04:13.000Z",
-      "date": "2026-10-14T06:04:13.000Z",
-      "description": "Voici le tour d'horizon hebdomadaire des actualités à l'intersection de l'intelligence artificielle et de la cybersécurité: avancées...",
-      "excerpt": "Voici le tour d'horizon hebdomadaire des actualités à l'intersection de l'intelligence artificielle et de la cybersécurité: avancées...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
