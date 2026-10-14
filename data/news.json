@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T02:45:23.476Z",
+  "generatedAt": "2026-10-14T10:51:52.563Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "J'ai testé l'essayage virtuel de ChatGPT: les vêtements sont bluffants, mais il y a un gros problème",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/jai-teste-lessayage-virtuel-de-chatgpt-les-vetements-sont-bluffants-mais-il-y-a-un-gros-probleme",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/jai-teste-lessayage-virtuel-de-chatgpt-les-vetements-sont-bluffants-mais-il-y-a-un-gros-probleme",
+      "publishedAt": "2026-10-14T09:39:58.000Z",
+      "date": "2026-10-14T09:39:58.000Z",
+      "description": "La dernière fonction shopping de ChatGPT se montre cependant beaucoup plus intéressante, puisqu'il est désormais possible d'essayer virtuellement des...",
+      "excerpt": "La dernière fonction shopping de ChatGPT se montre cependant beaucoup plus intéressante, puisqu'il est désormais possible d'essayer virtuellement des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Un automobiliste utilise ChatGPT pour contester une amende pendant trois ans — et finit par gagner",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/un-automobiliste-utilise-chatgpt-pour-contester-une-amende-pendant-trois-ans-et-finit-par-gagner",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/un-automobiliste-utilise-chatgpt-pour-contester-une-amende-pendant-trois-ans-et-finit-par-gagner",
+      "publishedAt": "2026-10-14T09:38:40.000Z",
+      "date": "2026-10-14T09:38:40.000Z",
+      "description": "Les chatbots IA comme ChatGPT sont utilisés pour toutes sortes de tâches, mais leur intervention dans une contestation d'amende de stationnement reste...",
+      "excerpt": "Les chatbots IA comme ChatGPT sont utilisés pour toutes sortes de tâches, mais leur intervention dans une contestation d'amende de stationnement reste...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Meta lance une nouvelle IA qui dépasse tous les modèles ChatGPT - Journal du Geek",
+      "link": "https://www.journaldugeek.com/2026/10/14/meta-lance-une-nouvelle-ia-qui-depasse-tous-les-modeles-chatgpt/",
+      "url": "https://www.journaldugeek.com/2026/10/14/meta-lance-une-nouvelle-ia-qui-depasse-tous-les-modeles-chatgpt/",
+      "publishedAt": "2026-10-14T08:09:39.000Z",
+      "date": "2026-10-14T08:09:39.000Z",
+      "description": "... ChatGPT, d'après le classement d'Artificial Analysis... release gap of only 6 weeks. Muse Wonder is available for users on… pic...",
+      "excerpt": "... ChatGPT, d'après le classement d'Artificial Analysis... release gap of only 6 weeks. Muse Wonder is available for users on… pic...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Les grandes questions du GEO en 2026: débats et découvertes - Abondance",
+      "link": "https://www.abondance.com/20261014-3006846-grandes-questions-geo-2026.html",
+      "url": "https://www.abondance.com/20261014-3006846-grandes-questions-geo-2026.html",
+      "publishedAt": "2026-10-14T06:42:07.000Z",
+      "date": "2026-10-14T06:42:07.000Z",
+      "description": "GEO ou SEO, fiabilité de la mesure, backlink ou mention, pages que ChatGPT ne lit pas: les grandes questions du GEO en 2026.",
+      "excerpt": "GEO ou SEO, fiabilité de la mesure, backlink ou mention, pages que ChatGPT ne lit pas: les grandes questions du GEO en 2026.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Menaces & IA: 14 dérives et avancées clés du 14 octobre 2026 (dont OpenAI)",
+      "link": "https://dcod.ch/2026/10/14/menaces-ia-14-derives-et-avancees-cles-du-14-octobre-2026-dont-openai/",
+      "url": "https://dcod.ch/2026/10/14/menaces-ia-14-derives-et-avancees-cles-du-14-octobre-2026-dont-openai/",
+      "publishedAt": "2026-10-14T06:04:13.000Z",
+      "date": "2026-10-14T06:04:13.000Z",
+      "description": "Voici le tour d'horizon hebdomadaire des actualités à l'intersection de l'intelligence artificielle et de la cybersécurité: avancées...",
+      "excerpt": "Voici le tour d'horizon hebdomadaire des actualités à l'intersection de l'intelligence artificielle et de la cybersécurité: avancées...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT Dots: cette nouvelle IA travaille même sans vous, mais qui peut y accéder en France",
       "link": "https://www.letelegramme.fr/guide-conso/high-tech/chatgpt-dots-cette-nouvelle-ia-travaille-meme-sans-vous-mais-qui-peut-y-acceder-en-france-7137795.php",
@@ -77,56 +127,6 @@
       "date": "2026-10-13T17:05:26.000Z",
       "description": "Les éditeurs d'IA réservent d'abord leurs modèles les plus puissants à des partenaires choisis, en particulier en cybersécurité... ChatGPT haut de...",
       "excerpt": "Les éditeurs d'IA réservent d'abord leurs modèles les plus puissants à des partenaires choisis, en particulier en cybersécurité... ChatGPT haut de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Meta présente son nouveau rival de ChatGPT et Claude - InfoMagazine Maroc",
-      "link": "https://www.infomagazine.ma/intelligence-artificielle-ia/meta-presente-son-nouveau-rival-de-chatgpt-et-claude-18041-2026/",
-      "url": "https://www.infomagazine.ma/intelligence-artificielle-ia/meta-presente-son-nouveau-rival-de-chatgpt-et-claude-18041-2026/",
-      "publishedAt": "2026-10-13T16:13:28.000Z",
-      "date": "2026-10-13T16:13:28.000Z",
-      "description": "Cybersécurité · Economie · Automobile · Opérateurs · Inwi · Maroc Telecom · Orange... Meta présente son nouveau rival de ChatGPT et Claude.",
-      "excerpt": "Cybersécurité · Economie · Automobile · Opérateurs · Inwi · Maroc Telecom · Orange... Meta présente son nouveau rival de ChatGPT et Claude.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI pourrait enfin corriger le plus gros problème de ChatGPT - PC Astuces",
-      "link": "https://actu.pcastuces.com/actu-43034-openai-pourrait-enfin-corriger-le-plus-gros-probleme-de-chatgpt.htm",
-      "url": "https://actu.pcastuces.com/actu-43034-openai-pourrait-enfin-corriger-le-plus-gros-probleme-de-chatgpt.htm",
-      "publishedAt": "2026-10-13T16:05:25.000Z",
-      "date": "2026-10-13T16:05:25.000Z",
-      "description": "Pour répondre à ce problème, l'entreprise a retiré son modèle GPT-4o et déployé de nouvelles versions, notamment GPT-5, GPT-5.2 et GPT-5.6 Sol,...",
-      "excerpt": "Pour répondre à ce problème, l'entreprise a retiré son modèle GPT-4o et déployé de nouvelles versions, notamment GPT-5, GPT-5.2 et GPT-5.6 Sol,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Shadow AI: faut-il interdire l'IA fantôme en entreprise? Les experts de la cyber ne sont pas d'accord",
-      "link": "https://www.clubic.com/actualite-633874-shadow-ai-faut-il-interdire-l-ia-fantome-en-entreprise-les-experts-de-la-cyber-ne-sont-pas-d-accord.html",
-      "url": "https://www.clubic.com/actualite-633874-shadow-ai-faut-il-interdire-l-ia-fantome-en-entreprise-les-experts-de-la-cyber-ne-sont-pas-d-accord.html",
-      "publishedAt": "2026-10-13T15:25:23.000Z",
-      "date": "2026-10-13T15:25:23.000Z",
-      "description": "ChatGPT ouvert en douce, des agents bricolés avec Copilot et d... cybersécurité en 2026. Au fil de nos rencontres aux Assises de la...",
-      "excerpt": "ChatGPT ouvert en douce, des agents bricolés avec Copilot et d... cybersécurité en 2026. Au fil de nos rencontres aux Assises de la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Meta dévoile Muse Wonder, sa nouvelle IA qui veut faire de l'ombre à ChatGPT",
-      "link": "https://siecledigital.fr/2026/10/13/meta-devoile-muse-wonder-sa-nouvelle-ia-qui-veut-faire-de-lombre-a-chatgpt/",
-      "url": "https://siecledigital.fr/2026/10/13/meta-devoile-muse-wonder-sa-nouvelle-ia-qui-veut-faire-de-lombre-a-chatgpt/",
-      "publishedAt": "2026-10-13T15:01:40.000Z",
-      "date": "2026-10-13T15:01:40.000Z",
-      "description": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. Meta dévoile Muse...",
-      "excerpt": "... Cybersécurité · IT · Médias · Réseaux sociaux · Outils · NEWSLETTER PODCASTS LIVRES BLANCS WEBINARS · Intelligence artificielle. Meta dévoile Muse...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Une lettre codée de Napoléon déchiffrée en 6h grâce à ChatGPT: quand l'IA perce les...",
-      "link": "https://rmc.bfmtv.com/actualites/tech/une-lettre-codee-de-napoleon-dechiffree-en-6h-grace-a-chat-gpt-quand-l-ia-perce-les-secrets-de-l-histoire_AV-202610130635.html",
-      "url": "https://rmc.bfmtv.com/actualites/tech/une-lettre-codee-de-napoleon-dechiffree-en-6h-grace-a-chat-gpt-quand-l-ia-perce-les-secrets-de-l-histoire_AV-202610130635.html",
-      "publishedAt": "2026-10-13T15:00:35.000Z",
-      "date": "2026-10-13T15:00:35.000Z",
-      "description": "... ChatGPT à la lecture de papyrus carbonisés vieux de 2.000 ans, l... Récemment, un ingénieur américain en cybersécurité, Carter Church, est...",
-      "excerpt": "... ChatGPT à la lecture de papyrus carbonisés vieux de 2.000 ans, l... Récemment, un ingénieur américain en cybersécurité, Carter Church, est...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
