@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T15:58:50.501Z",
+  "generatedAt": "2026-10-15T20:42:59.852Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "IA pratique: testez l'apprentissage visuel avec ChatGPT - ZDNET",
+      "link": "https://www.zdnet.fr/pratique/ia-pratique-testez-lapprentissage-visuel-avec-chatgpt-505882.htm",
+      "url": "https://www.zdnet.fr/pratique/ia-pratique-testez-lapprentissage-visuel-avec-chatgpt-505882.htm",
+      "publishedAt": "2026-10-15T20:02:06.000Z",
+      "date": "2026-10-15T20:02:06.000Z",
+      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT sur smartphone, Ph. Lance Whitney/ZDNET. Recevez une...",
+      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT sur smartphone, Ph. Lance Whitney/ZDNET. Recevez une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT va bientôt ajouter un filigrane invisible à ses réponses — voici ce que cela change...",
+      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/chatgpt-va-bientot-ajouter-un-filigrane-invisible-a-ses-reponses-voici-ce-que-cela-change-pour-les-textes-copies",
+      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/chatgpt-va-bientot-ajouter-un-filigrane-invisible-a-ses-reponses-voici-ce-que-cela-change-pour-les-textes-copies",
+      "publishedAt": "2026-10-15T17:28:44.000Z",
+      "date": "2026-10-15T17:28:44.000Z",
+      "description": "OpenAI adapte ChatGPT aux règles européennes sur la provenance des contenus IA.",
+      "excerpt": "OpenAI adapte ChatGPT aux règles européennes sur la provenance des contenus IA.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "J'ai remplacé ChatGPT par une IA chinoise gratuite: 11h de vol sans Internet avec un PC...",
+      "link": "https://www.frandroid.com/marques/nvidia/3286605_jai-remplace-chatgpt-par-une-ia-chinoise-gratuite-11h-de-vol-sans-internet-avec-un-pc-nvidia-rtx-spark",
+      "url": "https://www.frandroid.com/marques/nvidia/3286605_jai-remplace-chatgpt-par-une-ia-chinoise-gratuite-11h-de-vol-sans-internet-avec-un-pc-nvidia-rtx-spark",
+      "publishedAt": "2026-10-15T16:35:00.000Z",
+      "date": "2026-10-15T16:35:00.000Z",
+      "description": "... ChatGPT pour mon travail du quotidien.... Asus Intelligence artificielle OS PC PC portables Processeurs ( SoC ) Produits Société Windows Hermes Nvidia...",
+      "excerpt": "... ChatGPT pour mon travail du quotidien.... Asus Intelligence artificielle OS PC PC portables Processeurs ( SoC ) Produits Société Windows Hermes Nvidia...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cybersécurité: inwi met en avant les enjeux de souveraineté des données et de...",
+      "link": "https://lematin.ma/hi-tech/cybersecurite-inwi-met-en-avant-les-enjeux-de-securisation-du-cloud/370555/amp",
+      "url": "https://lematin.ma/hi-tech/cybersecurite-inwi-met-en-avant-les-enjeux-de-securisation-du-cloud/370555/amp",
+      "publishedAt": "2026-10-15T16:30:29.000Z",
+      "date": "2026-10-15T16:30:29.000Z",
+      "description": "La généralisation du Cloud dans les entreprises et les administrations soulève de nouvelles questions en matière de cybersécurité et de maîtrise...",
+      "excerpt": "La généralisation du Cloud dans les entreprises et les administrations soulève de nouvelles questions en matière de cybersécurité et de maîtrise...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Huit États américains poursuivent ChatGPT en justice pour avoir prétendument nui à ses utilisateurs.",
+      "link": "https://www.vietnam.vn/fr/8-bang-cua-my-kien-chatgpt-gay-hai-cho-nguoi-dung",
+      "url": "https://www.vietnam.vn/fr/8-bang-cua-my-kien-chatgpt-gay-hai-cho-nguoi-dung",
+      "publishedAt": "2026-10-15T15:02:21.000Z",
+      "date": "2026-10-15T15:02:21.000Z",
+      "description": "Huit États américains ont accusé ChatGPT de nuire à leurs citoyens, notamment en incitant les utilisateurs — y compris des adolescents — à adopter...",
+      "excerpt": "Huit États américains ont accusé ChatGPT de nuire à leurs citoyens, notamment en incitant les utilisateurs — y compris des adolescents — à adopter...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Un ingénieur d'OpenAI arrêté pour avoir dissimulé un micro dans un téléviseur - PC Astuces",
+      "link": "https://actu.pcastuces.com/actu-43044-un-ingenieur-openai-arrete-pour-avoir-dissimule-un-micro-dans-un-televiseur.htm",
+      "url": "https://actu.pcastuces.com/actu-43044-un-ingenieur-openai-arrete-pour-avoir-dissimule-un-micro-dans-un-televiseur.htm",
+      "publishedAt": "2026-10-15T14:04:44.000Z",
+      "date": "2026-10-15T14:04:44.000Z",
+      "description": "Le but: enregistrer les réunions. Mais pour quoi faire? openai enregistrement © Tom's Hardware avec ChatGPT. Les autorités fédérales américaines ont...",
+      "excerpt": "Le but: enregistrer les réunions. Mais pour quoi faire? openai enregistrement © Tom's Hardware avec ChatGPT. Les autorités fédérales américaines ont...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Le contrôleur de la ville de New York, Mark Levine, exhorte Anthropic à suspendre son...",
       "link": "https://www.boursorama.com/bourse/actualites-amp/le-controleur-de-la-ville-de-new-york-mark-levine-exhorte-anthropic-a-suspendre-son-introduction-en-bourse-aux-etats-unis-a8d8b17be5f740420aa55376238cc7a1",
@@ -67,66 +127,6 @@
       "date": "2026-10-15T07:31:57.000Z",
       "description": "» Et c'est vraiment sur le sujet de la cybersécurité que le vent de panique a commencé à souffler cet été. OpenAI et Anthropic ont annoncé pêle...",
       "excerpt": "» Et c'est vraiment sur le sujet de la cybersécurité que le vent de panique a commencé à souffler cet été. OpenAI et Anthropic ont annoncé pêle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT est nuisible à la jeunesse », huit États américains poursuivent OpenAI en justice",
-      "link": "https://www.zdnet.fr/actualites/chatgpt-est-nuisible-a-la-jeunesse-huit-etats-americains-poursuivent-openai-en-justice-505836.htm",
-      "url": "https://www.zdnet.fr/actualites/chatgpt-est-nuisible-a-la-jeunesse-huit-etats-americains-poursuivent-openai-en-justice-505836.htm",
-      "publishedAt": "2026-10-15T07:03:38.000Z",
-      "date": "2026-10-15T07:03:38.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... « ChatGPT est nuisible à la jeunesse », huit États américains...",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... « ChatGPT est nuisible à la jeunesse », huit États américains...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Culture IA: Quand l'IA aide à percer les secrets de l'histoire, par Anhtony Morel - 15/10",
-      "link": "https://actu.orange.fr/videos/economie/culture-ia-quand-l-ia-aide-a-percer-les-secrets-de-l-histoire-par-anhtony-morel-15-10-CNT000002sQZNW.html",
-      "url": "https://actu.orange.fr/videos/economie/culture-ia-quand-l-ia-aide-a-percer-les-secrets-de-l-histoire-par-anhtony-morel-15-10-CNT000002sQZNW.html",
-      "publishedAt": "2026-10-15T06:48:09.000Z",
-      "date": "2026-10-15T06:48:09.000Z",
-      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Les immanquables... Tous publics. Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel...",
-      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Les immanquables... Tous publics. Culture IA: Chatgpt nous rend-il stupide? par Anthony Morel...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "\"Cet incident n'a rien de surprenant\": après la cyberattaque sur des réfrigérateurs de...",
-      "link": "https://www.bfmtv.com/tech/cybersecurite/cet-incident-n-a-rien-de-surprenant-apres-la-cyberattaque-sur-des-refrigerateurs-de-supermarches-la-cybersecurite-en-question_AN-202610140326.html",
-      "url": "https://www.bfmtv.com/tech/cybersecurite/cet-incident-n-a-rien-de-surprenant-apres-la-cyberattaque-sur-des-refrigerateurs-de-supermarches-la-cybersecurite-en-question_AN-202610140326.html",
-      "publishedAt": "2026-10-15T03:15:49.000Z",
-      "date": "2026-10-15T03:15:49.000Z",
-      "description": "?'\", met en perspective Benoît Grünemwald, directeur des affaires publiques de l'Eset, société spécialisée dans la cybersécurité. Une boutade...",
-      "excerpt": "?'\", met en perspective Benoît Grünemwald, directeur des affaires publiques de l'Eset, société spécialisée dans la cybersécurité. Une boutade...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Eight US states sue OpenAI, claiming ChatGPT harms young users - TradingView",
-      "link": "https://fr.tradingview.com/news/reuters.com,2026:newsml_L6N46018L:0-eight-us-states-sue-openai-claiming-chatgpt-harms-young-users/",
-      "url": "https://fr.tradingview.com/news/reuters.com,2026:newsml_L6N46018L:0-eight-us-states-sue-openai-claiming-chatgpt-harms-young-users/",
-      "publishedAt": "2026-10-14T22:12:07.000Z",
-      "date": "2026-10-14T22:12:07.000Z",
-      "description": "... ChatGPT has caused to their residents, alleging the chatbot has coached... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "excerpt": "... ChatGPT has caused to their residents, alleging the chatbot has coached... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Yoshua Bengio, Hugo Larochelle et 413 chercheurs lancent un appel urgent - Mon Carnet",
-      "link": "https://moncarnet.com/2026/10/14/yoshua-bengio-hugo-larochelle-et-413-chercheurs-lancent-un-appel-urgent-pour-mieux-controler-les-intelligences-artificielles/",
-      "url": "https://moncarnet.com/2026/10/14/yoshua-bengio-hugo-larochelle-et-413-chercheurs-lancent-un-appel-urgent-pour-mieux-controler-les-intelligences-artificielles/",
-      "publishedAt": "2026-10-14T21:50:01.000Z",
-      "date": "2026-10-14T21:50:01.000Z",
-      "description": "Credit: ChatGPT Le chercheur québécois Yoshua Bengio, l'une des... cybersécurité. Dans une lettre ouverte publiée hier, les signataires...",
-      "excerpt": "Credit: ChatGPT Le chercheur québécois Yoshua Bengio, l'une des... cybersécurité. Dans une lettre ouverte publiée hier, les signataires...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Airbnb sort les armes face à la menace ChatGPT - 14/10: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/economie/clement-eulry-airbnb-france-airbnb-sort-les-armes-face-a-la-menace-chatgpt-14-10-CNT000002sPhft.html",
-      "url": "https://actu.orange.fr/videos/economie/clement-eulry-airbnb-france-airbnb-sort-les-armes-face-a-la-menace-chatgpt-14-10-CNT000002sPhft.html",
-      "publishedAt": "2026-10-14T21:33:50.000Z",
-      "date": "2026-10-14T21:33:50.000Z",
-      "description": "... ChatGPT sur BFM Business. Retrouvez l'émission du lundi au jeudi... Cybersécurité et Télésurveillance; Tech et Accessoires. Les immanquables...",
-      "excerpt": "... ChatGPT sur BFM Business. Retrouvez l'émission du lundi au jeudi... Cybersécurité et Télésurveillance; Tech et Accessoires. Les immanquables...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
