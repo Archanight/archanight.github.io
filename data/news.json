@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:33:55.130Z",
+  "generatedAt": "2026-10-15T15:58:50.501Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le contrôleur de la ville de New York, Mark Levine, exhorte Anthropic à suspendre son...",
+      "link": "https://www.boursorama.com/bourse/actualites-amp/le-controleur-de-la-ville-de-new-york-mark-levine-exhorte-anthropic-a-suspendre-son-introduction-en-bourse-aux-etats-unis-a8d8b17be5f740420aa55376238cc7a1",
+      "url": "https://www.boursorama.com/bourse/actualites-amp/le-controleur-de-la-ville-de-new-york-mark-levine-exhorte-anthropic-a-suspendre-son-introduction-en-bourse-aux-etats-unis-a8d8b17be5f740420aa55376238cc7a1",
+      "publishedAt": "2026-10-15T13:15:20.000Z",
+      "date": "2026-10-15T13:15:20.000Z",
+      "description": "... cybersécurité et d'utilisation abusive. \"Au lieu de se précipiter vers... Son principal concurrent, OpenAI, le créateur de ChatGPT, devrait entrer en...",
+      "excerpt": "... cybersécurité et d'utilisation abusive. \"Au lieu de se précipiter vers... Son principal concurrent, OpenAI, le créateur de ChatGPT, devrait entrer en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le contrôleur financier de New York, Mark Levine, exhorte Anthropic à suspendre son...",
+      "link": "https://www.boursorama.com/bourse/actualites-amp/le-controleur-financier-de-new-york-mark-levine-exhorte-anthropic-a-suspendre-son-introduction-en-bourse-aux-etats-unis-selon-cnbc-b4181a4cef84de27edd38568806209f2",
+      "url": "https://www.boursorama.com/bourse/actualites-amp/le-controleur-financier-de-new-york-mark-levine-exhorte-anthropic-a-suspendre-son-introduction-en-bourse-aux-etats-unis-selon-cnbc-b4181a4cef84de27edd38568806209f2",
+      "publishedAt": "2026-10-15T12:10:52.000Z",
+      "date": "2026-10-15T12:10:52.000Z",
+      "description": "... cybersécurité et d'utilisation abusive. “Au lieu de se précipiter dans... Son principal concurrent, OpenAI, le créateur de ChatGPT, devrait entrer en...",
+      "excerpt": "... cybersécurité et d'utilisation abusive. “Au lieu de se précipiter dans... Son principal concurrent, OpenAI, le créateur de ChatGPT, devrait entrer en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Iowa: ChatGPT accusé d'inciter au suicide, OpenAI poursuivi par 8 États - Invezz",
+      "link": "https://invezz.com/fr/actualites/2026/10/15/iowa-chatgpt-accuse-dinciter-au-suicide-openai-poursuivi-par-8-etats/",
+      "url": "https://invezz.com/fr/actualites/2026/10/15/iowa-chatgpt-accuse-dinciter-au-suicide-openai-poursuivi-par-8-etats/",
+      "publishedAt": "2026-10-15T10:29:13.000Z",
+      "date": "2026-10-15T10:29:13.000Z",
+      "description": "Acheter les bénéficiaires de la cybersécurité /de la conformité en... Huit États poursuivent OpenAI, alléguant que ChatGPT a encouragé des enfants à l'...",
+      "excerpt": "Acheter les bénéficiaires de la cybersécurité /de la conformité en... Huit États poursuivent OpenAI, alléguant que ChatGPT a encouragé des enfants à l'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI pourrait racheter Trail of Bits, expert de l'audit crypto - Cryptoast",
       "link": "https://cryptoast.fr/openai-discussion-rachat-trail-of-bits-audit-crypto/",
@@ -70,6 +100,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Eight US states sue OpenAI, claiming ChatGPT harms young users - TradingView",
+      "link": "https://fr.tradingview.com/news/reuters.com,2026:newsml_L6N46018L:0-eight-us-states-sue-openai-claiming-chatgpt-harms-young-users/",
+      "url": "https://fr.tradingview.com/news/reuters.com,2026:newsml_L6N46018L:0-eight-us-states-sue-openai-claiming-chatgpt-harms-young-users/",
+      "publishedAt": "2026-10-14T22:12:07.000Z",
+      "date": "2026-10-14T22:12:07.000Z",
+      "description": "... ChatGPT has caused to their residents, alleging the chatbot has coached... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "excerpt": "... ChatGPT has caused to their residents, alleging the chatbot has coached... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Yoshua Bengio, Hugo Larochelle et 413 chercheurs lancent un appel urgent - Mon Carnet",
       "link": "https://moncarnet.com/2026/10/14/yoshua-bengio-hugo-larochelle-et-413-chercheurs-lancent-un-appel-urgent-pour-mieux-controler-les-intelligences-artificielles/",
       "url": "https://moncarnet.com/2026/10/14/yoshua-bengio-hugo-larochelle-et-413-chercheurs-lancent-un-appel-urgent-pour-mieux-controler-les-intelligences-artificielles/",
@@ -87,46 +127,6 @@
       "date": "2026-10-14T21:33:50.000Z",
       "description": "... ChatGPT sur BFM Business. Retrouvez l'émission du lundi au jeudi... Cybersécurité et Télésurveillance; Tech et Accessoires. Les immanquables...",
       "excerpt": "... ChatGPT sur BFM Business. Retrouvez l'émission du lundi au jeudi... Cybersécurité et Télésurveillance; Tech et Accessoires. Les immanquables...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Huit États américains poursuivent OpenAI, affirmant que ChatGPT nuit aux jeunes utilisateurs",
-      "link": "https://ch.zonebourse.com/actualite-bourse/huit-etats-americains-poursuivent-openai-affirmant-que-chatgpt-nuit-aux-jeunes-utilisateurs-ce785dd2d18cfe20",
-      "url": "https://ch.zonebourse.com/actualite-bourse/huit-etats-americains-poursuivent-openai-affirmant-que-chatgpt-nuit-aux-jeunes-utilisateurs-ce785dd2d18cfe20",
-      "publishedAt": "2026-10-14T21:33:28.000Z",
-      "date": "2026-10-14T21:33:28.000Z",
-      "description": "... ChatGPT aurait causés à leurs... -Le 14 octobre 2026 à 20... Cybersécurité · Acquéreurs en série. Trading. Market Timing · Actualités qui...",
-      "excerpt": "... ChatGPT aurait causés à leurs... -Le 14 octobre 2026 à 20... Cybersécurité · Acquéreurs en série. Trading. Market Timing · Actualités qui...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI, le FBI arrête un ingénieur pour espionnage, par Léa Benaim - 14/10: Actualités",
-      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-openai-le-fbi-arrete-un-ingenieur-pour-espionnage-par-lea-benaim-14-10-CNT000002sPgBk.html",
-      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-openai-le-fbi-arrete-un-ingenieur-pour-espionnage-par-lea-benaim-14-10-CNT000002sPgBk.html",
-      "publishedAt": "2026-10-14T21:24:10.000Z",
-      "date": "2026-10-14T21:24:10.000Z",
-      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Les... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/10.",
-      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Les... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/10.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Third Moment Research: 10 000 agents actifs plus de 36 h - OpenAI",
-      "link": "https://openai.com/fr-CA/index/third-moment-research/",
-      "url": "https://openai.com/fr-CA/index/third-moment-research/",
-      "publishedAt": "2026-10-14T20:36:25.000Z",
-      "date": "2026-10-14T20:36:25.000Z",
-      "description": "Avec GPT-6 Astra, GPT-6.1 Sol, Codex et Daybreak pour la cybersécurité, ce labo d'IA crée des agents concentrés durant des jours et qui...",
-      "excerpt": "Avec GPT-6 Astra, GPT-6.1 Sol, Codex et Daybreak pour la cybersécurité, ce labo d'IA crée des agents concentrés durant des jours et qui...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "USA-Huit Etats portent plainte contre OpenAI, accusent ChatGPT de nuire aux enfants",
-      "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4602B8:0/",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4602B8:0/",
-      "publishedAt": "2026-10-14T19:54:18.000Z",
-      "date": "2026-10-14T19:54:18.000Z",
-      "description": "Huit Etats américains ont annoncé mercredi avoir engagé des poursuites judiciaires contre OpenAI, l'éditeur de ChatGPT... SOC 2 Compliant GDPR...",
-      "excerpt": "Huit Etats américains ont annoncé mercredi avoir engagé des poursuites judiciaires contre OpenAI, l'éditeur de ChatGPT... SOC 2 Compliant GDPR...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
