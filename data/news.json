@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T21:06:32.809Z",
+  "generatedAt": "2026-10-15T02:24:31.292Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,56 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Yoshua Bengio, Hugo Larochelle et 413 chercheurs lancent un appel urgent - Mon Carnet",
+      "link": "https://moncarnet.com/2026/10/14/yoshua-bengio-hugo-larochelle-et-413-chercheurs-lancent-un-appel-urgent-pour-mieux-controler-les-intelligences-artificielles/",
+      "url": "https://moncarnet.com/2026/10/14/yoshua-bengio-hugo-larochelle-et-413-chercheurs-lancent-un-appel-urgent-pour-mieux-controler-les-intelligences-artificielles/",
+      "publishedAt": "2026-10-14T21:50:01.000Z",
+      "date": "2026-10-14T21:50:01.000Z",
+      "description": "Credit: ChatGPT Le chercheur québécois Yoshua Bengio, l'une des... cybersécurité. Dans une lettre ouverte publiée hier, les signataires...",
+      "excerpt": "Credit: ChatGPT Le chercheur québécois Yoshua Bengio, l'une des... cybersécurité. Dans une lettre ouverte publiée hier, les signataires...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Airbnb sort les armes face à la menace ChatGPT - 14/10: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/economie/clement-eulry-airbnb-france-airbnb-sort-les-armes-face-a-la-menace-chatgpt-14-10-CNT000002sPhft.html",
+      "url": "https://actu.orange.fr/videos/economie/clement-eulry-airbnb-france-airbnb-sort-les-armes-face-a-la-menace-chatgpt-14-10-CNT000002sPhft.html",
+      "publishedAt": "2026-10-14T21:33:50.000Z",
+      "date": "2026-10-14T21:33:50.000Z",
+      "description": "... ChatGPT sur BFM Business. Retrouvez l'émission du lundi au jeudi... Cybersécurité et Télésurveillance; Tech et Accessoires. Les immanquables...",
+      "excerpt": "... ChatGPT sur BFM Business. Retrouvez l'émission du lundi au jeudi... Cybersécurité et Télésurveillance; Tech et Accessoires. Les immanquables...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Huit États américains poursuivent OpenAI, affirmant que ChatGPT nuit aux jeunes utilisateurs",
+      "link": "https://ch.zonebourse.com/actualite-bourse/huit-etats-americains-poursuivent-openai-affirmant-que-chatgpt-nuit-aux-jeunes-utilisateurs-ce785dd2d18cfe20",
+      "url": "https://ch.zonebourse.com/actualite-bourse/huit-etats-americains-poursuivent-openai-affirmant-que-chatgpt-nuit-aux-jeunes-utilisateurs-ce785dd2d18cfe20",
+      "publishedAt": "2026-10-14T21:33:28.000Z",
+      "date": "2026-10-14T21:33:28.000Z",
+      "description": "... ChatGPT aurait causés à leurs... -Le 14 octobre 2026 à 20... Cybersécurité · Acquéreurs en série. Trading. Market Timing · Actualités qui...",
+      "excerpt": "... ChatGPT aurait causés à leurs... -Le 14 octobre 2026 à 20... Cybersécurité · Acquéreurs en série. Trading. Market Timing · Actualités qui...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI, le FBI arrête un ingénieur pour espionnage, par Léa Benaim - 14/10: Actualités",
+      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-openai-le-fbi-arrete-un-ingenieur-pour-espionnage-par-lea-benaim-14-10-CNT000002sPgBk.html",
+      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-openai-le-fbi-arrete-un-ingenieur-pour-espionnage-par-lea-benaim-14-10-CNT000002sPgBk.html",
+      "publishedAt": "2026-10-14T21:24:10.000Z",
+      "date": "2026-10-14T21:24:10.000Z",
+      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Les... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/10.",
+      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Les... Le Tech Flash: ChatGPT devient un magasin d'applications par Léa Benaim - 07/10.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "USA-Huit Etats portent plainte contre OpenAI, accusent ChatGPT de nuire aux enfants",
+      "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4602B8:0/",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4602B8:0/",
+      "publishedAt": "2026-10-14T19:54:18.000Z",
+      "date": "2026-10-14T19:54:18.000Z",
+      "description": "Huit Etats américains ont annoncé mercredi avoir engagé des poursuites judiciaires contre OpenAI, l'éditeur de ChatGPT... SOC 2 Compliant GDPR...",
+      "excerpt": "Huit Etats américains ont annoncé mercredi avoir engagé des poursuites judiciaires contre OpenAI, l'éditeur de ChatGPT... SOC 2 Compliant GDPR...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Delhaize contraint à un approvisionnement alternatif après un incident informatique",
       "link": "https://www.lalibre.be/dernieres-depeches/2026/10/14/delhaize-contraint-a-un-approvisionnement-alternatif-apres-un-incident-informatique-Z4HC5DP47NCQDJ7OVYECON4EW4/",
       "url": "https://www.lalibre.be/dernieres-depeches/2026/10/14/delhaize-contraint-a-un-approvisionnement-alternatif-apres-un-incident-informatique-Z4HC5DP47NCQDJ7OVYECON4EW4/",
@@ -17,6 +67,16 @@
       "date": "2026-10-14T19:46:35.000Z",
       "description": "Ahold Delhaize est confrontée depuis dimanche après-midi à un incident de cybersécurité. La nature exacte du problème n'est pas encore connue. En...",
       "excerpt": "Ahold Delhaize est confrontée depuis dimanche après-midi à un incident de cybersécurité. La nature exacte du problème n'est pas encore connue. En...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Eight US states sue OpenAI, claiming ChatGPT harms children - TradingView",
+      "link": "https://fr.tradingview.com/news/reuters.com,2026:newsml_L6N46018L:0-eight-us-states-sue-openai-claiming-chatgpt-harms-children/",
+      "url": "https://fr.tradingview.com/news/reuters.com,2026:newsml_L6N46018L:0-eight-us-states-sue-openai-claiming-chatgpt-harms-children/",
+      "publishedAt": "2026-10-14T19:41:22.000Z",
+      "date": "2026-10-14T19:41:22.000Z",
+      "description": "... ChatGPT has caused to children, alleging the chatbot has coached... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "excerpt": "... ChatGPT has caused to children, alleging the chatbot has coached... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -50,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Ce que les investisseurs en capital-risque prévoient pour la cybersécurité en 2023",
+      "link": "https://www.esecurityplanet.com/fr/trends/ce-que-les-investisseurs-en-capital-risque-prevoient-pour-la-cybersecurite-en-2023/",
+      "url": "https://www.esecurityplanet.com/fr/trends/ce-que-les-investisseurs-en-capital-risque-prevoient-pour-la-cybersecurite-en-2023/",
+      "publishedAt": "2026-10-14T17:55:00.000Z",
+      "date": "2026-10-14T17:55:00.000Z",
+      "description": "... cybersécurité avait progressé de 9,4 % pour atteindre 26,9... Les problèmes de sécurité et de confidentialité de ChatGPT persistent dans GPT-4...",
+      "excerpt": "... cybersécurité avait progressé de 9,4 % pour atteindre 26,9... Les problèmes de sécurité et de confidentialité de ChatGPT persistent dans GPT-4...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "OpenAI Dots: comment utiliser l'agent IA de ChatGPT qui travaille même quand votre PC est éteint?",
       "link": "https://www.phonandroid.com/openai-dots-comment-utiliser-agent-ia-chatgpt-travaille-votre-pc-eteint.html",
       "url": "https://www.phonandroid.com/openai-dots-comment-utiliser-agent-ia-chatgpt-travaille-votre-pc-eteint.html",
@@ -57,76 +127,6 @@
       "date": "2026-10-14T16:08:32.000Z",
       "description": "ChatGPT peut désormais aller plus loin que répondre à vos questions. Avec la... Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-...",
       "excerpt": "ChatGPT peut désormais aller plus loin que répondre à vos questions. Avec la... Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité: Spie construit l'avenir de son SOC avec des agents IA - ITforBusiness.fr",
-      "link": "https://www.itforbusiness.fr/agents-ia-soc-spie-sekoia-108515",
-      "url": "https://www.itforbusiness.fr/agents-ia-soc-spie-sekoia-108515",
-      "publishedAt": "2026-10-14T15:00:54.000Z",
-      "date": "2026-10-14T15:00:54.000Z",
-      "description": "Cybersécurité: Spie construit l'avenir de son SOC avec des agents IA... Accès à Albert ( ChatGPT for IT). +. Contenus réservés à la communauté d...",
-      "excerpt": "Cybersécurité: Spie construit l'avenir de son SOC avec des agents IA... Accès à Albert ( ChatGPT for IT). +. Contenus réservés à la communauté d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Présidentielle: ChatGPT, Claude et les autres n'ont pas les faveurs des Français pour s... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/presidentielle-chat-gpt-claude-et-les-autres-n-ont-pas-les-faveurs-des-francais-pour-s-informer-75-d-entre-eux-declarent-qu-ils-choisiront-leur-candidat-sans-l-aide-de-l-ia_AD-202610140598.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/presidentielle-chat-gpt-claude-et-les-autres-n-ont-pas-les-faveurs-des-francais-pour-s-informer-75-d-entre-eux-declarent-qu-ils-choisiront-leur-candidat-sans-l-aide-de-l-ia_AD-202610140598.html",
-      "publishedAt": "2026-10-14T14:07:07.000Z",
-      "date": "2026-10-14T14:07:07.000Z",
-      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... Ils ne sont également que 20% à faire confiance aux outils comme...",
-      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... Ils ne sont également que 20% à faire confiance aux outils comme...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Ads: des bilans biaisés et une rentabilité inexistante, mais des impacts positifs",
-      "link": "https://www.journaldunet.com/adtech/1556583-chatgpt-ads-bilans-biaises-rentabilite-inexistante-mais-des-impacts-positifs/",
-      "url": "https://www.journaldunet.com/adtech/1556583-chatgpt-ads-bilans-biaises-rentabilite-inexistante-mais-des-impacts-positifs/",
-      "publishedAt": "2026-10-14T13:16:08.000Z",
-      "date": "2026-10-14T13:16:08.000Z",
-      "description": "Sur ChatGPT Ads, l'heure est à la notoriété mais pas à la rentabilité... Cybersécurité · Adtech · Big data · Carrière · Fintech · e-RH · IoT · Martech...",
-      "excerpt": "Sur ChatGPT Ads, l'heure est à la notoriété mais pas à la rentabilité... Cybersécurité · Adtech · Big data · Carrière · Fintech · e-RH · IoT · Martech...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "MetLife propose l'assurance pour animaux de compagnie de MetLife sur ChatGPT via un...",
-      "link": "https://www.zonebourse.com/actualite-bourse/metlife-propose-la-assurance-pour-animaux-de-compagnie-de-metlife-sur-chatgpt-via-un-plug-in-chatgp-ce785dd2df8bf126",
-      "url": "https://www.zonebourse.com/actualite-bourse/metlife-propose-la-assurance-pour-animaux-de-compagnie-de-metlife-sur-chatgpt-via-un-plug-in-chatgp-ce785dd2df8bf126",
-      "publishedAt": "2026-10-14T13:09:51.000Z",
-      "date": "2026-10-14T13:09:51.000Z",
-      "description": "MetLife a annoncé que MetLife Pet Insurance avait intégré son portail d'assurance via un plug-in ChatGPT, permettant aux propriétaires d'animaux...",
-      "excerpt": "MetLife a annoncé que MetLife Pet Insurance avait intégré son portail d'assurance via un plug-in ChatGPT, permettant aux propriétaires d'animaux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "MetLife lance une intégration de ChatGPT pour l'assurance animale - Zonebourse",
-      "link": "https://www.zonebourse.com/actualite-bourse/metlife-lance-une-integration-de-chatgpt-pour-la-assurance-animale-ce785dd2df89f723",
-      "url": "https://www.zonebourse.com/actualite-bourse/metlife-lance-une-integration-de-chatgpt-pour-la-assurance-animale-ce785dd2df89f723",
-      "publishedAt": "2026-10-14T12:49:06.000Z",
-      "date": "2026-10-14T12:49:06.000Z",
-      "description": "... ChatGPT pour accéder aux devis de... -Le 14 octobre 2026 à 14... Cybersécurité · Le Luxe · La Robotique · La révolution génomique · Les Family...",
-      "excerpt": "... ChatGPT pour accéder aux devis de... -Le 14 octobre 2026 à 14... Cybersécurité · Le Luxe · La Robotique · La révolution génomique · Les Family...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un employé d'OpenAI espionnait ses chefs avec un micro à 14 dollars caché derrière une télé",
-      "link": "https://korben.info/un-employe-dopenai-espionnait-ses-chefs-avec-un-micro-a-14-dollars-cache-derriere-une-tele.html",
-      "url": "https://korben.info/un-employe-dopenai-espionnait-ses-chefs-avec-un-micro-a-14-dollars-cache-derriere-une-tele.html",
-      "publishedAt": "2026-10-14T12:12:32.000Z",
-      "date": "2026-10-14T12:12:32.000Z",
-      "description": "... ChatGPT. Il fallait oser. OpenAI raconte de son côté avoir utilisé ses... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
-      "excerpt": "... ChatGPT. Il fallait oser. OpenAI raconte de son côté avoir utilisé ses... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA: 225 chercheurs réclament des changements immédiats pour prévenir des incidents majeurs",
-      "link": "https://lematin.ma/hi-tech/ia-225-chercheurs-reclament-des-changements-immediats-sur-la-securite/370227/amp",
-      "url": "https://lematin.ma/hi-tech/ia-225-chercheurs-reclament-des-changements-immediats-sur-la-securite/370227/amp",
-      "publishedAt": "2026-10-14T10:47:46.000Z",
-      "date": "2026-10-14T10:47:46.000Z",
-      "description": "Quelque 225 scientifiques spécialisés en intelligence artificielle et cybersécurité, dont le Canadien Yoshua Bengio, considéré comme l'un des pères de...",
-      "excerpt": "Quelque 225 scientifiques spécialisés en intelligence artificielle et cybersécurité, dont le Canadien Yoshua Bengio, considéré comme l'un des pères de...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
