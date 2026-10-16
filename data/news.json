@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:21:10.146Z",
+  "generatedAt": "2026-10-16T15:47:02.444Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Fini l'accent américain! ChatGPT s'offre deux voix françaises beaucoup plus naturelles",
+      "link": "https://www.clubic.com/actualite-634546-fini-l-accent-americain-chatgpt-s-offre-deux-voix-francaises-beaucoup-plus-naturelles.html",
+      "url": "https://www.clubic.com/actualite-634546-fini-l-accent-americain-chatgpt-s-offre-deux-voix-francaises-beaucoup-plus-naturelles.html",
+      "publishedAt": "2026-10-16T13:06:37.000Z",
+      "date": "2026-10-16T13:06:37.000Z",
+      "description": "OpenAI améliore le mode vocal de ChatGPT avec GPT-Live-1.1 et treize nouvelles voix, dont deux spécialement conçues pour le français... Cybersécurité...",
+      "excerpt": "OpenAI améliore le mode vocal de ChatGPT avec GPT-Live-1.1 et treize nouvelles voix, dont deux spécialement conçues pour le français... Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Avec Live 1.1, ChatGPT peut enfin parler français sans accent américain - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6332887-avec-live-1-1-chatgpt-peut-enfin-parler-francais-sans-accent-americain",
+      "url": "https://www.lefilia.fr/article/6332887-avec-live-1-1-chatgpt-peut-enfin-parler-francais-sans-accent-americain",
+      "publishedAt": "2026-10-16T12:54:11.000Z",
+      "date": "2026-10-16T12:54:11.000Z",
+      "description": "OpenAI a commencé jeudi 15 octobre à déployer GPT-Live-1.1, une mise à jour du mode vocal de ChatGPT. Cette version ajoute 13 nouvelles voix et...",
+      "excerpt": "OpenAI a commencé jeudi 15 octobre à déployer GPT-Live-1.1, une mise à jour du mode vocal de ChatGPT. Cette version ajoute 13 nouvelles voix et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Pro vs Plus vs Go vs Business: Prix 2026 - Tech Insider",
+      "link": "https://tech-insider.org/fr/chatgpt-pro-vs-plus-vs-go-vs-business-2026/",
+      "url": "https://tech-insider.org/fr/chatgpt-pro-vs-plus-vs-go-vs-business-2026/",
+      "publishedAt": "2026-10-16T12:45:07.000Z",
+      "date": "2026-10-16T12:45:07.000Z",
+      "description": "Quelle est la différence entre ChatGPT Go et ChatGPT Plus?... cybersécurité, cloud, matériel et les tendances qui comptent. editorial...",
+      "excerpt": "Quelle est la différence entre ChatGPT Go et ChatGPT Plus?... cybersécurité, cloud, matériel et les tendances qui comptent. editorial...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Avec Live 1.1, ChatGPT peut enfin parler français sans accent américain - Frandroid",
+      "link": "https://www.frandroid.com/marques/openai/3288699_avec-live-1-1-chatgpt-peut-enfin-parler-francais-sans-accent-americain",
+      "url": "https://www.frandroid.com/marques/openai/3288699_avec-live-1-1-chatgpt-peut-enfin-parler-francais-sans-accent-americain",
+      "publishedAt": "2026-10-16T10:36:51.000Z",
+      "date": "2026-10-16T10:36:51.000Z",
+      "description": "OpenAI a commencé ce jeudi 15 octobre à déployer GPT-Live-1.1, une mise à jour du mode vocal de ChatGPT qui ajoute 13 voix et promet de meilleurs...",
+      "excerpt": "OpenAI a commencé ce jeudi 15 octobre à déployer GPT-Live-1.1, une mise à jour du mode vocal de ChatGPT qui ajoute 13 voix et promet de meilleurs...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "La FTC américaine cible Anthropic et OpenAI tandis que des États poursuivent la société...",
+      "link": "https://internationalfinance.com/fr/technology/us-ftc-targets-anthropic-and-openai-as-states-take-chatgpt-parent-to-court/",
+      "url": "https://internationalfinance.com/fr/technology/us-ftc-targets-anthropic-and-openai-as-states-take-chatgpt-parent-to-court/",
+      "publishedAt": "2026-10-16T09:35:34.000Z",
+      "date": "2026-10-16T09:35:34.000Z",
+      "description": "... cybersécurité aboutissant à des piratages devraient être tenus responsables de tout dommage causé.... ChatGPT a causés à leurs résidents. Les...",
+      "excerpt": "... cybersécurité aboutissant à des piratages devraient être tenus responsables de tout dommage causé.... ChatGPT a causés à leurs résidents. Les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "États-Unis: les offres d'emploi en cybersécurité tombent à leur plus bas depuis 4 ans",
       "link": "https://fr.softonic.com/articles/etats-unis-les-offres-demploi-en-cybersecurite-tombent-a-leur-plus-bas-depuis-4-ans",
@@ -27,6 +77,16 @@
       "date": "2026-10-16T08:53:32.000Z",
       "description": "ChatGPT, Gemini, Claude et Perplexity: 10 métiers difficiles à remplacer... États-Unis: les offres d'emploi en cybersécurité tombent à leur plus bas...",
       "excerpt": "ChatGPT, Gemini, Claude et Perplexity: 10 métiers difficiles à remplacer... États-Unis: les offres d'emploi en cybersécurité tombent à leur plus bas...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT peut désormais consulter vos onglets Chrome - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6331301-chatgpt-peut-desormais-consulter-vos-onglets-chrome",
+      "url": "https://www.lefilia.fr/article/6331301-chatgpt-peut-desormais-consulter-vos-onglets-chrome",
+      "publishedAt": "2026-10-16T08:29:10.000Z",
+      "date": "2026-10-16T08:29:10.000Z",
+      "description": "ChatGPT peut désormais consulter vos onglets Chrome. OpenAI enrichit... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
+      "excerpt": "ChatGPT peut désormais consulter vos onglets Chrome. OpenAI enrichit... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -68,66 +128,6 @@
       "description": "Cybersécurité · Robotique · Cloud · Economie · Carrière · Fintech · Industrie · e-RH... ChatGPT peut désormais vous sauver la vie et celle de vos...",
       "excerpt": "Cybersécurité · Robotique · Cloud · Economie · Carrière · Fintech · Industrie · e-RH... ChatGPT peut désormais vous sauver la vie et celle de vos...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Plusieurs États américains poursuivent en justice OpenAI - Le Devoir",
-      "link": "https://www.ledevoir.com/economie/techno/1017395/plusieurs-etats-americains-poursuivent-justice-openai",
-      "url": "https://www.ledevoir.com/economie/techno/1017395/plusieurs-etats-americains-poursuivent-justice-openai",
-      "publishedAt": "2026-10-16T02:32:01.000Z",
-      "date": "2026-10-16T02:32:01.000Z",
-      "description": "Les plaintes allèguent notamment que ChatGPT s'attaque aux personnes vulnérables et aux adolescents... cybersécurité, ChatGPT, OpenAI. Partager par...",
-      "excerpt": "Les plaintes allèguent notamment que ChatGPT s'attaque aux personnes vulnérables et aux adolescents... cybersécurité, ChatGPT, OpenAI. Partager par...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI apporte l'utilisation de l'ordinateur à Chrome grâce au contrôle des onglets de ChatGPT",
-      "link": "https://www.unite.ai/fr/openai-brings-computer-use-to-chrome-with-chatgpt-tab-controls/",
-      "url": "https://www.unite.ai/fr/openai-brings-computer-use-to-chrome-with-chatgpt-tab-controls/",
-      "publishedAt": "2026-10-16T00:43:41.000Z",
-      "date": "2026-10-16T00:43:41.000Z",
-      "description": "D'Atlas à l'extension. Cette mise à niveau s'inscrit dans la transition décrite dans les notes de version de ChatGPT d'OpenAI. Le 9 juillet 2026,...",
-      "excerpt": "D'Atlas à l'extension. Cette mise à niveau s'inscrit dans la transition décrite dans les notes de version de ChatGPT d'OpenAI. Le 9 juillet 2026,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI lance le programme universitaire Rosalind pour les laboratoires des universités américaines",
-      "link": "https://www.unite.ai/fr/openai-launches-rosalind-academic-plan-for-u-s-university-labs/",
-      "url": "https://www.unite.ai/fr/openai-launches-rosalind-academic-plan-for-u-s-university-labs/",
-      "publishedAt": "2026-10-15T21:48:50.000Z",
-      "date": "2026-10-15T21:48:50.000Z",
-      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT Business gratuites pendant 12 mois maximum, l'accès à GPT...",
-      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT Business gratuites pendant 12 mois maximum, l'accès à GPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA pratique: testez l'apprentissage visuel avec ChatGPT - ZDNET",
-      "link": "https://www.zdnet.fr/pratique/ia-pratique-testez-lapprentissage-visuel-avec-chatgpt-505882.htm",
-      "url": "https://www.zdnet.fr/pratique/ia-pratique-testez-lapprentissage-visuel-avec-chatgpt-505882.htm",
-      "publishedAt": "2026-10-15T21:32:06.000Z",
-      "date": "2026-10-15T21:32:06.000Z",
-      "description": "ChatGPT sur smartphone, Ph. Lance Whitney/ZDNET. Recevez une sélection de conseils stratégiques et d'astuces concrètes chaque semaine dans votre...",
-      "excerpt": "ChatGPT sur smartphone, Ph. Lance Whitney/ZDNET. Recevez une sélection de conseils stratégiques et d'astuces concrètes chaque semaine dans votre...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Crowded Technologies Inc. Launches MCP Connector for Nonprofits - TradingView",
-      "link": "https://fr.tradingview.com/news/tradingview:a9e9eea4c7a7d:0-crowded-technologies-inc-launches-mcp-connector-for-nonprofits/",
-      "url": "https://fr.tradingview.com/news/tradingview:a9e9eea4c7a7d:0-crowded-technologies-inc-launches-mcp-connector-for-nonprofits/",
-      "publishedAt": "2026-10-15T18:48:03.000Z",
-      "date": "2026-10-15T18:48:03.000Z",
-      "description": "... ChatGPT and Claude. The beta is available now with no extra Crowded fee... Based on the original press release from Crowded Technologies Inc.",
-      "excerpt": "... ChatGPT and Claude. The beta is available now with no extra Crowded fee... Based on the original press release from Crowded Technologies Inc.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT va bientôt ajouter un filigrane invisible à ses réponses — voici ce que cela change...",
-      "link": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/chatgpt-va-bientot-ajouter-un-filigrane-invisible-a-ses-reponses-voici-ce-que-cela-change-pour-les-textes-copies",
-      "url": "https://global.techradar.com/fr-fr/ai-platforms-assistants/chatgpt/chatgpt-va-bientot-ajouter-un-filigrane-invisible-a-ses-reponses-voici-ce-que-cela-change-pour-les-textes-copies",
-      "publishedAt": "2026-10-15T17:28:44.000Z",
-      "date": "2026-10-15T17:28:44.000Z",
-      "description": "OpenAI adapte ChatGPT aux règles européennes sur la provenance des contenus IA.",
-      "excerpt": "OpenAI adapte ChatGPT aux règles européennes sur la provenance des contenus IA.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
