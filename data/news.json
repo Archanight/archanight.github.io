@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:42:59.852Z",
+  "generatedAt": "2026-10-16T02:18:10.679Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,14 +10,24 @@
   "failedSources": [],
   "items": [
     {
+      "title": "OpenAI lance le programme universitaire Rosalind pour les laboratoires des universités américaines",
+      "link": "https://www.unite.ai/fr/openai-launches-rosalind-academic-plan-for-u-s-university-labs/",
+      "url": "https://www.unite.ai/fr/openai-launches-rosalind-academic-plan-for-u-s-university-labs/",
+      "publishedAt": "2026-10-15T21:48:50.000Z",
+      "date": "2026-10-15T21:48:50.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT Business gratuites pendant 12 mois maximum, l'accès à GPT...",
+      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT Business gratuites pendant 12 mois maximum, l'accès à GPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "IA pratique: testez l'apprentissage visuel avec ChatGPT - ZDNET",
       "link": "https://www.zdnet.fr/pratique/ia-pratique-testez-lapprentissage-visuel-avec-chatgpt-505882.htm",
       "url": "https://www.zdnet.fr/pratique/ia-pratique-testez-lapprentissage-visuel-avec-chatgpt-505882.htm",
-      "publishedAt": "2026-10-15T20:02:06.000Z",
-      "date": "2026-10-15T20:02:06.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT sur smartphone, Ph. Lance Whitney/ZDNET. Recevez une...",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... ChatGPT sur smartphone, Ph. Lance Whitney/ZDNET. Recevez une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "publishedAt": "2026-10-15T21:32:06.000Z",
+      "date": "2026-10-15T21:32:06.000Z",
+      "description": "ChatGPT sur smartphone, Ph. Lance Whitney/ZDNET. Recevez une sélection de conseils stratégiques et d'astuces concrètes chaque semaine dans votre...",
+      "excerpt": "ChatGPT sur smartphone, Ph. Lance Whitney/ZDNET. Recevez une sélection de conseils stratégiques et d'astuces concrètes chaque semaine dans votre...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "ChatGPT va bientôt ajouter un filigrane invisible à ses réponses — voici ce que cela change...",
@@ -117,16 +127,6 @@
       "date": "2026-10-15T08:21:11.000Z",
       "description": "ChatGPT coûte des milliards à OpenAI... Le mardi 13 octobre 2026, Solutions30 a confirmé un incident de cybersécurité survenu la veille au soir.",
       "excerpt": "ChatGPT coûte des milliards à OpenAI... Le mardi 13 octobre 2026, Solutions30 a confirmé un incident de cybersécurité survenu la veille au soir.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "« Les patrons de la Tech ont intérêt à nous faire croire qu'on parle avec Terminator plutôt qu...",
-      "link": "https://www.humanite.fr/social-et-economie/anthropic/les-patrons-de-la-tech-ont-interet-a-nous-faire-croire-quon-parle-avec-terminator-plutot-quavec-chatgpt-comment-reprendre-le-controle-sur-lia",
-      "url": "https://www.humanite.fr/social-et-economie/anthropic/les-patrons-de-la-tech-ont-interet-a-nous-faire-croire-quon-parle-avec-terminator-plutot-quavec-chatgpt-comment-reprendre-le-controle-sur-lia",
-      "publishedAt": "2026-10-15T07:31:57.000Z",
-      "date": "2026-10-15T07:31:57.000Z",
-      "description": "» Et c'est vraiment sur le sujet de la cybersécurité que le vent de panique a commencé à souffler cet été. OpenAI et Anthropic ont annoncé pêle...",
-      "excerpt": "» Et c'est vraiment sur le sujet de la cybersécurité que le vent de panique a commencé à souffler cet été. OpenAI et Anthropic ont annoncé pêle...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
