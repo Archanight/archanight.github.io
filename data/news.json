@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T15:47:02.444Z",
+  "generatedAt": "2026-10-16T20:15:49.180Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Avec Live 1.1, ChatGPT peut enfin parler français sans accent américain - Frandroid",
+      "link": "https://www.frandroid.com/marques/openai/3288699_avec-live-1-1-chatgpt-peut-enfin-parler-francais-sans-accent-americain",
+      "url": "https://www.frandroid.com/marques/openai/3288699_avec-live-1-1-chatgpt-peut-enfin-parler-francais-sans-accent-americain",
+      "publishedAt": "2026-10-16T16:43:55.000Z",
+      "date": "2026-10-16T16:43:55.000Z",
+      "description": "OpenAI a commencé ce jeudi 15 octobre à déployer GPT-Live-1.1, une mise à jour du mode vocal de ChatGPT qui ajoute 13 voix et promet de meilleurs...",
+      "excerpt": "OpenAI a commencé ce jeudi 15 octobre à déployer GPT-Live-1.1, une mise à jour du mode vocal de ChatGPT qui ajoute 13 voix et promet de meilleurs...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT Voice: GPT-Live-1.1 propose de nouvelles voix dans six langues",
+      "link": "https://www.notebookcheck.biz/ChatGPT-Voice-GPT-Live-1-1-propose-de-nouvelles-voix-dans-six-langues.1425919.0.html",
+      "url": "https://www.notebookcheck.biz/ChatGPT-Voice-GPT-Live-1-1-propose-de-nouvelles-voix-dans-six-langues.1425919.0.html",
+      "publishedAt": "2026-10-16T16:30:08.000Z",
+      "date": "2026-10-16T16:30:08.000Z",
+      "description": "OpenAI lance un nouveau modèle pour le mode vocal de ChatGPT. Selon les notes de version officielles du 15 octobre, l'entreprise a commencé à déployer...",
+      "excerpt": "OpenAI lance un nouveau modèle pour le mode vocal de ChatGPT. Selon les notes de version officielles du 15 octobre, l'entreprise a commencé à déployer...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Quels assistants IA achètent à votre place et où ils fonctionnent",
+      "link": "https://pasqualepillitteri.it/fr/news/24626/assistants-ia-achats-ou-ils-fonctionnent",
+      "url": "https://pasqualepillitteri.it/fr/news/24626/assistants-ia-achats-ou-ils-fonctionnent",
+      "publishedAt": "2026-10-16T16:28:05.000Z",
+      "date": "2026-10-16T16:28:05.000Z",
+      "description": "Les notes de version officielles de ChatGPT ne le mentionnent pas. Publicité. Meta Muse peut-il payer à votre place? Oui, à condition que l...",
+      "excerpt": "Les notes de version officielles de ChatGPT ne le mentionnent pas. Publicité. Meta Muse peut-il payer à votre place? Oui, à condition que l...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Un homme empoisonné après avoir consulté ChatGPT: l'alerte des chercheurs sur... - Orange Actu",
+      "link": "https://actu.orange.fr/monde/un-homme-empoisonne-apres-avoir-consulte-chatgpt-l-alerte-des-chercheurs-sur-les-dangers-invisibles-de-l-ia-l-express-CNT000002sWpth.html",
+      "url": "https://actu.orange.fr/monde/un-homme-empoisonne-apres-avoir-consulte-chatgpt-l-alerte-des-chercheurs-sur-les-dangers-invisibles-de-l-ia-l-express-CNT000002sWpth.html",
+      "publishedAt": "2026-10-16T15:44:48.000Z",
+      "date": "2026-10-16T15:44:48.000Z",
+      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Un homme empoisonné après avoir consulté ChatGPT: l'alerte des chercheurs sur...",
+      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Un homme empoisonné après avoir consulté ChatGPT: l'alerte des chercheurs sur...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Quand l'IA cause des dommages - Vietnam.vn",
+      "link": "https://www.vietnam.vn/fr/khi-ai-gay-hai",
+      "url": "https://www.vietnam.vn/fr/khi-ai-gay-hai",
+      "publishedAt": "2026-10-16T15:37:32.000Z",
+      "date": "2026-10-16T15:37:32.000Z",
+      "description": "Motif: ChatGPT nuit aux citoyens de ces États, notamment en incitant les utilisateurs – y compris des adolescents – à adopter des comportements...",
+      "excerpt": "Motif: ChatGPT nuit aux citoyens de ces États, notamment en incitant les utilisateurs – y compris des adolescents – à adopter des comportements...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Fini l'accent américain! ChatGPT s'offre deux voix françaises beaucoup plus naturelles",
       "link": "https://www.clubic.com/actualite-634546-fini-l-accent-americain-chatgpt-s-offre-deux-voix-francaises-beaucoup-plus-naturelles.html",
@@ -40,14 +90,14 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Avec Live 1.1, ChatGPT peut enfin parler français sans accent américain - Frandroid",
-      "link": "https://www.frandroid.com/marques/openai/3288699_avec-live-1-1-chatgpt-peut-enfin-parler-francais-sans-accent-americain",
-      "url": "https://www.frandroid.com/marques/openai/3288699_avec-live-1-1-chatgpt-peut-enfin-parler-francais-sans-accent-americain",
-      "publishedAt": "2026-10-16T10:36:51.000Z",
-      "date": "2026-10-16T10:36:51.000Z",
-      "description": "OpenAI a commencé ce jeudi 15 octobre à déployer GPT-Live-1.1, une mise à jour du mode vocal de ChatGPT qui ajoute 13 voix et promet de meilleurs...",
-      "excerpt": "OpenAI a commencé ce jeudi 15 octobre à déployer GPT-Live-1.1, une mise à jour du mode vocal de ChatGPT qui ajoute 13 voix et promet de meilleurs...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "title": "AI Act, Bruxelles dévoile les règles pour sanctionner ChatGPT et Gemini - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/24506/ai-act-regles-sanctions-chatgpt-gemini",
+      "url": "https://pasqualepillitteri.it/fr/news/24506/ai-act-regles-sanctions-chatgpt-gemini",
+      "publishedAt": "2026-10-16T10:25:18.000Z",
+      "date": "2026-10-16T10:25:18.000Z",
+      "description": "Le projet de la Commission européenne fixe comment le Bureau de l'IA sanctionnera ChatGPT, Gemini et l'IA des grandes plateformes.",
+      "excerpt": "Le projet de la Commission européenne fixe comment le Bureau de l'IA sanctionnera ChatGPT, Gemini et l'IA des grandes plateformes.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "La FTC américaine cible Anthropic et OpenAI tandis que des États poursuivent la société...",
@@ -77,56 +127,6 @@
       "date": "2026-10-16T08:53:32.000Z",
       "description": "ChatGPT, Gemini, Claude et Perplexity: 10 métiers difficiles à remplacer... États-Unis: les offres d'emploi en cybersécurité tombent à leur plus bas...",
       "excerpt": "ChatGPT, Gemini, Claude et Perplexity: 10 métiers difficiles à remplacer... États-Unis: les offres d'emploi en cybersécurité tombent à leur plus bas...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT peut désormais consulter vos onglets Chrome - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6331301-chatgpt-peut-desormais-consulter-vos-onglets-chrome",
-      "url": "https://www.lefilia.fr/article/6331301-chatgpt-peut-desormais-consulter-vos-onglets-chrome",
-      "publishedAt": "2026-10-16T08:29:10.000Z",
-      "date": "2026-10-16T08:29:10.000Z",
-      "description": "ChatGPT peut désormais consulter vos onglets Chrome. OpenAI enrichit... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "excerpt": "ChatGPT peut désormais consulter vos onglets Chrome. OpenAI enrichit... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "C'est le pire clavier jamais inventé?: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/high-tech/c-est-le-pire-clavier-jamais-invente-CNT000002sV61e.html",
-      "url": "https://actu.orange.fr/videos/high-tech/c-est-le-pire-clavier-jamais-invente-CNT000002sV61e.html",
-      "publishedAt": "2026-10-16T08:23:50.000Z",
-      "date": "2026-10-16T08:23:50.000Z",
-      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Les immanquables... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
-      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Les immanquables... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "\"Sommes-nous préparés si cela nous arrive?\": en Touraine, la cybersécurité est un enjeu...",
-      "link": "https://www.lanouvellerepublique.fr/tours/sommes-nous-prepares-si-cela-nous-arrive-en-touraine-la-cybersecurite-est-un-enjeu-crucial-et-angoissant-pour-tous-1791476928",
-      "url": "https://www.lanouvellerepublique.fr/tours/sommes-nous-prepares-si-cela-nous-arrive-en-touraine-la-cybersecurite-est-un-enjeu-crucial-et-angoissant-pour-tous-1791476928",
-      "publishedAt": "2026-10-16T06:14:09.000Z",
-      "date": "2026-10-16T06:14:09.000Z",
-      "description": "... cybersécurité et la... Laurent Beunèche rappelle que lorsqu'on utilise les intelligences artificielles génératives telles que ChatGPT...",
-      "excerpt": "... cybersécurité et la... Laurent Beunèche rappelle que lorsqu'on utilise les intelligences artificielles génératives telles que ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Chronique de Josée Blanchette | Si ce n'était que la littérature - Le Devoir",
-      "link": "https://www.ledevoir.com/opinion/chroniques/1017311/si-ce-etait-litterature",
-      "url": "https://www.ledevoir.com/opinion/chroniques/1017311/si-ce-etait-litterature",
-      "publishedAt": "2026-10-16T05:04:08.000Z",
-      "date": "2026-10-16T05:04:08.000Z",
-      "description": "Cette spécialiste de la cybersécurité n'utilise pas la reconnaissance... cybersécurité, ChatGPT, OpenAI, Claude (IA), Gemini (IA), Thélyson...",
-      "excerpt": "Cette spécialiste de la cybersécurité n'utilise pas la reconnaissance... cybersécurité, ChatGPT, OpenAI, Claude (IA), Gemini (IA), Thélyson...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT peut désormais vous sauver la vie et celle de vos proches, voici comment le configurer",
-      "link": "https://www.journaldunet.com/magazine/id/1556549-rv1-chatgpt-peut-sauver-la-vie/",
-      "url": "https://www.journaldunet.com/magazine/id/1556549-rv1-chatgpt-peut-sauver-la-vie/",
-      "publishedAt": "2026-10-16T04:59:21.000Z",
-      "date": "2026-10-16T04:59:21.000Z",
-      "description": "Cybersécurité · Robotique · Cloud · Economie · Carrière · Fintech · Industrie · e-RH... ChatGPT peut désormais vous sauver la vie et celle de vos...",
-      "excerpt": "Cybersécurité · Robotique · Cloud · Economie · Carrière · Fintech · Industrie · e-RH... ChatGPT peut désormais vous sauver la vie et celle de vos...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
