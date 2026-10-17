@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T09:53:50.729Z",
+  "generatedAt": "2026-10-17T14:39:59.577Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -27,6 +27,16 @@
       "date": "2026-10-17T03:50:33.000Z",
       "description": "Votre source de référence pour les dernières actualités tech, les développements en IA, les analyses en cybersécurité et les tutoriels de...",
       "excerpt": "Votre source de référence pour les dernières actualités tech, les développements en IA, les analyses en cybersécurité et les tutoriels de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI poursuivie en justice concernant la sécurité des enfants et l'utilisation des données",
+      "link": "https://www.malwarebytes.com/fr/blog/ai/2026/10/openai-sued-over-children-safety-and-data-use",
+      "url": "https://www.malwarebytes.com/fr/blog/ai/2026/10/openai-sued-over-children-safety-and-data-use",
+      "publishedAt": "2026-10-16T20:59:55.000Z",
+      "date": "2026-10-16T20:59:55.000Z",
+      "description": "OpenAI fait face à des poursuites judiciaires distinctes concernant la manière dont ChatGPT interagit avec les enfants.... cybersécurité directement...",
+      "excerpt": "OpenAI fait face à des poursuites judiciaires distinctes concernant la manière dont ChatGPT interagit avec les enfants.... cybersécurité directement...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -118,16 +128,6 @@
       "description": "Quelle est la différence entre ChatGPT Go et ChatGPT Plus?... cybersécurité, cloud, matériel et les tendances qui comptent. editorial...",
       "excerpt": "Quelle est la différence entre ChatGPT Go et ChatGPT Plus?... cybersécurité, cloud, matériel et les tendances qui comptent. editorial...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "AI Act, Bruxelles dévoile les règles pour sanctionner ChatGPT et Gemini - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/24506/ai-act-regles-sanctions-chatgpt-gemini",
-      "url": "https://pasqualepillitteri.it/fr/news/24506/ai-act-regles-sanctions-chatgpt-gemini",
-      "publishedAt": "2026-10-16T10:25:18.000Z",
-      "date": "2026-10-16T10:25:18.000Z",
-      "description": "Le projet de la Commission européenne fixe comment le Bureau de l'IA sanctionnera ChatGPT, Gemini et l'IA des grandes plateformes.",
-      "excerpt": "Le projet de la Commission européenne fixe comment le Bureau de l'IA sanctionnera ChatGPT, Gemini et l'IA des grandes plateformes.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
