@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T02:11:01.300Z",
+  "generatedAt": "2026-10-17T09:53:50.729Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Claude et ChatGPT: une étude recense 1 258 incidents de faux outils d'IA - Softonic",
+      "link": "https://fr.softonic.com/articles/claude-et-chatgpt-une-etude-recense-1-258-incidents-de-faux-outils-dia",
+      "url": "https://fr.softonic.com/articles/claude-et-chatgpt-une-etude-recense-1-258-incidents-de-faux-outils-dia",
+      "publishedAt": "2026-10-17T06:07:00.000Z",
+      "date": "2026-10-17T06:07:00.000Z",
+      "description": "Dans une étude publiée cette semaine, les chercheurs de l'entreprise de cybersécurité Any.Run expliquent avoir passé au crible 1 258 incidents sur...",
+      "excerpt": "Dans une étude publiée cette semaine, les chercheurs de l'entreprise de cybersécurité Any.Run expliquent avoir passé au crible 1 258 incidents sur...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI affirme qu'au-delà de 100 documents confidentiels ont suivi l'ex-employé chez Apple",
+      "link": "https://news.lavx.hu/fr/article/openai-affirme-qu-au-dela-de-100-documents-confidentiels-ont-suivi-l-ex-employe-chez-apple",
+      "url": "https://news.lavx.hu/fr/article/openai-affirme-qu-au-dela-de-100-documents-confidentiels-ont-suivi-l-ex-employe-chez-apple",
+      "publishedAt": "2026-10-17T03:50:33.000Z",
+      "date": "2026-10-17T03:50:33.000Z",
+      "description": "Votre source de référence pour les dernières actualités tech, les développements en IA, les analyses en cybersécurité et les tutoriels de...",
+      "excerpt": "Votre source de référence pour les dernières actualités tech, les développements en IA, les analyses en cybersécurité et les tutoriels de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-Live-1.1: OpenAI annonce de nouvelles voix - NeoTeo",
+      "link": "https://www.neoteo.com/fr/gpt-live-11-openai-annonce-de-nouvelles-voix",
+      "url": "https://www.neoteo.com/fr/gpt-live-11-openai-annonce-de-nouvelles-voix",
+      "publishedAt": "2026-10-16T20:59:12.000Z",
+      "date": "2026-10-16T20:59:12.000Z",
+      "description": "... ChatGPT Live. ( Notes de version de ChatGPT ). Les options vocales annoncées. Les notes de version d'OpenAI citent de nouvelles options en français...",
+      "excerpt": "... ChatGPT Live. ( Notes de version de ChatGPT ). Les options vocales annoncées. Les notes de version d'OpenAI citent de nouvelles options en français...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Avec Live 1.1, ChatGPT peut enfin parler français sans accent américain - Frandroid",
       "link": "https://www.frandroid.com/marques/openai/3288699_avec-live-1-1-chatgpt-peut-enfin-parler-francais-sans-accent-americain",
@@ -98,36 +128,6 @@
       "description": "Le projet de la Commission européenne fixe comment le Bureau de l'IA sanctionnera ChatGPT, Gemini et l'IA des grandes plateformes.",
       "excerpt": "Le projet de la Commission européenne fixe comment le Bureau de l'IA sanctionnera ChatGPT, Gemini et l'IA des grandes plateformes.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "La FTC américaine cible Anthropic et OpenAI tandis que des États poursuivent la société...",
-      "link": "https://internationalfinance.com/fr/technology/us-ftc-targets-anthropic-and-openai-as-states-take-chatgpt-parent-to-court/",
-      "url": "https://internationalfinance.com/fr/technology/us-ftc-targets-anthropic-and-openai-as-states-take-chatgpt-parent-to-court/",
-      "publishedAt": "2026-10-16T09:35:34.000Z",
-      "date": "2026-10-16T09:35:34.000Z",
-      "description": "... cybersécurité aboutissant à des piratages devraient être tenus responsables de tout dommage causé.... ChatGPT a causés à leurs résidents. Les...",
-      "excerpt": "... cybersécurité aboutissant à des piratages devraient être tenus responsables de tout dommage causé.... ChatGPT a causés à leurs résidents. Les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "États-Unis: les offres d'emploi en cybersécurité tombent à leur plus bas depuis 4 ans",
-      "link": "https://fr.softonic.com/articles/etats-unis-les-offres-demploi-en-cybersecurite-tombent-a-leur-plus-bas-depuis-4-ans",
-      "url": "https://fr.softonic.com/articles/etats-unis-les-offres-demploi-en-cybersecurite-tombent-a-leur-plus-bas-depuis-4-ans",
-      "publishedAt": "2026-10-16T08:53:34.000Z",
-      "date": "2026-10-16T08:53:34.000Z",
-      "description": "Le marché américain de l'emploi en cybersécurité a franchement ralenti entre janvier et septembre 2026... ChatGPT, Gemini, Claude et Perplexity: 10...",
-      "excerpt": "Le marché américain de l'emploi en cybersécurité a franchement ralenti entre janvier et septembre 2026... ChatGPT, Gemini, Claude et Perplexity: 10...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT, Gemini, Claude et Perplexity: 10 métiers difficiles à remplacer - Softonic",
-      "link": "https://fr.softonic.com/articles/chatgpt-gemini-claude-et-perplexity-10-metiers-difficiles-a-remplacer",
-      "url": "https://fr.softonic.com/articles/chatgpt-gemini-claude-et-perplexity-10-metiers-difficiles-a-remplacer",
-      "publishedAt": "2026-10-16T08:53:32.000Z",
-      "date": "2026-10-16T08:53:32.000Z",
-      "description": "ChatGPT, Gemini, Claude et Perplexity: 10 métiers difficiles à remplacer... États-Unis: les offres d'emploi en cybersécurité tombent à leur plus bas...",
-      "excerpt": "ChatGPT, Gemini, Claude et Perplexity: 10 métiers difficiles à remplacer... États-Unis: les offres d'emploi en cybersécurité tombent à leur plus bas...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
