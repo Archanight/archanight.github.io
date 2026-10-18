@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T02:10:46.305Z",
+  "generatedAt": "2026-10-18T10:06:24.089Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Conseils financiers de l'IA: ChatGPT et Gemini se trompent sur 40 % des chiffres du CAC 40...",
+      "link": "https://www.senioractu.com/Conseils-financiers-de-l-IA-ChatGPT-et-Gemini-se-trompent-sur-40-des-chiffres-du-CAC-40-pour-votre-epargne-l-AMF_a28179.html",
+      "url": "https://www.senioractu.com/Conseils-financiers-de-l-IA-ChatGPT-et-Gemini-se-trompent-sur-40-des-chiffres-du-CAC-40-pour-votre-epargne-l-AMF_a28179.html",
+      "publishedAt": "2026-10-18T09:14:53.000Z",
+      "date": "2026-10-18T09:14:53.000Z",
+      "description": "Vous avez peut-être déjà demandé à ChatGPT ou à Gemini combien rapporte un placement, ou ce que vaut l'action de votre banque.",
+      "excerpt": "Vous avez peut-être déjà demandé à ChatGPT ou à Gemini combien rapporte un placement, ou ce que vaut l'action de votre banque.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT ne fonctionne plus: 7 solutions pour résoudre le problème - topactualites.com",
+      "link": "https://www.topactualites.com/2026/10/17/chatgpt-ne-fonctionne-plus-solutions/",
+      "url": "https://www.topactualites.com/2026/10/17/chatgpt-ne-fonctionne-plus-solutions/",
+      "publishedAt": "2026-10-18T08:27:30.000Z",
+      "date": "2026-10-18T08:27:30.000Z",
+      "description": "ChatGPT ne répond plus ou affiche une page blanche? Suivez sept vérifications pour distinguer panne, navigateur, réseau et limite de compte.",
+      "excerpt": "ChatGPT ne répond plus ou affiche une page blanche? Suivez sept vérifications pour distinguer panne, navigateur, réseau et limite de compte.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Piratage chez OpenCode, les clés API d'OpenAI, Anthropic et Google menacées",
+      "link": "https://pasqualepillitteri.it/fr/news/25136/piratage-opencode-cles-api-openai-anthropic-google-menacees",
+      "url": "https://pasqualepillitteri.it/fr/news/25136/piratage-opencode-cles-api-openai-anthropic-google-menacees",
+      "publishedAt": "2026-10-18T07:10:12.000Z",
+      "date": "2026-10-18T07:10:12.000Z",
+      "description": "ChatGPT... Cybersécurité cybersécurité opencode piratage opencode clés api opencode console fuite de données openai anthropic google.",
+      "excerpt": "ChatGPT... Cybersécurité cybersécurité opencode piratage opencode clés api opencode console fuite de données openai anthropic google.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude vs ChatGPT vs Gemini: Prix et Score 2026 - shattered.io",
+      "link": "https://shattered.io/fr/claude-vs-chatgpt-vs-gemini-2026/",
+      "url": "https://shattered.io/fr/claude-vs-chatgpt-vs-gemini-2026/",
+      "publishedAt": "2026-10-18T07:05:55.000Z",
+      "date": "2026-10-18T07:05:55.000Z",
+      "description": "Claude vs ChatGPT vs Gemini: +10,6 Points de Code [2026]. Marcus Bell... Développeur ou équipe DevOps: Claude Opus 4.8, pour son score SWE...",
+      "excerpt": "Claude vs ChatGPT vs Gemini: +10,6 Points de Code [2026]. Marcus Bell... Développeur ou équipe DevOps: Claude Opus 4.8, pour son score SWE...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cyberattaque.org est-il fiable? Ce que c'est et comment le lire",
+      "link": "https://pasqualepillitteri.it/fr/news/24986/cyberattaque-org-fiable-observatoire-fuites-donnees-france",
+      "url": "https://pasqualepillitteri.it/fr/news/24986/cyberattaque-org-fiable-observatoire-fuites-donnees-france",
+      "publishedAt": "2026-10-18T00:32:16.000Z",
+      "date": "2026-10-18T00:32:16.000Z",
+      "description": "Cybersécurité · Pasquale Pillitteri. 17/10/2026 12 min de lecture. Cybersécurité cybersécurité cyberattaque.org fuite de données...",
+      "excerpt": "Cybersécurité · Pasquale Pillitteri. 17/10/2026 12 min de lecture. Cybersécurité cybersécurité cyberattaque.org fuite de données...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Injection de prompt: une menace invisible pour les intelligences artificielles? - EmarketerZ",
       "link": "https://www.emarketerz.fr/injection-de-prompt-une-menace-invisible-pour-les-intelligences-artificielles/",
@@ -77,56 +127,6 @@
       "date": "2026-10-17T15:45:02.000Z",
       "description": "It can even help you organize and group that pile of tabs you have open. — ChatGPT (@ ChatGPT ) October 15, 2026... Cybersécurité · Société · Télécoms...",
       "excerpt": "It can even help you organize and group that pile of tabs you have open. — ChatGPT (@ ChatGPT ) October 15, 2026... Cybersécurité · Société · Télécoms...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Peut-on vraiment confier son épargne à ChatGPT ou Gemini? Une étude révèle que 40...",
-      "link": "https://www.challenges.fr/argent-et-placements/peut-on-vraiment-confier-son-epargne-a-chatgpt-ou-gemini-une-etude-revele-que-40-des-donnees-financieres-fournies-par-lia-sont-erronees-et-appelle-a-la-prudence_646356",
-      "url": "https://www.challenges.fr/argent-et-placements/peut-on-vraiment-confier-son-epargne-a-chatgpt-ou-gemini-une-etude-revele-que-40-des-donnees-financieres-fournies-par-lia-sont-erronees-et-appelle-a-la-prudence_646356",
-      "publishedAt": "2026-10-17T15:01:50.000Z",
-      "date": "2026-10-17T15:01:50.000Z",
-      "description": "... ChatGPT et Gemini sont incorrectes: confusion, résultats obsolètes ou carrément inventés…... Les Assises de la cybersécurité · PRNewswire · Speak &...",
-      "excerpt": "... ChatGPT et Gemini sont incorrectes: confusion, résultats obsolètes ou carrément inventés…... Les Assises de la cybersécurité · PRNewswire · Speak &...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "DeepSeek lance 4.1 Flash 1017 avec des poids MIT et des réponses plus courtes",
-      "link": "https://pasqualepillitteri.it/fr/news/24845/deepseek-lance-41-flash-1017-poids-mit-reponses-courtes",
-      "url": "https://pasqualepillitteri.it/fr/news/24845/deepseek-lance-41-flash-1017-poids-mit-reponses-courtes",
-      "publishedAt": "2026-10-17T11:51:26.000Z",
-      "date": "2026-10-17T11:51:26.000Z",
-      "description": "ChatGPT · Cybersécurité · Actualités IA & Tendances · Finance · Jeux Vidéo · Claude...",
-      "excerpt": "ChatGPT · Cybersécurité · Actualités IA & Tendances · Finance · Jeux Vidéo · Claude...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-6 Pro arrive avec des agents parallèles dans ChatGPT - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/24851/gpt-6-pro-agents-paralleles-chatgpt",
-      "url": "https://pasqualepillitteri.it/fr/news/24851/gpt-6-pro-agents-paralleles-chatgpt",
-      "publishedAt": "2026-10-17T11:39:27.000Z",
-      "date": "2026-10-17T11:39:27.000Z",
-      "description": "OpenAI ajoute les agents parallèles à GPT-6 Pro dans ChatGPT. Quels forfaits y ont droit, quelles limites d'usage et ce que l'on sait vraiment de...",
-      "excerpt": "OpenAI ajoute les agents parallèles à GPT-6 Pro dans ChatGPT. Quels forfaits y ont droit, quelles limites d'usage et ce que l'on sait vraiment de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "8 problèmes scientifiques que l'IA a débloqués (et que l'humain n'avait jamais résolus)",
-      "link": "https://pasqualepillitteri.it/fr/news/24799/decouvertes-scientifiques-ia-verifiees",
-      "url": "https://pasqualepillitteri.it/fr/news/24799/decouvertes-scientifiques-ia-verifiees",
-      "publishedAt": "2026-10-17T07:24:24.000Z",
-      "date": "2026-10-17T07:24:24.000Z",
-      "description": "Cybersécurité · IA en local · Gemini... ChatGPT · Benchmarks et Comparatifs...",
-      "excerpt": "Cybersécurité · IA en local · Gemini... ChatGPT · Benchmarks et Comparatifs...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude et ChatGPT: une étude recense 1 258 incidents de faux outils d'IA - Softonic",
-      "link": "https://fr.softonic.com/articles/claude-et-chatgpt-une-etude-recense-1-258-incidents-de-faux-outils-dia",
-      "url": "https://fr.softonic.com/articles/claude-et-chatgpt-une-etude-recense-1-258-incidents-de-faux-outils-dia",
-      "publishedAt": "2026-10-17T06:07:00.000Z",
-      "date": "2026-10-17T06:07:00.000Z",
-      "description": "Dans une étude publiée cette semaine, les chercheurs de l'entreprise de cybersécurité Any.Run expliquent avoir passé au crible 1 258 incidents sur...",
-      "excerpt": "Dans une étude publiée cette semaine, les chercheurs de l'entreprise de cybersécurité Any.Run expliquent avoir passé au crible 1 258 incidents sur...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
