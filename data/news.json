@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:51:16.383Z",
+  "generatedAt": "2026-10-18T02:10:46.305Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Injection de prompt: une menace invisible pour les intelligences artificielles? - EmarketerZ",
+      "link": "https://www.emarketerz.fr/injection-de-prompt-une-menace-invisible-pour-les-intelligences-artificielles/",
+      "url": "https://www.emarketerz.fr/injection-de-prompt-une-menace-invisible-pour-les-intelligences-artificielles/",
+      "publishedAt": "2026-10-17T23:05:41.000Z",
+      "date": "2026-10-17T23:05:41.000Z",
+      "description": "Aux Assises de la cybersécurité, des experts de Check Point, Sekoia... ChatGPT & IA générative: 5 conseils pour rédiger un prompt efficace...",
+      "excerpt": "Aux Assises de la cybersécurité, des experts de Check Point, Sekoia... ChatGPT & IA générative: 5 conseils pour rédiger un prompt efficace...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenCode piraté: des clés d'accès à ChatGPT, Claude et Gemini potentiellement exposées",
+      "link": "https://frenchbreaches.com/blog/opencode-pirate-des-cles-dacces-a-chatgpt-claude-et-gemini-potentiellement-exposees",
+      "url": "https://frenchbreaches.com/blog/opencode-pirate-des-cles-dacces-a-chatgpt-claude-et-gemini-potentiellement-exposees",
+      "publishedAt": "2026-10-17T22:54:36.000Z",
+      "date": "2026-10-17T22:54:36.000Z",
+      "description": "OpenCode piraté: des clés d'accès à ChatGPT, Claude et Gemini potentiellement exposées... L'Union européenne attaque la France et l'Espagne pour...",
+      "excerpt": "OpenCode piraté: des clés d'accès à ChatGPT, Claude et Gemini potentiellement exposées... L'Union européenne attaque la France et l'Espagne pour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-5.2 vs OrcaCyber Ultra 1.0: benchmarks, tarifs et vitesse (octobre 2026) - OrcaRouter",
+      "link": "https://www.orcarouter.ai/fr/compare/gpt-5.2-vs-orcacyber-ultra-1.0",
+      "url": "https://www.orcarouter.ai/fr/compare/gpt-5.2-vs-orcacyber-ultra-1.0",
+      "publishedAt": "2026-10-17T18:56:30.000Z",
+      "date": "2026-10-17T18:56:30.000Z",
+      "description": "GPT-5.2GPT-5.2 OpenAI GPT-5.2: 400K de contexte, 99.0 sur... OrcaCyber Ultra 1.0OrcaCyber Ultra 1.0Le produit phare de la série de cybersécurité...",
+      "excerpt": "GPT-5.2GPT-5.2 OpenAI GPT-5.2: 400K de contexte, 99.0 sur... OrcaCyber Ultra 1.0OrcaCyber Ultra 1.0Le produit phare de la série de cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI dévoile 4 incidents, un modèle a utilisé un wallet crypto qui n'était pas le sien",
       "link": "https://pasqualepillitteri.it/fr/news/25057/openai-devoile-4-incidents-modele-wallet-crypto",
@@ -98,36 +128,6 @@
       "description": "Dans une étude publiée cette semaine, les chercheurs de l'entreprise de cybersécurité Any.Run expliquent avoir passé au crible 1 258 incidents sur...",
       "excerpt": "Dans une étude publiée cette semaine, les chercheurs de l'entreprise de cybersécurité Any.Run expliquent avoir passé au crible 1 258 incidents sur...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI affirme qu'au-delà de 100 documents confidentiels ont suivi l'ex-employé chez Apple",
-      "link": "https://news.lavx.hu/fr/article/openai-affirme-qu-au-dela-de-100-documents-confidentiels-ont-suivi-l-ex-employe-chez-apple",
-      "url": "https://news.lavx.hu/fr/article/openai-affirme-qu-au-dela-de-100-documents-confidentiels-ont-suivi-l-ex-employe-chez-apple",
-      "publishedAt": "2026-10-17T03:50:33.000Z",
-      "date": "2026-10-17T03:50:33.000Z",
-      "description": "Votre source de référence pour les dernières actualités tech, les développements en IA, les analyses en cybersécurité et les tutoriels de...",
-      "excerpt": "Votre source de référence pour les dernières actualités tech, les développements en IA, les analyses en cybersécurité et les tutoriels de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI poursuivie en justice concernant la sécurité des enfants et l'utilisation des données",
-      "link": "https://www.malwarebytes.com/fr/blog/ai/2026/10/openai-sued-over-children-safety-and-data-use",
-      "url": "https://www.malwarebytes.com/fr/blog/ai/2026/10/openai-sued-over-children-safety-and-data-use",
-      "publishedAt": "2026-10-16T20:59:55.000Z",
-      "date": "2026-10-16T20:59:55.000Z",
-      "description": "OpenAI fait face à des poursuites judiciaires distinctes concernant la manière dont ChatGPT interagit avec les enfants.... cybersécurité directement...",
-      "excerpt": "OpenAI fait face à des poursuites judiciaires distinctes concernant la manière dont ChatGPT interagit avec les enfants.... cybersécurité directement...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-Live-1.1: OpenAI annonce de nouvelles voix - NeoTeo",
-      "link": "https://www.neoteo.com/fr/gpt-live-11-openai-annonce-de-nouvelles-voix",
-      "url": "https://www.neoteo.com/fr/gpt-live-11-openai-annonce-de-nouvelles-voix",
-      "publishedAt": "2026-10-16T20:59:12.000Z",
-      "date": "2026-10-16T20:59:12.000Z",
-      "description": "... ChatGPT Live. ( Notes de version de ChatGPT ). Les options vocales annoncées. Les notes de version d'OpenAI citent de nouvelles options en français...",
-      "excerpt": "... ChatGPT Live. ( Notes de version de ChatGPT ). Les options vocales annoncées. Les notes de version d'OpenAI citent de nouvelles options en français...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
