@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T11:35:30.788Z",
+  "generatedAt": "2026-10-19T17:58:08.231Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,76 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT, Gemini, Meta AI: les chatbots n'ont pas la même couleur politique - incyber news",
+      "link": "https://incyber.org/article/chatgpt-gemini-meta-ai-les-chatbots-nont-pas-la-meme-couleur-politique/",
+      "url": "https://incyber.org/article/chatgpt-gemini-meta-ai-les-chatbots-nont-pas-la-meme-couleur-politique/",
+      "publishedAt": "2026-10-19T14:56:55.000Z",
+      "date": "2026-10-19T14:56:55.000Z",
+      "description": "... ChatGPT, Gemini, Meta AI: les chatbots n'ont pas la même couleur... Cybersécurité · Géopolitique · Secops · Sécurité des IA · Risk & Compliance...",
+      "excerpt": "... ChatGPT, Gemini, Meta AI: les chatbots n'ont pas la même couleur... Cybersécurité · Géopolitique · Secops · Sécurité des IA · Risk & Compliance...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT peut désormais consulter et contrôler les onglets de Chrome - ICTjournal",
+      "link": "https://www.ictjournal.ch/news/2026-10-19/chatgpt-peut-desormais-consulter-et-controler-les-onglets-de-chrome",
+      "url": "https://www.ictjournal.ch/news/2026-10-19/chatgpt-peut-desormais-consulter-et-controler-les-onglets-de-chrome",
+      "publishedAt": "2026-10-19T14:44:28.000Z",
+      "date": "2026-10-19T14:44:28.000Z",
+      "description": "OpenAI étend les capacités de ChatGPT dans Google Chrome. L'assistant peut consulter plusieurs onglets pour répondre à des questions et,...",
+      "excerpt": "OpenAI étend les capacités de ChatGPT dans Google Chrome. L'assistant peut consulter plusieurs onglets pour répondre à des questions et,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Idea update chatgpt compagnon 1.0 - Feature requests - OpenAI Developer Community",
+      "link": "https://community.openai.com/t/idea-update-chatgpt-compagnon-1-0/1407752",
+      "url": "https://community.openai.com/t/idea-update-chatgpt-compagnon-1-0/1407752",
+      "publishedAt": "2026-10-19T14:38:46.000Z",
+      "date": "2026-10-19T14:38:46.000Z",
+      "description": "... ChatGPT Basée sur l'Analyse en Temps Réel des Préférences Musicales et Créatives · Use cases and examples · gpt-4. 0, 60, August 19, 2024. Give...",
+      "excerpt": "... ChatGPT Basée sur l'Analyse en Temps Réel des Préférences Musicales et Créatives · Use cases and examples · gpt-4. 0, 60, August 19, 2024. Give...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Digital Omnibus, ce qui change pour les cookies, le RGPD et l'IA - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/25617/digital-omnibus-cookies-rgpd-ia-ce-qui-change",
+      "url": "https://pasqualepillitteri.it/fr/news/25617/digital-omnibus-cookies-rgpd-ia-ce-qui-change",
+      "publishedAt": "2026-10-19T13:28:16.000Z",
+      "date": "2026-10-19T13:28:16.000Z",
+      "description": "Cybersécurité · Jeux Vidéo · IA... ChatGPT · Amazon · Tesla · IA en local...",
+      "excerpt": "Cybersécurité · Jeux Vidéo · IA... ChatGPT · Amazon · Tesla · IA en local...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-6.1 Sol vs Astra vs Luna: 96% et 5x Moins Cher [2026] - shattered.io",
+      "link": "https://shattered.io/fr/gpt-6-1-sol-vs-astra-vs-luna-2026/",
+      "url": "https://shattered.io/fr/gpt-6-1-sol-vs-astra-vs-luna-2026/",
+      "publishedAt": "2026-10-19T12:50:14.000Z",
+      "date": "2026-10-19T12:50:14.000Z",
+      "description": "Google a annoncé Gemini 4 Argon le 30 septembre, encore limité à un accès restreint pour des défenseurs en cybersécurité sélectionnés au moment de sa...",
+      "excerpt": "Google a annoncé Gemini 4 Argon le 30 septembre, encore limité à un accès restreint pour des défenseurs en cybersécurité sélectionnés au moment de sa...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Anthropic propose de ne bloquer un modèle d'IA qu'en cas de risque imminent de... - ActuIA",
+      "link": "https://www.actuia.com/actualite/anthropic-propose-de-ne-bloquer-un-modele-quen-cas-de-risque-imminent-de-plus-de-50-morts-ou-blesses-graves-ou-1-md/",
+      "url": "https://www.actuia.com/actualite/anthropic-propose-de-ne-bloquer-un-modele-quen-cas-de-risque-imminent-de-plus-de-50-morts-ou-blesses-graves-ou-1-md/",
+      "publishedAt": "2026-10-19T11:26:35.000Z",
+      "date": "2026-10-19T11:26:35.000Z",
+      "description": "réglementationsécuritéAgents IA cybersécuritéChatGPT Grands modèles de langage (LLM)éthiquedroit d'auteur. ST. Stephane Nachez. Rédaction ActuIA...",
+      "excerpt": "réglementationsécuritéAgents IA cybersécuritéChatGPT Grands modèles de langage (LLM)éthiquedroit d'auteur. ST. Stephane Nachez. Rédaction ActuIA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les meilleurs OCR locaux pour PC et serveur en 2026 - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/25569/meilleurs-ocr-locaux-pc-serveur",
+      "url": "https://pasqualepillitteri.it/fr/news/25569/meilleurs-ocr-locaux-pc-serveur",
+      "publishedAt": "2026-10-19T11:25:46.000Z",
+      "date": "2026-10-19T11:25:46.000Z",
+      "description": "Cybersécurité · Big Tech · Anthropic... ChatGPT · Amazon · Tesla · IA en local...",
+      "excerpt": "Cybersécurité · Big Tech · Anthropic... ChatGPT · Amazon · Tesla · IA en local...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Cyber, IA, contrats: comment le Cigref veut protéger les DSI des grands groupes - ZDNET",
       "link": "https://www.zdnet.fr/actualites/cyber-ia-contrats-comment-le-cigref-veut-proteger-les-dsi-des-grands-groupes-505980.htm",
@@ -40,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
+      "title": "Weekly Recap: GPU-accelerated Tick History and ChatGPT market data - TradingView",
+      "link": "https://fr.tradingview.com/news/tradingview:bd02e86367ff4:0-weekly-recap-gpu-accelerated-tick-history-and-chatgpt-market-data/",
+      "url": "https://fr.tradingview.com/news/tradingview:bd02e86367ff4:0-weekly-recap-gpu-accelerated-tick-history-and-chatgpt-market-data/",
+      "publishedAt": "2026-10-19T07:23:42.000Z",
+      "date": "2026-10-19T07:23:42.000Z",
+      "description": "... ChatGPT and expanding AI access—while BlackRock's Oct 15 stake shift and... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "excerpt": "... ChatGPT and expanding AI access—while BlackRock's Oct 15 stake shift and... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Serveur MCP: Docusign ouvre ses contrats aux agents d'IA et annonce des connecteurs avec Mistral",
       "link": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/serveur-mcp-docusign-ouvre-ses-contrats-aux-agents-dia-et-annonce-des-connecteurs-souverains-avec-mistral/",
       "url": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/serveur-mcp-docusign-ouvre-ses-contrats-aux-agents-dia-et-annonce-des-connecteurs-souverains-avec-mistral/",
@@ -47,86 +127,6 @@
       "date": "2026-10-19T07:06:01.000Z",
       "description": "Cybersécurité Cybersécurité - Actualités Serveur MCP: Docusign ouvre... ChatGPT et à Vibe, l'assistant de Mistral. Pour Docusign, le...",
       "excerpt": "Cybersécurité Cybersécurité - Actualités Serveur MCP: Docusign ouvre... ChatGPT et à Vibe, l'assistant de Mistral. Pour Docusign, le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Mistral Large 4: 1 Billion de Paramètres, 5 Devant [2026] - shattered.io",
-      "link": "https://shattered.io/fr/mistral-large-4-1-billion-parametres-2026/",
-      "url": "https://shattered.io/fr/mistral-large-4-1-billion-parametres-2026/",
-      "publishedAt": "2026-10-19T04:03:08.000Z",
-      "date": "2026-10-19T04:03:08.000Z",
-      "description": "ChatGPT Atlas vs... GPT-5.2: 0,7% vs 0,5% [2026]...",
-      "excerpt": "ChatGPT Atlas vs... GPT-5.2: 0,7% vs 0,5% [2026]...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "On a tenté de remplacer ChatGPT par une IA gratuite et sans Internet sur le Nvidia RTX Spark (vidéo)",
-      "link": "https://www.lefilia.fr/article/6344908-on-a-tente-de-remplacer-chatgpt-par-une-ia-gratuite-et-sans-internet-sur-le-nvidia-rtx-spark-video",
-      "url": "https://www.lefilia.fr/article/6344908-on-a-tente-de-remplacer-chatgpt-par-une-ia-gratuite-et-sans-internet-sur-le-nvidia-rtx-spark-video",
-      "publishedAt": "2026-10-19T02:29:03.000Z",
-      "date": "2026-10-19T02:29:03.000Z",
-      "description": "... ChatGPT... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "excerpt": "... ChatGPT... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Docusign lance son serveur MCP et s'allie à Mistral pour automatiser l'exécution des... - ITRnews",
-      "link": "https://itrnews.com/articles/211320/docusign-lance-son-serveur-mcp-et-sallie-a-mistral-pour-automatiser-lexecution-des-contrats-par-les-agents-ia.html",
-      "url": "https://itrnews.com/articles/211320/docusign-lance-son-serveur-mcp-et-sallie-a-mistral-pour-automatiser-lexecution-des-contrats-par-les-agents-ia.html",
-      "publishedAt": "2026-10-18T21:32:58.000Z",
-      "date": "2026-10-18T21:32:58.000Z",
-      "description": "Les agents peuvent désormais gérer les flux contractuels directement depuis Claude, ChatGPT, Gemini ou Salesforce Agentforce.... La cybersécurité...",
-      "excerpt": "Les agents peuvent désormais gérer les flux contractuels directement depuis Claude, ChatGPT, Gemini ou Salesforce Agentforce.... La cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Meilleures formations et certifications IA gratuites en 2026 - lebigdata.fr",
-      "link": "https://www.lebigdata.fr/les-meilleures-formations-et-certifications-ia-gratuites-en-2026",
-      "url": "https://www.lebigdata.fr/les-meilleures-formations-et-certifications-ia-gratuites-en-2026",
-      "publishedAt": "2026-10-18T20:08:25.000Z",
-      "date": "2026-10-18T20:08:25.000Z",
-      "description": "De nombreuses plateformes permettent de découvrir ChatGPT et d'autres modèles de langage ou des agents IA sans frais.... IA Data Cloud Cybersécurité...",
-      "excerpt": "De nombreuses plateformes permettent de découvrir ChatGPT et d'autres modèles de langage ou des agents IA sans frais.... IA Data Cloud Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Vous ne voyez aucune différence entre ce « a » et ce « а », et c'est un énorme problème de...",
-      "link": "https://www.numerama.com/cyberguerre/2353923-vous-ne-voyez-aucune-difference-entre-ce-a-et-ce-%D0%B0-et-cest-un-enorme-probleme-de-cybersecurite.html",
-      "url": "https://www.numerama.com/cyberguerre/2353923-vous-ne-voyez-aucune-difference-entre-ce-a-et-ce-%D0%B0-et-cest-un-enorme-probleme-de-cybersecurite.html",
-      "publishedAt": "2026-10-18T18:32:18.000Z",
-      "date": "2026-10-18T18:32:18.000Z",
-      "description": "Vous ne voyez aucune différence entre ce « a » et ce « а », et c'est un énorme problème de cybersécurité... Chercher un sac sur ChatGPT, et...",
-      "excerpt": "Vous ne voyez aucune différence entre ce « a » et ce « а », et c'est un énorme problème de cybersécurité... Chercher un sac sur ChatGPT, et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Prompt Injection: Gemini 4 Argon vs Claude vs GPT-5.2 - shattered.io",
-      "link": "https://shattered.io/fr/gemini-4-argon-vs-claude-vs-gpt-5-2-prompt-injection-2026/",
-      "url": "https://shattered.io/fr/gemini-4-argon-vs-claude-vs-gpt-5-2-prompt-injection-2026/",
-      "publishedAt": "2026-10-18T14:10:11.000Z",
-      "date": "2026-10-18T14:10:11.000Z",
-      "description": "ChatGPT Atlas vs... Premium sur la gamme GPT-5, usage agentique étendu, Navigateur...",
-      "excerpt": "ChatGPT Atlas vs... Premium sur la gamme GPT-5, usage agentique étendu, Navigateur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT prend le contrôle de vos onglets Chrome et abandonne son propre navigateur",
-      "link": "https://entrevue.fr/sciences-tech/intelligence-artificielle/chatgpt-prend-le-controle-de-vos-onglets-chrome-et-abandonne-son-propre/",
-      "url": "https://entrevue.fr/sciences-tech/intelligence-artificielle/chatgpt-prend-le-controle-de-vos-onglets-chrome-et-abandonne-son-propre/",
-      "publishedAt": "2026-10-18T14:08:45.000Z",
-      "date": "2026-10-18T14:08:45.000Z",
-      "description": "OpenAI a annoncé le 15 octobre une intégration poussée de ChatGPT dans Google Chrome, permettant à l'assistant de lire, pilo... Cybersécurité · Voir...",
-      "excerpt": "OpenAI a annoncé le 15 octobre une intégration poussée de ChatGPT dans Google Chrome, permettant à l'assistant de lire, pilo... Cybersécurité · Voir...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "TP-Link propose un milliard de dollars pour vendre ses routeurs Wi-Fi 8 aux États-Unis",
-      "link": "https://pasqualepillitteri.it/fr/news/25284/tp-link-milliard-dollars-routeurs-wifi-8-etats-unis",
-      "url": "https://pasqualepillitteri.it/fr/news/25284/tp-link-milliard-dollars-routeurs-wifi-8-etats-unis",
-      "publishedAt": "2026-10-18T14:08:03.000Z",
-      "date": "2026-10-18T14:08:03.000Z",
-      "description": "Cybersécurité · Actualités IA... ChatGPT · Amazon · Tesla · Anthropic...",
-      "excerpt": "Cybersécurité · Actualités IA... ChatGPT · Amazon · Tesla · Anthropic...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
