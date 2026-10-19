@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T19:52:00.047Z",
+  "generatedAt": "2026-10-19T02:26:48.427Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Docusign lance son serveur MCP et s'allie à Mistral pour automatiser l'exécution des... - ITRnews",
+      "link": "https://itrnews.com/articles/211320/docusign-lance-son-serveur-mcp-et-sallie-a-mistral-pour-automatiser-lexecution-des-contrats-par-les-agents-ia.html",
+      "url": "https://itrnews.com/articles/211320/docusign-lance-son-serveur-mcp-et-sallie-a-mistral-pour-automatiser-lexecution-des-contrats-par-les-agents-ia.html",
+      "publishedAt": "2026-10-18T21:32:58.000Z",
+      "date": "2026-10-18T21:32:58.000Z",
+      "description": "Les agents peuvent désormais gérer les flux contractuels directement depuis Claude, ChatGPT, Gemini ou Salesforce Agentforce.... La cybersécurité...",
+      "excerpt": "Les agents peuvent désormais gérer les flux contractuels directement depuis Claude, ChatGPT, Gemini ou Salesforce Agentforce.... La cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Meilleures formations et certifications IA gratuites en 2026 - lebigdata.fr",
+      "link": "https://www.lebigdata.fr/les-meilleures-formations-et-certifications-ia-gratuites-en-2026",
+      "url": "https://www.lebigdata.fr/les-meilleures-formations-et-certifications-ia-gratuites-en-2026",
+      "publishedAt": "2026-10-18T20:08:25.000Z",
+      "date": "2026-10-18T20:08:25.000Z",
+      "description": "De nombreuses plateformes permettent de découvrir ChatGPT et d'autres modèles de langage ou des agents IA sans frais.... IA Data Cloud Cybersécurité...",
+      "excerpt": "De nombreuses plateformes permettent de découvrir ChatGPT et d'autres modèles de langage ou des agents IA sans frais.... IA Data Cloud Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Vous ne voyez aucune différence entre ce « a » et ce « а », et c'est un énorme problème de...",
+      "link": "https://www.numerama.com/cyberguerre/2353923-vous-ne-voyez-aucune-difference-entre-ce-a-et-ce-%D0%B0-et-cest-un-enorme-probleme-de-cybersecurite.html",
+      "url": "https://www.numerama.com/cyberguerre/2353923-vous-ne-voyez-aucune-difference-entre-ce-a-et-ce-%D0%B0-et-cest-un-enorme-probleme-de-cybersecurite.html",
+      "publishedAt": "2026-10-18T18:32:18.000Z",
+      "date": "2026-10-18T18:32:18.000Z",
+      "description": "Vous ne voyez aucune différence entre ce « a » et ce « а », et c'est un énorme problème de cybersécurité... Chercher un sac sur ChatGPT, et...",
+      "excerpt": "Vous ne voyez aucune différence entre ce « a » et ce « а », et c'est un énorme problème de cybersécurité... Chercher un sac sur ChatGPT, et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Prompt Injection: Gemini 4 Argon vs Claude vs GPT-5.2 - shattered.io",
       "link": "https://shattered.io/fr/gemini-4-argon-vs-claude-vs-gpt-5-2-prompt-injection-2026/",
@@ -70,6 +100,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "ChatGPT a de nouvelles voix en français cette semaine. Voici comment t'en servir pour tes vidéos:",
+      "link": "https://www.facebook.com/100063101416075/posts/-chatgpt-a-de-nouvelles-voix-en-fran%C3%A7ais-cette-semainevoici-comment-ten-servir-p/1420900653356635/",
+      "url": "https://www.facebook.com/100063101416075/posts/-chatgpt-a-de-nouvelles-voix-en-fran%C3%A7ais-cette-semainevoici-comment-ten-servir-p/1420900653356635/",
+      "publishedAt": "2026-10-18T11:08:01.000Z",
+      "date": "2026-10-18T11:08:01.000Z",
+      "description": "✨ Ce 13 mai, OpenAI a dévoilé une mise à jour majeure de ses produits phares, ChatGPT et GPT-4, lors de l'événement Spring Updates. GPT-4o:...",
+      "excerpt": "✨ Ce 13 mai, OpenAI a dévoilé une mise à jour majeure de ses produits phares, ChatGPT et GPT-4, lors de l'événement Spring Updates. GPT-4o:...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Huit États américains poursuivent OpenAI: quelles sont les accusations portées contre ChatGPT",
       "link": "https://zamin.uz/fr/monde/224872-huit-etats-americains-poursuivent-openai-quelles-sont-les-accusations-portees-contre-chatgpt.html",
       "url": "https://zamin.uz/fr/monde/224872-huit-etats-americains-poursuivent-openai-quelles-sont-les-accusations-portees-contre-chatgpt.html",
@@ -88,46 +128,6 @@
       "description": "Vous avez peut-être déjà demandé à ChatGPT ou à Gemini combien rapporte un placement, ou ce que vaut l'action de votre banque.",
       "excerpt": "Vous avez peut-être déjà demandé à ChatGPT ou à Gemini combien rapporte un placement, ou ce que vaut l'action de votre banque.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "WebAuthn Level 3: Passkeys en 13 Étapes [2026] - shattered.io",
-      "link": "https://shattered.io/fr/webauthn-level-3-passkeys-tutoriel-2026/",
-      "url": "https://shattered.io/fr/webauthn-level-3-passkeys-tutoriel-2026/",
-      "publishedAt": "2026-10-18T09:04:23.000Z",
-      "date": "2026-10-18T09:04:23.000Z",
-      "description": "... ChatGPT... À lire ensuite. Supermarchés Piratés: 700 Magasins Touchés [2026] Cybersécurité · 16/10.",
-      "excerpt": "... ChatGPT... À lire ensuite. Supermarchés Piratés: 700 Magasins Touchés [2026] Cybersécurité · 16/10.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI met à niveau ChatGPT, permettant de lire les onglets ouverts sur Chrome",
-      "link": "https://fr.laodong.vn/cong-nghe/openai-nang-cap-chatgpt-cho-phep-doc-cac-tab-dang-mo-tren-chrome-1785160.ldo",
-      "url": "https://fr.laodong.vn/cong-nghe/openai-nang-cap-chatgpt-cho-phep-doc-cac-tab-dang-mo-tren-chrome-1785160.ldo",
-      "publishedAt": "2026-10-18T08:51:52.000Z",
-      "date": "2026-10-18T08:51:52.000Z",
-      "description": "... ChatGPT sur Chrome afin d'accroître sa... ChatGPT et Gemini sont en augmentation, posant de nombreux risques de cybersécurité préoccupants.",
-      "excerpt": "... ChatGPT sur Chrome afin d'accroître sa... ChatGPT et Gemini sont en augmentation, posant de nombreux risques de cybersécurité préoccupants.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT ne fonctionne plus: 7 solutions pour résoudre le problème - topactualites.com",
-      "link": "https://www.topactualites.com/2026/10/17/chatgpt-ne-fonctionne-plus-solutions/",
-      "url": "https://www.topactualites.com/2026/10/17/chatgpt-ne-fonctionne-plus-solutions/",
-      "publishedAt": "2026-10-18T08:27:30.000Z",
-      "date": "2026-10-18T08:27:30.000Z",
-      "description": "ChatGPT ne répond plus ou affiche une page blanche? Suivez sept vérifications pour distinguer panne, navigateur, réseau et limite de compte.",
-      "excerpt": "ChatGPT ne répond plus ou affiche une page blanche? Suivez sept vérifications pour distinguer panne, navigateur, réseau et limite de compte.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT devance Claude Haiku 5.5 par 3 manches à 2, mais s'incline sur les conseils personnalisés",
-      "link": "https://yellow.com/fr/news/chatgpt-bat-claude-haiku-55-par-3-%C3%A0-2-mais-c%C3%A8de-sur-les-conseils-personnalis%C3%A9s",
-      "url": "https://yellow.com/fr/news/chatgpt-bat-claude-haiku-55-par-3-%C3%A0-2-mais-c%C3%A8de-sur-les-conseils-personnalis%C3%A9s",
-      "publishedAt": "2026-10-18T08:18:09.000Z",
-      "date": "2026-10-18T08:18:09.000Z",
-      "description": "ChatGPT devance Claude Haiku 5.5 par 3 manches à 2, mais s'...",
-      "excerpt": "ChatGPT devance Claude Haiku 5.5 par 3 manches à 2, mais s'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
