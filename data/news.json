@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T17:58:08.231Z",
+  "generatedAt": "2026-10-19T22:00:01.763Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,14 +10,34 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Zillow lance un connecteur Claude pour les annonces, les visites et le financement",
+      "link": "https://www.unite.ai/fr/zillow-launches-claude-connector-for-listings-tours-and-financing/",
+      "url": "https://www.unite.ai/fr/zillow-launches-claude-connector-for-listings-tours-and-financing/",
+      "publishedAt": "2026-10-19T20:10:41.000Z",
+      "date": "2026-10-19T20:10:41.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT et, pour la location, dans Gemini. Le 6 octobre 2025, Zillow a...",
+      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT et, pour la location, dans Gemini. Le 6 octobre 2025, Zillow a...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT s'intègre dans Google Chrome pour agir sur les onglets - KultureGeek",
+      "link": "https://kulturegeek.fr/news-362063/chatgpt-sintegre-google-chrome-agir-onglets",
+      "url": "https://kulturegeek.fr/news-362063/chatgpt-sintegre-google-chrome-agir-onglets",
+      "publishedAt": "2026-10-19T18:03:50.000Z",
+      "date": "2026-10-19T18:03:50.000Z",
+      "description": "OpenAI renforce l'intégration de ChatGPT à Google Chrome: avec son extension installée, l'assistant IA peut exploiter le contenu des onglets...",
+      "excerpt": "OpenAI renforce l'intégration de ChatGPT à Google Chrome: avec son extension installée, l'assistant IA peut exploiter le contenu des onglets...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "ChatGPT, Gemini, Meta AI: les chatbots n'ont pas la même couleur politique - incyber news",
       "link": "https://incyber.org/article/chatgpt-gemini-meta-ai-les-chatbots-nont-pas-la-meme-couleur-politique/",
       "url": "https://incyber.org/article/chatgpt-gemini-meta-ai-les-chatbots-nont-pas-la-meme-couleur-politique/",
       "publishedAt": "2026-10-19T14:56:55.000Z",
       "date": "2026-10-19T14:56:55.000Z",
-      "description": "... ChatGPT, Gemini, Meta AI: les chatbots n'ont pas la même couleur... Cybersécurité · Géopolitique · Secops · Sécurité des IA · Risk & Compliance...",
-      "excerpt": "... ChatGPT, Gemini, Meta AI: les chatbots n'ont pas la même couleur... Cybersécurité · Géopolitique · Secops · Sécurité des IA · Risk & Compliance...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "description": "... ChatGPT, Gemini, Meta AI: les chatbots n'ont pas la même couleur... update. [7] Préparation aux élections de mi-mandat américaines de 2026...",
+      "excerpt": "... ChatGPT, Gemini, Meta AI: les chatbots n'ont pas la même couleur... update. [7] Préparation aux élections de mi-mandat américaines de 2026...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "ChatGPT peut désormais consulter et contrôler les onglets de Chrome - ICTjournal",
@@ -48,6 +68,16 @@
       "description": "Cybersécurité · Jeux Vidéo · IA... ChatGPT · Amazon · Tesla · IA en local...",
       "excerpt": "Cybersécurité · Jeux Vidéo · IA... ChatGPT · Amazon · Tesla · IA en local...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI déploie les agents parallèles de ChatGPT auprès des utilisateurs Pro éligibles",
+      "link": "https://www.neoteo.com/fr/openai-deploie-les-agents-paralleles-de-chatgpt-aupres-des-utilisateurs-pro-eligibles",
+      "url": "https://www.neoteo.com/fr/openai-deploie-les-agents-paralleles-de-chatgpt-aupres-des-utilisateurs-pro-eligibles",
+      "publishedAt": "2026-10-19T13:04:24.000Z",
+      "date": "2026-10-19T13:04:24.000Z",
+      "description": "L'avancement apparaît dans la conversation et les tâches terminées peuvent être ouvertes pour examen, selon les notes de version d'OpenAI. 36Kr...",
+      "excerpt": "L'avancement apparaît dans la conversation et les tâches terminées peuvent être ouvertes pour examen, selon les notes de version d'OpenAI. 36Kr...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "GPT-6.1 Sol vs Astra vs Luna: 96% et 5x Moins Cher [2026] - shattered.io",
@@ -97,36 +127,6 @@
       "date": "2026-10-19T09:07:37.000Z",
       "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... ChatGPT peut désormais interagir avec vos onglets de Chrome, Edge, Opera...",
       "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... ChatGPT peut désormais interagir avec vos onglets de Chrome, Edge, Opera...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google et les PDF, trafic ChatGPT: 5 infos IA de la semaine - Info-lux.com",
-      "link": "https://www.info-lux.com/google-pdf-trafic-chatgpt-recap-semaine/intelligence-artificielle/",
-      "url": "https://www.info-lux.com/google-pdf-trafic-chatgpt-recap-semaine/intelligence-artificielle/",
-      "publishedAt": "2026-10-19T08:50:11.000Z",
-      "date": "2026-10-19T08:50:11.000Z",
-      "description": "Relevant Audience a vérifié le 16 octobre que les notes de version de ChatGPT ne mentionnaient ni le bug ni le correctif. Le consultant Glenn Gabe...",
-      "excerpt": "Relevant Audience a vérifié le 16 octobre que les notes de version de ChatGPT ne mentionnaient ni le bug ni le correctif. Le consultant Glenn Gabe...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Weekly Recap: GPU-accelerated Tick History and ChatGPT market data - TradingView",
-      "link": "https://fr.tradingview.com/news/tradingview:bd02e86367ff4:0-weekly-recap-gpu-accelerated-tick-history-and-chatgpt-market-data/",
-      "url": "https://fr.tradingview.com/news/tradingview:bd02e86367ff4:0-weekly-recap-gpu-accelerated-tick-history-and-chatgpt-market-data/",
-      "publishedAt": "2026-10-19T07:23:42.000Z",
-      "date": "2026-10-19T07:23:42.000Z",
-      "description": "... ChatGPT and expanding AI access—while BlackRock's Oct 15 stake shift and... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "excerpt": "... ChatGPT and expanding AI access—while BlackRock's Oct 15 stake shift and... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Serveur MCP: Docusign ouvre ses contrats aux agents d'IA et annonce des connecteurs avec Mistral",
-      "link": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/serveur-mcp-docusign-ouvre-ses-contrats-aux-agents-dia-et-annonce-des-connecteurs-souverains-avec-mistral/",
-      "url": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/serveur-mcp-docusign-ouvre-ses-contrats-aux-agents-dia-et-annonce-des-connecteurs-souverains-avec-mistral/",
-      "publishedAt": "2026-10-19T07:06:01.000Z",
-      "date": "2026-10-19T07:06:01.000Z",
-      "description": "Cybersécurité Cybersécurité - Actualités Serveur MCP: Docusign ouvre... ChatGPT et à Vibe, l'assistant de Mistral. Pour Docusign, le...",
-      "excerpt": "Cybersécurité Cybersécurité - Actualités Serveur MCP: Docusign ouvre... ChatGPT et à Vibe, l'assistant de Mistral. Pour Docusign, le...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
