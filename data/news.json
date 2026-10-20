@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T16:02:16.801Z",
+  "generatedAt": "2026-10-20T21:00:18.355Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,36 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Japon: une IA chinoise derrière une série de cyberattaques, selon une société de cybersécurité",
+      "link": "https://www.tvanouvelles.ca/2026/10/20/japon-une-ia-chinoise-derriere-une-serie-de-cyberattaques-selon-une-societe-de-cybersecurite",
+      "url": "https://www.tvanouvelles.ca/2026/10/20/japon-une-ia-chinoise-derriere-une-serie-de-cyberattaques-selon-une-societe-de-cybersecurite",
+      "publishedAt": "2026-10-20T18:03:47.000Z",
+      "date": "2026-10-20T18:03:47.000Z",
+      "description": "Un outil chinois de cybersécurité basé sur l'IA, appelé Artex, a été utilisé dans une série de piratages récents visant des entreprises...",
+      "excerpt": "Un outil chinois de cybersécurité basé sur l'IA, appelé Artex, a été utilisé dans une série de piratages récents visant des entreprises...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Une IA inspirée de ChatGPT prédit le risque d'AVC à partir de l'ADN - Yahoo! Actualités",
+      "link": "https://fr.news.yahoo.com/ia-inspir%C3%A9e-chatgpt-pr%C3%A9dit-risque-053238445.html",
+      "url": "https://fr.news.yahoo.com/ia-inspir%C3%A9e-chatgpt-pr%C3%A9dit-risque-053238445.html",
+      "publishedAt": "2026-10-20T17:53:04.000Z",
+      "date": "2026-10-20T17:53:04.000Z",
+      "description": "Une IA inspirée de ChatGPT prédit le risque d'AVC à partir de l'ADN · Un nouvel outil d'IA capable d'identifier les facteurs de risque génétiques d'...",
+      "excerpt": "Une IA inspirée de ChatGPT prédit le risque d'AVC à partir de l'ADN · Un nouvel outil d'IA capable d'identifier les facteurs de risque génétiques d'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Claude et ChatGPT vont-ils tuer Microsoft Office? Un expert en IA prédit son déclin - Clubic",
+      "link": "https://www.clubic.com/actualite-635140-claude-et-chatgpt-vont-ils-tuer-microsoft-office-un-expert-en-ia-predit-son-effondrement-d-ici-trois-a-cinq-ans.html",
+      "url": "https://www.clubic.com/actualite-635140-claude-et-chatgpt-vont-ils-tuer-microsoft-office-un-expert-en-ia-predit-son-effondrement-d-ici-trois-a-cinq-ans.html",
+      "publishedAt": "2026-10-20T17:47:24.000Z",
+      "date": "2026-10-20T17:47:24.000Z",
+      "description": "Pour Martin Pavanello, cofondateur de Mister IA, Claude et ChatGPT vident peu à peu Microsoft Office de sa substance... Cybersécurité · Logiciels &...",
+      "excerpt": "Pour Martin Pavanello, cofondateur de Mister IA, Claude et ChatGPT vident peu à peu Microsoft Office de sa substance... Cybersécurité · Logiciels &...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "OpenAI lance ChatGPT Slides pour les abonnés payants | Brief IA",
       "link": "https://www.briefia.fr/article/openai-lance-chatgpt-slides-pour-les-abonnes-payants",
       "url": "https://www.briefia.fr/article/openai-lance-chatgpt-slides-pour-les-abonnes-payants",
@@ -18,6 +48,16 @@
       "description": "ChatGPT Slides permet de créer des présentations assistées par l... SOC 2, et la plupart des données sont stockées aux États-Unis · Brief IA...",
       "excerpt": "ChatGPT Slides permet de créer des présentations assistées par l... SOC 2, et la plupart des données sont stockées aux États-Unis · Brief IA...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-6.1 Sol consomme-t-il plus de quota dans Codex? OpenAI ne confirme pas",
+      "link": "https://pasqualepillitteri.it/fr/news/25915/gpt-6-1-sol-quota-codex-openai-ne-confirme-pas",
+      "url": "https://pasqualepillitteri.it/fr/news/25915/gpt-6-1-sol-quota-codex-openai-ne-confirme-pas",
+      "publishedAt": "2026-10-20T11:39:26.000Z",
+      "date": "2026-10-20T11:39:26.000Z",
+      "description": "ChatGPT Work est le mode agentique de la même application, celui qui mène seul à terme les tâches longues. Les deux fonctions puisent dans le même...",
+      "excerpt": "ChatGPT Work est le mode agentique de la même application, celui qui mène seul à terme les tâches longues. Les deux fonctions puisent dans le même...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "OpenAI permet de cibler les utilisateurs de ChatGPT par e-mail - DCOD | Cybersécurité",
@@ -87,46 +127,6 @@
       "date": "2026-10-20T07:52:52.000Z",
       "description": "Chronopost s'intègre à ChatGPT. Ses services de suivi de colis et d'expédition peuvent être interrogés depuis l'application d'OpenAI.",
       "excerpt": "Chronopost s'intègre à ChatGPT. Ses services de suivi de colis et d'expédition peuvent être interrogés depuis l'application d'OpenAI.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI mise sur deux grands-mères pour faire connaître ChatGPT Voix en France - Clubic",
-      "link": "https://www.clubic.com/actualite-634969-openai-mise-sur-deux-grands-meres-pour-faire-connaitre-chatgpt-voix-en-france.html",
-      "url": "https://www.clubic.com/actualite-634969-openai-mise-sur-deux-grands-meres-pour-faire-connaitre-chatgpt-voix-en-france.html",
-      "publishedAt": "2026-10-20T07:23:13.000Z",
-      "date": "2026-10-20T07:23:13.000Z",
-      "description": "Monique et Sophie, deux grands-mères, discutent à voix haute avec ChatGPT dans la première campagne publicitaire d'OpenAI en France.",
-      "excerpt": "Monique et Sophie, deux grands-mères, discutent à voix haute avec ChatGPT dans la première campagne publicitaire d'OpenAI en France.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Une faille dans l'application Mac de ChatGPT aurait pu permettre à des pirates de s...",
-      "link": "https://www.tvanouvelles.ca/2026/10/19/une-faille-dans-lapplication-mac-de-chatgpt-aurait-pu-permettre-a-des-pirates-de-semparer-de-donnees-sensibles",
-      "url": "https://www.tvanouvelles.ca/2026/10/19/une-faille-dans-lapplication-mac-de-chatgpt-aurait-pu-permettre-a-des-pirates-de-semparer-de-donnees-sensibles",
-      "publishedAt": "2026-10-20T06:50:31.000Z",
-      "date": "2026-10-20T06:50:31.000Z",
-      "description": "Une faille dans l'application Mac de ChatGPT aurait pu permettre à des pirates de s'emparer de données sensibles... cybersécurité · Société. «Je suis...",
-      "excerpt": "Une faille dans l'application Mac de ChatGPT aurait pu permettre à des pirates de s'emparer de données sensibles... cybersécurité · Société. «Je suis...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ransomwares & piratages: 15 cyberattaques d'ampleur du 20 octobre 2026 (dont Danfoss)",
-      "link": "https://dcod.ch/2026/10/20/ransomwares-piratages-15-cyberattaques-dampleur-du-20-octobre-2026-dont-danfoss/",
-      "url": "https://dcod.ch/2026/10/20/ransomwares-piratages-15-cyberattaques-dampleur-du-20-octobre-2026-dont-danfoss/",
-      "publishedAt": "2026-10-20T06:01:01.000Z",
-      "date": "2026-10-20T06:01:01.000Z",
-      "description": "Enfin, des publicités en ligne sont mises en cause dans la diffusion de spyware « zero-click » visant notamment Al Jazeera. L'essentiel Cybersécurité,...",
-      "excerpt": "Enfin, des publicités en ligne sont mises en cause dans la diffusion de spyware « zero-click » visant notamment Al Jazeera. L'essentiel Cybersécurité,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: avant d'envoyer un lien de partage, vérifiez ce qu'il rend visible - Menow",
-      "link": "https://www.menow.fr/chatgpt-lien-partage-conversation-visibilite/",
-      "url": "https://www.menow.fr/chatgpt-lien-partage-conversation-visibilite/",
-      "publishedAt": "2026-10-20T05:47:03.000Z",
-      "date": "2026-10-20T05:47:03.000Z",
-      "description": "ChatGPT: avant d'envoyer un lien... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
-      "excerpt": "ChatGPT: avant d'envoyer un lien... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
