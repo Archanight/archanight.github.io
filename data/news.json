@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T02:39:52.062Z",
+  "generatedAt": "2026-10-20T10:39:57.019Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,86 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT Slides: OpenAI Vise PowerPoint, 3 Plans [2026] - shattered.io",
+      "link": "https://shattered.io/fr/chatgpt-slides-openai-powerpoint-2026/",
+      "url": "https://shattered.io/fr/chatgpt-slides-openai-powerpoint-2026/",
+      "publishedAt": "2026-10-20T09:12:37.000Z",
+      "date": "2026-10-20T09:12:37.000Z",
+      "description": "... GPT-5.2: 0,7% vs 0,5% [2026]. Cette continuité entre le brouillon généré... ChatGPT pour PowerPoint, selon les notes de version de l'entreprise.",
+      "excerpt": "... GPT-5.2: 0,7% vs 0,5% [2026]. Cette continuité entre le brouillon généré... ChatGPT pour PowerPoint, selon les notes de version de l'entreprise.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Oubliez PowerPoint: voici ChatGPT Slides - 01net.com",
+      "link": "https://www.01net.com/actualites/oubliez-powerpoint-voici-chatgpt-slides.html",
+      "url": "https://www.01net.com/actualites/oubliez-powerpoint-voici-chatgpt-slides.html",
+      "publishedAt": "2026-10-20T08:08:37.000Z",
+      "date": "2026-10-20T08:08:37.000Z",
+      "description": "OpenAI vient de lancer ChatGPT Slides, son outil de présentation pour transformer vos fichiers et vos discussions en diaporamas... Cybersécurité...",
+      "excerpt": "OpenAI vient de lancer ChatGPT Slides, son outil de présentation pour transformer vos fichiers et vos discussions en diaporamas... Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT vs Claude vs Gemini: 7 IA au Banc d'Essai [2026] - Tech Insider",
+      "link": "https://tech-insider.org/fr/chatgpt-vs-claude-vs-gemini-7-ia-usage-2026/",
+      "url": "https://tech-insider.org/fr/chatgpt-vs-claude-vs-gemini-7-ia-usage-2026/",
+      "publishedAt": "2026-10-20T08:06:35.000Z",
+      "date": "2026-10-20T08:06:35.000Z",
+      "description": "ChatGPT, Claude, Gemini, Mistral, DeepSeek, Grok et Perplexity ne jouent plus tout à fait dans la même catégorie: certains misent sur le raisonnement...",
+      "excerpt": "ChatGPT, Claude, Gemini, Mistral, DeepSeek, Grok et Perplexity ne jouent plus tout à fait dans la même catégorie: certains misent sur le raisonnement...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Chronopost transporte l'info colis dans ChatGPT - ZDNET",
+      "link": "https://www.zdnet.fr/actualites/chronopost-transporte-linfo-colis-dans-chatgpt-505988.htm",
+      "url": "https://www.zdnet.fr/actualites/chronopost-transporte-linfo-colis-dans-chatgpt-505988.htm",
+      "publishedAt": "2026-10-20T07:52:52.000Z",
+      "date": "2026-10-20T07:52:52.000Z",
+      "description": "Chronopost s'intègre à ChatGPT. Ses services de suivi de colis et d'expédition peuvent être interrogés depuis l'application d'OpenAI.",
+      "excerpt": "Chronopost s'intègre à ChatGPT. Ses services de suivi de colis et d'expédition peuvent être interrogés depuis l'application d'OpenAI.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI mise sur deux grands-mères pour faire connaître ChatGPT Voix en France - Clubic",
+      "link": "https://www.clubic.com/actualite-634969-openai-mise-sur-deux-grands-meres-pour-faire-connaitre-chatgpt-voix-en-france.html",
+      "url": "https://www.clubic.com/actualite-634969-openai-mise-sur-deux-grands-meres-pour-faire-connaitre-chatgpt-voix-en-france.html",
+      "publishedAt": "2026-10-20T07:23:13.000Z",
+      "date": "2026-10-20T07:23:13.000Z",
+      "description": "Monique et Sophie, deux grands-mères, discutent à voix haute avec ChatGPT dans la première campagne publicitaire d'OpenAI en France.",
+      "excerpt": "Monique et Sophie, deux grands-mères, discutent à voix haute avec ChatGPT dans la première campagne publicitaire d'OpenAI en France.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Une faille dans l'application Mac de ChatGPT aurait pu permettre à des pirates de s...",
+      "link": "https://www.tvanouvelles.ca/2026/10/19/une-faille-dans-lapplication-mac-de-chatgpt-aurait-pu-permettre-a-des-pirates-de-semparer-de-donnees-sensibles",
+      "url": "https://www.tvanouvelles.ca/2026/10/19/une-faille-dans-lapplication-mac-de-chatgpt-aurait-pu-permettre-a-des-pirates-de-semparer-de-donnees-sensibles",
+      "publishedAt": "2026-10-20T06:50:31.000Z",
+      "date": "2026-10-20T06:50:31.000Z",
+      "description": "Une faille dans l'application Mac de ChatGPT aurait pu permettre à des pirates de s'emparer de données sensibles... cybersécurité · Société. «Je suis...",
+      "excerpt": "Une faille dans l'application Mac de ChatGPT aurait pu permettre à des pirates de s'emparer de données sensibles... cybersécurité · Société. «Je suis...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Ransomwares & piratages: 15 cyberattaques d'ampleur du 20 octobre 2026 (dont Danfoss)",
+      "link": "https://dcod.ch/2026/10/20/ransomwares-piratages-15-cyberattaques-dampleur-du-20-octobre-2026-dont-danfoss/",
+      "url": "https://dcod.ch/2026/10/20/ransomwares-piratages-15-cyberattaques-dampleur-du-20-octobre-2026-dont-danfoss/",
+      "publishedAt": "2026-10-20T06:01:01.000Z",
+      "date": "2026-10-20T06:01:01.000Z",
+      "description": "Enfin, des publicités en ligne sont mises en cause dans la diffusion de spyware « zero-click » visant notamment Al Jazeera. L'essentiel Cybersécurité,...",
+      "excerpt": "Enfin, des publicités en ligne sont mises en cause dans la diffusion de spyware « zero-click » visant notamment Al Jazeera. L'essentiel Cybersécurité,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT: avant d'envoyer un lien de partage, vérifiez ce qu'il rend visible - Menow",
+      "link": "https://www.menow.fr/chatgpt-lien-partage-conversation-visibilite/",
+      "url": "https://www.menow.fr/chatgpt-lien-partage-conversation-visibilite/",
+      "publishedAt": "2026-10-20T05:47:03.000Z",
+      "date": "2026-10-20T05:47:03.000Z",
+      "description": "ChatGPT: avant d'envoyer un lien... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
+      "excerpt": "ChatGPT: avant d'envoyer un lien... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Surfshark vs TotalAV: quelle promo de fin d'année choisir pour un premier achat cybersécurité",
       "link": "https://www.lesnumeriques.com/antivirus/surfshark-vs-totalav-quelle-promo-de-fin-d-annee-choisir-pour-un-premier-achat-cybersecurite-a248247.html",
@@ -48,86 +128,6 @@
       "description": "OpenAI renforce l'intégration de ChatGPT à Google Chrome: avec son extension installée, l'assistant IA peut exploiter le contenu des onglets...",
       "excerpt": "OpenAI renforce l'intégration de ChatGPT à Google Chrome: avec son extension installée, l'assistant IA peut exploiter le contenu des onglets...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT, Gemini, Meta AI: les chatbots n'ont pas la même couleur politique - incyber news",
-      "link": "https://incyber.org/article/chatgpt-gemini-meta-ai-les-chatbots-nont-pas-la-meme-couleur-politique/",
-      "url": "https://incyber.org/article/chatgpt-gemini-meta-ai-les-chatbots-nont-pas-la-meme-couleur-politique/",
-      "publishedAt": "2026-10-19T14:56:55.000Z",
-      "date": "2026-10-19T14:56:55.000Z",
-      "description": "... ChatGPT, Gemini, Meta AI: les chatbots n'ont pas la même couleur... update. [7] Préparation aux élections de mi-mandat américaines de 2026...",
-      "excerpt": "... ChatGPT, Gemini, Meta AI: les chatbots n'ont pas la même couleur... update. [7] Préparation aux élections de mi-mandat américaines de 2026...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT peut désormais consulter et contrôler les onglets de Chrome - ICTjournal",
-      "link": "https://www.ictjournal.ch/news/2026-10-19/chatgpt-peut-desormais-consulter-et-controler-les-onglets-de-chrome",
-      "url": "https://www.ictjournal.ch/news/2026-10-19/chatgpt-peut-desormais-consulter-et-controler-les-onglets-de-chrome",
-      "publishedAt": "2026-10-19T14:44:28.000Z",
-      "date": "2026-10-19T14:44:28.000Z",
-      "description": "OpenAI étend les capacités de ChatGPT dans Google Chrome. L'assistant peut consulter plusieurs onglets pour répondre à des questions et,...",
-      "excerpt": "OpenAI étend les capacités de ChatGPT dans Google Chrome. L'assistant peut consulter plusieurs onglets pour répondre à des questions et,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Idea update chatgpt compagnon 1.0 - Feature requests - OpenAI Developer Community",
-      "link": "https://community.openai.com/t/idea-update-chatgpt-compagnon-1-0/1407752",
-      "url": "https://community.openai.com/t/idea-update-chatgpt-compagnon-1-0/1407752",
-      "publishedAt": "2026-10-19T14:38:46.000Z",
-      "date": "2026-10-19T14:38:46.000Z",
-      "description": "... ChatGPT Basée sur l'Analyse en Temps Réel des Préférences Musicales et Créatives · Use cases and examples · gpt-4. 0, 60, August 19, 2024. Give...",
-      "excerpt": "... ChatGPT Basée sur l'Analyse en Temps Réel des Préférences Musicales et Créatives · Use cases and examples · gpt-4. 0, 60, August 19, 2024. Give...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Digital Omnibus, ce qui change pour les cookies, le RGPD et l'IA - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/25617/digital-omnibus-cookies-rgpd-ia-ce-qui-change",
-      "url": "https://pasqualepillitteri.it/fr/news/25617/digital-omnibus-cookies-rgpd-ia-ce-qui-change",
-      "publishedAt": "2026-10-19T13:28:16.000Z",
-      "date": "2026-10-19T13:28:16.000Z",
-      "description": "Cybersécurité · Jeux Vidéo · IA... ChatGPT · Amazon · Tesla · IA en local...",
-      "excerpt": "Cybersécurité · Jeux Vidéo · IA... ChatGPT · Amazon · Tesla · IA en local...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI déploie les agents parallèles de ChatGPT auprès des utilisateurs Pro éligibles",
-      "link": "https://www.neoteo.com/fr/openai-deploie-les-agents-paralleles-de-chatgpt-aupres-des-utilisateurs-pro-eligibles",
-      "url": "https://www.neoteo.com/fr/openai-deploie-les-agents-paralleles-de-chatgpt-aupres-des-utilisateurs-pro-eligibles",
-      "publishedAt": "2026-10-19T13:04:24.000Z",
-      "date": "2026-10-19T13:04:24.000Z",
-      "description": "L'avancement apparaît dans la conversation et les tâches terminées peuvent être ouvertes pour examen, selon les notes de version d'OpenAI. 36Kr...",
-      "excerpt": "L'avancement apparaît dans la conversation et les tâches terminées peuvent être ouvertes pour examen, selon les notes de version d'OpenAI. 36Kr...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "GPT-6.1 Sol vs Astra vs Luna: 96% et 5x Moins Cher [2026] - shattered.io",
-      "link": "https://shattered.io/fr/gpt-6-1-sol-vs-astra-vs-luna-2026/",
-      "url": "https://shattered.io/fr/gpt-6-1-sol-vs-astra-vs-luna-2026/",
-      "publishedAt": "2026-10-19T12:50:14.000Z",
-      "date": "2026-10-19T12:50:14.000Z",
-      "description": "Google a annoncé Gemini 4 Argon le 30 septembre, encore limité à un accès restreint pour des défenseurs en cybersécurité sélectionnés au moment de sa...",
-      "excerpt": "Google a annoncé Gemini 4 Argon le 30 septembre, encore limité à un accès restreint pour des défenseurs en cybersécurité sélectionnés au moment de sa...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic propose de ne bloquer un modèle d'IA qu'en cas de risque imminent de... - ActuIA",
-      "link": "https://www.actuia.com/actualite/anthropic-propose-de-ne-bloquer-un-modele-quen-cas-de-risque-imminent-de-plus-de-50-morts-ou-blesses-graves-ou-1-md/",
-      "url": "https://www.actuia.com/actualite/anthropic-propose-de-ne-bloquer-un-modele-quen-cas-de-risque-imminent-de-plus-de-50-morts-ou-blesses-graves-ou-1-md/",
-      "publishedAt": "2026-10-19T11:26:35.000Z",
-      "date": "2026-10-19T11:26:35.000Z",
-      "description": "réglementationsécuritéAgents IA cybersécuritéChatGPT Grands modèles de langage (LLM)éthiquedroit d'auteur. ST. Stephane Nachez. Rédaction ActuIA...",
-      "excerpt": "réglementationsécuritéAgents IA cybersécuritéChatGPT Grands modèles de langage (LLM)éthiquedroit d'auteur. ST. Stephane Nachez. Rédaction ActuIA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les meilleurs OCR locaux pour PC et serveur en 2026 - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/25569/meilleurs-ocr-locaux-pc-serveur",
-      "url": "https://pasqualepillitteri.it/fr/news/25569/meilleurs-ocr-locaux-pc-serveur",
-      "publishedAt": "2026-10-19T11:25:46.000Z",
-      "date": "2026-10-19T11:25:46.000Z",
-      "description": "Cybersécurité · Big Tech · Anthropic... ChatGPT · Amazon · Tesla · IA en local...",
-      "excerpt": "Cybersécurité · Big Tech · Anthropic... ChatGPT · Amazon · Tesla · IA en local...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
