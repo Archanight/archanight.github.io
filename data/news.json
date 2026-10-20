@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:00:01.763Z",
+  "generatedAt": "2026-10-20T02:39:52.062Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Surfshark vs TotalAV: quelle promo de fin d'année choisir pour un premier achat cybersécurité",
+      "link": "https://www.lesnumeriques.com/antivirus/surfshark-vs-totalav-quelle-promo-de-fin-d-annee-choisir-pour-un-premier-achat-cybersecurite-a248247.html",
+      "url": "https://www.lesnumeriques.com/antivirus/surfshark-vs-totalav-quelle-promo-de-fin-d-annee-choisir-pour-un-premier-achat-cybersecurite-a248247.html",
+      "publishedAt": "2026-10-19T21:00:56.000Z",
+      "date": "2026-10-19T21:00:56.000Z",
+      "description": "Surfshark vs TotalAV: quelle promo de fin d'année choisir pour un premier achat cybersécurité?... #04: ChatGPT face à DeepSeek, des keynotes de...",
+      "excerpt": "Surfshark vs TotalAV: quelle promo de fin d'année choisir pour un premier achat cybersécurité?... #04: ChatGPT face à DeepSeek, des keynotes de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Attention à cette faille quand tu utilises ChatGPT! #ia # chatgpt #séc... - TikTok",
+      "link": "https://www.tiktok.com/@leo_desp/video/7698281672864697633",
+      "url": "https://www.tiktok.com/@leo_desp/video/7698281672864697633",
+      "publishedAt": "2026-10-19T20:34:26.000Z",
+      "date": "2026-10-19T20:34:26.000Z",
+      "description": "\" (@leo_desp): « Attention à cette faille quand tu utilises ChatGPT! #ia # chatgpt #sécurité # cybersécurité ». Chatgpt. son original - Léo \"Desp\".",
+      "excerpt": "\" (@leo_desp): « Attention à cette faille quand tu utilises ChatGPT! #ia # chatgpt #sécurité # cybersécurité ». Chatgpt. son original - Léo \"Desp\".",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Zillow lance un connecteur Claude pour les annonces, les visites et le financement",
       "link": "https://www.unite.ai/fr/zillow-launches-claude-connector-for-listings-tours-and-financing/",
@@ -107,26 +127,6 @@
       "date": "2026-10-19T11:25:46.000Z",
       "description": "Cybersécurité · Big Tech · Anthropic... ChatGPT · Amazon · Tesla · IA en local...",
       "excerpt": "Cybersécurité · Big Tech · Anthropic... ChatGPT · Amazon · Tesla · IA en local...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cyber, IA, contrats: comment le Cigref veut protéger les DSI des grands groupes - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/cyber-ia-contrats-comment-le-cigref-veut-proteger-les-dsi-des-grands-groupes-505980.htm",
-      "url": "https://www.zdnet.fr/actualites/cyber-ia-contrats-comment-le-cigref-veut-proteger-les-dsi-des-grands-groupes-505980.htm",
-      "publishedAt": "2026-10-19T09:29:00.000Z",
-      "date": "2026-10-19T09:29:00.000Z",
-      "description": "Elle y liste trois priorités, détaillées par son président, Emmanuel Sardet. Recevez le meilleur de l'actualité Cybersécurité chaque semaine dans...",
-      "excerpt": "Elle y liste trois priorités, détaillées par son président, Emmanuel Sardet. Recevez le meilleur de l'actualité Cybersécurité chaque semaine dans...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT peut désormais interagir avec vos onglets de Chrome, Edge, Opera ou Brave",
-      "link": "https://www.clubic.com/actualite-634723-chatgpt-peut-desormais-interagir-avec-vos-onglets-de-chrome-edge-opera-ou-brave.html",
-      "url": "https://www.clubic.com/actualite-634723-chatgpt-peut-desormais-interagir-avec-vos-onglets-de-chrome-edge-opera-ou-brave.html",
-      "publishedAt": "2026-10-19T09:07:37.000Z",
-      "date": "2026-10-19T09:07:37.000Z",
-      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... ChatGPT peut désormais interagir avec vos onglets de Chrome, Edge, Opera...",
-      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV... ChatGPT peut désormais interagir avec vos onglets de Chrome, Edge, Opera...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
