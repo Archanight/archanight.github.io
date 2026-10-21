@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:00:18.355Z",
+  "generatedAt": "2026-10-21T02:33:50.359Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Créer une présentation avec ChatGPT: qui peut utiliser Slides et quels exports sont proposés?",
+      "link": "https://www.menow.fr/chatgpt-slides-presentation-acces-exports-guide/",
+      "url": "https://www.menow.fr/chatgpt-slides-presentation-acces-exports-guide/",
+      "publishedAt": "2026-10-20T20:53:13.000Z",
+      "date": "2026-10-20T20:53:13.000Z",
+      "description": "ChatGPT Slides crée des présentations modifiables et collaboratives... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité...",
+      "excerpt": "ChatGPT Slides crée des présentations modifiables et collaboratives... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Pages d'aide de WhatsApp: une consigne cachée interdisait de recommander un régulateur - ActuIA",
+      "link": "https://www.actuia.com/actualite/pages-daide-de-whatsapp-une-consigne-cachee-interdisait-de-recommander-un-regulateur/",
+      "url": "https://www.actuia.com/actualite/pages-daide-de-whatsapp-une-consigne-cachee-interdisait-de-recommander-un-regulateur/",
+      "publishedAt": "2026-10-20T19:07:44.000Z",
+      "date": "2026-10-20T19:07:44.000Z",
+      "description": "rgpdprotection des données personnellesprompt injectionchatbotréglementation ChatGPT sécurité cybersécurité. ST. Stephane Nachez. Rédaction ActuIA...",
+      "excerpt": "rgpdprotection des données personnellesprompt injectionchatbotréglementation ChatGPT sécurité cybersécurité. ST. Stephane Nachez. Rédaction ActuIA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Japon: une IA chinoise derrière une série de cyberattaques, selon une société de cybersécurité",
       "link": "https://www.tvanouvelles.ca/2026/10/20/japon-une-ia-chinoise-derriere-une-serie-de-cyberattaques-selon-une-societe-de-cybersecurite",
@@ -107,26 +127,6 @@
       "date": "2026-10-20T08:08:37.000Z",
       "description": "OpenAI vient de lancer ChatGPT Slides, son outil de présentation pour transformer vos fichiers et vos discussions en diaporamas... Cybersécurité...",
       "excerpt": "OpenAI vient de lancer ChatGPT Slides, son outil de présentation pour transformer vos fichiers et vos discussions en diaporamas... Cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT vs Claude vs Gemini: 7 IA au Banc d'Essai [2026] - Tech Insider",
-      "link": "https://tech-insider.org/fr/chatgpt-vs-claude-vs-gemini-7-ia-usage-2026/",
-      "url": "https://tech-insider.org/fr/chatgpt-vs-claude-vs-gemini-7-ia-usage-2026/",
-      "publishedAt": "2026-10-20T08:06:35.000Z",
-      "date": "2026-10-20T08:06:35.000Z",
-      "description": "ChatGPT, Claude, Gemini, Mistral, DeepSeek, Grok et Perplexity ne jouent plus tout à fait dans la même catégorie: certains misent sur le raisonnement...",
-      "excerpt": "ChatGPT, Claude, Gemini, Mistral, DeepSeek, Grok et Perplexity ne jouent plus tout à fait dans la même catégorie: certains misent sur le raisonnement...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Chronopost transporte l'info colis dans ChatGPT - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/chronopost-transporte-linfo-colis-dans-chatgpt-505988.htm",
-      "url": "https://www.zdnet.fr/actualites/chronopost-transporte-linfo-colis-dans-chatgpt-505988.htm",
-      "publishedAt": "2026-10-20T07:52:52.000Z",
-      "date": "2026-10-20T07:52:52.000Z",
-      "description": "Chronopost s'intègre à ChatGPT. Ses services de suivi de colis et d'expédition peuvent être interrogés depuis l'application d'OpenAI.",
-      "excerpt": "Chronopost s'intègre à ChatGPT. Ses services de suivi de colis et d'expédition peuvent être interrogés depuis l'application d'OpenAI.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
