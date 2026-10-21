@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T10:50:19.555Z",
+  "generatedAt": "2026-10-21T16:18:54.575Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,86 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI étend les publicités ChatGPT à 89 pays avec une expansion dans 26 nouveaux marchés",
+      "link": "https://www.unite.ai/fr/openai-extends-chatgpt-ads-to-89-countries-with-26-market-expansion/",
+      "url": "https://www.unite.ai/fr/openai-extends-chatgpt-ads-to-89-countries-with-26-market-expansion/",
+      "publishedAt": "2026-10-21T14:09:58.000Z",
+      "date": "2026-10-21T14:09:58.000Z",
+      "description": "OpenAI a également indiqué que plus de 100 000 annonceurs avaient mené des campagnes sur ChatGPT depuis le lancement des publicités, un peu plus de...",
+      "excerpt": "OpenAI a également indiqué que plus de 100 000 annonceurs avaient mené des campagnes sur ChatGPT depuis le lancement des publicités, un peu plus de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT parle-t-elle de votre entreprise? - Les Affaires",
+      "link": "https://www.lesaffaires.com/dossiers/intelligence-artificielle-le-marketing-au-temps-des-algorithmes/chatgpt-parle-t-elle-de-votre-entreprise/",
+      "url": "https://www.lesaffaires.com/dossiers/intelligence-artificielle-le-marketing-au-temps-des-algorithmes/chatgpt-parle-t-elle-de-votre-entreprise/",
+      "publishedAt": "2026-10-21T13:41:58.000Z",
+      "date": "2026-10-21T13:41:58.000Z",
+      "description": "ChatGPT parle-t-elle de votre entreprise? Steve Proulx|Édition de la... Cybersécurité. 01 Décembre 2026...",
+      "excerpt": "ChatGPT parle-t-elle de votre entreprise? Steve Proulx|Édition de la... Cybersécurité. 01 Décembre 2026...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT s'installe un peu plus dans Google Chrome et prend les commandes de votre navigateur",
+      "link": "https://www.clubic.com/actualite-635275-chatgpt-s-installe-dans-google-chrome-et-prend-les-commandes-de-votre-navigateur.html",
+      "url": "https://www.clubic.com/actualite-635275-chatgpt-s-installe-dans-google-chrome-et-prend-les-commandes-de-votre-navigateur.html",
+      "publishedAt": "2026-10-21T13:16:48.000Z",
+      "date": "2026-10-21T13:16:48.000Z",
+      "description": "ChatGPT peut comparer plusieurs pages, remplir des formulaires et gérer des onglets dans Chrome... Cybersécurité · Logiciels & services · PC & Gaming...",
+      "excerpt": "ChatGPT peut comparer plusieurs pages, remplir des formulaires et gérer des onglets dans Chrome... Cybersécurité · Logiciels & services · PC & Gaming...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Collectivités, l'IA générative s'installe dans la communication sur des outils gratuits que...",
+      "link": "https://itsocial.fr/metiers/metiers-articles/collectivites-lia-generative-sinstalle-dans-la-communication-sur-des-outils-gratuits-que-personne-ne-pilote/",
+      "url": "https://itsocial.fr/metiers/metiers-articles/collectivites-lia-generative-sinstalle-dans-la-communication-sur-des-outils-gratuits-que-personne-ne-pilote/",
+      "publishedAt": "2026-10-21T13:01:46.000Z",
+      "date": "2026-10-21T13:01:46.000Z",
+      "description": "... ChatGPT à 30 %, puis Claude, les outils d'Adobe... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
+      "excerpt": "... ChatGPT à 30 %, puis Claude, les outils d'Adobe... cybersécurité informatique | automatisation des processus | internet 5G | cloud cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT permet maintenant de verrouiller les conversations - KultureGeek",
+      "link": "https://kulturegeek.fr/news-362199/chatgpt-permet-verrouiller-conversations",
+      "url": "https://kulturegeek.fr/news-362199/chatgpt-permet-verrouiller-conversations",
+      "publishedAt": "2026-10-21T12:35:06.000Z",
+      "date": "2026-10-21T12:35:06.000Z",
+      "description": "OpenAI déploie une fonction qui permet de protéger des conversations sur ChatGPT avec un code PIN à quatre chiffres ou une authentification...",
+      "excerpt": "OpenAI déploie une fonction qui permet de protéger des conversations sur ChatGPT avec un code PIN à quatre chiffres ou une authentification...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT permet maintenant de verrouiller une discussion, même en gratuit. Voici quand t'en...",
+      "link": "https://www.facebook.com/100063101416075/posts/-chatgpt-permet-maintenant-de-verrouiller-une-discussion-m%C3%AAme-en-gratuitvoici-qu/1423612946418739/",
+      "url": "https://www.facebook.com/100063101416075/posts/-chatgpt-permet-maintenant-de-verrouiller-une-discussion-m%C3%AAme-en-gratuitvoici-qu/1423612946418739/",
+      "publishedAt": "2026-10-21T11:59:44.000Z",
+      "date": "2026-10-21T11:59:44.000Z",
+      "description": "Source: notes de version officielles de ChatGPT, 20 octobre 2026 → https://help. openai.com/en/articles/6825453- chatgpt - release-notes. help...",
+      "excerpt": "Source: notes de version officielles de ChatGPT, 20 octobre 2026 → https://help. openai.com/en/articles/6825453- chatgpt - release-notes. help...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Presque trois fois mieux que ChatGPT à ses débuts: l'agent IA Muse de Meta cartonne aux...",
+      "link": "https://www.lefilia.fr/article/6357034-presque-trois-fois-mieux-que-chatgpt-a-ses-debuts-l-agent-ia-muse-de-meta-cartonne-aux-etats-unis",
+      "url": "https://www.lefilia.fr/article/6357034-presque-trois-fois-mieux-que-chatgpt-a-ses-debuts-l-agent-ia-muse-de-meta-cartonne-aux-etats-unis",
+      "publishedAt": "2026-10-21T08:51:32.000Z",
+      "date": "2026-10-21T08:51:32.000Z",
+      "description": "Presque trois fois mieux que ChatGPT à ses débuts: l'agent IA Muse... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
+      "excerpt": "Presque trois fois mieux que ChatGPT à ses débuts: l'agent IA Muse... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les clés d'accès transforment la sécurité des connexions web - DCOD | Cybersécurité",
+      "link": "https://dcod.ch/2026/10/21/les-cles-dacces-securite-web/",
+      "url": "https://dcod.ch/2026/10/21/les-cles-dacces-securite-web/",
+      "publishedAt": "2026-10-21T08:32:50.000Z",
+      "date": "2026-10-21T08:32:50.000Z",
+      "description": "Logo blanc d'OpenAI et nuée d'icônes d'enveloppes d'e · OpenAI permet de cibler les utilisateurs de ChatGPT par e-mail... Cybersécurité: tests d...",
+      "excerpt": "Logo blanc d'OpenAI et nuée d'icônes d'enveloppes d'e · OpenAI permet de cibler les utilisateurs de ChatGPT par e-mail... Cybersécurité: tests d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT lance les conversations verrouillées: une nouvelle option de confidentialité très attendue",
       "link": "https://www.clubic.com/actualite-635185-chatgpt-lance-les-conversations-verrouillees-une-nouvelle-option-de-confidentialite-tres-attendue.html",
@@ -47,86 +127,6 @@
       "date": "2026-10-21T06:56:05.000Z",
       "description": "En un an, la part de ChatGPT a reculé au profit de Claude et de Gemini... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
       "excerpt": "En un an, la part de ChatGPT a reculé au profit de Claude et de Gemini... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Intelligence artificielle: ChatGPT permet de verrouiller les discussions - We Are Tech Africa",
-      "link": "https://www.wearetech.africa/fr/fils/breves/breves-simple/intelligence-artificielle-chatgpt-permet-de-verrouiller-les-discussions",
-      "url": "https://www.wearetech.africa/fr/fils/breves/breves-simple/intelligence-artificielle-chatgpt-permet-de-verrouiller-les-discussions",
-      "publishedAt": "2026-10-21T06:04:55.000Z",
-      "date": "2026-10-21T06:04:55.000Z",
-      "description": "Intelligence artificielle: ChatGPT permet de verrouiller les... Burundi: une stratégie nationale pour renforcer les capacités de cybersécurité...",
-      "excerpt": "Intelligence artificielle: ChatGPT permet de verrouiller les... Burundi: une stratégie nationale pour renforcer les capacités de cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Menaces & IA: 14 dérives et avancées clés du 21 octobre 2026 (dont OpenAI)",
-      "link": "https://dcod.ch/2026/10/21/menaces-ia-14-derives-et-avancees-cles-du-21-octobre-2026-dont-openai/",
-      "url": "https://dcod.ch/2026/10/21/menaces-ia-14-derives-et-avancees-cles-du-21-octobre-2026-dont-openai/",
-      "publishedAt": "2026-10-21T06:01:48.000Z",
-      "date": "2026-10-21T06:01:48.000Z",
-      "description": "OpenAI filigranera ChatGPT... Illustration de cybersécurité montrant un hacker tapant sur un ordinateur portable avec un masque blanc symbolisant.",
-      "excerpt": "OpenAI filigranera ChatGPT... Illustration de cybersécurité montrant un hacker tapant sur un ordinateur portable avec un masque blanc symbolisant.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Unique en Belgique: le siège de Secutec doté d'un SOC et d'une War Room - ITdaily",
-      "link": "https://itdaily.fr/blogs/securite/secutec-nouveau-siege-social-ia/",
-      "url": "https://itdaily.fr/blogs/securite/secutec-nouveau-siege-social-ia/",
-      "publishedAt": "2026-10-21T05:30:55.000Z",
-      "date": "2026-10-21T05:30:55.000Z",
-      "description": "... SOC et d'une War Room... « Ici, vous pouvez voir par exemple combien de requêtes DNS ont été effectuées pour ChatGPT au cours de la dernière journée »,...",
-      "excerpt": "... SOC et d'une War Room... « Ici, vous pouvez voir par exemple combien de requêtes DNS ont été effectuées pour ChatGPT au cours de la dernière journée »,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude, ChatGPT, vont-ils tuer la suite Office de Microsoft - ITchannel",
-      "link": "https://itchannel.info/articles/211355/claude-chatgpt-vont-ils-tuer-la-suite-office-de-microsoft.html",
-      "url": "https://itchannel.info/articles/211355/claude-chatgpt-vont-ils-tuer-la-suite-office-de-microsoft.html",
-      "publishedAt": "2026-10-21T05:29:45.000Z",
-      "date": "2026-10-21T05:29:45.000Z",
-      "description": "... ChatGPT.... A l'occasion des Assises de la Sécurité à Monaco du 7 au 10 octobre 2026, Stormshield, acteur européen de référence en cybersécurité...",
-      "excerpt": "... ChatGPT.... A l'occasion des Assises de la Sécurité à Monaco du 7 au 10 octobre 2026, Stormshield, acteur européen de référence en cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Créer une présentation avec ChatGPT: qui peut utiliser Slides et quels exports sont proposés?",
-      "link": "https://www.menow.fr/chatgpt-slides-presentation-acces-exports-guide/",
-      "url": "https://www.menow.fr/chatgpt-slides-presentation-acces-exports-guide/",
-      "publishedAt": "2026-10-20T20:53:13.000Z",
-      "date": "2026-10-20T20:53:13.000Z",
-      "description": "ChatGPT Slides crée des présentations modifiables et collaboratives... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité...",
-      "excerpt": "ChatGPT Slides crée des présentations modifiables et collaboratives... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pages d'aide de WhatsApp: une consigne cachée interdisait de recommander un régulateur - ActuIA",
-      "link": "https://www.actuia.com/actualite/pages-daide-de-whatsapp-une-consigne-cachee-interdisait-de-recommander-un-regulateur/",
-      "url": "https://www.actuia.com/actualite/pages-daide-de-whatsapp-une-consigne-cachee-interdisait-de-recommander-un-regulateur/",
-      "publishedAt": "2026-10-20T19:07:44.000Z",
-      "date": "2026-10-20T19:07:44.000Z",
-      "description": "rgpdprotection des données personnellesprompt injectionchatbotréglementation ChatGPT sécurité cybersécurité. ST. Stephane Nachez. Rédaction ActuIA...",
-      "excerpt": "rgpdprotection des données personnellesprompt injectionchatbotréglementation ChatGPT sécurité cybersécurité. ST. Stephane Nachez. Rédaction ActuIA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Japon: une IA chinoise derrière une série de cyberattaques, selon une société de cybersécurité",
-      "link": "https://www.tvanouvelles.ca/2026/10/20/japon-une-ia-chinoise-derriere-une-serie-de-cyberattaques-selon-une-societe-de-cybersecurite",
-      "url": "https://www.tvanouvelles.ca/2026/10/20/japon-une-ia-chinoise-derriere-une-serie-de-cyberattaques-selon-une-societe-de-cybersecurite",
-      "publishedAt": "2026-10-20T18:03:47.000Z",
-      "date": "2026-10-20T18:03:47.000Z",
-      "description": "Un outil chinois de cybersécurité basé sur l'IA, appelé Artex, a été utilisé dans une série de piratages récents visant des entreprises...",
-      "excerpt": "Un outil chinois de cybersécurité basé sur l'IA, appelé Artex, a été utilisé dans une série de piratages récents visant des entreprises...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Une IA inspirée de ChatGPT prédit le risque d'AVC à partir de l'ADN - Yahoo! Actualités",
-      "link": "https://fr.news.yahoo.com/ia-inspir%C3%A9e-chatgpt-pr%C3%A9dit-risque-053238445.html",
-      "url": "https://fr.news.yahoo.com/ia-inspir%C3%A9e-chatgpt-pr%C3%A9dit-risque-053238445.html",
-      "publishedAt": "2026-10-20T17:53:04.000Z",
-      "date": "2026-10-20T17:53:04.000Z",
-      "description": "Une IA inspirée de ChatGPT prédit le risque d'AVC à partir de l'ADN · Un nouvel outil d'IA capable d'identifier les facteurs de risque génétiques d'...",
-      "excerpt": "Une IA inspirée de ChatGPT prédit le risque d'AVC à partir de l'ADN · Un nouvel outil d'IA capable d'identifier les facteurs de risque génétiques d'...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
