@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T16:18:06.498Z",
+  "generatedAt": "2026-10-22T20:58:39.586Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,46 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Uber将向全球逾3万名员工部署 ChatGPT Work 从千人试点扩展至全公司 - TradingView",
+      "link": "https://fr.tradingview.com/news/gelonghui:6d97c2521e3f9:0/",
+      "url": "https://fr.tradingview.com/news/gelonghui:6d97c2521e3f9:0/",
+      "publishedAt": "2026-10-22T18:17:55.000Z",
+      "date": "2026-10-22T18:17:55.000Z",
+      "description": "... ｜OpenAI宣布，优步（Uber）将把 ChatGPT Work推广至全球逾3万名员工，... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "excerpt": "... ｜OpenAI宣布，优步（Uber）将把 ChatGPT Work推广至全球逾3万名员工，... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Banni des États-Unis, DeepSeek s'offre 15 milliards de dollars pour écraser ChatGPT",
+      "link": "https://www.clubic.com/actualite-635563-banni-des-etats-unis-deepseek-s-offre-15-milliards-de-dollars-pour-ecraser-chatgpt.html",
+      "url": "https://www.clubic.com/actualite-635563-banni-des-etats-unis-deepseek-s-offre-15-milliards-de-dollars-pour-ecraser-chatgpt.html",
+      "publishedAt": "2026-10-22T17:59:25.000Z",
+      "date": "2026-10-22T17:59:25.000Z",
+      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV & Vidéo · Audio · Maison connectée · Cyber Pro by. Mode sombre. Explorez...",
+      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV & Vidéo · Audio · Maison connectée · Cyber Pro by. Mode sombre. Explorez...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Uber déploie ChatGPT Work auprès de plus de 30 000 employés - Unite.AI",
+      "link": "https://www.unite.ai/fr/uber-rolls-out-chatgpt-work-to-more-than-30-000-employees/",
+      "url": "https://www.unite.ai/fr/uber-rolls-out-chatgpt-work-to-more-than-30-000-employees/",
+      "publishedAt": "2026-10-22T17:30:04.000Z",
+      "date": "2026-10-22T17:30:04.000Z",
+      "description": "OpenAI présente ChatGPT Work comme une plateforme agentique conçue pour prendre en charge des tâches complexes comportant plusieurs étapes et fournir...",
+      "excerpt": "OpenAI présente ChatGPT Work comme une plateforme agentique conçue pour prendre en charge des tâches complexes comportant plusieurs étapes et fournir...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Uber ouvre ChatGPT Work à plus de 30 000 salariés - Brief IA",
+      "link": "https://www.briefia.fr/article/uber-ouvre-chatgpt-work-a-plus-de-30-000-salaries",
+      "url": "https://www.briefia.fr/article/uber-ouvre-chatgpt-work-a-plus-de-30-000-salaries",
+      "publishedAt": "2026-10-22T17:29:16.000Z",
+      "date": "2026-10-22T17:29:16.000Z",
+      "description": "Le déploiement de ChatGPT Work au sein de ChatGPT Enterprise débute aujourd'hui chez Uber.... cybersécurité, réseaux 6G, sécurité des enfants et...",
+      "excerpt": "Le déploiement de ChatGPT Work au sein de ChatGPT Enterprise débute aujourd'hui chez Uber.... cybersécurité, réseaux 6G, sécurité des enfants et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Des milliers de sites internet mis hors ligne à cause d'une faille de sécurité repérée par l'IA",
       "link": "https://www.france24.com/fr/%C3%A9co-tech/20261021-des-milliers-de-sites-internet-hors-lignes-%C3%A0-cause-de-failles-de-s%C3%A9curit%C3%A9-rep%C3%A9r%C3%A9es-par-l-ia",
       "url": "https://www.france24.com/fr/%C3%A9co-tech/20261021-des-milliers-de-sites-internet-hors-lignes-%C3%A0-cause-de-failles-de-s%C3%A9curit%C3%A9-rep%C3%A9r%C3%A9es-par-l-ia",
@@ -17,6 +57,16 @@
       "date": "2026-10-22T15:36:50.000Z",
       "description": "Une révolution en matière de cybersécurité. Mercredi 19 octobre, OpenAI (entreprise à l'origine de ChatGPT ) a expliqué que les failles avaient été...",
       "excerpt": "Une révolution en matière de cybersécurité. Mercredi 19 octobre, OpenAI (entreprise à l'origine de ChatGPT ) a expliqué que les failles avaient été...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Propagande par IA: beaucoup de bruit pour combien de voix? - INCYBER NEWS",
+      "link": "https://incyber.org/article/propagande-par-ia-beaucoup-de-bruit-pour-combien-de-voix/",
+      "url": "https://incyber.org/article/propagande-par-ia-beaucoup-de-bruit-pour-combien-de-voix/",
+      "publishedAt": "2026-10-22T15:12:25.000Z",
+      "date": "2026-10-22T15:12:25.000Z",
+      "description": "... ChatGPT, Gemini, Meta AI: les chatbots n'ont pas la même couleur... Cybersécurité. 20.10.26 Cybersécurité. Prochain article. Japon: l'outil d...",
+      "excerpt": "... ChatGPT, Gemini, Meta AI: les chatbots n'ont pas la même couleur... Cybersécurité. 20.10.26 Cybersécurité. Prochain article. Japon: l'outil d...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -70,64 +120,14 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Gouvernance démocratique de l'IA de pointe, partie II: Outiller les cyberdéfenseurs | OpenAI",
-      "link": "https://openai.com/fr-FR/index/empowering-cyber-defenders/",
-      "url": "https://openai.com/fr-FR/index/empowering-cyber-defenders/",
-      "publishedAt": "2026-10-22T13:23:48.000Z",
-      "date": "2026-10-22T13:23:48.000Z",
-      "description": "OpenAI propose de renforcer la cyberdéfense grâce à l'IA de pointe, des garanties accrues, une cybersécurité modernisée et des institutions...",
-      "excerpt": "OpenAI propose de renforcer la cyberdéfense grâce à l'IA de pointe, des garanties accrues, une cybersécurité modernisée et des institutions...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "« Hécatombe » sur l'internet | Une faille de sécurité critique menace 70 % des sites web",
-      "link": "https://www.lapresse.ca/affaires/techno/2026-10-21/hecatombe-sur-l-internet/une-faille-de-securite-critique-menace-70-des-sites-web.php",
-      "url": "https://www.lapresse.ca/affaires/techno/2026-10-21/hecatombe-sur-l-internet/une-faille-de-securite-critique-menace-70-des-sites-web.php",
-      "publishedAt": "2026-10-22T12:24:02.000Z",
-      "date": "2026-10-22T12:24:02.000Z",
-      "description": "Au-delà de la nouvelle du jour, l'omniprésence des outils d'IA en cybersécurité... Boîte de réception La confidentialité de ChatGPT, le relais privé d'...",
-      "excerpt": "Au-delà de la nouvelle du jour, l'omniprésence des outils d'IA en cybersécurité... Boîte de réception La confidentialité de ChatGPT, le relais privé d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google Cloud intègre les modèles OpenAI GPT-6: ce qui change pour les entreprises",
-      "link": "https://www.planet-sansfil.com/high-tech/google-cloud-openai-modeles-gpt-6/",
-      "url": "https://www.planet-sansfil.com/high-tech/google-cloud-openai-modeles-gpt-6/",
-      "publishedAt": "2026-10-22T10:56:47.000Z",
-      "date": "2026-10-22T10:56:47.000Z",
-      "description": "Google Cloud intègre les modèles OpenAI GPT-6: ce qui change pour les entreprises. SUJETS:agents IA ChatGPTcybersécurité IAGeminiGoogle CloudGoogle...",
-      "excerpt": "Google Cloud intègre les modèles OpenAI GPT-6: ce qui change pour les entreprises. SUJETS:agents IA ChatGPTcybersécurité IAGeminiGoogle CloudGoogle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des milliers de sites internet mis hors ligne en Europe à cause d'une faille de sécurité...",
-      "link": "https://fr.le360.ma/monde/des-milliers-de-sites-internet-mis-hors-ligne-en-europe-a-cause-dune-faille-de-securite-reperee-par_GQCAX5EH35HRXMLRBGPVADPT2A/",
-      "url": "https://fr.le360.ma/monde/des-milliers-de-sites-internet-mis-hors-ligne-en-europe-a-cause-dune-faille-de-securite-reperee-par_GQCAX5EH35HRXMLRBGPVADPT2A/",
-      "publishedAt": "2026-10-22T09:58:06.000Z",
-      "date": "2026-10-22T09:58:06.000Z",
-      "description": "... cybersécurité. ➡️ Découvrez ces derniers rendez-vous de l'Agence... Mercredi 21 octobre, OpenAI (entreprise à l'origine de ChatGPT ) a...",
-      "excerpt": "... cybersécurité. ➡️ Découvrez ces derniers rendez-vous de l'Agence... Mercredi 21 octobre, OpenAI (entreprise à l'origine de ChatGPT ) a...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-5.6 Sol d'OpenAI et Gemini 4 Argon de Google… - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6363079-gpt-5-6-sol-d-openai-et-gemini-4-argon-de-google-decouvrent-une-faille-critique-de-php-touchant-des-millions-de-sites-web",
-      "url": "https://www.lefilia.fr/article/6363079-gpt-5-6-sol-d-openai-et-gemini-4-argon-de-google-decouvrent-une-faille-critique-de-php-touchant-des-millions-de-sites-web",
-      "publishedAt": "2026-10-22T08:51:16.000Z",
-      "date": "2026-10-22T08:51:16.000Z",
-      "description": "GPT-5.6 Sol, le modèle d'OpenAI, a découvert une faille critique dans PHP, le langage qui fait tourner une très grande partie du web. Cette...",
-      "excerpt": "GPT-5.6 Sol, le modèle d'OpenAI, a découvert une faille critique dans PHP, le langage qui fait tourner une très grande partie du web. Cette...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Gouvernance démocratique de l'IA de pointe, partie II: outiller les cyberdéfenseurs | OpenAI",
-      "link": "https://openai.com/fr-CA/index/empowering-cyber-defenders/",
-      "url": "https://openai.com/fr-CA/index/empowering-cyber-defenders/",
-      "publishedAt": "2026-10-22T08:47:45.000Z",
-      "date": "2026-10-22T08:47:45.000Z",
-      "description": "OpenAI propose un plan directeur: IA de pointe pour les cyberdéfenseurs, protections renforcées, cybersécurité modernisée et institutions...",
-      "excerpt": "OpenAI propose un plan directeur: IA de pointe pour les cyberdéfenseurs, protections renforcées, cybersécurité modernisée et institutions...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "title": "ChatGPT permet de verrouiller des conversations: attention à ce que protège le code PIN",
+      "link": "https://www.menow.fr/chatgpt-permet-de-verrouiller-des-conversations-attention-a-ce-que-protege-le-code-pin/",
+      "url": "https://www.menow.fr/chatgpt-permet-de-verrouiller-des-conversations-attention-a-ce-que-protege-le-code-pin/",
+      "publishedAt": "2026-10-22T13:45:11.000Z",
+      "date": "2026-10-22T13:45:11.000Z",
+      "description": "ChatGPT permet de verrouiller des conversations: attention à ce... Sources: OpenAI, notes de version; documentation des chats verrouillés.",
+      "excerpt": "ChatGPT permet de verrouiller des conversations: attention à ce... Sources: OpenAI, notes de version; documentation des chats verrouillés.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
