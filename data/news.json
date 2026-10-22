@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T02:30:45.026Z",
+  "generatedAt": "2026-10-22T10:51:53.442Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,16 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Comme WhatsApp, ChatGPT met enfin vos conversations sous clé - 01net.com",
+      "link": "https://www.01net.com/actualites/comme-whatsapp-chatgpt-met-enfin-vos-conversations-sous-cle.html",
+      "url": "https://www.01net.com/actualites/comme-whatsapp-chatgpt-met-enfin-vos-conversations-sous-cle.html",
+      "publishedAt": "2026-10-22T06:21:14.000Z",
+      "date": "2026-10-22T06:21:14.000Z",
+      "description": "OpenAI déploie depuis le 20 octobre les « conversations verrouillées » dans ChatGPT, du compte gratuit aux offres Enterprise et Edu.... Cybersécurité...",
+      "excerpt": "OpenAI déploie depuis le 20 octobre les « conversations verrouillées » dans ChatGPT, du compte gratuit aux offres Enterprise et Edu.... Cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Patch the Planet: réponse mondiale aux failles critiques découvertes par les agents",
       "link": "https://openai.com/fr-FR/index/coordinated-disclosure-of-critical-vulnerabilities/",
       "url": "https://openai.com/fr-FR/index/coordinated-disclosure-of-critical-vulnerabilities/",
@@ -17,6 +27,16 @@
       "date": "2026-10-21T23:56:15.000Z",
       "description": "Essayer ChatGPT (ouverture dans une nouvelle fenêtre) Connexion... cybersécurité pour diffuser les recommandations aux organisations critiques.",
       "excerpt": "Essayer ChatGPT (ouverture dans une nouvelle fenêtre) Connexion... cybersécurité pour diffuser les recommandations aux organisations critiques.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT permet de verrouiller vos conversations pour les garder à l'abri des regards",
+      "link": "https://siecledigital.fr/2026/10/21/chatgpt-permet-de-verrouiller-vos-conversations-pour-les-garder-a-labri-des-regards/",
+      "url": "https://siecledigital.fr/2026/10/21/chatgpt-permet-de-verrouiller-vos-conversations-pour-les-garder-a-labri-des-regards/",
+      "publishedAt": "2026-10-21T23:30:01.000Z",
+      "date": "2026-10-21T23:30:01.000Z",
+      "description": "OpenAI vient de dévoiler une nouvelle fonctionnalité destinée à renforcer la confidentialité des échanges sur ChatGPT... Cybersécurité · IT · Médias...",
+      "excerpt": "OpenAI vient de dévoiler une nouvelle fonctionnalité destinée à renforcer la confidentialité des échanges sur ChatGPT... Cybersécurité · IT · Médias...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -37,6 +57,16 @@
       "date": "2026-10-21T21:38:54.000Z",
       "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Tous publics. Le Tech Flash: la pub arrive dans ChatGPT par Léa Benaim - 19/...",
       "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Tous publics. Le Tech Flash: la pub arrive dans ChatGPT par Léa Benaim - 19/...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI étend ChatGPT Ads à 26 pays supplémentaires, portant le total à 89 - Securities.io",
+      "link": "https://www.securities.io/fr/openai-expands-chatgpt-ads-to-26-more-countries-and-89-total/",
+      "url": "https://www.securities.io/fr/openai-expands-chatgpt-ads-to-26-more-countries-and-89-total/",
+      "publishedAt": "2026-10-21T20:34:49.000Z",
+      "date": "2026-10-21T20:34:49.000Z",
+      "description": "Cybersécurité · Actifs numériques · Titres numériques · Forex · Entretiens... ChatGPT; la publicité n'influence pas les réponses fournies par ChatGPT.",
+      "excerpt": "Cybersécurité · Actifs numériques · Titres numériques · Forex · Entretiens... ChatGPT; la publicité n'influence pas les réponses fournies par ChatGPT.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -97,36 +127,6 @@
       "date": "2026-10-21T16:54:35.000Z",
       "description": "Earlier release if details become public or active exploit evidence.... Ce mercredi, Open AI, la firme américaine à l'origine de ChatGPT, a...",
       "excerpt": "Earlier release if details become public or active exploit evidence.... Ce mercredi, Open AI, la firme américaine à l'origine de ChatGPT, a...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT permet de verrouiller vos conversations pour les garder à l'abri des regards",
-      "link": "https://www.lefilia.fr/article/6360156-chatgpt-permet-de-verrouiller-vos-conversations-pour-les-garder-a-l-abri-des-regards",
-      "url": "https://www.lefilia.fr/article/6360156-chatgpt-permet-de-verrouiller-vos-conversations-pour-les-garder-a-l-abri-des-regards",
-      "publishedAt": "2026-10-21T16:51:51.000Z",
-      "date": "2026-10-21T16:51:51.000Z",
-      "description": "ChatGPT permet de verrouiller vos conversations pour les garder à l'abri des regards... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le...",
-      "excerpt": "ChatGPT permet de verrouiller vos conversations pour les garder à l'abri des regards... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "PHP 8.5.12 sort avec 90 correctifs, dont PDO, DOM et SOAP - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/26142/php-8-5-12-sort-90-correctifs-pdo-dom-soap",
-      "url": "https://pasqualepillitteri.it/fr/news/26142/php-8-5-12-sort-90-correctifs-pdo-dom-soap",
-      "publishedAt": "2026-10-21T16:45:23.000Z",
-      "date": "2026-10-21T16:45:23.000Z",
-      "description": "ChatGPT Amazon Tesla Opinions Benchmarks et Comparatifs Microsoft...",
-      "excerpt": "ChatGPT Amazon Tesla Opinions Benchmarks et Comparatifs Microsoft...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT permet désormais de verrouiller ses conversations avec un code PIN - BDM",
-      "link": "https://www.blogdumoderateur.com/chatgpt-verrouiller-conversations-code-pin/",
-      "url": "https://www.blogdumoderateur.com/chatgpt-verrouiller-conversations-code-pin/",
-      "publishedAt": "2026-10-21T16:38:36.000Z",
-      "date": "2026-10-21T16:38:36.000Z",
-      "description": "New messages sent in locked chats won't update the memory used in your regular chats.... — ChatGPT (@ ChatGPT ) October 20, 2026. Pour afficher ce...",
-      "excerpt": "New messages sent in locked chats won't update the memory used in your regular chats.... — ChatGPT (@ ChatGPT ) October 20, 2026. Pour afficher ce...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
