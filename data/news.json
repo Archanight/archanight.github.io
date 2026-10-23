@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T16:07:39.386Z",
+  "generatedAt": "2026-10-23T20:48:31.036Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,16 @@
   "failedSources": [],
   "items": [
     {
+      "title": "« La situation va empirer »: après le chaos PHP, Anthropic prédit d'autres turbulences sur l...",
+      "link": "https://www.01net.com/actualites/la-situation-va-empirer-apres-le-chaos-php-anthropic-predit-dautres-turbulences-sur-linternet-mondial.html",
+      "url": "https://www.01net.com/actualites/la-situation-va-empirer-apres-le-chaos-php-anthropic-predit-dautres-turbulences-sur-linternet-mondial.html",
+      "publishedAt": "2026-10-23T19:57:49.000Z",
+      "date": "2026-10-23T19:57:49.000Z",
+      "description": "Deux failles critiques découvertes dans PHP illustrent les risques croissants que l'intelligence artificielle fait peser sur la cybersécurité.",
+      "excerpt": "Deux failles critiques découvertes dans PHP illustrent les risques croissants que l'intelligence artificielle fait peser sur la cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Alerte, un nouvel infostealer s'intéresse grandement à vos comptes et sessions Claude...",
       "link": "https://www.clubic.com/actualite-635734-alerte-un-nouvel-infostealer-s-interesse-grandement-a-vos-comptes-et-sessions-claude-chatgpt-et-copilot.html",
       "url": "https://www.clubic.com/actualite-635734-alerte-un-nouvel-infostealer-s-interesse-grandement-a-vos-comptes-et-sessions-claude-chatgpt-et-copilot.html",
@@ -17,6 +27,26 @@
       "date": "2026-10-23T14:18:44.000Z",
       "description": "... ChatGPT ou GitHub Copilot. Le malware vise aussi les accès cloud et les... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom...",
       "excerpt": "... ChatGPT ou GitHub Copilot. Le malware vise aussi les accès cloud et les... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Nouvelle faille PHP CVE-2026-115560, désactivez l'upload progress - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/26593/php-cve-2026-115560-desactivez-upload-progress",
+      "url": "https://pasqualepillitteri.it/fr/news/26593/php-cve-2026-115560-desactivez-upload-progress",
+      "publishedAt": "2026-10-23T14:15:38.000Z",
+      "date": "2026-10-23T14:15:38.000Z",
+      "description": "ChatGPT Amazon Tesla · Accueil · Actualités... Le ton reste volontairement bas, au point que PHP ne parle pas de release d'urgence mais de cycle de...",
+      "excerpt": "ChatGPT Amazon Tesla · Accueil · Actualités... Le ton reste volontairement bas, au point que PHP ne parle pas de release d'urgence mais de cycle de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT Pro Prix: 100, 200 ou 500 $ par Mois [2026] - Tech Insider",
+      "link": "https://tech-insider.org/fr/chatgpt-pro-prix-100-200-500-dollars-2026/",
+      "url": "https://tech-insider.org/fr/chatgpt-pro-prix-100-200-500-dollars-2026/",
+      "publishedAt": "2026-10-23T13:13:13.000Z",
+      "date": "2026-10-23T13:13:13.000Z",
+      "description": "ChatGPT Pro prix: Pro 100 à 100 $, Pro 200 à 200 $, Pro 500 à... cybersécurité, cloud, matériel et les tendances qui comptent. editorial...",
+      "excerpt": "ChatGPT Pro prix: Pro 100 à 100 $, Pro 200 à 200 $, Pro 500 à... cybersécurité, cloud, matériel et les tendances qui comptent. editorial...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -90,44 +120,14 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Uber déploie ChatGPT Work pour tous ses employés avec OpenAI",
-      "link": "https://openai.com/fr-FR/index/uber-chatgpt-work-rollout/",
-      "url": "https://openai.com/fr-FR/index/uber-chatgpt-work-rollout/",
-      "publishedAt": "2026-10-23T00:41:11.000Z",
-      "date": "2026-10-23T00:41:11.000Z",
-      "description": "Uber a annoncé le déploiement dès aujourd'hui, dans toute l'entreprise, de ChatGPT... Dots (ouverture dans une nouvelle fenêtre) · Notes de version.",
-      "excerpt": "Uber a annoncé le déploiement dès aujourd'hui, dans toute l'entreprise, de ChatGPT... Dots (ouverture dans une nouvelle fenêtre) · Notes de version.",
+      "title": "Sugestion un visage humain réaliste animé sur chatgpt - OpenAI Developer Community",
+      "link": "https://community.openai.com/t/sugestion-un-visage-humain-realiste-anime-sur-chatgpt/1408967",
+      "url": "https://community.openai.com/t/sugestion-un-visage-humain-realiste-anime-sur-chatgpt/1408967",
+      "publishedAt": "2026-10-23T02:43:00.000Z",
+      "date": "2026-10-23T02:43:00.000Z",
+      "description": "Idea update chatgpt compagnon 1.0 · Feature requests · chatgpt. 0, 20, October... gpt-4. 0, 61, August 19, 2024. Chat Universel: Proposition de salles...",
+      "excerpt": "Idea update chatgpt compagnon 1.0 · Feature requests · chatgpt. 0, 20, October... gpt-4. 0, 61, August 19, 2024. Chat Universel: Proposition de salles...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Faille majeure de cybersécurité: de nombreux sites web sont encore vulnérables",
-      "link": "https://www.pesesurstart.com/2026/10/22/faille-majeure-de-cybersecurite-de-nombreux-sites-web-sont-encore-vulnerables",
-      "url": "https://www.pesesurstart.com/2026/10/22/faille-majeure-de-cybersecurite-de-nombreux-sites-web-sont-encore-vulnerables",
-      "publishedAt": "2026-10-22T23:51:56.000Z",
-      "date": "2026-10-22T23:51:56.000Z",
-      "description": "Faille majeure de cybersécurité: de nombreux sites web sont encore vulnérables... ChatGPT pour l'empêcher de mémoriser vos échanges · Nouvelles...",
-      "excerpt": "Faille majeure de cybersécurité: de nombreux sites web sont encore vulnérables... ChatGPT pour l'empêcher de mémoriser vos échanges · Nouvelles...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google va proposer ChatGPT sur Antigravity - Android MT",
-      "link": "https://android-mt.ouest-france.fr/news/google-va-proposer-chatgpt-sur-antigravity/227039/",
-      "url": "https://android-mt.ouest-france.fr/news/google-va-proposer-chatgpt-sur-antigravity/227039/",
-      "publishedAt": "2026-10-22T19:43:01.000Z",
-      "date": "2026-10-22T19:43:01.000Z",
-      "description": "Google va proposer ChatGPT sur Antigravity · Google et OpenAI, deux concurrents directs sur le terrain de l'intelligence artificielle, viennent...",
-      "excerpt": "Google va proposer ChatGPT sur Antigravity · Google et OpenAI, deux concurrents directs sur le terrain de l'intelligence artificielle, viennent...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Uber to use ChatGPT Work for more than 30K employees - TradingView",
-      "link": "https://fr.tradingview.com/news/seekingalpha:0deb73d98094b:0-uber-to-use-chatgpt-work-for-more-than-30k-employees/",
-      "url": "https://fr.tradingview.com/news/seekingalpha:0deb73d98094b:0-uber-to-use-chatgpt-work-for-more-than-30k-employees/",
-      "publishedAt": "2026-10-22T19:37:52.000Z",
-      "date": "2026-10-22T19:37:52.000Z",
-      "description": "OpenAI NASDAQ:OPENAI said on Thursday that Uber NYSE:UBER is rolling out ChatGPT... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "excerpt": "OpenAI NASDAQ:OPENAI said on Thursday that Uber NYSE:UBER is rolling out ChatGPT... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
