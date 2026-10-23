@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T02:35:33.292Z",
+  "generatedAt": "2026-10-23T10:42:58.605Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Qu'est-ce que le PHP et pourquoi a-t-il déclenché une vague mondiale de mesures de cybersécurité",
+      "link": "https://www.bbc.com/afrique/articles/cwzrd1egrgpxo",
+      "url": "https://www.bbc.com/afrique/articles/cwzrd1egrgpxo",
+      "publishedAt": "2026-10-23T09:28:54.000Z",
+      "date": "2026-10-23T09:28:54.000Z",
+      "description": "... cybersécurité... Le créateur de ChatGPT a indiqué avoir publié un programme permettant...",
+      "excerpt": "... cybersécurité... Le créateur de ChatGPT a indiqué avoir publié un programme permettant...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA et cybersécurité: failles critiques dans PHP et alerte « code rouge » | Brief IA",
+      "link": "https://www.briefia.fr/article/ia-et-cybersecurite-failles-critiques-dans-php-et-alerte-code-rouge",
+      "url": "https://www.briefia.fr/article/ia-et-cybersecurite-failles-critiques-dans-php-et-alerte-code-rouge",
+      "publishedAt": "2026-10-23T09:13:09.000Z",
+      "date": "2026-10-23T09:13:09.000Z",
+      "description": "Audience professionnelle française · Référencé Google News · Cité par ChatGPT, Claude et Perplexity Tarifs indicatifs, chaque campagne se...",
+      "excerpt": "Audience professionnelle française · Référencé Google News · Cité par ChatGPT, Claude et Perplexity Tarifs indicatifs, chaque campagne se...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI déploie le filigrane textGrain face aux règles de l'UE - DCOD | Cybersécurité",
+      "link": "https://dcod.ch/2026/10/23/openai-filigrane-textgrain-ue/",
+      "url": "https://dcod.ch/2026/10/23/openai-filigrane-textgrain-ue/",
+      "publishedAt": "2026-10-23T08:34:04.000Z",
+      "date": "2026-10-23T08:34:04.000Z",
+      "description": "Le 5 octobre 2026, OpenAI a présenté textGrain pour identifier les écrits générés par ChatGPT... cybersécurité dans votre entreprise grâce à ce livre 2...",
+      "excerpt": "Le 5 octobre 2026, OpenAI a présenté textGrain pour identifier les écrits générés par ChatGPT... cybersécurité dans votre entreprise grâce à ce livre 2...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT \"très bon sur les dialogues\", Grok très doué pour les scènes érotiques - BFM",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/chat-gpt-tres-bon-sur-les-dialogues-grok-tres-doue-pour-les-scenes-erotiques-une-ecrivaine-revendique-pres-de-400-livres-publies-en-20-mois-grace-a-l-ia_AD-202610230318.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/chat-gpt-tres-bon-sur-les-dialogues-grok-tres-doue-pour-les-scenes-erotiques-une-ecrivaine-revendique-pres-de-400-livres-publies-en-20-mois-grace-a-l-ia_AD-202610230318.html",
+      "publishedAt": "2026-10-23T08:01:06.000Z",
+      "date": "2026-10-23T08:01:06.000Z",
+      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... ChatGPT \"très bon sur les dialogues\", Grok très doué pour les scènes...",
+      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... ChatGPT \"très bon sur les dialogues\", Grok très doué pour les scènes...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Hébergez votre site créé par une IA avec o2switch - Clubic",
+      "link": "https://www.clubic.com/bons-plans-633523-vous-avez-cree-votre-site-avec-chatgpt-claude-ou-lovable-pensez-a-l-heberger-pour-le-mettre-en-ligne.html",
+      "url": "https://www.clubic.com/bons-plans-633523-vous-avez-cree-votre-site-avec-chatgpt-claude-ou-lovable-pensez-a-l-heberger-pour-le-mettre-en-ligne.html",
+      "publishedAt": "2026-10-23T07:00:41.000Z",
+      "date": "2026-10-23T07:00:41.000Z",
+      "description": "ChatGPT, Claude ou Lovable peuvent générer votre site, mais pas l... d'o2switch vous permet de coupler une cybersécurité et des technologies dès 1,86 €...",
+      "excerpt": "ChatGPT, Claude ou Lovable peuvent générer votre site, mais pas l... d'o2switch vous permet de coupler une cybersécurité et des technologies dès 1,86 €...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Que doivent faire les entreprises pour protéger leurs infrastructures énergétiques contre la...",
+      "link": "https://fr.laodong.vn/cong-nghe/doanh-nghiep-can-lam-gi-de-bao-ve-ha-tang-nang-luong-truoc-nguy-co-tan-cong-mang-1787886.ldo",
+      "url": "https://fr.laodong.vn/cong-nghe/doanh-nghiep-can-lam-gi-de-bao-ve-ha-tang-nang-luong-truoc-nguy-co-tan-cong-mang-1787886.ldo",
+      "publishedAt": "2026-10-23T06:49:20.000Z",
+      "date": "2026-10-23T06:49:20.000Z",
+      "description": "... ChatGPT et Gemini sont en augmentation, posant de nombreux risques de cybersécurité préoccupants. Les experts en cybersécurité de Kaspersky...",
+      "excerpt": "... ChatGPT et Gemini sont en augmentation, posant de nombreux risques de cybersécurité préoccupants. Les experts en cybersécurité de Kaspersky...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Uber déploie ChatGPT Work pour tous ses employés avec OpenAI",
       "link": "https://openai.com/fr-FR/index/uber-chatgpt-work-rollout/",
@@ -50,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "OpenAI Says Uber Announced Company-Wide Rollout Of ChatGPT Work Starting Today",
+      "link": "https://fr.tradingview.com/news/reuters.com,2026:newsml_FWN4682N5:0-openai-says-uber-announced-company-wide-rollout-of-chatgpt-work-starting-today/",
+      "url": "https://fr.tradingview.com/news/reuters.com,2026:newsml_FWN4682N5:0-openai-says-uber-announced-company-wide-rollout-of-chatgpt-work-starting-today/",
+      "publishedAt": "2026-10-22T19:00:31.000Z",
+      "date": "2026-10-22T19:00:31.000Z",
+      "description": "OpenAI Says Uber Announced Company-Wide Rollout Of ChatGPT Work Starting Today... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "excerpt": "OpenAI Says Uber Announced Company-Wide Rollout Of ChatGPT Work Starting Today... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Uber将向全球逾3万名员工部署 ChatGPT Work 从千人试点扩展至全公司 - TradingView",
       "link": "https://fr.tradingview.com/news/gelonghui:6d97c2521e3f9:0/",
       "url": "https://fr.tradingview.com/news/gelonghui:6d97c2521e3f9:0/",
@@ -57,76 +127,6 @@
       "date": "2026-10-22T18:17:55.000Z",
       "description": "... ｜OpenAI宣布，优步（Uber）将把 ChatGPT Work推广至全球逾3万名员工，... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
       "excerpt": "... ｜OpenAI宣布，优步（Uber）将把 ChatGPT Work推广至全球逾3万名员工，... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Banni des États-Unis, DeepSeek s'offre 15 milliards de dollars pour écraser ChatGPT",
-      "link": "https://www.clubic.com/actualite-635563-banni-des-etats-unis-deepseek-s-offre-15-milliards-de-dollars-pour-ecraser-chatgpt.html",
-      "url": "https://www.clubic.com/actualite-635563-banni-des-etats-unis-deepseek-s-offre-15-milliards-de-dollars-pour-ecraser-chatgpt.html",
-      "publishedAt": "2026-10-22T17:59:25.000Z",
-      "date": "2026-10-22T17:59:25.000Z",
-      "description": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV & Vidéo · Audio · Maison connectée · Cyber Pro by. Mode sombre. Explorez...",
-      "excerpt": "Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom · TV & Vidéo · Audio · Maison connectée · Cyber Pro by. Mode sombre. Explorez...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Uber déploie ChatGPT Work auprès de plus de 30 000 employés - Unite.AI",
-      "link": "https://www.unite.ai/fr/uber-rolls-out-chatgpt-work-to-more-than-30-000-employees/",
-      "url": "https://www.unite.ai/fr/uber-rolls-out-chatgpt-work-to-more-than-30-000-employees/",
-      "publishedAt": "2026-10-22T17:30:04.000Z",
-      "date": "2026-10-22T17:30:04.000Z",
-      "description": "OpenAI présente ChatGPT Work comme une plateforme agentique conçue pour prendre en charge des tâches complexes comportant plusieurs étapes et fournir...",
-      "excerpt": "OpenAI présente ChatGPT Work comme une plateforme agentique conçue pour prendre en charge des tâches complexes comportant plusieurs étapes et fournir...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Uber ouvre ChatGPT Work à plus de 30 000 salariés - Brief IA",
-      "link": "https://www.briefia.fr/article/uber-ouvre-chatgpt-work-a-plus-de-30-000-salaries",
-      "url": "https://www.briefia.fr/article/uber-ouvre-chatgpt-work-a-plus-de-30-000-salaries",
-      "publishedAt": "2026-10-22T17:29:16.000Z",
-      "date": "2026-10-22T17:29:16.000Z",
-      "description": "Le déploiement de ChatGPT Work au sein de ChatGPT Enterprise débute aujourd'hui chez Uber.... cybersécurité, réseaux 6G, sécurité des enfants et...",
-      "excerpt": "Le déploiement de ChatGPT Work au sein de ChatGPT Enterprise débute aujourd'hui chez Uber.... cybersécurité, réseaux 6G, sécurité des enfants et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des milliers de sites internet mis hors ligne à cause d'une faille de sécurité repérée par l'IA",
-      "link": "https://www.france24.com/fr/%C3%A9co-tech/20261021-des-milliers-de-sites-internet-hors-lignes-%C3%A0-cause-de-failles-de-s%C3%A9curit%C3%A9-rep%C3%A9r%C3%A9es-par-l-ia",
-      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261021-des-milliers-de-sites-internet-hors-lignes-%C3%A0-cause-de-failles-de-s%C3%A9curit%C3%A9-rep%C3%A9r%C3%A9es-par-l-ia",
-      "publishedAt": "2026-10-22T15:36:50.000Z",
-      "date": "2026-10-22T15:36:50.000Z",
-      "description": "Une révolution en matière de cybersécurité. Mercredi 19 octobre, OpenAI (entreprise à l'origine de ChatGPT ) a expliqué que les failles avaient été...",
-      "excerpt": "Une révolution en matière de cybersécurité. Mercredi 19 octobre, OpenAI (entreprise à l'origine de ChatGPT ) a expliqué que les failles avaient été...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Propagande par IA: beaucoup de bruit pour combien de voix? - INCYBER NEWS",
-      "link": "https://incyber.org/article/propagande-par-ia-beaucoup-de-bruit-pour-combien-de-voix/",
-      "url": "https://incyber.org/article/propagande-par-ia-beaucoup-de-bruit-pour-combien-de-voix/",
-      "publishedAt": "2026-10-22T15:12:25.000Z",
-      "date": "2026-10-22T15:12:25.000Z",
-      "description": "... ChatGPT, Gemini, Meta AI: les chatbots n'ont pas la même couleur... Cybersécurité. 20.10.26 Cybersécurité. Prochain article. Japon: l'outil d...",
-      "excerpt": "... ChatGPT, Gemini, Meta AI: les chatbots n'ont pas la même couleur... Cybersécurité. 20.10.26 Cybersécurité. Prochain article. Japon: l'outil d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Après Muse de Meta et ChatGPT Dot, Anthropic s'aligne et dévoile Claude Duet - 01net.com",
-      "link": "https://www.01net.com/actualites/apres-muse-dot-anthropic-saligne-devoile-agent-proactif-duet-aucun-disponible-chez-nous.html",
-      "url": "https://www.01net.com/actualites/apres-muse-dot-anthropic-saligne-devoile-agent-proactif-duet-aucun-disponible-chez-nous.html",
-      "publishedAt": "2026-10-22T15:06:46.000Z",
-      "date": "2026-10-22T15:06:46.000Z",
-      "description": "Après Muse de Meta et ChatGPT Dot, Anthropic s'aligne et dévoile Claude Duet... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "excerpt": "Après Muse de Meta et ChatGPT Dot, Anthropic s'aligne et dévoile Claude Duet... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT, Claude, Perplexity, Google AI Mode: pourquoi leurs citations ne se comparent pas",
-      "link": "https://www.journaldunet.com/seo/1555287-chatgpt-claude-perplexity-google-ai-mode-pourquoi-leurs-citations-ne-se-comparent-pas/",
-      "url": "https://www.journaldunet.com/seo/1555287-chatgpt-claude-perplexity-google-ai-mode-pourquoi-leurs-citations-ne-se-comparent-pas/",
-      "publishedAt": "2026-10-22T14:48:35.000Z",
-      "date": "2026-10-22T14:48:35.000Z",
-      "description": "Cybersécurité · Adtech · Big data · Carrière · Fintech · e-RH · IoT · Martech... ChatGPT, Claude, Perplexity, Google AI Mode: pourquoi leurs citations...",
-      "excerpt": "Cybersécurité · Adtech · Big data · Carrière · Fintech · e-RH · IoT · Martech... ChatGPT, Claude, Perplexity, Google AI Mode: pourquoi leurs citations...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
