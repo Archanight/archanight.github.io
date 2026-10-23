@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T20:58:39.586Z",
+  "generatedAt": "2026-10-23T02:35:33.292Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Uber déploie ChatGPT Work pour tous ses employés avec OpenAI",
+      "link": "https://openai.com/fr-FR/index/uber-chatgpt-work-rollout/",
+      "url": "https://openai.com/fr-FR/index/uber-chatgpt-work-rollout/",
+      "publishedAt": "2026-10-23T00:41:11.000Z",
+      "date": "2026-10-23T00:41:11.000Z",
+      "description": "Uber a annoncé le déploiement dès aujourd'hui, dans toute l'entreprise, de ChatGPT... Dots (ouverture dans une nouvelle fenêtre) · Notes de version.",
+      "excerpt": "Uber a annoncé le déploiement dès aujourd'hui, dans toute l'entreprise, de ChatGPT... Dots (ouverture dans une nouvelle fenêtre) · Notes de version.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Faille majeure de cybersécurité: de nombreux sites web sont encore vulnérables",
+      "link": "https://www.pesesurstart.com/2026/10/22/faille-majeure-de-cybersecurite-de-nombreux-sites-web-sont-encore-vulnerables",
+      "url": "https://www.pesesurstart.com/2026/10/22/faille-majeure-de-cybersecurite-de-nombreux-sites-web-sont-encore-vulnerables",
+      "publishedAt": "2026-10-22T23:51:56.000Z",
+      "date": "2026-10-22T23:51:56.000Z",
+      "description": "Faille majeure de cybersécurité: de nombreux sites web sont encore vulnérables... ChatGPT pour l'empêcher de mémoriser vos échanges · Nouvelles...",
+      "excerpt": "Faille majeure de cybersécurité: de nombreux sites web sont encore vulnérables... ChatGPT pour l'empêcher de mémoriser vos échanges · Nouvelles...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google va proposer ChatGPT sur Antigravity - Android MT",
+      "link": "https://android-mt.ouest-france.fr/news/google-va-proposer-chatgpt-sur-antigravity/227039/",
+      "url": "https://android-mt.ouest-france.fr/news/google-va-proposer-chatgpt-sur-antigravity/227039/",
+      "publishedAt": "2026-10-22T19:43:01.000Z",
+      "date": "2026-10-22T19:43:01.000Z",
+      "description": "Google va proposer ChatGPT sur Antigravity · Google et OpenAI, deux concurrents directs sur le terrain de l'intelligence artificielle, viennent...",
+      "excerpt": "Google va proposer ChatGPT sur Antigravity · Google et OpenAI, deux concurrents directs sur le terrain de l'intelligence artificielle, viennent...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Uber to use ChatGPT Work for more than 30K employees - TradingView",
+      "link": "https://fr.tradingview.com/news/seekingalpha:0deb73d98094b:0-uber-to-use-chatgpt-work-for-more-than-30k-employees/",
+      "url": "https://fr.tradingview.com/news/seekingalpha:0deb73d98094b:0-uber-to-use-chatgpt-work-for-more-than-30k-employees/",
+      "publishedAt": "2026-10-22T19:37:52.000Z",
+      "date": "2026-10-22T19:37:52.000Z",
+      "description": "OpenAI NASDAQ:OPENAI said on Thursday that Uber NYSE:UBER is rolling out ChatGPT... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "excerpt": "OpenAI NASDAQ:OPENAI said on Thursday that Uber NYSE:UBER is rolling out ChatGPT... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Uber将向全球逾3万名员工部署 ChatGPT Work 从千人试点扩展至全公司 - TradingView",
       "link": "https://fr.tradingview.com/news/gelonghui:6d97c2521e3f9:0/",
@@ -88,46 +128,6 @@
       "description": "Cybersécurité · Adtech · Big data · Carrière · Fintech · e-RH · IoT · Martech... ChatGPT, Claude, Perplexity, Google AI Mode: pourquoi leurs citations...",
       "excerpt": "Cybersécurité · Adtech · Big data · Carrière · Fintech · e-RH · IoT · Martech... ChatGPT, Claude, Perplexity, Google AI Mode: pourquoi leurs citations...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Deux ChatGPT ont pris des initiatives inquiétantes, et OpenAI ne comprend pas pourquoi",
-      "link": "https://www.01net.com/actualites/deux-chatgpt-ont-pris-des-initiatives-inquietantes-et-openai-ne-comprend-pas-pourquoi.html",
-      "url": "https://www.01net.com/actualites/deux-chatgpt-ont-pris-des-initiatives-inquietantes-et-openai-ne-comprend-pas-pourquoi.html",
-      "publishedAt": "2026-10-22T14:31:52.000Z",
-      "date": "2026-10-22T14:31:52.000Z",
-      "description": "Deux ChatGPT ont pris des initiatives inquiétantes, et OpenAI ne comprend pas pourquoi... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "excerpt": "Deux ChatGPT ont pris des initiatives inquiétantes, et OpenAI ne comprend pas pourquoi... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Commerce agentique: Walmart impose ses règles aux agents d'IA - ActuIA",
-      "link": "https://www.actuia.com/actualite/commerce-agentique-walmart-impose-ses-regles-aux-agents-dia/",
-      "url": "https://www.actuia.com/actualite/commerce-agentique-walmart-impose-ses-regles-aux-agents-dia/",
-      "publishedAt": "2026-10-22T14:22:40.000Z",
-      "date": "2026-10-22T14:22:40.000Z",
-      "description": "ChatGPT Agents IAAI Actrisquesintelligence artificielle cybersécurité. ST. Stephane Nachez. Rédaction ActuIA — actualités, données et analyses sur l...",
-      "excerpt": "ChatGPT Agents IAAI Actrisquesintelligence artificielle cybersécurité. ST. Stephane Nachez. Rédaction ActuIA — actualités, données et analyses sur l...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Etherscan débarque dans ChatGPT: les données brutes de 60 blockchains dans une IA",
-      "link": "https://journalducoin.com/ethereum/etherscan-chatgpt-debarque-donnees-brutes-60-blockchains/",
-      "url": "https://journalducoin.com/ethereum/etherscan-chatgpt-debarque-donnees-brutes-60-blockchains/",
-      "publishedAt": "2026-10-22T14:03:11.000Z",
-      "date": "2026-10-22T14:03:11.000Z",
-      "description": "Etherscan a annoncé sur X un plugin à installer dans ChatGPT pour interroger soldes, transactions et contrats vérifiés.... Cybersécurité • Google (...",
-      "excerpt": "Etherscan a annoncé sur X un plugin à installer dans ChatGPT pour interroger soldes, transactions et contrats vérifiés.... Cybersécurité • Google (...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT permet de verrouiller des conversations: attention à ce que protège le code PIN",
-      "link": "https://www.menow.fr/chatgpt-permet-de-verrouiller-des-conversations-attention-a-ce-que-protege-le-code-pin/",
-      "url": "https://www.menow.fr/chatgpt-permet-de-verrouiller-des-conversations-attention-a-ce-que-protege-le-code-pin/",
-      "publishedAt": "2026-10-22T13:45:11.000Z",
-      "date": "2026-10-22T13:45:11.000Z",
-      "description": "ChatGPT permet de verrouiller des conversations: attention à ce... Sources: OpenAI, notes de version; documentation des chats verrouillés.",
-      "excerpt": "ChatGPT permet de verrouiller des conversations: attention à ce... Sources: OpenAI, notes de version; documentation des chats verrouillés.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
