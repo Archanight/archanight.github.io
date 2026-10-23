@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T10:42:58.605Z",
+  "generatedAt": "2026-10-23T16:07:39.386Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Alerte, un nouvel infostealer s'intéresse grandement à vos comptes et sessions Claude...",
+      "link": "https://www.clubic.com/actualite-635734-alerte-un-nouvel-infostealer-s-interesse-grandement-a-vos-comptes-et-sessions-claude-chatgpt-et-copilot.html",
+      "url": "https://www.clubic.com/actualite-635734-alerte-un-nouvel-infostealer-s-interesse-grandement-a-vos-comptes-et-sessions-claude-chatgpt-et-copilot.html",
+      "publishedAt": "2026-10-23T14:18:44.000Z",
+      "date": "2026-10-23T14:18:44.000Z",
+      "description": "... ChatGPT ou GitHub Copilot. Le malware vise aussi les accès cloud et les... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom...",
+      "excerpt": "... ChatGPT ou GitHub Copilot. Le malware vise aussi les accès cloud et les... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Work s'invite dans le quotidien des salariés d'Uber - Begeek",
+      "link": "https://www.begeek.fr/chatgpt-work-sinvite-dans-le-quotidien-des-salaries-duber-441776",
+      "url": "https://www.begeek.fr/chatgpt-work-sinvite-dans-le-quotidien-des-salaries-duber-441776",
+      "publishedAt": "2026-10-23T12:07:43.000Z",
+      "date": "2026-10-23T12:07:43.000Z",
+      "description": "ChatGPT Work s'invite dans le quotidien des salariés d'Uber. Uber... Les agents IA deviennent un nouveau défi de cybersécurité pour Microsoft.",
+      "excerpt": "ChatGPT Work s'invite dans le quotidien des salariés d'Uber. Uber... Les agents IA deviennent un nouveau défi de cybersécurité pour Microsoft.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Qu'est-ce que le PHP et pourquoi a-t-il déclenché une vague mondiale de mesures de cybersécurité",
       "link": "https://www.bbc.com/afrique/articles/cwzrd1egrgpxo",
@@ -107,26 +127,6 @@
       "date": "2026-10-22T19:37:52.000Z",
       "description": "OpenAI NASDAQ:OPENAI said on Thursday that Uber NYSE:UBER is rolling out ChatGPT... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
       "excerpt": "OpenAI NASDAQ:OPENAI said on Thursday that Uber NYSE:UBER is rolling out ChatGPT... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI Says Uber Announced Company-Wide Rollout Of ChatGPT Work Starting Today",
-      "link": "https://fr.tradingview.com/news/reuters.com,2026:newsml_FWN4682N5:0-openai-says-uber-announced-company-wide-rollout-of-chatgpt-work-starting-today/",
-      "url": "https://fr.tradingview.com/news/reuters.com,2026:newsml_FWN4682N5:0-openai-says-uber-announced-company-wide-rollout-of-chatgpt-work-starting-today/",
-      "publishedAt": "2026-10-22T19:00:31.000Z",
-      "date": "2026-10-22T19:00:31.000Z",
-      "description": "OpenAI Says Uber Announced Company-Wide Rollout Of ChatGPT Work Starting Today... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "excerpt": "OpenAI Says Uber Announced Company-Wide Rollout Of ChatGPT Work Starting Today... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Uber将向全球逾3万名员工部署 ChatGPT Work 从千人试点扩展至全公司 - TradingView",
-      "link": "https://fr.tradingview.com/news/gelonghui:6d97c2521e3f9:0/",
-      "url": "https://fr.tradingview.com/news/gelonghui:6d97c2521e3f9:0/",
-      "publishedAt": "2026-10-22T18:17:55.000Z",
-      "date": "2026-10-22T18:17:55.000Z",
-      "description": "... ｜OpenAI宣布，优步（Uber）将把 ChatGPT Work推广至全球逾3万名员工，... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "excerpt": "... ｜OpenAI宣布，优步（Uber）将把 ChatGPT Work推广至全球逾3万名员工，... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
