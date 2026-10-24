@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T02:33:36.787Z",
+  "generatedAt": "2026-10-24T09:59:50.243Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Agents IA sur Coinbase: ils tradent votre crypto - Journal du Coin",
+      "link": "https://journalducoin.com/technologies/agents-ia-coinbase-trader-crypto-banques/",
+      "url": "https://journalducoin.com/technologies/agents-ia-coinbase-trader-crypto-banques/",
+      "publishedAt": "2026-10-24T05:24:31.000Z",
+      "date": "2026-10-24T05:24:31.000Z",
+      "description": "Grok, ChatGPT, Claude: ces IA qui tradent votre crypto pendant que les banques paniquent... cybersécurité, la protection des investisseurs, les...",
+      "excerpt": "Grok, ChatGPT, Claude: ces IA qui tradent votre crypto pendant que les banques paniquent... cybersécurité, la protection des investisseurs, les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Torturer ChatGPT, quelle drôle d'idée!: Actualités - Orange",
       "link": "https://actu.orange.fr/videos/monde/torturer-chatgpt-quelle-drole-d-idee-CNT000002tm5yn.html",
@@ -117,16 +127,6 @@
       "date": "2026-10-23T08:01:06.000Z",
       "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... ChatGPT \"très bon sur les dialogues\", Grok très doué pour les scènes...",
       "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat · Bons... ChatGPT \"très bon sur les dialogues\", Grok très doué pour les scènes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Hébergez votre site créé par une IA avec o2switch - Clubic",
-      "link": "https://www.clubic.com/bons-plans-633523-vous-avez-cree-votre-site-avec-chatgpt-claude-ou-lovable-pensez-a-l-heberger-pour-le-mettre-en-ligne.html",
-      "url": "https://www.clubic.com/bons-plans-633523-vous-avez-cree-votre-site-avec-chatgpt-claude-ou-lovable-pensez-a-l-heberger-pour-le-mettre-en-ligne.html",
-      "publishedAt": "2026-10-23T07:00:41.000Z",
-      "date": "2026-10-23T07:00:41.000Z",
-      "description": "ChatGPT, Claude ou Lovable peuvent générer votre site, mais pas l... d'o2switch vous permet de coupler une cybersécurité et des technologies dès 1,86 €...",
-      "excerpt": "ChatGPT, Claude ou Lovable peuvent générer votre site, mais pas l... d'o2switch vous permet de coupler une cybersécurité et des technologies dès 1,86 €...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
