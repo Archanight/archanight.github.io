@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:04:20.723Z",
+  "generatedAt": "2026-10-24T19:58:49.378Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "\"Cette fois, les posts n'ont pas été écrits avec ChatGPT, mais avec les tripes\": après le 17...",
+      "link": "https://actu.orange.fr/france/cette-fois-les-posts-n-ont-pas-ete-ecrits-avec-chatgpt-mais-avec-les-tripes-apres-le-17-octobre-la-riposte-de-la-france-linkedin-l-express-CNT000002tnbsc.html",
+      "url": "https://actu.orange.fr/france/cette-fois-les-posts-n-ont-pas-ete-ecrits-avec-chatgpt-mais-avec-les-tripes-apres-le-17-octobre-la-riposte-de-la-france-linkedin-l-express-CNT000002tnbsc.html",
+      "publishedAt": "2026-10-24T19:22:12.000Z",
+      "date": "2026-10-24T19:22:12.000Z",
+      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Leurs messages qui, \"pour la première fois n'ont pas été écrits avec ChatGPT...",
+      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Leurs messages qui, \"pour la première fois n'ont pas été écrits avec ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "La Chine vient de dépasser ChatGPT: cette startup provoque un séisme dans l'IA en...",
       "link": "https://www.journaldugeek.com/2026/10/24/chine-depasser-chatgpt-startup-kimi-k3-1-pro/",
@@ -117,16 +127,6 @@
       "date": "2026-10-23T19:57:49.000Z",
       "description": "Deux failles critiques découvertes dans PHP illustrent les risques croissants que l'intelligence artificielle fait peser sur la cybersécurité.",
       "excerpt": "Deux failles critiques découvertes dans PHP illustrent les risques croissants que l'intelligence artificielle fait peser sur la cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Alerte, un nouvel infostealer s'intéresse grandement à vos comptes et sessions Claude...",
-      "link": "https://www.clubic.com/actualite-635734-alerte-un-nouvel-infostealer-s-interesse-grandement-a-vos-comptes-et-sessions-claude-chatgpt-et-copilot.html",
-      "url": "https://www.clubic.com/actualite-635734-alerte-un-nouvel-infostealer-s-interesse-grandement-a-vos-comptes-et-sessions-claude-chatgpt-et-copilot.html",
-      "publishedAt": "2026-10-23T14:18:44.000Z",
-      "date": "2026-10-23T14:18:44.000Z",
-      "description": "... ChatGPT ou GitHub Copilot. Le malware vise aussi les accès cloud et les... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom...",
-      "excerpt": "... ChatGPT ou GitHub Copilot. Le malware vise aussi les accès cloud et les... Cybersécurité · Logiciels & services · PC & Gaming · Mobile & Telecom...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
