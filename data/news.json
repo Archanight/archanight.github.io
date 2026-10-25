@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T15:16:20.255Z",
+  "generatedAt": "2026-10-25T20:09:02.647Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,86 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Google défend l'impact de ses résumés IA sur le trafic web - DCOD | Cybersécurité",
+      "link": "https://dcod.ch/2026/10/25/google-defend-limpact-de-ses-resumes-ia-sur-le-trafic-web/",
+      "url": "https://dcod.ch/2026/10/25/google-defend-limpact-de-ses-resumes-ia-sur-le-trafic-web/",
+      "publishedAt": "2026-10-25T17:02:46.000Z",
+      "date": "2026-10-25T17:02:46.000Z",
+      "description": "Des rédactions de presse ont enregistré des pertes de fréquentation notables face à la concurrence d'outils comme ChatGPT ou Copilot, entraînant des...",
+      "excerpt": "Des rédactions de presse ont enregistré des pertes de fréquentation notables face à la concurrence d'outils comme ChatGPT ou Copilot, entraînant des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le gouvernement suédois bloque ChatGPT et Claude, mais conserve Copilot",
+      "link": "https://www.notebookcheck.biz/Le-gouvernement-suedois-bloque-ChatGPT-et-Claude-mais-conserve-Copilot.1433572.0.html",
+      "url": "https://www.notebookcheck.biz/Le-gouvernement-suedois-bloque-ChatGPT-et-Claude-mais-conserve-Copilot.1433572.0.html",
+      "publishedAt": "2026-10-25T14:17:02.000Z",
+      "date": "2026-10-25T14:17:02.000Z",
+      "description": "À partir du 26 octobre, les services du gouvernement suédois bloquent ChatGPT et Claude sur les ordinateurs du personnel et orientent les employés...",
+      "excerpt": "À partir du 26 octobre, les services du gouvernement suédois bloquent ChatGPT et Claude sur les ordinateurs du personnel et orientent les employés...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "L'IA vient-elle de tuer les mathématiques?: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/l-ia-vient-elle-de-tuer-les-mathematiques-CNT000002tnI69.html",
+      "url": "https://actu.orange.fr/videos/high-tech/l-ia-vient-elle-de-tuer-les-mathematiques-CNT000002tnI69.html",
+      "publishedAt": "2026-10-25T12:20:45.000Z",
+      "date": "2026-10-25T12:20:45.000Z",
+      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... ChatGPT est déjà mort, mais OpenAI ne le sait pas encore. Tous publics...",
+      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... ChatGPT est déjà mort, mais OpenAI ne le sait pas encore. Tous publics...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA et cybersécurité: le modèle GLM-5.3 inquiète - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/385904/glm-5-3-intelligence-artificielle-cybersecurite/",
+      "url": "https://www.blog-nouvelles-technologies.fr/385904/glm-5-3-intelligence-artificielle-cybersecurite/",
+      "publishedAt": "2026-10-25T11:53:30.000Z",
+      "date": "2026-10-25T11:53:30.000Z",
+      "description": "175c0b8148 google gemini 3 la reponse frontale a gpt 5 saluee par sam... Summarize Qu'est-ce que ChatGPT? L'IA qui écoute, parle, voit et...",
+      "excerpt": "175c0b8148 google gemini 3 la reponse frontale a gpt 5 saluee par sam... Summarize Qu'est-ce que ChatGPT? L'IA qui écoute, parle, voit et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT: OpenAI explique comment son stockage évite qu'un gros usage ralentisse les autres",
+      "link": "https://www.menow.fr/chatgpt-openai-explique-comment-son-stockage-evite-quun-gros-usage-ralentisse-les-autres/",
+      "url": "https://www.menow.fr/chatgpt-openai-explique-comment-son-stockage-evite-quun-gros-usage-ralentisse-les-autres/",
+      "publishedAt": "2026-10-25T11:14:44.000Z",
+      "date": "2026-10-25T11:14:44.000Z",
+      "description": "ChatGPT: OpenAI explique comment... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
+      "excerpt": "ChatGPT: OpenAI explique comment... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Suède: Le gouvernement privilégie Copilot et bloque ChatGPT et Claude - TradingView",
+      "link": "https://fr.tradingview.com/news/cointribune:ac681687bb858:0/",
+      "url": "https://fr.tradingview.com/news/cointribune:ac681687bb858:0/",
+      "publishedAt": "2026-10-25T09:22:11.000Z",
+      "date": "2026-10-25T09:22:11.000Z",
+      "description": "La Suède bloque ChatGPT et Claude dans ses administrations, mais conserve Microsoft Copilot, illustrant... Conforme à SOC 2 Conforme au RGPD. Plus qu'...",
+      "excerpt": "La Suède bloque ChatGPT et Claude dans ses administrations, mais conserve Microsoft Copilot, illustrant... Conforme à SOC 2 Conforme au RGPD. Plus qu'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI dévoile des agents IA isolés qui se parlent via le cache du CPU - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/27007/openai-agents-ia-isoles-cache-processeur",
+      "url": "https://pasqualepillitteri.it/fr/news/27007/openai-agents-ia-isoles-cache-processeur",
+      "publishedAt": "2026-10-25T09:13:22.000Z",
+      "date": "2026-10-25T09:13:22.000Z",
+      "description": "OpenAI, la société de San Francisco qui développe ChatGPT, a utilisé ses modèles les plus puissants comme attaquants contre sa propre infrastructure d...",
+      "excerpt": "OpenAI, la société de San Francisco qui développe ChatGPT, a utilisé ses modèles les plus puissants comme attaquants contre sa propre infrastructure d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT permet aux utilisateurs de verrouiller leurs conversations à l'aide d'un code PIN.",
+      "link": "https://www.vietnam.vn/fr/chatgpt-cho-phep-nguoi-dung-khoa-cuoc-tro-chuyen-bang-ma-pin",
+      "url": "https://www.vietnam.vn/fr/chatgpt-cho-phep-nguoi-dung-khoa-cuoc-tro-chuyen-bang-ma-pin",
+      "publishedAt": "2026-10-25T08:04:21.000Z",
+      "date": "2026-10-25T08:04:21.000Z",
+      "description": "OpenAI facilite la protection de vos conversations ChatGPT contre les regards indiscrets grâce à une fonctionnalité appelée « conversations...",
+      "excerpt": "OpenAI facilite la protection de vos conversations ChatGPT contre les regards indiscrets grâce à une fonctionnalité appelée « conversations...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Abonnement IA: ChatGPT et Claude à 20 $/mois [2026] - shattered.io",
       "link": "https://shattered.io/fr/abonnement-ia-chatgpt-claude-gemini-prix-2026/",
@@ -47,86 +127,6 @@
       "date": "2026-10-24T19:22:12.000Z",
       "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Leurs messages qui, \"pour la première fois n'ont pas été écrits avec ChatGPT...",
       "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Leurs messages qui, \"pour la première fois n'ont pas été écrits avec ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La Chine vient de dépasser ChatGPT: cette startup provoque un séisme dans l'IA en...",
-      "link": "https://www.journaldugeek.com/2026/10/24/chine-depasser-chatgpt-startup-kimi-k3-1-pro/",
-      "url": "https://www.journaldugeek.com/2026/10/24/chine-depasser-chatgpt-startup-kimi-k3-1-pro/",
-      "publishedAt": "2026-10-24T13:23:28.000Z",
-      "date": "2026-10-24T13:23:28.000Z",
-      "description": "... ChatGPT et de Gemini... ChatGPT et de Gemini. La startup chinoise Moonshot AI vient de réaliser un nouvel exploit. Alors que les performances...",
-      "excerpt": "... ChatGPT et de Gemini... ChatGPT et de Gemini. La startup chinoise Moonshot AI vient de réaliser un nouvel exploit. Alors que les performances...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "« Un échec » cuisant pour la cybersécurité: pourquoi les failles PHP ont plongé une partie d...",
-      "link": "https://www.01net.com/actualites/echec-structurel-pourquoi-les-failles-php-ont-plonge-une-partie-dinternet-dans-le-noir.html",
-      "url": "https://www.01net.com/actualites/echec-structurel-pourquoi-les-failles-php-ont-plonge-une-partie-dinternet-dans-le-noir.html",
-      "publishedAt": "2026-10-24T13:22:30.000Z",
-      "date": "2026-10-24T13:22:30.000Z",
-      "description": "Quand une faille de sécurité est découverte, le monde de la cybersécurité suit un protocole bien précis: la « divulgation coordonnée ».... ChatGPT...",
-      "excerpt": "Quand une faille de sécurité est découverte, le monde de la cybersécurité suit un protocole bien précis: la « divulgation coordonnée ».... ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Code ChatGPT oublié: OpenAI prévient que le réinitialiser efface toutes vos conversations...",
-      "link": "https://selectra.info/telecom/actualites/marche/chatgpt-gratuit-conversation-verrouillee-code",
-      "url": "https://selectra.info/telecom/actualites/marche/chatgpt-gratuit-conversation-verrouillee-code",
-      "publishedAt": "2026-10-24T11:49:21.000Z",
-      "date": "2026-10-24T11:49:21.000Z",
-      "description": "ChatGPT verrouille vos conversations par un code à 4 chiffres, même en gratuit... D'après les notes de version d'OpenAI, le déploiement concerne les...",
-      "excerpt": "ChatGPT verrouille vos conversations par un code à 4 chiffres, même en gratuit... D'après les notes de version d'OpenAI, le déploiement concerne les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "IA et cybersécurité: les 6 réflexes que l'ANSSI et Cybermalveillance recommandent d...",
-      "link": "https://www.jechange.fr/telecom/internet/news/ia-cybersecurite-6-reflexes-anssi-cybermalveillance-adopter-des-aujourdhui",
-      "url": "https://www.jechange.fr/telecom/internet/news/ia-cybersecurite-6-reflexes-anssi-cybermalveillance-adopter-des-aujourdhui",
-      "publishedAt": "2026-10-24T11:35:32.000Z",
-      "date": "2026-10-24T11:35:32.000Z",
-      "description": "Début octobre, Sam Altman, cofondateur et patron d'OpenAI, l'éditeur de ChatGPT, annonçait déjà « une vague déferlante » de problèmes de cybersécurité...",
-      "excerpt": "Début octobre, Sam Altman, cofondateur et patron d'OpenAI, l'éditeur de ChatGPT, annonçait déjà « une vague déferlante » de problèmes de cybersécurité...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La Suède bloque ChatGPT et Claude, Copilot reste l'IA officielle - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/26747/suede-bloque-chatgpt-claude-gouvernement-copilot",
-      "url": "https://pasqualepillitteri.it/fr/news/26747/suede-bloque-chatgpt-claude-gouvernement-copilot",
-      "publishedAt": "2026-10-24T07:26:58.000Z",
-      "date": "2026-10-24T07:26:58.000Z",
-      "description": "Dès le 26 octobre, les services du gouvernement suédois bloquent ChatGPT et Claude sur les ordinateurs des agents et gardent Copilot.",
-      "excerpt": "Dès le 26 octobre, les services du gouvernement suédois bloquent ChatGPT et Claude sur les ordinateurs des agents et gardent Copilot.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Claude vs ChatGPT: Opus 5.5 à 4 $, Sol à 2 $ [2026] - shattered.io",
-      "link": "https://shattered.io/fr/claude-vs-chatgpt-opus-5-5-vs-gpt-6-1-sol-2026/",
-      "url": "https://shattered.io/fr/claude-vs-chatgpt-opus-5-5-vs-gpt-6-1-sol-2026/",
-      "publishedAt": "2026-10-24T07:18:32.000Z",
-      "date": "2026-10-24T07:18:32.000Z",
-      "description": "Pour tous les autres, l'accès courant garde des protections prudentes en cybersécurité.... GPT-5.2 rappelle que la résistance varie d'un modèle...",
-      "excerpt": "Pour tous les autres, l'accès courant garde des protections prudentes en cybersécurité.... GPT-5.2 rappelle que la résistance varie d'un modèle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Meilleure IA: 4 Chatbots, 6 Usages Testés [2026] - Tech Insider",
-      "link": "https://tech-insider.org/fr/meilleure-ia-chatbot-gpt-6-sol-opus-5-5-gemini-4-mistral-large-4-2026/",
-      "url": "https://tech-insider.org/fr/meilleure-ia-chatbot-gpt-6-sol-opus-5-5-gemini-4-mistral-large-4-2026/",
-      "publishedAt": "2026-10-24T06:44:36.000Z",
-      "date": "2026-10-24T06:44:36.000Z",
-      "description": "OpenAI le décrit comme une option pour ChatGPT Work et Codex, distincte des options de Chat.... cybersécurité, cloud, matériel et les tendances qui...",
-      "excerpt": "OpenAI le décrit comme une option pour ChatGPT Work et Codex, distincte des options de Chat.... cybersécurité, cloud, matériel et les tendances qui...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Agents IA sur Coinbase: ils tradent votre crypto - Journal du Coin",
-      "link": "https://journalducoin.com/technologies/agents-ia-coinbase-trader-crypto-banques/",
-      "url": "https://journalducoin.com/technologies/agents-ia-coinbase-trader-crypto-banques/",
-      "publishedAt": "2026-10-24T05:24:31.000Z",
-      "date": "2026-10-24T05:24:31.000Z",
-      "description": "Grok, ChatGPT, Claude: ces IA qui tradent votre crypto pendant que les banques paniquent... cybersécurité, la protection des investisseurs, les...",
-      "excerpt": "Grok, ChatGPT, Claude: ces IA qui tradent votre crypto pendant que les banques paniquent... cybersécurité, la protection des investisseurs, les...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
