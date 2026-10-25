@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T19:58:49.378Z",
+  "generatedAt": "2026-10-25T02:21:30.369Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -120,14 +120,14 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "« La situation va empirer »: après le chaos PHP, Anthropic prédit d'autres turbulences sur l...",
-      "link": "https://www.01net.com/actualites/la-situation-va-empirer-apres-le-chaos-php-anthropic-predit-dautres-turbulences-sur-linternet-mondial.html",
-      "url": "https://www.01net.com/actualites/la-situation-va-empirer-apres-le-chaos-php-anthropic-predit-dautres-turbulences-sur-linternet-mondial.html",
-      "publishedAt": "2026-10-23T19:57:49.000Z",
-      "date": "2026-10-23T19:57:49.000Z",
-      "description": "Deux failles critiques découvertes dans PHP illustrent les risques croissants que l'intelligence artificielle fait peser sur la cybersécurité.",
-      "excerpt": "Deux failles critiques découvertes dans PHP illustrent les risques croissants que l'intelligence artificielle fait peser sur la cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "title": "ChatGPT crée maintenant des calculatrices et des cartes #shorts - YouTube",
+      "link": "https://www.youtube.com/shorts/rl_EPPyooDI",
+      "url": "https://www.youtube.com/shorts/rl_EPPyooDI",
+      "publishedAt": "2026-10-23T20:17:11.000Z",
+      "date": "2026-10-23T20:17:11.000Z",
+      "description": "... notes de version de ChatGPT (7 octobre 2026: GPT-6 avec Intelligent UI; Luna, Sol, Astra): https://help.openai.com/en/articles/6825453- chatgpt...",
+      "excerpt": "... notes de version de ChatGPT (7 octobre 2026: GPT-6 avec Intelligent UI; Luna, Sol, Astra): https://help.openai.com/en/articles/6825453- chatgpt...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
