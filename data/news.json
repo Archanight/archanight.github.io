@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:09:02.647Z",
+  "generatedAt": "2026-10-26T02:21:22.296Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Neowin rapporte la disponibilité complète de Windows 11 26H2 - NeoTeo",
+      "link": "https://www.neoteo.com/fr/neowin-rapporte-la-disponibilite-complete-de-windows-11-26h2",
+      "url": "https://www.neoteo.com/fr/neowin-rapporte-la-disponibilite-complete-de-windows-11-26h2",
+      "publishedAt": "2026-10-25T21:12:17.000Z",
+      "date": "2026-10-25T21:12:17.000Z",
+      "description": "Pour vérifier si la mise à jour est proposée sur votre PC, ouvrez Paramètres > Windows Update.... OpenAI a annoncé 26 pays supplémentaires pour ChatGPT...",
+      "excerpt": "Pour vérifier si la mise à jour est proposée sur votre PC, ouvrez Paramètres > Windows Update.... OpenAI a annoncé 26 pays supplémentaires pour ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Google défend l'impact de ses résumés IA sur le trafic web - DCOD | Cybersécurité",
       "link": "https://dcod.ch/2026/10/25/google-defend-limpact-de-ses-resumes-ia-sur-le-trafic-web/",
@@ -70,6 +80,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Suède: Le gouvernement privilégie Copilot et bloque ChatGPT et Claude - TradingView",
+      "link": "https://www.tradingview.com/news/cointribune:ac681687bb858:0",
+      "url": "https://www.tradingview.com/news/cointribune:ac681687bb858:0",
+      "publishedAt": "2026-10-25T09:14:49.000Z",
+      "date": "2026-10-25T09:14:49.000Z",
+      "description": "La Suède bloque ChatGPT et Claude dans ses administrations, mais conserve Microsoft Copilot, illustrant... SOC 2 Compliant GDPR Compliant. More than a...",
+      "excerpt": "La Suède bloque ChatGPT et Claude dans ses administrations, mais conserve Microsoft Copilot, illustrant... SOC 2 Compliant GDPR Compliant. More than a...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "OpenAI dévoile des agents IA isolés qui se parlent via le cache du CPU - Pasquale Pillitteri",
       "link": "https://pasqualepillitteri.it/fr/news/27007/openai-agents-ia-isoles-cache-processeur",
       "url": "https://pasqualepillitteri.it/fr/news/27007/openai-agents-ia-isoles-cache-processeur",
@@ -107,26 +127,6 @@
       "date": "2026-10-25T07:03:01.000Z",
       "description": "Les bureaux du gouvernement suédois bannissent ChatGPT et Claude pour limiter les risques liés aux données. Microsoft Copilot reste autorisé après un...",
       "excerpt": "Les bureaux du gouvernement suédois bannissent ChatGPT et Claude pour limiter les risques liés aux données. Microsoft Copilot reste autorisé après un...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA pour Étudiants: GPT-6, Claude 5.5, Gemini 4 [2026] - Tech Insider",
-      "link": "https://tech-insider.org/fr/ia-pour-etudiants-chatgpt-claude-gemini-mistral-2026/",
-      "url": "https://tech-insider.org/fr/ia-pour-etudiants-chatgpt-claude-gemini-mistral-2026/",
-      "publishedAt": "2026-10-25T06:43:39.000Z",
-      "date": "2026-10-25T06:43:39.000Z",
-      "description": "Mistral a présenté Mistral Large 4 le 6 octobre 2026, OpenAI a lancé le déploiement de GPT-6 dans ChatGPT... Un guide qui prend encore GPT-5, Claude 4...",
-      "excerpt": "Mistral a présenté Mistral Large 4 le 6 octobre 2026, OpenAI a lancé le déploiement de GPT-6 dans ChatGPT... Un guide qui prend encore GPT-5, Claude 4...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "\"Cette fois, les posts n'ont pas été écrits avec ChatGPT, mais avec les tripes\": après le 17...",
-      "link": "https://actu.orange.fr/france/cette-fois-les-posts-n-ont-pas-ete-ecrits-avec-chatgpt-mais-avec-les-tripes-apres-le-17-octobre-la-riposte-de-la-france-linkedin-l-express-CNT000002tnbsc.html",
-      "url": "https://actu.orange.fr/france/cette-fois-les-posts-n-ont-pas-ete-ecrits-avec-chatgpt-mais-avec-les-tripes-apres-le-17-octobre-la-riposte-de-la-france-linkedin-l-express-CNT000002tnbsc.html",
-      "publishedAt": "2026-10-24T19:22:12.000Z",
-      "date": "2026-10-24T19:22:12.000Z",
-      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Leurs messages qui, \"pour la première fois n'ont pas été écrits avec ChatGPT...",
-      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Leurs messages qui, \"pour la première fois n'ont pas été écrits avec ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
