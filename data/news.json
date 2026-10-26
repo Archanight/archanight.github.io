@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T17:55:35.842Z",
+  "generatedAt": "2026-10-26T22:07:17.859Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT, emploi, santé: un expert décrypte les enjeux de l'intelligence artificielle",
+      "link": "https://actu.orange.fr/videos/actu-locale/chatgpt-emploi-sante-un-expert-decrypte-les-enjeux-de-l-intelligence-artificielle-CNT000002toK5S.html",
+      "url": "https://actu.orange.fr/videos/actu-locale/chatgpt-emploi-sante-un-expert-decrypte-les-enjeux-de-l-intelligence-artificielle-CNT000002toK5S.html",
+      "publishedAt": "2026-10-26T18:13:12.000Z",
+      "date": "2026-10-26T18:13:12.000Z",
+      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... ChatGPT, emploi, santé: un expert décrypte les enjeux de l...",
+      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... ChatGPT, emploi, santé: un expert décrypte les enjeux de l...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Après de multiples dérapages, OpenAI entraîne désormais ses modèles de pointe dans un... - BFM",
       "link": "https://www.bfmtv.com/tech/cybersecurite/apres-de-multiples-derapages-open-ai-entraine-desormais-ses-modeles-de-pointe-dans-un-monde-hors-ligne-mais-ses-agents-ia-ont-malgre-tout-reussi-a-s-en-echapper-pour-acceder-a-internet_AV-202610260424.html",
@@ -60,6 +70,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
+      "title": "Fail2ban CVE -2026-109786: 13 Étapes, 60 Min [2026] - shattered.io",
+      "link": "https://shattered.io/fr/fail2ban-cve-2026-109786-filtre-sshd-tutoriel-2026/",
+      "url": "https://shattered.io/fr/fail2ban-cve-2026-109786-filtre-sshd-tutoriel-2026/",
+      "publishedAt": "2026-10-26T13:58:59.000Z",
+      "date": "2026-10-26T13:58:59.000Z",
+      "description": "Fail2ban CVE -2026-109786: 13 Étapes, 60 Min [2026]. Marcus... ChatGPT ou Gemini pour étudier: 3 IA, Plus à 20 $ [2026] · Netflix...",
+      "excerpt": "Fail2ban CVE -2026-109786: 13 Étapes, 60 Min [2026]. Marcus... ChatGPT ou Gemini pour étudier: 3 IA, Plus à 20 $ [2026] · Netflix...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
       "title": "Ce pays européen vient de bloquer ChatGPT et Claude dans ses ministères - PhonAndroid",
       "link": "https://www.phonandroid.com/ce-pays-europeen-vient-de-bloquer-chatgpt-et-claude-dans-ses-ministeres.html",
       "url": "https://www.phonandroid.com/ce-pays-europeen-vient-de-bloquer-chatgpt-et-claude-dans-ses-ministeres.html",
@@ -107,26 +127,6 @@
       "date": "2026-10-26T09:08:18.000Z",
       "description": "Zeina Zakhour, vice-présidente et Global CTO d'Eviden, la branche cybersécurité... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
       "excerpt": "Zeina Zakhour, vice-présidente et Global CTO d'Eviden, la branche cybersécurité... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT ou Gemini pour étudier: 3 IA comparées [2026] - shattered.io",
-      "link": "https://shattered.io/fr/chatgpt-ou-gemini-ou-claude-etudiants-france-2026/",
-      "url": "https://shattered.io/fr/chatgpt-ou-gemini-ou-claude-etudiants-france-2026/",
-      "publishedAt": "2026-10-26T06:50:30.000Z",
-      "date": "2026-10-26T06:50:30.000Z",
-      "description": "... cybersécurité et à des testeurs de confiance, avant le déploiement mondial.... ChatGPT Business, ancien ChatGPT Team renommé le 29 août 2025...",
-      "excerpt": "... cybersécurité et à des testeurs de confiance, avant le déploiement mondial.... ChatGPT Business, ancien ChatGPT Team renommé le 29 août 2025...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Kimi K3.1 Pro: ce que mesure le test de cybersécurité de Moonshot - NeoTeo",
-      "link": "https://www.neoteo.com/fr/kimi-k31-pro-ce-que-mesure-le-test-de-cybersecurite-de-moonshot",
-      "url": "https://www.neoteo.com/fr/kimi-k31-pro-ce-que-mesure-le-test-de-cybersecurite-de-moonshot",
-      "publishedAt": "2026-10-26T05:15:54.000Z",
-      "date": "2026-10-26T05:15:54.000Z",
-      "description": "Kimi K3.1 Pro: ce que mesure le test de cybersécurité de Moonshot · 01 Les changements d'entraînement décrits par Moonshot · 02 Ce que mesure xdev-...",
-      "excerpt": "Kimi K3.1 Pro: ce que mesure le test de cybersécurité de Moonshot · 01 Les changements d'entraînement décrits par Moonshot · 02 Ce que mesure xdev-...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
