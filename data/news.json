@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T17:02:19.669Z",
+  "generatedAt": "2026-10-27T21:36:38.855Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Oracle connecte ses apps à ChatGPT et ajoute des offres OpenAI - Brief IA",
+      "link": "https://www.briefia.fr/article/oracle-connecte-ses-apps-a-chatgpt-et-ajoute-des-offres-openai",
+      "url": "https://www.briefia.fr/article/oracle-connecte-ses-apps-a-chatgpt-et-ajoute-des-offres-openai",
+      "publishedAt": "2026-10-27T19:22:40.000Z",
+      "date": "2026-10-27T19:22:40.000Z",
+      "description": "... ChatGPT et plus de 95 000 de Codex. Cette collaboration facilite... cybersécurité L'accord s'inscrit dans la stratégie partenaires d'OpenAI...",
+      "excerpt": "... ChatGPT et plus de 95 000 de Codex. Cette collaboration facilite... cybersécurité L'accord s'inscrit dans la stratégie partenaires d'OpenAI...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ESET sécurise les usages de l'IA des particuliers et des petites entreprises",
+      "link": "https://www.eset.com/fr/about/newsroom/press-releases/produits/eset-protection-ia-particuliers-petites-entreprises/",
+      "url": "https://www.eset.com/fr/about/newsroom/press-releases/produits/eset-protection-ia-particuliers-petites-entreprises/",
+      "publishedAt": "2026-10-27T19:13:36.000Z",
+      "date": "2026-10-27T19:13:36.000Z",
+      "description": "Sécurité des conversations avec l'IA: Cette technologie protège les échanges entre les utilisateurs et ChatGPT... cybersécurité intégrant un...",
+      "excerpt": "Sécurité des conversations avec l'IA: Cette technologie protège les échanges entre les utilisateurs et ChatGPT... cybersécurité intégrant un...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Oracle élargit son partenariat avec OpenAI avec quatre offres d'IA pour les entreprises",
+      "link": "https://www.unite.ai/fr/oracle-expands-openai-partnership-with-four-enterprise-ai-offerings/",
+      "url": "https://www.unite.ai/fr/oracle-expands-openai-partnership-with-four-enterprise-ai-offerings/",
+      "publishedAt": "2026-10-27T19:11:02.000Z",
+      "date": "2026-10-27T19:11:02.000Z",
+      "description": "... ChatGPT et Codex avec les applications, les données et l'infrastructure... cybersécurité et la création d'entreprises. Dans un aperçu de ces...",
+      "excerpt": "... ChatGPT et Codex avec les applications, les données et l'infrastructure... cybersécurité et la création d'entreprises. Dans un aperçu de ces...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI frappe fort avec GPT-6.1 Terra, une IA aussi redoutable qu'économique pour...",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/openai-frappe-fort-avec-gpt-6-1-terra-une-ia-aussi-redoutable-qu-economique-pour-automatiser-vos-taches-n263835.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/openai-frappe-fort-avec-gpt-6-1-terra-une-ia-aussi-redoutable-qu-economique-pour-automatiser-vos-taches-n263835.html",
+      "publishedAt": "2026-10-27T16:19:24.000Z",
+      "date": "2026-10-27T16:19:24.000Z",
+      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Présentation de GPT-6.1 Terra - OpenAI",
+      "link": "https://openai.com/fr-FR/index/introducing-gpt-6-1-terra/",
+      "url": "https://openai.com/fr-FR/index/introducing-gpt-6-1-terra/",
+      "publishedAt": "2026-10-27T16:16:18.000Z",
+      "date": "2026-10-27T16:16:18.000Z",
+      "description": "Dans ChatGPT Work et Codex, votre forfait vous permet d'aller plus loin... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "excerpt": "Dans ChatGPT Work et Codex, votre forfait vous permet d'aller plus loin... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "PROMAN recrute sur ChatGPT, mais l'IA n'a pas grand-chose à voir avec l'embauche",
       "link": "https://www.solutions-numeriques.com/proman-recrute-sur-chatgpt-mais-lia-na-pas-grand-chose-a-voir-avec-lembauche/",
@@ -65,9 +115,9 @@
       "url": "https://itsocial.fr/cybersecurite/cybersecurite-articles/openai-gpt-6-1-terra-ouvre-lautomatisation-du-poste-de-travail-a-tous-les-abonnes-professionnels/",
       "publishedAt": "2026-10-27T14:12:59.000Z",
       "date": "2026-10-27T14:12:59.000Z",
-      "description": "Cybersécurité Cybersécurité - Articles OpenAI GPT-6.1 Terra ouvre l... ChatGPT Work et dans Codex, l'environnement de développement de l...",
-      "excerpt": "Cybersécurité Cybersécurité - Articles OpenAI GPT-6.1 Terra ouvre l... ChatGPT Work et dans Codex, l'environnement de développement de l...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "description": "... ChatGPT Work et dans Codex, l'environnement de développement de l... OpenAI décrit ces leviers dans les notes de version de ChatGPT Enterprise.",
+      "excerpt": "... ChatGPT Work et dans Codex, l'environnement de développement de l... OpenAI décrit ces leviers dans les notes de version de ChatGPT Enterprise.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "GPT-6.1 Terra: performances, tarifs et disponibilité du nouveau modèle d'OpenAI - BDM",
@@ -77,56 +127,6 @@
       "date": "2026-10-27T13:58:00.000Z",
       "description": "... ChatGPT Work et Codex, avant d'être rendu disponible dans ChatGPT. Tap... cybersécurité, soit le niveau le plus élevé de la grille interne d...",
       "excerpt": "... ChatGPT Work et Codex, avant d'être rendu disponible dans ChatGPT. Tap... cybersécurité, soit le niveau le plus élevé de la grille interne d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Présentation de GPT-6.1 Terra - OpenAI",
-      "link": "https://openai.com/fr-FR/index/introducing-gpt-6-1-terra/",
-      "url": "https://openai.com/fr-FR/index/introducing-gpt-6-1-terra/",
-      "publishedAt": "2026-10-27T13:15:51.000Z",
-      "date": "2026-10-27T13:15:51.000Z",
-      "description": "Dans ChatGPT Work et Codex, votre forfait vous permet d'aller plus loin... GPT‑6.1 Terra atteint le seuil critique en cybersécurité défini...",
-      "excerpt": "Dans ChatGPT Work et Codex, votre forfait vous permet d'aller plus loin... GPT‑6.1 Terra atteint le seuil critique en cybersécurité défini...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Chatbot IA: 5 Assistants, Le Chat Devient Vibe [2026] - Tech Insider",
-      "link": "https://tech-insider.org/fr/chatbot-ia-le-chat-devient-vibe-chatgpt-claude-gemini-perplexity-2026/",
-      "url": "https://tech-insider.org/fr/chatbot-ia-le-chat-devient-vibe-chatgpt-claude-gemini-perplexity-2026/",
-      "publishedAt": "2026-10-27T11:34:37.000Z",
-      "date": "2026-10-27T11:34:37.000Z",
-      "description": "Actualités TechIA & Apprentissage AutomatiqueGamingMatériel Cybersécurité... OpenAI distingue ChatGPT, ChatGPT Work et Codex. Google empile l...",
-      "excerpt": "Actualités TechIA & Apprentissage AutomatiqueGamingMatériel Cybersécurité... OpenAI distingue ChatGPT, ChatGPT Work et Codex. Google empile l...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance GPT-6.1 Terra, moitié moins cher dans l'API - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-lance-gpt-6-1-terra-moitie-moins-cher-dans-l-api",
-      "url": "https://www.briefia.fr/article/openai-lance-gpt-6-1-terra-moitie-moins-cher-dans-l-api",
-      "publishedAt": "2026-10-27T11:15:45.000Z",
-      "date": "2026-10-27T11:15:45.000Z",
-      "description": "Le déploiement prévoit une mise à disposition dans ChatGPT après ChatGPT Work et Codex.... Niveau « critique » en cybersécurité et garde-fous d'Astra.",
-      "excerpt": "Le déploiement prévoit une mise à disposition dans ChatGPT après ChatGPT Work et Codex.... Niveau « critique » en cybersécurité et garde-fous d'Astra.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Privatim durcit l'usage du Cloud dans l'administration suisse - DCOD | Cybersécurité",
-      "link": "https://dcod.ch/2026/10/27/privatim-usage-du-cloud/",
-      "url": "https://dcod.ch/2026/10/27/privatim-usage-du-cloud/",
-      "publishedAt": "2026-10-27T09:31:09.000Z",
-      "date": "2026-10-27T09:31:09.000Z",
-      "description": "OpenAI permet de cibler les utilisateurs de ChatGPT par e-mail. ‹ › Des... Cybersécurité: tests d'intrusion des systèmes d'informations web...",
-      "excerpt": "OpenAI permet de cibler les utilisateurs de ChatGPT par e-mail. ‹ › Des... Cybersécurité: tests d'intrusion des systèmes d'informations web...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le pdg d'Open AI Sam Altman: \"Je ne trouve pas les mots pour décrire ce qui nous attend\"",
-      "link": "https://www.purepeople.com/diapo/sam-altman-patron-dopenai-je-ne-trouve-pas-de-mot-assez-fort-pour-decrire-lampleur-de-ce-qui-nous-attend_a555537/1",
-      "url": "https://www.purepeople.com/diapo/sam-altman-patron-dopenai-je-ne-trouve-pas-de-mot-assez-fort-pour-decrire-lampleur-de-ce-qui-nous-attend_a555537/1",
-      "publishedAt": "2026-10-27T07:31:24.000Z",
-      "date": "2026-10-27T07:31:24.000Z",
-      "description": "... ChatGPT et DALL·E, assiste à la 12e cérémonie des Breakthrough Prize... Les dispositifs de cybersécurité doivent évoluer. Sam Altman assiste...",
-      "excerpt": "... ChatGPT et DALL·E, assiste à la 12e cérémonie des Breakthrough Prize... Les dispositifs de cybersécurité doivent évoluer. Sam Altman assiste...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
