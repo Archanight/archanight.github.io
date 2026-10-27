@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:07:17.859Z",
+  "generatedAt": "2026-10-27T02:56:51.903Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "link": "https://openai.com/fr-FR/index/fanatics-streamline-fan-experience/",
+      "url": "https://openai.com/fr-FR/index/fanatics-streamline-fan-experience/",
+      "publishedAt": "2026-10-26T22:00:52.000Z",
+      "date": "2026-10-26T22:00:52.000Z",
+      "description": "Fanatics, a global digital sports platform, uses ChatGPT Work and Codex... How OpenAI uses Codex Ultrafast for faster incident response.",
+      "excerpt": "Fanatics, a global digital sports platform, uses ChatGPT Work and Codex... How OpenAI uses Codex Ultrafast for faster incident response.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le Tech Flash: Anthropic se prépare à entrer en bourse par Léa Benaim - 26/10: Actualités",
+      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-anthropic-se-prepare-a-entrer-en-bourse-par-lea-benaim-26-10-CNT000002toOEG.html",
+      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-anthropic-se-prepare-a-entrer-en-bourse-par-lea-benaim-26-10-CNT000002toOEG.html",
+      "publishedAt": "2026-10-26T21:47:19.000Z",
+      "date": "2026-10-26T21:47:19.000Z",
+      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone... Le Tech Flash: ChatGPT et Copilot évincés de WhatsApp, par Léa Benaim - 26/11.",
+      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone... Le Tech Flash: ChatGPT et Copilot évincés de WhatsApp, par Léa Benaim - 26/11.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Secutec nomme Nico Bosschaert au poste de Global Channel Strategy Lead - ITRnews",
+      "link": "https://itrnews.com/articles/211419/secutec-nomme-nico-bosschaert-au-poste-de-global-channel-strategy-lead.html",
+      "url": "https://itrnews.com/articles/211419/secutec-nomme-nico-bosschaert-au-poste-de-global-channel-strategy-lead.html",
+      "publishedAt": "2026-10-26T21:29:10.000Z",
+      "date": "2026-10-26T21:29:10.000Z",
+      "description": "Fruit de deux ans et demi de R&D et de l'expertise de douze ingénieurs, ce centre d'opération névralgique en cybersécurité ( SOC ) devrait accélérer la...",
+      "excerpt": "Fruit de deux ans et demi de R&D et de l'expertise de douze ingénieurs, ce centre d'opération névralgique en cybersécurité ( SOC ) devrait accélérer la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT, emploi, santé: un expert décrypte les enjeux de l'intelligence artificielle",
       "link": "https://actu.orange.fr/videos/actu-locale/chatgpt-emploi-sante-un-expert-decrypte-les-enjeux-de-l-intelligence-artificielle-CNT000002toK5S.html",
@@ -98,36 +128,6 @@
       "description": "Stockholm retire ChatGPT et Claude aux fonctionnaires, mais maintient Microsoft Copilot sous contrôles renforcés, après un audit de l'agence des...",
       "excerpt": "Stockholm retire ChatGPT et Claude aux fonctionnaires, mais maintient Microsoft Copilot sous contrôles renforcés, après un audit de l'agence des...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Comcast perd 144 000 clients haut débit et confirme une restructuration - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/27297/comcast-144000-clients-haut-debit-coupes-ia-fr",
-      "url": "https://pasqualepillitteri.it/fr/news/27297/comcast-144000-clients-haut-debit-coupes-ia-fr",
-      "publishedAt": "2026-10-26T11:05:42.000Z",
-      "date": "2026-10-26T11:05:42.000Z",
-      "description": "Les plus lus; Anthropic; Cybersécurité; Infrastructure Agents IA; Open Source...",
-      "excerpt": "Les plus lus; Anthropic; Cybersécurité; Infrastructure Agents IA; Open Source...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Fiché à votre insu, ChatGPT construit votre profil psychologique en silence - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6384299-fiche-a-votre-insu-chatgpt-construit-votre-profil-psychologique-en-silence-voici-ce-qu-il-sait-de-vous-sans-vous-l-avoir-demande",
-      "url": "https://www.lefilia.fr/article/6384299-fiche-a-votre-insu-chatgpt-construit-votre-profil-psychologique-en-silence-voici-ce-qu-il-sait-de-vous-sans-vous-l-avoir-demande",
-      "publishedAt": "2026-10-26T09:08:18.000Z",
-      "date": "2026-10-26T09:08:18.000Z",
-      "description": "Une étude présentée à l'ACM Web Conference 2026 a analysé les souvenirs que ChatGPT conserve sur ses utilisateurs. Les chercheurs ont examiné 2...",
-      "excerpt": "Une étude présentée à l'ACM Web Conference 2026 a analysé les souvenirs que ChatGPT conserve sur ses utilisateurs. Les chercheurs ont examiné 2...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Zeina Zakhour (Atos): « La cybersécurité doit fonctionner à la vitesse de l'IA - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6384600-zeina-zakhour-atos-la-cybersecurite-doit-fonctionner-a-la-vitesse-de-l-ia",
-      "url": "https://www.lefilia.fr/article/6384600-zeina-zakhour-atos-la-cybersecurite-doit-fonctionner-a-la-vitesse-de-l-ia",
-      "publishedAt": "2026-10-26T09:08:18.000Z",
-      "date": "2026-10-26T09:08:18.000Z",
-      "description": "Zeina Zakhour, vice-présidente et Global CTO d'Eviden, la branche cybersécurité... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
-      "excerpt": "Zeina Zakhour, vice-présidente et Global CTO d'Eviden, la branche cybersécurité... GPT-5 DeepSeekDeepSeek V4GeminiMistral AIMeta IAApple Intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
