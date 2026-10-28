@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T21:36:38.855Z",
+  "generatedAt": "2026-10-28T03:06:29.456Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -38,6 +38,16 @@
       "description": "... ChatGPT et Codex avec les applications, les données et l'infrastructure... cybersécurité et la création d'entreprises. Dans un aperçu de ces...",
       "excerpt": "... ChatGPT et Codex avec les applications, les données et l'infrastructure... cybersécurité et la création d'entreprises. Dans un aperçu de ces...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT se connecte désormais aux e-mails et calendrier d'iCloud - iPhoneAddict",
+      "link": "https://iphoneaddict.fr/post/news-438464-chatgpt-connecte-desormais-e-mails-calendrier-dicloud",
+      "url": "https://iphoneaddict.fr/post/news-438464-chatgpt-connecte-desormais-e-mails-calendrier-dicloud",
+      "publishedAt": "2026-10-27T19:01:17.000Z",
+      "date": "2026-10-27T19:01:17.000Z",
+      "description": "... ChatGPT. Ask ChatGPT to find that email, catch up on your inbox, check what's next, or update a calendar event. Phew. Available on all ChatGPT...",
+      "excerpt": "... ChatGPT. Ask ChatGPT to find that email, catch up on your inbox, check what's next, or update a calendar event. Phew. Available on all ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "OpenAI frappe fort avec GPT-6.1 Terra, une IA aussi redoutable qu'économique pour...",
@@ -118,16 +128,6 @@
       "description": "... ChatGPT Work et dans Codex, l'environnement de développement de l... OpenAI décrit ces leviers dans les notes de version de ChatGPT Enterprise.",
       "excerpt": "... ChatGPT Work et dans Codex, l'environnement de développement de l... OpenAI décrit ces leviers dans les notes de version de ChatGPT Enterprise.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "GPT-6.1 Terra: performances, tarifs et disponibilité du nouveau modèle d'OpenAI - BDM",
-      "link": "https://www.blogdumoderateur.com/gpt-6-1-terra-performances-tarifs-disponibilite/",
-      "url": "https://www.blogdumoderateur.com/gpt-6-1-terra-performances-tarifs-disponibilite/",
-      "publishedAt": "2026-10-27T13:58:00.000Z",
-      "date": "2026-10-27T13:58:00.000Z",
-      "description": "... ChatGPT Work et Codex, avant d'être rendu disponible dans ChatGPT. Tap... cybersécurité, soit le niveau le plus élevé de la grille interne d...",
-      "excerpt": "... ChatGPT Work et Codex, avant d'être rendu disponible dans ChatGPT. Tap... cybersécurité, soit le niveau le plus élevé de la grille interne d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
