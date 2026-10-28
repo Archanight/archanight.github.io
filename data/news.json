@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T03:06:29.456Z",
+  "generatedAt": "2026-10-28T11:50:42.314Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,46 @@
   "failedSources": [],
   "items": [
     {
+      "title": "ChatGPT, Gemini, Meta AI: l'Europe prépare un passe-droit des IA sur vos données",
+      "link": "https://www.01net.com/actualites/chatgpt-gemini-meta-ai-leurope-prepare-un-passe-droit-des-ia-sur-vos-donnees.html",
+      "url": "https://www.01net.com/actualites/chatgpt-gemini-meta-ai-leurope-prepare-un-passe-droit-des-ia-sur-vos-donnees.html",
+      "publishedAt": "2026-10-28T06:47:42.000Z",
+      "date": "2026-10-28T06:47:42.000Z",
+      "description": "ChatGPT, Gemini, Meta AI: l'Europe prépare un passe-droit des IA... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
+      "excerpt": "ChatGPT, Gemini, Meta AI: l'Europe prépare un passe-droit des IA... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Elle avait demandé conseil à ChatGPT pour son épilepsie, sa famille accuse OpenAI de sa mort",
+      "link": "https://www.clubic.com/actualite-636286-elle-avait-demande-conseil-a-chatgpt-pour-son-epilepsie-sa-famille-accuse-openai-de-sa-mort.html",
+      "url": "https://www.clubic.com/actualite-636286-elle-avait-demande-conseil-a-chatgpt-pour-son-epilepsie-sa-famille-accuse-openai-de-sa-mort.html",
+      "publishedAt": "2026-10-28T06:24:26.000Z",
+      "date": "2026-10-28T06:24:26.000Z",
+      "description": "... ChatGPT pour son épilepsie, sa famille accuse OpenAI de sa mort. ParMélina LoupiaJournaliste rédactrice, spécialiste tech et cybersécurité. Publié...",
+      "excerpt": "... ChatGPT pour son épilepsie, sa famille accuse OpenAI de sa mort. ParMélina LoupiaJournaliste rédactrice, spécialiste tech et cybersécurité. Publié...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Pourquoi la Suède bloque ChatGPT et Claude au gouvernement mais garde Copilot",
+      "link": "https://android-mt.ouest-france.fr/news/pourquoi-la-suede-bloque-chatgpt-et-claude-au-gouvernement-mais-garde-copilot/227687/",
+      "url": "https://android-mt.ouest-france.fr/news/pourquoi-la-suede-bloque-chatgpt-et-claude-au-gouvernement-mais-garde-copilot/227687/",
+      "publishedAt": "2026-10-28T05:32:10.000Z",
+      "date": "2026-10-28T05:32:10.000Z",
+      "description": "... cybersécurité et de protection des données, selon TechRadar. Ce que ça change pour les équipes IT. La restriction ne concerne que les ordinateurs...",
+      "excerpt": "... cybersécurité et de protection des données, selon TechRadar. Ce que ça change pour les équipes IT. La restriction ne concerne que les ordinateurs...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Check Point: recherche de failles accélérée avec Daybreak - OpenAI",
+      "link": "https://openai.com/fr-FR/index/check-point-daybreak/",
+      "url": "https://openai.com/fr-FR/index/check-point-daybreak/",
+      "publishedAt": "2026-10-28T03:03:02.000Z",
+      "date": "2026-10-28T03:03:02.000Z",
+      "description": "« OpenAI met une intelligence de pointe en cybersécurité entre les mains des équipes de défense et permet à des entreprises comme Check Point de l'...",
+      "excerpt": "« OpenAI met une intelligence de pointe en cybersécurité entre les mains des équipes de défense et permet à des entreprises comme Check Point de l'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Oracle connecte ses apps à ChatGPT et ajoute des offres OpenAI - Brief IA",
       "link": "https://www.briefia.fr/article/oracle-connecte-ses-apps-a-chatgpt-et-ajoute-des-offres-openai",
       "url": "https://www.briefia.fr/article/oracle-connecte-ses-apps-a-chatgpt-et-ajoute-des-offres-openai",
@@ -18,6 +58,16 @@
       "description": "... ChatGPT et plus de 95 000 de Codex. Cette collaboration facilite... cybersécurité L'accord s'inscrit dans la stratégie partenaires d'OpenAI...",
       "excerpt": "... ChatGPT et plus de 95 000 de Codex. Cette collaboration facilite... cybersécurité L'accord s'inscrit dans la stratégie partenaires d'OpenAI...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "PHP: Critical Vulnerability, Site Withdrawals, and Hacker Rush - Brief IA",
+      "link": "https://www.briefia.fr/en/article/php-critical-vulnerability-site-withdrawals-and-hacker-rush",
+      "url": "https://www.briefia.fr/en/article/php-critical-vulnerability-site-withdrawals-and-hacker-rush",
+      "publishedAt": "2026-10-27T19:22:39.000Z",
+      "date": "2026-10-27T19:22:39.000Z",
+      "description": "Models & LLM ·Tom Levy· October 26, 2026. PHP: Critical Vulnerability... critical vulnerability in PHP has led to urgent patches and temporary site...",
+      "excerpt": "Models & LLM ·Tom Levy· October 26, 2026. PHP: Critical Vulnerability... critical vulnerability in PHP has led to urgent patches and temporary site...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     },
     {
       "title": "ESET sécurise les usages de l'IA des particuliers et des petites entreprises",
@@ -78,56 +128,6 @@
       "description": "... ChatGPT. Contacté par Solutions Numériques & Cybersécurité, PROMAN a été sollicité pour préciser les premiers résultats de l'opération, notamment...",
       "excerpt": "... ChatGPT. Contacté par Solutions Numériques & Cybersécurité, PROMAN a été sollicité pour préciser les premiers résultats de l'opération, notamment...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Anthropic: des agents IA découvrent des failles internes - BlogNT",
-      "link": "https://www.blog-nouvelles-technologies.fr/390121/anthropic-agents-ia-failles-cybersecurite/",
-      "url": "https://www.blog-nouvelles-technologies.fr/390121/anthropic-agents-ia-failles-cybersecurite/",
-      "publishedAt": "2026-10-27T15:17:27.000Z",
-      "date": "2026-10-27T15:17:27.000Z",
-      "description": "Anthropic, l'entreprise à l'origine de Claude, est confrontée à un problème de cybersécurité... ChatGPT Image 16 mars 2026 14 53 46 Intelligence...",
-      "excerpt": "Anthropic, l'entreprise à l'origine de Claude, est confrontée à un problème de cybersécurité... ChatGPT Image 16 mars 2026 14 53 46 Intelligence...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un ChatGPT moins cher et plus puissant: le nouveau modèle GPT-6.1 Terra d'OpenAI a...",
-      "link": "https://www.01net.com/actualites/un-chatgpt-moins-cher-et-plus-puissant-le-nouveau-modele-gpt-6-1-terra-dopenai-a-trouve-sa-recette.html",
-      "url": "https://www.01net.com/actualites/un-chatgpt-moins-cher-et-plus-puissant-le-nouveau-modele-gpt-6-1-terra-dopenai-a-trouve-sa-recette.html",
-      "publishedAt": "2026-10-27T15:07:06.000Z",
-      "date": "2026-10-27T15:07:06.000Z",
-      "description": "Un ChatGPT moins cher et plus puissant: le nouveau modèle GPT-6.1... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "excerpt": "Un ChatGPT moins cher et plus puissant: le nouveau modèle GPT-6.1... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Ce que les Français demandent vraiment à ChatGPT au travail: les chiffres réservent...",
-      "link": "https://www.clubic.com/actualite-636070-ce-que-les-francais-demandent-vraiment-a-chatgpt-au-travail-les-chiffres-reservent-quelques-surprises.html",
-      "url": "https://www.clubic.com/actualite-636070-ce-que-les-francais-demandent-vraiment-a-chatgpt-au-travail-les-chiffres-reservent-quelques-surprises.html",
-      "publishedAt": "2026-10-27T14:58:16.000Z",
-      "date": "2026-10-27T14:58:16.000Z",
-      "description": "Correction de documents, création de visuels, marketing ou programmation: les usages professionnels de ChatGPT sont plus variés qu'on pourrait le...",
-      "excerpt": "Correction de documents, création de visuels, marketing ou programmation: les usages professionnels de ChatGPT sont plus variés qu'on pourrait le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT va travailler plus pour le même prix grâce à ce nouveau modèle d'intelligence artificielle",
-      "link": "https://www.presse-citron.net/chatgpt-prix-nouveau-modele-intelligence-artificielle/",
-      "url": "https://www.presse-citron.net/chatgpt-prix-nouveau-modele-intelligence-artificielle/",
-      "publishedAt": "2026-10-27T14:24:03.000Z",
-      "date": "2026-10-27T14:24:03.000Z",
-      "description": "ChatGPT va travailler plus pour le même prix grâce à ce nouveau... cybersécurité. De ce fait, GPT-6.1 Terra utilise les mêmes protections...",
-      "excerpt": "ChatGPT va travailler plus pour le même prix grâce à ce nouveau... cybersécurité. De ce fait, GPT-6.1 Terra utilise les mêmes protections...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI GPT-6.1 Terra ouvre l'automatisation du poste de travail à tous les abonnés professionnels",
-      "link": "https://itsocial.fr/cybersecurite/cybersecurite-articles/openai-gpt-6-1-terra-ouvre-lautomatisation-du-poste-de-travail-a-tous-les-abonnes-professionnels/",
-      "url": "https://itsocial.fr/cybersecurite/cybersecurite-articles/openai-gpt-6-1-terra-ouvre-lautomatisation-du-poste-de-travail-a-tous-les-abonnes-professionnels/",
-      "publishedAt": "2026-10-27T14:12:59.000Z",
-      "date": "2026-10-27T14:12:59.000Z",
-      "description": "... ChatGPT Work et dans Codex, l'environnement de développement de l... OpenAI décrit ces leviers dans les notes de version de ChatGPT Enterprise.",
-      "excerpt": "... ChatGPT Work et dans Codex, l'environnement de développement de l... OpenAI décrit ces leviers dans les notes de version de ChatGPT Enterprise.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
