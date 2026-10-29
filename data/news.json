@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T03:32:22.727Z",
+  "generatedAt": "2026-10-29T11:58:12.890Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,66 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Google dévoile Gemini 4 Carbon pour enfin détrôner GPT-6 Astra et Claude Opus 5.5, mais...",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/google-devoile-gemini-4-carbon-pour-enfin-detroner-gpt-6-astra-et-claude-opus-5-5-mais-presque-personne-ne-peut-l-essayer-n263931.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/google-devoile-gemini-4-carbon-pour-enfin-detroner-gpt-6-astra-et-claude-opus-5-5-mais-presque-personne-ne-peut-l-essayer-n263931.html",
+      "publishedAt": "2026-10-29T10:19:05.000Z",
+      "date": "2026-10-29T10:19:05.000Z",
+      "description": "L'IA excelle particulièrement en cybersécurité et en codage, tout en gagnant en fiabilité.... ChatGPT et Claude bannis en Suède à cause d'usages...",
+      "excerpt": "L'IA excelle particulièrement en cybersécurité et en codage, tout en gagnant en fiabilité.... ChatGPT et Claude bannis en Suède à cause d'usages...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Nanoush, la chaussure qui grandit en même temps que les enfants - Big média - Bpifrance",
+      "link": "https://bigmedia.bpifrance.fr/nos-actualites/nanoush-la-chaussure-qui-grandit-en-meme-temps-que-les-enfants",
+      "url": "https://bigmedia.bpifrance.fr/nos-actualites/nanoush-la-chaussure-qui-grandit-en-meme-temps-que-les-enfants",
+      "publishedAt": "2026-10-29T09:20:36.000Z",
+      "date": "2026-10-29T09:20:36.000Z",
+      "description": "Cybersécurité: 5 chiffres sur l'écart entre grandes... logo ChatGPT · logo Perplexity · logo Claude. Nanoush ©. Acheter des...",
+      "excerpt": "Cybersécurité: 5 chiffres sur l'écart entre grandes... logo ChatGPT · logo Perplexity · logo Claude. Nanoush ©. Acheter des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Gemini 4 Carbon: l'IA de Google dédiée au code et à la cybersécurité - BlogNT",
+      "link": "https://www.blog-nouvelles-technologies.fr/390583/gemini-4-carbon-code-cybersecurite/",
+      "url": "https://www.blog-nouvelles-technologies.fr/390583/gemini-4-carbon-code-cybersecurite/",
+      "publishedAt": "2026-10-29T07:56:06.000Z",
+      "date": "2026-10-29T07:56:06.000Z",
+      "description": "Picture18 Dossier IA générative: ChatGPT, Gemini, Claude, Copilot et Perplexity... 175c0b8148 google gemini 3 la reponse frontale a gpt 5 saluee par...",
+      "excerpt": "Picture18 Dossier IA générative: ChatGPT, Gemini, Claude, Copilot et Perplexity... 175c0b8148 google gemini 3 la reponse frontale a gpt 5 saluee par...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI dévoile de nouvelles percées majeures en mathématiques, en physique et en...",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/open-ai-devoile-de-nouvelles-percees-majeures-en-mathematiques-en-physique-et-en-informatique-mais-peine-toujours-a-maitriser-la-communication-avec-la-communaute-scientifique-et-s-attire-une-nouvelle-fois-ses-foudres_AN-202610290045.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/open-ai-devoile-de-nouvelles-percees-majeures-en-mathematiques-en-physique-et-en-informatique-mais-peine-toujours-a-maitriser-la-communication-avec-la-communaute-scientifique-et-s-attire-une-nouvelle-fois-ses-foudres_AN-202610290045.html",
+      "publishedAt": "2026-10-29T07:13:00.000Z",
+      "date": "2026-10-29T07:13:00.000Z",
+      "description": "Cybersécurité · Innovation... Pour finir, le créateur de ChatGPT s'est intéressé à certaines théories physiques dont la chromodynamique quantique.",
+      "excerpt": "Cybersécurité · Innovation... Pour finir, le créateur de ChatGPT s'est intéressé à certaines théories physiques dont la chromodynamique quantique.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Vous pensiez télécharger ChatGPT ou Claude? Des pirates ont glissé un malware dans... - Clubic",
+      "link": "https://www.clubic.com/actualite-636505-vous-pensiez-telecharger-chatgpt-ou-claude-des-pirates-ont-glisse-un-malware-dans-de-faux-installateurs.html",
+      "url": "https://www.clubic.com/actualite-636505-vous-pensiez-telecharger-chatgpt-ou-claude-des-pirates-ont-glisse-un-malware-dans-de-faux-installateurs.html",
+      "publishedAt": "2026-10-29T06:32:14.000Z",
+      "date": "2026-10-29T06:32:14.000Z",
+      "description": "En cherchant GPT-5.6 Sol, des internautes pouvaient par exemple atterrir sur le dépôt gpt-5 -6/sol-free-desktop, puis sur la page gpt-5 -6.github.io...",
+      "excerpt": "En cherchant GPT-5.6 Sol, des internautes pouvaient par exemple atterrir sur le dépôt gpt-5 -6/sol-free-desktop, puis sur la page gpt-5 -6.github.io...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ServiceNow annonce un partenariat élargi avec OpenAI pour accélérer l'intelligence...",
+      "link": "https://www.zonebourse.com/actualite-bourse/servicenow-annonce-un-partenariat-elargi-avec-openai-pour-accelerer-la-intelligence-artificielle-en-ce785cd3dd88f325",
+      "url": "https://www.zonebourse.com/actualite-bourse/servicenow-annonce-un-partenariat-elargi-avec-openai-pour-accelerer-la-intelligence-artificielle-en-ce785cd3dd88f325",
+      "publishedAt": "2026-10-29T06:13:57.000Z",
+      "date": "2026-10-29T06:13:57.000Z",
+      "description": "Propulsée par ServiceNow Action Fabric, l'intégration associe les capacités de raisonnement de ChatGPT... cybersécurité avec le contexte des...",
+      "excerpt": "Propulsée par ServiceNow Action Fabric, l'intégration associe les capacités de raisonnement de ChatGPT... cybersécurité avec le contexte des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Aujourd'hui dans l'IA: connecter iCloud à ChatGPT, c'est aussi savoir couper les accès",
       "link": "https://www.dpo-partage.fr/aujourdhui-dans-lia-connecter-icloud-a-chatgpt-cest-aussi-savoir-couper-les-acces/",
@@ -68,66 +128,6 @@
       "description": "Découvrez comment Legora utilise les modèles d'OpenAI, ChatGPT et Codex pour accélérer le travail juridique, élargir l'analyse des contrats et...",
       "excerpt": "Découvrez comment Legora utilise les modèles d'OpenAI, ChatGPT et Codex pour accélérer le travail juridique, élargir l'analyse des contrats et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI poursuivi pour des conseils médicaux de ChatGPT dans le décès d'un patient épileptique",
-      "link": "https://fr.qz.com/openai-poursuite-chatgpt-pilepsie-conseils-mdicaux-dcs-102826",
-      "url": "https://fr.qz.com/openai-poursuite-chatgpt-pilepsie-conseils-mdicaux-dcs-102826",
-      "publishedAt": "2026-10-28T17:35:01.000Z",
-      "date": "2026-10-28T17:35:01.000Z",
-      "description": "OpenAI est poursuivi au sujet de conseils de ChatGPT qui auraient conduit à la mort d'un patient épileptique.... Cybersécurité Le règlement de 16...",
-      "excerpt": "OpenAI est poursuivi au sujet de conseils de ChatGPT qui auraient conduit à la mort d'un patient épileptique.... Cybersécurité Le règlement de 16...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT peut désormais fouiller dans vos mails iCloud, et nous avons essayé - Clubic",
-      "link": "https://www.clubic.com/actualite-636307-chatgpt-peut-desormais-fouiller-dans-vos-mails-icloud-et-nous-avons-essaye.html",
-      "url": "https://www.clubic.com/actualite-636307-chatgpt-peut-desormais-fouiller-dans-vos-mails-icloud-et-nous-avons-essaye.html",
-      "publishedAt": "2026-10-28T17:06:23.000Z",
-      "date": "2026-10-28T17:06:23.000Z",
-      "description": "ChatGPT accueille les mails et les calendriers iCloud, avec la promesse de simplifier quelques corvées du quotidien. Les utilisateurs Apple vont...",
-      "excerpt": "ChatGPT accueille les mails et les calendriers iCloud, avec la promesse de simplifier quelques corvées du quotidien. Les utilisateurs Apple vont...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT peut maintenant verrouiller tes conversations avec un code. Voici quoi protéger en...",
-      "link": "https://www.facebook.com/100063101416075/posts/-chatgpt-peut-maintenant-verrouiller-tes-conversations-avec-un-codevoici-quoi-pr/1430233725756661/",
-      "url": "https://www.facebook.com/100063101416075/posts/-chatgpt-peut-maintenant-verrouiller-tes-conversations-avec-un-codevoici-quoi-pr/1430233725756661/",
-      "publishedAt": "2026-10-28T16:51:59.000Z",
-      "date": "2026-10-28T16:51:59.000Z",
-      "description": "com/en/articles/6825453- chatgpt - release- notes. help.openai.com. ChatGPT release notes | OpenAI Help Center. 1h. Paulette Fotsing - La reine de la...",
-      "excerpt": "com/en/articles/6825453- chatgpt - release- notes. help.openai.com. ChatGPT release notes | OpenAI Help Center. 1h. Paulette Fotsing - La reine de la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Mathématiques: la preuve par l'IA? - Les Echos",
-      "link": "https://www.lesechos.fr/idees-debats/editos-analyses/mathematiques-la-preuve-par-lia-2259621",
-      "url": "https://www.lesechos.fr/idees-debats/editos-analyses/mathematiques-la-preuve-par-lia-2259621",
-      "publishedAt": "2026-10-28T15:42:45.000Z",
-      "date": "2026-10-28T15:42:45.000Z",
-      "description": "Comme en cybersécurité, la France et l'Europe doivent accéder aux... Au lancement de ChatGPT en 2022, le raisonnement mathématique n'était...",
-      "excerpt": "Comme en cybersécurité, la France et l'Europe doivent accéder aux... Au lancement de ChatGPT en 2022, le raisonnement mathématique n'était...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "macOS 27.2 arrête de faire disparaître Rosetta - MacGeneration",
-      "link": "https://www.macg.co/macos/2026/10/macos-272-arrete-de-faire-disparaitre-rosetta-311927",
-      "url": "https://www.macg.co/macos/2026/10/macos-272-arrete-de-faire-disparaitre-rosetta-311927",
-      "publishedAt": "2026-10-28T15:32:07.000Z",
-      "date": "2026-10-28T15:32:07.000Z",
-      "description": "Le changement a été repéré par MacRumors dans les notes de version destinées aux entreprises.... ChatGPT à Mail et Calendrier sur iCloud. 07:50.",
-      "excerpt": "Le changement a été repéré par MacRumors dans les notes de version destinées aux entreprises.... ChatGPT à Mail et Calendrier sur iCloud. 07:50.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ESET sécurise l'IA pour les particuliers et les PME - L'INFORMATICIEN & L'INFO CYBER-RISQUES",
-      "link": "https://www.linformaticien.com/magazine/cybersecurite/65420-eset-securise-l-ia-pour-les-particuliers-et-les-pme.html",
-      "url": "https://www.linformaticien.com/magazine/cybersecurite/65420-eset-securise-l-ia-pour-les-particuliers-et-les-pme.html",
-      "publishedAt": "2026-10-28T15:17:52.000Z",
-      "date": "2026-10-28T15:17:52.000Z",
-      "description": "L'éditeur européen de solutions de cybersécurité ajoute une couche de sécurité qui protège les conversations et les agents IA.",
-      "excerpt": "L'éditeur européen de solutions de cybersécurité ajoute une couche de sécurité qui protège les conversations et les agents IA.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
