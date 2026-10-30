@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T17:28:05.525Z",
+  "generatedAt": "2026-10-30T21:47:47.680Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI respectera un signal partagé dans robots.txt concernant les préférences d... - Unite.AI",
+      "link": "https://www.unite.ai/fr/openai-to-honor-shared-robots-txt-signal-for-ai-training-preferences/",
+      "url": "https://www.unite.ai/fr/openai-to-honor-shared-robots-txt-signal-for-ai-training-preferences/",
+      "publishedAt": "2026-10-30T19:17:24.000Z",
+      "date": "2026-10-30T19:17:24.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique... OAI-SearchBot fait apparaître des sites Web dans les fonctions de recherche de ChatGPT.",
+      "excerpt": "Conférences cybersécurité · Conférences robotique... OAI-SearchBot fait apparaître des sites Web dans les fonctions de recherche de ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI annonce un rapport sur la sécurité de la communauté et de nouvelles restrictions... - Unite.AI",
+      "link": "https://www.unite.ai/fr/openai-announces-community-safety-report-and-new-teen-weapons-limits/",
+      "url": "https://www.unite.ai/fr/openai-announces-community-safety-report-and-new-teen-weapons-limits/",
+      "publishedAt": "2026-10-30T18:19:14.000Z",
+      "date": "2026-10-30T18:19:14.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT pour répondre aux questions sur les attaques de masse passées.",
+      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT pour répondre aux questions sur les attaques de masse passées.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Pénurie de PCB, Nikkei révèle des délais de 30 mois et des laminés 12 fois plus chers",
       "link": "https://pasqualepillitteri.it/fr/news/28505/penurie-pcb-ia-delais-30-mois",
@@ -108,26 +128,6 @@
       "description": "sécurité cybersécuritéChatGPT Grands modèles de langage (LLM)open sourcevulnérabilité. ST. Stephane Nachez. Rédaction ActuIA - actualités, données et...",
       "excerpt": "sécurité cybersécuritéChatGPT Grands modèles de langage (LLM)open sourcevulnérabilité. ST. Stephane Nachez. Rédaction ActuIA - actualités, données et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google dévoile Gemini 4 Carbon pour le codage et la cybersécurité - Dataconomy FR",
-      "link": "https://fr.dataconomy.com/2026/10/30/google-devoile-gemini-4-carbon-pour-le-codage-et-la-cybersecurite/",
-      "url": "https://fr.dataconomy.com/2026/10/30/google-devoile-gemini-4-carbon-pour-le-codage-et-la-cybersecurite/",
-      "publishedAt": "2026-10-30T10:34:53.000Z",
-      "date": "2026-10-30T10:34:53.000Z",
-      "description": "Gemini 4 Carbon sera initialement proposé à certaines entreprises de cybersécurité à des fins de test, avec un accès plus large prévu via le...",
-      "excerpt": "Gemini 4 Carbon sera initialement proposé à certaines entreprises de cybersécurité à des fins de test, avec un accès plus large prévu via le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT peut désormais lire les messages d'iCloud Mail, et la déconnexion ne suffit pas",
-      "link": "https://www.notebookcheck.biz/ChatGPT-peut-desormais-lire-les-messages-d-iCloud-Mail-et-la-deconnexion-ne-suffit-pas.1438072.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-peut-desormais-lire-les-messages-d-iCloud-Mail-et-la-deconnexion-ne-suffit-pas.1438072.0.html",
-      "publishedAt": "2026-10-30T10:17:43.000Z",
-      "date": "2026-10-30T10:17:43.000Z",
-      "description": "Depuis le 27 octobre, ChatGPT peut se connecter à iCloud Mail et à iCloud Calendar. Les notes de version d'OpenAI indiquent que les deux plugins...",
-      "excerpt": "Depuis le 27 octobre, ChatGPT peut se connecter à iCloud Mail et à iCloud Calendar. Les notes de version d'OpenAI indiquent que les deux plugins...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
