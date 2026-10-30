@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T03:35:20.662Z",
+  "generatedAt": "2026-10-30T11:52:18.552Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI renonce à réduire l'usage de ChatGPT Pro et double les limites de ses offres",
+      "link": "https://www.clubic.com/actualite-636718-openai-renonce-a-reduire-l-usage-de-chatgpt-pro-et-double-les-limites-de-ses-offres.html",
+      "url": "https://www.clubic.com/actualite-636718-openai-renonce-a-reduire-l-usage-de-chatgpt-pro-et-double-les-limites-de-ses-offres.html",
+      "publishedAt": "2026-10-30T10:10:41.000Z",
+      "date": "2026-10-30T10:10:41.000Z",
+      "description": "Cybersécurité · Intelligence artificielle · Logiciels & services · PC... OpenAI renonce à réduire l'usage de ChatGPT Pro et double les limites de ses...",
+      "excerpt": "Cybersécurité · Intelligence artificielle · Logiciels & services · PC... OpenAI renonce à réduire l'usage de ChatGPT Pro et double les limites de ses...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Chatbot IA Entreprise: 5 Offres dès 20 $/Siège [2026] - Tech Insider",
+      "link": "https://tech-insider.org/fr/chatbot-ia-entreprise-chatgpt-claude-gemini-mistral-copilot-2026/",
+      "url": "https://tech-insider.org/fr/chatbot-ia-entreprise-chatgpt-claude-gemini-mistral-copilot-2026/",
+      "publishedAt": "2026-10-30T06:28:58.000Z",
+      "date": "2026-10-30T06:28:58.000Z",
+      "description": "Chatbot IA entreprise: ChatGPT, Claude, Gemini, Mistral et Copilot comparés au 30 octobre 2026. Prix par siège, RGPD, hébergement UE, verdict.",
+      "excerpt": "Chatbot IA entreprise: ChatGPT, Claude, Gemini, Mistral et Copilot comparés au 30 octobre 2026. Prix par siège, RGPD, hébergement UE, verdict.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Mistral publie un modèle d'IA téléchargeable pour renforcer la cybersécurité des entreprises",
+      "link": "https://www.aol.com/articles/mistral-publie-mod%C3%A8le-dia-t%C3%A9l%C3%A9chargeable-144658000.html",
+      "url": "https://www.aol.com/articles/mistral-publie-mod%C3%A8le-dia-t%C3%A9l%C3%A9chargeable-144658000.html",
+      "publishedAt": "2026-10-30T03:16:12.000Z",
+      "date": "2026-10-30T03:16:12.000Z",
+      "description": "Mistral publie un modèle d'IA téléchargeable pour renforcer la cybersécurité des entreprises. Euronews. Jonathan Benton. Thu, October 29, 2026 at 7:46...",
+      "excerpt": "Mistral publie un modèle d'IA téléchargeable pour renforcer la cybersécurité des entreprises. Euronews. Jonathan Benton. Thu, October 29, 2026 at 7:46...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comment nous détectons le désalignement des modèles de pointe - OpenAI",
+      "link": "https://openai.com/fr-FR/index/how-we-detect-frontier-model-misalignment/",
+      "url": "https://openai.com/fr-FR/index/how-we-detect-frontier-model-misalignment/",
+      "publishedAt": "2026-10-30T01:35:47.000Z",
+      "date": "2026-10-30T01:35:47.000Z",
+      "description": "Essayer ChatGPT (ouverture dans une nouvelle fenêtre) Connexion... cybersécurité défini par notre cadre de préparation, comme décrit plus...",
+      "excerpt": "Essayer ChatGPT (ouverture dans une nouvelle fenêtre) Connexion... cybersécurité défini par notre cadre de préparation, comme décrit plus...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI et ServiceNow renforcent leur collaboration pour améliorer les flux de travail en entreprise",
       "link": "https://expert.com.ua/fr/231018-openai-ta-servicenow-pohliblyuyut-spivpracyu-dlya-vdoskonalennya-korporativnih-robochih-procesiv.html",
@@ -60,6 +100,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Faille RCE dans TightVNC Viewer 2.8.88, corrigée sans CVE - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/28104/faille-rce-tightvnc-viewer-2-8-88-sans-cve",
+      "url": "https://pasqualepillitteri.it/fr/news/28104/faille-rce-tightvnc-viewer-2-8-88-sans-cve",
+      "publishedAt": "2026-10-29T16:52:42.000Z",
+      "date": "2026-10-29T16:52:42.000Z",
+      "description": "... CVE, passez à la 2.8... Droit & Réglementation · Claude · Mistral · Jeux Vidéo · IA en local · ChatGPT...",
+      "excerpt": "... CVE, passez à la 2.8... Droit & Réglementation · Claude · Mistral · Jeux Vidéo · IA en local · ChatGPT...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
+    },
+    {
       "title": "Oracle et OpenAI s'allient pour détecter les failles de sécurité - ICTjournal",
       "link": "https://www.ictjournal.ch/news/2026-10-29/oracle-et-openai-sallient-pour-detecter-les-failles-de-securite",
       "url": "https://www.ictjournal.ch/news/2026-10-29/oracle-et-openai-sallient-pour-detecter-les-failles-de-securite",
@@ -77,56 +127,6 @@
       "date": "2026-10-29T15:49:56.000Z",
       "description": "Lorsqu'on les interroge sur le choix d'une formation supérieure, ChatGPT, Gemini et Claude citent le plus souvent l.",
       "excerpt": "Lorsqu'on les interroge sur le choix d'une formation supérieure, ChatGPT, Gemini et Claude citent le plus souvent l.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Auriga s'installe dans la cybersécurité - CFNEWS",
-      "link": "https://www.cfnews.net/L-actualite/Exclusif-CFNEWS/Auriga-s-installe-dans-la-cybersecurite-757396",
-      "url": "https://www.cfnews.net/L-actualite/Exclusif-CFNEWS/Auriga-s-installe-dans-la-cybersecurite-757396",
-      "publishedAt": "2026-10-29T15:39:31.000Z",
-      "date": "2026-10-29T15:39:31.000Z",
-      "description": "© ChatGPT. International. Lengow référencé au Portugal · ©Bioxa (linkedin... EXCLUSIF | TECH | Auriga s'installe dans la cybersécurité. Partager...",
-      "excerpt": "© ChatGPT. International. Lengow référencé au Portugal · ©Bioxa (linkedin... EXCLUSIF | TECH | Auriga s'installe dans la cybersécurité. Partager...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Shopping: pourquoi un e-commerçant n'est pas classé de la même façon aux...",
-      "link": "https://www.abondance.com/20261029-3046575-chatgpt-shopping-difference-us-europe.html",
-      "url": "https://www.abondance.com/20261029-3046575-chatgpt-shopping-difference-us-europe.html",
-      "publishedAt": "2026-10-29T15:29:19.000Z",
-      "date": "2026-10-29T15:29:19.000Z",
-      "description": "... GPT-4o, GPT-4.1 nano et GPT-5 mini, au sein d'une même session. En Europe, Google Shopping alimente toujours ChatGPT. Le fonctionnement européen...",
-      "excerpt": "... GPT-4o, GPT-4.1 nano et GPT-5 mini, au sein d'une même session. En Europe, Google Shopping alimente toujours ChatGPT. Le fonctionnement européen...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Orange Cyberdéfense et Mistral AI unissent leurs forces pour créer des agents IA capable...",
-      "link": "https://www.latribune.fr/article/tech/informatique/13271310428432/orange-cyberdefense-et-mistral-ai-unissent-leurs-forces-pour-creer-des-agents-ia-capable-de-deceler-les-failles-de-cybersecurite",
-      "url": "https://www.latribune.fr/article/tech/informatique/13271310428432/orange-cyberdefense-et-mistral-ai-unissent-leurs-forces-pour-creer-des-agents-ia-capable-de-deceler-les-failles-de-cybersecurite",
-      "publishedAt": "2026-10-29T14:51:08.000Z",
-      "date": "2026-10-29T14:51:08.000Z",
-      "description": "... cybersécurité depuis une déclinaison de Mistral Large 4. Face aux... Anthropic estime que ChatGPT et Gemini sont les seuls concurrents de Claude.",
-      "excerpt": "... cybersécurité depuis une déclinaison de Mistral Large 4. Face aux... Anthropic estime que ChatGPT et Gemini sont les seuls concurrents de Claude.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "De fausses applications ChatGPT et Claude dissimulent des logiciels malveillants aux côtés...",
-      "link": "https://www.notebookcheck.biz/De-fausses-applications-ChatGPT-et-Claude-dissimulent-des-logiciels-malveillants-aux-cotes-de-programmes-d-installation-signes.1437258.0.html",
-      "url": "https://www.notebookcheck.biz/De-fausses-applications-ChatGPT-et-Claude-dissimulent-des-logiciels-malveillants-aux-cotes-de-programmes-d-installation-signes.1437258.0.html",
-      "publishedAt": "2026-10-29T14:24:57.000Z",
-      "date": "2026-10-29T14:24:57.000Z",
-      "description": "De fausses applications de bureau pour ChatGPT et Claude sont hébergées sur GitHub et figurent en bonne place dans les résultats de Google.",
-      "excerpt": "De fausses applications de bureau pour ChatGPT et Claude sont hébergées sur GitHub et figurent en bonne place dans les résultats de Google.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "De fausses applications ChatGPT et Claude associent des logiciels malveillants à des...",
-      "link": "https://mezha.net/fr/news/mezha-e6e9254a922a8e13d0ea4d3a_de-fausses-applications-chatgpt-et-claude/",
-      "url": "https://mezha.net/fr/news/mezha-e6e9254a922a8e13d0ea4d3a_de-fausses-applications-chatgpt-et-claude/",
-      "publishedAt": "2026-10-29T14:23:21.000Z",
-      "date": "2026-10-29T14:23:21.000Z",
-      "description": "Les attaquants ont créé des dépôts GitHub et de petites pages d'atterrissage ressemblant aux applications officielles, avec des noms comme GPT-5,6 Sol...",
-      "excerpt": "Les attaquants ont créé des dépôts GitHub et de petites pages d'atterrissage ressemblant aux applications officielles, avec des noms comme GPT-5,6 Sol...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
