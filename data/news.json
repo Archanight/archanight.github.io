@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T18:02:56.047Z",
+  "generatedAt": "2026-10-30T03:35:20.662Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI et ServiceNow renforcent leur collaboration pour améliorer les flux de travail en entreprise",
+      "link": "https://expert.com.ua/fr/231018-openai-ta-servicenow-pohliblyuyut-spivpracyu-dlya-vdoskonalennya-korporativnih-robochih-procesiv.html",
+      "url": "https://expert.com.ua/fr/231018-openai-ta-servicenow-pohliblyuyut-spivpracyu-dlya-vdoskonalennya-korporativnih-robochih-procesiv.html",
+      "publishedAt": "2026-10-29T21:24:30.000Z",
+      "date": "2026-10-29T21:24:30.000Z",
+      "description": "... cybersécurité... ChatGPT que Manuscrit, facilitant ainsi le développement d'applications, la résolution des...",
+      "excerpt": "... cybersécurité... ChatGPT que Manuscrit, facilitant ainsi le développement d'applications, la résolution des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Bolsonaro ally blames ChatGPT for now-deleted 'president-elect of Brazil' claim",
+      "link": "https://fr.tradingview.com/news/reuters.com,2026:newsml_L2N46F19V:0-bolsonaro-ally-blames-chatgpt-for-now-deleted-president-elect-of-brazil-claim/",
+      "url": "https://fr.tradingview.com/news/reuters.com,2026:newsml_L2N46F19V:0-bolsonaro-ally-blames-chatgpt-for-now-deleted-president-elect-of-brazil-claim/",
+      "publishedAt": "2026-10-29T20:42:56.000Z",
+      "date": "2026-10-29T20:42:56.000Z",
+      "description": "By Fernando CardosoA close ally of Brazilian Senator Flavio Bolsonaro on Thursday said AI chatbot ChatGPT... Conforme à SOC 2 Conforme au RGPD. Plus qu...",
+      "excerpt": "By Fernando CardosoA close ally of Brazilian Senator Flavio Bolsonaro on Thursday said AI chatbot ChatGPT... Conforme à SOC 2 Conforme au RGPD. Plus qu...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Orange Cyberdefense annonce un partenariat avec Mistral sur la cybersécurité - Le Figaro",
+      "link": "https://www.lefigaro.fr/flash-eco/orange-cyberdefense-annonce-un-partenariat-avec-mistral-sur-la-cybersecurite-20261029",
+      "url": "https://www.lefigaro.fr/flash-eco/orange-cyberdefense-annonce-un-partenariat-avec-mistral-sur-la-cybersecurite-20261029",
+      "publishedAt": "2026-10-29T20:11:19.000Z",
+      "date": "2026-10-29T20:11:19.000Z",
+      "description": "L'entreprise de cybersécurité ambitionne de développer des utilisations concrètes de l'IA pour ses clients, par exemple pour des tests d'intrusion, et...",
+      "excerpt": "L'entreprise de cybersécurité ambitionne de développer des utilisations concrètes de l'IA pour ses clients, par exemple pour des tests d'intrusion, et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT débarque dans Google Messages avec ses agents Dots - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6401675-chatgpt-debarque-dans-google-messages-avec-ses-agents-dots",
+      "url": "https://www.lefilia.fr/article/6401675-chatgpt-debarque-dans-google-messages-avec-ses-agents-dots",
+      "publishedAt": "2026-10-29T18:54:05.000Z",
+      "date": "2026-10-29T18:54:05.000Z",
+      "description": "ChatGPT débarque dans Google Messages avec ses agents Dots. OpenAI... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
+      "excerpt": "ChatGPT débarque dans Google Messages avec ses agents Dots. OpenAI... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le Chonk de Mistral AI dévoile ses poids - ZDNET",
       "link": "https://www.zdnet.fr/actualites/le-chonk-de-mistral-ai-devoile-ses-poids-506829.htm",
@@ -88,46 +128,6 @@
       "description": "Les attaquants ont créé des dépôts GitHub et de petites pages d'atterrissage ressemblant aux applications officielles, avec des noms comme GPT-5,6 Sol...",
       "excerpt": "Les attaquants ont créé des dépôts GitHub et de petites pages d'atterrissage ressemblant aux applications officielles, avec des noms comme GPT-5,6 Sol...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Selon Mistral, Le Chonk est le modèle d'IA à poids ouverts le plus performant en codage et...",
-      "link": "https://mezha.net/fr/news/469f2749_mistral_says_le_chonk/",
-      "url": "https://mezha.net/fr/news/469f2749_mistral_says_le_chonk/",
-      "publishedAt": "2026-10-29T14:23:20.000Z",
-      "date": "2026-10-29T14:23:20.000Z",
-      "description": "Selon Mistral, le modèle doté d'un billion de paramètres a été entraîné sur des tâches de codage et de cybersécurité plus difficiles. L'entreprise...",
-      "excerpt": "Selon Mistral, le modèle doté d'un billion de paramètres a été entraîné sur des tâches de codage et de cybersécurité plus difficiles. L'entreprise...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Les agents IA « Dots » de ChatGPT s'invitent dans Google Messages et iMessage",
-      "link": "https://www.01net.com/actualites/agents-ia-dots-chatgpt-sinvitent-dans-google-messages-imessage.html",
-      "url": "https://www.01net.com/actualites/agents-ia-dots-chatgpt-sinvitent-dans-google-messages-imessage.html",
-      "publishedAt": "2026-10-29T13:17:07.000Z",
-      "date": "2026-10-29T13:17:07.000Z",
-      "description": "Rolling out now as a preview for Pro users in the US. — ChatGPT (@ ChatGPT ) October 28, 2026... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "excerpt": "Rolling out now as a preview for Pro users in the US. — ChatGPT (@ ChatGPT ) October 28, 2026... Cybersécurité · Société · Télécoms · Auto · Médias...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Halloween: ces 5 moments qui terrorisent les entrepreneurs - Big média - Bpifrance",
-      "link": "https://bigmedia.bpifrance.fr/nos-actualites/halloween-ces-5-moments-qui-terrorisent-les-entrepreneurs",
-      "url": "https://bigmedia.bpifrance.fr/nos-actualites/halloween-ces-5-moments-qui-terrorisent-les-entrepreneurs",
-      "publishedAt": "2026-10-29T11:05:43.000Z",
-      "date": "2026-10-29T11:05:43.000Z",
-      "description": "Cybersécurité: 5 chiffres sur l'écart entre grandes... logo ChatGPT · logo Perplexity · logo Claude. citrouilles posées par terre...",
-      "excerpt": "Cybersécurité: 5 chiffres sur l'écart entre grandes... logo ChatGPT · logo Perplexity · logo Claude. citrouilles posées par terre...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Google Messages et iMessage: après WhatsApp, ChatGPT s'incruste directement dans vos SMS",
-      "link": "https://www.phonandroid.com/google-messages-et-imessage-apres-whatsapp-chatgpt-sincruste-directement-dans-vos-sms.html",
-      "url": "https://www.phonandroid.com/google-messages-et-imessage-apres-whatsapp-chatgpt-sincruste-directement-dans-vos-sms.html",
-      "publishedAt": "2026-10-29T10:39:11.000Z",
-      "date": "2026-10-29T10:39:11.000Z",
-      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Rolling out now as a preview for Pro users in the US. — ChatGPT (@...",
-      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Rolling out now as a preview for Pro users in the US. — ChatGPT (@...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
