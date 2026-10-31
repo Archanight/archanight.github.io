@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T21:47:47.680Z",
+  "generatedAt": "2026-10-31T03:19:57.468Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT Pro: face à la polémique, OpenAI renonce à amputer l'abonnement - 01net.com",
+      "link": "https://www.01net.com/actualites/chatgpt-pro-face-a-la-polemique-openai-renonce-a-amputer-labonnement.html",
+      "url": "https://www.01net.com/actualites/chatgpt-pro-face-a-la-polemique-openai-renonce-a-amputer-labonnement.html",
+      "publishedAt": "2026-10-30T23:04:21.000Z",
+      "date": "2026-10-30T23:04:21.000Z",
+      "description": "Les abonnés les plus fidèles de ChatGPT devaient voir leurs limites d'usage fondre de moitié dès ce vendredi. À la veille de l'échéance,...",
+      "excerpt": "Les abonnés les plus fidèles de ChatGPT devaient voir leurs limites d'usage fondre de moitié dès ce vendredi. À la veille de l'échéance,...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "D'après le patron de ChatGPT, la RAM dans nos PC est du \"gaspillage\" car les centres de...",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/d-apres-le-patron-de-chatgpt-la-ram-dans-nos-pc-est-du-gaspillage-car-les-centres-de-donnees-ia-exploitent-bien-mieux-cette-ressource-devenue-rare-n264044.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/d-apres-le-patron-de-chatgpt-la-ram-dans-nos-pc-est-du-gaspillage-car-les-centres-de-donnees-ia-exploitent-bien-mieux-cette-ressource-devenue-rare-n264044.html",
+      "publishedAt": "2026-10-30T22:11:44.000Z",
+      "date": "2026-10-30T22:11:44.000Z",
+      "description": "Alors que la crise de la RAM frappe le monde entier, Sam Altman, dirigeant d'OpenAI à qui l'on doit ChatGPT, estime qu'elle est mal utilisée.",
+      "excerpt": "Alors que la crise de la RAM frappe le monde entier, Sam Altman, dirigeant d'OpenAI à qui l'on doit ChatGPT, estime qu'elle est mal utilisée.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Derrière les dérives de l'IA, qui porte la responsabilité des conseils dangereux - PC Astuces",
+      "link": "https://actu.pcastuces.com/actu-43116-derriere-les-derives-de-ia-qui-porte-la-responsabilite-des-conseils-dangereux-.htm",
+      "url": "https://actu.pcastuces.com/actu-43116-derriere-les-derives-de-ia-qui-porte-la-responsabilite-des-conseils-dangereux-.htm",
+      "publishedAt": "2026-10-30T21:05:24.000Z",
+      "date": "2026-10-30T21:05:24.000Z",
+      "description": "Le modèle GPT-4o a ainsi été désactivé de ChatGPT le 13 février 2026, soit le lendemain du décès de l'utilisatrice. L'entreprise rappelle...",
+      "excerpt": "Le modèle GPT-4o a ainsi été désactivé de ChatGPT le 13 février 2026, soit le lendemain du décès de l'utilisatrice. L'entreprise rappelle...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences - OpenAI",
+      "link": "https://openai.com/fr-FR/index/helping-websites-express-ai-training-preferences/",
+      "url": "https://openai.com/fr-FR/index/helping-websites-express-ai-training-preferences/",
+      "publishedAt": "2026-10-30T20:23:11.000Z",
+      "date": "2026-10-30T20:23:11.000Z",
+      "description": "We're joining other participants in the working group in today's announcement... Uber déploie ChatGPT Work pour tous ses employés avec OpenAI.",
+      "excerpt": "We're joining other participants in the working group in today's announcement... Uber déploie ChatGPT Work pour tous ses employés avec OpenAI.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Community safety report and new protections for teens - OpenAI",
+      "link": "https://openai.com/fr-FR/index/community-safety-report-and-new-protections-for-teens/",
+      "url": "https://openai.com/fr-FR/index/community-safety-report-and-new-protections-for-teens/",
+      "publishedAt": "2026-10-30T20:01:46.000Z",
+      "date": "2026-10-30T20:01:46.000Z",
+      "description": "ChatGPT is one of the world's most widely used AI products, and we have... Dots (ouverture dans une nouvelle fenêtre) · Notes de version.",
+      "excerpt": "ChatGPT is one of the world's most widely used AI products, and we have... Dots (ouverture dans une nouvelle fenêtre) · Notes de version.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "OpenAI respectera un signal partagé dans robots.txt concernant les préférences d... - Unite.AI",
       "link": "https://www.unite.ai/fr/openai-to-honor-shared-robots-txt-signal-for-ai-training-preferences/",
@@ -37,16 +87,6 @@
       "date": "2026-10-30T16:50:21.000Z",
       "description": "Ce que disent les sources. Les plus lus · Électronique · Cybersécurité... ChatGPT · Tesla...",
       "excerpt": "Ce que disent les sources. Les plus lus · Électronique · Cybersécurité... ChatGPT · Tesla...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Pro: face à la polémique, OpenAI renonce à amputer l'abonnement - 01net.com",
-      "link": "https://www.01net.com/actualites/chatgpt-pro-face-a-la-polemique-openai-renonce-a-amputer-labonnement.html",
-      "url": "https://www.01net.com/actualites/chatgpt-pro-face-a-la-polemique-openai-renonce-a-amputer-labonnement.html",
-      "publishedAt": "2026-10-30T16:01:35.000Z",
-      "date": "2026-10-30T16:01:35.000Z",
-      "description": "Chatgpt Logo Icone Les abonnements ChatGPT Pro d'OpenAI ©. Les... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "excerpt": "Chatgpt Logo Icone Les abonnements ChatGPT Pro d'OpenAI ©. Les... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -87,46 +127,6 @@
       "date": "2026-10-30T13:07:38.000Z",
       "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
       "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Vous trouvez ChatGPT trop lèche-bottes? OpenAI vient de le recadrer - Toms Guide",
-      "link": "https://www.tomsguide.fr/vous-trouvez-chatgpt-trop-leche-bottes-openai-vient-de-le-recadrer/",
-      "url": "https://www.tomsguide.fr/vous-trouvez-chatgpt-trop-leche-bottes-openai-vient-de-le-recadrer/",
-      "publishedAt": "2026-10-30T12:57:48.000Z",
-      "date": "2026-10-30T12:57:48.000Z",
-      "description": "OpenAI a mis à jour GPT-6 dans ChatGPT le 29 octobre. Dans ses notes de version, l'entreprise dit vouloir obtenir “des réponses plus concises” et...",
-      "excerpt": "OpenAI a mis à jour GPT-6 dans ChatGPT le 29 octobre. Dans ses notes de version, l'entreprise dit vouloir obtenir “des réponses plus concises” et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Altman attaque l'IA locale, un gaspillage de DRAM à ses yeux - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/28401/altman-attaque-ia-locale-gaspillage-dram",
-      "url": "https://pasqualepillitteri.it/fr/news/28401/altman-attaque-ia-locale-gaspillage-dram",
-      "publishedAt": "2026-10-30T11:37:20.000Z",
-      "date": "2026-10-30T11:37:20.000Z",
-      "description": "Cybersécurité · Intelligence... ChatGPT · Tesla · Apple · Gemini · OpenAI...",
-      "excerpt": "Cybersécurité · Intelligence... ChatGPT · Tesla · Apple · Gemini · OpenAI...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA et cybersécurité: l'ESAIP invitée de BFM Marseille Provence - Excelia",
-      "link": "https://www.excelia-group.fr/a-propos-dexcelia/news-room/actualites/ia-et-cybersecurite-lesaip-invitee-de-bfm-marseille-provence",
-      "url": "https://www.excelia-group.fr/a-propos-dexcelia/news-room/actualites/ia-et-cybersecurite-lesaip-invitee-de-bfm-marseille-provence",
-      "publishedAt": "2026-10-30T11:14:37.000Z",
-      "date": "2026-10-30T11:14:37.000Z",
-      "description": "Elle augmente la valeur de ceux qui savent l'utiliser. Découvrir l'ESAIP Engineering School →. Lire cet article avec l'IA. ChatGPT → Perplexity...",
-      "excerpt": "Elle augmente la valeur de ceux qui savent l'utiliser. Découvrir l'ESAIP Engineering School →. Lire cet article avec l'IA. ChatGPT → Perplexity...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Un chercheur d'Anthropic signe une faille sur dix corrigée par Chrome en octobre - ActuIA",
-      "link": "https://www.actuia.com/actualite/un-chercheur-danthropic-signe-une-faille-sur-dix-corrigee-par-chrome-en-octobre/",
-      "url": "https://www.actuia.com/actualite/un-chercheur-danthropic-signe-une-faille-sur-dix-corrigee-par-chrome-en-octobre/",
-      "publishedAt": "2026-10-30T11:09:10.000Z",
-      "date": "2026-10-30T11:09:10.000Z",
-      "description": "sécurité cybersécuritéChatGPT Grands modèles de langage (LLM)open sourcevulnérabilité. ST. Stephane Nachez. Rédaction ActuIA - actualités, données et...",
-      "excerpt": "sécurité cybersécuritéChatGPT Grands modèles de langage (LLM)open sourcevulnérabilité. ST. Stephane Nachez. Rédaction ActuIA - actualités, données et...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
