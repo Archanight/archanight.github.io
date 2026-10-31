@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T16:31:28.294Z",
+  "generatedAt": "2026-10-31T20:47:29.313Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,16 @@
   "failedSources": [],
   "items": [
     {
+      "title": "ChatGPT durcit ses protections pour les adolescents: les changements annoncés par OpenAI",
+      "link": "https://www.menow.fr/chatgpt-durcit-ses-protections-pour-les-adolescents-les-changements-annonces-par-openai/",
+      "url": "https://www.menow.fr/chatgpt-durcit-ses-protections-pour-les-adolescents-les-changements-annonces-par-openai/",
+      "publishedAt": "2026-10-31T19:17:52.000Z",
+      "date": "2026-10-31T19:17:52.000Z",
+      "description": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web. Il s'intéresse aux mises à jour...",
+      "excerpt": "Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web. Il s'intéresse aux mises à jour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "ChatGPT: OpenAI renonce à réduire les limites de certains abonnés Pro",
       "link": "https://www.menow.fr/chatgpt-openai-renonce-a-reduire-les-limites-de-certains-abonnes-pro/",
       "url": "https://www.menow.fr/chatgpt-openai-renonce-a-reduire-les-limites-de-certains-abonnes-pro/",
@@ -18,6 +28,16 @@
       "description": "ChatGPT: OpenAI renonce à réduire les limites de certains abonnés Pro... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité...",
       "excerpt": "ChatGPT: OpenAI renonce à réduire les limites de certains abonnés Pro... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "In December, after combining the limits in ChatGPT, will you cancel your subscription?",
+      "link": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1xj5gqb/in_december_after_combining_the_limits_in_chatgpt/",
+      "url": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1xj5gqb/in_december_after_combining_the_limits_in_chatgpt/",
+      "publishedAt": "2026-10-31T16:10:10.000Z",
+      "date": "2026-10-31T16:10:10.000Z",
+      "description": "Behold the efforts of luddites. But I just changed tactics. They don't even know how much chatgpt is helping them now. They love AI. They just think...",
+      "excerpt": "Behold the efforts of luddites. But I just changed tactics. They don't even know how much chatgpt is helping them now. They love AI. They just think...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Gemini 4 Carbon, la réponse de Google pour faire mieux que ChatGPT et Claude sur le code",
@@ -40,6 +60,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
+      "title": "OpenAI Tightens ChatGPT Restrictions on Weapons Information for Teens, May Pause...",
+      "link": "https://fr.tradingview.com/news/benzinga:7f7e94de9094b:0-openai-tightens-chatgpt-restrictions-on-weapons-information-for-teens-may-pause-accounts-after-repeated-violence-related-chats/",
+      "url": "https://fr.tradingview.com/news/benzinga:7f7e94de9094b:0-openai-tightens-chatgpt-restrictions-on-weapons-information-for-teens-may-pause-accounts-after-repeated-violence-related-chats/",
+      "publishedAt": "2026-10-31T11:27:48.000Z",
+      "date": "2026-10-31T11:27:48.000Z",
+      "description": "ChatGPT will be able to automatically end chats in which a user appears... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "excerpt": "ChatGPT will be able to automatically end chats in which a user appears... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "IA autre que ChatGPT: 5 alternatives dès 4,99 $ [2026] - Tech Insider",
       "link": "https://tech-insider.org/fr/ia-autre-que-chatgpt-quitter-chatgpt-migrer-memoire-2026/",
       "url": "https://tech-insider.org/fr/ia-autre-que-chatgpt-quitter-chatgpt-migrer-memoire-2026/",
@@ -58,6 +88,16 @@
       "description": "Configurer l'application de bureau ChatGPT avec Amazon Bedrock dans AWS GovCloud (US)... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le...",
       "excerpt": "Configurer l'application de bureau ChatGPT avec Amazon Bedrock dans AWS GovCloud (US)... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Plus users getting left behind again: r/ChatGPTcomplaints - Reddit",
+      "link": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1xj3260/chatgpt_plus_users_getting_left_behind_again/",
+      "url": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1xj3260/chatgpt_plus_users_getting_left_behind_again/",
+      "publishedAt": "2026-10-31T05:26:23.000Z",
+      "date": "2026-10-31T05:26:23.000Z",
+      "description": "... r/ChatGPTcomplaints. • 7mo ago. A warning to ChatGPT users: 49. 89. New ChatGPT update · r/ChatGPTcomplaints. • 4mo ago. New ChatGPT update. 27.",
+      "excerpt": "... r/ChatGPTcomplaints. • 7mo ago. A warning to ChatGPT users: 49. 89. New ChatGPT update · r/ChatGPTcomplaints. • 4mo ago. New ChatGPT update. 27.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Zapping du jour 30/10: ChatGPT à l'Assemblée, Lagarde à la sortie, poireaux à 2 euros",
@@ -87,46 +127,6 @@
       "date": "2026-10-30T23:04:21.000Z",
       "description": "Les abonnés les plus fidèles de ChatGPT devaient voir leurs limites d'usage fondre de moitié dès ce vendredi. À la veille de l'échéance,...",
       "excerpt": "Les abonnés les plus fidèles de ChatGPT devaient voir leurs limites d'usage fondre de moitié dès ce vendredi. À la veille de l'échéance,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "D'après le patron de ChatGPT, la RAM dans nos PC est du \"gaspillage\" car les centres de...",
-      "link": "https://www.lesnumeriques.com/intelligence-artificielle/d-apres-le-patron-de-chatgpt-la-ram-dans-nos-pc-est-du-gaspillage-car-les-centres-de-donnees-ia-exploitent-bien-mieux-cette-ressource-devenue-rare-n264044.html",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/d-apres-le-patron-de-chatgpt-la-ram-dans-nos-pc-est-du-gaspillage-car-les-centres-de-donnees-ia-exploitent-bien-mieux-cette-ressource-devenue-rare-n264044.html",
-      "publishedAt": "2026-10-30T22:11:44.000Z",
-      "date": "2026-10-30T22:11:44.000Z",
-      "description": "Alors que la crise de la RAM frappe le monde entier, Sam Altman, dirigeant d'OpenAI à qui l'on doit ChatGPT, estime qu'elle est mal utilisée.",
-      "excerpt": "Alors que la crise de la RAM frappe le monde entier, Sam Altman, dirigeant d'OpenAI à qui l'on doit ChatGPT, estime qu'elle est mal utilisée.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Derrière les dérives de l'IA, qui porte la responsabilité des conseils dangereux - PC Astuces",
-      "link": "https://actu.pcastuces.com/actu-43116-derriere-les-derives-de-ia-qui-porte-la-responsabilite-des-conseils-dangereux-.htm",
-      "url": "https://actu.pcastuces.com/actu-43116-derriere-les-derives-de-ia-qui-porte-la-responsabilite-des-conseils-dangereux-.htm",
-      "publishedAt": "2026-10-30T21:05:24.000Z",
-      "date": "2026-10-30T21:05:24.000Z",
-      "description": "Le modèle GPT-4o a ainsi été désactivé de ChatGPT le 13 février 2026, soit le lendemain du décès de l'utilisatrice. L'entreprise rappelle...",
-      "excerpt": "Le modèle GPT-4o a ainsi été désactivé de ChatGPT le 13 février 2026, soit le lendemain du décès de l'utilisatrice. L'entreprise rappelle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences - OpenAI",
-      "link": "https://openai.com/fr-FR/index/helping-websites-express-ai-training-preferences/",
-      "url": "https://openai.com/fr-FR/index/helping-websites-express-ai-training-preferences/",
-      "publishedAt": "2026-10-30T20:23:11.000Z",
-      "date": "2026-10-30T20:23:11.000Z",
-      "description": "We're joining other participants in the working group in today's announcement... Uber déploie ChatGPT Work pour tous ses employés avec OpenAI.",
-      "excerpt": "We're joining other participants in the working group in today's announcement... Uber déploie ChatGPT Work pour tous ses employés avec OpenAI.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Community safety report and new protections for teens - OpenAI",
-      "link": "https://openai.com/fr-FR/index/community-safety-report-and-new-protections-for-teens/",
-      "url": "https://openai.com/fr-FR/index/community-safety-report-and-new-protections-for-teens/",
-      "publishedAt": "2026-10-30T20:01:46.000Z",
-      "date": "2026-10-30T20:01:46.000Z",
-      "description": "ChatGPT is one of the world's most widely used AI products, and we have... Dots (ouverture dans une nouvelle fenêtre) · Notes de version.",
-      "excerpt": "ChatGPT is one of the world's most widely used AI products, and we have... Dots (ouverture dans une nouvelle fenêtre) · Notes de version.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
