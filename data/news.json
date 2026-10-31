@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:25:43.089Z",
+  "generatedAt": "2026-10-31T16:31:28.294Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,76 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT: OpenAI renonce à réduire les limites de certains abonnés Pro",
+      "link": "https://www.menow.fr/chatgpt-openai-renonce-a-reduire-les-limites-de-certains-abonnes-pro/",
+      "url": "https://www.menow.fr/chatgpt-openai-renonce-a-reduire-les-limites-de-certains-abonnes-pro/",
+      "publishedAt": "2026-10-31T16:21:51.000Z",
+      "date": "2026-10-31T16:21:51.000Z",
+      "description": "ChatGPT: OpenAI renonce à réduire les limites de certains abonnés Pro... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité...",
+      "excerpt": "ChatGPT: OpenAI renonce à réduire les limites de certains abonnés Pro... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Gemini 4 Carbon, la réponse de Google pour faire mieux que ChatGPT et Claude sur le code",
+      "link": "https://leclaireur.fnac.com/article/699094-gemini-4-carbon-le-modele-avec-lequel-google-veut-doubler-openai-et-anthropic-sur-le-code/",
+      "url": "https://leclaireur.fnac.com/article/699094-gemini-4-carbon-le-modele-avec-lequel-google-veut-doubler-openai-et-anthropic-sur-le-code/",
+      "publishedAt": "2026-10-31T14:07:52.000Z",
+      "date": "2026-10-31T14:07:52.000Z",
+      "description": "Gemini 4 Carbon, la réponse de Google pour faire mieux que ChatGPT et Claude sur le code. 31 octobre 2026. ・ Par Sofian Nouira. Illustration. ©Google.",
+      "excerpt": "Gemini 4 Carbon, la réponse de Google pour faire mieux que ChatGPT et Claude sur le code. 31 octobre 2026. ・ Par Sofian Nouira. Illustration. ©Google.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Gemini vs ChatGPT: Carbon 2 $, Terra 1 $ le million [2026] - shattered.io",
+      "link": "https://shattered.io/fr/gemini-vs-chatgpt-gemini-4-carbon-vs-gpt-6-1-terra-2026/",
+      "url": "https://shattered.io/fr/gemini-vs-chatgpt-gemini-4-carbon-vs-gpt-6-1-terra-2026/",
+      "publishedAt": "2026-10-31T13:13:34.000Z",
+      "date": "2026-10-31T13:13:34.000Z",
+      "description": "OpenAI précise que Terra est disponible pour les utilisateurs Plus, Pro, Enterprise et Edu dans ChatGPT Work et Codex, et que les notes de version l'...",
+      "excerpt": "OpenAI précise que Terra est disponible pour les utilisateurs Plus, Pro, Enterprise et Edu dans ChatGPT Work et Codex, et que les notes de version l'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "IA autre que ChatGPT: 5 alternatives dès 4,99 $ [2026] - Tech Insider",
+      "link": "https://tech-insider.org/fr/ia-autre-que-chatgpt-quitter-chatgpt-migrer-memoire-2026/",
+      "url": "https://tech-insider.org/fr/ia-autre-que-chatgpt-quitter-chatgpt-migrer-memoire-2026/",
+      "publishedAt": "2026-10-31T07:45:47.000Z",
+      "date": "2026-10-31T07:45:47.000Z",
+      "description": "IA & Apprentissage AutomatiqueActualités TechGamingMatériel Cybersécurité LogicielsCloud ComputingMobile... Quitter ChatGPT: 5 Chatbots IA, dès 4...",
+      "excerpt": "IA & Apprentissage AutomatiqueActualités TechGamingMatériel Cybersécurité LogicielsCloud ComputingMobile... Quitter ChatGPT: 5 Chatbots IA, dès 4...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Configurer l'application de bureau ChatGPT avec Amazon Bedrock dans AWS GovCloud (US)",
+      "link": "https://www.lefilia.fr/article/6409796-configurer-l-application-de-bureau-chatgpt-avec-amazon-bedrock-dans-aws-govcloud-us",
+      "url": "https://www.lefilia.fr/article/6409796-configurer-l-application-de-bureau-chatgpt-avec-amazon-bedrock-dans-aws-govcloud-us",
+      "publishedAt": "2026-10-31T06:54:16.000Z",
+      "date": "2026-10-31T06:54:16.000Z",
+      "description": "Configurer l'application de bureau ChatGPT avec Amazon Bedrock dans AWS GovCloud (US)... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le...",
+      "excerpt": "Configurer l'application de bureau ChatGPT avec Amazon Bedrock dans AWS GovCloud (US)... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Zapping du jour 30/10: ChatGPT à l'Assemblée, Lagarde à la sortie, poireaux à 2 euros",
+      "link": "https://lemediaen442.fr/zapping-du-jour-30-10-chatgpt-a-lassemblee-lagarde-a-la-sortie-poireaux-a-2-euros/",
+      "url": "https://lemediaen442.fr/zapping-du-jour-30-10-chatgpt-a-lassemblee-lagarde-a-la-sortie-poireaux-a-2-euros/",
+      "publishedAt": "2026-10-31T05:22:43.000Z",
+      "date": "2026-10-31T05:22:43.000Z",
+      "description": "Bonne nouvelle pour la démocratie: les députés ont ChatGPT et les manifestants auront des blindés... Cybersécurité. Piratage informatique: des...",
+      "excerpt": "Bonne nouvelle pour la démocratie: les députés ont ChatGPT et les manifestants auront des blindés... Cybersécurité. Piratage informatique: des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Certaines start-up de cybersécurité continuent d'attirer des financements malgré les vents contraires",
+      "link": "https://www.esecurityplanet.com/fr/trends/certaines-start-up-de-cybersecurite-continuent-dattirer-des-financements-malgre-les-vents-contraires/",
+      "url": "https://www.esecurityplanet.com/fr/trends/certaines-start-up-de-cybersecurite-continuent-dattirer-des-financements-malgre-les-vents-contraires/",
+      "publishedAt": "2026-10-31T04:42:07.000Z",
+      "date": "2026-10-31T04:42:07.000Z",
+      "description": "« L'innovation en cybersécurité est bien vivante, et la cybersécurité... Les problèmes de sécurité et de confidentialité de ChatGPT persistent dans GPT...",
+      "excerpt": "« L'innovation en cybersécurité est bien vivante, et la cybersécurité... Les problèmes de sécurité et de confidentialité de ChatGPT persistent dans GPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT Pro: face à la polémique, OpenAI renonce à amputer l'abonnement - 01net.com",
       "link": "https://www.01net.com/actualites/chatgpt-pro-face-a-la-polemique-openai-renonce-a-amputer-labonnement.html",
@@ -58,76 +128,6 @@
       "description": "ChatGPT is one of the world's most widely used AI products, and we have... Dots (ouverture dans une nouvelle fenêtre) · Notes de version.",
       "excerpt": "ChatGPT is one of the world's most widely used AI products, and we have... Dots (ouverture dans une nouvelle fenêtre) · Notes de version.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI respectera un signal partagé dans robots.txt concernant les préférences d... - Unite.AI",
-      "link": "https://www.unite.ai/fr/openai-to-honor-shared-robots-txt-signal-for-ai-training-preferences/",
-      "url": "https://www.unite.ai/fr/openai-to-honor-shared-robots-txt-signal-for-ai-training-preferences/",
-      "publishedAt": "2026-10-30T19:17:24.000Z",
-      "date": "2026-10-30T19:17:24.000Z",
-      "description": "Conférences cybersécurité · Conférences robotique... OAI-SearchBot fait apparaître des sites Web dans les fonctions de recherche de ChatGPT.",
-      "excerpt": "Conférences cybersécurité · Conférences robotique... OAI-SearchBot fait apparaître des sites Web dans les fonctions de recherche de ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI annonce un rapport sur la sécurité de la communauté et de nouvelles restrictions... - Unite.AI",
-      "link": "https://www.unite.ai/fr/openai-announces-community-safety-report-and-new-teen-weapons-limits/",
-      "url": "https://www.unite.ai/fr/openai-announces-community-safety-report-and-new-teen-weapons-limits/",
-      "publishedAt": "2026-10-30T18:19:14.000Z",
-      "date": "2026-10-30T18:19:14.000Z",
-      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT pour répondre aux questions sur les attaques de masse passées.",
-      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT pour répondre aux questions sur les attaques de masse passées.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pénurie de PCB, Nikkei révèle des délais de 30 mois et des laminés 12 fois plus chers",
-      "link": "https://pasqualepillitteri.it/fr/news/28505/penurie-pcb-ia-delais-30-mois",
-      "url": "https://pasqualepillitteri.it/fr/news/28505/penurie-pcb-ia-delais-30-mois",
-      "publishedAt": "2026-10-30T16:50:21.000Z",
-      "date": "2026-10-30T16:50:21.000Z",
-      "description": "Ce que disent les sources. Les plus lus · Électronique · Cybersécurité... ChatGPT · Tesla...",
-      "excerpt": "Ce que disent les sources. Les plus lus · Électronique · Cybersécurité... ChatGPT · Tesla...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ClickFix devient l'attaque favorite des cybercriminels - DCOD | Cybersécurité",
-      "link": "https://dcod.ch/2026/10/30/clickfix-attaque-favorite/",
-      "url": "https://dcod.ch/2026/10/30/clickfix-attaque-favorite/",
-      "publishedAt": "2026-10-30T15:32:55.000Z",
-      "date": "2026-10-30T15:32:55.000Z",
-      "description": "Les attaquants conçoivent par exemple un agent sur ChatGPT qui répond normalement avant d'afficher un faux message d'interruption de service renvoyant...",
-      "excerpt": "Les attaquants conçoivent par exemple un agent sur ChatGPT qui répond normalement avant d'afficher un faux message d'interruption de service renvoyant...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le Texas poursuit OpenAI et son patron Sam Altman pour interdire ChatGPT aux mineurs",
-      "link": "https://fr.martincid.com/technologie/tech-ia-fr/le-texas-poursuit-openai-et-son-patron-sam-altman-pour-interdire-chatgpt-aux-mineurs/",
-      "url": "https://fr.martincid.com/technologie/tech-ia-fr/le-texas-poursuit-openai-et-son-patron-sam-altman-pour-interdire-chatgpt-aux-mineurs/",
-      "publishedAt": "2026-10-30T13:42:12.000Z",
-      "date": "2026-10-30T13:42:12.000Z",
-      "description": "La plupart des articles en ont retenu la version courte: le Texas veut empêcher les enfants d'utiliser ChatGPT. Mais la plainte va plus loin. Elle...",
-      "excerpt": "La plupart des articles en ont retenu la version courte: le Texas veut empêcher les enfants d'utiliser ChatGPT. Mais la plainte va plus loin. Elle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "CYBERCAP LANCE LE VILLAGE GÉNÉRATIONS AU HACKFEST 2026 POUR INITIER LES...",
-      "link": "https://www.lelezard.com/communique-cybercap-lance-le-village-generations-au-hackfest-2026-pour-initier-les-jeunes-a-la-cybersecurite-22422990.html",
-      "url": "https://www.lelezard.com/communique-cybercap-lance-le-village-generations-au-hackfest-2026-pour-initier-les-jeunes-a-la-cybersecurite-22422990.html",
-      "publishedAt": "2026-10-30T13:34:10.000Z",
-      "date": "2026-10-30T13:34:10.000Z",
-      "description": "Cette année, l'organisme innove en créant le village Générations, un espace dédié aux jeunes de 9 à 17 ans pour explorer la cybersécurité et les...",
-      "excerpt": "Cette année, l'organisme innove en créant le village Générations, un espace dédié aux jeunes de 9 à 17 ans pour explorer la cybersécurité et les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pourquoi Google mise sur des IA capables de recréer le monde?: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/economie/pourquoi-google-mise-sur-des-ia-capables-de-recreer-le-monde-CNT000002ttdDR.html",
-      "url": "https://actu.orange.fr/videos/economie/pourquoi-google-mise-sur-des-ia-capables-de-recreer-le-monde-CNT000002ttdDR.html",
-      "publishedAt": "2026-10-30T13:07:38.000Z",
-      "date": "2026-10-30T13:07:38.000Z",
-      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
-      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Le plan de GOOGLE pour tuer CHATGPT (ça s'appelle GEMINI 3) - Décode.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
