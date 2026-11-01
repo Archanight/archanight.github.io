@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:19:51.260Z",
+  "generatedAt": "2026-11-01T21:29:40.404Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT en cachette au travail: quels risques pour le salarié? - Capital.fr",
+      "link": "https://www.capital.fr/votre-carriere/chatgpt-en-cachette-au-travail-quels-risques-pour-le-salarie-1531412",
+      "url": "https://www.capital.fr/votre-carriere/chatgpt-en-cachette-au-travail-quels-risques-pour-le-salarie-1531412",
+      "publishedAt": "2026-11-01T17:01:18.000Z",
+      "date": "2026-11-01T17:01:18.000Z",
+      "description": "Saly*, cadre dans l'informatique, n'a jamais avoué à sa responsable avoir bâti un dossier entier avec ChatGPT: son orthographe soudain impeccable s'...",
+      "excerpt": "Saly*, cadre dans l'informatique, n'a jamais avoué à sa responsable avoir bâti un dossier entier avec ChatGPT: son orthographe soudain impeccable s'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cybersécurité: 14 actualités majeures du 1 novembre 2026 (dont Binance)",
+      "link": "https://dcod.ch/2026/11/01/cybersecurite-14-actualites-majeures-du-1-novembre-2026-dont-binance/",
+      "url": "https://dcod.ch/2026/11/01/cybersecurite-14-actualites-majeures-du-1-novembre-2026-dont-binance/",
+      "publishedAt": "2026-11-01T16:11:40.000Z",
+      "date": "2026-11-01T16:11:40.000Z",
+      "description": "Cybersécurité: 14 actualités majeures du 1 novembre 2026 (dont Binance)... La Suède bloque ChatGPT et Claude pour les employés du gouvernement.",
+      "excerpt": "Cybersécurité: 14 actualités majeures du 1 novembre 2026 (dont Binance)... La Suède bloque ChatGPT et Claude pour les employés du gouvernement.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "J'ai demandé à ChatGPT de corriger ses biais sexistes, s'en est suivi un bras de fer que je n...",
+      "link": "https://www.clubic.com/dossier-636610-j-ai-demande-a-chatgpt-de-corriger-ses-biais-sexistes-s-en-est-suivi-un-bras-de-fer-que-je-n-avais-pas-vu-venir.html",
+      "url": "https://www.clubic.com/dossier-636610-j-ai-demande-a-chatgpt-de-corriger-ses-biais-sexistes-s-en-est-suivi-un-bras-de-fer-que-je-n-avais-pas-vu-venir.html",
+      "publishedAt": "2026-11-01T15:18:54.000Z",
+      "date": "2026-11-01T15:18:54.000Z",
+      "description": "ChatGPT sait reconnaître les stéréotypes sexistes dans ses propres... ParChloé ClaessensSpécialiste cybersécurité. Publié le 01 novembre 2026...",
+      "excerpt": "ChatGPT sait reconnaître les stéréotypes sexistes dans ses propres... ParChloé ClaessensSpécialiste cybersécurité. Publié le 01 novembre 2026...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cymbioz lance une offre de RP par abonnement pour les startups de la Tech - CB News",
+      "link": "https://www.cbnews.fr/conseil/cymbioz-lance-offre-rp-abonnement-les-startups-tech",
+      "url": "https://www.cbnews.fr/conseil/cymbioz-lance-offre-rp-abonnement-les-startups-tech",
+      "publishedAt": "2026-11-01T14:04:16.000Z",
+      "date": "2026-11-01T14:04:16.000Z",
+      "description": "L'agence conseil en communication et influence Cymbioz, spécialisée dans la cybersécurité... Le dispositif prévoit notamment des campagnes sur ChatGPT...",
+      "excerpt": "L'agence conseil en communication et influence Cymbioz, spécialisée dans la cybersécurité... Le dispositif prévoit notamment des campagnes sur ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Le nouvel outil MCP de Suno permet aux utilisateurs de créer des chansons dans ChatGPT...",
       "link": "https://www.zimbalam.fr/le-nouvel-outil-mcp-de-suno-permet-aux-utilisateurs-de-creer-des-chansons-dans-chatgpt-claude-et-gemini-car-son-api-de-developpeur-obtient-un-portail-de-connexion-mais-reste-en-version-beta/",
@@ -88,46 +128,6 @@
       "description": "Behold the efforts of luddites. But I just changed tactics. They don't even know how much chatgpt is helping them now. They love AI. They just think...",
       "excerpt": "Behold the efforts of luddites. But I just changed tactics. They don't even know how much chatgpt is helping them now. They love AI. They just think...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Gemini 4 Carbon, la réponse de Google pour faire mieux que ChatGPT et Claude sur le code",
-      "link": "https://leclaireur.fnac.com/article/699094-gemini-4-carbon-le-modele-avec-lequel-google-veut-doubler-openai-et-anthropic-sur-le-code/",
-      "url": "https://leclaireur.fnac.com/article/699094-gemini-4-carbon-le-modele-avec-lequel-google-veut-doubler-openai-et-anthropic-sur-le-code/",
-      "publishedAt": "2026-10-31T14:07:52.000Z",
-      "date": "2026-10-31T14:07:52.000Z",
-      "description": "Gemini 4 Carbon, la réponse de Google pour faire mieux que ChatGPT et Claude sur le code. 31 octobre 2026. ・ Par Sofian Nouira. Illustration. ©Google.",
-      "excerpt": "Gemini 4 Carbon, la réponse de Google pour faire mieux que ChatGPT et Claude sur le code. 31 octobre 2026. ・ Par Sofian Nouira. Illustration. ©Google.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Gemini vs ChatGPT: Carbon 2 $, Terra 1 $ le million [2026] - shattered.io",
-      "link": "https://shattered.io/fr/gemini-vs-chatgpt-gemini-4-carbon-vs-gpt-6-1-terra-2026/",
-      "url": "https://shattered.io/fr/gemini-vs-chatgpt-gemini-4-carbon-vs-gpt-6-1-terra-2026/",
-      "publishedAt": "2026-10-31T13:13:34.000Z",
-      "date": "2026-10-31T13:13:34.000Z",
-      "description": "OpenAI précise que Terra est disponible pour les utilisateurs Plus, Pro, Enterprise et Edu dans ChatGPT Work et Codex, et que les notes de version l'...",
-      "excerpt": "OpenAI précise que Terra est disponible pour les utilisateurs Plus, Pro, Enterprise et Edu dans ChatGPT Work et Codex, et que les notes de version l'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI Tightens ChatGPT Restrictions on Weapons Information for Teens, May Pause...",
-      "link": "https://fr.tradingview.com/news/benzinga:7f7e94de9094b:0-openai-tightens-chatgpt-restrictions-on-weapons-information-for-teens-may-pause-accounts-after-repeated-violence-related-chats/",
-      "url": "https://fr.tradingview.com/news/benzinga:7f7e94de9094b:0-openai-tightens-chatgpt-restrictions-on-weapons-information-for-teens-may-pause-accounts-after-repeated-violence-related-chats/",
-      "publishedAt": "2026-10-31T11:27:48.000Z",
-      "date": "2026-10-31T11:27:48.000Z",
-      "description": "ChatGPT will be able to automatically end chats in which a user appears... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "excerpt": "ChatGPT will be able to automatically end chats in which a user appears... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA autre que ChatGPT: 5 alternatives dès 4,99 $ [2026] - Tech Insider",
-      "link": "https://tech-insider.org/fr/ia-autre-que-chatgpt-quitter-chatgpt-migrer-memoire-2026/",
-      "url": "https://tech-insider.org/fr/ia-autre-que-chatgpt-quitter-chatgpt-migrer-memoire-2026/",
-      "publishedAt": "2026-10-31T07:45:47.000Z",
-      "date": "2026-10-31T07:45:47.000Z",
-      "description": "IA & Apprentissage AutomatiqueActualités TechGamingMatériel Cybersécurité LogicielsCloud ComputingMobile... Quitter ChatGPT: 5 Chatbots IA, dès 4...",
-      "excerpt": "IA & Apprentissage AutomatiqueActualités TechGamingMatériel Cybersécurité LogicielsCloud ComputingMobile... Quitter ChatGPT: 5 Chatbots IA, dès 4...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
