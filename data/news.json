@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T03:19:25.721Z",
+  "generatedAt": "2026-11-01T12:19:51.260Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le nouvel outil MCP de Suno permet aux utilisateurs de créer des chansons dans ChatGPT...",
+      "link": "https://www.zimbalam.fr/le-nouvel-outil-mcp-de-suno-permet-aux-utilisateurs-de-creer-des-chansons-dans-chatgpt-claude-et-gemini-car-son-api-de-developpeur-obtient-un-portail-de-connexion-mais-reste-en-version-beta/",
+      "url": "https://www.zimbalam.fr/le-nouvel-outil-mcp-de-suno-permet-aux-utilisateurs-de-creer-des-chansons-dans-chatgpt-claude-et-gemini-car-son-api-de-developpeur-obtient-un-portail-de-connexion-mais-reste-en-version-beta/",
+      "publishedAt": "2026-11-01T11:10:51.000Z",
+      "date": "2026-11-01T11:10:51.000Z",
+      "description": "Suno a écrit dans les notes de version de MCP: « Connectez Suno à Claude, ChatGPT, Claude Code et d'autres clients MCP, puis créez de la musique...",
+      "excerpt": "Suno a écrit dans les notes de version de MCP: « Connectez Suno à Claude, ChatGPT, Claude Code et d'autres clients MCP, puis créez de la musique...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT ajoute le changement de compte sur iPhone et Android: ce qui reste séparé",
+      "link": "https://www.menow.fr/chatgpt-deux-comptes-iphone-android/",
+      "url": "https://www.menow.fr/chatgpt-deux-comptes-iphone-android/",
+      "publishedAt": "2026-11-01T10:48:02.000Z",
+      "date": "2026-11-01T10:48:02.000Z",
+      "description": "ChatGPT déploie le changement de compte sur iPhone et Android... L'annonce figure dans les notes de version d'OpenAI du 30 octobre. Elle...",
+      "excerpt": "ChatGPT déploie le changement de compte sur iPhone et Android... L'annonce figure dans les notes de version d'OpenAI du 30 octobre. Elle...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI confirme une seule limite d'utilisation pour ChatGPT et Codex dès décembre",
+      "link": "https://pasqualepillitteri.it/fr/news/29064/openai-confirme-limite-utilisation-chatgpt-codex-decembre",
+      "url": "https://pasqualepillitteri.it/fr/news/29064/openai-confirme-limite-utilisation-chatgpt-codex-decembre",
+      "publishedAt": "2026-11-01T08:56:37.000Z",
+      "date": "2026-11-01T08:56:37.000Z",
+      "description": "Dès décembre, les offres Plus, Pro et Business auront un quota unique en tokens pour ChatGPT et Codex. Instant n'y compte pas; la date et les...",
+      "excerpt": "Dès décembre, les offres Plus, Pro et Business auront un quota unique en tokens pour ChatGPT et Codex. Instant n'y compte pas; la date et les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI： ChatGPT 与Codex将共享额度，12月起实施 - TradingView",
+      "link": "https://fr.tradingview.com/news/panews:023836252e3f9:0/",
+      "url": "https://fr.tradingview.com/news/panews:023836252e3f9:0/",
+      "publishedAt": "2026-11-01T01:33:26.000Z",
+      "date": "2026-11-01T01:33:26.000Z",
+      "description": "... ChatGPT 与Codex不再分别计算额度，而是共享同一额度池。此次调整与OpenAI将 ChatGPT Work的智能体能力整合进 ChatGPT... Conforme à SOC 2 Conforme au RGPD. Plus...",
+      "excerpt": "... ChatGPT 与Codex不再分别计算额度，而是共享同一额度池。此次调整与OpenAI将 ChatGPT Work的智能体能力整合进 ChatGPT... Conforme à SOC 2 Conforme au RGPD. Plus...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT: faille dans les aperçus HTML corrigée, prime de 5 000 $ | Brief IA",
       "link": "https://www.briefia.fr/article/chatgpt-faille-dans-les-apercus-html-corrigee-prime-de-5-000",
@@ -87,46 +127,6 @@
       "date": "2026-10-31T07:45:47.000Z",
       "description": "IA & Apprentissage AutomatiqueActualités TechGamingMatériel Cybersécurité LogicielsCloud ComputingMobile... Quitter ChatGPT: 5 Chatbots IA, dès 4...",
       "excerpt": "IA & Apprentissage AutomatiqueActualités TechGamingMatériel Cybersécurité LogicielsCloud ComputingMobile... Quitter ChatGPT: 5 Chatbots IA, dès 4...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Configurer l'application de bureau ChatGPT avec Amazon Bedrock dans AWS GovCloud (US)",
-      "link": "https://www.lefilia.fr/article/6409796-configurer-l-application-de-bureau-chatgpt-avec-amazon-bedrock-dans-aws-govcloud-us",
-      "url": "https://www.lefilia.fr/article/6409796-configurer-l-application-de-bureau-chatgpt-avec-amazon-bedrock-dans-aws-govcloud-us",
-      "publishedAt": "2026-10-31T06:54:16.000Z",
-      "date": "2026-10-31T06:54:16.000Z",
-      "description": "Configurer l'application de bureau ChatGPT avec Amazon Bedrock dans AWS GovCloud (US)... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le...",
-      "excerpt": "Configurer l'application de bureau ChatGPT avec Amazon Bedrock dans AWS GovCloud (US)... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Plus users getting left behind again: r/ChatGPTcomplaints - Reddit",
-      "link": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1xj3260/chatgpt_plus_users_getting_left_behind_again/",
-      "url": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1xj3260/chatgpt_plus_users_getting_left_behind_again/",
-      "publishedAt": "2026-10-31T05:26:23.000Z",
-      "date": "2026-10-31T05:26:23.000Z",
-      "description": "... r/ChatGPTcomplaints. • 7mo ago. A warning to ChatGPT users: 49. 89. New ChatGPT update · r/ChatGPTcomplaints. • 4mo ago. New ChatGPT update. 27.",
-      "excerpt": "... r/ChatGPTcomplaints. • 7mo ago. A warning to ChatGPT users: 49. 89. New ChatGPT update · r/ChatGPTcomplaints. • 4mo ago. New ChatGPT update. 27.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Zapping du jour 30/10: ChatGPT à l'Assemblée, Lagarde à la sortie, poireaux à 2 euros",
-      "link": "https://lemediaen442.fr/zapping-du-jour-30-10-chatgpt-a-lassemblee-lagarde-a-la-sortie-poireaux-a-2-euros/",
-      "url": "https://lemediaen442.fr/zapping-du-jour-30-10-chatgpt-a-lassemblee-lagarde-a-la-sortie-poireaux-a-2-euros/",
-      "publishedAt": "2026-10-31T05:22:43.000Z",
-      "date": "2026-10-31T05:22:43.000Z",
-      "description": "Bonne nouvelle pour la démocratie: les députés ont ChatGPT et les manifestants auront des blindés... Cybersécurité. Piratage informatique: des...",
-      "excerpt": "Bonne nouvelle pour la démocratie: les députés ont ChatGPT et les manifestants auront des blindés... Cybersécurité. Piratage informatique: des...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Certaines start-up de cybersécurité continuent d'attirer des financements malgré les vents contraires",
-      "link": "https://www.esecurityplanet.com/fr/trends/certaines-start-up-de-cybersecurite-continuent-dattirer-des-financements-malgre-les-vents-contraires/",
-      "url": "https://www.esecurityplanet.com/fr/trends/certaines-start-up-de-cybersecurite-continuent-dattirer-des-financements-malgre-les-vents-contraires/",
-      "publishedAt": "2026-10-31T04:42:07.000Z",
-      "date": "2026-10-31T04:42:07.000Z",
-      "description": "« L'innovation en cybersécurité est bien vivante, et la cybersécurité... Les problèmes de sécurité et de confidentialité de ChatGPT persistent dans GPT...",
-      "excerpt": "« L'innovation en cybersécurité est bien vivante, et la cybersécurité... Les problèmes de sécurité et de confidentialité de ChatGPT persistent dans GPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
