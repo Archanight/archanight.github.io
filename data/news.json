@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T14:13:58.799Z",
+  "generatedAt": "2026-11-03T00:11:37.642Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,106 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Des virements Interac envoyés en double chez Desjardins | Zone Info - YouTube",
+      "link": "https://www.youtube.com/watch?v=K5qKzaRVBjE",
+      "url": "https://www.youtube.com/watch?v=K5qKzaRVBjE",
+      "publishedAt": "2026-11-02T23:14:03.000Z",
+      "date": "2026-11-02T23:14:03.000Z",
+      "description": "... cybersécurité #icirdi -- Abonnez-vous à notre chaîne Radio-Canada... On a réussi à filmer ce que ChatGPT vous cache. Le Monde. New. 591K views.",
+      "excerpt": "... cybersécurité #icirdi -- Abonnez-vous à notre chaîne Radio-Canada... On a réussi à filmer ce que ChatGPT vous cache. Le Monde. New. 591K views.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "L'évaluation LifeVal d'OpenAI met l'IA à l'épreuve de tâches pratiques du quotidien",
+      "link": "https://www.unite.ai/fr/openais-lifeval-evaluation-tests-ai-on-practical-everyday-tasks/",
+      "url": "https://www.unite.ai/fr/openais-lifeval-evaluation-tests-ai-on-practical-everyday-tasks/",
+      "publishedAt": "2026-11-02T23:05:38.000Z",
+      "date": "2026-11-02T23:05:38.000Z",
+      "description": "Sélection des tâches et données sur l'emploi du temps · Scores rapportés pour cinq processus de travail · Entraînement des modèles et rôle de ChatGPT.",
+      "excerpt": "Sélection des tâches et données sur l'emploi du temps · Scores rapportés pour cinq processus de travail · Entraînement des modèles et rôle de ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "États-Unis: une femme de 31 ans atteinte d'épilepsie meurt après avoir suivi les conseils de ChatGPT",
+      "link": "https://actu.orange.fr/videos/monde/etats-unis-une-femme-de-31-ans-atteinte-d-epilepsie-meurt-apres-avoir-suivi-les-conseils-de-chatgpt-CNT000002tvOSo.html",
+      "url": "https://actu.orange.fr/videos/monde/etats-unis-une-femme-de-31-ans-atteinte-d-epilepsie-meurt-apres-avoir-suivi-les-conseils-de-chatgpt-CNT000002tvOSo.html",
+      "publishedAt": "2026-11-02T18:18:26.000Z",
+      "date": "2026-11-02T18:18:26.000Z",
+      "description": "Une jeune Américaine est morte après avoir arrêté son traitement contre l'épilepsie sur les conseils de ChatGPT... Cybersécurité et Télésurveillance...",
+      "excerpt": "Une jeune Américaine est morte après avoir arrêté son traitement contre l'épilepsie sur les conseils de ChatGPT... Cybersécurité et Télésurveillance...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Chez Poclain, automatiser la cyber pour relancer la modernisation IT",
+      "link": "https://www.itforbusiness.fr/poclain-automatisation-cybersecurite-cloud-109231",
+      "url": "https://www.itforbusiness.fr/poclain-automatisation-cybersecurite-cloud-109231",
+      "publishedAt": "2026-11-02T17:57:11.000Z",
+      "date": "2026-11-02T17:57:11.000Z",
+      "description": "La cybersécurité mobilise désormais 40 % du temps des administrateurs... Accès à Albert ( ChatGPT for IT). +. Contenus réservés à la communauté...",
+      "excerpt": "La cybersécurité mobilise désormais 40 % du temps des administrateurs... Accès à Albert ( ChatGPT for IT). +. Contenus réservés à la communauté...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "De faux ChatGPT et Claude sur GitHub cachent un piège malgré un installateur signé",
+      "link": "https://www.menow.fr/faux-chatgpt-claude-github-yoba-installateur-signe/",
+      "url": "https://www.menow.fr/faux-chatgpt-claude-github-yoba-installateur-signe/",
+      "publishedAt": "2026-11-02T17:45:13.000Z",
+      "date": "2026-11-02T17:45:13.000Z",
+      "description": "ChatGPT ajoute le changement de... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
+      "excerpt": "ChatGPT ajoute le changement de... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand public et des outils web.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Descript Runs Live MCP Builds in Claude, ChatGPT and Codex, Showing Where First-Time...",
+      "link": "https://www.newsfilecorp.com/release/321151/Descript-Runs-Live-MCP-Builds-in-Claude-ChatGPT-and-Codex-Showing-Where-FirstTime-Setup-Can-Break?lang=fr",
+      "url": "https://www.newsfilecorp.com/release/321151/Descript-Runs-Live-MCP-Builds-in-Claude-ChatGPT-and-Codex-Showing-Where-FirstTime-Setup-Can-Break?lang=fr",
+      "publishedAt": "2026-11-02T16:44:50.000Z",
+      "date": "2026-11-02T16:44:50.000Z",
+      "description": "Descript showed how its MCP connection works across Claude, ChatGPT and Codex during a live public demonstration. To view an enhanced version of this...",
+      "excerpt": "Descript showed how its MCP connection works across Claude, ChatGPT and Codex during a live public demonstration. To view an enhanced version of this...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI instaure en décembre une enveloppe d'utilisation commune à ChatGPT et Codex",
+      "link": "https://www.unite.ai/fr/openai-sets-shared-chatgpt-and-codex-usage-allowance-for-december/",
+      "url": "https://www.unite.ai/fr/openai-sets-shared-chatgpt-and-codex-usage-allowance-for-december/",
+      "publishedAt": "2026-11-02T15:17:05.000Z",
+      "date": "2026-11-02T15:17:05.000Z",
+      "description": "ChatGPT pour Word puise également dans l'enveloppe d'utilisation commune à Codex et aux autres fonctionnalités premium, d'après les notes de version...",
+      "excerpt": "ChatGPT pour Word puise également dans l'enveloppe d'utilisation commune à Codex et aux autres fonctionnalités premium, d'après les notes de version...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT bientôt connecté à Google Health: l'IA s'attaque à vos données les plus intimes",
+      "link": "https://www.clubic.com/actualite-637108-chatgpt-veut-lire-vos-donnees-google-health-ce-que-prepare-l-application-android.html",
+      "url": "https://www.clubic.com/actualite-637108-chatgpt-veut-lire-vos-donnees-google-health-ce-que-prepare-l-application-android.html",
+      "publishedAt": "2026-11-02T14:03:08.000Z",
+      "date": "2026-11-02T14:03:08.000Z",
+      "description": "Votre poids, votre cycle menstruel ou les informations sur votre activité sexuelle pourraient bientôt alimenter les réponses de ChatGPT sur...",
+      "excerpt": "Votre poids, votre cycle menstruel ou les informations sur votre activité sexuelle pourraient bientôt alimenter les réponses de ChatGPT sur...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Shopify Edition Automne 2026: toutes les boutiques s'ouvrent aux agents IA, sans configuration",
+      "link": "https://itrnews.com/articles/211499/shopify-edition-automne-2026-toutes-les-boutiques-souvrent-aux-agents-ia-sans-configuration.html",
+      "url": "https://itrnews.com/articles/211499/shopify-edition-automne-2026-toutes-les-boutiques-souvrent-aux-agents-ia-sans-configuration.html",
+      "publishedAt": "2026-11-02T12:38:58.000Z",
+      "date": "2026-11-02T12:38:58.000Z",
+      "description": "Les marchands peuvent connecter Shopify à neuf agents, dont ChatGPT... Cybersécurité: rzilient structure une offre de bout en bout pour les...",
+      "excerpt": "Les marchands peuvent connecter Shopify à neuf agents, dont ChatGPT... Cybersécurité: rzilient structure une offre de bout en bout pour les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Prompts ChatGPT pour le bureau, la méthode en 4 étapes et 8 modèles à copier",
+      "link": "https://pasqualepillitteri.it/fr/news/29491/prompts-chatgpt-bureau-methode-modeles",
+      "url": "https://pasqualepillitteri.it/fr/news/29491/prompts-chatgpt-bureau-methode-modeles",
+      "publishedAt": "2026-11-02T11:42:08.000Z",
+      "date": "2026-11-02T11:42:08.000Z",
+      "description": "Une méthode en 4 étapes et 8 modèles de prompts ChatGPT pour vos documents, e-mails et rapports, avec projets, plugins et Codex après la fin des...",
+      "excerpt": "Une méthode en 4 étapes et 8 modèles de prompts ChatGPT pour vos documents, e-mails et rapports, avec projets, plugins et Codex après la fin des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "ACOTAR book 6 release - YouTube",
       "link": "https://www.youtube.com/watch?v=HtYkjslJjhk",
@@ -20,113 +120,13 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "Une faille de ChatGPT permettait à un lien partagé de lire vos conversations privées",
-      "link": "https://www.notebookcheck.biz/Une-faille-de-ChatGPT-permettait-a-un-lien-partage-de-lire-vos-conversations-privees.1439984.0.html",
-      "url": "https://www.notebookcheck.biz/Une-faille-de-ChatGPT-permettait-a-un-lien-partage-de-lire-vos-conversations-privees.1439984.0.html",
-      "publishedAt": "2026-11-02T10:06:30.000Z",
-      "date": "2026-11-02T10:06:30.000Z",
-      "description": "Il suffisait d'ouvrir un lien de partage ChatGPT provenant d'un inconnu pour qu'un attaquant puisse lire vos conversations privées et agir sur...",
-      "excerpt": "Il suffisait d'ouvrir un lien de partage ChatGPT provenant d'un inconnu pour qu'un attaquant puisse lire vos conversations privées et agir sur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT vs Gemini vs Claude: combien coûtent les abonnements à l'IA aujourd'hui",
-      "link": "https://www.notebookcheck.biz/ChatGPT-vs-Gemini-vs-Claude-combien-coutent-les-abonnements-a-l-IA-aujourd-hui.1439709.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-vs-Gemini-vs-Claude-combien-coutent-les-abonnements-a-l-IA-aujourd-hui.1439709.0.html",
-      "publishedAt": "2026-11-02T09:21:22.000Z",
-      "date": "2026-11-02T09:21:22.000Z",
-      "description": "OpenAI, Google et Anthropic ont remanié leurs offres en octobre. Nous avons comparé les tarifs aux États-Unis de ChatGPT, Gemini,...",
-      "excerpt": "OpenAI, Google et Anthropic ont remanié leurs offres en octobre. Nous avons comparé les tarifs aux États-Unis de ChatGPT, Gemini,...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Chatbot IA Agent: 5 offres de 14,99 à 500 $ [2026] - Tech Insider",
-      "link": "https://tech-insider.org/fr/chatbot-ia-agent-perplexity-computer-chatgpt-work-vibe-2026/",
-      "url": "https://tech-insider.org/fr/chatbot-ia-agent-perplexity-computer-chatgpt-work-vibe-2026/",
-      "publishedAt": "2026-11-02T08:23:33.000Z",
-      "date": "2026-11-02T08:23:33.000Z",
-      "description": "Chatbot IA agent: Perplexity Computer, ChatGPT Work, Gemini 4 Argon, Mistral Vibe et Claude comparés... update force la mise à jour immédiate.",
-      "excerpt": "Chatbot IA agent: Perplexity Computer, ChatGPT Work, Gemini 4 Argon, Mistral Vibe et Claude comparés... update force la mise à jour immédiate.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Arnaques dopées à l'IA - Comment ne pas tomber dans le panneau - Korben",
-      "link": "https://korben.info/arnaques-dopees-ia-comment-se-proteger.html",
-      "url": "https://korben.info/arnaques-dopees-ia-comment-se-proteger.html",
-      "publishedAt": "2026-11-02T07:49:24.000Z",
-      "date": "2026-11-02T07:49:24.000Z",
-      "description": "... ( chatgpt.com) qui va vous pousser à installer un affreux malware. Et n... Voilà comme d'hab quand il s'agit de cybersécurité, tout se joue d...",
-      "excerpt": "... ( chatgpt.com) qui va vous pousser à installer un affreux malware. Et n... Voilà comme d'hab quand il s'agit de cybersécurité, tout se joue d...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "En Chine, le flop du premier film 100% IA, par Anthony Morel - 02/11: Actualités - Orange",
-      "link": "https://actu.orange.fr/videos/economie/culture-ia-en-chine-le-flop-du-premier-film-100-ia-par-anthony-morel-02-11-CNT000002tvrJC.html",
-      "url": "https://actu.orange.fr/videos/economie/culture-ia-en-chine-le-flop-du-premier-film-100-ia-par-anthony-morel-02-11-CNT000002tvrJC.html",
-      "publishedAt": "2026-11-02T07:09:44.000Z",
-      "date": "2026-11-02T07:09:44.000Z",
-      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Culture IA: La pub débarque sur ChatGPT, par Anthony Morel - 19/01.",
-      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo. +... Culture IA: La pub débarque sur ChatGPT, par Anthony Morel - 19/01.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Vie privée IA: Claude 5 ans, ChatGPT 90 jours [2026] - shattered.io",
-      "link": "https://shattered.io/fr/chatgpt-vs-claude-vs-gemini-confidentialite-rgpd-2026/",
-      "url": "https://shattered.io/fr/chatgpt-vs-claude-vs-gemini-confidentialite-rgpd-2026/",
-      "publishedAt": "2026-11-02T06:50:31.000Z",
-      "date": "2026-11-02T06:50:31.000Z",
-      "description": "Selon les notes de version, le déploiement de certaines fonctions d... Sur la page tarifaire de ChatGPT, ChatGPT Plus s'affiche à 20 $ par...",
-      "excerpt": "Selon les notes de version, le déploiement de certaines fonctions d... Sur la page tarifaire de ChatGPT, ChatGPT Plus s'affiche à 20 $ par...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Shopify Edition Automne 2026: toutes les boutiques s'ouvrent aux agents IA, sans configuration",
-      "link": "https://itchannel.info/articles/211499/shopify-edition-automne-2026-toutes-les-boutiques-souvrent-aux-agents-ia-sans-configuration.html",
-      "url": "https://itchannel.info/articles/211499/shopify-edition-automne-2026-toutes-les-boutiques-souvrent-aux-agents-ia-sans-configuration.html",
-      "publishedAt": "2026-11-02T06:39:22.000Z",
-      "date": "2026-11-02T06:39:22.000Z",
-      "description": "Les développeurs accèdent, via Shop.dev, au même catalogue et à la même infrastructure de paiement que ChatGPT... cybersécurité souveraine, annon...",
-      "excerpt": "Les développeurs accèdent, via Shop.dev, au même catalogue et à la même infrastructure de paiement que ChatGPT... cybersécurité souveraine, annon...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI double Work et Codex pour Pro 100 et 500 et annule la baisse de Pro 200 - NeoTeo",
-      "link": "https://www.neoteo.com/fr/openai-double-work-et-codex-pour-pro-100-et-500-et-annule-la-baisse-de-pro-200",
-      "url": "https://www.neoteo.com/fr/openai-double-work-et-codex-pour-pro-100-et-500-et-annule-la-baisse-de-pro-200",
-      "publishedAt": "2026-11-02T04:49:57.000Z",
-      "date": "2026-11-02T04:49:57.000Z",
-      "description": "La mise à jour s'est appliquée automatiquement, sans attendre le renouvellement de l'abonnement (conditions des forfaits ChatGPT Pro, notes de version...",
-      "excerpt": "La mise à jour s'est appliquée automatiquement, sans attendre le renouvellement de l'abonnement (conditions des forfaits ChatGPT Pro, notes de version...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Une application ChatGPT fausse diffuse du malware via Google - VOI",
-      "link": "https://voi.id/fr/teknologi/600927",
-      "url": "https://voi.id/fr/teknologi/600927",
-      "publishedAt": "2026-11-01T23:49:54.000Z",
-      "date": "2026-11-01T23:49:54.000Z",
-      "description": "... ChatGPT fausse diffuse du malware via Google Les applications de... Les chercheurs en cybersécurité de Check Point Research ont suivi la...",
-      "excerpt": "... ChatGPT fausse diffuse du malware via Google Les applications de... Les chercheurs en cybersécurité de Check Point Research ont suivi la...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT en cachette au travail: quels risques pour le salarié? - Capital.fr",
-      "link": "https://www.capital.fr/votre-carriere/chatgpt-en-cachette-au-travail-quels-risques-pour-le-salarie-1531412",
-      "url": "https://www.capital.fr/votre-carriere/chatgpt-en-cachette-au-travail-quels-risques-pour-le-salarie-1531412",
-      "publishedAt": "2026-11-01T17:01:18.000Z",
-      "date": "2026-11-01T17:01:18.000Z",
-      "description": "Saly*, cadre dans l'informatique, n'a jamais avoué à sa responsable avoir bâti un dossier entier avec ChatGPT: son orthographe soudain impeccable s'...",
-      "excerpt": "Saly*, cadre dans l'informatique, n'a jamais avoué à sa responsable avoir bâti un dossier entier avec ChatGPT: son orthographe soudain impeccable s'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI durcit les limites imposées aux informations sur les armes accessibles aux...",
-      "link": "https://mezha.net/fr/news/mezha-ff04aa2907eabf0a2794f538_openai-durcit-les-limites-imposees-aux/",
-      "url": "https://mezha.net/fr/news/mezha-ff04aa2907eabf0a2794f538_openai-durcit-les-limites-imposees-aux/",
-      "publishedAt": "2026-11-01T16:25:44.000Z",
-      "date": "2026-11-01T16:25:44.000Z",
-      "description": "Johannes Landgraf, responsable de la cybersécurité chez OpenAI, a décrit la menace ainsi:... ChatGPT. L'entreprise a indiqué que ses règles actuelles...",
-      "excerpt": "Johannes Landgraf, responsable de la cybersécurité chez OpenAI, a décrit la menace ainsi:... ChatGPT. L'entreprise a indiqué que ses règles actuelles...",
+      "title": "OpenAI limite les détails sur les armes pour les utilisateurs adolescents de ChatGPT",
+      "link": "https://fr.dataconomy.com/2026/11/02/openai-limite-les-details-sur-les-armes-pour-les-utilisateurs-adolescents-de-chatgpt/",
+      "url": "https://fr.dataconomy.com/2026/11/02/openai-limite-les-details-sur-les-armes-pour-les-utilisateurs-adolescents-de-chatgpt/",
+      "publishedAt": "2026-11-02T11:06:01.000Z",
+      "date": "2026-11-02T11:06:01.000Z",
+      "description": "Pour tous les utilisateurs, ChatGPT limitera les reconstitutions détaillées... Google dévoile Gemini 4 Carbon pour le codage et la cybersécurité.",
+      "excerpt": "Pour tous les utilisateurs, ChatGPT limitera les reconstitutions détaillées... Google dévoile Gemini 4 Carbon pour le codage et la cybersécurité.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
