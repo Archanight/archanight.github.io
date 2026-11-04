@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T22:41:49.515Z",
+  "generatedAt": "2026-11-04T03:57:26.836Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Bouygues Telecom propose ses services via ChatGPT - La Revue du Digital",
+      "link": "https://www.larevuedudigital.com/bouygues-telecom-propose-ses-services-via-chatgpt/",
+      "url": "https://www.larevuedudigital.com/bouygues-telecom-propose-ses-services-via-chatgpt/",
+      "publishedAt": "2026-11-03T23:27:27.000Z",
+      "date": "2026-11-03T23:27:27.000Z",
+      "description": "Les utilisateurs de ChatGPT pourront désormais dialoguer en langage naturel afin de comparer les offres de téléphonie fixe et mobile de Bouygues...",
+      "excerpt": "Les utilisateurs de ChatGPT pourront désormais dialoguer en langage naturel afin de comparer les offres de téléphonie fixe et mobile de Bouygues...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Bouygues Telecom arrive dans ChatGPT, même avec un compte gratuit - Menow",
+      "link": "https://www.menow.fr/bouygues-telecom-chatgpt-application-compte-gratuit/",
+      "url": "https://www.menow.fr/bouygues-telecom-chatgpt-application-compte-gratuit/",
+      "publishedAt": "2026-11-03T23:24:35.000Z",
+      "date": "2026-11-03T23:24:35.000Z",
+      "description": "Bouygues Telecom lance une application dans ChatGPT pour explorer ses offres et choisir un téléphone. L'achat se termine sur le site de...",
+      "excerpt": "Bouygues Telecom lance une application dans ChatGPT pour explorer ses offres et choisir un téléphone. L'achat se termine sur le site de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT: les agents IA Dots deviennent plus puissants et encore plus autonomes - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6428909-chatgpt-les-agents-ia-dots-deviennent-plus-puissants-et-encore-plus-autonomes",
+      "url": "https://www.lefilia.fr/article/6428909-chatgpt-les-agents-ia-dots-deviennent-plus-puissants-et-encore-plus-autonomes",
+      "publishedAt": "2026-11-03T23:14:09.000Z",
+      "date": "2026-11-03T23:14:09.000Z",
+      "description": "OpenAI vient de mettre à jour Dots, ses agents d'intelligence artificielle intégrés à ChatGPT, conçus pour travailler à distance à la place de…",
+      "excerpt": "OpenAI vient de mettre à jour Dots, ses agents d'intelligence artificielle intégrés à ChatGPT, conçus pour travailler à distance à la place de…",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI: ChatGPT atteint 20 % du volume de recherche de Google - Brief IA",
       "link": "https://www.briefia.fr/article/openai-chatgpt-atteint-20-du-volume-de-recherche-de-google",
@@ -98,36 +128,6 @@
       "description": "ChatGPT: OpenAI prépare une grosse refonte de son application de bureau... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
       "excerpt": "ChatGPT: OpenAI prépare une grosse refonte de son application de bureau... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude, Gemini, ChatGPT: pourquoi ce nouveau classement ne suffit pas à choisir votre IA",
-      "link": "https://www.menow.fr/claude-gemini-chatgpt-gdpx-classement-limites-comparatif/",
-      "url": "https://www.menow.fr/claude-gemini-chatgpt-gdpx-classement-limites-comparatif/",
-      "publishedAt": "2026-11-03T15:00:48.000Z",
-      "date": "2026-11-03T15:00:48.000Z",
-      "description": "La présentation originale de GDPx vise des domaines comme le logiciel, la finance, le droit, la cybersécurité ou la conception matérielle. Les...",
-      "excerpt": "La présentation originale de GDPx vise des domaines comme le logiciel, la finance, le droit, la cybersécurité ou la conception matérielle. Les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT nouveau canal client de Bouygues Telecom - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/chatgpt-nouveau-canal-client-de-bouygues-telecom-507167.htm",
-      "url": "https://www.zdnet.fr/actualites/chatgpt-nouveau-canal-client-de-bouygues-telecom-507167.htm",
-      "publishedAt": "2026-11-03T14:55:09.000Z",
-      "date": "2026-11-03T14:55:09.000Z",
-      "description": "Bouygues Telecom dispose désormais d'une application ChatGPT connectée à ses API et d'un canal client supplémentaire... Cybersécurité · Cyberattaque...",
-      "excerpt": "Bouygues Telecom dispose désormais d'une application ChatGPT connectée à ses API et d'un canal client supplémentaire... Cybersécurité · Cyberattaque...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Piloter son SEO depuis son IA: Sedestral connecte ses agents à Claude et ChatGPT grâce au MCP",
-      "link": "https://www.abondance.com/20261103-3058144-pilotage-seo-sedestral-connexion-mcp-claude-chatgpt.html",
-      "url": "https://www.abondance.com/20261103-3058144-pilotage-seo-sedestral-connexion-mcp-claude-chatgpt.html",
-      "publishedAt": "2026-11-03T14:31:03.000Z",
-      "date": "2026-11-03T14:31:03.000Z",
-      "description": "Le MCP en deux mots, et pourquoi c'est un game changer pour le SEO Ouvrez Claude ou ChatGPT chez la plupart des référenceurs, et vous y trouverez...",
-      "excerpt": "Le MCP en deux mots, et pourquoi c'est un game changer pour le SEO Ouvrez Claude ou ChatGPT chez la plupart des référenceurs, et vous y trouverez...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
