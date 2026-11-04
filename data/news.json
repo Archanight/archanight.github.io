@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T03:57:26.836Z",
+  "generatedAt": "2026-11-04T13:29:01.045Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,123 +10,123 @@
   "failedSources": [],
   "items": [
     {
-      "title": "Bouygues Telecom propose ses services via ChatGPT - La Revue du Digital",
-      "link": "https://www.larevuedudigital.com/bouygues-telecom-propose-ses-services-via-chatgpt/",
-      "url": "https://www.larevuedudigital.com/bouygues-telecom-propose-ses-services-via-chatgpt/",
-      "publishedAt": "2026-11-03T23:27:27.000Z",
-      "date": "2026-11-03T23:27:27.000Z",
-      "description": "Les utilisateurs de ChatGPT pourront désormais dialoguer en langage naturel afin de comparer les offres de téléphonie fixe et mobile de Bouygues...",
-      "excerpt": "Les utilisateurs de ChatGPT pourront désormais dialoguer en langage naturel afin de comparer les offres de téléphonie fixe et mobile de Bouygues...",
+      "title": "ChatGPT pèse déjà un cinquième des recherches de Google - Korben",
+      "link": "https://korben.info/chatgpt-pese-deja-un-cinquieme-des-recherches-de-google.html",
+      "url": "https://korben.info/chatgpt-pese-deja-un-cinquieme-des-recherches-de-google.html",
+      "publishedAt": "2026-11-04T11:02:15.000Z",
+      "date": "2026-11-04T11:02:15.000Z",
+      "description": "Selon Adam Fry d'OpenAI, les recherches via ChatGPT représenteraient 20 % du volume de Google, un chiffre invérifiable car la source du calcul n'a...",
+      "excerpt": "Selon Adam Fry d'OpenAI, les recherches via ChatGPT représenteraient 20 % du volume de Google, un chiffre invérifiable car la source du calcul n'a...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Bouygues Telecom arrive dans ChatGPT, même avec un compte gratuit - Menow",
-      "link": "https://www.menow.fr/bouygues-telecom-chatgpt-application-compte-gratuit/",
-      "url": "https://www.menow.fr/bouygues-telecom-chatgpt-application-compte-gratuit/",
-      "publishedAt": "2026-11-03T23:24:35.000Z",
-      "date": "2026-11-03T23:24:35.000Z",
-      "description": "Bouygues Telecom lance une application dans ChatGPT pour explorer ses offres et choisir un téléphone. L'achat se termine sur le site de...",
-      "excerpt": "Bouygues Telecom lance une application dans ChatGPT pour explorer ses offres et choisir un téléphone. L'achat se termine sur le site de...",
+      "title": "Piratage de Binance: faux recruteur, logiciel malveillant et outil d'IA détourné, le récit d'une...",
+      "link": "https://www.zdnet.fr/actualites/piratage-de-binance-faux-recruteur-logiciel-malveillant-et-outil-dia-detourne-le-recit-dune-attaque-de-plusieurs-mois-507233.htm",
+      "url": "https://www.zdnet.fr/actualites/piratage-de-binance-faux-recruteur-logiciel-malveillant-et-outil-dia-detourne-le-recit-dune-attaque-de-plusieurs-mois-507233.htm",
+      "publishedAt": "2026-11-04T10:31:44.000Z",
+      "date": "2026-11-04T10:31:44.000Z",
+      "description": "J'utilise ChatGPT Plus et Google AI Pro: l'un pour ses avantages, l'autre pour le travail. Voici une comparaison entre les deux en matière de...",
+      "excerpt": "J'utilise ChatGPT Plus et Google AI Pro: l'un pour ses avantages, l'autre pour le travail. Voici une comparaison entre les deux en matière de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Comparatif GPT-5.2 vs GLM 5.3 Abliterated / Uncensored (novembre 2026) - OrcaRouter",
+      "link": "https://www.orcarouter.ai/fr/compare/gpt-5.2-vs-orcacyber-glm-5.3",
+      "url": "https://www.orcarouter.ai/fr/compare/gpt-5.2-vs-orcacyber-glm-5.3",
+      "publishedAt": "2026-11-04T10:28:23.000Z",
+      "date": "2026-11-04T10:28:23.000Z",
+      "description": "GPT-5.2GPT-5.2 OpenAI GPT-5.2: 400K de contexte... GLM 5.3 Abliterated / UncensoredGLM 5.3 Abliterated / UncensoredUn modèle de cybersécurité...",
+      "excerpt": "GPT-5.2GPT-5.2 OpenAI GPT-5.2: 400K de contexte... GLM 5.3 Abliterated / UncensoredGLM 5.3 Abliterated / UncensoredUn modèle de cybersécurité...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT atteint déjà 20 % du volume de recherche de Google, selon OpenAI - Clubic",
+      "link": "https://www.clubic.com/actualite-637510-chatgpt-atteint-deja-20-du-volume-de-recherche-de-google-selon-openai.html",
+      "url": "https://www.clubic.com/actualite-637510-chatgpt-atteint-deja-20-du-volume-de-recherche-de-google-selon-openai.html",
+      "publishedAt": "2026-11-04T09:59:06.000Z",
+      "date": "2026-11-04T09:59:06.000Z",
+      "description": "Cybersécurité · Intelligence artificielle · Logiciels & services · PC... ChatGPT atteint déjà 20 % du volume de recherche de Google, selon OpenAI.",
+      "excerpt": "Cybersécurité · Intelligence artificielle · Logiciels & services · PC... ChatGPT atteint déjà 20 % du volume de recherche de Google, selon OpenAI.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT: de plus en plus de gens font leurs recherches avec l'IA, mais Google domine encore",
+      "link": "https://www.phonandroid.com/chatgpt-de-plus-en-plus-de-gens-font-leurs-recherches-avec-lia-mais-google-domine-encore.html",
+      "url": "https://www.phonandroid.com/chatgpt-de-plus-en-plus-de-gens-font-leurs-recherches-avec-lia-mais-google-domine-encore.html",
+      "publishedAt": "2026-11-04T09:53:23.000Z",
+      "date": "2026-11-04T09:53:23.000Z",
+      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT: de plus en plus de gens font leurs recherches avec l'IA, mais...",
+      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... ChatGPT: de plus en plus de gens font leurs recherches avec l'IA, mais...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Netflix lance AI Discover: une intelligence artificielle qui recommande des films et séries...",
+      "link": "https://www.zdnet.fr/actualites/netflix-lance-ai-discover-une-intelligence-artificielle-qui-recommande-des-films-et-series-selon-votre-humeur-507238.htm",
+      "url": "https://www.zdnet.fr/actualites/netflix-lance-ai-discover-une-intelligence-artificielle-qui-recommande-des-films-et-series-selon-votre-humeur-507238.htm",
+      "publishedAt": "2026-11-04T09:27:01.000Z",
+      "date": "2026-11-04T09:27:01.000Z",
+      "description": "Bouygues Telecom dispose désormais d'une application ChatGPT connectée à ses API. Pour l'opérateur, le conversationnel d'OpenAI constitue un canal...",
+      "excerpt": "Bouygues Telecom dispose désormais d'une application ChatGPT connectée à ses API. Pour l'opérateur, le conversationnel d'OpenAI constitue un canal...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT atteint 20 % du volume de recherches de Google, selon OpenAI - KultureGeek",
+      "link": "https://kulturegeek.fr/news-363251/chatgpt-atteint-20-volume-recherches-google-openai",
+      "url": "https://kulturegeek.fr/news-363251/chatgpt-atteint-20-volume-recherches-google-openai",
+      "publishedAt": "2026-11-04T08:57:48.000Z",
+      "date": "2026-11-04T08:57:48.000Z",
+      "description": "GPT-5.2 arrive bientôt: OpenAI va contrer Gemini 3 avec ChatGPT... cybersécurité fondée... Manette Xbox Series. Xbox Game Pass: les jeux...",
+      "excerpt": "GPT-5.2 arrive bientôt: OpenAI va contrer Gemini 3 avec ChatGPT... cybersécurité fondée... Manette Xbox Series. Xbox Game Pass: les jeux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT affirme déjà peser 20 % du volume de recherche de Google",
+      "link": "https://leclaireur.fnac.com/article/699478-chatgpt-affirme-deja-peser-20-du-volume-de-recherche-de-google/",
+      "url": "https://leclaireur.fnac.com/article/699478-chatgpt-affirme-deja-peser-20-du-volume-de-recherche-de-google/",
+      "publishedAt": "2026-11-04T08:18:57.000Z",
+      "date": "2026-11-04T08:18:57.000Z",
+      "description": "... ChatGPT 6.1. Actu. Société numérique. •. 01 oct. 2026. OpenAI dévoile GPT-6.1 Sol, un modèle qui talonne Astra mais passe au rouge en cybersécurité.",
+      "excerpt": "... ChatGPT 6.1. Actu. Société numérique. •. 01 oct. 2026. OpenAI dévoile GPT-6.1 Sol, un modèle qui talonne Astra mais passe au rouge en cybersécurité.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI高管称 ChatGPT 搜索量已达到谷歌的20% - TradingView",
+      "link": "https://fr.tradingview.com/news/gelonghui:0acbe632ee3f9:0/",
+      "url": "https://fr.tradingview.com/news/gelonghui:0acbe632ee3f9:0/",
+      "publishedAt": "2026-11-04T04:43:33.000Z",
+      "date": "2026-11-04T04:43:33.000Z",
+      "description": "... ChatGPT 创建15亿张图片，此外， ChatGPT... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "excerpt": "... ChatGPT 创建15亿张图片，此外， ChatGPT... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI： ChatGPT 搜索查询量已达谷歌的20% - TradingView",
+      "link": "https://fr.tradingview.com/news/panews:1abf8776eacdf:0/",
+      "url": "https://fr.tradingview.com/news/panews:1abf8776eacdf:0/",
+      "publishedAt": "2026-11-04T03:13:49.000Z",
+      "date": "2026-11-04T03:13:49.000Z",
+      "description": "PANews 11月4日消息，据The Verge报道，OpenAI消费者产品负责人Adam Fry表示， ChatGPT 处理的搜索查询量已达到谷歌的20%。... Conforme à SOC 2 Conforme au RGPD.",
+      "excerpt": "PANews 11月4日消息，据The Verge报道，OpenAI消费者产品负责人Adam Fry表示， ChatGPT 处理的搜索查询量已达到谷歌的20%。... Conforme à SOC 2 Conforme au RGPD.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Classic va disparaître le 30 janvier: l'ancienne application invite à changer de version",
+      "link": "https://www.menow.fr/chatgpt-classic-fin-30-janvier-2027-application/",
+      "url": "https://www.menow.fr/chatgpt-classic-fin-30-janvier-2027-application/",
+      "publishedAt": "2026-11-04T02:51:15.000Z",
+      "date": "2026-11-04T02:51:15.000Z",
+      "description": "Un message dans ChatGPT Classic annonce son retrait le 30 janvier 2027. La transition concerne l'ancienne application, avec l'historique conservé.",
+      "excerpt": "Un message dans ChatGPT Classic annonce son retrait le 30 janvier 2027. La transition concerne l'ancienne application, avec l'historique conservé.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "ChatGPT: les agents IA Dots deviennent plus puissants et encore plus autonomes - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6428909-chatgpt-les-agents-ia-dots-deviennent-plus-puissants-et-encore-plus-autonomes",
-      "url": "https://www.lefilia.fr/article/6428909-chatgpt-les-agents-ia-dots-deviennent-plus-puissants-et-encore-plus-autonomes",
-      "publishedAt": "2026-11-03T23:14:09.000Z",
-      "date": "2026-11-03T23:14:09.000Z",
-      "description": "OpenAI vient de mettre à jour Dots, ses agents d'intelligence artificielle intégrés à ChatGPT, conçus pour travailler à distance à la place de…",
-      "excerpt": "OpenAI vient de mettre à jour Dots, ses agents d'intelligence artificielle intégrés à ChatGPT, conçus pour travailler à distance à la place de…",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI: ChatGPT atteint 20 % du volume de recherche de Google - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-chatgpt-atteint-20-du-volume-de-recherche-de-google",
-      "url": "https://www.briefia.fr/article/openai-chatgpt-atteint-20-du-volume-de-recherche-de-google",
-      "publishedAt": "2026-11-03T19:35:25.000Z",
-      "date": "2026-11-03T19:35:25.000Z",
-      "description": "... cybersécurité révélé par OpenAI pour souligner le manque d'encadrement... OpenAI va fusionner les onglets Chat et Travail dans ChatGPT ChatGPT...",
-      "excerpt": "... cybersécurité révélé par OpenAI pour souligner le manque d'encadrement... OpenAI va fusionner les onglets Chat et Travail dans ChatGPT ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Apple Intelligence arrive en Chine avec Qwen à la place de ChatGPT - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/29775/apple-intelligence-chine-qwen-ios-27-3",
-      "url": "https://pasqualepillitteri.it/fr/news/29775/apple-intelligence-chine-qwen-ios-27-3",
-      "publishedAt": "2026-11-03T19:30:24.000Z",
-      "date": "2026-11-03T19:30:24.000Z",
-      "description": "Apple Intelligence arrive en Chine avec iOS 27.3, bêta le 4 novembre et sortie en décembre. Qwen d'Alibaba prend le rôle de ChatGPT, Siri AI reste...",
-      "excerpt": "Apple Intelligence arrive en Chine avec iOS 27.3, bêta le 4 novembre et sortie en décembre. Qwen d'Alibaba prend le rôle de ChatGPT, Siri AI reste...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI s'allie à d'anciens cyber-agents du DOGE pour renforcer sa sécurité - KultureGeek",
-      "link": "https://kulturegeek.fr/news-363238/openai-sallie-danciens-cyber-agents-doge-renforcer-securite",
-      "url": "https://kulturegeek.fr/news-363238/openai-sallie-danciens-cyber-agents-doge-renforcer-securite",
-      "publishedAt": "2026-11-03T18:46:08.000Z",
-      "date": "2026-11-03T18:46:08.000Z",
-      "description": "OpenAI renforce ses défenses en s'associant à Cathedral Systems, une jeune entreprise de cybersécurité fondée notamment par d'anciens membres du...",
-      "excerpt": "OpenAI renforce ses défenses en s'associant à Cathedral Systems, une jeune entreprise de cybersécurité fondée notamment par d'anciens membres du...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI va fusionner les onglets « Chat » et « Work » de ChatGPT, voici quand cela aura...",
-      "link": "https://www.zdnet.fr/actualites/openai-va-fusionner-les-onglets-chat-et-work-de-chatgpt-voici-quand-cela-aura-lieu-et-a-quoi-sattendre-507217.htm",
-      "url": "https://www.zdnet.fr/actualites/openai-va-fusionner-les-onglets-chat-et-work-de-chatgpt-voici-quand-cela-aura-lieu-et-a-quoi-sattendre-507217.htm",
-      "publishedAt": "2026-11-03T18:37:14.000Z",
-      "date": "2026-11-03T18:37:14.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... Actuellement, l'application de bureau de ChatGPT comporte une...",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... Actuellement, l'application de bureau de ChatGPT comporte une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des chercheurs du MIT ont utilisé le modèle GPT-6 Astra d'OpenAI pour modifier...",
-      "link": "https://intelligence-artificielle.developpez.com/actu/388699/Des-chercheurs-du-MIT-ont-utilise-le-modele-GPT-6-Astra-d-OpenAI-pour-modifier-directement-le-modele-IA-Qwen-d-Alibaba-ameliorant-ses-performances-mathematiques-sans-avoir-a-le-reentrainer/?amp",
-      "url": "https://intelligence-artificielle.developpez.com/actu/388699/Des-chercheurs-du-MIT-ont-utilise-le-modele-GPT-6-Astra-d-OpenAI-pour-modifier-directement-le-modele-IA-Qwen-d-Alibaba-ameliorant-ses-performances-mathematiques-sans-avoir-a-le-reentrainer/?amp",
-      "publishedAt": "2026-11-03T17:45:11.000Z",
-      "date": "2026-11-03T17:45:11.000Z",
-      "description": "... cybersécurité « Daybreak », puis un déploiement auprès des abonnés aux formules ChatGPT Plus, Pro, Business et Enterprise. Le modèle réparé par...",
-      "excerpt": "... cybersécurité « Daybreak », puis un déploiement auprès des abonnés aux formules ChatGPT Plus, Pro, Business et Enterprise. Le modèle réparé par...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT et Codex partageront une même limite d'utilisation à partir de décembre",
-      "link": "https://www.notebookcheck.biz/ChatGPT-et-Codex-partageront-une-meme-limite-d-utilisation-a-partir-de-decembre.1440932.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-et-Codex-partageront-une-meme-limite-d-utilisation-a-partir-de-decembre.1440932.0.html",
-      "publishedAt": "2026-11-03T15:48:33.000Z",
-      "date": "2026-11-03T15:48:33.000Z",
-      "description": "À partir de décembre, ChatGPT et Codex partageront un quota d'utilisation unique pour les forfaits Plus, Pro et Business.",
-      "excerpt": "À partir de décembre, ChatGPT et Codex partageront un quota d'utilisation unique pour les forfaits Plus, Pro et Business.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI embauche un ancien secrétaire américain à l'Armée de terre | JDM - Le Journal de Montréal",
-      "link": "https://www.journaldemontreal.com/2026/11/03/openai-embauche-un-ancien-secretaire-americain-a-larmee-de-terre",
-      "url": "https://www.journaldemontreal.com/2026/11/03/openai-embauche-un-ancien-secretaire-americain-a-larmee-de-terre",
-      "publishedAt": "2026-11-03T15:38:53.000Z",
-      "date": "2026-11-03T15:38:53.000Z",
-      "description": "... Une photo prise le 23 novembre 2023 montre le logo de l'application ChatGPT, développée par l'organisation américaine de recherche en...",
-      "excerpt": "... Une photo prise le 23 novembre 2023 montre le logo de l'application ChatGPT, développée par l'organisation américaine de recherche en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT fusionne Chat et Work et prépare un quota commun en décembre - Korben",
-      "link": "https://korben.info/chatgpt-fusionne-chat-et-work-et-prepare-un-quota-commun-en-decembre.html",
-      "url": "https://korben.info/chatgpt-fusionne-chat-et-work-et-prepare-un-quota-commun-en-decembre.html",
-      "publishedAt": "2026-11-03T15:17:16.000Z",
-      "date": "2026-11-03T15:17:16.000Z",
-      "description": "ChatGPT fusionne Chat et Work et prépare un quota commun en décembre. 3... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
-      "excerpt": "ChatGPT fusionne Chat et Work et prépare un quota commun en décembre. 3... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: OpenAI prépare une grosse refonte de son application de bureau - 01net.com",
-      "link": "https://www.01net.com/actualites/chatgpt-openai-prepare-une-grosse-refonte-de-son-application-de-bureau.html",
-      "url": "https://www.01net.com/actualites/chatgpt-openai-prepare-une-grosse-refonte-de-son-application-de-bureau.html",
-      "publishedAt": "2026-11-03T15:17:02.000Z",
-      "date": "2026-11-03T15:17:02.000Z",
-      "description": "ChatGPT: OpenAI prépare une grosse refonte de son application de bureau... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
-      "excerpt": "ChatGPT: OpenAI prépare une grosse refonte de son application de bureau... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits...",
+      "title": "OpenAI affirme que ChatGPT rattrape Google dans la recherche en ligne - Le Fil IA",
+      "link": "https://www.lefilia.fr/article/6430086-openai-affirme-que-chatgpt-rattrape-google-dans-la-recherche-en-ligne",
+      "url": "https://www.lefilia.fr/article/6430086-openai-affirme-que-chatgpt-rattrape-google-dans-la-recherche-en-ligne",
+      "publishedAt": "2026-11-04T00:54:18.000Z",
+      "date": "2026-11-04T00:54:18.000Z",
+      "description": "OpenAI affirme que le volume de recherches effectuées via ChatGPT représente désormais 20 % de celui de Google... Cybersécurité IASouveraineté IATous...",
+      "excerpt": "OpenAI affirme que le volume de recherches effectuées via ChatGPT représente désormais 20 % de celui de Google... Cybersécurité IASouveraineté IATous...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
