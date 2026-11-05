@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T22:59:33.292Z",
+  "generatedAt": "2026-11-05T04:18:07.578Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Daybreak Red est désormais disponible dans AWS GovCloud (US-East) - OpenAI",
+      "link": "https://openai.com/fr-FR/index/daybreak-red-aws-govcloud/",
+      "url": "https://openai.com/fr-FR/index/daybreak-red-aws-govcloud/",
+      "publishedAt": "2026-11-04T21:35:32.000Z",
+      "date": "2026-11-04T21:35:32.000Z",
+      "description": "Essayer ChatGPT (ouverture dans une nouvelle fenêtre) Connexion. OpenAI... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "excerpt": "Essayer ChatGPT (ouverture dans une nouvelle fenêtre) Connexion. OpenAI... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Adobe brings customer experience AI agent to ChatGPT, Claude and Gemini - TradingView",
+      "link": "https://fr.tradingview.com/news/seekingalpha:64cb25db8094b:0-adobe-brings-customer-experience-ai-agent-to-chatgpt-claude-and-gemini/",
+      "url": "https://fr.tradingview.com/news/seekingalpha:64cb25db8094b:0-adobe-brings-customer-experience-ai-agent-to-chatgpt-claude-and-gemini/",
+      "publishedAt": "2026-11-04T20:35:23.000Z",
+      "date": "2026-11-04T20:35:23.000Z",
+      "description": "... ChatGPT NASDAQ:OPENAI, Anthropic's Claude (ANTHRO), Databricks Genie... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "excerpt": "... ChatGPT NASDAQ:OPENAI, Anthropic's Claude (ANTHRO), Databricks Genie... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "ChatGPT ajoute la création et la retouche de GIF animés avec Images 2.6 - Unite.AI",
       "link": "https://www.unite.ai/fr/chatgpt-adds-animated-gif-creation-and-editing-with-images-2-6/",
@@ -108,26 +128,6 @@
       "description": "PrimeXBT a lancé l'intégration MCP permettant de relier ChatGPT et Claude aux comptes de trading pour une assistance IA et une exécution assistée.",
       "excerpt": "PrimeXBT a lancé l'intégration MCP permettant de relier ChatGPT et Claude aux comptes de trading pour une assistance IA et une exécution assistée.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI dévoile Pando, le backend Git construit avec Codex en 10 semaines",
-      "link": "https://pasqualepillitteri.it/fr/news/30091/openai-devoile-pando-backend-git-codex",
-      "url": "https://pasqualepillitteri.it/fr/news/30091/openai-devoile-pando-backend-git-codex",
-      "publishedAt": "2026-11-04T13:34:19.000Z",
-      "date": "2026-11-04T13:34:19.000Z",
-      "description": "Cybersécurité · Électronique · Claude · Nvidia · Applis Mobiles · Robotique...",
-      "excerpt": "Cybersécurité · Électronique · Claude · Nvidia · Applis Mobiles · Robotique...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT and Claude Reach More Trading Accounts, With Different Rules on Approval",
-      "link": "https://fr.tradingview.com/news/financemagnates:f184f6505094b:0-chatgpt-and-claude-reach-more-trading-accounts-with-different-rules-on-approval/",
-      "url": "https://fr.tradingview.com/news/financemagnates:f184f6505094b:0-chatgpt-and-claude-reach-more-trading-accounts-with-different-rules-on-approval/",
-      "publishedAt": "2026-11-04T13:13:37.000Z",
-      "date": "2026-11-04T13:13:37.000Z",
-      "description": "PrimeXBT today (Wednesday) opened client accounts to ChatGPT and Claude through the Model Context Protocol (MCP)... Conforme à SOC 2 Conforme au RGPD.",
-      "excerpt": "PrimeXBT today (Wednesday) opened client accounts to ChatGPT and Claude through the Model Context Protocol (MCP)... Conforme à SOC 2 Conforme au RGPD.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
