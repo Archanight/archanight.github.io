@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:01:22.350Z",
+  "generatedAt": "2026-11-06T04:15:54.454Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Technologie 24h: L'IA pénètre profondément dans l'industrie du tourisme, les tablettes...",
+      "link": "https://fr.laodong.vn/cong-nghe/cong-nghe-24h-ai-tien-sau-vao-nganh-du-lich-may-tinh-bang-toan-cau-giam-23-1795554.ldo",
+      "url": "https://fr.laodong.vn/cong-nghe/cong-nghe-24h-ai-tien-sau-vao-nganh-du-lich-may-tinh-bang-toan-cau-giam-23-1795554.ldo",
+      "publishedAt": "2026-11-06T00:45:16.000Z",
+      "date": "2026-11-06T00:45:16.000Z",
+      "description": "OpenAI a annoncé qu'un nouveau modèle axé sur la cybersécurité, ChatGPT... cybersécurité Daybreak Red, qui fournit aux chercheurs en...",
+      "excerpt": "OpenAI a annoncé qu'un nouveau modèle axé sur la cybersécurité, ChatGPT... cybersécurité Daybreak Red, qui fournit aux chercheurs en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI poursuivi: ChatGPT accusé d'avoir aidé un empoisonnement - Brief IA",
       "link": "https://www.briefia.fr/article/openai-poursuivi-chatgpt-accuse-d-avoir-aide-un-empoisonnement",
@@ -25,9 +35,9 @@
       "url": "https://www.youtube.com/watch?v=_yCo2UTncz4",
       "publishedAt": "2026-11-05T21:27:59.000Z",
       "date": "2026-11-05T21:27:59.000Z",
-      "description": "... chatgpt bouscule la domination de google -Meta, google.. la tech... cybersécurité, smartphones, astuces, conseils d'achat, tests produits...",
-      "excerpt": "... chatgpt bouscule la domination de google -Meta, google.. la tech... cybersécurité, smartphones, astuces, conseils d'achat, tests produits...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "description": "... chatgpt bouscule la domination de google -Meta, google.. la tech taille dans ses effectifs -AMD: la bataille avec nvidia s'intensifie -Marvell...",
+      "excerpt": "... chatgpt bouscule la domination de google -Meta, google.. la tech taille dans ses effectifs -AMD: la bataille avec nvidia s'intensifie -Marvell...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "OpenAI lance GPT-6 Cyber pour traquer les failles et tester leur exploitation - Clubic",
@@ -38,6 +48,16 @@
       "description": "OpenAI range donc GPT-6 Cyber au niveau « critique », le plus élevé de son échelle de risque en cybersécurité.... Suivre ses colis avec ChatGPT, la...",
       "excerpt": "OpenAI range donc GPT-6 Cyber au niveau « critique », le plus élevé de son échelle de risque en cybersécurité.... Suivre ses colis avec ChatGPT, la...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Prix Goncourt winner Philippe Jaenada winner touts using AI - LeMonde.fr",
+      "link": "https://www.lemonde.fr/en/culture/article/2026/11/05/prix-goncourt-winner-philippe-jaenada-winner-touts-using-ai_6772966_30.html",
+      "url": "https://www.lemonde.fr/en/culture/article/2026/11/05/prix-goncourt-winner-philippe-jaenada-winner-touts-using-ai_6772966_30.html",
+      "publishedAt": "2026-11-05T20:44:11.000Z",
+      "date": "2026-11-05T20:44:11.000Z",
+      "description": "The novelist told France Inter radio that he first used AI to insert a sentence written by ChatGPT to 'play with the reader.'",
+      "excerpt": "The novelist told France Inter radio that he first used AI to insert a sentence written by ChatGPT to 'play with the reader.'",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "OpenAI lance ChatGPT Cyber et promet 1 Md$ pour la cybersécurité - Brief IA",
@@ -107,26 +127,6 @@
       "date": "2026-11-05T16:11:45.000Z",
       "description": "Cybersécurité · ChatGPT · Claude · Développement Logiciel · Apple · Robotique...",
       "excerpt": "Cybersécurité · ChatGPT · Claude · Développement Logiciel · Apple · Robotique...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "\"Une mine d'or inexploitée\": alors que le référencement Google ne suffit plus, les marques...",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/une-mine-d-or-inexploitee-alors-que-le-referencement-google-ne-suffit-plus-les-marques-et-meme-les-influenceurs-tentent-de-se-faire-reperer-par-chat-gpt-et-gemini_AV-202611050602.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/une-mine-d-or-inexploitee-alors-que-le-referencement-google-ne-suffit-plus-les-marques-et-meme-les-influenceurs-tentent-de-se-faire-reperer-par-chat-gpt-et-gemini_AV-202611050602.html",
-      "publishedAt": "2026-11-05T15:46:35.000Z",
-      "date": "2026-11-05T15:46:35.000Z",
-      "description": "Alors que les internautes utilisent de plus en plus ChatGPT, Gemini ou Perplexity pour trouver des informations, les marques cherchent à...",
-      "excerpt": "Alors que les internautes utilisent de plus en plus ChatGPT, Gemini ou Perplexity pour trouver des informations, les marques cherchent à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Comment l'IA révolutionne déjà nos vacances: \"Bien utilisée, elle rend plus libre\"",
-      "link": "https://actu.orange.fr/monde/comment-l-ia-revolutionne-deja-nos-vacances-bien-utilisee-elle-rend-plus-libre-l-express-CNT000002tzlZ2.html",
-      "url": "https://actu.orange.fr/monde/comment-l-ia-revolutionne-deja-nos-vacances-bien-utilisee-elle-rend-plus-libre-l-express-CNT000002tzlZ2.html",
-      "publishedAt": "2026-11-05T15:22:03.000Z",
-      "date": "2026-11-05T15:22:03.000Z",
-      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo... ChatGPT. Toutefois, si l'adoption de l'IA dans nos habitudes de voyages...",
-      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. iPhone Duo... ChatGPT. Toutefois, si l'adoption de l'IA dans nos habitudes de voyages...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
