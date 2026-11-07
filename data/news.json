@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T22:31:31.883Z",
+  "generatedAt": "2026-11-07T03:46:42.885Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-6 Cyber, VFlash et l'évaluation R&D d'Anthropic - Brief IA",
+      "link": "https://www.briefia.fr/article/gpt-6-cyber-vflash-et-l-evaluation-r-d-d-anthropic",
+      "url": "https://www.briefia.fr/article/gpt-6-cyber-vflash-et-l-evaluation-r-d-d-anthropic",
+      "publishedAt": "2026-11-06T21:22:30.000Z",
+      "date": "2026-11-06T21:22:30.000Z",
+      "description": "... cybersécurité et à l'interaction avec les utilisateurs. Inkling 2 Small... ChatGPT Images 2.6 disponible pour tous, avec génération de GIF...",
+      "excerpt": "... cybersécurité et à l'interaction avec les utilisateurs. Inkling 2 Small... ChatGPT Images 2.6 disponible pour tous, avec génération de GIF...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI s'associe à Hacktron pour tester les connexions aux services tiers - Unite.AI",
       "link": "https://www.unite.ai/fr/openai-partners-with-hacktron-to-test-third-party-service-connections/",
@@ -110,23 +120,13 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Comment les entreprises de services peuvent-elles composer avec les clients qui consultent...",
-      "link": "https://www.unite.ai/fr/ai-briefed-clients-accounting-firms/",
-      "url": "https://www.unite.ai/fr/ai-briefed-clients-accounting-firms/",
-      "publishedAt": "2026-11-06T11:56:58.000Z",
-      "date": "2026-11-06T11:56:58.000Z",
-      "description": "Conférences cybersécurité... Le graphique de l'entreprise comportait une mise en garde précisant que ChatGPT n'est pas censé remplacer les conseils d'...",
-      "excerpt": "Conférences cybersécurité... Le graphique de l'entreprise comportait une mise en garde précisant que ChatGPT n'est pas censé remplacer les conseils d'...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "États-Unis: vote sur les data centers, Google affiche ses priorités IA - Brief IA",
-      "link": "https://www.briefia.fr/article/etats-unis-vote-sur-les-data-centers-google-affiche-ses-priorites-ia",
-      "url": "https://www.briefia.fr/article/etats-unis-vote-sur-les-data-centers-google-affiche-ses-priorites-ia",
-      "publishedAt": "2026-11-06T11:23:15.000Z",
-      "date": "2026-11-06T11:23:15.000Z",
-      "description": "OpenAI lance ChatGPT Cyber et promet 1 Md$ pour la cybersécurité. OpenAI annonce ChatGPT Cyber pour la cybersécurité offensive Un chercheur a...",
-      "excerpt": "OpenAI lance ChatGPT Cyber et promet 1 Md$ pour la cybersécurité. OpenAI annonce ChatGPT Cyber pour la cybersécurité offensive Un chercheur a...",
+      "title": "#signalia #ia # chatgpt #google # cybersécurité #frenchtech | Julien Bosselut - LinkedIn",
+      "link": "https://fr.linkedin.com/posts/julienbosselut_signalia-ia-chatgpt-activity-7524012905747423234-uiqK",
+      "url": "https://fr.linkedin.com/posts/julienbosselut_signalia-ia-chatgpt-activity-7524012905747423234-uiqK",
+      "publishedAt": "2026-11-06T12:34:28.000Z",
+      "date": "2026-11-06T12:34:28.000Z",
+      "description": "... complète, inscription et groupe WhatsApp → en commentaire #SignalIA #IA # ChatGPT #Google # Cybersécurité #FrenchTech.",
+      "excerpt": "... complète, inscription et groupe WhatsApp → en commentaire #SignalIA #IA # ChatGPT #Google # Cybersécurité #FrenchTech.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
