@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T12:06:32.104Z",
+  "generatedAt": "2026-11-07T21:13:49.729Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le mode Lockdown de ChatGPT pourrait être contourné pour voler votre historique de conversations",
+      "link": "https://www.notebookcheck.biz/Le-mode-Lockdown-de-ChatGPT-pourrait-etre-contourne-pour-voler-votre-historique-de-conversations.1444810.0.html",
+      "url": "https://www.notebookcheck.biz/Le-mode-Lockdown-de-ChatGPT-pourrait-etre-contourne-pour-voler-votre-historique-de-conversations.1444810.0.html",
+      "publishedAt": "2026-11-07T15:50:33.000Z",
+      "date": "2026-11-07T15:50:33.000Z",
+      "description": "Check Point a trouvé un moyen de le contourner et, dans l'application de bureau ChatGPT Classic, l'attaque ne nécessitait aucun clic. OpenAI a corrigé...",
+      "excerpt": "Check Point a trouvé un moyen de le contourner et, dans l'application de bureau ChatGPT Classic, l'attaque ne nécessitait aucun clic. OpenAI a corrigé...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "L'IA, pompier ou pyromane de la sécurité? - La Libre - LaLibre.be",
+      "link": "https://www.lalibre.be/economie/digital/2026/11/07/lia-pompier-ou-pyromane-de-la-securite-GCIJVHUD45GDHHCCUG4HMSH2SM/",
+      "url": "https://www.lalibre.be/economie/digital/2026/11/07/lia-pompier-ou-pyromane-de-la-securite-GCIJVHUD45GDHHCCUG4HMSH2SM/",
+      "publishedAt": "2026-11-07T15:06:09.000Z",
+      "date": "2026-11-07T15:06:09.000Z",
+      "description": "À la mi-octobre, le Centre pour la cybersécurité Belgique (CCB) a fait ses comptes: il a déjà reçu cette année plus de signalements d'incidents que...",
+      "excerpt": "À la mi-octobre, le Centre pour la cybersécurité Belgique (CCB) a fait ses comptes: il a déjà reçu cette année plus de signalements d'incidents que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Plainte contre OpenAI: les accusations sur ChatGPT - NeoTeo",
+      "link": "https://www.neoteo.com/fr/james-gates-poursuit-openai-accusant-chatgpt-davoir-aide-a-preparer-une-tentative-dempoisonnement",
+      "url": "https://www.neoteo.com/fr/james-gates-poursuit-openai-accusant-chatgpt-davoir-aide-a-preparer-une-tentative-dempoisonnement",
+      "publishedAt": "2026-11-07T13:38:21.000Z",
+      "date": "2026-11-07T13:38:21.000Z",
+      "description": "La plainte de James Gates accuse ChatGPT d'avoir aidé son épouse à préparer une tentative d'empoisonnement. Cheryl Gates n'est plus poursuivie au...",
+      "excerpt": "La plainte de James Gates accuse ChatGPT d'avoir aidé son épouse à préparer une tentative d'empoisonnement. Cheryl Gates n'est plus poursuivie au...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "OpenAI Launches ChatGPT Cyber and Promises $1 Billion for Cybersecurity - Brief IA",
       "link": "https://www.briefia.fr/en/article/openai-launches-chatgpt-cyber-and-promises-1-billion-for-cybersecurity",
@@ -98,36 +128,6 @@
       "description": "HomeView: iOS 27.3 révèle les préparatifs d'Apple pour accueillir les chatbots IA comme Claude ou ChatGPT... The update also adds bidirectional audio...",
       "excerpt": "HomeView: iOS 27.3 révèle les préparatifs d'Apple pour accueillir les chatbots IA comme Claude ou ChatGPT... The update also adds bidirectional audio...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Cyberattaques: quand le monde réel sera ciblé par des agents IA en essaim - Tech 24",
-      "link": "https://www.france24.com/fr/%C3%A9missions/tech-24/20261106-cyberattaques-quand-le-monde-r%C3%A9el-sera-cibl%C3%A9-par-des-agents-ia-en-essaim",
-      "url": "https://www.france24.com/fr/%C3%A9missions/tech-24/20261106-cyberattaques-quand-le-monde-r%C3%A9el-sera-cibl%C3%A9-par-des-agents-ia-en-essaim",
-      "publishedAt": "2026-11-06T14:47:41.000Z",
-      "date": "2026-11-06T14:47:41.000Z",
-      "description": "... cybersécurité (ANSSI) vérifie des données sur un ordinateur à Paris, le... Torturer ChatGPT, quelle drôle d'idée! Contenu vidéo Émission.",
-      "excerpt": "... cybersécurité (ANSSI) vérifie des données sur un ordinateur à Paris, le... Torturer ChatGPT, quelle drôle d'idée! Contenu vidéo Émission.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "La société de cybersécurité CrowdStrike a lancé un « kill switch - Intelligence artificielle",
-      "link": "https://intelligence-artificielle.developpez.com/actu/388815/La-societe-de-cybersecurite-CrowdStrike-a-lance-un-kill-switch-d-urgence-concu-pour-desactiver-instantanement-les-agents-d-IA-malveillants-operant-au-sein-des-reseaux-d-entreprise/?amp",
-      "url": "https://intelligence-artificielle.developpez.com/actu/388815/La-societe-de-cybersecurite-CrowdStrike-a-lance-un-kill-switch-d-urgence-concu-pour-desactiver-instantanement-les-agents-d-IA-malveillants-operant-au-sein-des-reseaux-d-entreprise/?amp",
-      "publishedAt": "2026-11-06T13:33:05.000Z",
-      "date": "2026-11-06T13:33:05.000Z",
-      "description": "David Robinson, qui a dirigé la rédaction des rapports de sécurité accompagnant les lancements de produits du développeur de ChatGPT, a expliqué...",
-      "excerpt": "David Robinson, qui a dirigé la rédaction des rapports de sécurité accompagnant les lancements de produits du développeur de ChatGPT, a expliqué...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-6 Cyber, un nouveau modèle classé \"critique\" qui promet de réduire les risques en...",
-      "link": "https://leclaireur.fnac.com/article/699902-gpt-6-cyber-un-nouveau-modele-classe-critique-qui-promet-de-reduire-les-risques-en-cybersecurite/",
-      "url": "https://leclaireur.fnac.com/article/699902-gpt-6-cyber-un-nouveau-modele-classe-critique-qui-promet-de-reduire-les-risques-en-cybersecurite/",
-      "publishedAt": "2026-11-06T13:26:12.000Z",
-      "date": "2026-11-06T13:26:12.000Z",
-      "description": "GPT-6 Cyber, un nouveau modèle classé « critique » qui promet de réduire les risques en cybersécurité... ChatGPT se met au GIF animé avec Images...",
-      "excerpt": "GPT-6 Cyber, un nouveau modèle classé « critique » qui promet de réduire les risques en cybersécurité... ChatGPT se met au GIF animé avec Images...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
