@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:27:31.797Z",
+  "generatedAt": "2026-11-08T21:28:46.304Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,86 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI confirme le Pro 500 à 50x le Plus, sans limite de 5 heures - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/31081/openai-confirme-pro-500-50x-plus",
+      "url": "https://pasqualepillitteri.it/fr/news/31081/openai-confirme-pro-500-50x-plus",
+      "publishedAt": "2026-11-08T17:15:53.000Z",
+      "date": "2026-11-08T17:15:53.000Z",
+      "description": "ChatGPT Big Tech Droit & Réglementation Cybersécurité Actualités...",
+      "excerpt": "ChatGPT Big Tech Droit & Réglementation Cybersécurité Actualités...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Adieu Google, ChatGPT et WhatsApp: nous avons remplacé leurs applications du quotidien...",
+      "link": "https://www.lesnumeriques.com/societe-numerique/adieu-google-chatgpt-et-whatsapp-nous-avons-remplace-leurs-applications-du-quotidien-par-des-equivalents-europeens-241-n260695.html",
+      "url": "https://www.lesnumeriques.com/societe-numerique/adieu-google-chatgpt-et-whatsapp-nous-avons-remplace-leurs-applications-du-quotidien-par-des-equivalents-europeens-241-n260695.html",
+      "publishedAt": "2026-11-08T16:43:38.000Z",
+      "date": "2026-11-08T16:43:38.000Z",
+      "description": "Bureautique, IA, GPS ou messagerie: voici sept alternatives européennes pour reprendre la main sur vos données. Adieu Google, ChatGPT et WhatsApp:...",
+      "excerpt": "Bureautique, IA, GPS ou messagerie: voici sept alternatives européennes pour reprendre la main sur vos données. Adieu Google, ChatGPT et WhatsApp:...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT peut désormais créer des GIFs et enregistrer vos photos pour de futures conversations",
+      "link": "https://www.notebookcheck.biz/ChatGPT-peut-desormais-creer-des-GIFs-et-enregistrer-vos-photos-pour-de-futures-conversations.1445227.0.html",
+      "url": "https://www.notebookcheck.biz/ChatGPT-peut-desormais-creer-des-GIFs-et-enregistrer-vos-photos-pour-de-futures-conversations.1445227.0.html",
+      "publishedAt": "2026-11-08T16:38:26.000Z",
+      "date": "2026-11-08T16:38:26.000Z",
+      "description": "Source(s). OpenAI: Présentation d'Images 2.6 · Centre d'aide OpenAI: Les images dans ChatGPT · Centre d'aide OpenAI: Notes de version de ChatGPT.",
+      "excerpt": "Source(s). OpenAI: Présentation d'Images 2.6 · Centre d'aide OpenAI: Les images dans ChatGPT · Centre d'aide OpenAI: Notes de version de ChatGPT.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "« Ne cherche pas à me plaire »: les conseils des experts pour transformer ChatGPT... - Challenges",
+      "link": "https://www.challenges.fr/vie-de-lentreprise/ne-cherche-pas-a-me-plaire-les-conseils-des-experts-pour-transformer-chatgpt-en-veritable-coach-de-carriere-et-negocier-une-meilleure-remuneration_646814",
+      "url": "https://www.challenges.fr/vie-de-lentreprise/ne-cherche-pas-a-me-plaire-les-conseils-des-experts-pour-transformer-chatgpt-en-veritable-coach-de-carriere-et-negocier-une-meilleure-remuneration_646814",
+      "publishedAt": "2026-11-08T16:01:56.000Z",
+      "date": "2026-11-08T16:01:56.000Z",
+      "description": "ChatGPT, qui vient de naître, lui prodigue des arguments financiers: un basketteur débutant professionnel ne dépassera pas 50 000 euros annuels. Pour...",
+      "excerpt": "ChatGPT, qui vient de naître, lui prodigue des arguments financiers: un basketteur débutant professionnel ne dépassera pas 50 000 euros annuels. Pour...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT bloque des comptes: même les utilisateurs Pro sont touchés. - HiTech.Expert",
+      "link": "https://expert.com.ua/fr/233231-chatgpt-blokue-akaunti-strazhdayut-navit-pro-koristuvachi.html",
+      "url": "https://expert.com.ua/fr/233231-chatgpt-blokue-akaunti-strazhdayut-navit-pro-koristuvachi.html",
+      "publishedAt": "2026-11-08T14:37:18.000Z",
+      "date": "2026-11-08T14:37:18.000Z",
+      "description": "Cet utilisateur avait non seulement souscrit un abonnement Pro, mais participait également aux programmes de cybersécurité d'OpenAI. Son compte...",
+      "excerpt": "Cet utilisateur avait non seulement souscrit un abonnement Pro, mais participait également aux programmes de cybersécurité d'OpenAI. Son compte...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-6 Cyber: OpenAI classe son nouveau modèle de sécurité comme Critique",
+      "link": "https://www.notebookcheck.biz/GPT-6-Cyber-OpenAI-classe-son-nouveau-modele-de-securite-comme-Critique.1445225.0.html",
+      "url": "https://www.notebookcheck.biz/GPT-6-Cyber-OpenAI-classe-son-nouveau-modele-de-securite-comme-Critique.1445225.0.html",
+      "publishedAt": "2026-11-08T14:18:33.000Z",
+      "date": "2026-11-08T14:18:33.000Z",
+      "description": "... cybersécurité, le niveau le plus élevé. Pour l'instant, seules les... De fausses applications ChatGPT et Claude dissimulent des logiciels...",
+      "excerpt": "... cybersécurité, le niveau le plus élevé. Pour l'instant, seules les... De fausses applications ChatGPT et Claude dissimulent des logiciels...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Meilleure IA pour coder: Claude 1 810 Elo en tête [2026] - Tech Insider",
+      "link": "https://tech-insider.org/fr/meilleure-ia-pour-coder-copilot-vs-chatgpt-vs-claude-vs-gemini-2026/",
+      "url": "https://tech-insider.org/fr/meilleure-ia-pour-coder-copilot-vs-chatgpt-vs-claude-vs-gemini-2026/",
+      "publishedAt": "2026-11-08T13:01:42.000Z",
+      "date": "2026-11-08T13:01:42.000Z",
+      "description": "... GPT-5 Instant et Thinking) le 13 février. Le rythme est rapide, il... OpenAI a retiré le modèle de ChatGPT, ChatGPT Work et Codex. La leçon...",
+      "excerpt": "... GPT-5 Instant et Thinking) le 13 février. Le rythme est rapide, il... OpenAI a retiré le modèle de ChatGPT, ChatGPT Work et Codex. La leçon...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Correcteur d'orthographe IA: 6 outils, dès 0 € [2026] - shattered.io",
+      "link": "https://shattered.io/fr/correcteur-orthographe-ia-antidote-languagetool-grammarly-2026/",
+      "url": "https://shattered.io/fr/correcteur-orthographe-ia-antidote-languagetool-grammarly-2026/",
+      "publishedAt": "2026-11-08T12:52:01.000Z",
+      "date": "2026-11-08T12:52:01.000Z",
+      "description": "ChatGPT devient moins complaisant. Le 29 octobre, d'après les notes de version relayées par nos sources, OpenAI a ajusté GPT-6 dans Chat pour des...",
+      "excerpt": "ChatGPT devient moins complaisant. Le 29 octobre, d'après les notes de version relayées par nos sources, OpenAI a ajusté GPT-6 dans Chat pour des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "OpenAI annonce le lancement de GPT-6 Cyber après avoir identifié plus de 1 000 failles de...",
       "link": "https://intelligence-artificielle.developpez.com/actu/388851/OpenAI-annonce-le-lancement-de-GPT-6-Cyber-apres-avoir-identifie-plus-de-1-000-failles-de-securite-dans-Linux-et-Firefox-et-le-classe-dans-la-categorie-Critique-de-son-cadre-de-preparation/?amp",
@@ -20,6 +100,26 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "DeepMind dévoile deux failles dans le RSA 1024 bits, le 2048 bits reste sûr",
+      "link": "https://pasqualepillitteri.it/fr/news/31137/deepmind-devoile-deux-failles-rsa-1024-bits",
+      "url": "https://pasqualepillitteri.it/fr/news/31137/deepmind-devoile-deux-failles-rsa-1024-bits",
+      "publishedAt": "2026-11-08T09:37:46.000Z",
+      "date": "2026-11-08T09:37:46.000Z",
+      "description": "Cybersécurité · Apple · Claude · Actualités IA & Tendances · ChatGPT · IA...",
+      "excerpt": "Cybersécurité · Apple · Claude · Actualités IA & Tendances · ChatGPT · IA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Brockman d'OpenAI dévoile sa prévision, la mort deviendrait un choix - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/31131/brockman-openai-mort-choix-18-mois",
+      "url": "https://pasqualepillitteri.it/fr/news/31131/brockman-openai-mort-choix-18-mois",
+      "publishedAt": "2026-11-08T09:35:45.000Z",
+      "date": "2026-11-08T09:35:45.000Z",
+      "description": "Cybersécurité · Actualités IA & Tendances · ChatGPT · IA chinoise...",
+      "excerpt": "Cybersécurité · Actualités IA & Tendances · ChatGPT · IA chinoise...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "OpenAI lance GPT-6 Cyber: l'IA qui a déniché 81 failles critiques dans Firefox | MCETV",
       "link": "https://mcetv.ouest-france.fr/2026/gpt-6-cyber-openai-failles-firefox/",
       "url": "https://mcetv.ouest-france.fr/2026/gpt-6-cyber-openai-failles-firefox/",
@@ -27,106 +127,6 @@
       "date": "2026-11-08T04:35:48.000Z",
       "description": "OpenAI dévoile GPT-6 Cyber, une IA dédiée à la cybersécurité: 81 failles critiques repérées dans Firefox, 948 sous Linux. On vous explique tout.",
       "excerpt": "OpenAI dévoile GPT-6 Cyber, une IA dédiée à la cybersécurité: 81 failles critiques repérées dans Firefox, 948 sous Linux. On vous explique tout.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-6 Cyber: 948 exploits Linux, accès restreint [2026] - shattered.io",
-      "link": "https://shattered.io/fr/gpt-6-cyber-openai-948-exploits-linux-daybreak-red-2026/",
-      "url": "https://shattered.io/fr/gpt-6-cyber-openai-948-exploits-linux-daybreak-red-2026/",
-      "publishedAt": "2026-11-08T03:45:36.000Z",
-      "date": "2026-11-08T03:45:36.000Z",
-      "description": "OpenAI a présenté GPT-6 Cyber le 5 novembre 2026, un modèle de cybersécurité... Pas de prix public, pas d'accès via un abonnement ChatGPT, pas de page...",
-      "excerpt": "OpenAI a présenté GPT-6 Cyber le 5 novembre 2026, un modèle de cybersécurité... Pas de prix public, pas d'accès via un abonnement ChatGPT, pas de page...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "SoftBank Plans ChatGPT Rollout For Employees Amid AI Push - TradingView",
-      "link": "https://fr.tradingview.com/news/moodys:ad73f5f087afd:0-softbank-plans-chatgpt-rollout-for-employees-amid-ai-push/?mobileapp_new=true",
-      "url": "https://fr.tradingview.com/news/moodys:ad73f5f087afd:0-softbank-plans-chatgpt-rollout-for-employees-amid-ai-push/?mobileapp_new=true",
-      "publishedAt": "2026-11-07T20:33:03.000Z",
-      "date": "2026-11-07T20:33:03.000Z",
-      "description": "... ChatGPT, for its employees as part of a broader partnership li... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "excerpt": "... ChatGPT, for its employees as part of a broader partnership li... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le mode Lockdown de ChatGPT pourrait être contourné pour voler votre historique de conversations",
-      "link": "https://www.notebookcheck.biz/Le-mode-Lockdown-de-ChatGPT-pourrait-etre-contourne-pour-voler-votre-historique-de-conversations.1444810.0.html",
-      "url": "https://www.notebookcheck.biz/Le-mode-Lockdown-de-ChatGPT-pourrait-etre-contourne-pour-voler-votre-historique-de-conversations.1444810.0.html",
-      "publishedAt": "2026-11-07T15:50:33.000Z",
-      "date": "2026-11-07T15:50:33.000Z",
-      "description": "Check Point a trouvé un moyen de le contourner et, dans l'application de bureau ChatGPT Classic, l'attaque ne nécessitait aucun clic. OpenAI a corrigé...",
-      "excerpt": "Check Point a trouvé un moyen de le contourner et, dans l'application de bureau ChatGPT Classic, l'attaque ne nécessitait aucun clic. OpenAI a corrigé...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "L'IA, pompier ou pyromane de la sécurité? - La Libre - LaLibre.be",
-      "link": "https://www.lalibre.be/economie/digital/2026/11/07/lia-pompier-ou-pyromane-de-la-securite-GCIJVHUD45GDHHCCUG4HMSH2SM/",
-      "url": "https://www.lalibre.be/economie/digital/2026/11/07/lia-pompier-ou-pyromane-de-la-securite-GCIJVHUD45GDHHCCUG4HMSH2SM/",
-      "publishedAt": "2026-11-07T15:06:09.000Z",
-      "date": "2026-11-07T15:06:09.000Z",
-      "description": "À la mi-octobre, le Centre pour la cybersécurité Belgique (CCB) a fait ses comptes: il a déjà reçu cette année plus de signalements d'incidents que...",
-      "excerpt": "À la mi-octobre, le Centre pour la cybersécurité Belgique (CCB) a fait ses comptes: il a déjà reçu cette année plus de signalements d'incidents que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Plainte contre OpenAI: les accusations sur ChatGPT - NeoTeo",
-      "link": "https://www.neoteo.com/fr/james-gates-poursuit-openai-accusant-chatgpt-davoir-aide-a-preparer-une-tentative-dempoisonnement",
-      "url": "https://www.neoteo.com/fr/james-gates-poursuit-openai-accusant-chatgpt-davoir-aide-a-preparer-une-tentative-dempoisonnement",
-      "publishedAt": "2026-11-07T13:38:21.000Z",
-      "date": "2026-11-07T13:38:21.000Z",
-      "description": "La plainte de James Gates accuse ChatGPT d'avoir aidé son épouse à préparer une tentative d'empoisonnement. Cheryl Gates n'est plus poursuivie au...",
-      "excerpt": "La plainte de James Gates accuse ChatGPT d'avoir aidé son épouse à préparer une tentative d'empoisonnement. Cheryl Gates n'est plus poursuivie au...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI Launches ChatGPT Cyber and Promises $1 Billion for Cybersecurity - Brief IA",
-      "link": "https://www.briefia.fr/en/article/openai-launches-chatgpt-cyber-and-promises-1-billion-for-cybersecurity",
-      "url": "https://www.briefia.fr/en/article/openai-launches-chatgpt-cyber-and-promises-1-billion-for-cybersecurity",
-      "publishedAt": "2026-11-06T23:06:30.000Z",
-      "date": "2026-11-06T23:06:30.000Z",
-      "description": "OpenAI announces ChatGPT Cyber for offensive cybersecurity. A researcher found a severe vulnerability on Ubuntu via an OpenAI model.",
-      "excerpt": "OpenAI announces ChatGPT Cyber for offensive cybersecurity. A researcher found a severe vulnerability on Ubuntu via an OpenAI model.",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "GPT-6 Cyber, VFlash et l'évaluation R&D d'Anthropic - Brief IA",
-      "link": "https://www.briefia.fr/article/gpt-6-cyber-vflash-et-l-evaluation-r-d-d-anthropic",
-      "url": "https://www.briefia.fr/article/gpt-6-cyber-vflash-et-l-evaluation-r-d-d-anthropic",
-      "publishedAt": "2026-11-06T21:22:30.000Z",
-      "date": "2026-11-06T21:22:30.000Z",
-      "description": "... cybersécurité et à l'interaction avec les utilisateurs. Inkling 2 Small... ChatGPT Images 2.6 disponible pour tous, avec génération de GIF...",
-      "excerpt": "... cybersécurité et à l'interaction avec les utilisateurs. Inkling 2 Small... ChatGPT Images 2.6 disponible pour tous, avec génération de GIF...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI s'associe à Hacktron pour tester les connexions aux services tiers - Unite.AI",
-      "link": "https://www.unite.ai/fr/openai-partners-with-hacktron-to-test-third-party-service-connections/",
-      "url": "https://www.unite.ai/fr/openai-partners-with-hacktron-to-test-third-party-service-connections/",
-      "publishedAt": "2026-11-06T19:48:09.000Z",
-      "date": "2026-11-06T19:48:09.000Z",
-      "description": "La compromission du forum a ainsi pu s'étendre à ChatGPT et à Codex, puis à une intégration GitHub connectée.... cybersécurité spécialement...",
-      "excerpt": "La compromission du forum a ainsi pu s'étendre à ChatGPT et à Codex, puis à une intégration GitHub connectée.... cybersécurité spécialement...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI restreint GPT-6 Cyber, Anthropic lance une bêta financière | Brief IA",
-      "link": "https://www.briefia.fr/article/openai-restreint-gpt-6-cyber-anthropic-lance-une-beta-financiere",
-      "url": "https://www.briefia.fr/article/openai-restreint-gpt-6-cyber-anthropic-lance-une-beta-financiere",
-      "publishedAt": "2026-11-06T19:12:31.000Z",
-      "date": "2026-11-06T19:12:31.000Z",
-      "description": "GPT-6 Cyber d'OpenAI réservé aux experts en cybersécurité, utilisé par Cisco et Mozilla ChatGPT Images 2.6 disponible pour tous, avec génération...",
-      "excerpt": "GPT-6 Cyber d'OpenAI réservé aux experts en cybersécurité, utilisé par Cisco et Mozilla ChatGPT Images 2.6 disponible pour tous, avec génération...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le quantique représente déjà un risque de cybersécurité - Les Affaires",
-      "link": "https://www.lesaffaires.com/secteurs/techno-et-ia/le-quantique-represente-deja-un-risque-de-cybersecurite-edition_4_novembre_2026/",
-      "url": "https://www.lesaffaires.com/secteurs/techno-et-ia/le-quantique-represente-deja-un-risque-de-cybersecurite-edition_4_novembre_2026/",
-      "publishedAt": "2026-11-06T17:35:29.000Z",
-      "date": "2026-11-06T17:35:29.000Z",
-      "description": "... cybersécurité de Wepoint. «Le temps joue... Dernières nouvelles. Édition de novembre 2026. Placements. Investir avec ChatGPT, le bilan après un an.",
-      "excerpt": "... cybersécurité de Wepoint. «Le temps joue... Dernières nouvelles. Édition de novembre 2026. Placements. Investir avec ChatGPT, le bilan après un an.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
