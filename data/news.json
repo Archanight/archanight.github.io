@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T21:28:46.304Z",
+  "generatedAt": "2026-11-09T03:43:09.166Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Le \"cognitive offloading\" ou \"délégation cognitive\": pourquoi l'IA atrophie notre cerveau, et...",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/le-cognitive-offloading-ou-delegation-cognitive-pourquoi-l-ia-atrophie-notre-cerveau-et-comment-eviter-d-en-devenir-dependant_AN-202611080134.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/le-cognitive-offloading-ou-delegation-cognitive-pourquoi-l-ia-atrophie-notre-cerveau-et-comment-eviter-d-en-devenir-dependant_AN-202611080134.html",
+      "publishedAt": "2026-11-09T00:19:11.000Z",
+      "date": "2026-11-09T00:19:11.000Z",
+      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat... Depuis le lancement grand public de ChatGPT fin 2022, les chercheurs en...",
+      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat... Depuis le lancement grand public de ChatGPT fin 2022, les chercheurs en...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI confirme le Pro 500 à 50x le Plus, sans limite de 5 heures - Pasquale Pillitteri",
       "link": "https://pasqualepillitteri.it/fr/news/31081/openai-confirme-pro-500-50x-plus",
@@ -38,6 +48,16 @@
       "description": "Source(s). OpenAI: Présentation d'Images 2.6 · Centre d'aide OpenAI: Les images dans ChatGPT · Centre d'aide OpenAI: Notes de version de ChatGPT.",
       "excerpt": "Source(s). OpenAI: Présentation d'Images 2.6 · Centre d'aide OpenAI: Les images dans ChatGPT · Centre d'aide OpenAI: Notes de version de ChatGPT.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT en entreprise: 3 vecteurs d'attaque que votre DSI doit bloquer maintenant",
+      "link": "https://les-smartgrids.fr/chatgpt-cybersecurite-entreprise-vulnerabilite/",
+      "url": "https://les-smartgrids.fr/chatgpt-cybersecurite-entreprise-vulnerabilite/",
+      "publishedAt": "2026-11-08T16:24:09.000Z",
+      "date": "2026-11-08T16:24:09.000Z",
+      "description": "Chatgpt Salarié. ChatGPT en entreprise: 3 vecteurs d... Les DSI doivent intégrer cette latence dans leurs procédures d' incident response.",
+      "excerpt": "Chatgpt Salarié. ChatGPT en entreprise: 3 vecteurs d... Les DSI doivent intégrer cette latence dans leurs procédures d' incident response.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
       "title": "« Ne cherche pas à me plaire »: les conseils des experts pour transformer ChatGPT... - Challenges",
@@ -70,6 +90,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Arcadia piraté, les alertes catastrophes du Japon utilisées pour 1,4 million d'e-mails de phishing",
+      "link": "https://pasqualepillitteri.it/fr/news/31217/arcadia-alertes-catastrophes-japon-phishing",
+      "url": "https://pasqualepillitteri.it/fr/news/31217/arcadia-alertes-catastrophes-japon-phishing",
+      "publishedAt": "2026-11-08T13:56:46.000Z",
+      "date": "2026-11-08T13:56:46.000Z",
+      "description": "ChatGPT... Cybersécurité Droit & Réglementation cybersécurité fuite de données Arcadia SpeeCAN RAIDEN Japon phishing alertes catastrophes.",
+      "excerpt": "ChatGPT... Cybersécurité Droit & Réglementation cybersécurité fuite de données Arcadia SpeeCAN RAIDEN Japon phishing alertes catastrophes.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Meilleure IA pour coder: Claude 1 810 Elo en tête [2026] - Tech Insider",
       "link": "https://tech-insider.org/fr/meilleure-ia-pour-coder-copilot-vs-chatgpt-vs-claude-vs-gemini-2026/",
       "url": "https://tech-insider.org/fr/meilleure-ia-pour-coder-copilot-vs-chatgpt-vs-claude-vs-gemini-2026/",
@@ -97,36 +127,6 @@
       "date": "2026-11-08T10:41:52.000Z",
       "description": "OpenAI a annoncé le lancement de GPT-6 Cyber, un nouveau modèle de cybersécurité conçu pour identifier, exploiter et corriger les vulnérabilités...",
       "excerpt": "OpenAI a annoncé le lancement de GPT-6 Cyber, un nouveau modèle de cybersécurité conçu pour identifier, exploiter et corriger les vulnérabilités...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "DeepMind dévoile deux failles dans le RSA 1024 bits, le 2048 bits reste sûr",
-      "link": "https://pasqualepillitteri.it/fr/news/31137/deepmind-devoile-deux-failles-rsa-1024-bits",
-      "url": "https://pasqualepillitteri.it/fr/news/31137/deepmind-devoile-deux-failles-rsa-1024-bits",
-      "publishedAt": "2026-11-08T09:37:46.000Z",
-      "date": "2026-11-08T09:37:46.000Z",
-      "description": "Cybersécurité · Apple · Claude · Actualités IA & Tendances · ChatGPT · IA...",
-      "excerpt": "Cybersécurité · Apple · Claude · Actualités IA & Tendances · ChatGPT · IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Brockman d'OpenAI dévoile sa prévision, la mort deviendrait un choix - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/31131/brockman-openai-mort-choix-18-mois",
-      "url": "https://pasqualepillitteri.it/fr/news/31131/brockman-openai-mort-choix-18-mois",
-      "publishedAt": "2026-11-08T09:35:45.000Z",
-      "date": "2026-11-08T09:35:45.000Z",
-      "description": "Cybersécurité · Actualités IA & Tendances · ChatGPT · IA chinoise...",
-      "excerpt": "Cybersécurité · Actualités IA & Tendances · ChatGPT · IA chinoise...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance GPT-6 Cyber: l'IA qui a déniché 81 failles critiques dans Firefox | MCETV",
-      "link": "https://mcetv.ouest-france.fr/2026/gpt-6-cyber-openai-failles-firefox/",
-      "url": "https://mcetv.ouest-france.fr/2026/gpt-6-cyber-openai-failles-firefox/",
-      "publishedAt": "2026-11-08T04:35:48.000Z",
-      "date": "2026-11-08T04:35:48.000Z",
-      "description": "OpenAI dévoile GPT-6 Cyber, une IA dédiée à la cybersécurité: 81 failles critiques repérées dans Firefox, 948 sous Linux. On vous explique tout.",
-      "excerpt": "OpenAI dévoile GPT-6 Cyber, une IA dédiée à la cybersécurité: 81 failles critiques repérées dans Firefox, 948 sous Linux. On vous explique tout.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
