@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T14:42:45.908Z",
+  "generatedAt": "2026-11-10T00:58:54.765Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,56 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Linkt renforce son expertise en services managés - ITRnews",
+      "link": "https://itrnews.com/articles/211593/linkt-renforce-son-expertise-en-services-manages.html",
+      "url": "https://itrnews.com/articles/211593/linkt-renforce-son-expertise-en-services-manages.html",
+      "publishedAt": "2026-11-09T22:24:41.000Z",
+      "date": "2026-11-09T22:24:41.000Z",
+      "description": "La BU Services couvre cinq domaines: SD-WAN et SASE; LAN, wifi et 5G privée; infrastructures IT et cloud; SOC; cybersécurité. Ils reposent...",
+      "excerpt": "La BU Services couvre cinq domaines: SD-WAN et SASE; LAN, wifi et 5G privée; infrastructures IT et cloud; SOC; cybersécurité. Ils reposent...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI ajoute les achats et la facturation via AWS pour ChatGPT Enterprise - Securities.io",
+      "link": "https://www.securities.io/fr/openai-adds-aws-procurement-and-billing-for-chatgpt-enterprise/",
+      "url": "https://www.securities.io/fr/openai-adds-aws-procurement-and-billing-for-chatgpt-enterprise/",
+      "publishedAt": "2026-11-09T21:56:08.000Z",
+      "date": "2026-11-09T21:56:08.000Z",
+      "description": "Cybersécurité · Actifs numériques · Titres numériques · Forex · Entretiens... Les clients admissibles peuvent également accéder à ChatGPT for...",
+      "excerpt": "Cybersécurité · Actifs numériques · Titres numériques · Forex · Entretiens... Les clients admissibles peuvent également accéder à ChatGPT for...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI commence à vendre ChatGPT Enterprise sur AWS Marketplace - Unite.AI",
+      "link": "https://www.unite.ai/fr/openai-starts-selling-chatgpt-enterprise-through-aws-marketplace/",
+      "url": "https://www.unite.ai/fr/openai-starts-selling-chatgpt-enterprise-through-aws-marketplace/",
+      "publishedAt": "2026-11-09T20:57:43.000Z",
+      "date": "2026-11-09T20:57:43.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... Les clients admissibles peuvent également accéder à ChatGPT for Healthcare et à...",
+      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... Les clients admissibles peuvent également accéder à ChatGPT for Healthcare et à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le support de plusieurs ordinateurs débarque sur les dots d'OpenAI - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/31574/openai-dots-plusieurs-ordinateurs",
+      "url": "https://pasqualepillitteri.it/fr/news/31574/openai-dots-plusieurs-ordinateurs",
+      "publishedAt": "2026-11-09T20:36:35.000Z",
+      "date": "2026-11-09T20:36:35.000Z",
+      "description": "Il faut un dot actif et l'application ChatGPT installée sur chaque ordinateur à relier. Les dots sont réservés aux abonnés Pro (hors Espace économique...",
+      "excerpt": "Il faut un dot actif et l'application ChatGPT installée sur chaque ordinateur à relier. Les dots sont réservés aux abonnés Pro (hors Espace économique...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Matt Husk rend les IA folles!: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/matt-husk-rend-les-ia-folles-CNT000002tDo3z.html",
+      "url": "https://actu.orange.fr/videos/high-tech/matt-husk-rend-les-ia-folles-CNT000002tDo3z.html",
+      "publishedAt": "2026-11-09T18:55:58.000Z",
+      "date": "2026-11-09T18:55:58.000Z",
+      "description": "Matt Husk rend les IA complètement folles! Il s'amuse à piéger ChatGPT... Cybersécurité et Télésurveillance; Tech et Accessoires. +rɘsponsable.",
+      "excerpt": "Matt Husk rend les IA complètement folles! Il s'amuse à piéger ChatGPT... Cybersécurité et Télésurveillance; Tech et Accessoires. +rɘsponsable.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Vous utilisez ChatGPT mais vous en avez assez de l'IA partout? Ce vote révèle un vrai décalage",
       "link": "https://www.menow.fr/vous-utilisez-chatgpt-mais-vous-en-avez-assez-de-lia-partout-ce-vote-revele-un-vrai-decalage/",
       "url": "https://www.menow.fr/vous-utilisez-chatgpt-mais-vous-en-avez-assez-de-lia-partout-ce-vote-revele-un-vrai-decalage/",
@@ -17,6 +67,16 @@
       "date": "2026-11-09T13:01:27.000Z",
       "description": "Vous utilisez ChatGPT mais vous en avez assez de l'IA partout?... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand...",
       "excerpt": "Vous utilisez ChatGPT mais vous en avez assez de l'IA partout?... Eric Thomas suit l'actualité de Windows, des logiciels, de la cybersécurité grand...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI enrichit les images de ChatGPT et lance un modèle dédié à la cybersécurité",
+      "link": "https://iascope.eu/article/2026-11-09-openai-chatgpt-images-gpt6-cyber/",
+      "url": "https://iascope.eu/article/2026-11-09-openai-chatgpt-images-gpt6-cyber/",
+      "publishedAt": "2026-11-09T12:14:22.000Z",
+      "date": "2026-11-09T12:14:22.000Z",
+      "description": "Des images plus riches dans ChatGPT · Un modèle réservé à la cybersécurité · Deux visages d'une même entreprise · Questions fréquentes · Sources.",
+      "excerpt": "Des images plus riches dans ChatGPT · Un modèle réservé à la cybersécurité · Deux visages d'une même entreprise · Questions fréquentes · Sources.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -50,84 +110,24 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
-      "title": "Mistral fait une nouvelle acquisition pour mieux concurrencer ChatGPT et Claude dans le...",
-      "link": "https://www.presse-citron.net/mistral-acquisition-concurrencer-chatgpt-claude-codage/",
-      "url": "https://www.presse-citron.net/mistral-acquisition-concurrencer-chatgpt-claude-codage/",
-      "publishedAt": "2026-11-09T08:36:36.000Z",
-      "date": "2026-11-09T08:36:36.000Z",
-      "description": "Mistral fait une nouvelle acquisition pour mieux concurrencer ChatGPT et Claude dans le domaine du codage... cybersécurité. Par ailleurs, Mistral ne...",
-      "excerpt": "Mistral fait une nouvelle acquisition pour mieux concurrencer ChatGPT et Claude dans le domaine du codage... cybersécurité. Par ailleurs, Mistral ne...",
+      "title": "Marquage CE de cybersécurité sur les objets connectés, ce qui change pour l'acheteur",
+      "link": "https://pasqualepillitteri.it/fr/news/31373/marquage-ce-cybersecurite-objets-connectes-guide",
+      "url": "https://pasqualepillitteri.it/fr/news/31373/marquage-ce-cybersecurite-objets-connectes-guide",
+      "publishedAt": "2026-11-09T09:17:03.000Z",
+      "date": "2026-11-09T09:17:03.000Z",
+      "description": "ChatGPT · IA chinoise · Économie... Cybersécurité Guides IoT cybersécurité cyber resilience act marquage...",
+      "excerpt": "ChatGPT · IA chinoise · Économie... Cybersécurité Guides IoT cybersécurité cyber resilience act marquage...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "Secutec veut créer un réseau de revendeurs en France - ITforBusiness.fr",
-      "link": "https://www.itforbusiness.fr/secutec-veut-creer-un-reseau-de-revendeurs-en-france-109452",
-      "url": "https://www.itforbusiness.fr/secutec-veut-creer-un-reseau-de-revendeurs-en-france-109452",
-      "publishedAt": "2026-11-09T08:10:13.000Z",
-      "date": "2026-11-09T08:10:13.000Z",
-      "description": "L'éditeur belge de cybersécurité Secutec amorce son expansion en France... Accès à Albert ( ChatGPT for IT). +. Contenus réservés à la...",
-      "excerpt": "L'éditeur belge de cybersécurité Secutec amorce son expansion en France... Accès à Albert ( ChatGPT for IT). +. Contenus réservés à la...",
+      "title": "Nvidia annonce une enquête sur Jensen Huang, qui admet sa relation avec Alice Huang",
+      "link": "https://pasqualepillitteri.it/fr/news/31329/nvidia-enquete-jensen-huang-relation-alice-huang",
+      "url": "https://pasqualepillitteri.it/fr/news/31329/nvidia-enquete-jensen-huang-relation-alice-huang",
+      "publishedAt": "2026-11-09T08:36:56.000Z",
+      "date": "2026-11-09T08:36:56.000Z",
+      "description": "Cybersécurité · Jeux Vidéo · Biotech et longévité · OpenAI · Apple · Claude · ChatGPT...",
+      "excerpt": "Cybersécurité · Jeux Vidéo · Biotech et longévité · OpenAI · Apple · Claude · ChatGPT...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI nomme l'ancien secrétaire à l'armée américaine Dan Driscoll à la tête de son...",
-      "link": "https://internationalfinance.com/fr/technology/openai-appoints-former-us-army-secretary-dan-driscoll-in-its-ai-safety-push/",
-      "url": "https://internationalfinance.com/fr/technology/openai-appoints-former-us-army-secretary-dan-driscoll-in-its-ai-safety-push/",
-      "publishedAt": "2026-11-09T04:52:02.000Z",
-      "date": "2026-11-09T04:52:02.000Z",
-      "description": "... cybersécurité... ChatGPT étend son engagement auprès de l'administration de Donald Trump tout en faisant face à un examen de plus en plus...",
-      "excerpt": "... cybersécurité... ChatGPT étend son engagement auprès de l'administration de Donald Trump tout en faisant face à un examen de plus en plus...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT au travail: comment une mauvaise utilisation peut coûter cher - Economie Matin",
-      "link": "https://www.economiematin.fr/chatgpt-travail-risques-economiques-salaries",
-      "url": "https://www.economiematin.fr/chatgpt-travail-risques-economiques-salaries",
-      "publishedAt": "2026-11-09T04:17:40.000Z",
-      "date": "2026-11-09T04:17:40.000Z",
-      "description": "ChatGPT au travail expose salariés et entreprises à des risques... Cybersécurité; Défense; Économie numérique; Innovation technologique...",
-      "excerpt": "ChatGPT au travail expose salariés et entreprises à des risques... Cybersécurité; Défense; Économie numérique; Innovation technologique...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le \"cognitive offloading\" ou \"délégation cognitive\": pourquoi l'IA atrophie notre cerveau, et...",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/le-cognitive-offloading-ou-delegation-cognitive-pourquoi-l-ia-atrophie-notre-cerveau-et-comment-eviter-d-en-devenir-dependant_AN-202611080134.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/le-cognitive-offloading-ou-delegation-cognitive-pourquoi-l-ia-atrophie-notre-cerveau-et-comment-eviter-d-en-devenir-dependant_AN-202611080134.html",
-      "publishedAt": "2026-11-09T00:19:11.000Z",
-      "date": "2026-11-09T00:19:11.000Z",
-      "description": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat... Depuis le lancement grand public de ChatGPT fin 2022, les chercheurs en...",
-      "excerpt": "Cybersécurité · Innovation · Gaming · Produits · Tests · Guides d'achat... Depuis le lancement grand public de ChatGPT fin 2022, les chercheurs en...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI confirme le Pro 500 à 50x le Plus, sans limite de 5 heures - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/31081/openai-confirme-pro-500-50x-plus",
-      "url": "https://pasqualepillitteri.it/fr/news/31081/openai-confirme-pro-500-50x-plus",
-      "publishedAt": "2026-11-08T17:15:53.000Z",
-      "date": "2026-11-08T17:15:53.000Z",
-      "description": "ChatGPT Big Tech Droit & Réglementation Cybersécurité Actualités...",
-      "excerpt": "ChatGPT Big Tech Droit & Réglementation Cybersécurité Actualités...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Adieu Google, ChatGPT et WhatsApp: nous avons remplacé leurs applications du quotidien...",
-      "link": "https://www.lesnumeriques.com/societe-numerique/adieu-google-chatgpt-et-whatsapp-nous-avons-remplace-leurs-applications-du-quotidien-par-des-equivalents-europeens-241-n260695.html",
-      "url": "https://www.lesnumeriques.com/societe-numerique/adieu-google-chatgpt-et-whatsapp-nous-avons-remplace-leurs-applications-du-quotidien-par-des-equivalents-europeens-241-n260695.html",
-      "publishedAt": "2026-11-08T16:43:38.000Z",
-      "date": "2026-11-08T16:43:38.000Z",
-      "description": "Bureautique, IA, GPS ou messagerie: voici sept alternatives européennes pour reprendre la main sur vos données. Adieu Google, ChatGPT et WhatsApp:...",
-      "excerpt": "Bureautique, IA, GPS ou messagerie: voici sept alternatives européennes pour reprendre la main sur vos données. Adieu Google, ChatGPT et WhatsApp:...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT peut désormais créer des GIFs et enregistrer vos photos pour de futures conversations",
-      "link": "https://www.notebookcheck.biz/ChatGPT-peut-desormais-creer-des-GIFs-et-enregistrer-vos-photos-pour-de-futures-conversations.1445227.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-peut-desormais-creer-des-GIFs-et-enregistrer-vos-photos-pour-de-futures-conversations.1445227.0.html",
-      "publishedAt": "2026-11-08T16:38:26.000Z",
-      "date": "2026-11-08T16:38:26.000Z",
-      "description": "Source(s). OpenAI: Présentation d'Images 2.6 · Centre d'aide OpenAI: Les images dans ChatGPT · Centre d'aide OpenAI: Notes de version de ChatGPT.",
-      "excerpt": "Source(s). OpenAI: Présentation d'Images 2.6 · Centre d'aide OpenAI: Les images dans ChatGPT · Centre d'aide OpenAI: Notes de version de ChatGPT.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
