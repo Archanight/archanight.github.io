@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T13:13:15.642Z",
+  "generatedAt": "2026-11-11T23:51:39.800Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,96 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Appareils connectés: un expert en cybersécurité donne deux conseils face au risque de...",
+      "link": "https://www.tf1info.fr/high-tech/reportage-appareils-connectes-un-expert-en-cybersecurite-donne-deux-conseils-face-au-risque-de-piratage-a-domicile-2475239.html",
+      "url": "https://www.tf1info.fr/high-tech/reportage-appareils-connectes-un-expert-en-cybersecurite-donne-deux-conseils-face-au-risque-de-piratage-a-domicile-2475239.html",
+      "publishedAt": "2026-11-11T21:06:16.000Z",
+      "date": "2026-11-11T21:06:16.000Z",
+      "description": "... cybersécurité donne deux conseils face au risque de piratage à... ChatGPT? Vidéo. Publié le 1 mai 2026 à 20h07. Voir plus - Voir plus d...",
+      "excerpt": "... cybersécurité donne deux conseils face au risque de piratage à... ChatGPT? Vidéo. Publié le 1 mai 2026 à 20h07. Voir plus - Voir plus d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT retire les voix Advanced et Standard le 11 décembre 2026, seul GPT-Live reste",
+      "link": "https://meteoraweb.com/fr/news/chatgpt-retire-les-voix-advanced-et-standard-le-11-decembre-2026-seul-gpt-live-reste",
+      "url": "https://meteoraweb.com/fr/news/chatgpt-retire-les-voix-advanced-et-standard-le-11-decembre-2026-seul-gpt-live-reste",
+      "publishedAt": "2026-11-11T20:26:27.000Z",
+      "date": "2026-11-11T20:26:27.000Z",
+      "description": "Cybersécurité · Développement web · Marketing digital · Logiciels de gestion... Si tu suis l'évolution de ChatGPT, tu trouveras un autre mouvement de...",
+      "excerpt": "Cybersécurité · Développement web · Marketing digital · Logiciels de gestion... Si tu suis l'évolution de ChatGPT, tu trouveras un autre mouvement de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Businesses, profils d'entreprise et agents en bêta - Meteora Web",
+      "link": "https://meteoraweb.com/fr/news/chatgpt-lance-businesses-en-beta-profils-d-entreprise-et-business-agent",
+      "url": "https://meteoraweb.com/fr/news/chatgpt-lance-businesses-en-beta-profils-d-entreprise-et-business-agent",
+      "publishedAt": "2026-11-11T20:22:51.000Z",
+      "date": "2026-11-11T20:22:51.000Z",
+      "description": "Cybersécurité · Développement web · Marketing digital · Logiciels de gestion... ChatGPT lance Businesses en bêta, profils d'entreprise et Business...",
+      "excerpt": "Cybersécurité · Développement web · Marketing digital · Logiciels de gestion... ChatGPT lance Businesses en bêta, profils d'entreprise et Business...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Databricks lance des plug-ins Genie natifs pour quatre agents d'IA - Unite.AI",
+      "link": "https://www.unite.ai/fr/databricks-launches-native-genie-plugins-for-four-ai-agents/",
+      "url": "https://www.unite.ai/fr/databricks-launches-native-genie-plugins-for-four-ai-agents/",
+      "publishedAt": "2026-11-11T16:49:27.000Z",
+      "date": "2026-11-11T16:49:27.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... Un ChatGPT Dot, agent toujours actif disposant de son propre ordinateur...",
+      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... Un ChatGPT Dot, agent toujours actif disposant de son propre ordinateur...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "LawVu permet à cinq outils d'IA d'accéder de manière encadrée aux flux de travail de LegalOS",
+      "link": "https://www.unite.ai/fr/lawvu-gives-five-ai-tools-governed-access-to-legalos-workflows/",
+      "url": "https://www.unite.ai/fr/lawvu-gives-five-ai-tools-governed-access-to-legalos-workflows/",
+      "publishedAt": "2026-11-11T16:49:27.000Z",
+      "date": "2026-11-11T16:49:27.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT d'OpenAI, Harvey et Legora. Les connexions sont disponibles...",
+      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... ChatGPT d'OpenAI, Harvey et Legora. Les connexions sont disponibles...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "« Vous restez notre client »: pourquoi Adobe ouvre grand Photoshop à ChatGPT et Claude",
+      "link": "https://www.clubic.com/actualite-638746-vous-restez-notre-client-pourquoi-adobe-ouvre-grand-photoshop-a-chatgpt-et-claude.html",
+      "url": "https://www.clubic.com/actualite-638746-vous-restez-notre-client-pourquoi-adobe-ouvre-grand-photoshop-a-chatgpt-et-claude.html",
+      "publishedAt": "2026-11-11T16:00:10.000Z",
+      "date": "2026-11-11T16:00:10.000Z",
+      "description": "Cybersécurité · Intelligence artificielle · Logiciels & services · PC... « Vous restez notre client »: pourquoi Adobe ouvre grand Photoshop à ChatGPT...",
+      "excerpt": "Cybersécurité · Intelligence artificielle · Logiciels & services · PC... « Vous restez notre client »: pourquoi Adobe ouvre grand Photoshop à ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "\"Elle n'a pas agi seule\": sa femme tente de l'empoisonner avec ChatGPT, un homme dépose...",
+      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/elle-n-a-pas-agi-seule-sa-femme-tente-de-l-empoisonner-avec-chat-gpt-un-homme-depose-plainte-contre-open-ai-aux-etats-unis_AV-202611110527.html",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/elle-n-a-pas-agi-seule-sa-femme-tente-de-l-empoisonner-avec-chat-gpt-un-homme-depose-plainte-contre-open-ai-aux-etats-unis_AV-202611110527.html",
+      "publishedAt": "2026-11-11T15:37:15.000Z",
+      "date": "2026-11-11T15:37:15.000Z",
+      "description": "Aux États-Unis, un homme poursuit OpenAI en justice après avoir été victime d'une tentative d'empoisonnement. Sa femme s'était aidée de ChatGPT...",
+      "excerpt": "Aux États-Unis, un homme poursuit OpenAI en justice après avoir été victime d'une tentative d'empoisonnement. Sa femme s'était aidée de ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Gemini 4 Carbon accessible aux abonnés AI Ultra et via l'API payante - Brief IA",
+      "link": "https://www.briefia.fr/article/gemini-4-carbon-accessible-aux-abonnes-ai-ultra-et-via-l-api-payante",
+      "url": "https://www.briefia.fr/article/gemini-4-carbon-accessible-aux-abonnes-ai-ultra-et-via-l-api-payante",
+      "publishedAt": "2026-11-11T15:31:06.000Z",
+      "date": "2026-11-11T15:31:06.000Z",
+      "description": "Conçu pour le raisonnement avancé et la cybersécurité, Gemini 4 Carbon... ChatGPT Plus Des formations et ateliers ont été organisés avec des...",
+      "excerpt": "Conçu pour le raisonnement avancé et la cybersécurité, Gemini 4 Carbon... ChatGPT Plus Des formations et ateliers ont été organisés avec des...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les utilisateurs de ChatGPT peuvent comparer des devis d'assurance habitation et... - Unite.AI",
+      "link": "https://www.unite.ai/fr/chatgpt-users-can-compare-home-and-auto-quotes-through-viu-by-hub/",
+      "url": "https://www.unite.ai/fr/chatgpt-users-can-compare-home-and-auto-quotes-through-viu-by-hub/",
+      "publishedAt": "2026-11-11T14:50:18.000Z",
+      "date": "2026-11-11T14:50:18.000Z",
+      "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... VIU by HUB, le courtier d'assurance numérique soutenu par HUB International, a...",
+      "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... VIU by HUB, le courtier d'assurance numérique soutenu par HUB International, a...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Etude: Face aux crises, à qui les Français font-ils confiance pour s'informer?",
       "link": "https://jai-un-pote-dans-la.com/etude-crises-a-qui-francais-font-ils-confiance-s-informer/",
@@ -20,114 +110,24 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "ChatGPT supprime les voix Advanced et Standard, un an après avoir reculé",
-      "link": "https://fr.martincid.com/technologie/chatgpt-supprime-les-voix-advanced-et-standard-un-an-apres-avoir-recule/",
-      "url": "https://fr.martincid.com/technologie/chatgpt-supprime-les-voix-advanced-et-standard-un-an-apres-avoir-recule/",
-      "publishedAt": "2026-11-11T11:16:47.000Z",
-      "date": "2026-11-11T11:16:47.000Z",
-      "description": "... notes de version d'OpenAI. Étiquettes: OpenAI, chatgpt, assistants IA, GPT-Live, Advanced Voice, ChatGPT Voice. Partager cet article. Dans le même...",
-      "excerpt": "... notes de version d'OpenAI. Étiquettes: OpenAI, chatgpt, assistants IA, GPT-Live, Advanced Voice, ChatGPT Voice. Partager cet article. Dans le même...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Google Core Update de novembre 2026: nouvelle mise à jour! - Abondance",
-      "link": "https://www.abondance.com/20261111-3074272-google-core-update-de-novembre-2026-nouvelle-mise-a-jour.html",
-      "url": "https://www.abondance.com/20261111-3074272-google-core-update-de-novembre-2026-nouvelle-mise-a-jour.html",
-      "publishedAt": "2026-11-11T10:30:13.000Z",
-      "date": "2026-11-11T10:30:13.000Z",
-      "description": "Résumer cet article avec: ChatGPT · Mistral · Claude · Perplexity · Grok. Résumer cet article avec: Résumer l'article sur ChatGPT ChatGPT · Résumer...",
-      "excerpt": "Résumer cet article avec: ChatGPT · Mistral · Claude · Perplexity · Grok. Résumer cet article avec: Résumer l'article sur ChatGPT ChatGPT · Résumer...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI détaille son offre Businesses dans ChatGPT en version bêta - Zonebourse",
-      "link": "https://www.zonebourse.com/actualite-bourse/openai-detaille-son-offre-businesses-dans-chatgpt-en-version-beta-ce785edbda80f42d",
-      "url": "https://www.zonebourse.com/actualite-bourse/openai-detaille-son-offre-businesses-dans-chatgpt-en-version-beta-ce785edbda80f42d",
-      "publishedAt": "2026-11-11T10:24:38.000Z",
-      "date": "2026-11-11T10:24:38.000Z",
-      "description": "OpenAI propose Businesses dans ChatGPT en version... Les cotations sont fournies par Factset, Morningstar et S&P Capital IQ - Release 77c375f0.",
-      "excerpt": "OpenAI propose Businesses dans ChatGPT en version... Les cotations sont fournies par Factset, Morningstar et S&P Capital IQ - Release 77c375f0.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Business Hub: OpenAI permet aux entreprises de revendiquer leur fiche dans ChatGPT",
-      "link": "https://www.abondance.com/20261111-3074128-business-hub-openai-chatgpt-lancement.html",
-      "url": "https://www.abondance.com/20261111-3074128-business-hub-openai-chatgpt-lancement.html",
-      "publishedAt": "2026-11-11T09:44:57.000Z",
-      "date": "2026-11-11T09:44:57.000Z",
-      "description": "Ce qu'il faut retenir: OpenAI a lancé le 10 novembre 2026, en bêta, Businesses in ChatGPT, qui permet à toute entreprise éligible de revendiquer...",
-      "excerpt": "Ce qu'il faut retenir: OpenAI a lancé le 10 novembre 2026, en bêta, Businesses in ChatGPT, qui permet à toute entreprise éligible de revendiquer...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Une fuite de Grok Build expose des données sensibles de milliers d'utilisateurs",
-      "link": "https://fr.dataconomy.com/2026/11/11/une-fuite-de-grok-build-expose-des-donnees-sensibles-de-milliers-dutilisateurs/",
-      "url": "https://fr.dataconomy.com/2026/11/11/une-fuite-de-grok-build-expose-des-donnees-sensibles-de-milliers-dutilisateurs/",
-      "publishedAt": "2026-11-11T09:10:31.000Z",
-      "date": "2026-11-11T09:10:31.000Z",
-      "description": "Related Posts · ChatGPT commence à afficher des publicités lors de la génération d'images · IBM et Microsoft lancent la plateforme d'agents d'IA Imagine...",
-      "excerpt": "Related Posts · ChatGPT commence à afficher des publicités lors de la génération d'images · IBM et Microsoft lancent la plateforme d'agents d'IA Imagine...",
+      "title": "Orange et Sosh: deux nouvelles applis remplacent Orange et moi et MySosh - Charles Tech",
+      "link": "https://charlestech.fr/orange-et-sosh-deux-nouvelles-applis-remplacent-orange-et-moi-et-mysosh-le-19-novembre-5929bf",
+      "url": "https://charlestech.fr/orange-et-sosh-deux-nouvelles-applis-remplacent-orange-et-moi-et-mysosh-le-19-novembre-5929bf",
+      "publishedAt": "2026-11-11T12:16:35.000Z",
+      "date": "2026-11-11T12:16:35.000Z",
+      "description": "... ChatGPT (OpenAI). On peut choisir le modèle, se laisser orienter vers... Cybersécurité: un volet gratuit et une option. Gratuitement, un...",
+      "excerpt": "... ChatGPT (OpenAI). On peut choisir le modèle, se laisser orienter vers... Cybersécurité: un volet gratuit et une option. Gratuitement, un...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "OpenAI lance une \"Control Room\" pour interrompre ses modèles désalignés en 35... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/open-ai-lance-une-control-room-pour-interrompre-ses-modeles-desalignes-en-35-secondes-maximum-en-cas-de-probleme-de-securite_AV-202611110081.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/open-ai-lance-une-control-room-pour-interrompre-ses-modeles-desalignes-en-35-secondes-maximum-en-cas-de-probleme-de-securite_AV-202611110081.html",
-      "publishedAt": "2026-11-11T07:41:26.000Z",
-      "date": "2026-11-11T07:41:26.000Z",
-      "description": "... ChatGPT dans un article de blog. Dans le détail, cette Control Room... \"La cybersécurité n'est pas bon marché\": après la cyberattaque contre...",
-      "excerpt": "... ChatGPT dans un article de blog. Dans le détail, cette Control Room... \"La cybersécurité n'est pas bon marché\": après la cyberattaque contre...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "IA générative: face à un \"affaiblissement cognitif\", des experts appellent Emmanuel Macron... - BFM",
-      "link": "https://www.bfmtv.com/tech/intelligence-artificielle/ia-generative-face-a-un-affaiblissement-cognitif-des-experts-appellent-macron-a-mieux-proteger-les-utilisateurs_AD-202611100680.html",
-      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/ia-generative-face-a-un-affaiblissement-cognitif-des-experts-appellent-macron-a-mieux-proteger-les-utilisateurs_AD-202611100680.html",
-      "publishedAt": "2026-11-11T07:27:32.000Z",
-      "date": "2026-11-11T07:27:32.000Z",
-      "description": "Popularisée par des agents conversationnels comme ChatGPT d'OpenAI... \"La cybersécurité n'est pas bon marché\": après la cyberattaque contre...",
-      "excerpt": "Popularisée par des agents conversationnels comme ChatGPT d'OpenAI... \"La cybersécurité n'est pas bon marché\": après la cyberattaque contre...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité et IA: la méthode 2026 face aux agents autonomes - Brief IA",
-      "link": "https://www.briefia.fr/blog/optimiser-cybersecurite-ia-2026",
-      "url": "https://www.briefia.fr/blog/optimiser-cybersecurite-ia-2026",
-      "publishedAt": "2026-11-11T07:05:05.000Z",
-      "date": "2026-11-11T07:05:05.000Z",
-      "description": "Cybersécurité et IA: méthode 2023... Audience professionnelle française · Référencé Google News · Cité par ChatGPT, Claude et Perplexity",
-      "excerpt": "Cybersécurité et IA: méthode 2023... Audience professionnelle française · Référencé Google News · Cité par ChatGPT, Claude et Perplexity",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT va intégrer des « Business Agents » IA vérifiés - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6466212-chatgpt-va-integrer-des-business-agents-ia-verifies",
-      "url": "https://www.lefilia.fr/article/6466212-chatgpt-va-integrer-des-business-agents-ia-verifies",
-      "publishedAt": "2026-11-11T06:56:45.000Z",
-      "date": "2026-11-11T06:56:45.000Z",
-      "description": "ChatGPT s'apprête à permettre aux utilisateurs de dialoguer avec des... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "excerpt": "ChatGPT s'apprête à permettre aux utilisateurs de dialoguer avec des... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT lance les fiches entreprises, avec statistiques de mentions et de clics - BDM",
-      "link": "https://www.blogdumoderateur.com/chatgpt-lance-fiches-entreprises-statistiques-mentions-clics/",
-      "url": "https://www.blogdumoderateur.com/chatgpt-lance-fiches-entreprises-statistiques-mentions-clics/",
-      "publishedAt": "2026-11-11T02:14:18.000Z",
-      "date": "2026-11-11T02:14:18.000Z",
-      "description": "Avec Businesses in ChatGPT, OpenAI permet aux entreprises de revendiquer leur fiche, de la mettre à jour et de suivre leur visibilité dans le...",
-      "excerpt": "Avec Businesses in ChatGPT, OpenAI permet aux entreprises de revendiquer leur fiche, de la mettre à jour et de suivre leur visibilité dans le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI transforme ChatGPT en annuaire d'entreprises, avec des agents IA qui répondent...",
-      "link": "https://www.lefilia.fr/article/6466181-openai-transforme-chatgpt-en-annuaire-d-entreprises-avec-des-agents-ia-qui-repondent-aux-questions-des-clients",
-      "url": "https://www.lefilia.fr/article/6466181-openai-transforme-chatgpt-en-annuaire-d-entreprises-avec-des-agents-ia-qui-repondent-aux-questions-des-clients",
-      "publishedAt": "2026-11-11T00:39:14.000Z",
-      "date": "2026-11-11T00:39:14.000Z",
-      "description": "... ChatGPT, en répondant à leurs questions sans qu'ils aient à quitter... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "excerpt": "... ChatGPT, en répondant à leurs questions sans qu'ils aient à quitter... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+      "title": "Chrome, faille zero-day CVE -2026-125350 exploitée, la huitième de 2026",
+      "link": "https://pasqualepillitteri.it/fr/news/32030/chrome-faille-zero-day-cve-2026-125350-xml",
+      "url": "https://pasqualepillitteri.it/fr/news/32030/chrome-faille-zero-day-cve-2026-125350-xml",
+      "publishedAt": "2026-11-11T12:06:49.000Z",
+      "date": "2026-11-11T12:06:49.000Z",
+      "description": "Chrome, faille zero-day CVE -2026-125350 exploitée, la huitième de 2026... ChatGPT · Apple · IA chinoise · OpenAI...",
+      "excerpt": "Chrome, faille zero-day CVE -2026-125350 exploitée, la huitième de 2026... ChatGPT · Apple · IA chinoise · OpenAI...",
+      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     }
   ]
 }
