@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:16:20.541Z",
+  "generatedAt": "2026-11-12T22:58:31.927Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,86 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT et Gemini peuvent vous diriger vers de faux sites marchands - Toms Guide",
+      "link": "https://www.tomsguide.fr/chatgpt-et-gemini-peuvent-vous-diriger-vers-de-faux-sites-marchands/",
+      "url": "https://www.tomsguide.fr/chatgpt-et-gemini-peuvent-vous-diriger-vers-de-faux-sites-marchands/",
+      "publishedAt": "2026-11-12T18:33:58.000Z",
+      "date": "2026-11-12T18:33:58.000Z",
+      "description": "Nombre d'internautes utilisent ChatGPT, Gemini et consorts pour trouver des produits et obtenir des recommandations pour leur shopping.",
+      "excerpt": "Nombre d'internautes utilisent ChatGPT, Gemini et consorts pour trouver des produits et obtenir des recommandations pour leur shopping.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ByteDance veut brancher un agent IA sur TikTok pour défier ChatGPT - Korben",
+      "link": "https://korben.info/bytedance-veut-brancher-un-agent-ia-sur-tiktok-pour-defier-chatgpt.html",
+      "url": "https://korben.info/bytedance-veut-brancher-un-agent-ia-sur-tiktok-pour-defier-chatgpt.html",
+      "publishedAt": "2026-11-12T18:33:53.000Z",
+      "date": "2026-11-12T18:33:53.000Z",
+      "description": "Il lui suffirait en théorie d'y brancher son assistant pour exister tout de suite face à ChatGPT.... Les métiers de la Cybersécurité et de l'...",
+      "excerpt": "Il lui suffirait en théorie d'y brancher son assistant pour exister tout de suite face à ChatGPT.... Les métiers de la Cybersécurité et de l'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Formation DevOps: immersion dans le bootcamp de La Capsule - Charles Tech",
+      "link": "https://charlestech.fr/formation-devops-immersion-dans-le-bootcamp-de-la-capsule",
+      "url": "https://charlestech.fr/formation-devops-immersion-dans-le-bootcamp-de-la-capsule",
+      "publishedAt": "2026-11-12T17:29:08.000Z",
+      "date": "2026-11-12T17:29:08.000Z",
+      "description": "Résumer avec ChatGPT Claude Perplexity DeepSeek. travail ordinateur Publicité. Sommaire. Une formation DevOps pensée pour les profils en reconversion...",
+      "excerpt": "Résumer avec ChatGPT Claude Perplexity DeepSeek. travail ordinateur Publicité. Sommaire. Une formation DevOps pensée pour les profils en reconversion...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le patron de Nvidia Jensen Huang démissionne: que s'est-il passé - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/le-patron-de-nvidia-jensen-huang-demissionne-que-s-est-il-passe-CNT000002tGUpr.html",
+      "url": "https://actu.orange.fr/videos/high-tech/le-patron-de-nvidia-jensen-huang-demissionne-que-s-est-il-passe-CNT000002tGUpr.html",
+      "publishedAt": "2026-11-12T17:20:09.000Z",
+      "date": "2026-11-12T17:20:09.000Z",
+      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Black Friday... ChatGPT est déjà mort, mais OpenAI ne le sait pas encore. Tous publics...",
+      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Black Friday... ChatGPT est déjà mort, mais OpenAI ne le sait pas encore. Tous publics...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT retire les voix Advanced et Standard le 11 décembre 2026, seul GPT-Live reste",
+      "link": "https://meteoraweb.com/fr/news/chatgpt-advanced-standard-onsei-shuryo-2026-12-11-gpt-live",
+      "url": "https://meteoraweb.com/fr/news/chatgpt-advanced-standard-onsei-shuryo-2026-12-11-gpt-live",
+      "publishedAt": "2026-11-12T16:42:55.000Z",
+      "date": "2026-11-12T16:42:55.000Z",
+      "description": "Le CSIRT Italia, auprès de l'Agence nationale italienne pour la cybersécurité, a publié l'alerte le 12 novembre 2026. Selon l'ACN, un attaquant...",
+      "excerpt": "Le CSIRT Italia, auprès de l'Agence nationale italienne pour la cybersécurité, a publié l'alerte le 12 novembre 2026. Selon l'ACN, un attaquant...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les entreprises peuvent désormais gérer leur présence sur ChatGPT grâce à une nouvelle...",
+      "link": "https://www.lefilia.fr/article/6475190-les-entreprises-peuvent-desormais-gerer-leur-presence-sur-chatgpt-grace-a-une-nouvelle-fonctionnalite",
+      "url": "https://www.lefilia.fr/article/6475190-les-entreprises-peuvent-desormais-gerer-leur-presence-sur-chatgpt-grace-a-une-nouvelle-fonctionnalite",
+      "publishedAt": "2026-11-12T15:48:06.000Z",
+      "date": "2026-11-12T15:48:06.000Z",
+      "description": "OpenAI a lancé, le 12 novembre 2026, une version bêta de « Businesses in ChatGPT », un dispositif qui permet aux entreprises de revendiquer et de...",
+      "excerpt": "OpenAI a lancé, le 12 novembre 2026, une version bêta de « Businesses in ChatGPT », un dispositif qui permet aux entreprises de revendiquer et de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Google November 2026 core update: ce qu'il faut savoir - LEPTIDIGITAL",
+      "link": "https://www.leptidigital.fr/webmarketing/seo/google-november-2026-core-update-103673/",
+      "url": "https://www.leptidigital.fr/webmarketing/seo/google-november-2026-core-update-103673/",
+      "publishedAt": "2026-11-12T14:22:54.000Z",
+      "date": "2026-11-12T14:22:54.000Z",
+      "description": "À lire aussi. GEO - Generative Engine Optimization ChatGPT vs Google: où en est-on vraiment? Google AI Overviews Aperçus IA de Google:...",
+      "excerpt": "À lire aussi. GEO - Generative Engine Optimization ChatGPT vs Google: où en est-on vraiment? Google AI Overviews Aperçus IA de Google:...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI nomme Aleph revendeur exclusif de ChatGPT Ads dans 44 marchés - Securities.io",
+      "link": "https://www.securities.io/fr/openai-appoints-aleph-as-exclusive-chatgpt-ads-reseller-in-44-markets/",
+      "url": "https://www.securities.io/fr/openai-appoints-aleph-as-exclusive-chatgpt-ads-reseller-in-44-markets/",
+      "publishedAt": "2026-11-12T13:57:30.000Z",
+      "date": "2026-11-12T13:57:30.000Z",
+      "description": "Cybersécurité · Actifs numériques · Titres numériques · Forex · Entretiens... Aleph devient le revendeur local exclusif d'OpenAI pour ChatGPT Ads sur...",
+      "excerpt": "Cybersécurité · Actifs numériques · Titres numériques · Forex · Entretiens... Aleph devient le revendeur local exclusif d'OpenAI pour ChatGPT Ads sur...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Écrire avec ChatGPT, comparer avec Claude et Gemini: 1min.AI Pro passe à 28,76€ à vie...",
       "link": "https://www.clubic.com/bons-plans-638932-ecrire-avec-chatgpt-comparer-avec-claude-et-gemini-1min-ai-pro-passe-a-28-76-a-vie-pour-le-black-friday.html",
@@ -47,86 +127,6 @@
       "date": "2026-11-12T10:24:36.000Z",
       "description": "Conférences cybersécurité · Conférences robotique · Conférences SEO... BlueMedia a indiqué que ChatGPT comptait plus de 1,2 milliard d'utilisateurs...",
       "excerpt": "Conférences cybersécurité · Conférences robotique · Conférences SEO... BlueMedia a indiqué que ChatGPT comptait plus de 1,2 milliard d'utilisateurs...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT va-t-il bientôt vendre des voyages? - TourMag",
-      "link": "https://www.tourmag.com/ChatGPT-va-t-il-bientot-vendre-des-voyages_a134013.html",
-      "url": "https://www.tourmag.com/ChatGPT-va-t-il-bientot-vendre-des-voyages_a134013.html",
-      "publishedAt": "2026-11-12T10:17:29.000Z",
-      "date": "2026-11-12T10:17:29.000Z",
-      "description": "ChatGPT avait déjà identifié le voyage comme un axe de développement privilégié... Cybersécurité: posez toutes vos questions à Christophe Mazzola lors...",
-      "excerpt": "ChatGPT avait déjà identifié le voyage comme un axe de développement privilégié... Cybersécurité: posez toutes vos questions à Christophe Mazzola lors...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Pour rester en France, ChatGPT et Gemini pourraient devoir passer un examen - Le Fil IA",
-      "link": "https://www.lefilia.fr/article/6473042-pour-rester-en-france-chatgpt-et-gemini-pourraient-devoir-passer-un-examen",
-      "url": "https://www.lefilia.fr/article/6473042-pour-rester-en-france-chatgpt-et-gemini-pourraient-devoir-passer-un-examen",
-      "publishedAt": "2026-11-12T10:06:56.000Z",
-      "date": "2026-11-12T10:06:56.000Z",
-      "description": "... ChatGPT et Gemini à une évaluation pluridisciplinaire préalable de... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "excerpt": "... ChatGPT et Gemini à une évaluation pluridisciplinaire préalable de... Cybersécurité IASouveraineté IATous les dossiers →. © 2026 Le Fil IA...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Des lignes directrices pour l'industrie de l'intrusion cyber, mais pour quoi faire? - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/des-lignes-directrices-pour-lindustrie-de-lintrusion-cyber-mais-pour-quoi-faire-507746.htm",
-      "url": "https://www.zdnet.fr/actualites/des-lignes-directrices-pour-lindustrie-de-lintrusion-cyber-mais-pour-quoi-faire-507746.htm",
-      "publishedAt": "2026-11-12T10:05:10.000Z",
-      "date": "2026-11-12T10:05:10.000Z",
-      "description": "ZD Tech: Pourquoi vous allez bientôt remplacer Google par ChatGPT au travail 12/11/2026... Recevez le meilleur de l'actualité Cybersécurité chaque...",
-      "excerpt": "ZD Tech: Pourquoi vous allez bientôt remplacer Google par ChatGPT au travail 12/11/2026... Recevez le meilleur de l'actualité Cybersécurité chaque...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Gemini s'invite sur Apple CarPlay, mais avec une restriction agaçante - Toms Guide",
-      "link": "https://www.tomsguide.fr/gemini-sinvite-sur-apple-carplay-mais-avec-une-restriction-agacante/",
-      "url": "https://www.tomsguide.fr/gemini-sinvite-sur-apple-carplay-mais-avec-une-restriction-agacante/",
-      "publishedAt": "2026-11-12T08:32:50.000Z",
-      "date": "2026-11-12T08:32:50.000Z",
-      "description": "Apple CarPlay était déjà équipé de ChatGPT et de Copilot.",
-      "excerpt": "Apple CarPlay était déjà équipé de ChatGPT et de Copilot.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Enterprise arrive sur AWS Marketplace pour simplifier les achats IT",
-      "link": "https://www.lemondeinformatique.fr/donnees-ia/chatgpt-enterprise-arrive-sur-aws-marketplace-pour",
-      "url": "https://www.lemondeinformatique.fr/donnees-ia/chatgpt-enterprise-arrive-sur-aws-marketplace-pour",
-      "publishedAt": "2026-11-12T08:24:42.000Z",
-      "date": "2026-11-12T08:24:42.000Z",
-      "description": "Cybersécurité · Cloud & Infra · Données & IA · Applications · Poste de travail... L'offre proposée sur AWS Marketplace regroupe ChatGPT, ChatGPT...",
-      "excerpt": "Cybersécurité · Cloud & Infra · Données & IA · Applications · Poste de travail... L'offre proposée sur AWS Marketplace regroupe ChatGPT, ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT veut gérer vos prochaines vacances: cette nouvelle acquisition en dit long sur ses projets",
-      "link": "https://www.journaldugeek.com/2026/11/12/chatgpt-veut-gerer-vos-prochaines-vacances-cette-nouvelle-acquisition-en-dit-long-sur-ses-projets/",
-      "url": "https://www.journaldugeek.com/2026/11/12/chatgpt-veut-gerer-vos-prochaines-vacances-cette-nouvelle-acquisition-en-dit-long-sur-ses-projets/",
-      "publishedAt": "2026-11-12T07:34:38.000Z",
-      "date": "2026-11-12T07:34:38.000Z",
-      "description": "ChatGPT rachète la startup Odessia, qui a développé un... OpenAI vient de lancer GPT-6 Cyber, une nouvelle IA spécialisée en cybersécurité.",
-      "excerpt": "ChatGPT rachète la startup Odessia, qui a développé un... OpenAI vient de lancer GPT-6 Cyber, une nouvelle IA spécialisée en cybersécurité.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ZD Tech: Pourquoi vous allez bientôt remplacer Google par ChatGPT au travail - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/zd-tech-pourquoi-vous-allez-bientot-remplacer-google-par-chatgpt-au-travail-507399.htm",
-      "url": "https://www.zdnet.fr/actualites/zd-tech-pourquoi-vous-allez-bientot-remplacer-google-par-chatgpt-au-travail-507399.htm",
-      "publishedAt": "2026-11-12T07:01:11.000Z",
-      "date": "2026-11-12T07:01:11.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... Mais voilà que ChatGPT ne se contente plus d'écrire du code ou de...",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification · Réseaux et... Mais voilà que ChatGPT ne se contente plus d'écrire du code ou de...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Claude Excel vs ChatGPT vs Gemini: 3 000 cellules [2026] - shattered.io",
-      "link": "https://shattered.io/fr/claude-excel-vs-chatgpt-vs-gemini-analyser-fichier-excel-2026/",
-      "url": "https://shattered.io/fr/claude-excel-vs-chatgpt-vs-gemini-analyser-fichier-excel-2026/",
-      "publishedAt": "2026-11-12T06:50:20.000Z",
-      "date": "2026-11-12T06:50:20.000Z",
-      "description": "Claude Excel, ChatGPT ou Gemini pour analyser un fichier Excel: specs, prix, limites, migration et verdict au 12 novembre 2026.",
-      "excerpt": "Claude Excel, ChatGPT ou Gemini pour analyser un fichier Excel: specs, prix, limites, migration et verdict au 12 novembre 2026.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
