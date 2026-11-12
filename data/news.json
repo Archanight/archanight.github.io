@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:51:39.800Z",
+  "generatedAt": "2026-11-12T04:56:46.435Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT - Fello AI - Page 8",
+      "link": "https://felloai.com/fr/tag/chatgpt/8/",
+      "url": "https://felloai.com/fr/tag/chatgpt/8/",
+      "publishedAt": "2026-11-11T21:24:21.000Z",
+      "date": "2026-11-11T21:24:21.000Z",
+      "description": "Le lancement de GPT-5 par OpenAI a changé le fonctionnement de ChatGPT. Au lieu de choisir entre des modèles comme GPT-4o, GPT-4.5 ou o3, vous...",
+      "excerpt": "Le lancement de GPT-5 par OpenAI a changé le fonctionnement de ChatGPT. Au lieu de choisir entre des modèles comme GPT-4o, GPT-4.5 ou o3, vous...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Appareils connectés: un expert en cybersécurité donne deux conseils face au risque de...",
       "link": "https://www.tf1info.fr/high-tech/reportage-appareils-connectes-un-expert-en-cybersecurite-donne-deux-conseils-face-au-risque-de-piratage-a-domicile-2475239.html",
@@ -100,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Core update de novembre 2026 lancée, Business Hub de ChatGPT ouvert, Gemini 4...",
+      "link": "https://julienseo.com/core-update-novembre-2026-business-hub-chatgpt-gemini-4-carbon/",
+      "url": "https://julienseo.com/core-update-novembre-2026-business-hub-chatgpt-gemini-4-carbon/",
+      "publishedAt": "2026-11-11T14:20:12.000Z",
+      "date": "2026-11-11T14:20:12.000Z",
+      "description": "Core update de novembre 2026, Business Hub de ChatGPT, Gemini 4 Carbon en mode IA, SerpApi, WordPress 7.2 bêta 5: la veille du 11 novembre 2026.",
+      "excerpt": "Core update de novembre 2026, Business Hub de ChatGPT, Gemini 4 Carbon en mode IA, SerpApi, WordPress 7.2 bêta 5: la veille du 11 novembre 2026.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Etude: Face aux crises, à qui les Français font-ils confiance pour s'informer?",
       "link": "https://jai-un-pote-dans-la.com/etude-crises-a-qui-francais-font-ils-confiance-s-informer/",
       "url": "https://jai-un-pote-dans-la.com/etude-crises-a-qui-francais-font-ils-confiance-s-informer/",
@@ -108,26 +128,6 @@
       "description": "TikTok et les IA conversationnelles comme ChatGPT ou Gemini restent à 8 %.... cybersécurité (51 %). Les élus et les services de l'État arrivent juste...",
       "excerpt": "TikTok et les IA conversationnelles comme ChatGPT ou Gemini restent à 8 %.... cybersécurité (51 %). Les élus et les services de l'État arrivent juste...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Orange et Sosh: deux nouvelles applis remplacent Orange et moi et MySosh - Charles Tech",
-      "link": "https://charlestech.fr/orange-et-sosh-deux-nouvelles-applis-remplacent-orange-et-moi-et-mysosh-le-19-novembre-5929bf",
-      "url": "https://charlestech.fr/orange-et-sosh-deux-nouvelles-applis-remplacent-orange-et-moi-et-mysosh-le-19-novembre-5929bf",
-      "publishedAt": "2026-11-11T12:16:35.000Z",
-      "date": "2026-11-11T12:16:35.000Z",
-      "description": "... ChatGPT (OpenAI). On peut choisir le modèle, se laisser orienter vers... Cybersécurité: un volet gratuit et une option. Gratuitement, un...",
-      "excerpt": "... ChatGPT (OpenAI). On peut choisir le modèle, se laisser orienter vers... Cybersécurité: un volet gratuit et une option. Gratuitement, un...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Chrome, faille zero-day CVE -2026-125350 exploitée, la huitième de 2026",
-      "link": "https://pasqualepillitteri.it/fr/news/32030/chrome-faille-zero-day-cve-2026-125350-xml",
-      "url": "https://pasqualepillitteri.it/fr/news/32030/chrome-faille-zero-day-cve-2026-125350-xml",
-      "publishedAt": "2026-11-11T12:06:49.000Z",
-      "date": "2026-11-11T12:06:49.000Z",
-      "description": "Chrome, faille zero-day CVE -2026-125350 exploitée, la huitième de 2026... ChatGPT · Apple · IA chinoise · OpenAI...",
-      "excerpt": "Chrome, faille zero-day CVE -2026-125350 exploitée, la huitième de 2026... ChatGPT · Apple · IA chinoise · OpenAI...",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
     }
   ]
 }
