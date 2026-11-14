@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T12:43:20.464Z",
+  "generatedAt": "2026-11-14T21:48:45.067Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,36 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI annonce que les conversations de ChatGPT Health pourront entraîner ses modèles...",
+      "link": "https://pasqualepillitteri.it/fr/news/33450/chatgpt-health-entrainement-modeles-19-novembre",
+      "url": "https://pasqualepillitteri.it/fr/news/33450/chatgpt-health-entrainement-modeles-19-novembre",
+      "publishedAt": "2026-11-14T16:47:29.000Z",
+      "date": "2026-11-14T16:47:29.000Z",
+      "description": "Les notes de version de ChatGPT vont jusqu'au 13 novembre sans évoquer l'échéance du 19. Limites à connaître. Le texte de la modification n...",
+      "excerpt": "Les notes de version de ChatGPT vont jusqu'au 13 novembre sans évoquer l'échéance du 19. Limites à connaître. Le texte de la modification n...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "IA: ChatGPT peut désormais faire vos achats, avec votre accord à chaque paiement",
+      "link": "https://www.cointribune.com/ia-chatgpt-peut-desormais-faire-vos-achats-avec-votre-accord-a-chaque-paiement/",
+      "url": "https://www.cointribune.com/ia-chatgpt-peut-desormais-faire-vos-achats-avec-votre-accord-a-chaque-paiement/",
+      "publishedAt": "2026-11-14T15:03:06.000Z",
+      "date": "2026-11-14T15:03:06.000Z",
+      "description": "ChatGPT Wallet permet à l'IA de gérer vos achats, mais chaque paiement... Cybersécurité · Actu Wallet · Actu People · Actu Elon Musk · Cours Crypto.",
+      "excerpt": "ChatGPT Wallet permet à l'IA de gérer vos achats, mais chaque paiement... Cybersécurité · Actu Wallet · Actu People · Actu Elon Musk · Cours Crypto.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Microsoft confirme la résolution de la panne mondiale et écarte une cyberattaque",
+      "link": "https://fr.tradingview.com/news/cointelegraph:c29db2f8ab858:0/",
+      "url": "https://fr.tradingview.com/news/cointelegraph:c29db2f8ab858:0/",
+      "publishedAt": "2026-11-14T14:27:08.000Z",
+      "date": "2026-11-14T14:27:08.000Z",
+      "description": "« Il s'agissait d'un problème technique sans lien avec la cybersécurité ou l'IA... OpenAI a déclaré que le connecteur Microsoft 365 dans ChatGPT...",
+      "excerpt": "« Il s'agissait d'un problème technique sans lien avec la cybersécurité ou l'IA... OpenAI a déclaré que le connecteur Microsoft 365 dans ChatGPT...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Panne Outlook, Microsoft a-t-il tout réparé? Le vrai du post viral - Pasquale Pillitteri",
       "link": "https://pasqualepillitteri.it/fr/news/33334/panne-outlook-microsoft-fact-check-fr",
@@ -50,6 +80,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "L'agent de codage Grok Build divulgue une multitude d'informations confidentielles dont...",
+      "link": "https://intelligence-artificielle.developpez.com/actu/389094/L-agent-de-codage-Grok-Build-divulgue-une-multitude-d-informations-confidentielles-dont-certaines-appartiennent-a-SpaceX-Un-chercheur-decouvre-35-000-applications-Grok-Build-accessibles-a-tous/?amp",
+      "url": "https://intelligence-artificielle.developpez.com/actu/389094/L-agent-de-codage-Grok-Build-divulgue-une-multitude-d-informations-confidentielles-dont-certaines-appartiennent-a-SpaceX-Un-chercheur-decouvre-35-000-applications-Grok-Build-accessibles-a-tous/?amp",
+      "publishedAt": "2026-11-14T06:58:13.000Z",
+      "date": "2026-11-14T06:58:13.000Z",
+      "description": "L'enquête a été menée par la société de cybersécurité Claroc en... ChatGPT ou Gemini), l'adresse est enregistrée dans les journaux de...",
+      "excerpt": "L'enquête a été menée par la société de cybersécurité Claroc en... ChatGPT ou Gemini), l'adresse est enregistrée dans les journaux de...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Lettre de motivation IA: 3 assistants dès 0 € [2026] - shattered.io",
       "link": "https://shattered.io/fr/lettre-de-motivation-ia-chatgpt-vs-claude-vs-gemini-cv-2026/",
       "url": "https://shattered.io/fr/lettre-de-motivation-ia-chatgpt-vs-claude-vs-gemini-cv-2026/",
@@ -70,6 +110,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Midday Need to Know: OpenAI enters agentic payments, Copper extends losses & more",
+      "link": "https://fr.tradingview.com/news/seekingalpha:a1a5ed3a9094b:0-midday-need-to-know-openai-enters-agentic-payments-copper-extends-losses-more/",
+      "url": "https://fr.tradingview.com/news/seekingalpha:a1a5ed3a9094b:0-midday-need-to-know-openai-enters-agentic-payments-copper-extends-losses-more/",
+      "publishedAt": "2026-11-14T05:36:07.000Z",
+      "date": "2026-11-14T05:36:07.000Z",
+      "description": "The wallet is initially available to ChatGPT Pro subscribers in the... announcement: Shares of Virgin Galactic SPCE fell more than 19% on...",
+      "excerpt": "The wallet is initially available to ChatGPT Pro subscribers in the... announcement: Shares of Virgin Galactic SPCE fell more than 19% on...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "OpenAI lance ChatGPT Wallet, qui permet aux agents IA de régler leurs achats",
       "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46U1XT:0/",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46U1XT:0/",
@@ -78,56 +128,6 @@
       "description": "OpenAI lance ChatGPT Wallet, qui permet aux agents IA de régler leurs achats... SOC 2 Compliant GDPR Compliant. More than a product. Supercharts.",
       "excerpt": "OpenAI lance ChatGPT Wallet, qui permet aux agents IA de régler leurs achats... SOC 2 Compliant GDPR Compliant. More than a product. Supercharts.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Heating oil delivery drivers overwhelmed following price drop announcement - YouTube",
-      "link": "https://www.youtube.com/watch?v=bfFIjCzgZqk",
-      "url": "https://www.youtube.com/watch?v=bfFIjCzgZqk",
-      "publishedAt": "2026-11-14T00:23:37.000Z",
-      "date": "2026-11-14T00:23:37.000Z",
-      "description": "franceinfo. New. 6.1K views · 3:35 · Go to channel RTL. \"Lawsuit against OpenAI\": Poisoned by his wife, he sues ChatGPT. RTL •10K views. New. Auto-...",
-      "excerpt": "franceinfo. New. 6.1K views · 3:35 · Go to channel RTL. \"Lawsuit against OpenAI\": Poisoned by his wife, he sues ChatGPT. RTL •10K views. New. Auto-...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI lance les paiements par IA dans ChatGPT avec Visa, Mastercard et Amex",
-      "link": "https://fr.tradingview.com/news/cointelegraph:7fe3b1c49b858:0/",
-      "url": "https://fr.tradingview.com/news/cointelegraph:7fe3b1c49b858:0/",
-      "publishedAt": "2026-11-13T22:38:19.000Z",
-      "date": "2026-11-13T22:38:19.000Z",
-      "description": "... ChatGPT via les réseaux de paiement existants, en collaboration avec... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "excerpt": "... ChatGPT via les réseaux de paiement existants, en collaboration avec... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit. Supercharts.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI lance ChatGPT Wallet pour permettre aux agents d'IA d'effectuer des achats",
-      "link": "https://ch.zonebourse.com/actualite-bourse/openai-lance-chatgpt-wallet-pour-permettre-aux-agents-d-ia-d-effectuer-des-achats-ce785ed9d088f521",
-      "url": "https://ch.zonebourse.com/actualite-bourse/openai-lance-chatgpt-wallet-pour-permettre-aux-agents-d-ia-d-effectuer-des-achats-ce785ed9d088f521",
-      "publishedAt": "2026-11-13T22:18:48.000Z",
-      "date": "2026-11-13T22:18:48.000Z",
-      "description": "Cybersécurité · Santé Digitale et Télémédecine · In Vino Veritas... OpenAI lance ChatGPT Wallet pour permettre aux agents d'IA d'effectuer des achats.",
-      "excerpt": "Cybersécurité · Santé Digitale et Télémédecine · In Vino Veritas... OpenAI lance ChatGPT Wallet pour permettre aux agents d'IA d'effectuer des achats.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Introducing ChatGPT Wallet - OpenAI",
-      "link": "https://openai.com/fr-FR/index/introducing-chatgpt-wallet/",
-      "url": "https://openai.com/fr-FR/index/introducing-chatgpt-wallet/",
-      "publishedAt": "2026-11-13T22:10:45.000Z",
-      "date": "2026-11-13T22:10:45.000Z",
-      "description": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card...",
-      "excerpt": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI lance ChatGPT Wallet pour permettre aux agents d'IA d'effectuer des achats",
-      "link": "https://www.zonebourse.com/actualite-bourse/openai-lance-chatgpt-wallet-pour-permettre-aux-agents-da-ia-da-effectuer-des-achats-ce785ed9d180ff25",
-      "url": "https://www.zonebourse.com/actualite-bourse/openai-lance-chatgpt-wallet-pour-permettre-aux-agents-da-ia-da-effectuer-des-achats-ce785ed9d180ff25",
-      "publishedAt": "2026-11-13T22:03:19.000Z",
-      "date": "2026-11-13T22:03:19.000Z",
-      "description": "OpenAI, soutenu par Microsoft, a annoncé vendredi le lancement de ChatGPT Wallet, qui permettra aux agents d'intelligence artificielle de régler...",
-      "excerpt": "OpenAI, soutenu par Microsoft, a annoncé vendredi le lancement de ChatGPT Wallet, qui permettra aux agents d'intelligence artificielle de régler...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
