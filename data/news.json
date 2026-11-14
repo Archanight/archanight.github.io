@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T04:05:42.917Z",
+  "generatedAt": "2026-11-14T12:43:20.464Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,76 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Panne Outlook, Microsoft a-t-il tout réparé? Le vrai du post viral - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/33334/panne-outlook-microsoft-fact-check-fr",
+      "url": "https://pasqualepillitteri.it/fr/news/33334/panne-outlook-microsoft-fact-check-fr",
+      "publishedAt": "2026-11-14T11:08:13.000Z",
+      "date": "2026-11-14T11:08:13.000Z",
+      "description": "Cybersécurité · Claude · OpenAI · Nvidia · Jeux Vidéo · ChatGPT · Multi...",
+      "excerpt": "Cybersécurité · Claude · OpenAI · Nvidia · Jeux Vidéo · ChatGPT · Multi...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "IA: ChatGPT peut désormais faire vos achats, avec votre accord à chaque paiement",
+      "link": "https://fr.tradingview.com/news/cointribune:6a745ca61b858:0/",
+      "url": "https://fr.tradingview.com/news/cointribune:6a745ca61b858:0/",
+      "publishedAt": "2026-11-14T09:29:29.000Z",
+      "date": "2026-11-14T09:29:29.000Z",
+      "description": "La scène illustre la possibilité d'effectuer des achats avec ChatGPT, tout en conservant... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit.",
+      "excerpt": "La scène illustre la possibilité d'effectuer des achats avec ChatGPT, tout en conservant... Conforme à SOC 2 Conforme au RGPD. Plus qu'un produit.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Gemini 4 Hydrogen débarque dans Google Search, ce qui change dans le Mode IA",
+      "link": "https://pasqualepillitteri.it/fr/news/33369/gemini-4-hydrogen-arrive-google-search-mode-ia",
+      "url": "https://pasqualepillitteri.it/fr/news/33369/gemini-4-hydrogen-arrive-google-search-mode-ia",
+      "publishedAt": "2026-11-14T08:15:58.000Z",
+      "date": "2026-11-14T08:15:58.000Z",
+      "description": "ChatGPT · Multi-Agents... Search Engine Roundtable suppose que le classement de base ne change pas, mais le core update du 10 novembre peut déplacer...",
+      "excerpt": "ChatGPT · Multi-Agents... Search Engine Roundtable suppose que le classement de base ne change pas, mais le core update du 10 novembre peut déplacer...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI confirme avoir dissous son équipe de robotique - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/33276/openai-confirme-avoir-dissous-son-equipe-de-robotique",
+      "url": "https://pasqualepillitteri.it/fr/news/33276/openai-confirme-avoir-dissous-son-equipe-de-robotique",
+      "publishedAt": "2026-11-14T07:34:03.000Z",
+      "date": "2026-11-14T07:34:03.000Z",
+      "description": "Cybersécurité · ChatGPT · Multi-Agents & Orchestration · Gemini · Droit...",
+      "excerpt": "Cybersécurité · ChatGPT · Multi-Agents & Orchestration · Gemini · Droit...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Lettre de motivation IA: 3 assistants dès 0 € [2026] - shattered.io",
+      "link": "https://shattered.io/fr/lettre-de-motivation-ia-chatgpt-vs-claude-vs-gemini-cv-2026/",
+      "url": "https://shattered.io/fr/lettre-de-motivation-ia-chatgpt-vs-claude-vs-gemini-cv-2026/",
+      "publishedAt": "2026-11-14T06:48:06.000Z",
+      "date": "2026-11-14T06:48:06.000Z",
+      "description": "Les recherches sur ChatGPT pour CV et sur la lettre de motivation avec ChatGPT... Les notes de version signalent aussi Images 2.6, une...",
+      "excerpt": "Les recherches sur ChatGPT pour CV et sur la lettre de motivation avec ChatGPT... Les notes de version signalent aussi Images 2.6, une...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Des imitateurs d'IA trompent 186 fois les internautes avec des malwares - Brief IA",
+      "link": "https://www.briefia.fr/article/des-imitateurs-d-ia-trompent-186-fois-les-internautes-avec-des-malwares",
+      "url": "https://www.briefia.fr/article/des-imitateurs-d-ia-trompent-186-fois-les-internautes-avec-des-malwares",
+      "publishedAt": "2026-11-14T05:47:18.000Z",
+      "date": "2026-11-14T05:47:18.000Z",
+      "description": "Des chercheurs en cybersécurité ont identifié 186 domaines frauduleux... L'opérateur de ChatGPT affirme avoir bloqué deux opérations d...",
+      "excerpt": "Des chercheurs en cybersécurité ont identifié 186 domaines frauduleux... L'opérateur de ChatGPT affirme avoir bloqué deux opérations d...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI lance ChatGPT Wallet, qui permet aux agents IA de régler leurs achats",
+      "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46U1XT:0/",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46U1XT:0/",
+      "publishedAt": "2026-11-14T02:21:06.000Z",
+      "date": "2026-11-14T02:21:06.000Z",
+      "description": "OpenAI lance ChatGPT Wallet, qui permet aux agents IA de régler leurs achats... SOC 2 Compliant GDPR Compliant. More than a product. Supercharts.",
+      "excerpt": "OpenAI lance ChatGPT Wallet, qui permet aux agents IA de régler leurs achats... SOC 2 Compliant GDPR Compliant. More than a product. Supercharts.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Heating oil delivery drivers overwhelmed following price drop announcement - YouTube",
       "link": "https://www.youtube.com/watch?v=bfFIjCzgZqk",
@@ -57,76 +127,6 @@
       "date": "2026-11-13T22:03:19.000Z",
       "description": "OpenAI, soutenu par Microsoft, a annoncé vendredi le lancement de ChatGPT Wallet, qui permettra aux agents d'intelligence artificielle de régler...",
       "excerpt": "OpenAI, soutenu par Microsoft, a annoncé vendredi le lancement de ChatGPT Wallet, qui permettra aux agents d'intelligence artificielle de régler...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Phishing: quand un vrai faux email et un lien légitime cachent une arnaque - Next.ink",
-      "link": "https://next.ink/266410/phishing-quand-un-vrai-faux-email-et-un-lien-legitime-cachent-une-arnaque/",
-      "url": "https://next.ink/266410/phishing-quand-un-vrai-faux-email-et-un-lien-legitime-cachent-une-arnaque/",
-      "publishedAt": "2026-11-13T21:34:11.000Z",
-      "date": "2026-11-13T21:34:11.000Z",
-      "description": "Mais le seul élément de suspicion, à ce stade, est la certitude de n'avoir jamais réalisé cette action d'octroyer des droits mirobolants à ChatGPT.",
-      "excerpt": "Mais le seul élément de suspicion, à ce stade, est la certitude de n'avoir jamais réalisé cette action d'octroyer des droits mirobolants à ChatGPT.",
-      "source": "Alerte Google: (LLM OR \"AI assistant\" OR ChatGPT) (phishing OR \"social engineering\" OR vuln OR vulnerability OR CVE) (enterprise OR company OR admin)"
-    },
-    {
-      "title": "Cibler un directeur marketing devant sa télé: LinkedIn déploie son offre au Royaume-Uni",
-      "link": "https://jai-un-pote-dans-la.com/linkedin-publicite-tv-connectee-ciblage-royaume-uni/",
-      "url": "https://jai-un-pote-dans-la.com/linkedin-publicite-tv-connectee-ciblage-royaume-uni/",
-      "publishedAt": "2026-11-13T20:48:41.000Z",
-      "date": "2026-11-13T20:48:41.000Z",
-      "description": "Cisco, fournisseur de solutions réseau et de cybersécurité pour les entreprises, a testé l'offre au Royaume-Uni. Son objectif: toucher les...",
-      "excerpt": "Cisco, fournisseur de solutions réseau et de cybersécurité pour les entreprises, a testé l'offre au Royaume-Uni. Son objectif: toucher les...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI prépare un portefeuille ChatGPT pour achats par agents IA - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-prepare-un-portefeuille-chatgpt-pour-achats-par-agents-ia",
-      "url": "https://www.briefia.fr/article/openai-prepare-un-portefeuille-chatgpt-pour-achats-par-agents-ia",
-      "publishedAt": "2026-11-13T19:52:25.000Z",
-      "date": "2026-11-13T19:52:25.000Z",
-      "description": "OpenAI prépare un portefeuille ChatGPT pour permettre à des agents IA d'effectuer des achats au nom des utilisateurs, d'abord pour les abonnés Pro...",
-      "excerpt": "OpenAI prépare un portefeuille ChatGPT pour permettre à des agents IA d'effectuer des achats au nom des utilisateurs, d'abord pour les abonnés Pro...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Talent in Tech: IA et cybersécurité en pointe dans un marché de l'emploi ralenti | Sophianet",
-      "link": "https://www.sophianet.com/article/talent-in-tech-ia-cybersecurite-pointe-marche-emploi-ralenti",
-      "url": "https://www.sophianet.com/article/talent-in-tech-ia-cybersecurite-pointe-marche-emploi-ralenti",
-      "publishedAt": "2026-11-13T19:51:23.000Z",
-      "date": "2026-11-13T19:51:23.000Z",
-      "description": "... cybersécurité dominent la demande dans un marché de l'emploi qui a... X LinkedIn ChatGPT Claude. Cover. Résumé IA. +. De l'audience pour Talent...",
-      "excerpt": "... cybersécurité dominent la demande dans un marché de l'emploi qui a... X LinkedIn ChatGPT Claude. Cover. Résumé IA. +. De l'audience pour Talent...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI présente ChatGPT Wallet pour les achats en ligne - Root-Nation.com",
-      "link": "https://root-nation.com/fr/news-fr/it-news-fr/fr-ai-chatgpt-wallet-shop-for-you/",
-      "url": "https://root-nation.com/fr/news-fr/it-news-fr/fr-ai-chatgpt-wallet-shop-for-you/",
-      "publishedAt": "2026-11-13T19:50:12.000Z",
-      "date": "2026-11-13T19:50:12.000Z",
-      "description": "Le nouveau ChatGPT Wallet permet aux agents IA de faire des achats. Le paiement doit être confirmé avec Face ID ou une empreinte digitale.",
-      "excerpt": "Le nouveau ChatGPT Wallet permet aux agents IA de faire des achats. Le paiement doit être confirmé avec Face ID ou une empreinte digitale.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI lance ChatGPT Wallet: les agents IA font des achats pour vous - KultureGeek",
-      "link": "https://kulturegeek.fr/news-364020/openai-lance-chatgpt-wallet-agents-ia-achats",
-      "url": "https://kulturegeek.fr/news-364020/openai-lance-chatgpt-wallet-agents-ia-achats",
-      "publishedAt": "2026-11-13T19:08:17.000Z",
-      "date": "2026-11-13T19:08:17.000Z",
-      "description": "OpenAI dévoile ChatGPT Wallet, un portefeuille de paiement qui permet à ses agents d'intelligence artificielle d'effectuer des achats en ligne au...",
-      "excerpt": "OpenAI dévoile ChatGPT Wallet, un portefeuille de paiement qui permet à ses agents d'intelligence artificielle d'effectuer des achats en ligne au...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI lance ChatGPT Wallet, les agents règlent sans voir votre carte",
-      "link": "https://pasqualepillitteri.it/fr/news/33228/openai-lance-chatgpt-wallet-agents-paient-jeton",
-      "url": "https://pasqualepillitteri.it/fr/news/33228/openai-lance-chatgpt-wallet-agents-paient-jeton",
-      "publishedAt": "2026-11-13T18:50:58.000Z",
-      "date": "2026-11-13T18:50:58.000Z",
-      "description": "OpenAI lance ChatGPT Wallet dans dots. Les agents paient avec un jeton sans voir la carte, et chaque achat passe par Face ID.",
-      "excerpt": "OpenAI lance ChatGPT Wallet dans dots. Les agents paient avec un jeton sans voir la carte, et chaque achat passe par Face ID.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
