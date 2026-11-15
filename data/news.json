@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T21:48:45.067Z",
+  "generatedAt": "2026-11-15T03:52:15.431Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Royaume-Uni: le fisc pourrait réclamer les échanges avec ChatGPT utilisés pour la...",
+      "link": "https://lemediaen442.fr/royaume-uni-le-fisc-pourrait-reclamer-vos-echanges-avec-chatgpt-utilises-pour-vos-impots/",
+      "url": "https://lemediaen442.fr/royaume-uni-le-fisc-pourrait-reclamer-vos-echanges-avec-chatgpt-utilises-pour-vos-impots/",
+      "publishedAt": "2026-11-14T20:32:01.000Z",
+      "date": "2026-11-14T20:32:01.000Z",
+      "description": "Le fisc britannique pourrait réclamer des échanges fiscaux avec ChatGPT. Historiques intimes, plateformes sollicitées: une porte ouverte aux...",
+      "excerpt": "Le fisc britannique pourrait réclamer des échanges fiscaux avec ChatGPT. Historiques intimes, plateformes sollicitées: une porte ouverte aux...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "OpenAI annonce que les conversations de ChatGPT Health pourront entraîner ses modèles...",
       "link": "https://pasqualepillitteri.it/fr/news/33450/chatgpt-health-entrainement-modeles-19-novembre",
@@ -118,16 +128,6 @@
       "description": "The wallet is initially available to ChatGPT Pro subscribers in the... announcement: Shares of Virgin Galactic SPCE fell more than 19% on...",
       "excerpt": "The wallet is initially available to ChatGPT Pro subscribers in the... announcement: Shares of Virgin Galactic SPCE fell more than 19% on...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI lance ChatGPT Wallet, qui permet aux agents IA de régler leurs achats",
-      "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46U1XT:0/",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46U1XT:0/",
-      "publishedAt": "2026-11-14T02:21:06.000Z",
-      "date": "2026-11-14T02:21:06.000Z",
-      "description": "OpenAI lance ChatGPT Wallet, qui permet aux agents IA de régler leurs achats... SOC 2 Compliant GDPR Compliant. More than a product. Supercharts.",
-      "excerpt": "OpenAI lance ChatGPT Wallet, qui permet aux agents IA de régler leurs achats... SOC 2 Compliant GDPR Compliant. More than a product. Supercharts.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
 }
