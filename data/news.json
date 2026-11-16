@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:16:58.464Z",
+  "generatedAt": "2026-11-16T03:52:41.204Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -17,6 +17,16 @@
       "date": "2026-11-15T21:06:12.000Z",
       "description": "Cybersécurité · IoT · Finance · Claude · Jeux Vidéo · Meta · Actualités IA...",
       "excerpt": "Cybersécurité · IoT · Finance · Claude · Jeux Vidéo · Meta · Actualités IA...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI laisse ses agents ChatGPT payer vos achats, mais pas en France - Gagadget.com",
+      "link": "https://gagadget.com/fr/734326-openai-laisse-ses-agents-chatgpt-payer-vos-achats-mais-pas-en-france/",
+      "url": "https://gagadget.com/fr/734326-openai-laisse-ses-agents-chatgpt-payer-vos-achats-mais-pas-en-france/",
+      "publishedAt": "2026-11-15T20:31:34.000Z",
+      "date": "2026-11-15T20:31:34.000Z",
+      "description": "OpenAI lance ChatGPT Wallet, un portefeuille qui permet à ses agents... Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures · Militaire...",
+      "excerpt": "OpenAI lance ChatGPT Wallet, un portefeuille qui permet à ses agents... Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures · Militaire...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -70,6 +80,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Bénin: Nouvelles Réserves Foncières Communes Créées pour Poumon Vert | Briefly",
+      "link": "https://www.wansom.ai/briefly/news/b-nin-nouvelles-r-serves-fonci-res-communes-cr-es-pour-poumo_06136212-fc2a-449d-8835-e7ca95f242bc",
+      "url": "https://www.wansom.ai/briefly/news/b-nin-nouvelles-r-serves-fonci-res-communes-cr-es-pour-poumo_06136212-fc2a-449d-8835-e7ca95f242bc",
+      "publishedAt": "2026-11-15T13:25:40.000Z",
+      "date": "2026-11-15T13:25:40.000Z",
+      "description": "Choose what your ChatGPT can access and which Wansom AI capabilities it can use.... The announcement was made by Minister Adin Yéton Bloukounon...",
+      "excerpt": "Choose what your ChatGPT can access and which Wansom AI capabilities it can use.... The announcement was made by Minister Adin Yéton Bloukounon...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "ChatGPT Santé vs Claude vs Gemini: 3 IA comparées [2026] - shattered.io",
       "link": "https://shattered.io/fr/chatgpt-sante-vs-claude-vs-gemini-donnees-medicales-2026/",
       "url": "https://shattered.io/fr/chatgpt-sante-vs-claude-vs-gemini-donnees-medicales-2026/",
@@ -107,26 +127,6 @@
       "date": "2026-11-15T08:11:55.000Z",
       "description": "Plus de 4 milliards de dollars de puces en jeu. Les plus lus · Nvidia · Cybersécurité... ChatGPT...",
       "excerpt": "Plus de 4 milliards de dollars de puces en jeu. Les plus lus · Nvidia · Cybersécurité... ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "John Langford quitte Microsoft et déclare la fin d'AI Frontiers - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/33512/john-langford-microsoft-ai-frontiers-fin",
-      "url": "https://pasqualepillitteri.it/fr/news/33512/john-langford-microsoft-ai-frontiers-fin",
-      "publishedAt": "2026-11-15T08:09:38.000Z",
-      "date": "2026-11-15T08:09:38.000Z",
-      "description": "Cybersécurité · Jeux Vidéo · Gemini · Nvidia... ChatGPT · Multi-Agents...",
-      "excerpt": "Cybersécurité · Jeux Vidéo · Gemini · Nvidia... ChatGPT · Multi-Agents...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Piratage de Maileva, les données de 22 millions de personnes volées - Pasquale Pillitteri",
-      "link": "https://pasqualepillitteri.it/fr/news/33492/piratage-maileva-la-poste-22-millions-donnees-volees",
-      "url": "https://pasqualepillitteri.it/fr/news/33492/piratage-maileva-la-poste-22-millions-donnees-volees",
-      "publishedAt": "2026-11-15T00:12:36.000Z",
-      "date": "2026-11-15T00:12:36.000Z",
-      "description": "Hôpitaux, laboratoires et bailleurs sociaux sont touchés. Les plus lus · Cybersécurité...",
-      "excerpt": "Hôpitaux, laboratoires et bailleurs sociaux sont touchés. Les plus lus · Cybersécurité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
