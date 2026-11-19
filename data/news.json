@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:42:30.618Z",
+  "generatedAt": "2026-11-19T05:04:57.103Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI lance GPT-6.2 Astra et Sol, deux modèles pensés pour coder sans faire exploser la facture",
+      "link": "https://korben.info/openai-lance-gpt-6-2-astra-et-sol-deux-modeles-penses-pour-coder-sans-faire-exploser-la-facture.html",
+      "url": "https://korben.info/openai-lance-gpt-6-2-astra-et-sol-deux-modeles-penses-pour-coder-sans-faire-exploser-la-facture.html",
+      "publishedAt": "2026-11-19T00:21:27.000Z",
+      "date": "2026-11-19T00:21:27.000Z",
+      "description": "Les deux modèles sont accessibles dans ChatGPT Work et Codex, l'outil... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
+      "excerpt": "Les deux modèles sont accessibles dans ChatGPT Work et Codex, l'outil... Les métiers de la Cybersécurité et de l'Intelligence Artificielle.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les fournisseurs proposent des outils de sécurité pour agents IA - Brief IA",
+      "link": "https://www.briefia.fr/article/les-fournisseurs-proposent-des-outils-de-securite-pour-agents-ia",
+      "url": "https://www.briefia.fr/article/les-fournisseurs-proposent-des-outils-de-securite-pour-agents-ia",
+      "publishedAt": "2026-11-18T22:39:29.000Z",
+      "date": "2026-11-18T22:39:29.000Z",
+      "description": "Les fournisseurs de cybersécurité proposent des outils tels que des... ChatGPT et Gemini: IA accusées de divulguer des secrets biologiques.",
+      "excerpt": "Les fournisseurs de cybersécurité proposent des outils tels que des... ChatGPT et Gemini: IA accusées de divulguer des secrets biologiques.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Vous utilisez l'un des 20 pires mots de passe de France? Changez-le immédiatement",
       "link": "https://www.01net.com/actualites/vous-utilisez-lun-des-20-pires-mots-de-passe-de-france-changez-le-immediatement.html",
@@ -107,26 +127,6 @@
       "date": "2026-11-18T16:06:48.000Z",
       "description": "... cybersécurité. Agents IA, programmation, shopping… Comment OpenAI se prépare à transformer ChatGPT en « super application ».",
       "excerpt": "... cybersécurité. Agents IA, programmation, shopping… Comment OpenAI se prépare à transformer ChatGPT en « super application ».",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "« Le pire modèle jamais sorti par OpenAI »: le nouveau ChatGPT se fait descendre par des testeurs",
-      "link": "https://www.01net.com/actualites/le-pire-modele-jamais-sorti-par-openai-le-nouveau-chatgpt-se-fait-descendre-par-des-testeurs.html",
-      "url": "https://www.01net.com/actualites/le-pire-modele-jamais-sorti-par-openai-le-nouveau-chatgpt-se-fait-descendre-par-des-testeurs.html",
-      "publishedAt": "2026-11-18T15:55:15.000Z",
-      "date": "2026-11-18T15:55:15.000Z",
-      "description": "« Le pire modèle jamais sorti par OpenAI »: le nouveau ChatGPT se fait descendre par des testeurs... cybersécurité · Choix Assurance Vie. Choisir une...",
-      "excerpt": "« Le pire modèle jamais sorti par OpenAI »: le nouveau ChatGPT se fait descendre par des testeurs... cybersécurité · Choix Assurance Vie. Choisir une...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité: que sont les failles PHP qui ont mis Internet en pause fin octobre?",
-      "link": "https://theconversation.com/cybersecurite-que-sont-les-failles-php-qui-ont-mis-internet-en-pause-fin-octobre-296358",
-      "url": "https://theconversation.com/cybersecurite-que-sont-les-failles-php-qui-ont-mis-internet-en-pause-fin-octobre-296358",
-      "publishedAt": "2026-11-18T15:52:08.000Z",
-      "date": "2026-11-18T15:52:08.000Z",
-      "description": "Cybersécurité: que sont les failles PHP qui ont mis Internet en... Et même si les IA les plus faciles d'accès comme Claude ou ChatGPT sont...",
-      "excerpt": "Cybersécurité: que sont les failles PHP qui ont mis Internet en... Et même si les IA les plus faciles d'accès comme Claude ou ChatGPT sont...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
