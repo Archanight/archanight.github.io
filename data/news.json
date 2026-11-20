@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T00:01:07.872Z",
+  "generatedAt": "2026-11-20T14:36:44.351Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,16 @@
   "failedSources": [],
   "items": [
     {
+      "title": "“Le pire modèle qu'OpenAI ait jamais sorti”: GPT-6.2 Astra, le nouveau cerveau de...",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/le-pire-modele-qu-openai-ait-jamais-sorti-gpt-6-2-astra-le-nouveau-cerveau-de-chatgpt-se-fait-etriller-n267956.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/le-pire-modele-qu-openai-ait-jamais-sorti-gpt-6-2-astra-le-nouveau-cerveau-de-chatgpt-se-fait-etriller-n267956.html",
+      "publishedAt": "2026-11-20T01:49:36.000Z",
+      "date": "2026-11-20T01:49:36.000Z",
+      "description": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "excerpt": "ChatGPT / GPT-4. Nos réseaux: Suivez-nous. Ajoutez nous à vos favoris... Les Nums, l' Update. sponsorisé. #04 avec Bastien Lion: « Plus que...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Cybersécurité des services publics: qui financera la mise à niveau face aux attaques visant...",
       "link": "https://www.parlons-politique.fr/actualite-nationale/cybersecurite-des-services-publics-qui-financera-la-mise-a-niveau-face-aux-attaques-visant-les-donnees-des-francais_31549/",
       "url": "https://www.parlons-politique.fr/actualite-nationale/cybersecurite-des-services-publics-qui-financera-la-mise-a-niveau-face-aux-attaques-visant-les-donnees-des-francais_31549/",
@@ -18,6 +28,26 @@
       "description": "La cybersécurité des services publics exige de nouveaux moyens. Le... ChatGPT Perplexity Gemini Claude Le Chat (Mistral) Copilot. Un prompt...",
       "excerpt": "La cybersécurité des services publics exige de nouveaux moyens. Le... ChatGPT Perplexity Gemini Claude Le Chat (Mistral) Copilot. Un prompt...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Optivalue.ai remporte le Trophée de la Cybersécurité 2026 dans la catégorie Innovation Cyber",
+      "link": "https://www.sophianet.com/article/optivalue-ai-remporte-trophee-cybersecurite-2026-categorie-innovation-cyber",
+      "url": "https://www.sophianet.com/article/optivalue-ai-remporte-trophee-cybersecurite-2026-categorie-innovation-cyber",
+      "publishedAt": "2026-11-19T22:07:33.000Z",
+      "date": "2026-11-19T22:07:33.000Z",
+      "description": "X LinkedIn ChatGPT Claude. Résumé IA. +. Nouvelle distinction pour... Cybersécurité 2026, organisés en partenariat avec la Fédération Française de la...",
+      "excerpt": "X LinkedIn ChatGPT Claude. Résumé IA. +. Nouvelle distinction pour... Cybersécurité 2026, organisés en partenariat avec la Fédération Française de la...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Rates and Nasdaq: Why the Market Had Already Priced In the Announcement - YouTube",
+      "link": "https://www.youtube.com/watch?v=kgJ7gfVX9Ng",
+      "url": "https://www.youtube.com/watch?v=kgJ7gfVX9Ng",
+      "publishedAt": "2026-11-19T20:12:54.000Z",
+      "date": "2026-11-19T20:12:54.000Z",
+      "description": "... •898K views · 50:16. Go to channel Finary · On a enfin compris comment Claude a doublé ChatGPT (avec @DefendIntelligence). Finary. New. 415K views · 6...",
+      "excerpt": "... •898K views · 50:16. Go to channel Finary · On a enfin compris comment Claude a doublé ChatGPT (avec @DefendIntelligence). Finary. New. 415K views · 6...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Cybersécurité: panique générale face à la déferlante IA - l'Opinion",
@@ -98,36 +128,6 @@
       "description": "OpenAI fait face à un examen juridique accru aux États-Unis alors que l'Arizona a lancé une enquête pénale sur le créateur de ChatGPT... cybersécurité,...",
       "excerpt": "OpenAI fait face à un examen juridique accru aux États-Unis alors que l'Arizona a lancé une enquête pénale sur le créateur de ChatGPT... cybersécurité,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT, Claude, Gemini, Grok: un audit fédéral leur a fait produire des plans d'attentat en...",
-      "link": "https://journalducoin.com/technologies/gao-chatgpt-claude-gemini-grok-plans-attentat-12-heures/",
-      "url": "https://journalducoin.com/technologies/gao-chatgpt-claude-gemini-grok-plans-attentat-12-heures/",
-      "publishedAt": "2026-11-19T14:28:27.000Z",
-      "date": "2026-11-19T14:28:27.000Z",
-      "description": "ChatGPT, Claude, Gemini, Grok: un audit fédéral leur a fait... Coinbase Cybersécurité · Deepfake d'Elon Musk devant 500 000 personnes...",
-      "excerpt": "ChatGPT, Claude, Gemini, Grok: un audit fédéral leur a fait... Coinbase Cybersécurité · Deepfake d'Elon Musk devant 500 000 personnes...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT transcrit votre voix en direct et sans limite de durée, même en gratuit - Mac4Ever",
-      "link": "https://www.mac4ever.com/ia/199141-chatgpt-transcrit-votre-voix-en-direct-et-sans-limite-de-duree-meme-en-gratuit",
-      "url": "https://www.mac4ever.com/ia/199141-chatgpt-transcrit-votre-voix-en-direct-et-sans-limite-de-duree-meme-en-gratuit",
-      "publishedAt": "2026-11-19T14:22:44.000Z",
-      "date": "2026-11-19T14:22:44.000Z",
-      "description": "ChatGPT transcrit votre voix en direct et sans limite de durée, même en gratuit... Les notes de version évoquent un déploiement mondial déjà en cours...",
-      "excerpt": "ChatGPT transcrit votre voix en direct et sans limite de durée, même en gratuit... Les notes de version évoquent un déploiement mondial déjà en cours...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT affiche désormais le texte pendant que vous dictez - WeAreMobians",
-      "link": "https://wearemobians.com/2026/11/chatgpt-dictee-en-direct/",
-      "url": "https://wearemobians.com/2026/11/chatgpt-dictee-en-direct/",
-      "publishedAt": "2026-11-19T13:50:36.000Z",
-      "date": "2026-11-19T13:50:36.000Z",
-      "description": "... ChatGPT, le texte peut apparaître pendant que vous parlez. OpenAI a annoncé la fonctionnalité le 18 novembre 2026 dans ses notes de version...",
-      "excerpt": "... ChatGPT, le texte peut apparaître pendant que vous parlez. OpenAI a annoncé la fonctionnalité le 18 novembre 2026 dans ses notes de version...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
