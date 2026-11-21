@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:54:25.103Z",
+  "generatedAt": "2026-11-21T22:35:35.024Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,36 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Prompts d'IA volés, Dragos révèle trois fournisseurs piratés - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/35803/prompts-d-ia-voles-dragos-revele-trois-fournisseurs-pirates",
+      "url": "https://pasqualepillitteri.it/fr/news/35803/prompts-d-ia-voles-dragos-revele-trois-fournisseurs-pirates",
+      "publishedAt": "2026-11-21T16:55:43.000Z",
+      "date": "2026-11-21T16:55:43.000Z",
+      "description": "Cloud et DevOps · Tesla · Outils IA... ChatGPT · Mistral · Grok...",
+      "excerpt": "Cloud et DevOps · Tesla · Outils IA... ChatGPT · Mistral · Grok...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT Espace sur Plus, mode d'emploi - Meteora Web",
+      "link": "https://meteoraweb.com/fr/news/chatgpt-espace-forfait-plus-documents-mis-a-jour-automatiquement",
+      "url": "https://meteoraweb.com/fr/news/chatgpt-espace-forfait-plus-documents-mis-a-jour-automatiquement",
+      "publishedAt": "2026-11-21T11:42:13.000Z",
+      "date": "2026-11-21T11:42:13.000Z",
+      "description": "ChatGPT Spazio arrive sur le forfait Plus, avec des documents qui se mettent à jour tout seuls · Qu'est-ce qu'Espace de ChatGPT et où le trouver?",
+      "excerpt": "ChatGPT Spazio arrive sur le forfait Plus, avec des documents qui se mettent à jour tout seuls · Qu'est-ce qu'Espace de ChatGPT et où le trouver?",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Fonctions de ChatGPT, guide des principales caractéristiques - Meteora Web",
+      "link": "https://meteoraweb.com/fr/intelligenza-artificiale/fonctions-de-chatgpt-guide-caracteristiques-nouveautes",
+      "url": "https://meteoraweb.com/fr/intelligenza-artificiale/fonctions-de-chatgpt-guide-caracteristiques-nouveautes",
+      "publishedAt": "2026-11-21T11:42:00.000Z",
+      "date": "2026-11-21T11:42:00.000Z",
+      "description": "Guide des fonctions de ChatGPT d'après les notes de version officielles d'OpenAI. Ce qu'il fait, ce qui change sur desktop, forfaits et limites à...",
+      "excerpt": "Guide des fonctions de ChatGPT d'après les notes de version officielles d'OpenAI. Ce qu'il fait, ce qui change sur desktop, forfaits et limites à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Spring, l'ACN signale 5 failles critiques et 24 élevées - Meteora Web",
       "link": "https://meteoraweb.com/fr/news/spring-lacn-signale-29-vulnerabilites-critiques-et-elevees",
       "url": "https://meteoraweb.com/fr/news/spring-lacn-signale-29-vulnerabilites-critiques-et-elevees",
@@ -17,6 +47,16 @@
       "date": "2026-11-21T11:41:50.000Z",
       "description": "Le CSIRT Italia, le service de l'Agence nationale italienne pour la cybersécurité... ChatGPT Spazio arrive sur le forfait Plus, avec des documents qui...",
       "excerpt": "Le CSIRT Italia, le service de l'Agence nationale italienne pour la cybersécurité... ChatGPT Spazio arrive sur le forfait Plus, avec des documents qui...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Nvidia, le New York Times révèle les insultes et les menaces de Jensen Huang envers ses employés",
+      "link": "https://pasqualepillitteri.it/fr/news/35584/new-york-times-insultes-menaces-jensen-huang-nvidia",
+      "url": "https://pasqualepillitteri.it/fr/news/35584/new-york-times-insultes-menaces-jensen-huang-nvidia",
+      "publishedAt": "2026-11-21T11:10:44.000Z",
+      "date": "2026-11-21T11:10:44.000Z",
+      "description": "Cybersécurité · Tesla · Outils IA... ChatGPT · Mistral · Grok...",
+      "excerpt": "Cybersécurité · Tesla · Outils IA... ChatGPT · Mistral · Grok...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -30,13 +70,43 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "Le WSJ révèle une enquête de la SEC visant les communications de Nvidia",
+      "link": "https://pasqualepillitteri.it/fr/news/35685/le-wsj-revele-une-enquete-de-la-sec-visant",
+      "url": "https://pasqualepillitteri.it/fr/news/35685/le-wsj-revele-une-enquete-de-la-sec-visant",
+      "publishedAt": "2026-11-21T10:02:22.000Z",
+      "date": "2026-11-21T10:02:22.000Z",
+      "description": "Cloud et DevOps · Amazon · Multi-Agents & Orchestration · IA chinoise...",
+      "excerpt": "Cloud et DevOps · Amazon · Multi-Agents & Orchestration · IA chinoise...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ARTEX, Check Point révèle les campagnes d'agents IA qui attaquent seuls",
+      "link": "https://pasqualepillitteri.it/fr/news/35751/artex-check-point-revele-les-campagnes-d-agents-ia",
+      "url": "https://pasqualepillitteri.it/fr/news/35751/artex-check-point-revele-les-campagnes-d-agents-ia",
+      "publishedAt": "2026-11-21T09:40:08.000Z",
+      "date": "2026-11-21T09:40:08.000Z",
+      "description": "Les criminels écrivent très peu à leurs agents IA. Les plus lus · Cybersécurité... ChatGPT · Mistral...",
+      "excerpt": "Les criminels écrivent très peu à leurs agents IA. Les plus lus · Cybersécurité... ChatGPT · Mistral...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "IA maths: Claude, ChatGPT ou Gemini, AIME à 100 % - shattered.io",
       "link": "https://shattered.io/fr/ia-maths-claude-vs-chatgpt-vs-gemini-aime-frontiermath-2026/",
       "url": "https://shattered.io/fr/ia-maths-claude-vs-chatgpt-vs-gemini-aime-frontiermath-2026/",
       "publishedAt": "2026-11-21T08:18:43.000Z",
       "date": "2026-11-21T08:18:43.000Z",
-      "description": "Jeux VidéoCryptographie Cybersécurité CloudCryptomonnaieIntelligence ArtificielleMatérielConfidentialitéCasinoEsportsLogiciels... Pour un usage étudiant...",
-      "excerpt": "Jeux VidéoCryptographie Cybersécurité CloudCryptomonnaieIntelligence ArtificielleMatérielConfidentialitéCasinoEsportsLogiciels... Pour un usage étudiant...",
+      "description": "GPT-6 Luna, le petit modèle, tombe à 0,10 $ et 0,50 $. Côté application, les notes de version de ChatGPT indiquent que Plus, Pro, Business et...",
+      "excerpt": "GPT-6 Luna, le petit modèle, tombe à 0,10 $ et 0,50 $. Côté application, les notes de version de ChatGPT indiquent que Plus, Pro, Business et...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Le FBI enquête sur une attaque présumée contre la base NCIC - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/35632/le-fbi-enquete-sur-une-attaque-presumee-contre",
+      "url": "https://pasqualepillitteri.it/fr/news/35632/le-fbi-enquete-sur-une-attaque-presumee-contre",
+      "publishedAt": "2026-11-21T08:04:17.000Z",
+      "date": "2026-11-21T08:04:17.000Z",
+      "description": "Deuxième violation visant le Bureau en quelques mois. Les plus lus · Cybersécurité...",
+      "excerpt": "Deuxième violation visant le Bureau en quelques mois. Les plus lus · Cybersécurité...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -58,76 +128,6 @@
       "description": "Le rapport a été réalisé par des chercheurs indépendants spécialisés dans les incidents de cybersécurité. Aucune donnée personnelle n'a été...",
       "excerpt": "Le rapport a été réalisé par des chercheurs indépendants spécialisés dans les incidents de cybersécurité. Aucune donnée personnelle n'a été...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "États-Unis: Le directeur de la cybersécurité de la Maison-Blanche limogé - Yahoo Actualités",
-      "link": "https://fr.news.yahoo.com/sport/%C3%A9tats-unis-directeur-cybers%C3%A9curit%C3%A9-maison-132057597.html",
-      "url": "https://fr.news.yahoo.com/sport/%C3%A9tats-unis-directeur-cybers%C3%A9curit%C3%A9-maison-132057597.html",
-      "publishedAt": "2026-11-21T06:26:03.000Z",
-      "date": "2026-11-21T06:26:03.000Z",
-      "description": "Cette réorganisation est présentée comme un renforcement de l'équipe cybersécurité de l'administration Trump, aux côtés notamment du directeur...",
-      "excerpt": "Cette réorganisation est présentée comme un renforcement de l'équipe cybersécurité de l'administration Trump, aux côtés notamment du directeur...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Space s'ouvre aux abonnés Plus, mais sans les agents Dot - Gagadget.com",
-      "link": "https://gagadget.com/fr/735181-chatgpt-space-souvre-aux-abonnes-plus-mais-sans-les-agents-dot/",
-      "url": "https://gagadget.com/fr/735181-chatgpt-space-souvre-aux-abonnes-plus-mais-sans-les-agents-dot/",
-      "publishedAt": "2026-11-21T00:17:49.000Z",
-      "date": "2026-11-21T00:17:49.000Z",
-      "description": "Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures · Militaire... ChatGPT Space s'ouvre aux abonnés Plus, mais sans les agents Dot. Par...",
-      "excerpt": "Cybersécurité · Espace et science · Entreprise · Cinéma · Voitures · Militaire... ChatGPT Space s'ouvre aux abonnés Plus, mais sans les agents Dot. Par...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Tumbler Ridge: nouvelle enquête sur le rôle de ChatGPT | OHdio - Radio-Canada",
-      "link": "https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2535065/enquete-sur-role-chatgpt-dans-tuerie-tumbler-ridge-alan-davoust",
-      "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2535065/enquete-sur-role-chatgpt-dans-tuerie-tumbler-ridge-alan-davoust",
-      "publishedAt": "2026-11-20T19:49:52.000Z",
-      "date": "2026-11-20T19:49:52.000Z",
-      "description": "... cybersécurité et confiance numérique, réagit à cette nouvelle enquête. Je trouve ça vraiment choquant. Avec mon chapeau d'être humain ordinaire...",
-      "excerpt": "... cybersécurité et confiance numérique, réagit à cette nouvelle enquête. Je trouve ça vraiment choquant. Avec mon chapeau d'être humain ordinaire...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le directeur national de la cybersécurité aux États-Unis démissionne | 7sur7.be",
-      "link": "https://www.7sur7.be/monde/le-directeur-national-de-la-cybersecurite-aux-etats-unis-demissionne~ab4a1fd7/",
-      "url": "https://www.7sur7.be/monde/le-directeur-national-de-la-cybersecurite-aux-etats-unis-demissionne~ab4a1fd7/",
-      "publishedAt": "2026-11-20T18:27:04.000Z",
-      "date": "2026-11-20T18:27:04.000Z",
-      "description": "Le directeur national de la cybersécurité aux États-Unis, Sean Cairncross, démissionne, ont rapporté jeudi plusieurs médias, dont Axios et...",
-      "excerpt": "Le directeur national de la cybersécurité aux États-Unis, Sean Cairncross, démissionne, ont rapporté jeudi plusieurs médias, dont Axios et...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT exclut la France de sa nouvelle interface mobile construite autour des dots",
-      "link": "https://stephanelarue.com/chatgpt-exclut-la-france-de-sa-nouvelle-interface-mobile-construite-autour-des-dots/",
-      "url": "https://stephanelarue.com/chatgpt-exclut-la-france-de-sa-nouvelle-interface-mobile-construite-autour-des-dots/",
-      "publishedAt": "2026-11-20T17:16:23.000Z",
-      "date": "2026-11-20T17:16:23.000Z",
-      "description": "Dans ses notes de version de septembre, OpenAI indique que l'offre... Application mobile ChatGPTChatGPT ProDotsEuropeintelligence artificielleOpenAI.",
-      "excerpt": "Dans ses notes de version de septembre, OpenAI indique que l'offre... Application mobile ChatGPTChatGPT ProDotsEuropeintelligence artificielleOpenAI.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Apple fait mieux que le Nasdaq 100 depuis la sortie de ChatGPT - Zonebourse",
-      "link": "https://www.zonebourse.com/actualite-bourse/apple-fait-mieux-que-le-nasdaq-100-depuis-la-sortie-de-chatgpt-ce785ed3d98ef02c",
-      "url": "https://www.zonebourse.com/actualite-bourse/apple-fait-mieux-que-le-nasdaq-100-depuis-la-sortie-de-chatgpt-ce785ed3d98ef02c",
-      "publishedAt": "2026-11-20T17:03:53.000Z",
-      "date": "2026-11-20T17:03:53.000Z",
-      "description": "... ChatGPT, en novembre 2022. Cela n'empêche pas le... Les cotations sont fournies par Factset, Morningstar et S&P Capital IQ - Release 2ed1ace8.",
-      "excerpt": "... ChatGPT, en novembre 2022. Cela n'empêche pas le... Les cotations sont fournies par Factset, Morningstar et S&P Capital IQ - Release 2ed1ace8.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "ChatGPT anime désormais vos photos en GIF: la phrase exacte à taper, même avec la... - Selectra",
-      "link": "https://selectra.info/telecom/actualites/marche/chatgpt-gif-animes-photos-version-gratuite",
-      "url": "https://selectra.info/telecom/actualites/marche/chatgpt-gif-animes-photos-version-gratuite",
-      "publishedAt": "2026-11-20T16:32:25.000Z",
-      "date": "2026-11-20T16:32:25.000Z",
-      "description": "Les notes de version d'OpenAI du 4 novembre la disent « en cours de déploiement ». Si ChatGPT répond par une image fixe à une demande d'animation...",
-      "excerpt": "Les notes de version d'OpenAI du 4 novembre la disent « en cours de déploiement ». Si ChatGPT répond par une image fixe à une demande d'animation...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
