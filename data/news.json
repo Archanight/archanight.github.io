@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T22:35:35.024Z",
+  "generatedAt": "2026-11-22T04:06:22.604Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,16 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "ChatGPT Space arrive sur Plus: des documents partagés, mais pas avec les comptes gratuits",
+      "link": "https://kulturegeek.fr/news-364557/chatgpt-space-plus-documents-partages-comptes-gratuits",
+      "url": "https://kulturegeek.fr/news-364557/chatgpt-space-plus-documents-partages-comptes-gratuits",
+      "publishedAt": "2026-11-21T21:45:50.000Z",
+      "date": "2026-11-21T21:45:50.000Z",
+      "description": "OpenAI ouvre ChatGPT Space aux abonnés Plus de 18 ans et plus, avec un déploiement mondial... GPT-5.2 arrive bientôt: OpenAI va contrer Gemini 3 avec...",
+      "excerpt": "OpenAI ouvre ChatGPT Space aux abonnés Plus de 18 ans et plus, avec un déploiement mondial... GPT-5.2 arrive bientôt: OpenAI va contrer Gemini 3 avec...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Prompts d'IA volés, Dragos révèle trois fournisseurs piratés - Pasquale Pillitteri",
       "link": "https://pasqualepillitteri.it/fr/news/35803/prompts-d-ia-voles-dragos-revele-trois-fournisseurs-pirates",
@@ -117,16 +127,6 @@
       "date": "2026-11-21T07:10:53.000Z",
       "description": "Cybersécurité · Météo · Mois sans tabac · 25 ans de Futura · Accueil · tech · actualites · Planifier sa semaine avec ChatGPT: cette expérience révèle...",
       "excerpt": "Cybersécurité · Météo · Mois sans tabac · 25 ans de Futura · Accueil · tech · actualites · Planifier sa semaine avec ChatGPT: cette expérience révèle...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Tumbler Ridge: des échanges entre la tireuse et ChatGPT dévoilés | Radio-Canada",
-      "link": "https://ici.radio-canada.ca/en-bref/1-10815136/tumbler-ridge-echanges-entre-tireuse-et-chatgpt-devoiles",
-      "url": "https://ici.radio-canada.ca/en-bref/1-10815136/tumbler-ridge-echanges-entre-tireuse-et-chatgpt-devoiles",
-      "publishedAt": "2026-11-21T06:34:29.000Z",
-      "date": "2026-11-21T06:34:29.000Z",
-      "description": "Le rapport a été réalisé par des chercheurs indépendants spécialisés dans les incidents de cybersécurité. Aucune donnée personnelle n'a été...",
-      "excerpt": "Le rapport a été réalisé par des chercheurs indépendants spécialisés dans les incidents de cybersécurité. Aucune donnée personnelle n'a été...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
