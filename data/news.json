@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T22:58:26.585Z",
+  "generatedAt": "2026-11-23T04:47:47.274Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,26 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "GPT-5,1 trouve des moyens de contourner le Grand Pare-feu chinois pour moins de 1 $",
+      "link": "https://mezha.net/fr/news/mezha-bbe427d3503fbc5a7b8e7074_gpt-5-1-trouve-des-moyens/",
+      "url": "https://mezha.net/fr/news/mezha-bbe427d3503fbc5a7b8e7074_gpt-5-1-trouve-des-moyens/",
+      "publishedAt": "2026-11-23T00:43:58.000Z",
+      "date": "2026-11-23T00:43:58.000Z",
+      "description": "Le coût médian de l'API pour parvenir au premier contournement réussi avec GPT-5,1 était inférieur à 1 $. Les résultats ont été présentés la semaine...",
+      "excerpt": "Le coût médian de l'API pour parvenir au premier contournement réussi avec GPT-5,1 était inférieur à 1 $. Les résultats ont été présentés la semaine...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Jay Clayton assurera l'intérim à la direction nationale de la cybersécurité | Межа",
+      "link": "https://mezha.net/fr/news/mezha-baae8b715a37a50b9ba55165_jay-clayton-assurera-l-interim-a/",
+      "url": "https://mezha.net/fr/news/mezha-baae8b715a37a50b9ba55165_jay-clayton-assurera-l-interim-a/",
+      "publishedAt": "2026-11-23T00:43:56.000Z",
+      "date": "2026-11-23T00:43:56.000Z",
+      "description": "Cette nomination par intérim confie à un même responsable les fonctions de renseignement et la politique nationale de cybersécurité... GPT-5,1 trouve...",
+      "excerpt": "Cette nomination par intérim confie à un même responsable les fonctions de renseignement et la politique nationale de cybersécurité... GPT-5,1 trouve...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "L'OTAN confie sa cyberdéfense à l'IA de ChatGPT Z'ai peur. IA OTAN OpenAI... - Facebook",
       "link": "https://www.facebook.com/mpachen/posts/lotan-confie-sa-cyberd%C3%A9fense-%C3%A0-lia-de-chatgpt-zai-peur-ia-otan-openai-chatgpt-cy/1725982225554917/",
@@ -108,26 +128,6 @@
       "description": "Cloud et DevOps · Outils IA & Avis... ChatGPT · Mistral · Grok · Rapports...",
       "excerpt": "Cloud et DevOps · Outils IA & Avis... ChatGPT · Mistral · Grok · Rapports...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Instagram lance la modification des Stories publiées, pendant 15 minutes",
-      "link": "https://pasqualepillitteri.it/fr/news/35957/instagram-modification-stories-publiees-15-minutes",
-      "url": "https://pasqualepillitteri.it/fr/news/35957/instagram-modification-stories-publiees-15-minutes",
-      "publishedAt": "2026-11-22T08:38:12.000Z",
-      "date": "2026-11-22T08:38:12.000Z",
-      "description": "Infrastructure Agents IA · Jeux Vidéo · Google · OpenAI · Cloud et DevOps... ChatGPT · Mistral...",
-      "excerpt": "Infrastructure Agents IA · Jeux Vidéo · Google · OpenAI · Cloud et DevOps... ChatGPT · Mistral...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Space: des pages qui se mettent à jour toutes seules? - YouTube",
-      "link": "https://www.youtube.com/shorts/laTPpZiV0Bc",
-      "url": "https://www.youtube.com/shorts/laTPpZiV0Bc",
-      "publishedAt": "2026-11-22T08:28:19.000Z",
-      "date": "2026-11-22T08:28:19.000Z",
-      "description": "... ChatGPT Space permet de créer des pages interactives et des... release notes, 20 novembre 2026 (2026-11-20): https://help.openai.com...",
-      "excerpt": "... ChatGPT Space permet de créer des pages interactives et des... release notes, 20 novembre 2026 (2026-11-20): https://help.openai.com...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
