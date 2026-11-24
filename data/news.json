@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T03:37:17.394Z",
+  "generatedAt": "2026-11-24T16:43:01.050Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,96 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Cybersécurité: les jeunes pirates se professionnalisent avec l'IA - Journaldunet.com",
+      "link": "https://www.journaldunet.com/cybersecurite/1558827-cybersecurite-les-pirates-novices-aussi-automatisent-leurs-attaques/",
+      "url": "https://www.journaldunet.com/cybersecurite/1558827-cybersecurite-les-pirates-novices-aussi-automatisent-leurs-attaques/",
+      "publishedAt": "2026-11-24T16:04:21.000Z",
+      "date": "2026-11-24T16:04:21.000Z",
+      "description": "Cybersécurité: les jeunes pirates se professionnalisent avec l'IA... ChatGPT et autres Gemini. Mais depuis quelques mois, même les script...",
+      "excerpt": "Cybersécurité: les jeunes pirates se professionnalisent avec l'IA... ChatGPT et autres Gemini. Mais depuis quelques mois, même les script...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "J'ai retrouvé Dots, l'assistant personnel de ChatGPT, en France et sans VPN - Clubic.com",
+      "link": "https://www.clubic.com/actualite-640846-j-ai-retrouve-dots-l-assistant-personnel-de-chatgpt-en-france-et-sans-vpn.html",
+      "url": "https://www.clubic.com/actualite-640846-j-ai-retrouve-dots-l-assistant-personnel-de-chatgpt-en-france-et-sans-vpn.html",
+      "publishedAt": "2026-11-24T15:38:14.000Z",
+      "date": "2026-11-24T15:38:14.000Z",
+      "description": "Cybersécurité · Intelligence artificielle · Logiciels & services · PC & Gaming · Mobile & Telecom · TV & Audio · Maison connectée · Cyber Pro by. Mode...",
+      "excerpt": "Cybersécurité · Intelligence artificielle · Logiciels & services · PC & Gaming · Mobile & Telecom · TV & Audio · Maison connectée · Cyber Pro by. Mode...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "GPT-6.2 arrive dans l'onglet Chat de ChatGPT, mais uniquement pour les abonnements payants",
+      "link": "https://www.notebookcheck.biz/GPT-6-2-arrive-dans-l-onglet-Chat-de-ChatGPT-mais-uniquement-pour-les-abonnements-payants.1458868.0.html",
+      "url": "https://www.notebookcheck.biz/GPT-6-2-arrive-dans-l-onglet-Chat-de-ChatGPT-mais-uniquement-pour-les-abonnements-payants.1458868.0.html",
+      "publishedAt": "2026-11-24T15:19:24.000Z",
+      "date": "2026-11-24T15:19:24.000Z",
+      "description": "Depuis le 23 novembre, OpenAI déploie une version de GPT-6.2 \"optimisée pour l'onglet Chat\", selon les notes de version de ChatGPT. Elle est...",
+      "excerpt": "Depuis le 23 novembre, OpenAI déploie une version de GPT-6.2 \"optimisée pour l'onglet Chat\", selon les notes de version de ChatGPT. Elle est...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "ChatGPT passe à GPT-6.2: ce qui change dans vos conversations avec l'IA - Clubic.com",
+      "link": "https://www.clubic.com/actualite-640738-chatgpt-passe-a-gpt-6-2-ce-qui-change-dans-vos-conversations-avec-l-ia.html",
+      "url": "https://www.clubic.com/actualite-640738-chatgpt-passe-a-gpt-6-2-ce-qui-change-dans-vos-conversations-avec-l-ia.html",
+      "publishedAt": "2026-11-24T10:28:29.000Z",
+      "date": "2026-11-24T10:28:29.000Z",
+      "description": "ChatGPT passe à GPT-6.2: ce qui change dans vos conversations avec l'IA. ParChloé ClaessensSpécialiste cybersécurité. Publié le 24 novembre 2026 à...",
+      "excerpt": "ChatGPT passe à GPT-6.2: ce qui change dans vos conversations avec l'IA. ParChloé ClaessensSpécialiste cybersécurité. Publié le 24 novembre 2026 à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Demander à ChatGPT pour qui voter? Comment les partis politiques belges se préparent...",
+      "link": "https://www.sudinfo.be/id1230458/article/2026-11-24/demander-chatgpt-pour-qui-voter-comment-les-partis-politiques-belges-se",
+      "url": "https://www.sudinfo.be/id1230458/article/2026-11-24/demander-chatgpt-pour-qui-voter-comment-les-partis-politiques-belges-se",
+      "publishedAt": "2026-11-24T05:11:31.000Z",
+      "date": "2026-11-24T05:11:31.000Z",
+      "description": "Demander à ChatGPT pour qui voter? Comment les partis politiques... Axel Legay, expert cybersécurité et spécialiste de l'intelligence...",
+      "excerpt": "Demander à ChatGPT pour qui voter? Comment les partis politiques... Axel Legay, expert cybersécurité et spécialiste de l'intelligence...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI déploie GPT-6.2 Sol dans ChatGPT - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-deploie-gpt-6-2-sol-dans-chatgpt-2",
+      "url": "https://www.briefia.fr/article/openai-deploie-gpt-6-2-sol-dans-chatgpt-2",
+      "publishedAt": "2026-11-24T04:12:29.000Z",
+      "date": "2026-11-24T04:12:29.000Z",
+      "description": "... ChatGPT, touchant les... GPT-5.6 Sol se distingue par ses avancées en développement logiciel, cybersécurité et biologie quantitative.",
+      "excerpt": "... ChatGPT, touchant les... GPT-5.6 Sol se distingue par ses avancées en développement logiciel, cybersécurité et biologie quantitative.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI déploie GPT-6.2 Sol dans ChatGPT - Brief IA",
+      "link": "https://www.briefia.fr/article/openai-deploie-gpt-6-2-sol-dans-chatgpt",
+      "url": "https://www.briefia.fr/article/openai-deploie-gpt-6-2-sol-dans-chatgpt",
+      "publishedAt": "2026-11-24T03:17:37.000Z",
+      "date": "2026-11-24T03:17:37.000Z",
+      "description": "Des chiffres limités au chat et des tests de sécurité. Ces mesures concernent exclusivement les échanges en mode chat dans ChatGPT: Work comme Codex...",
+      "excerpt": "Des chiffres limités au chat et des tests de sécurité. Ces mesures concernent exclusivement les échanges en mode chat dans ChatGPT: Work comme Codex...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "ChatGPT: GPT-6.2 Sol débarque dans l'onglet Chat des abonnés Plus, Pro et Business",
+      "link": "https://stephanelarue.com/chatgpt-gpt-6-2-sol-debarque-dans-longlet-chat-des-abonnes-plus-pro-et-business/",
+      "url": "https://stephanelarue.com/chatgpt-gpt-6-2-sol-debarque-dans-longlet-chat-des-abonnes-plus-pro-et-business/",
+      "publishedAt": "2026-11-24T01:51:57.000Z",
+      "date": "2026-11-24T01:51:57.000Z",
+      "description": "Un nouveau modèle de conversation arrive chez les abonnés payants de ChatGPT. Selon les notes de version d'OpenAI, GPT-6.2 Sol est déployé depuis...",
+      "excerpt": "Un nouveau modèle de conversation arrive chez les abonnés payants de ChatGPT. Selon les notes de version d'OpenAI, GPT-6.2 Sol est déployé depuis...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Juan Branco on X: \"@thsottiaux, ChatGPT Work has become literally unusable. You...",
+      "link": "https://x.com/anatolium/status/2124998460089004415",
+      "url": "https://x.com/anatolium/status/2124998460089004415",
+      "publishedAt": "2026-11-24T00:07:39.000Z",
+      "date": "2026-11-24T00:07:39.000Z",
+      "description": "thsottiaux, ChatGPT Work has become literally unusable. You should retract your last update asap.",
+      "excerpt": "thsottiaux, ChatGPT Work has become literally unusable. You should retract your last update asap.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "GPT-6.2 Astra: OpenAI riposte à Claude Fable 5.2 avec une IA plus performante et moins chère",
       "link": "https://idealogeek.fr/gpt-6-2-astra-openai-riposte-a-claude-fable-5-2-avec-une-ia-plus-performante-et-moins-chere/",
@@ -38,96 +128,6 @@
       "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT Voice m'a aidé à réparer mon PC de jeu endommagé, et à éviter...",
       "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT Voice m'a aidé à réparer mon PC de jeu endommagé, et à éviter...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI laisse le grand public à Meta. On devrait s'en inquiéter. - Les Affaires",
-      "link": "https://www.lesaffaires.com/opinions/openai-laisse-le-grand-public-a-meta-on-devrait-sen-inquieter/",
-      "url": "https://www.lesaffaires.com/opinions/openai-laisse-le-grand-public-a-meta-on-devrait-sen-inquieter/",
-      "publishedAt": "2026-11-23T20:37:49.000Z",
-      "date": "2026-11-23T20:37:49.000Z",
-      "description": "ChatGPT est devenu un verbe. Peu de marques y arrivent, et OpenAI est... Cybersécurité. 01 Décembre 2026 · IA appliquée aux...",
-      "excerpt": "ChatGPT est devenu un verbe. Peu de marques y arrivent, et OpenAI est... Cybersécurité. 01 Décembre 2026 · IA appliquée aux...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Black Friday: les experts en cybersécurité sont unanimes, cette erreur très courante lors de...",
-      "link": "https://www.lacremedugaming.fr/high-tech/black-friday-les-experts-en-cybersecurite-sont-unanimes-cette-erreur-tres-courante-lors-de-vos-achats-pourrait-vous-couter-cher-235701.html",
-      "url": "https://www.lacremedugaming.fr/high-tech/black-friday-les-experts-en-cybersecurite-sont-unanimes-cette-erreur-tres-courante-lors-de-vos-achats-pourrait-vous-couter-cher-235701.html",
-      "publishedAt": "2026-11-23T20:06:56.000Z",
-      "date": "2026-11-23T20:06:56.000Z",
-      "description": "Black Friday: les experts en cybersécurité sont unanimes... Jon Hernández, expert en intelligence artificielle: « Les gens utilisent ChatGPT...",
-      "excerpt": "Black Friday: les experts en cybersécurité sont unanimes... Jon Hernández, expert en intelligence artificielle: « Les gens utilisent ChatGPT...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "MEDICA 2026: l'hôpital du futur au cœur des stratégies d'investissement - Le Spécialiste",
-      "link": "https://www.lespecialiste.be/fr/actualites/medica-2026-l-rsquo-hopital-du-futur-au-c-oelig-ur-des-strategies-d-rsquo-investissement.html",
-      "url": "https://www.lespecialiste.be/fr/actualites/medica-2026-l-rsquo-hopital-du-futur-au-c-oelig-ur-des-strategies-d-rsquo-investissement.html",
-      "publishedAt": "2026-11-23T18:28:35.000Z",
-      "date": "2026-11-23T18:28:35.000Z",
-      "description": "La cybersécurité et la continuité des activités hospitalières ont également occupé une place importante.... ChatGPT. 23 novembre 2026 - 10:37...",
-      "excerpt": "La cybersécurité et la continuité des activités hospitalières ont également occupé une place importante.... ChatGPT. 23 novembre 2026 - 10:37...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "À la rue: Ta recherche chatgpt la + chelou: Actualités - Orange Actu",
-      "link": "https://actu.orange.fr/videos/societe/a-la-rue-ta-recherche-chatgpt-la-chelou-CNT000002u11wN.html",
-      "url": "https://actu.orange.fr/videos/societe/a-la-rue-ta-recherche-chatgpt-la-chelou-CNT000002u11wN.html",
-      "publishedAt": "2026-11-23T18:16:49.000Z",
-      "date": "2026-11-23T18:16:49.000Z",
-      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Mise en service... À la rue: Ta recherche chatgpt la + chelou. par LeBonbonOfficiel.",
-      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Mise en service... À la rue: Ta recherche chatgpt la + chelou. par LeBonbonOfficiel.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "L'IA peut-elle aider à planifier des attentats terroristes? Les États-Unis ont testé ChatGPT...",
-      "link": "https://www.zdnet.fr/actualites/lia-peut-elle-aider-a-planifier-des-attentats-terroristes-les-etats-unis-ont-teste-chatgpt-claude-gemini-et-grok-pour-le-savoir-508439.htm",
-      "url": "https://www.zdnet.fr/actualites/lia-peut-elle-aider-a-planifier-des-attentats-terroristes-les-etats-unis-ont-teste-chatgpt-claude-gemini-et-grok-pour-le-savoir-508439.htm",
-      "publishedAt": "2026-11-23T17:38:18.000Z",
-      "date": "2026-11-23T17:38:18.000Z",
-      "description": "J'ai échangé par e-mail avec l'auteur principal du rapport, Kevin Walsh, directeur des audits informatiques et de cybersécurité au GAO. Il a déclaré à...",
-      "excerpt": "J'ai échangé par e-mail avec l'auteur principal du rapport, Kevin Walsh, directeur des audits informatiques et de cybersécurité au GAO. Il a déclaré à...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cyberattaque chez Bell: attention aux fausses factures - Francois Charron",
-      "link": "https://francoischarron.com/gadgets-techno/informations/cyberattaque-chez-bell-attention-aux-fausses-factures/0fzinvr42e/",
-      "url": "https://francoischarron.com/gadgets-techno/informations/cyberattaque-chez-bell-attention-aux-fausses-factures/0fzinvr42e/",
-      "publishedAt": "2026-11-23T14:25:43.000Z",
-      "date": "2026-11-23T14:25:43.000Z",
-      "description": "... ChatGPT. Bell Canada a été victime d'une cyberattaque qui touche aussi des... cybersécurité de Lucky Mobile. On peut aussi vérifier si nos...",
-      "excerpt": "... ChatGPT. Bell Canada a été victime d'une cyberattaque qui touche aussi des... cybersécurité de Lucky Mobile. On peut aussi vérifier si nos...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Selon le GAO, ChatGPT, Claude, Gemini et Grok peuvent générer des plans d'attaque",
-      "link": "https://mezha.net/fr/news/mezha-1ce9d2a6de3f780e4efab717_selon-le-gao-chatgpt-claude-gemini/",
-      "url": "https://mezha.net/fr/news/mezha-1ce9d2a6de3f780e4efab717_selon-le-gao-chatgpt-claude-gemini/",
-      "publishedAt": "2026-11-23T13:53:32.000Z",
-      "date": "2026-11-23T13:53:32.000Z",
-      "description": "Walsh est l'auteur principal du rapport et le directeur des audits informatiques et de cybersécurité au GAO. Il a communiqué ces propos à ZDNET...",
-      "excerpt": "Walsh est l'auteur principal du rapport et le directeur des audits informatiques et de cybersécurité au GAO. Il a communiqué ces propos à ZDNET...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT Space arrive dans Plus: ce que les autres voient sur vos pages partagées",
-      "link": "https://www.notebookcheck.biz/ChatGPT-Space-arrive-dans-Plus-ce-que-les-autres-voient-sur-vos-pages-partagees.1457392.0.html",
-      "url": "https://www.notebookcheck.biz/ChatGPT-Space-arrive-dans-Plus-ce-que-les-autres-voient-sur-vos-pages-partagees.1457392.0.html",
-      "publishedAt": "2026-11-23T12:51:27.000Z",
-      "date": "2026-11-23T12:51:27.000Z",
-      "description": "OpenAI ouvre ChatGPT Space aux abonnés Plus. Les notes de version de ChatGPT du 20 novembre indiquent que Space \"est en cours de déploiement dans le...",
-      "excerpt": "OpenAI ouvre ChatGPT Space aux abonnés Plus. Les notes de version de ChatGPT du 20 novembre indiquent que Space \"est en cours de déploiement dans le...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Votre appli Orange et moi a disparu, Orange l'a remplacée et y a glissé ChatGPT, Gemini et...",
-      "link": "https://www.lesnumeriques.com/mobilite-c17/votre-appli-orange-et-moi-a-disparu-orange-l-a-remplacee-et-y-a-glisse-chatgpt-gemini-et-claude-gratuitement-n268305.html",
-      "url": "https://www.lesnumeriques.com/mobilite-c17/votre-appli-orange-et-moi-a-disparu-orange-l-a-remplacee-et-y-a-glisse-chatgpt-gemini-et-claude-gratuitement-n268305.html",
-      "publishedAt": "2026-11-23T12:36:30.000Z",
-      "date": "2026-11-23T12:36:30.000Z",
-      "description": "Votre appli Orange et moi a disparu, Orange l'a remplacée et y a glissé ChatGPT, Gemini et Claude gratuitement... Les Nums, l' Update. sponsorisé. #04...",
-      "excerpt": "Votre appli Orange et moi a disparu, Orange l'a remplacée et y a glissé ChatGPT, Gemini et Claude gratuitement... Les Nums, l' Update. sponsorisé. #04...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
 }
