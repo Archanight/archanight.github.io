@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T16:43:01.050Z",
+  "generatedAt": "2026-11-25T01:44:59.526Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,56 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "OpenAI Addresses GPT-6 Flattery Without Announcing Its Disappearance - Brief IA",
+      "link": "https://www.briefia.fr/en/article/openai-addresses-gpt-6-flattery-without-announcing-its-disappearance",
+      "url": "https://www.briefia.fr/en/article/openai-addresses-gpt-6-flattery-without-announcing-its-disappearance",
+      "publishedAt": "2026-11-24T23:02:21.000Z",
+      "date": "2026-11-24T23:02:21.000Z",
+      "description": "In April 2025, OpenAI had rolled back an update of GPT-4o following complaints about an overly complacent assistant.... Neither ChatGPT Plus nor...",
+      "excerpt": "In April 2025, OpenAI had rolled back an update of GPT-4o following complaints about an overly complacent assistant.... Neither ChatGPT Plus nor...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "OpenAI retire GPT-5.6 Sol de ChatGPT et de Codex le 23 décembre - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/36499/openai-retire-gpt-5-6-sol-de-chatgpt",
+      "url": "https://pasqualepillitteri.it/fr/news/36499/openai-retire-gpt-5-6-sol-de-chatgpt",
+      "publishedAt": "2026-11-24T20:18:04.000Z",
+      "date": "2026-11-24T20:18:04.000Z",
+      "description": "Dans ChatGPT, Sol était réservé aux formules payantes. D'après les notes de version, Free et Go, comme les utilisateurs non connectés, restaient à...",
+      "excerpt": "Dans ChatGPT, Sol était réservé aux formules payantes. D'après les notes de version, Free et Go, comme les utilisateurs non connectés, restaient à...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth | OpenAI",
+      "link": "https://openai.com/fr-FR/business/customer-stories/intentful-dots/",
+      "url": "https://openai.com/fr-FR/business/customer-stories/intentful-dots/",
+      "publishedAt": "2026-11-24T19:46:50.000Z",
+      "date": "2026-11-24T19:46:50.000Z",
+      "description": "Marina uses the Gmail and Slack plugins in ChatGPT to catch up on... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "excerpt": "Marina uses the Gmail and Slack plugins in ChatGPT to catch up on... Notes de version. Plateforme API. Présentation · Se connecter à l'API...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Le premier hacker de GTA 6 condamné: Actualités - Orange Actu",
+      "link": "https://actu.orange.fr/videos/high-tech/le-premier-hacker-de-gta-6-condamne-CNT000002u1VFt.html",
+      "url": "https://actu.orange.fr/videos/high-tech/le-premier-hacker-de-gta-6-condamne-CNT000002u1VFt.html",
+      "publishedAt": "2026-11-24T17:53:25.000Z",
+      "date": "2026-11-24T17:53:25.000Z",
+      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Black Friday. +... Tous publics. GTA VI repoussé, mort de ChatGPT, iPhone Fold… Nos 10...",
+      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Black Friday. +... Tous publics. GTA VI repoussé, mort de ChatGPT, iPhone Fold… Nos 10...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Le remaniement de l'équipe de cybersécurité de Trump soulève des questions sur la...",
+      "link": "https://mezha.net/fr/news/mezha-ae9dae77efe8442b5223eb6d_le-remaniement-de-l-equipe-de/",
+      "url": "https://mezha.net/fr/news/mezha-ae9dae77efe8442b5223eb6d_le-remaniement-de-l-equipe-de/",
+      "publishedAt": "2026-11-24T17:49:54.000Z",
+      "date": "2026-11-24T17:49:54.000Z",
+      "description": "ChatGPT offre aux utilisateurs Plus un espace de travail à la manière de Google Docs... Le remaniement de l'équipe de cybersécurité de Trump...",
+      "excerpt": "ChatGPT offre aux utilisateurs Plus un espace de travail à la manière de Google Docs... Le remaniement de l'équipe de cybersécurité de Trump...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
     {
       "title": "Cybersécurité: les jeunes pirates se professionnalisent avec l'IA - Journaldunet.com",
       "link": "https://www.journaldunet.com/cybersecurite/1558827-cybersecurite-les-pirates-novices-aussi-automatisent-leurs-attaques/",
@@ -50,6 +100,16 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
+      "title": "ChatGPT passe à GPT-6.2 Sol et retire GPT-5.6 Sol le 23 décembre - MACCUS",
+      "link": "https://maccus.fr/chatgpt-gpt-6-2-sol/",
+      "url": "https://maccus.fr/chatgpt-gpt-6-2-sol/",
+      "publishedAt": "2026-11-24T09:37:13.000Z",
+      "date": "2026-11-24T09:37:13.000Z",
+      "description": "Données: OpenAI, notes de version de ChatGPT, 23 novembre 2026. Côté... Le 12 juin, en retirant GPT-5.2, OpenAI indiquait que ses modèles...",
+      "excerpt": "Données: OpenAI, notes de version de ChatGPT, 23 novembre 2026. Côté... Le 12 juin, en retirant GPT-5.2, OpenAI indiquait que ses modèles...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
       "title": "Demander à ChatGPT pour qui voter? Comment les partis politiques belges se préparent...",
       "link": "https://www.sudinfo.be/id1230458/article/2026-11-24/demander-chatgpt-pour-qui-voter-comment-les-partis-politiques-belges-se",
       "url": "https://www.sudinfo.be/id1230458/article/2026-11-24/demander-chatgpt-pour-qui-voter-comment-les-partis-politiques-belges-se",
@@ -67,66 +127,6 @@
       "date": "2026-11-24T04:12:29.000Z",
       "description": "... ChatGPT, touchant les... GPT-5.6 Sol se distingue par ses avancées en développement logiciel, cybersécurité et biologie quantitative.",
       "excerpt": "... ChatGPT, touchant les... GPT-5.6 Sol se distingue par ses avancées en développement logiciel, cybersécurité et biologie quantitative.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI déploie GPT-6.2 Sol dans ChatGPT - Brief IA",
-      "link": "https://www.briefia.fr/article/openai-deploie-gpt-6-2-sol-dans-chatgpt",
-      "url": "https://www.briefia.fr/article/openai-deploie-gpt-6-2-sol-dans-chatgpt",
-      "publishedAt": "2026-11-24T03:17:37.000Z",
-      "date": "2026-11-24T03:17:37.000Z",
-      "description": "Des chiffres limités au chat et des tests de sécurité. Ces mesures concernent exclusivement les échanges en mode chat dans ChatGPT: Work comme Codex...",
-      "excerpt": "Des chiffres limités au chat et des tests de sécurité. Ces mesures concernent exclusivement les échanges en mode chat dans ChatGPT: Work comme Codex...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "ChatGPT: GPT-6.2 Sol débarque dans l'onglet Chat des abonnés Plus, Pro et Business",
-      "link": "https://stephanelarue.com/chatgpt-gpt-6-2-sol-debarque-dans-longlet-chat-des-abonnes-plus-pro-et-business/",
-      "url": "https://stephanelarue.com/chatgpt-gpt-6-2-sol-debarque-dans-longlet-chat-des-abonnes-plus-pro-et-business/",
-      "publishedAt": "2026-11-24T01:51:57.000Z",
-      "date": "2026-11-24T01:51:57.000Z",
-      "description": "Un nouveau modèle de conversation arrive chez les abonnés payants de ChatGPT. Selon les notes de version d'OpenAI, GPT-6.2 Sol est déployé depuis...",
-      "excerpt": "Un nouveau modèle de conversation arrive chez les abonnés payants de ChatGPT. Selon les notes de version d'OpenAI, GPT-6.2 Sol est déployé depuis...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Juan Branco on X: \"@thsottiaux, ChatGPT Work has become literally unusable. You...",
-      "link": "https://x.com/anatolium/status/2124998460089004415",
-      "url": "https://x.com/anatolium/status/2124998460089004415",
-      "publishedAt": "2026-11-24T00:07:39.000Z",
-      "date": "2026-11-24T00:07:39.000Z",
-      "description": "thsottiaux, ChatGPT Work has become literally unusable. You should retract your last update asap.",
-      "excerpt": "thsottiaux, ChatGPT Work has become literally unusable. You should retract your last update asap.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "GPT-6.2 Astra: OpenAI riposte à Claude Fable 5.2 avec une IA plus performante et moins chère",
-      "link": "https://idealogeek.fr/gpt-6-2-astra-openai-riposte-a-claude-fable-5-2-avec-une-ia-plus-performante-et-moins-chere/",
-      "url": "https://idealogeek.fr/gpt-6-2-astra-openai-riposte-a-claude-fable-5-2-avec-une-ia-plus-performante-et-moins-chere/",
-      "publishedAt": "2026-11-23T22:50:52.000Z",
-      "date": "2026-11-23T22:50:52.000Z",
-      "description": "— ChatGPT (@ ChatGPT ) November 17, 2026. L'un des changements concerne la... Une réserve demeure: les nouvelles protections de cybersécurité limitent...",
-      "excerpt": "— ChatGPT (@ ChatGPT ) November 17, 2026. L'un des changements concerne la... Une réserve demeure: les nouvelles protections de cybersécurité limitent...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le Tech Flash: Nvidia réintègre Jensen Huang par Léa Benaim - 23/11 - Orange Actu",
-      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-nvidia-reintegre-jensen-huang-par-lea-benaim-23-11-CNT000002u15ZL.html",
-      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-nvidia-reintegre-jensen-huang-par-lea-benaim-23-11-CNT000002u15ZL.html",
-      "publishedAt": "2026-11-23T21:17:46.000Z",
-      "date": "2026-11-23T21:17:46.000Z",
-      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Mise en service... ChatGPT, par Léa Benaim - 05/03. Tous publics. Le Tech Flash: la pub...",
-      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Mise en service... ChatGPT, par Léa Benaim - 05/03. Tous publics. Le Tech Flash: la pub...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "4 Etats rejoignent le centre français pour l'IA de défense - ZDNET",
-      "link": "https://www.zdnet.fr/actualites/4-etats-rejoignent-le-centre-francais-pour-lia-de-defense-508427.htm",
-      "url": "https://www.zdnet.fr/actualites/4-etats-rejoignent-le-centre-francais-pour-lia-de-defense-508427.htm",
-      "publishedAt": "2026-11-23T20:47:14.000Z",
-      "date": "2026-11-23T20:47:14.000Z",
-      "description": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT Voice m'a aidé à réparer mon PC de jeu endommagé, et à éviter...",
-      "excerpt": "Cybersécurité · Cyberattaque · Ransomware · Virus · Authentification... ChatGPT Voice m'a aidé à réparer mon PC de jeu endommagé, et à éviter...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
