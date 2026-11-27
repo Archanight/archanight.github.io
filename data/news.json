@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:01:08.923Z",
+  "generatedAt": "2026-11-27T01:16:57.077Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -10,6 +10,76 @@
   "failedSources": [],
   "items": [
     {
+      "title": "Des chercheurs dévoilent un canal caché entre IA isolées sur vLLM - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/36959/des-chercheurs-devoilent-un-canal-cache-entre-ia-isolees",
+      "url": "https://pasqualepillitteri.it/fr/news/36959/des-chercheurs-devoilent-un-canal-cache-entre-ia-isolees",
+      "publishedAt": "2026-11-26T22:40:49.000Z",
+      "date": "2026-11-26T22:40:49.000Z",
+      "description": "Cloud et DevOps · Outils IA & Avis... ChatGPT · Matériel et PC · Apple...",
+      "excerpt": "Cloud et DevOps · Outils IA & Avis... ChatGPT · Matériel et PC · Apple...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "OpenAI ajoute 9 nouveaux indicateurs à ChatGPT Ads et ouvre ses Business Agents hors...",
+      "link": "https://www.mntd.fr/openai-ajoute-9-nouveaux-indicateurs-a-chatgpt-ads-et-ouvre-ses-business-agents-hors-des-etats-unis/",
+      "url": "https://www.mntd.fr/openai-ajoute-9-nouveaux-indicateurs-a-chatgpt-ads-et-ouvre-ses-business-agents-hors-des-etats-unis/",
+      "publishedAt": "2026-11-26T19:05:41.000Z",
+      "date": "2026-11-26T19:05:41.000Z",
+      "description": "« ChatGPT Ads Product Update ». Dans un e-mail envoyé le 25 novembre au marché et analysé par PPC Land, OpenAI annonce plusieurs évolutions...",
+      "excerpt": "« ChatGPT Ads Product Update ». Dans un e-mail envoyé le 25 novembre au marché et analysé par PPC Land, OpenAI annonce plusieurs évolutions...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Vous demandez des conseils médicaux à ChatGPT? Attention, l'IA risque de - 01net.com",
+      "link": "https://www.01net.com/actualites/vous-demandez-des-conseils-medicaux-a-chatgpt-attention-lia-risque-de-vous-mettre-en-danger.html",
+      "url": "https://www.01net.com/actualites/vous-demandez-des-conseils-medicaux-a-chatgpt-attention-lia-risque-de-vous-mettre-en-danger.html",
+      "publishedAt": "2026-11-26T17:30:36.000Z",
+      "date": "2026-11-26T17:30:36.000Z",
+      "description": "Vous demandez des conseils médicaux à ChatGPT? Attention, l'IA... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
+      "excerpt": "Vous demandez des conseils médicaux à ChatGPT? Attention, l'IA... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Cybersécurité: 28,5 % des offres demandent des compétences IA - Brief IA",
+      "link": "https://www.briefia.fr/article/cybersecurite-28-5-des-offres-demandent-des-competences-ia",
+      "url": "https://www.briefia.fr/article/cybersecurite-28-5-des-offres-demandent-des-competences-ia",
+      "publishedAt": "2026-11-26T17:24:35.000Z",
+      "date": "2026-11-26T17:24:35.000Z",
+      "description": "Cybersécurité: 28,5 % des offres... Audience professionnelle française · Référencé Google News · Cité par ChatGPT, Claude et Perplexity",
+      "excerpt": "Cybersécurité: 28,5 % des offres... Audience professionnelle française · Référencé Google News · Cité par ChatGPT, Claude et Perplexity",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "\"Manger du moisi, c'est grave?\": quand les réponses de l'IA embolisent les centres antipoison",
+      "link": "https://actu.orange.fr/france/quot-manger-du-moisi-c-est-grave-quot-quand-les-reponses-de-l-ia-embolisent-les-centres-antipoison-CNT000002u3WmG.html",
+      "url": "https://actu.orange.fr/france/quot-manger-du-moisi-c-est-grave-quot-quand-les-reponses-de-l-ia-embolisent-les-centres-antipoison-CNT000002u3WmG.html",
+      "publishedAt": "2026-11-26T16:17:54.000Z",
+      "date": "2026-11-26T16:17:54.000Z",
+      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Mise en service... ChatGPT et Claude, pour leur demander d'oeuvrer à améliorer les...",
+      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Mise en service... ChatGPT et Claude, pour leur demander d'oeuvrer à améliorer les...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Conseils médicaux de l'IA: l'Agence du médicament rapporte huit cas d'effets... - Libération",
+      "link": "https://www.liberation.fr/societe/sante/conseils-medicaux-de-lia-lagence-du-medicament-rapporte-huit-cas-deffets-indesirables-dont-une-hospitalisation-20261125_7OC3UPH5PBBG3ECEKECUKTTMN4/",
+      "url": "https://www.liberation.fr/societe/sante/conseils-medicaux-de-lia-lagence-du-medicament-rapporte-huit-cas-deffets-indesirables-dont-une-hospitalisation-20261125_7OC3UPH5PBBG3ECEKECUKTTMN4/",
+      "publishedAt": "2026-11-26T15:11:58.000Z",
+      "date": "2026-11-26T15:11:58.000Z",
+      "description": "Alors pourquoi ne pas glisser une question à ChatGPT, pour un avis rapide, et peut-être trouver comment se soulager? Le réflexe se répand. Et l...",
+      "excerpt": "Alors pourquoi ne pas glisser une question à ChatGPT, pour un avis rapide, et peut-être trouver comment se soulager? Le réflexe se répand. Et l...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "SpaceX confirme deux actions offertes aux enfants dotés d'un compte Trump actif",
+      "link": "https://pasqualepillitteri.it/fr/news/36917/spacex-confirme-deux-actions-offertes-aux-enfants",
+      "url": "https://pasqualepillitteri.it/fr/news/36917/spacex-confirme-deux-actions-offertes-aux-enfants",
+      "publishedAt": "2026-11-26T14:45:21.000Z",
+      "date": "2026-11-26T14:45:21.000Z",
+      "description": "OpenAI · Amazon · Google · Cloud et DevOps... ChatGPT · Matériel et PC · Apple · Finance...",
+      "excerpt": "OpenAI · Amazon · Google · Cloud et DevOps... ChatGPT · Matériel et PC · Apple · Finance...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
       "title": "Vous demandez à ChatGPT quels médicaments prendre? Pourquoi les autorités sanitaires... - RTL",
       "link": "https://www.rtl.fr/actu/sante/vous-demandez-a-chatgpt-quels-medicaments-prendre-pourquoi-les-autorites-sanitaires-appellent-a-la-prudence-7900700977",
       "url": "https://www.rtl.fr/actu/sante/vous-demandez-a-chatgpt-quels-medicaments-prendre-pourquoi-les-autorites-sanitaires-appellent-a-la-prudence-7900700977",
@@ -18,6 +88,16 @@
       "description": "Vous demandez à ChatGPT quels médicaments prendre? Pourquoi les... \"Doctolib est meilleur en cybersécurité que l'État\": sur RTL, le...",
       "excerpt": "Vous demandez à ChatGPT quels médicaments prendre? Pourquoi les... \"Doctolib est meilleur en cybersécurité que l'État\": sur RTL, le...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Les utilisateurs de ChatGPT atteignent leurs limites jusqu'à 40 % plus tôt après une...",
+      "link": "https://www.notebookcheck.biz/Les-utilisateurs-de-ChatGPT-atteignent-leurs-limites-jusqu-a-40-plus-tot-apres-une-correction-de-la-facturation-par-OpenAI.1460712.0.html",
+      "url": "https://www.notebookcheck.biz/Les-utilisateurs-de-ChatGPT-atteignent-leurs-limites-jusqu-a-40-plus-tot-apres-une-correction-de-la-facturation-par-OpenAI.1460712.0.html",
+      "publishedAt": "2026-11-26T14:09:10.000Z",
+      "date": "2026-11-26T14:09:10.000Z",
+      "description": "Au lancement, OpenAI a sous-estimé l'utilisation de GPT-6.2 Astra et Sol. Depuis la correction, les utilisateurs de ChatGPT et de Codex atteignent...",
+      "excerpt": "Au lancement, OpenAI a sous-estimé l'utilisation de GPT-6.2 Astra et Sol. Depuis la correction, les utilisateurs de ChatGPT et de Codex atteignent...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     },
     {
       "title": "Même avec un abonnement payant, ChatGPT peut encore vous raconter n'importe quoi",
@@ -40,93 +120,13 @@
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
-      "title": "ChatGPT et Codex vont partager les limites d'utilisation, qu'est-ce que ça va changer?",
-      "link": "https://www.clubic.com/actualite-641170-chatgpt-et-codex-vont-partager-les-limites-d-utilisation-qu-est-ce-que-ca-va-changer.html",
-      "url": "https://www.clubic.com/actualite-641170-chatgpt-et-codex-vont-partager-les-limites-d-utilisation-qu-est-ce-que-ca-va-changer.html",
-      "publishedAt": "2026-11-26T11:21:55.000Z",
-      "date": "2026-11-26T11:21:55.000Z",
-      "description": "Cybersécurité · Intelligence artificielle · Logiciels & services · PC... ChatGPT et Codex vont partager les limites d'utilisation, qu'est-ce que...",
-      "excerpt": "Cybersécurité · Intelligence artificielle · Logiciels & services · PC... ChatGPT et Codex vont partager les limites d'utilisation, qu'est-ce que...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Résiliation de ChatGPT, une association de consommateurs poursuit OpenAI",
-      "link": "https://pasqualepillitteri.it/fr/news/36842/resiliation-de-chatgpt-une-association-de-consommateurs-poursuit-openai",
-      "url": "https://pasqualepillitteri.it/fr/news/36842/resiliation-de-chatgpt-une-association-de-consommateurs-poursuit-openai",
-      "publishedAt": "2026-11-26T09:22:19.000Z",
-      "date": "2026-11-26T09:22:19.000Z",
-      "description": "Cloud et DevOps · Outils IA & Avis... OpenAI Actualités IA & Tendances Droit & Réglementation ChatGPT ChatGPT OpenAI résiliation ChatGPT abonnement...",
-      "excerpt": "Cloud et DevOps · Outils IA & Avis... OpenAI Actualités IA & Tendances Droit & Réglementation ChatGPT ChatGPT OpenAI résiliation ChatGPT abonnement...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI prépare le démantèlement de GPT-5.6 le 23 décembre, GPT-6.2 Sol devient le successeur",
-      "link": "https://voi.id/fr/teknologi/603962/openai-siapkan-pensiunkan-gpt-5-6-pada-23-desember-gpt-6-2-sol-jadi-pengganti",
-      "url": "https://voi.id/fr/teknologi/603962/openai-siapkan-pensiunkan-gpt-5-6-pada-23-desember-gpt-6-2-sol-jadi-pengganti",
-      "publishedAt": "2026-11-25T22:20:27.000Z",
-      "date": "2026-11-25T22:20:27.000Z",
-      "description": "... ChatGPT. (foto:dok. chatgpt ). JAKARTA - OpenAI a commencé à proposer GPT... cybersécurité. Le lancement de GPT-6.2 Sol dans le Chat a eu lieu...",
-      "excerpt": "... ChatGPT. (foto:dok. chatgpt ). JAKARTA - OpenAI a commencé à proposer GPT... cybersécurité. Le lancement de GPT-6.2 Sol dans le Chat a eu lieu...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Le Tech Flash: Nvidia, nouvelles révélations sur Alice Huang, par Léa Benaim - 25/11",
-      "link": "https://actu.orange.fr/videos/economie/le-tech-flash-nvidia-nouvelles-revelations-sur-alice-huang-par-lea-benaim-25-11-CNT000002u3ncA.html",
-      "url": "https://actu.orange.fr/videos/economie/le-tech-flash-nvidia-nouvelles-revelations-sur-alice-huang-par-lea-benaim-25-11-CNT000002u3ncA.html",
-      "publishedAt": "2026-11-25T20:09:17.000Z",
-      "date": "2026-11-25T20:09:17.000Z",
-      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Mise en service... ChatGPT, par Léa Benaim - 05/03. Tous publics. Le Tech Flash: \"Olala...",
-      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Mise en service... ChatGPT, par Léa Benaim - 05/03. Tous publics. Le Tech Flash: \"Olala...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "GPT-6.2 ChatGPT: nouveautés, forfaits et prix en FCFA - Tech Tools Afrique",
-      "link": "https://tech-toolsafrique.com/gpt-6-2-chatgpt/",
-      "url": "https://tech-toolsafrique.com/gpt-6-2-chatgpt/",
-      "publishedAt": "2026-11-25T19:35:04.000Z",
-      "date": "2026-11-25T19:35:04.000Z",
-      "description": "Ce guide fait le point à partir des notes de version d'OpenAI et des premiers comptes rendus de la presse tech. Application ChatGPT ouverte sur un...",
-      "excerpt": "Ce guide fait le point à partir des notes de version d'OpenAI et des premiers comptes rendus de la presse tech. Application ChatGPT ouverte sur un...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Comment ChatGPT a réalisé une \"découverte historique majeure\" en 22 minutes",
-      "link": "https://www.phonandroid.com/comment-chatgpt-a-realise-une-decouverte-historique-majeure-en-22-minutes.html",
-      "url": "https://www.phonandroid.com/comment-chatgpt-a-realise-une-decouverte-historique-majeure-en-22-minutes.html",
-      "publishedAt": "2026-11-25T18:52:19.000Z",
-      "date": "2026-11-25T18:52:19.000Z",
-      "description": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Comment ChatGPT a réalisé une “découverte historique majeure” en 22...",
-      "excerpt": "Cybersécurité · eSIM avec · Streaming · IA · Actualités · Forum · Bien-être... Comment ChatGPT a réalisé une “découverte historique majeure” en 22...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Qu'est-ce qu'Artex, ce logiciel d'intrusion dopé à l'IA qui fait trembler le monde de la cybersécurité",
-      "link": "https://www.liberation.fr/checknews/quest-ce-quartex-ce-logiciel-dintrusion-dope-a-lia-qui-fait-trembler-le-monde-de-la-cybersecurite-20261125_BW7WXDE3UNBTDP5DEABGHFJWFI/",
-      "url": "https://www.liberation.fr/checknews/quest-ce-quartex-ce-logiciel-dintrusion-dope-a-lia-qui-fait-trembler-le-monde-de-la-cybersecurite-20261125_BW7WXDE3UNBTDP5DEABGHFJWFI/",
-      "publishedAt": "2026-11-25T18:26:55.000Z",
-      "date": "2026-11-25T18:26:55.000Z",
-      "description": "Qu'est-ce qu'Artex, ce logiciel d'intrusion dopé à l'IA qui fait trembler le monde de la cybersécurité?... ChatGPT,. Réservé aux abonnés. Connexion.",
-      "excerpt": "Qu'est-ce qu'Artex, ce logiciel d'intrusion dopé à l'IA qui fait trembler le monde de la cybersécurité?... ChatGPT,. Réservé aux abonnés. Connexion.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Panne ChatGPT: l'IA est totalement indisponible, que se passe-t-il chez OpenAI",
-      "link": "https://www.buzzarena.com/panne-chatgpt-lia-est-totalement-indisponible-que-se-passe-t-il-chez-openai-4568713",
-      "url": "https://www.buzzarena.com/panne-chatgpt-lia-est-totalement-indisponible-que-se-passe-t-il-chez-openai-4568713",
-      "publishedAt": "2026-11-25T18:12:18.000Z",
-      "date": "2026-11-25T18:12:18.000Z",
-      "description": "Depuis environ 12 heures ce 25 novembre, ChatGPT rencontre des problèmes un peu partout à travers le monde. Les signalement explosent depuis chez.",
-      "excerpt": "Depuis environ 12 heures ce 25 novembre, ChatGPT rencontre des problèmes un peu partout à travers le monde. Les signalement explosent depuis chez.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Cynoia launches Hannibal AI, a workplace AI assistant built in Africa - SocialNetLink",
-      "link": "https://www.socialnetlink.org/2026/11/25/cynoia-hannibal-ai-workplace-assistant-african-teams/",
-      "url": "https://www.socialnetlink.org/2026/11/25/cynoia-hannibal-ai-workplace-assistant-african-teams/",
-      "publishedAt": "2026-11-25T16:42:42.000Z",
-      "date": "2026-11-25T16:42:42.000Z",
-      "description": "The update adds Hannibal AI, an artificial intelligence assistant... an MCP connector lets Claude, ChatGPT or Cursor access the workspace, subject to...",
-      "excerpt": "The update adds Hannibal AI, an artificial intelligence assistant... an MCP connector lets Claude, ChatGPT or Cursor access the workspace, subject to...",
+      "title": "Il suit les conseils juridiques de ChatGPT et perd son logement: un Danois de 60 ans...",
+      "link": "https://www.lesnumeriques.com/intelligence-artificielle/il-suit-les-conseils-juridiques-de-chatgpt-et-perd-son-logement-un-danois-de-60-ans-attaque-openai-n268583.html",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/il-suit-les-conseils-juridiques-de-chatgpt-et-perd-son-logement-un-danois-de-60-ans-attaque-openai-n268583.html",
+      "publishedAt": "2026-11-26T12:28:22.000Z",
+      "date": "2026-11-26T12:28:22.000Z",
+      "description": "Ses avocats, du cabinet Clarkson, ont compté plus de 41 000 messages échangés en 641 heures, d'abord avec GPT-4o puis avec GPT-5.... ChatGPT / GPT-4.",
+      "excerpt": "Ses avocats, du cabinet Clarkson, ont compté plus de 41 000 messages échangés en 641 heures, d'abord avec GPT-4o puis avec GPT-5.... ChatGPT / GPT-4.",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
     }
   ]
