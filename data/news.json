@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T15:50:38.910Z",
+  "generatedAt": "2026-11-28T00:51:11.393Z",
   "sources": [
     "https://www.google.fr/alerts/feeds/08396268160163584311/3684539829631735690",
     "https://www.google.fr/alerts/feeds/08396268160163584311/14055474122595071547",
@@ -9,6 +9,46 @@
   ],
   "failedSources": [],
   "items": [
+    {
+      "title": "Quand arrive la mise à jour de Noël Tesla 2026 et à quoi s'attendre - Pasquale Pillitteri",
+      "link": "https://pasqualepillitteri.it/fr/news/37235/mise-a-jour-noel-tesla-2026-date-sortie",
+      "url": "https://pasqualepillitteri.it/fr/news/37235/mise-a-jour-noel-tesla-2026-date-sortie",
+      "publishedAt": "2026-11-27T22:11:35.000Z",
+      "date": "2026-11-27T22:11:35.000Z",
+      "description": "ChatGPT · Matériel et PC · Apple · Finance · Nvidia · Télémédecine...",
+      "excerpt": "ChatGPT · Matériel et PC · Apple · Finance · Nvidia · Télémédecine...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Le créateur de ChatGPT accuse Apple de vol de secrets et de pressions sur ses fournisseurs",
+      "link": "https://actu.orange.fr/societe/high-tech/le-createur-de-chatgpt-accuse-apple-de-vol-de-secrets-et-de-pressions-sur-ses-fournisseurs-CNT000002u5t3A.html",
+      "url": "https://actu.orange.fr/societe/high-tech/le-createur-de-chatgpt-accuse-apple-de-vol-de-secrets-et-de-pressions-sur-ses-fournisseurs-CNT000002u5t3A.html",
+      "publishedAt": "2026-11-27T21:38:11.000Z",
+      "date": "2026-11-27T21:38:11.000Z",
+      "description": "Cybersécurité et Télésurveillance; Tech et Accessoires. Black Friday. +... Le créateur de ChatGPT accuse Apple de vol de secrets et de pressions sur...",
+      "excerpt": "Cybersécurité et Télésurveillance; Tech et Accessoires. Black Friday. +... Le créateur de ChatGPT accuse Apple de vol de secrets et de pressions sur...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "Windows 11 distribue des pilotes Intel obsolètes et vulnérables via Windows Update",
+      "link": "https://www.clubic.com/actualite-641263-windows-update-repropose-un-pilote-intel-que-microsoft-defender-juge-vulnerable-meme-apres-sa-suppression.html",
+      "url": "https://www.clubic.com/actualite-641263-windows-update-repropose-un-pilote-intel-que-microsoft-defender-juge-vulnerable-meme-apres-sa-suppression.html",
+      "publishedAt": "2026-11-27T15:52:32.000Z",
+      "date": "2026-11-27T15:52:32.000Z",
+      "description": "Microsoft Defender signale un pilote Intel comme vulnérable, mais Windows Update continue de le distribuer... Voici comment demander à ChatGPT ou...",
+      "excerpt": "Microsoft Defender signale un pilote Intel comme vulnérable, mais Windows Update continue de le distribuer... Voici comment demander à ChatGPT ou...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
+    {
+      "title": "Abonnements à l'IA pendant le Black Friday: quelles réductions sont réelles",
+      "link": "https://www.notebookcheck.biz/Abonnements-a-l-IA-pendant-le-Black-Friday-quelles-reductions-sont-reelles.1461476.0.html",
+      "url": "https://www.notebookcheck.biz/Abonnements-a-l-IA-pendant-le-Black-Friday-quelles-reductions-sont-reelles.1461476.0.html",
+      "publishedAt": "2026-11-27T15:19:14.000Z",
+      "date": "2026-11-27T15:19:14.000Z",
+      "description": "Les sites de bons plans annoncent des réductions pour le Black Friday sur ChatGPT, Claude et Grok, mais les éditeurs eux-mêmes en proposent...",
+      "excerpt": "Les sites de bons plans annoncent des réductions pour le Black Friday sur ChatGPT, Claude et Grok, mais les éditeurs eux-mêmes en proposent...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
+    },
     {
       "title": "Votre cabinet est-il cité par ChatGPT? Ce que le GEO permet à l'avocat et les cinq lignes...",
       "link": "https://www.village-justice.com/articles/votre-cabinet-est-cite-par-chatgpt-que-geo-permet-avocat-les-cinq-lignes-rouges,60297.html",
@@ -27,6 +67,16 @@
       "date": "2026-11-27T13:07:42.000Z",
       "description": "Les skills de Steph Ango deviennent un plugin officiel d'Obsidian pour Claude, ChatGPT ou Cursor... Les métiers de la Cybersécurité et de l'...",
       "excerpt": "Les skills de Steph Ango deviennent un plugin officiel d'Obsidian pour Claude, ChatGPT ou Cursor... Les métiers de la Cybersécurité et de l'...",
+      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
+    },
+    {
+      "title": "5 solutions d'IA qui renforcent la cybersécurité en 2026 - Brief IA",
+      "link": "https://www.briefia.fr/blog/5-solutions-ia-cybersecurite-2026",
+      "url": "https://www.briefia.fr/blog/5-solutions-ia-cybersecurite-2026",
+      "publishedAt": "2026-11-27T12:09:38.000Z",
+      "date": "2026-11-27T12:09:38.000Z",
+      "description": "# cybersécurité #intelligence artificielle#sécurité informatique# SOC... Audience professionnelle française · Référencé Google News · Cité par ChatGPT,...",
+      "excerpt": "# cybersécurité #intelligence artificielle#sécurité informatique# SOC... Audience professionnelle française · Référencé Google News · Cité par ChatGPT,...",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     },
     {
@@ -77,56 +127,6 @@
       "date": "2026-11-26T22:40:49.000Z",
       "description": "Cloud et DevOps · Outils IA & Avis... ChatGPT · Matériel et PC · Apple...",
       "excerpt": "Cloud et DevOps · Outils IA & Avis... ChatGPT · Matériel et PC · Apple...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "OpenAI ajoute 9 nouveaux indicateurs à ChatGPT Ads et ouvre ses Business Agents hors...",
-      "link": "https://www.mntd.fr/openai-ajoute-9-nouveaux-indicateurs-a-chatgpt-ads-et-ouvre-ses-business-agents-hors-des-etats-unis/",
-      "url": "https://www.mntd.fr/openai-ajoute-9-nouveaux-indicateurs-a-chatgpt-ads-et-ouvre-ses-business-agents-hors-des-etats-unis/",
-      "publishedAt": "2026-11-26T19:05:41.000Z",
-      "date": "2026-11-26T19:05:41.000Z",
-      "description": "« ChatGPT Ads Product Update ». Dans un e-mail envoyé le 25 novembre au marché et analysé par PPC Land, OpenAI annonce plusieurs évolutions...",
-      "excerpt": "« ChatGPT Ads Product Update ». Dans un e-mail envoyé le 25 novembre au marché et analysé par PPC Land, OpenAI annonce plusieurs évolutions...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "OpenAI revient sur les restrictions d'usage Pro avant l'introduction des limites par tokens de ChatGPT",
-      "link": "https://www.cryptopolitan.com/fr/openai-reverses-pro-usage-cuts-ahead-of-token-based-chatgpt-limits/",
-      "url": "https://www.cryptopolitan.com/fr/openai-reverses-pro-usage-cuts-ahead-of-token-based-chatgpt-limits/",
-      "publishedAt": "2026-11-26T18:56:09.000Z",
-      "date": "2026-11-26T18:56:09.000Z",
-      "description": "OpenAI a confirmé dans ses notes de publication du 29 octobre 2026, release notes qu'elle ne réduirait plus les limites d'utilisation pour son plan...",
-      "excerpt": "OpenAI a confirmé dans ses notes de publication du 29 octobre 2026, release notes qu'elle ne réduirait plus les limites d'utilisation pour son plan...",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Goingbus: Discounted Subscriptions - YouTube",
-      "link": "https://www.youtube.com/watch?v=DLlpH8LpCN8",
-      "url": "https://www.youtube.com/watch?v=DLlpH8LpCN8",
-      "publishedAt": "2026-11-26T18:06:33.000Z",
-      "date": "2026-11-26T18:06:33.000Z",
-      "description": "Marre de payer tous tes abonnements plein pot? • Netflix, Spotify, ChatGPT... Republicans make DEVASTATING announcement about 2028. Brian Tyler Cohen.",
-      "excerpt": "Marre de payer tous tes abonnements plein pot? • Netflix, Spotify, ChatGPT... Republicans make DEVASTATING announcement about 2028. Brian Tyler Cohen.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"GPT-5.2\") (update OR release OR announcement OR \"release notes\" OR \"notes de version\")"
-    },
-    {
-      "title": "Vous demandez des conseils médicaux à ChatGPT? Attention, l'IA risque de - 01net.com",
-      "link": "https://www.01net.com/actualites/vous-demandez-des-conseils-medicaux-a-chatgpt-attention-lia-risque-de-vous-mettre-en-danger.html",
-      "url": "https://www.01net.com/actualites/vous-demandez-des-conseils-medicaux-a-chatgpt-attention-lia-risque-de-vous-mettre-en-danger.html",
-      "publishedAt": "2026-11-26T17:30:36.000Z",
-      "date": "2026-11-26T17:30:36.000Z",
-      "description": "Vous demandez des conseils médicaux à ChatGPT? Attention, l'IA... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "excerpt": "Vous demandez des conseils médicaux à ChatGPT? Attention, l'IA... Cybersécurité · Société · Télécoms · Auto · Médias · Politique & Droits · Sciences.",
-      "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
-    },
-    {
-      "title": "Cybersécurité: 28,5 % des offres demandent des compétences IA - Brief IA",
-      "link": "https://www.briefia.fr/article/cybersecurite-28-5-des-offres-demandent-des-competences-ia",
-      "url": "https://www.briefia.fr/article/cybersecurite-28-5-des-offres-demandent-des-competences-ia",
-      "publishedAt": "2026-11-26T17:24:35.000Z",
-      "date": "2026-11-26T17:24:35.000Z",
-      "description": "Cybersécurité: 28,5 % des offres... Audience professionnelle française · Référencé Google News · Cité par ChatGPT, Claude et Perplexity",
-      "excerpt": "Cybersécurité: 28,5 % des offres... Audience professionnelle française · Référencé Google News · Cité par ChatGPT, Claude et Perplexity",
       "source": "Alerte Google: (\"ChatGPT\" OR \"GPT-5\" OR \"GPT-5.2\") (sysadmin OR \"administration système\" OR SISR OR DevOps OR SRE OR \"cybersécurité\" OR SOC OR \"incident response\")"
     }
   ]
